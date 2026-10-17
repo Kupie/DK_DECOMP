@@ -1,0 +1,1070 @@
+[gd_scene load_steps=17 format=3 uid="uid://4ou0hpjalrv"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://systems/options/OptionsPanel.gd" id="2"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="3"]
+[ext_resource type="FontVariation" uid="uid://g3vbmmqhudaf" path="res://gui/fonts/FontHeading.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://b5aow2qb2h3pe" path="res://gui/fontsettings/HeadingFontSettings.tres" id="5"]
+[ext_resource type="FontVariation" uid="uid://c5l04pe7y0aer" path="res://gui/fonts/FontLarge.tres" id="6"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="7"]
+[ext_resource type="Script" path="res://systems/options/Languages.gd" id="8"]
+[ext_resource type="FontVariation" uid="uid://cmphosyxqvcqp" path="res://gui/fonts/FontSmall.tres" id="9"]
+[ext_resource type="LabelSettings" uid="uid://qsc7kngg06e5" path="res://gui/fontsettings/SmallFontSettings.tres" id="10"]
+[ext_resource type="AudioStream" uid="uid://bn0ccd33g48cw" path="res://content/sounds/Combat Punch 5.wav" id="11"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="12"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_f6jd1"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_35uvs"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_ksxea"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_8pa2q"]
+
+[node name="OptionsPanel" type="CenterContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+layout_mode = 2
+mouse_filter = 2
+theme_override_styles/panel = ExtResource("3")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="PanelContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "options.title"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="CategoriesList" type="HBoxContainer" parent="PanelContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 32
+
+[node name="QACategoryButton" type="Button" parent="PanelContainer/VBoxContainer/CategoriesList"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_f6jd1")
+text = "QA"
+
+[node name="GameCategoryButton" type="Button" parent="PanelContainer/VBoxContainer/CategoriesList"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_f6jd1")
+text = "options.game"
+
+[node name="VideoCategoryButton" type="Button" parent="PanelContainer/VBoxContainer/CategoriesList"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_f6jd1")
+text = "options.video"
+
+[node name="AudioCategoryButton" type="Button" parent="PanelContainer/VBoxContainer/CategoriesList"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_f6jd1")
+text = "options.audio"
+
+[node name="InputCategoryButton" type="Button" parent="PanelContainer/VBoxContainer/CategoriesList"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_f6jd1")
+text = "options.input"
+
+[node name="GamepadCategoryButton" type="Button" parent="PanelContainer/VBoxContainer/CategoriesList"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_f6jd1")
+text = "options.input.gamepad"
+
+[node name="AccessibilityCategoryButton" type="Button" parent="PanelContainer/VBoxContainer/CategoriesList"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_f6jd1")
+text = "options.accessibility"
+
+[node name="PanelContainer" type="PanelContainer" parent="PanelContainer/VBoxContainer"]
+custom_minimum_size = Vector2(1150, 750)
+layout_mode = 2
+mouse_filter = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer/VBoxContainer/PanelContainer"]
+custom_minimum_size = Vector2(800, 430)
+layout_mode = 2
+mouse_filter = 2
+
+[node name="QACategory" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer"]
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 60
+alignment = 1
+
+[node name="Layout" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Seperator" type="GridContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout"]
+layout_mode = 2
+theme_override_constants/h_separation = 40
+theme_override_constants/v_separation = 40
+columns = 2
+
+[node name="VBoxContainer3" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label10" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "QA Options"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="ResetTutorialsButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3"]
+layout_mode = 2
+text = "options.game.tutorials.resettutorials"
+
+[node name="UnlockEverythingButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3"]
+layout_mode = 2
+text = "unlock everything"
+
+[node name="ResetProgressButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3"]
+layout_mode = 2
+text = "reset progress"
+
+[node name="ResetAchievementsButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3"]
+layout_mode = 2
+text = "reset achievements"
+
+[node name="ResetTelemetrySetting" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3"]
+layout_mode = 2
+text = "Reset Options"
+
+[node name="UnlockAchievementsButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3"]
+layout_mode = 2
+text = "Unlock Achievements"
+
+[node name="GameCategory" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer"]
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 60
+alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 50
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.game.languages"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Languages" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer" groups=["lang"]]
+layout_mode = 2
+theme_override_constants/separation = 60
+alignment = 1
+script = ExtResource("8")
+
+[node name="LanguageSelectButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer/Languages"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+text = "lang"
+
+[node name="VBoxContainer4" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 8
+
+[node name="Label10" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer4"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.game.events"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="EnableSeasonalEventButton" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer4"]
+layout_mode = 2
+text = "options.game.events.enableseasonal"
+
+[node name="AllowTelemetryButton" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer4"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "options.game.events.allowtelemetry"
+
+[node name="TelemetryInfoButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer4"]
+visible = false
+layout_mode = 2
+text = "options.game.events.explaintelemetry"
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 8
+
+[node name="Label10" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer2"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.game.screenshake"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label11" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer2"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("9")
+text = "options.game.screenshake.shakeintensity"
+label_settings = ExtResource("10")
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer2"]
+layout_mode = 2
+alignment = 1
+
+[node name="ShakeIntensitySlider" type="HSlider" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer2/HBoxContainer3"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 2.0
+step = 0.1
+value = 1.0
+tick_count = 11
+ticks_on_borders = true
+
+[node name="ShakeIntensityLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer2/HBoxContainer3"]
+custom_minimum_size = Vector2(65, 0)
+layout_mode = 2
+text = "100%"
+horizontal_alignment = 2
+
+[node name="ShakeDrill" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer2"]
+layout_mode = 2
+text = "options.game.screenshake.shakewhenmining"
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory"]
+layout_mode = 2
+
+[node name="MultiplayerVBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 8
+
+[node name="Label10" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.game.multiplayer"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="ShowKeeperNamesButton" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer"]
+layout_mode = 2
+text = "options.game.playernamesinmultiplayer"
+
+[node name="ShowPlayerIndicatorsButton" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer"]
+layout_mode = 2
+text = "options.game.playerindicatorsinmultiplayer"
+
+[node name="ShowPingButton" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer"]
+layout_mode = 2
+text = "options.game.alwaysshowping"
+
+[node name="SplitscreenLargeFont" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "options.game.splitscreenfontscale"
+
+[node name="HideActionHints" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+text = "options.game.hideactionhint"
+
+[node name="VBoxContainer4" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 8
+
+[node name="Label10" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.game.other"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="ResetTutorialsButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4"]
+layout_mode = 2
+text = "options.game.tutorials.resettutorials"
+
+[node name="AutoPauseButton" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4"]
+layout_mode = 2
+text = "options.game.autopause"
+
+[node name="SystemCursorButton" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4"]
+layout_mode = 2
+text = "options.game.systemcursor"
+
+[node name="HideActionHints" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4"]
+visible = false
+layout_mode = 2
+text = "options.game.hideactionhint"
+
+[node name="BlockListButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+text = "options.game.blocklist"
+
+[node name="VideoCategory" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer"]
+visible = false
+layout_mode = 2
+
+[node name="GraphicsLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.video.graphicsmode"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="GraphicsVBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/GraphicsVBoxContainer"]
+layout_mode = 2
+
+[node name="ButtonWindowed" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/GraphicsVBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_35uvs")
+text = "options.video.graphicsmode.window"
+
+[node name="ButtonBorderless" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/GraphicsVBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_35uvs")
+text = "options.video.graphicsmode.borderlesswindow"
+
+[node name="ButtonFullscreen" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/GraphicsVBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_35uvs")
+text = "options.video.graphicsmode.fullscreen"
+
+[node name="ButtonVsync" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/GraphicsVBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+text = "options.video.graphicsmode.enablevsync"
+
+[node name="VideoSpacer1" type="Control" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 30)
+layout_mode = 2
+
+[node name="PerformanceLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.video.performance"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="PerformanceVBoxContainer" type="GridContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+unique_name_in_owner = true
+layout_mode = 2
+columns = 2
+
+[node name="ButtonRenderHalfRes" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/PerformanceVBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.video.renderhalfres.enable"
+
+[node name="ButtonReducedParticles" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/PerformanceVBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.video.reducedparticles"
+
+[node name="VideoSpacer2" type="Control" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 30)
+layout_mode = 2
+
+[node name="LabelBrightness" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.video.brightness"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+layout_mode = 2
+
+[node name="BrightnessSlider" type="HSlider" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/HBoxContainer3"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+min_value = 0.7
+max_value = 1.5
+step = 0.05
+value = 1.0
+tick_count = 9
+ticks_on_borders = true
+
+[node name="BrightnessLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/HBoxContainer3"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(60, 0)
+layout_mode = 2
+text = "1.00"
+horizontal_alignment = 1
+
+[node name="ButtonBrightnessReset" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/HBoxContainer3"]
+custom_minimum_size = Vector2(120, 63)
+layout_mode = 2
+size_flags_vertical = 0
+button_group = SubResource("ButtonGroup_ksxea")
+text = "options.video.brightness.reset"
+
+[node name="Spacer2" type="Control" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+custom_minimum_size = Vector2(0, 30)
+layout_mode = 2
+
+[node name="LabelRenderscale" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+visible = false
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.video.renderscale"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="HBoxContainer4" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory"]
+visible = false
+layout_mode = 2
+
+[node name="RenderscaleSlider" type="HSlider" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/HBoxContainer4"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 4
+min_value = 0.3
+max_value = 1.0
+step = 0.05
+value = 1.0
+tick_count = 5
+ticks_on_borders = true
+
+[node name="RenderscaleLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/HBoxContainer4"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(60, 0)
+layout_mode = 2
+text = "1.00"
+horizontal_alignment = 1
+
+[node name="ButtonRenderscaleReset" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/HBoxContainer4"]
+custom_minimum_size = Vector2(120, 63)
+layout_mode = 2
+size_flags_vertical = 0
+button_group = SubResource("ButtonGroup_ksxea")
+text = "options.video.brightness.reset"
+
+[node name="AudioCategory" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer"]
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 80
+alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label7" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.audio.volumes"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label3" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer"]
+layout_mode = 2
+text = "options.audio.volumes.mastervolume"
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="MasterVolumeSlider" type="HSlider" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer/HBoxContainer3"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 1.0
+step = 0.1
+value = 1.0
+tick_count = 11
+ticks_on_borders = true
+
+[node name="MasterVolumeLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer/HBoxContainer3"]
+custom_minimum_size = Vector2(30, 0)
+layout_mode = 2
+text = "10"
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label4" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer2"]
+layout_mode = 2
+text = "options.audio.volumes.musicvolume"
+
+[node name="HBoxContainer4" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer2"]
+layout_mode = 2
+
+[node name="MusicVolumeSlider" type="HSlider" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer2/HBoxContainer4"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 1.0
+step = 0.1
+value = 1.0
+tick_count = 11
+ticks_on_borders = true
+
+[node name="MusicVolumeLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer2/HBoxContainer4"]
+custom_minimum_size = Vector2(30, 0)
+layout_mode = 2
+text = "10"
+
+[node name="VBoxContainer3" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label5" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer3"]
+layout_mode = 2
+text = "options.audio.volumes.soundvolume"
+
+[node name="HBoxContainer5" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer3"]
+layout_mode = 2
+
+[node name="SoundVolumeSlider" type="HSlider" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer3/HBoxContainer5"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 1.0
+step = 0.1
+value = 1.0
+tick_count = 11
+ticks_on_borders = true
+
+[node name="SoundVolumeLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer3/HBoxContainer5"]
+custom_minimum_size = Vector2(30, 0)
+layout_mode = 2
+text = "10"
+
+[node name="VBoxContainer4" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label8" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer4"]
+layout_mode = 2
+text = "options.audio.volumes.ambiencevolume"
+
+[node name="HBoxContainer7" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer4"]
+layout_mode = 2
+
+[node name="AmbienceVolumeSlider" type="HSlider" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer4/HBoxContainer7"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 1.0
+step = 0.1
+value = 1.0
+tick_count = 11
+ticks_on_borders = true
+
+[node name="AmbienceVolumeLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer4/HBoxContainer7"]
+custom_minimum_size = Vector2(30, 0)
+layout_mode = 2
+text = "10"
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label9" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer2"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.audio.music"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="VBoxContainer5" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer2"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label10" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer2/VBoxContainer5"]
+layout_mode = 2
+text = "options.audio.music.frequency"
+
+[node name="HBoxContainer8" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer2/VBoxContainer5"]
+layout_mode = 2
+
+[node name="MusicFrequencySlider" type="HSlider" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer2/VBoxContainer5/HBoxContainer8"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 4.0
+value = 1.0
+tick_count = 5
+ticks_on_borders = true
+
+[node name="MusicFrequencyLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer2/VBoxContainer5/HBoxContainer8"]
+custom_minimum_size = Vector2(30, 0)
+layout_mode = 2
+text = "1"
+
+[node name="SoundtrackButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer2"]
+layout_mode = 2
+text = "options.audio.music.ost.mode"
+
+[node name="InputCategory" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer"]
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 40
+
+[node name="KeybindingsVBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label7" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/KeybindingsVBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 6
+theme_override_fonts/font = ExtResource("6")
+text = "options.input.controls.keybindings"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="KeybindingsButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/KeybindingsVBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+text = "options.input.controls.keybindings.button"
+
+[node name="HBoxContainer" type="GridContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory"]
+layout_mode = 2
+theme_override_constants/h_separation = 50
+columns = 2
+
+[node name="MouseUsageVBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Label8" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/MouseUsageVBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 6
+theme_override_fonts/font = ExtResource("6")
+text = "options.input.controls.mouseusage"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/MouseUsageVBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 8
+
+[node name="OpenMouseKeeperInputSettingsButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/MouseUsageVBoxContainer/VBoxContainer"]
+layout_mode = 2
+text = "options.input.controls.keepersettings.individual"
+
+[node name="UseMouseMenuCheckbox" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/MouseUsageVBoxContainer/VBoxContainer"]
+layout_mode = 2
+text = "options.input.controls.mouse.menus"
+
+[node name="UseMouseDomeCheckbox" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/MouseUsageVBoxContainer/VBoxContainer"]
+layout_mode = 2
+text = "options.input.controls.mouse.domes"
+
+[node name="UseMouseSwordSliceCheckbox" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/MouseUsageVBoxContainer/VBoxContainer"]
+layout_mode = 2
+text = "options.input.controls.mouse.sword"
+
+[node name="GamepadUsageVBoxContainer2" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Label9" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/GamepadUsageVBoxContainer2"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 6
+theme_override_fonts/font = ExtResource("6")
+text = "options.input.controls.gamepadusage"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/GamepadUsageVBoxContainer2"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/separation = 8
+
+[node name="OpenGamepadKeeperInputSettingsButton" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/GamepadUsageVBoxContainer2/VBoxContainer"]
+layout_mode = 2
+text = "options.input.controls.keepersettings.individual"
+
+[node name="Label" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory"]
+visible = false
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.input.controls.mouse.gamepad"
+autowrap_mode = 3
+
+[node name="GamepadCategory" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer"]
+visible = false
+layout_mode = 2
+theme_override_constants/separation = 24
+
+[node name="Label7" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("6")
+text = "options.input.gamepad"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="KeyboardGamepadSwitchLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.input.controls.mouse.gamepad"
+autowrap_mode = 3
+
+[node name="GridContainer" type="GridContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory"]
+layout_mode = 2
+columns = 2
+
+[node name="IconSelectionLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "options.input.gamepad.icons"
+horizontal_alignment = 1
+
+[node name="IconSelectionHBoxContainer" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="ButtonGamepadIconAuto" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/IconSelectionHBoxContainer"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_8pa2q")
+text = "options.input.gamepad.icons.automatic"
+
+[node name="ButtonGamepadIconXbox" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/IconSelectionHBoxContainer"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_8pa2q")
+text = "Xbox"
+
+[node name="ButtonGamepadIconPlaystation" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/IconSelectionHBoxContainer"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_8pa2q")
+text = "Playstation"
+
+[node name="ButtonGamepadIconNintendo" type="Button" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/IconSelectionHBoxContainer"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_8pa2q")
+text = "Nintendo"
+
+[node name="Label8" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer"]
+layout_mode = 2
+size_flags_vertical = 0
+text = "options.input.vibration.strength"
+horizontal_alignment = 1
+
+[node name="HBoxContainer5" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+alignment = 1
+
+[node name="VibrationIntensitySlider" type="HSlider" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/HBoxContainer5"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 2.0
+step = 0.1
+value = 1.0
+tick_count = 11
+ticks_on_borders = true
+
+[node name="VibrationIntensityLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/HBoxContainer5"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "100%"
+
+[node name="DeadzoneLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 0
+text = "options.input.gamepad.gamepadstickdeadzone"
+
+[node name="DeadzoneVBoxContainer" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="HBoxContainer4" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/DeadzoneVBoxContainer"]
+layout_mode = 2
+
+[node name="GamepadDeadZoneSlider" type="HSlider" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/DeadzoneVBoxContainer/HBoxContainer4"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 0.6
+step = 0.01
+value = 0.2
+tick_count = 7
+ticks_on_borders = true
+
+[node name="GamepadDeadZoneLabel" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/DeadzoneVBoxContainer/HBoxContainer4"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+text = "0.2"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/DeadzoneVBoxContainer"]
+layout_mode = 2
+
+[node name="Label5" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/DeadzoneVBoxContainer/HBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("9")
+text = "options.input.gamepad.gamepadstickdeadzone.motiondetected"
+label_settings = ExtResource("10")
+
+[node name="StickMoveRect" type="ColorRect" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/DeadzoneVBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label4" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/DeadzoneVBoxContainer"]
+texture_filter = 4
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+theme_override_fonts/font = ExtResource("9")
+text = "options.input.gamepad.gamepadstickdeadzone.text"
+label_settings = ExtResource("10")
+autowrap_mode = 3
+
+[node name="AutoSwitchGamepadCheckBox" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory"]
+layout_mode = 2
+text = "options.input.gamepad.autoswitch"
+
+[node name="AccessibilityCategory" type="VBoxContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer"]
+visible = false
+layout_mode = 2
+
+[node name="Label7" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 6
+theme_override_fonts/font = ExtResource("6")
+text = "options.accessibility"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="BoxContainer" type="GridContainer" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/h_separation = 32
+theme_override_constants/v_separation = 24
+columns = 2
+
+[node name="ButtonPhotoSensitivity" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer"]
+layout_mode = 2
+text = "options.video.graphicsmode.photosensitive"
+
+[node name="Label" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.accessibility.photosensitivity.explanation"
+autowrap_mode = 3
+
+[node name="ButtonHighlightedMonsters" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer"]
+layout_mode = 2
+text = "options.accessibility.highlightmonsters"
+
+[node name="Label2" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.accessibility.highlightmonsters.explanation"
+autowrap_mode = 3
+
+[node name="ButtonDisableCritters" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer"]
+layout_mode = 2
+text = "options.accessibility.critters"
+
+[node name="Label3" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.accessibility.critters.explanation"
+autowrap_mode = 3
+
+[node name="ButtonVignette" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer"]
+custom_minimum_size = Vector2(400, 0)
+layout_mode = 2
+size_flags_vertical = 0
+text = "options.accessibility.vignette"
+
+[node name="Label4" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.accessibility.vignette.explanation"
+autowrap_mode = 3
+
+[node name="ButtonBackgrounds" type="CheckBox" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer"]
+custom_minimum_size = Vector2(400, 0)
+layout_mode = 2
+size_flags_vertical = 0
+text = "options.accessibility.backgrounds"
+
+[node name="Label5" type="Label" parent="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.accessibility.backgrounds.explanation"
+autowrap_mode = 3
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="PanelContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="PanelContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.cancel"
+
+[node name="ButtonApply" type="Button" parent="PanelContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.keybindings.apply"
+
+[node name="SoundExample" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("11")
+bus = &"Sounds"
+
+[node name="GamepadStickDeadZoneTimer" type="Timer" parent="."]
+wait_time = 0.1
+
+[node name="Tween" parent="." instance=ExtResource("12")]
+
+[connection signal="pressed" from="PanelContainer/VBoxContainer/CategoriesList/QACategoryButton" to="." method="_on_CategoryButton_pressed" binds= ["QA"]]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/CategoriesList/GameCategoryButton" to="." method="_on_CategoryButton_pressed" binds= ["Game"]]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/CategoriesList/VideoCategoryButton" to="." method="_on_CategoryButton_pressed" binds= ["Video"]]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/CategoriesList/AudioCategoryButton" to="." method="_on_CategoryButton_pressed" binds= ["Audio"]]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/CategoriesList/InputCategoryButton" to="." method="_on_CategoryButton_pressed" binds= ["Input"]]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/CategoriesList/GamepadCategoryButton" to="." method="_on_CategoryButton_pressed" binds= ["Gamepad"]]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/CategoriesList/AccessibilityCategoryButton" to="." method="_on_CategoryButton_pressed" binds= ["Accessibility"]]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3/ResetTutorialsButton" to="." method="_on_ResetTutorialsButton_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3/UnlockEverythingButton" to="." method="_on_UnlockEverythingButton_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3/ResetProgressButton" to="." method="_on_ResetProgressButton_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3/ResetAchievementsButton" to="." method="_on_ResetAchievementsButton_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3/ResetTelemetrySetting" to="." method="_on_ResetTelemetrySetting_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/QACategory/Layout/Seperator/VBoxContainer3/UnlockAchievementsButton" to="." method="_on_UnlockAchievementsButton_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer/Languages/LanguageSelectButton" to="." method="_on_LanguageSelectButton_pressed"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer4/EnableSeasonalEventButton" to="." method="toggleButtonSound"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer4/AllowTelemetryButton" to="." method="toggleButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer4/TelemetryInfoButton" to="." method="_on_TelemetryInfoButton_pressed"]
+[connection signal="value_changed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer2/HBoxContainer3/ShakeIntensitySlider" to="." method="_on_ShakeIntensitySlider_value_changed"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer/VBoxContainer2/ShakeDrill" to="." method="toggleButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer/ShowKeeperNamesButton" to="." method="_on_show_keeper_names_button_pressed"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer/ShowKeeperNamesButton" to="." method="toggleButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer/ShowPlayerIndicatorsButton" to="." method="_on_show_player_indicators_button_pressed"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer/ShowPlayerIndicatorsButton" to="." method="toggleButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer/ShowPingButton" to="." method="_on_show_ping_button_pressed"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer/ShowPingButton" to="." method="toggleButtonSound"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer/SplitscreenLargeFont" to="." method="_on_splitscreen_large_font_toggled"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/MultiplayerVBoxContainer/HideActionHints" to="." method="toggleButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4/ResetTutorialsButton" to="." method="_on_ResetTutorialsButton_pressed"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4/AutoPauseButton" to="." method="toggleButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4/SystemCursorButton" to="." method="_on_SystemCursorButton_pressed"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4/SystemCursorButton" to="." method="toggleButtonSound"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4/HideActionHints" to="." method="toggleButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GameCategory/VBoxContainer2/VBoxContainer4/BlockListButton" to="." method="_on_block_list_button_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/GraphicsVBoxContainer/HBoxContainer/ButtonWindowed" to="." method="_on_ButtonWindow_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/GraphicsVBoxContainer/HBoxContainer/ButtonBorderless" to="." method="_on_ButtonBorderlessWindow_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/GraphicsVBoxContainer/HBoxContainer/ButtonFullscreen" to="." method="_on_ButtonFullscreen_pressed"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/GraphicsVBoxContainer/ButtonVsync" to="." method="toggleButtonSound"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/PerformanceVBoxContainer/ButtonRenderHalfRes" to="." method="toggleButtonSound"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/PerformanceVBoxContainer/ButtonReducedParticles" to="." method="toggleButtonSound"]
+[connection signal="value_changed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/HBoxContainer3/BrightnessSlider" to="." method="_on_BrightnessSlider_value_changed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/HBoxContainer3/ButtonBrightnessReset" to="." method="_on_ButtonBrightnessReset_pressed"]
+[connection signal="value_changed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/HBoxContainer4/RenderscaleSlider" to="." method="_on_renderscale_slider_value_changed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/VideoCategory/HBoxContainer4/ButtonRenderscaleReset" to="." method="_on_button_renderscale_reset_pressed"]
+[connection signal="value_changed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer/HBoxContainer3/MasterVolumeSlider" to="." method="_on_MasterVolumeSlider_value_changed"]
+[connection signal="value_changed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer2/HBoxContainer4/MusicVolumeSlider" to="." method="_on_MusicVolumeSlider_value_changed"]
+[connection signal="value_changed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer3/HBoxContainer5/SoundVolumeSlider" to="." method="_on_SoundVolumeSlider_value_changed"]
+[connection signal="value_changed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer/VBoxContainer4/HBoxContainer7/AmbienceVolumeSlider" to="." method="_on_AmbienceVolumeSlider_value_changed"]
+[connection signal="value_changed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer2/VBoxContainer5/HBoxContainer8/MusicFrequencySlider" to="." method="_on_MusicFrequencySlider_value_changed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AudioCategory/VBoxContainer2/SoundtrackButton" to="." method="_on_SoundtrackButton_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/KeybindingsVBoxContainer/KeybindingsButton" to="." method="_on_KeybindingsButton_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/MouseUsageVBoxContainer/VBoxContainer/OpenMouseKeeperInputSettingsButton" to="." method="_on_open_keeper_input_settings_button_pressed" binds= [true]]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/MouseUsageVBoxContainer/VBoxContainer/UseMouseMenuCheckbox" to="." method="toggleButtonSound"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/MouseUsageVBoxContainer/VBoxContainer/UseMouseDomeCheckbox" to="." method="_on_UseMouseDomeCheckbox_toggled"]
+[connection signal="toggled" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/MouseUsageVBoxContainer/VBoxContainer/UseMouseSwordSliceCheckbox" to="." method="toggleButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/InputCategory/HBoxContainer/GamepadUsageVBoxContainer2/VBoxContainer/OpenGamepadKeeperInputSettingsButton" to="." method="_on_open_keeper_input_settings_button_pressed" binds= [false]]
+[connection signal="value_changed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/HBoxContainer5/VibrationIntensitySlider" to="." method="_on_VibrationIntensitySlider_value_changed"]
+[connection signal="value_changed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GamepadCategory/GridContainer/DeadzoneVBoxContainer/HBoxContainer4/GamepadDeadZoneSlider" to="." method="_on_GamepadDeadZoneSlider_value_changed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer/ButtonPhotoSensitivity" to="." method="playButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer/ButtonHighlightedMonsters" to="." method="playButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer/ButtonDisableCritters" to="." method="playButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer/ButtonVignette" to="." method="_on_ButtonVignette_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/PanelContainer/MarginContainer/AccessibilityCategory/BoxContainer/ButtonBackgrounds" to="." method="playButtonSound"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/HBoxContainer2/CancelButton" to="." method="_on_ButtonCancel_pressed"]
+[connection signal="pressed" from="PanelContainer/VBoxContainer/HBoxContainer2/ButtonApply" to="." method="_on_ButtonApply_pressed"]
+[connection signal="timeout" from="GamepadStickDeadZoneTimer" to="." method="_on_GamepadStickDeadZoneTimer_timeout"]

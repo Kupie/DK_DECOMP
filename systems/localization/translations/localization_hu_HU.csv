@@ -1,0 +1,2206 @@
+﻿key,hu_HU
+upgrades.teslapersistance1.title,Tartós gömbök 1
+upgrades.keeper4ramping1.title,Lendület
+upgrades.stationextensionupgrades.desc,Fejlesztéseket vásárolhatsz távolról a mobil állomásban.
+upgrades.sword.title,Kard
+upgrades.autocannonimproved.desc,Minden szempontból fejleszti az ágyút.
+upgrades.laserstrength1.title,Erő 1
+properties.monstermodifiers.timebetweenwavesmodifier,Ciklushossz {.percent}
+level.gameover.unlock.modifiers,Új menetszorzók feloldva!
+keybindings.reset.explanation.ps5,"A gombkiosztásaidat visszaállítottuk a legutóbbi frissítés miatt, amely jelentős változtatásokat hozott a bemeneti rendszerben. Elnézést a kellemetlenségért!"
+reward.rewardrerolloffers2.desc,Vízért cserébe többször is újradobhatod az eszköz vagy kiegészítőválasztékot.
+upgrades.proberecharge.desc,Idővel a radar lassan magától újratöltődik.
+versus.corruptionmonsterdamage.title,Halálos szörnyek
+loadout.start.area.press,Nyomd meg a | gombot a menet indításához!
+upgrades.shieldbattleblastdamage.title,Halálos tér
+properties.monstermodifiers.move_speed,Szörnymozgási sebesség: {.percent}
+upgrades.mushroomfarmspeed1.title,Gombasebesség 1
+upgrades.chainsawdamage1.title,Fűrészméret 1
+properties.orchard.battlerootexplosion,Robbanási sebzés {}
+level.tutorial.assessor.bundleguide.desc2.switch,Press|without pressing a direction to place a stationary bundle.
+upgrades.swordtargetlock.desc,A döféskor a kard automatikusan az első célba vett szörnyet támadja.
+reward.rewardautomatedweapons.desc,Automatizálja a másodlagos fegyvereidet.
+options.input.gamepad,Kontroller
+playerlist.profile,Profil megtekintése
+upgrades.stunlaserstun1.title,Kábításerősség 1
+properties.condenser.overchargedelay,Gyártáskésleltetés (ciklus) {}
+exhibition.level.description,Visszatérés a főmenübe ennyi idő múlva ...
+keybindings.reset.explanation.switch,"A gombkiosztásaidat visszaállítottuk a legutóbbi frissítés miatt, amely jelentős változtatásokat hozott a bemeneti rendszerben. Elnézést a kellemetlenségért!"
+upgrades.shockwave.title,Lökéshullám-kalapács
+properties.keeper3.shurikencooldown,Shuriken újratöltési idő: {} mp
+title.navbar.leaderboard,Tekintély
+modding.prestigewhitelist,"Ha van olyan mod, amit engedélyeznünk kéne tekintély játékmódban, jelezd Discordon, és ellenőrizzük. Az erőegyensúlyt nem érintő, például az akadálymentesítő vagy pusztán kozmetikai modokat engedélyezni fogjuk."
+upgrades.extractordoublebuild.desc,Növeli a férgek termelését.
+upgrades.chainsawdamage3.title,Fűrészméret 3
+modding.modio.error,Error mod.io
+loadout.versusmod.versusmodifiermirroredmap.desc,"A kupola alatti pályák egymás tükörképei, azonos elrendezéssel."
+actionhint.blast,Robbanás
+multiplayer.host.crossplay,Crossplay engedélyezése
+properties.converter.ironpercobalt,{} vas kobaltonként
+upgrades.shieldovercharge.desc,"Vízzel manuálisan túltöltheted a pajzsot, hogy a következő támadáskor még több sebzést fel tudjon fogni."
+properties.droneyard.overchargebattledronestrength,Harci drónok megerősítése {.percent}
+options.game.showkeeperaimindicator,Őrző céljelzőjének mutatása
+upgrades.autocannonautonomy.title,Autonómia
+properties.keeper4.holesquadduration,Bányászcsapat időtartama: {} mp
+options.input,Bevitel
+options.game.screenshake.shakeintensity,Remegésintenzitás
+upgrades.keeper2pinballspherelifetime.desc,Hosszabb ideig repülenk a gömbök.
+upgrades.swordreflection2.title,Visszaverés 2
+upgrades.lift.title,Felvonó
+assignment.circumstance,Feltételek
+options.keybindings.rebinding.capture,Bevitel
+properties.keeper2.spheresplit,Beérkező gömbök hasítása
+properties.tesla.damage,Lövéssebzés {}
+options.game.events.allowtelemetry,Online többjátékos mód engedélyezése
+properties.keeper1.maxspeed,Végsebesség {}
+level.tutorial.tesla.panel3content1,"A Tesla-kupola sokoldalú, és csak akkor lehetsz igazán sikeres vele, ha minden képességét együtt használod."
+level.tutorial.sworddome.reflecting.desc,Használd a kard pajzsfelülétét a lövedékek megállítására és akár visszaverésére.
+options.game.bundlesnapping,Sorozatlövés célzásának igazítása a fő irányokhoz
+upgrades.spiresustain.title,Tartós tüzelés
+reward.rewardpermanentinventory.title,Állandó készlet
+properties.furnace.ironduration,Vas égési ideje (ciklusok): {}
+level.gameover.assignment.badges.more,"Teljesítsd ennek a megbízatásnak a kihívás módját, hogy újabb jelvényt szerezz."
+upgrades.orchardovercharge2.title,Továbbfejlesztett túltöltés
+multiplayer.error.joincodefailed,Nem található lobby a megadott csatlakozási kóddal.
+properties.laser.movespeedwhilefiring,Sebesség tüzeléskor {.percent}
+upgrades.keeper3shurikencooldown1.title,Sebes Shuriken
+upgrades.orchardduration2.desc,A gyümölcs hatása még tovább tart.
+options.input.controls,Beviteli mód
+upgrades.droneyardovercharge3.desc,A drónudvar túltöltése még több drónt ad.
+upgrades.blastminingimpactdetonation.desc,A robbanótöltet felrobban amint egy felülettel ütközik. A robbanás a becsapódás irányába tolódik el.
+upgrades.drillbotstrength3.title,Erősség 3
+level.gameover.clientdisconnect,Kapcsolat bontása a Host-ról
+upgrades.swordstabexplode.desc,"A kard csúcsán egy bomba van, ami az első ellenség megdöfésekor felrobban."
+properties.keeper4.minpunchdelay,Leggyorsabb ütés: {} mp
+options.audio.music,Zene
+upgrades.keeper3carrylimit3.title,Szállítási kapacitás 3
+upgrades.keeper4swiftpunch.desc,A bányászat magasabb kezdeti sebességgel indul.
+assignment.showdown.desc,A bolygó szörnyei egyetlen hatalmas támadásra készülnek.
+properties.suitblaster.chargespeedpercharge,További töltési sebesség töltetenként: {.percent}
+loadout.versusmod.versusmodifierhardrock,Kemény kőzet
+properties.keeper4.catgoblinminingspeed,Macskagoblinok ásási sebessége: {.percent}
+keeperdlc.title,Az elveszett őrzők
+upgrades.drillbotduplicate.title,Tesó
+properties.mushroomfarm.drillbuffduration,Bányászati bónusz időtartama: {} mp
+upgrades.droneyardbattlegridlong1.desc,Engedj ki több hosszú élettartamú drónt.
+level.gameover.prestige.uploading.inprocess,pontszám feltöltése…
+upgrades.furnace.desc,Beszerel egy kéménnyel ellátott kemencét. Füstje késlelteti a következő szörnytámadást.
+leaderboard.needsOnlineServices.ps5,Fogadd el az EULA-t a beállításokban a ranglisták megtekintéséhez.
+options.game.multiplayer,Többjátékos Mód
+upgrades.shieldbattledestructionprevention.desc,"Szerezz hosszú sebezhetetlenséget, amikor a kupolád az összeomlás szélén áll!
+Ezután a pajzsod nem töltődik majd a következő ütközetig. Az utolsó védvonal csak két újabb támadás után aktiválható újra.
+"
+properties.keeper2.bundlestopcenter,Középső oszlop gravitációs mezője
+upgrades.chainsawdamage2.title,Fűrészméret 2
+upgrades.keeper2rotationalmining1.title,Kompressziós bányászat 1
+upgrades.swordlargeblade1.title,Súlyos penge 1
+loadout.difficulty.veryeasy,Normál
+level.tutorial.assessor.spheres.desc2,"Gömbellátásod korlátozott, és idővel automatikusan újratölt."
+level.tutorial.assessor.spheres.desc1,"Nyomd meg a | gombot, hogy egy kinetikus gömböt lőj ki abba az irányba, amerre nézel."
+upgrades.repellentdelay2.desc,Késleltesd még tovább a következő szörnytámadást.
+upgrades.artillerydirecthit1.desc,Aknavető fejlesztése telitalálatra kifejlesztett aknák kilövésére.
+reward.rewardpet12.title,Kutya kedvenc
+upgrades.keeper2movement4.desc,Gyorsabb mozgás nyersanyagok gyűjtésekor és hordásakor.
+properties.sword.stabspeed,Döfésgyorsaság {.percent} 
+upgrades.artillerysplash3.title,2. szóródó robbanófej
+properties.drillbot.amount,Fúrási találatok {}
+options.game.autopickupkunaicarrier,Automatically pick up Kunai Carrier
+upgrades.stunlaserautonomy1.desc,"Akkor is aktiválódik a kábítólézer, ha nem vagy a vezérlőállomáson."
+properties.laser.stun,Kábításerősség {}
+loadout.proceed,Folytatás
+multiplayer.host.joincodeunavailable,Nem elérhető
+upgrades.shieldbattlelongerafterdepletion.desc,Az elektromos tér a pajzs lemerülése utáni aktiválás esetén tovább kitart.
+level.tutorial.assessor.mining.desc,Egy szikla folyamatos nyomással eltávolítható.
+upgrades.teleporterteleportresourcesback.desc,"A teleport mostantól nyersanyagokat szállít, téged azonban nem."
+keybindings.reset.doreset.ps5,Gombkiosztásaim visszaállítása
+upgrades.jetpackstrength1.title,Hordáserősség 1
+level.tutorial.beastmaster.squad_1,"Tartsd lenyomva a | gombot egy nyílás közelében, hogy bányászcsapatot hívj."
+loadout.prestige.pro.explanation,"Csökkenti a véletlenszerűséget, és rögzített sorrendet ad az eszközöknek, kiegészítőknek és barlangoknak."
+level.tutorial.beastmaster.squad_3,Egyszerre csak egy csapat lehet aktív.
+upgrades.swordelectrified.desc,"Elektromos töltésű penge, amely behatásra azonnal sebez."
+level.tutorial.beastmaster.squad_2,Véletlenszerűen bányásszák a nyílás körüli kőzetet.
+upgrades.drill1.title,Fúráserősség 1
+loadout.start.area.move,A kezdéshez minden őrzőnek ide kell állnia!
+level.station.upgrademenu.close,Bezár
+upgrades.rocketlauncherrestock.title,Rakéták feltöltése
+upgrades.chainsawdamage1.desc,Növeli a körfűrész szörnyeknek okozott sebzését.
+level.station.battle.navbar.artilleryshoot,Aknavető
+upgrades.repellentdelay3.title,Késleltetés 3
+upgrades.suitblasterspeed1.title,Töltési Sebesség 1
+level.gameover.stats.additional,Részletes statisztikák
+options.audio.music.ost.mode.adaptive,Alkalmazkodó (javasolt)
+upgrades.furnacestrongwaterfiring.title,Fokozott víz üzemanyag
+properties.dome.meleethorndamage,Visszavert sebzés {}
+upgrades.repellentbattlelongerhealthreduction.desc,Strengthen the withering of all visible monsters.
+level.tutorial.tesla.panel3header,Sok Képesség
+versus.corruptionstunresistance.desc,A szörnyek nagyrészt ellenállnak majd a kábításnak és a lassításnak.
+level.tutorial.assessor.spheres,Kinetikus gömbök
+upgrades.chainsawdouble.title,Dupla körfűrész
+upgrades.keeper4squad1.desc,Hívj elő egy különleges macskagoblin bányászegységet a közeli sziklák feltárására. Kiválóan tudnak ásni a nyersanyagok körül.
+versus.message.corruption,A másik csapat épp egy szörnytorzulást küldött rád.
+options.keybindings.action.keeper.gadget1,Eszköz 1
+options.keybindings.action.keeper.gadget2,Eszköz 2
+upgrades.shieldbattlereflectspeed.title,Gyorsított visszaverés
+properties.monsters.additionalstartweight,További hullámsúly: {}
+level.gameover.stats.damagedealt,Kiosztott sebzés
+properties.keeper2.reflectspeed,Gömbgyorsítás {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,További képesség időtartama {} mp
+properties.converter.ironcobalttime,Vasból kobalttá alakítás ideje (ciklusok): {}
+upgrades.droneyardbattlegrid.desc,Küldj csatába egy harci drónokból álló egységet a közeli szörnyek elleni védekezésre.
+upgrades.suitblasterradius1.desc,Növeli a robbanás sugarát.
+upgrades.droneyardbattlegridquick1.title,Gyors drónok
+options.input.controls.keybindings.button.ps5,Gombkiosztás módosítása
+multiplayer.host.ping,Server Ping: %dms
+title.navbar.singleplayer,Egyjátékos
+options.video.renderhalfres.enable,Kép megjelenítése fél felbontásban
+level.gameover.stats.destroyedblocks,Megsemmisített lövedékek
+upgrades.converterefficientwaterlong.desc,"A víz átalakítása hosszabb folyamat lesz, viszont nagyobb hozamot ad."
+level.gameover.restart,Játék újraindítása
+options.video.stretchmode.scaled,Méretarányos
+level.tutorial.beastmaster.mine.desc1,A kőzet kitermeléséhez folyamatosan menj neki.
+level.tutorial.beastmaster.mine.desc2,A bányászási sebességed minden ütéssel nő.
+upgrades.domesupplementscraprepair2.desc,Visszaállítja a kupola hulladékjavítástól leromlott statikai állapotát.
+upgrades.keeper2bundle3.desc,"A központi tengely felé kilőtt kötegek, ahelyett, hogy átrepülnének, közvetlenül a kupola alatt megállnak."
+leaderboard.fellowkeepers,Céhes rangsor
+upgrades.autocannon.desc,"Erős automata ágyú felszerelése a kupolára, amely súlyosan sebzi a szörnyeket."
+properties.orchard.battlerootcatchduration,Csapda időtartama {} mp.
+upgrades.laseraimline.desc,"Egy célzókört ad a lézerhez, amely megmutatja, mely irányba céloz."
+upgrades.teslapersistance2.title,Tartós gömbök 2
+upgrades.orchardovercharge2.desc,Növeli a túltöltés hatását a harci képességekre.
+actionhint.teleport,Teleport
+loadout.difficulty.medium.description,A Kupola őrző alapértelmezett nehézsége.
+upgrades.swordlargeblade2.title,Súlyos penge 2
+loadout.prestige.endless,Végtelen
+upgrades.teslanurture.title,Elektrogömbök ápolása
+upgrades.shieldbattleelectroblast.desc,"Ez beindít egy aktív harcképességet, amely egy kis időre gyilkos teret hoz létre a kupola körül."
+options.game.blocklist.desc,"List of users you have blocked.
+You won't be able to play with any blocked user in future online games.
+If you change your mind about a blocked user, unblock it below.
+You can block up to %s users."
+actionhint.cancel,Visszavon
+upgrades.shockwavestun2.title,Lökéshullám-bénítás 2
+upgrades.liftcapacity1.desc,Több nyersanyagot lesz képes hordani a gömb.
+upgrades.domewavemeter.title,Ellenségestámadás-jelző
+level.gameover.assignment.win.title,MEGBÍZATÁS TELJESÍTVE
+gadget.slot.cellar,Pince
+options.game.ropecamerafollow,Kameraforerálás erőssége kötélhasználat közben
+upgrades.proberecharge.title,Automata újratöltés
+level.tutorial.repair.usecobalt,Kobalttal megjavítható a kupola. Ez a játéktechnikai fa egyik frissítése.
+level.supplementchoice.title,VÁLASSZ KIEGÉSZÍTŐT!
+options.keybindings.action.general.right,Jobbra
+gadget.slot.keepersuit,Őrzőruha
+assignment.cobaltcontribution.desc,"A Céhnek sürgősen kobaltra van szüksége, és egy nagy mennyiség gyors szállítását kéri."
+upgrades.prestigefinish.desc,"Hagyd el a bolygót, és térj haza!"
+loadout.mapsize.huge.description,Hatalmas térkép a leghosszabb menetekhez.
+options.game.events,Események
+loadout.versusmod.versusmodifierrichirondeposits.desc,"A vaslelőhelyek kicsik, de nagyon gazdagok."
+loadout.mode.shortcycles.desc,You have less time between waves.
+multiplayer.error.lobby.host,Nem sikerült létrehozni a lobbit.
+level.tutorial.sworddome.reflecting,Visszaverés
+level.tutorial.artillery.panel3header,Robbanások és közvetlen találatok
+assignment.rareiron.title,Vashiány
+level.tutorial.assessor.carry.desc1_1,"Miután rád csatolódtak, követni fognak akkor is, ha elengeded a begyűjtés billentyűjét."
+level.station.battle.navbar.slice,Vágás
+upgrades.furnacewaterfiring.title,Víz üzemanyag
+upgrades.drill.desc,"Egy központi fúró a bánya mélyének feltárásához, opcionális oldalsó fúróval."
+level.gameover.stats.additionalgadget,További eszköz
+level.tutorial.tesla.panel2content1,"Tarts|-t, hogy tölts fel egy lövést."
+level.tutorial.tesla.panel2content2,"A lövés leadásához csak teljes feltöltés után engedd el. Ha előbb engeded el, nem történik semmi."
+upgrades.teslapersistance1.desc,"Nagyobb és ellenállóbb elektrogömbök, amelyek tovább megmaradnak."
+upgrades.blastminingtriple.desc,"Egyszerre több robbanótöltetet állít elő, egyetlen egy helyett."
+properties.droneyard.battledronecount,Harci drónok {}
+level.gameover.saveimages,Mentés
+loadout.versusmod.versusmodifiermanycaverns,Barlangos pálya
+upgrades.lasermove1.desc,A lézer gyorsabban mozog.
+upgrades.domewavewarner.desc,"A hullámmérő jelez, amikor ideje visszaindulni a kupolába, mert hullám for érkezni. A rendszer alkalmazkodó, tehát pontossága idővel fejlődik."
+upgrades.dome4.title,Tesla-kupola
+upgrades.keeper4squad1.title,Alagút Osztag
+upgrades.keeper4autospawnminers.desc,"Minden új alagútbejárat keletkezésekor, automatikusan megjelenik egy bányászosztag."
+assignment.unpredictable.title,Megszakadt kommunikáció
+upgrades.blastminingblast3.desc,A robbanótöltetek extrém erősségűre fejlesztése.
+upgrades.domewavepathtodome.title,Kimeneti útvonal
+level.tutorial.probe.popup_1.switch,Press | to emit a probe pulse.
+upgrades.teslapower1.desc,A tesla tűzerejének fejlesztése.
+loadout.versus.modifiers.title,Módosítók
+properties.furnace.irondelay,Vaskésleltetés: {} mp
+actionhint.pickup,Felszedés
+demo.end.subtitle,"A teljes játék rengeteg tartalmat kínál. Ha jól szórakozol, kérjük, fontold meg a teljes verzió megvásárlását. Íme néhány példa:"
+loadout.versusmod.versusmodifierironinflation.desc,"Minden fejlesztés kétszer annyi vasba kerül, viszont a vaslelőhelyek gazdagabbak."
+upgrades.artilleryprojectileerasure.title,Szóródó lövedékek
+options.video.brightness.reset,Visszaáll
+upgrades.domesandrepair.desc,Javítsd meg a kupolád kobalttal!
+upgrades.swordlongblade2.title,Hosszú penge 2
+pause.restartrun,Játék újraindítása
+options.input.gamepad.thumbstick.ps5,Stick
+level.tutorial.caves,Barlangok
+options.input.gamepad.gamepadstickdeadzone.ps5,Analóg kar holt zónája
+upgrades.keeper3shuriken2.title,Gyors Shuriken
+upgrades.condenserspeed1.desc,Csökkenti a vízkondenzáció időtartamát.
+properties.monsters.fixedweight,Fix hullámerősség: {}
+properties.versus.ironcontribution,Vashozzájárulás: {}
+multiplayer.join.title,Csatlakozás egy többjátékos játékhoz
+upgrades.prestigewater.title,Küldj vizet
+upgrades.keeper3kunaibounce2.title,Deep Resonance
+upgrades.swordtargetlock.title,Zárt cél
+upgrades.artillerymachinegun4.title,Gyorstüzelő géppuska
+upgrades.mushroomfarmdrill2.title,Gombabányászat 2
+upgrades.stunlaser.desc,"Szerelj fel automatikusan célzó lézert, amely képes kisebb szörnyeket elkábítani."
+upgrades.shieldbattleinvulnerable.title,Sebezhetetlenség
+loadout.hint.dome,Válassz kupolát!
+loadout.versusmod.versusmodifierrichirondeposits,Sűrű vaslelőhelyek
+upgrades.chainsawdouble.desc,"Egy újabb körfűrészt szerel fel, hogy hatékonyan védje a kupola mindkét oldalát."
+properties.lift.capacity,A gömbök {} nyersanyagot hordanak
+upgrades.keeper2bundle1.title,Középjelölés
+upgrades.autocannonrateoffire1.title,Géppuska 1
+loadout.versusmod.versusmodifierwindingmap,Kanyargós pálya
+upgrades.prospectionmetersand2.title,Kobaltiránytű
+properties.lift.orbs,{} gömb
+upgrades.keeper3doublejump.desc,Ugorj újra a levegőben.
+upgrades.droneyardparasites3.title,Parazita drónok 3
+upgrades.keeper4doublesquad.title,Második Osztag
+upgrades.relichunt.title,Ereklyegyűjtés
+upgrades.orchardbattlerooting.desc,"Csatákban aktiválva ez az eszköz gyökereket fon a kupola köré, és csapdába ejti a rájuk lépő közepes méretű szörnyeket."
+upgrades.prospectionmetergadget.title,Kamramérő
+properties.sword.reflection,Pajzsméret növelése
+upgrades.extractorresources1.desc,"Tenyéssz speciális férgeket, amelyek gondosan dolgoznak, és több vasat nyernek ki."
+properties.dome.autohealdamagethreshold,"Aktiválás, ha a sebzés több mint {} életerő"
+upgrades.keeper2rotationalmining2.desc,Sziklabányászati sebesség fejlesztése.
+properties.tesla.persistencestunstrength,Elektrogömb kábítóereje: {}
+level.gameover.stats.timeplayed,Játékidő
+properties.sword.stabdamage,Döfés sebzése{}
+properties.monsters.additionalwaveweight,További hullámerősség: {.percent}
+options.game.playerindicatorsinmultiplayer,Show Player Indicators in Multiplayer
+properties.mushroomfarm.speedbuff,Mozgási sebességi bónusz {}
+level.tutorial.drillbot.carry,"Vedd ki Ásókát a helyéről, és vidd le a bányába, oda, ahol ásatni szeretnéd."
+modding.modio.decline,Decline
+assignment.inversegravity.desc,A bolygón fordított a gravitáció.
+level.tutorial.drop.popup_2,Egy eldobása: |. Nyomva tartva több is eldobható.
+upgrades.droneyardbattlegridquick1.desc,Engedjen ki több drónt sokkal gyorsabban egymás után.
+upgrades.mushroomfarmautopickup.desc,A gombák közelébe érve automatikusan elfogyasztod őket.
+level.tutorial.drop.popup_1,A cipelt nyersanyagok lassítják a mozgásodat.
+properties.sword.retractspeed,Visszahúzás gyorsasága {} 
+reward.rewardkeeper1skin5.title,Mérnök kinézet
+upgrades.keeper4.desc,"Titokzatos Őrző, aki fürge csápjaival járja a bányákat, miközben macskagoblin szolgákat irányít."
+assignment.condition.deliverwater,Szállíts le %d vizet
+loadout.difficulty.hard.description,Te kupolád volt...
+upgrades.keeper4speed2.title,Mozgási sebesség 2
+loadout.versusmod.versusmodifierhardrock.desc,A pályán több kemény kőzet található.
+properties.furnace.maxironstack,Maximális vasköteg: {}
+upgrades.rocketlauncherdamage2.desc,Még tovább növeli a rakéták erejét.
+upgrades.artilleryrotation1.desc,Lehetővé teszi az aknavető további elforgatását.
+level.furnace.popup.fuel.add,Tegyél be egy | egységet elégetésre.
+reward.rewardpostrunshowmonstercount.desc,"További, menet utáni harci statisztikákat jelenít meg, például hogy szörnytípusonként mennyi sebzést kaptál."
+upgrades.extractordoublebuild.title,Dupla féreg
+multiplayer.error.otherteamquit,"A játék véget ért, mert a másik csapatából minden játékos kilépett. A játékod el lett mentve, és a Folytatás menüben a többjátékos mód kiválasztásával folytathatod a játékot."
+upgrades.blastminingproductiontime1.title,Gyártási idő
+upgrades.chainsawdamage2.desc,Növeli a körfűrész szörnyeknek okozott sebzését.
+multiplayer.continue.deviceselection.originalplayer,Eredeti játékos
+upgrades.shieldbattleinvulnerable.desc,"Aktív harcképességet indít be, amely rövid időre sebezhetetlenné teszi a kupoládat."
+level.gameover.unlock.drillbert,Ásókaszorzó feloldva!
+multiplayer.host.splitscreen.desc.ps5,Használd a kontrollereket a további őrzők létrehozásához. Egy képernyőt legfeljebb négy őrző oszthat meg. Kombinálható online többjátékos móddal.
+loadout.mapsize.large,Nagy
+level.furnace.popup.explanation,Adj nyersanyagokat a tüzelőanyag-készlethez. A nyersanyagok egymás után égnek el.
+upgrades.liftcapacity1.title,Kapacitás
+upgrades.shockwavebig.title,Végzetes hullám
+upgrades.extractorresources2.desc,"Olyan férgeket szaporítasz, amelyek az utolsó vasrészecskét is megtalálják a sziklában."
+level.tutorial.ninja.shuriken.desc1,Nyomd meg gyorsan kétszer a | gombot egy shuriken eldobásához.
+level.tutorial.ninja.shuriken.desc2,A shurikenek idővel újratöltődnek.
+upgrades.droneyarddronespeed1.title,Drón sebesség
+upgrades.stunlaserarea.title,Területi kábítás
+assignment.weakmining.title,Bányászati probléma
+options.game.events.allowtelemetry.ps5,EULA elfogadása
+upgrades.keeper3kunaibounce2.desc,Increase the range of tiles revealed with each bounce.
+assignment.projectilehell.title,Golyózápor
+options.input.controls.mouse.gamepad.ps5,A kontrollerre váltást és visszaváltást a játék automatikusan érzékeli
+reward.rewardpermanenthealthmeter.title,Állandó életerőjelző
+properties.game.fixedtimelimit,Időkorlát: {} perc
+upgrades.drillbot.title,Ásóka
+options.video.performance,Teljesítmény
+properties.furnace.waterduration,Víz égési ideje (ciklusok): {}
+level.gameover.win.team.profile,Profil
+upgrades.droneyardbattlegrid.title,Harci alakzat
+loadout.prestige.countdown.description,"A tekintély szorzó magasan kezd, és fokozatosan csökken."
+level.tutorial.ninja.carry.desc1,Hit| to throw a kunai carrying resources in the direction you are aiming with your %s.
+level.gameover.miner.title,BÁNYÁSZMENET VÉGE
+loadout.mapsize.medium.description,A közepes térképet rendes ásatásra ajánljuk.
+upgrades.assignmentsemergencycontribution2.desc,"Küldd el ezt a csomagot a 4. körig, különben meghiúsul a feladat."
+level.gameover.unlocknewelementbutton,"Válaszd ki, mit oldasz fel"
+upgrades.repellentbattlestrongerslowdown2.desc,"A füst még inkább lassítja a szörnyeket, és a hatás még tovább tart."
+upgrades.orchardovercharge3.desc,Növeli a túltöltés hatását a harci képességekre.
+modding.steamworkshop,Steam Műhely megnyitása
+upgrades.drillbotstrength2.title,Erősség 2
+reward.rewardkeeper1skin5.desc,Új őrzőkinézetet old fel a Mérnök számára.
+options.keybindings.rebinding.error.gamepad.ps5,Ezt nem állíthatod be kontroller-bemenetként.
+properties.keeper2.actioncooldown,Műveleti újratöltés {} mp
+pause.godot,Godottal készült
+loadout.mode.nomonsters,Nincsenek szörnyek
+properties.teleporter.teleportduration,Teleportálás időtartama {} mp.
+level.paused,Megállítva
+upgrades.teslaautoaim.desc,A célkereszt körül megjelenő területen belül automatikus a célzás a legközelebbi szörnyre.
+upgrades.domearmorpulse.desc,"A kupolapáncél megtartja a beérkező támadások mozgási energiájának egy részét, amelyet végül erős impulzusokban szabadít fel, elkábítva a közeli ellenségeket."
+upgrades.teslapower2.title,Tűzerő 2
+modding.close,Bezár
+upgrades.stunlaserduration2.desc,A kábítólézer még gyorsabban tölt újra és meghosszabbodik a tüzelés időtartama.
+level.station.battle.navbar.move,Mozgás
+upgrades.repellentbattleslowdown.title,Kábítás
+properties.drillbot.buffstrength,Energetizált gyorsítás {.percent}
+options.input.controls.keybindings.button.switch,Gombkiosztás módosítása
+upgrades.keeper4speed1.title,Mozgási sebesség 1
+upgrades.stunlaserduration2.title,Tüzelési kitartás 2
+modding.profile.delete,Profil törlése
+upgrades.dome1health1.desc,Ezzel tartósan javíthatod a kupola statikai állapotát.
+assignment.logistics.title,Logisztikai rémálom
+level.gameover.prestige.score.finalscore,A végső pontszámod...
+upgrades.prestige.desc,Szerezz pontokat a lehető legtöbb nyersanyag begyűjtésével még a kupolád összeomlása vagy a bolygó sikeres elhagyása előtt!
+properties.chainsaw.damage,Sebzés másodpercenként: {}
+upgrades.autocannonshotgun2.desc,Növeli a puska erejét.
+reward.rewardthreechoicesgadget.title,Három felajánlott eszköz
+options.input.gamepad.twinstick,Kétkaros irányítás
+upgrades.domewavewarner.title,Alkalmazkodó hullámriasztó
+upgrades.mushroomfarmdrill1.desc,Növeli a gombák elfogyasztásával kapott bányász sebességet.
+properties.suitblaster.chargespeed,Töltetek ciklusonként: {}
+loadout.player.color,Őrzőszín
+level.assignment.badges.unlock,Szerezz még %d jelvényt a feloldáshoz.
+assignment.projectilehell.desc,"A bolygót, repülő és lövedékeket köpő szörnyek lepték el."
+properties.repellent.overchargebattleabilityduration,További képesség időtartama {.percent}
+properties.orchard.battleshieldhp,Erősség {}
+properties.keeper2.reflectsphere,Visszaverő mező
+upgrades.probecharges.desc,Növeld a szonda tölteteinek számát.
+upgrades.resourcepackerconstant.title,Mesteri csomagolás
+upgrades.droneyardbattlegridlong2.desc,Engedj ki még több nagyon hosszú élettartamú drónt.
+upgrades.swordreflection2.desc,Még nagyobb pajzsfelület.
+upgrades.orchardovercharge3.title,Intenzív túltöltés
+upgrades.assignmentsemergencycontribution4.desc,"Küldd el ezt a csomagot a 11. körig, különben meghiúsul a feladat."
+upgrades.droneyardovercharge3.title,Kiterjesztett túltöltés
+level.gameover.assignment.lose.title,MEGBÍZATÁS SIKERTELEN
+actionhint.pack,Csomag
+upgrades.stationextensionminimap.title,Térképészet
+properties.tesla.orbdamage,Elektrogömb sebzése: {}
+properties.furnace.maxwaterstack,Maximális vízköteg: {}
+loadout.versusmod.versusmodifiermirroredmap,Tükrözött pálya
+upgrades.artilleryrotation1.title,Széles forgatás
+upgrades.drillsidespeed2.desc,Még jobban felgyorsítja az oldalsó fúrókat.
+level.tutorial.resourcepacker.popup_1,"Ha nyersanyagok közelében vagy, nyomd meg a | gombot, hogy könnyebben szállítható, kompakt kötegbe csomagold őket."
+properties.orchard.overchargeabilityuses,További képességhasználatok: {}
+options.input.controls.gamepadusage.ps5,Kontroller használat
+options.keybindings.restoredefault,Alapbeállítás visszaállítása
+options.input.gamepad.ps5,Kontroller
+upgrades.stationextensionresolution.title,Nagy felbontású kijelző
+upgrades.shieldbattlelongerafterdepletion.title,Nagyobbat szól lemerülés után
+telemetry.manage.ps5,EULA elutasítása
+level.gameover.stats.damagereceived,Elszenvedett sebzés
+modding.modio.moddownloadfailed,Error downloading mod.io mod!
+loadout.versusmod.versusmodifierironinflation,Vasinfláció
+reward.rewardpermanentwavecount.title,Állandó ciklusszámláló
+upgrades.jetpackstrength1.desc,Jetpack nyersanyaghordó képességének fejlesztése.
+level.gameover.unlock.gadget,Új eszköz
+upgrades.stationextension.desc,"Egy mozgó állomást kapsz, amely a kupola alatt közvetlenül futó sínen közlekedik. Lépj be az állomásra, hogy a bányából távolról irányíthasd a kupolát."
+loadout.versusmod.versusmodifierpoorirondeposits.desc,"A vaslelőhelyek nagyon nagyok, de kevesebb nyersanyagot adnak."
+upgrades.repellentbattlestrongerslowdown2.title,Erős stagnálás
+upgrades.converterirontocobalt.desc,"Ezzel kobalt alakítható át vassá, és vas kobalttá."
+loadout.dome,DOME
+upgrades.orchardduration3.title,Időtartam 3
+level.gameover.stats.resourcesmined,Kibányászott nyersanyagok
+options.input.gamepad.thumbstick,Thumbstick
+upgrades.keeper1powerdrill.desc,"Kapsz egy nagymértékben továbbfejlesztett fúrót, amely könnyedén átfúrja a legkeményebb sziklát, akár áttöri a korábban elpusztíthatatlan alapkőzetet is."
+upgrades.domesecondweapon.title,Weaponize Second Station
+actionhint.fire,Tűz
+versus.corruptionfastprojectiles.title,Gyors lövedékek
+level.gameover.unlock.dome,Új kupola
+loadout.versus.modifiers.limit,%d / %d módosító kiválasztva.
+upgrades.swordstabfast2.title,Gyors döfés 2
+properties.blastmining.growthtime,Gyártási idő (ciklus) {}
+options.keybindings.rebinding.inputprocessor.ps5,Nyomj meg egy új gombot ehhez az akcióhoz…
+level.gameover.stats.difficulty,Nehézség
+assignment.inversegravity.title,Fejjel lefelé
+assignment.acidrain.desc,"A bolygó savas esője nem enged meg semmilyen életet, és még a dóm páncélját is átmarja."
+upgrades.keeper4doublesquad.desc,"Szerezz egy újabb osztagot, amely bármikor bevethető, amikor hívod őket."
+upgrades.keeper4powerfulfirstpunch.desc,Az első csapás egy csempe ellen rendkívüli erővel történik.
+multiplayer.host.start,Játék indítása
+upgrades.mushroomfarmspeed2.title,Gombasebesség 2
+demo.end.more1,Több kupola!
+demo.end.more2,Az Assessor őrző!
+upgrades.swordreflection1.desc,"Megsokszorozza a pajzs méretét, és visszaveri az energialövedékeket."
+demo.end.more3,Sokkal több eszköz!
+upgrades.chainsawspeed1.title,Fűrész sebesség
+assignment.treefarm.desc,"A bolygó erőforrásai szűkösek, de sok nyersanyagfa-mag található rajta."
+demo.end.more4,Erőteljes kiegészítők!
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"Állítsd be az értéket úgy, hogy a mérő ne villogjon, amikor csak megérinted az analóg kart, anélkül hogy elmozdítanád.
+A mérőnek viszont villognia kell, amikor mozgatod a kart."
+actionhint.probe,Radar
+level.gameover.keepgadget.keeping,Tartandó kütyü: {gadget}
+upgrades.keeper3aerialmastery.desc,"Jobb irányíthatóság esés közben, és minden újabb levegőbeli ugrás magasabbra visz."
+upgrades.drillbot.desc,"Fogadj örökbe egy tündéri teremtményt, aki oda meg vissza van az ásásért! Vidd le a bányába, és tedd le oda, ahol dolgoztatni szeretnéd. Később menj vissza, és ha munka közben elaludt, ébreszd fel."
+upgrades.laserstrength4.title,Erő 4
+upgrades.artillerydoublemachinegun.title,Dupla cső
+upgrades.laserbend.desc,"A lézerre szerelt forgófej automatikusan pontosítja a célzást, ha az a közelbe kerül."
+upgrades.teslaquickshot2.title,Felerősített gyors lövés
+properties.droneyard.battledronespawntime,Drón előállítási idő {}mp
+upgrades.prospectionmetersand2.desc,Megmutatja a legközelebbi kobaltlelőhely irányát.
+upgrades.keeper2pinballreflect2.title,Visszaverés fejlesztése
+loadout.secondstage.start,Játék kezdése
+level.tutorial.extractor.popup_1,"Vedd fel a vasférgeket az állomásról, majd helyezd őket egy vaslelőhely mellé. A vasra tapadva idővel hatékonyan kibányásszák azt."
+upgrades.spirestuntrap2.desc,Energiacsapda hatékonyságának fejlesztése több lövedék elfogására.
+loadout.versus.condition.deathmatch.desc,"Az a csapat nyer, amelyik a legtovább életben marad."
+loadout.versusmod.versusmodifiertoughstart.desc,A szörnyhullámok már a kezdetektől fogva elég erősek.
+level.tutorial.drillingrig.popup2,"Ha egy oldalsó fúró közelében vagy, tartsd lenyomva a | gombot, hogy a fúrót a fúrószár mentén mozgathasd."
+level.tutorial.drillbot.sleeping2.switch,"When close to Drillbert, press | to wake it."
+upgrades.teleporterteleportitems.title,Teleportálási tételek
+level.tutorial.drillingrig.popup1,"A fúrótornyod oldalsó fúróval is rendelkezik, amely vízszintesen bányászik."
+level.tutorial.ninja.drop.desc1,Hit| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.stationextension.title,Föld alatti állomás
+upgrades.keeper2pinballreflect2.desc,Tovább fokozódik a visszavert gömbök erőssége.
+properties.sword.stabrange,Hatótáv {} 
+pause.disconnect.popup.ps5,A fő vezeték nélküli vezérlőt nem lehet letenni.
+options.game.systemcursor,Alapértelmezett egérkurzor használata
+upgrades.artillerygrenadefastreload.desc,Jelentősen csökkenti az aknavető újratöltési idejét.
+upgrades.stationextensionrevealdistance1.title,Közeli kőzetvizsgálat
+loadout.mode.secondweapon,Second Weapon Unlocked
+options.video.reducedparticles,Csökkentett részecske-effektek
+properties.monsters.finalwavefixedstrength,Végső hullámerősség: {}
+versus.corruptionfastmonsters.desc,A szörnyek tartósan gyorsabbá válnak.
+upgrades.spirestuntrap1.desc,"Lövedék lelövésekor energiacsapda keletkezik, amely aztán további lövedékeket fog be. A befogott lövedékek száma a beérkező lövedékek erősségétől függ."
+versus.corruptionfastprojectiles.desc,A szörnyek lövedékei sokkal gyorsabban repülnek.
+options.input.gamepad.twinstick.switch,Twin-Stick Controls (Disabled for single Joy-Con)
+upgrades.autocannonrateoffire2.title,Géppuska 2
+upgrades.chainsaw.title,Körfűrész
+options.input.vibration.strength.ps5,Rezgéserősség
+savegame.corrupted.title,Sérült mentési fájl
+properties.drillbot.drillstrength,Fúráserősség {}
+properties.prestige.multiplier,{} Tekintély hullámsokszorozónként
+upgrades.artillerysplash4.desc,"Hatalmas pusztítást végezhetsz az egész csatamezőn 4 egymást követő, nagy hatóerejű akna gyors kilövésével."
+upgrades.condenserdoublestorage.desc,A kondenzátor két víz előállítása és eltárolása után leáll.
+upgrades.shieldbattleactivateondepletion.desc,A pajzs deaktiválódása után a sebezhetetlenségnek köszönhetően a rendszer még egy darabig kitart.
+upgrades.chainsawspeed1.desc,Növeli a körfűrész mozgási sebességét a két oldal között.
+upgrades.teleporterteleportduration2.title,Teleport Időtartam 2
+properties.orchard.overchargeabilitystrength,További képességerő: {.percent}
+modding.modio.loginfailed,Login to mod.io with Xbox account failed!
+upgrades.rocketlauncherrockets3.title,Sortűz 3
+leaderboard.needsOnlineServices,A ranglistákhoz engedélyezni kell az online szolgáltatásokat.
+options.game.blocklist,Blocked User List
+upgrades.keeper4squad2.desc,Növeli az osztagban lévő macskagoblinok számát és az élettartamukat.
+reward.rewardweaponsupplements.desc,Rendkívül erős fegyverkiegészítő fejlesztéseket fedezhetsz fel.
+upgrades.domesupplementadditionalcellar.desc,"Adjon hozzá még egy szintet a pincédhez, két további helyet biztosítva a kütyük számára."
+level.tutorial.assessor.bundle.desc1.switch,Press|while carrying resources to shoot a bundle.
+loadout.difficult.harder,nehezebb
+playerlist.close,Bezár
+upgrades.keeper3rocketcarrier.title,Rakétahordozó
+level.tutorial.assessor.spheres.desc1.aiming,Hit| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+level.gameover.unlock.gamemode,Új játékmód
+upgrades.rocketlauncherrockets1.title,Sortűz 1
+upgrades.autocannonspeed1.title,Gyorsítás
+upgrades.spiresustain.desc,"Közel nullára csökkenti az újratöltési időt, nagyon egyenletes tüzelést biztosítva."
+upgrades.extractorresources1.title,Szorgalmas férgek
+multiplayer.host.splitscreen.desc.switch,Használd a kontrollereket a további őrzők létrehozásához. Egy képernyőt legfeljebb négy őrző oszthat meg. Kombinálható online többjátékos móddal.
+level.assignment.badges,Jelvények
+upgrades.prestigefinish.title,Hagyd el a bolygót
+properties.sword.slicebounceback,Kardvisszapattanás a széleken
+properties.droneyard.transportdronecount,Szállító drónok {}
+upgrades.drilladditionalsides.title,További oldalsó fúró
+upgrades.shieldbattleblastdamage.desc,Növeli az elektromos tér sebzését és többször lesz bevethető csatánként.
+upgrades.extractordestruction.title,Fészekrobbanás
+properties.sword.electricdamage,Elektromos penge sebzése {}
+properties.mushroomfarm.growthtime,Növekedési időtartam (ciklus) {}
+upgrades.keeper3carrylimit1.desc,Növeld a kunai-hordozódon szállítható nyersanyagok számát.
+options.accessibility.fontsize,Font Size
+upgrades.keeper4punch2.title,Őrjöngés 2
+upgrades.laser.desc,"Egy precíziós lézer, amely a kupola körül mozog. Eredetileg aszteroidabányászatra tervezték."
+loadout.hint.multiplayer.playermaximum,Többjátékos menet indításához legfeljebb 8 játékos szükséges.
+upgrades.drillsides.title,Oldalsó fúró
+upgrades.mushroomfarmautopickup.title,Gyors harapás
+options.input.controls.mouseusage,Egér használat
+properties.tesla.reticlemaxspeed,Célkeresztsebesség {}
+upgrades.swordstabshoot.desc,"Ahelyett, hogy a kardot kötéllel kellene visszahúzni, ezzel dárda módjára kilövell a kupolából."
+properties.condenser.autocollect,Automatikus begyűjtés
+level.gameover.back,Vissza
+loadout.mapsize.small,Kicsi
+loadout.hint.gamemode,Válassz játékmódot!
+upgrades.swordlargeblade3.title,Súlyos penge 3
+level.tutorial.ninja.controls,"Ez az őrző csak kontrollerrel, illetve egérrel és billentyűzettel játszható."
+telemetry.explanation.ps5,"Fogadd el a végfelhasználói licencszerződésünket az online többjátékos mód eléréséhez.
+Ha nem teszed, helyi többjátékos módban, osztott képernyőn továbbra is játszhatsz.
+
+Ezt a beállítást bármikor módosíthatod a beállításokban."
+multiplayer.techtree.keeperexclusiveupgrades,Ezek a fejlesztések csak a Te őrződre vonatkoznak.
+assignment.heavyhitters.desc,A bolygót közelharci szörnyek lepték el.
+options.input.controls.mouse.domes,Egér használata Kupola irányítására
+loadout.mode.toughstart, Tough Start
+upgrades.swordaimline.desc,Adj lézercélt a karddöféshez!
+upgrades.assignmentssendiron.title,Vas leszállítása
+upgrades.domearmormelee1.title,Közelharci Páncél 1
+assignment.showdown.title,Leszámolás
+upgrades.keeper3shuriken1.desc,"Szerezz egy dobható shurikent, amely kis sugarú robbanást okoz, és automatikusan újratöltődik."
+upgrades.teslatiming1.title,Tökéletes időzítés
+upgrades.stationextensionrevealdistance2.title,Kőzetvizsgálat
+loadout.prestige.pro.gadgetorder,Eszközsorrend
+upgrades.prospectionmeterwater1.title,Vízmérő
+properties.teleporter.teleportresources,Nyersanyag-teleportálás
+options.video.stretchmode.scaled.text,"Egy fix felbontáshoz renderli a játékot és a képernyőd méretéhez igazítja.
+Néhol kicsit pixeles főleg a betűknél, de nincsenek vizuális hibák."
+loadout.secondstage.cancel,Mégse
+level.station.battle.navbar.stab,Döfés
+properties.keeper3.bouncesonarrange,Szonárhatótáv (csempék) {}
+assignment.cobaltcontribution.title,Kobalthozzájárulás
+upgrades.keeper2pinballsplit.desc,"Felhasítja a beérkező gömböket, és a darabok az eredeti irányra merőlegesen távoznak."
+options.input.gamepad.switch,Kontroller
+upgrades.stunlaserduration1.desc,A kábítólézer gyorsabban újratölt és hosszabban tüzel.
+properties.spire.stuntrapduration,Időtartam {} mp
+loadout.mapsize.medium,Közepes
+upgrades.keeper4swiftpunch.title,Gyors csapások
+upgrades.domewavecount.title,Ciklusszámláló
+level.gadgetchoice.slot,Hely: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,"Vedd fel a myzel spórákat a gombatörzsből, és helyezd őket egy sziklára. Időnként bónuszgombává nőnek."
+options.game.languages,Nyelvek
+upgrades.autocannonshotgun2.title,Puska 2
+upgrades.drillbotturnaround.title,További feltételek
+level.tutorial.overcharge.popup_2,"Menj közel hozzá, és nyomj | -t a túltöltéshez."
+level.tutorial.overcharge.popup_3,"Ehhez 1 | szükséges, és csak akkor hajtható végre, ha van belőle elegendő."
+level.tutorial.overcharge.popup_1,"Mostantól túltöltheted az elsődleges eszközödet, hogy a következő csatára megerősítsd."
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,"Emelőgömbök helyett a liftben lévő nyersanyagokat egy fordított gravitációs mező folyamatosan felfelé mozgatja, és részben visszaadja a gömbökre költött erőforrásokat."
+level.station.navbar.battle,Harc
+options.keybindings.rebinding.error.mouse,Ez nem állítható be egérbemenetként.
+options.input.gamepad.autoswitch.ps5,A preferált kontroller automatikus érzékelése
+properties.lift.keeperupwardsspeed,Őrző liftjének gyorsasága {}
+loadout.keeper,Őrző
+level.gameover.unlock.keeper,Új őrző
+options.keybindings.rebinding.inputprocessor,Válassz egy másik billentyűt ehhez a művelethez â€¦
+options.input.gamepad.xbox,Kontroller
+upgrades.keeper4extraresource.title,Szorgalmas macskagoblinok
+upgrades.shieldoverchargestrength2.title,Túltöltött pajzs erőssége 2
+loadout.mode.domesupplements,Tripla kiegészítők
+upgrades.converter.desc,A raktárad tartalmának kiegyenlítésére ezzel az eszközzel nyersanyagokat alakíthatsz át.
+assignment.minorvision.title,Sötétség
+upgrades.shieldstrength1.desc,Megnöveli a pajzs támadáselnyelési képességét.
+properties.stationextension.tilerevealdistance,Felfedési távolság: {} csempe
+loadout.mode.toughstart.desc,Start with stronger waves.
+upgrades.liftcarrykeeper1.desc,A lift növeli a sebességedet amikor benne mozogsz.
+options.input.controls.mouse.aim,Egér használata célzáshoz
+upgrades.spireprojectileslowdown.desc,A torony folyamatosan lassítja az összes ellenséges lövedéket.
+assignment.chosen.title,A céhes megbízatásod
+upgrades.furnacestrongwaterfiring.desc,A víz égetése hatékonyabban késlelteti a szörnyeket.
+properties.dome.healthfractionrepair,Javításmértéke az összes életerőből {.percent}
+level.tutorial.assessor.carry,Gravitációs begyűjtés
+upgrades.laserhitprojectiles.title,Lövedékek megsemmisülése
+upgrades.teslaorbstun.title,Mélységhatás
+reward.rewardgadgetsupplements.title,Eszköz kiegészítők
+options.input.controls.keepersettings.individual,Egyéni Keeper-beállítások
+upgrades.teslapower2.desc,A tesla tűzerejének fejlesztése.
+properties.acidrain.fixeddamageperminute,Sebzés percenként: {}
+demo.end.more,És még sok más:
+landing.proceed,A folytatáshoz nyomj meg egy gombot
+modding.modio.ugcterms.content2,"By continuing, your Xbox Live identifier will be used to seamlessly authenticate you with mod.io. To proceed, you must read and agree to the mod.io policies:"
+upgrades.keeper4catgoblinamount.title,Kibővített Almok
+modding.modio.ugcterms.content3,[i]These conditions will open in your system's default web browser.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,Stagnálás
+upgrades.spiresplit1.title,Lövedékhasadás
+upgrades.suitblasterradius2.title,Robbanási Sugár 2
+properties.keeper4.punchstrength,Ütés ereje {}
+modding.modio.ugcterms.content1,"To access, download, and manage user-generated content (UGC), this game uses the [b]mod.io[/b] service."
+upgrades.versus.title,Egymás ellen
+upgrades.swordstabexplode.title,Döfésbomba-szállítmány
+modding.modlist.title,Engedélyezett modok
+options.game.kunaisnapping,Kunai célzásának igazítása a fő irányokhoz
+loadout.versusmod.versusmodifiersecondweapon,Second Weapon Unlocked
+upgrades.teleporterteleportduration1.desc,Az önteleportálási idő lecsökken.
+options.input.controls.keybindings.button,Gombkiosztás megváltoztatása
+upgrades.domearmor.title,Kupola páncél
+options.input.gamepad.gamepadstickdeadzone.text,"Állítsa be úgy az értéket, hogy a hüvelykujjkarok érintésénél nem villódzon a jelzősáv.
+Ha a karokat megmozdítja, megnyomja, a sávnak villognia kell."
+options.translation.community.desc,Ezek a nyelvek a közösségünk által lett lefordítva. Kapcsolódj be ha szeretnél!
+level.tutorial.beastmaster.mine,Bányászat
+upgrades.keeper4speed1.desc,Növeli a mozgási sebességet.
+properties.shield.overchargebattleabilityduration,További képesség időtartama {.percent}
+upgrades.shockwavedamage1.desc,Növeli a lökéshullám által okozott sebzést.
+network.error.offline.xbox,"Megszakadt a kapcsolatod az Xbox hálózattal. Kérlek, ellenőrizd az internetkapcsolatodat, majd próbáld újra."
+properties.condenser.waterstorage,{} vizet tárol el
+loadout.versusmod.versusmodifierstrongmonsters.desc,A szörnyeket nehezebb megölni.
+title.navbar.modding,Modolás
+upgrades.dome3.desc,Egy gyakran használt katonai kupola hatalmas pusztító erővel rendelkező aknavetővel. Tartozéka egy védelmi célokat szolgáló légvédelmi géppuska.
+upgrades.keeper4powerfulfirstpunch.title,Első Csapás
+properties.sword.brake,Kardhatalom {}
+level.tutorial.suitblaster.popup_1,"Nyomd meg a | gombot a ruharobbantó használatához, amely körülötted körtávban pusztítja a kőzetet."
+properties.stunlaser.firetime,Tüzelésidő {} mp.
+level.tutorial.suitblaster.popup_2,Idővel automatikusan újratöltődik.
+properties.orchard.battleabilityuses,Használatszám csatánként {}
+upgrades.keeper4ramping1.desc,"A bányászati sebesség folyamatos munkával nő, de megálláskor a lendület csökken."
+level.gameover.unlockpicker.title,"VÁLASZD KI, MIT OLDASZ FEL"
+options.input.gamepad.autoswitch.switch,A preferált kontroller automatikus érzékelése
+upgrades.suitblaster.desc,"Egy bányászati robbantó kerül a ruhádba, amely robbanással pusztítja a körülötted lévő sziklákat."
+upgrades.spiresplit1.desc,"A becsapódó lövedékek több kis részre hasadnak, sebzést okozva az ellenségeknek. A hasadt lövedékek száma a beérkező lövedék erősségétől függ."
+properties.versus.additivewave,Növelt hullámerősség (másik csapat): {}
+properties.keeper3.aircontrol,{.percent} légirányítás
+multiplayer.error.keepertaken,"A kiválasztott őrzőt már elfoglalták. Kérlek, próbáld meg egy másik őrzővel."
+assignment.mode.challenge,Kihívás
+upgrades.keeper3shurikenstrength1.desc,"Növeli a shuriken robbanásának erejét, így nagyobb területen pusztítja a csempéket."
+pause.invite,Barát meghívása
+options.accessibility.fontsize.medium,Közepes
+upgrades.keeper2pinballdestroyadjacenttiles.desc,"Amikor egy kinetikus gömb elpusztít egy szikla mezőt, a becsapódásra merőleges mezők is megsemmisülnek."
+upgrades.furnaceironfiring.title,Vas üzemanyag
+upgrades.furnaceslowdown.desc,A füst mérgező komponenst kap ami elzsibbasztja a szörnyek idegrendszerét és lelassítja mozgásukat.
+upgrades.swordlargeblade2.desc,"Masszív penge felszerelése, amely lassabb, de súlyosabban sebez."
+upgrades.blastminingblast1.desc,Növeli a robbanáserősséget.
+upgrades.stationextensionrevealdistance1.desc,Az állomás közelében lévő kőzetek és nyersanyagok automatikusan láthatóvá válnak.
+leaderboard.season,Idény {season}
+multiplayer.host.crossplay.enabled,Crossplay engedélyezve
+multiplayer.techtree.keepersharedupgrades,"Ezek a fejlesztések megosztottak minden őrző között, akik ezt az eszközt használják."
+loadout.versusmod.versusmodifierlongcycles.desc,Hosszabb idő telik el a szörnyhullámok között.
+upgrades.artillerydirecthit2.title,Szörnyverő 2
+upgrades.stationextensionresolution.desc,Tisztább képet biztosít a kupoláról és környezetéről.
+options.keybindings.action.general.use,Használat
+loadout.relichunt.modifiers,Menetszorzók
+assignment.heavyhitters.title,Keménykötésűek
+upgrades.furnacelastingwaterfiring.title,Tartós víz üzemanyag
+properties.shield.battleblastdamage,{} robbanás okozta sebzés másodpercenként
+multiplayer.error.timeout,A kapcsolat időtúllépés miatt megszakadt.
+multiplayer.join.discovering,Játákok keresése...
+properties.condenser.growthtime,Gyártási idő (ciklus) {}
+level.gameover.assignment.badges,"Szereztél egy új jelvényt, amelyet az Őrzők Céhének jutalmaira költhetsz."
+upgrades.drill1.desc,Ezzel megerősítheted a fúrót a gyorsabb ásáshoz.
+level.corruptionchoice.title,VÁLASSZ EGY TORZULÁST!
+properties.artillery.grenadedamage,Aknasebzés {}
+level.gameover.continue,Tovább
+options.game.spheresnapping,Gömb célzásának igazítása a fő irányokhoz
+options.input.gamepad.gamepadstickdeadzone.motiondetected,mozgást érzékelve:
+options.input.gamepad.icons.automatic,Automatikus
+reward.rewardkeeper4skin3.title,Vadállatidomár kinézet
+upgrades.prestige.title,Tekintély
+upgrades.keeper3shurikenstrength1.title,Erős Shuriken
+upgrades.spiresplit2.desc,Gyorsabban és több részre hasadnak a lövedékek.
+upgrades.swordlargeblade1.desc,"Szélesíti és meghosszabbítja a kard pengéjét, hogy több sebzést okozzon."
+upgrades.droneyardbattlegridlong1.title,Hosszú élettartamú drónok
+properties.stunlaser.speed,Gyorsaság {}
+upgrades.repellentbattleslowdownstun2.desc,Spórák gyakoribb használata a szörnyek hosszabb kábítására.
+upgrades.drillsidespeed1.desc,Felgyorsítja az oldalsó fúrókat.
+level.tutorial.ninja.bombs.desc1,Hold| to shoot kunai for mining in the direction you are aiming with your %s.
+loadout.mode.maze.desc,"A térkép labirintusszerű, sok kiszögellése, zsákutcája és kanyarja van."
+upgrades.domesupplementprojectiledamagereduction2.desc,Továbbfejlesztett elhárítóképességgel még kisebb a lövedékek okozta sebzés.
+level.tutorial.ninja.bombs.desc2,"A Kunai visszapattan, ha meredek szögben talál el egy falat."
+upgrades.domesupplementmeleedamagereduction1.desc,"Megerősíti a kupola héját, így a közel támadó szörnyek sebzései kevésbé hatnak. A lövedékekre ez nincs hatással."
+upgrades.chainsawautonomy.title,Autonómia
+options.input.gamepad.gamepadstickdeadzone,Hüvelykujjkar holttér
+upgrades.teslapower3.desc,A tesla tűzerejének fejlesztése.
+level.tutorial.artillery.panel1header,Aknavető
+upgrades.keeper4punch3.title,Őrjöngés 3
+upgrades.furnaceslowdown.title,Zsibbasztó füst
+upgrades.teslaspeed1.desc,A célkeresz gyorsabban mozog.
+upgrades.teslaquickshot2.desc,A gyors lövés sokkal erősebb.
+level.tutorial.repair.findcobalt,"Próbálj kobaltot találni, mert azzal megjavítható a kupola.
+Ez egy ritka, és véges mennyiségben fellelhető nyersanyag."
+title.navbar.newgame,Új játék
+options.keybindings.action.dome.battle,Harc
+upgrades.keeper2pinballsplit.title,Hasított gömbök
+properties.keeper2.bundlecentralmarker,Középső oszlop jelölése
+options.keybindings.gamepad,Kontroller
+options.video.stretchmode.rezised.text,"Ez a beállítás a játékot az alapértelmezett képernyő vagy az ablak felbontásához igazítja.
+A kép éles lesz, de egypixeles vonalakként megjelenő vizuális hibákat tartalmazhat."
+options.audio,Audió
+upgrades.domehealthmeter.desc,Megmutatja a kupola statikai állapotát.
+upgrades.shieldbattlereflectshortuses.title,Időzített visszaverés
+loadout.zoom1,Közeli
+loadout.zoom2,Távoli
+upgrades.orchardovercharge.title,Kerttúltöltés
+upgrades.keeperonewayteleporter.desc,"Szerezz egy személyes egyirányú térkaput. Helyezd el bárhol, és teleportálj vissza oda, amikor csak akarsz."
+options.input.controls.gamepadusage.switch,Kontroller használat
+properties.orchard.battleroots,Növessz gyökeret a talajon {}
+upgrades.mushroomfarm.desc,"Gombákat termeszt a pincédben, amelyeket a bányában elültetve sebesség- és bányászati bónuszokat kapsz."
+keybindings.reset.title,Gombkiosztás visszaállítása
+multiplayer.continue.deviceselection.cancel,Kiválasztás visszavonása
+loadout.hint.selection,Nyomd meg a | gombot a kiválasztáshoz.
+upgrades.orchardbattleshieldsecondlayer.title,Kétrétegű indaburok
+properties.artillery.grenades,Akna {}
+upgrades.drill3.title,Fúráserősség 3
+assignment.weakcarry.title,Logisztikai probléma
+upgrades.shockwavestun1.title,Lökéshullám-bénítás 1
+upgrades.domesupplementprojectiledamagereduction1.title,Kupolahéj elhárítása
+properties.keeper3.maxjumps,{} ugrás
+upgrades.converterefficientcobalt.desc,Átalakítási hatékonyság fejlesztése.
+properties.furnace.waterdelay,Vízkésleltetés: {} mp
+gadget.slot.keepersupplement,Őrzőkiegészítő
+upgrades.keeper4ramping2.title,Lendület 2
+upgrades.orchardduration1.title,Időtartam 1
+upgrades.domesupplementprojectiledamagereduction2.title,Elhárítás fejlesztése
+loadout.pet,Állatka
+reward.rewarddomesupplements.desc,Rendkívül erős kupolakiegészítő fejlesztéseket fedezhetsz fel.
+properties.prestige.score,{} Tekintély
+properties.keeper3.kunaicooldown,Kunai újratöltési idő: {} mp
+properties.stunlaser.stunarea,Kábítási terület {}
+upgrades.blastminingblast2.desc,Tovább növeli a robbanáserősséget.
+reward.rewardrerolloffers2.title,Víz újrasorsolása
+upgrades.artillerysplash1.title,Szóródó robbanófej 1
+upgrades.drillwidetunnel.title,Széles alagút
+modding.modio.ugcterms.title,User Generated Content Terms of Use
+options.input.controls.keepersettings.title,Keeper vezérlési beállításai
+options.keybindings.action.keeper.gravitycollect,Begyűjtés
+upgrades.domearmorhealth1.desc,"Növeli a páncél tartósságát, több életerőt adva a kupolának."
+reward.rewardgadgetsupplements.desc,Rendkívül erős kiegészítő fejlesztéseket fedezhetsz fel az eszközökhöz.
+properties.laser.movespeedmod,Mozgási sebességi szorzó {.percent}
+upgrades.domeresourcecounters.title,Készletgazdálkodás
+level.station.battle.navbar.shoot,Lövés
+upgrades.jetpackstrength2.desc,Jetpack nyersanyaghordó képességének fejlesztése.
+upgrades.teslapower4.title,Tűzerő 4
+properties.droneyard.battleabilityuses,Használat harconként {}
+loadout.gadget.additional.unlock,"Vannak még fel nem oldott eszközeid. Egy eszköz feloldásához nyerj meg bármilyen menetet, miután megtaláltad azt a bányában, és beszerelted a kupolába."
+properties.laser.hitprojectiles,a lézer eltalálja az energialövedékeket
+properties.keeper2.minspeed,Minimális sebesség {.percent}
+properties.laser.dpsmod,Sebzés szorzó {.percent}
+properties.prospectionmeter.scandelay,Pásztázási késleltetés {} mp
+level.tutorial.artillery.panel1content2,"Minél tovább tartod lenyomva, annál messzebbre repül a lövedék."
+level.tutorial.artillery.panel1content1,"Tartsd lenyomva a | gombot az aknavető töltéséhez, majd engedd el a tüzeléshez."
+options.ok,Mentés
+assignment.mode.regular,Általános
+upgrades.teslaautoaim.title,Auto-célzás
+upgrades.orchardduration1.desc,A gyümölcs hatása tovább tart.
+options.title,BEÁLLÍTÁSOK
+upgrades.probedetectchambers.desc,A radar ekkor kamrákat is észlel.
+upgrades.dome1.desc,Precíziós lézerrel felszerelt standard bányászkupola.
+upgrades.repellentbattlestrongerslowdown1.desc,"A füst még inkább lassítja a szörnyeket, és a hatás tovább tart."
+upgrades.resourcepacker.desc,"A ruhádba egy nyersanyagcsomagolót szerel, amely több nyersanyagot kötegekbe tömörít, így könnyebben szállíthatók."
+properties.keeper4.goblinextraresourcechance,További nyersanyag esélye: {.percent}
+properties.orchard.speedbuff,Mozgási sebességi bónusz {}
+keybindings.reset.explanation.xbox,"A gombkiosztásaidat visszaállítottuk a legutóbbi frissítés miatt, amely jelentős változtatásokat hozott a bemeneti rendszerben. Elnézést a kellemetlenségért!"
+upgrades.keeper2rotationalmining2.title,Kompressziós bányászat 2
+upgrades.keeper3rocketcarrier.desc,"Cseréld le a kunai-hordozókat rakétahajtású változatokra, amelyek egyenes vonalban haladnak a becsapódásig."
+properties.blastmining.damage,Sebzés {}
+options.video.renderscale,Felbontási skála
+modding.profile.title,Profil kiválasztása
+options.keybindings.action.general.left,Balra
+properties.versus.multiplicativeewave,Növelt hullámerősség (másik csapat): {.percent}
+level.tutorial.drillbot.sleeping1,"Ásóka egy idő után, vagy mikor kivájhatatlan falba ütközik, álomba szenderül."
+level.tutorial.drillbot.sleeping2,Közelébe érve felébresztés: |.
+upgrades.laserstrength4.desc,"Jelentősen javítja a lézer erejét, de tüzelés közben alig mozog."
+upgrades.droneyardovercharge2.title,Javított túltöltés
+level.tutorial.drillbot.sleeping3,Megfordíthatod azzal hogy megütöd | gombot amikor ébren van.
+modding.prestigeforbidden,Nem indítható tekintélymenet ilyen modokkal.
+upgrades.laser.title,Lézer
+upgrades.domesupplementelectrifiedsurface1.title,Elektromos héj 1
+pause.quitgame,Kilépés a játékból
+upgrades.swordlargeblade3.desc,"Ez a nagyon erős szörnypenge, amely csak lassan mozgatható."
+upgrades.relichunt.desc,"Találd meg az eltemetett ereklyét, és hozd őket a kupolába."
+properties.shockwave.cooldown,Újratöltés {} mp.
+upgrades.repellentdelay1.desc,Késleltesd tovább a következő szörnytámadást.
+savegame.corrupted.desc,"Az utolsó mentési fájl sérült, valószínűleg a mentés közbeni rendszerhiba miatt. Visszaállunk az előző mentésre."
+multiplayer.host.online,Online
+keybindings.reset.doreset.switch,Gombkiosztásaim visszaállítása
+options.cancel,Mégse
+upgrades.keeper4catgoblindig2.title,Hatékony Bányászat
+upgrades.furnacewaterfiring.desc,"Égess el vasat a kemencében, hogy tovább késleltesd a szörnyetegek támadását."
+upgrades.shockwavedamage2.title,Lökéshullám-sebzés 2
+upgrades.proberange1.desc,Növeli a szonda hatótávját.
+pause.options,Beállítások
+keeperdlc.load.missing.switch,"A mentés nem tölthető be, mert nem elérhető letölthető tartalmat tartalmaz. Győződj meg róla, hogy a „The Lost Keepers” letölthető tartalom elérhető."
+pause.gamepadcontrols.drop,Eldob
+upgrades.assignmentsemergencycontribution3.title,Vészadomány 7
+options.game.shootbundlebeforegadgets,Shoot the Resource Bundle before Gadgets
+options.video,Videó
+upgrades.blastmining.title,Robbantó bányászat
+modding.modio.subscriptions,Show Mod.IO Subscriptions
+level.gameover.proceedtounlock,Oldj fel egy új elemet
+upgrades.prospectionmeter.desc,Ez az eszköz megmutatja a legközelebbi nyersanyagok távolságát.
+properties.keeper2.spherereload,Gömbújratöltés {} mp.
+options.keybindings.apply,Alkalmaz
+upgrades.teslaquickshot.desc,"Miután lelőttél egy feltöltött lövést, a tüzelés gomb gyors megnyomásával egyetlen gyengébb lövést adhatsz le."
+level.tutorial.tesla.panel1header,Célkereszt mozgása
+upgrades.tesla.title,Tesla
+properties.tesla.persistance,Elektrogömb élettartama {}s
+upgrades.repellentbattleslowdownstun1.title,Bénítás
+upgrades.probelongmarker1.title,Jelölő memória
+modding.modio.tokenerror,Connection to token provider failed!
+upgrades.stationextensionupgrades.title,Távoli fejlesztések
+upgrades.prestigewater.desc,Küldj vissza vizet. Növeli a hullámok után kapott presztízspontok mennyiségét.
+upgrades.artillerydirecthit2.desc,Aknavető-lövedékek pusztítóképességének növelése.
+upgrades.mushroomfarmquickgrowth.desc,A gombák gyorsabban nőnek a pincében.
+network.error.notsignedin.ps5,Sign in to PlayStation™Network to access online features
+options.input.controls.keybindings.ps5,Gombkiosztás
+multiplayer.error.clientcrossplaydisabled,A lobbyhoz való csatlakozáshoz szükséges a crossplay engedélyezése.
+upgrades.keeper3carrylimit2.desc,Növeld a kunai-hordozódon szállítható nyersanyagok számát.
+level.supplementchoice.reroll, Újrasorsolás
+upgrades.orchardbattlerootingexplosion.desc,"Ezzel a csapdába zárt szörnyek felrobbannak, és sebzést okoznak maguk körül."
+upgrades.rocketlauncherrestock.desc,A rakétasiló kiürülés után egy idővel újratölti az összes rakétát.
+upgrades.droneyardbattlegridquick2.title,Azonnali drónok
+assignment.denseiron.title,Sűrű vas
+options.input.controls.gamepadusage.xbox,Kontroller használat
+level.tutorial.ninja.bombs,Kunai
+upgrades.domearmorhealth2.desc,"Növeli a páncél tartósságát, több életerőt adva a kupolának."
+loadout.title,Összeállítás
+multiplayer.continue.deviceselection.team,Csapat
+properties.keeper3.kunaiweaknessagainsthardrock,Kunai gyengülése kemény kőzet ellen {.percent}
+level.tutorial.repellent.popup_2.switch,"When close to it, press | to activate it."
+upgrades.chainsawdamage3.desc,Növeli a körfűrész szörnyeknek okozott sebzését.
+level.tutorial.artillery.panel3content1,"Az aknavető lövedékei területi hatásúak, de a közvetlen találatok nagyobb sebzést okoznak. A kupolát nem tudják megsebezni."
+level.gameover.unlock.regulargadget,Új eszköz feloldva a megbízatásokhoz!
+options.keybindings.gamepad.ps5,Kontroller
+options.input.gamepad.thumbstick.switch,Stick
+upgrades.artilleryshotstun.title,Fülsiketítő robbanás
+upgrades.assignments.title,Céh küldetések
+upgrades.rocketlauncherrockets1.desc,Növeli a kilőhető rakéták számát.
+level.tutorial.assessor.bundleguide.desc1,Mostantól irányíthatod az álló kötegeket.
+level.tutorial.assessor.mining,Kompressziós bányászat
+level.tutorial.assessor.bundleguide.desc3,"Követni fog, ha a közelében vagy."
+level.gameover.win.team,%s. CSAPAT GYŐZÖTT
+level.tutorial.assessor.bundleguide.desc2,Álló köteg elhelyezése: | irány megnyomása nélkül.
+options.video.graphicsmode.window,Ablak
+upgrades.artillerymachinegun1.desc,Fejleszti a légvédelmi géppuska tűzsebességét. Tartozéka a célzásjavító lézer is.
+upgrades.droneyardovercharge1.desc,"Ideiglenesen túltölti vízzel a gyárat, hogy a következő csatában több drónt gyártson."
+modding.title,MODOLÁS
+assignment.treefarm.title,Fafarm
+level.gameover.prestige.score.personalbest,Ez a legjobb eredményed!
+level.gameover.unlock.world,Új világ feloldva.
+assignment.chosen.todo,Nincs kiválasztott megbízatás
+options.keybindings.action.dome.battleability1,Harci képesség 1
+loadout.versusmod.versusmodifierwindingmap.desc,A pálya kissé labirintusszerű.
+reward.rewardweaponsupplements.title,Fegyverkiegészítők
+upgrades.laserstrength2.title,Erő 2
+upgrades.keeper2movement1.desc,Gravitációgener mozgási sebességének fejlesztése.
+options.keybindings.action.dome.battleability2,Harci képesség 2
+upgrades.domesecondweapon.desc,Install a new weapon that is controlled by the second station located in the second cellar layer.
+upgrades.resourcepackerquickcharge.desc,Növeld a töltetek regenerálódási sebességét.
+upgrades.laserstrength2.desc,"Jelentősen fejleszti a lézer erejét, de tüzelés közben még lassabban fog mozogni."
+upgrades.autocannonimproved.title,Fejlesztett automata ágyú
+upgrades.keeper3kunaicooldown1.desc,Dobd a kunaiokat gyorsabban.
+upgrades.keeper2pinballsplit2.desc,Hosszabban fennmaradó hasított gömbök.
+upgrades.swordreflection1.title,Visszaverés 1
+level.tutorial.ninja.drop.desc1.switch,Press| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.suitblasterradius2.desc,Növeli a robbanás sugarát.
+options.game.dropresourcesbeforegadgets,Drop Resources before Gadgets
+options.translation.community.crowdin,Dome Keeper fordítási projekt a Crowdinon
+loadout.hint.playerlimitprestige,"Start Run
+
+Scores are not uploaded when playing Prestige with 3+ players."
+upgrades.assignmentsemergencycontribution1.title,Vészadomány 2
+upgrades.shockwavedamage2.desc,Növeli a lökéshullám által okozott sebzést.
+options.input.gamepad.autoswitch.xbox,A preferált kontroller automatikus érzékelése
+loadout.versusmod.versusmodifierlittlecobalt.desc,A pálya csak minimális kobaltlelőhelyet tartalmaz.
+upgrades.keeper1.title,Mérnök
+level.furnace.popup.title,A kemence feltöltése
+upgrades.prospectionmeterrange2.title,Hatótáv 2
+pause.discord,Csatlakozz hozzánk a Discordon
+upgrades.lasermove1.title,Mozgási sebesség 1
+options.input.controls.mouse.gamepad.switch,A kontrollerre váltást és visszaváltást a játék automatikusan érzékeli
+upgrades.jetpackspeed3.title,Gyorsaság 3
+upgrades.chainsawautonomy.desc,"A körfűrész akkor is megvédi a kupolát, ha épp nem az állomáson tartózkodsz."
+properties.extractor.buildcycles,Féregtermelés (ciklusok): {}
+upgrades.stunlaserstun2.desc,"Kábítósugár erejének növelése, hogy még a legerősebb szörnyekre is komolyan hasson."
+upgrades.teleporter.desc,Kétirányú teleport köti össze a pincében lévő állomást a portállal.
+upgrades.droneyarddrones.title,Szállító drón
+level.tutorial.assessor.spheres.desc1.aiming.switch,Press| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+upgrades.liftspeed1.desc,A gömbök gyorsabban mozognak.
+properties.prestige.provokedwavestrength,Szörnyprovokáció: {.percent}
+upgrades.artillery.desc,"Masszív aknákat kilövő, nagy aknavető és gyorstüzelő légvédelmi géppuska kombinációja."
+upgrades.shredgadgettocobalt.title,Törmelékből kobalt
+level.gameover.stats.distancetravelled,Megtett távolság
+loadout.mode,Játékmód
+loadout.difficult.easier,könnyebb
+upgrades.domearmorhealth1.title,Páncél tartósság 1
+options.game.playernamesinmultiplayer,Játékosnevek megjelenítése többjátékos módban
+properties.sword.slicedamage,Vágás sebzés{}
+options.keybindings.action.general,Általános
+upgrades.keeper4punch2.desc,Növeli a bányászati erőt és a maximális bányászati sebességet.
+upgrades.keeper4catgoblinsleeptime.title,Koffein tabletták
+upgrades.condenserdoublestorage.title,Dupla tárhely
+upgrades.drillbotbuffguidance.desc,"Mutatja az Ásóka felé az irányt, amikor jutalomfalat van nálad."
+loadout.versusmod.versusmodifierscatterediron.desc,"A vaslelőhelyek kicsik és elszórtak, de sok van belőlük."
+upgrades.proberange3.title,Nagyon nagy hatótáv
+upgrades.sword.desc,"A kard annál több sebzést okoz, minél nagyobb sávban leng a kupola körül. A kardot kinyújtva szörnyeket döfhetsz le, és a pajzsrészével blokkolhatod a lövedékeket."
+properties.rocketlauncher.rockets,Rakéták: {}
+keybindings.reset.explanation,"Egy nemrégiben történt frissítés jelentős változásokat hozott a beviteli sémában, a gombkiosztást alaphelyzetbe állítottuk. Elnézést a kellemetlenségért!"
+upgrades.shield.desc,"Szerelj fel a támadások egy részét elnyelő, automatikusan újratöltődő pajzsot."
+multiplayer.error.lobbyfull,A lobby megtelt.
+upgrades.keeper3kunaibounce1.title,Pályaasszisztens
+loadout.team.selection,Csatlakozás ide: %s
+level.tutorial.sworddome.slicing.desc,"Minél gyorsabban leng a kard, annál több vágási sebzést okoz."
+properties.drill.sidetimepertile,Oldalsó fúró ideje csempénként: {} mp
+upgrades.suitblasterradius1.title,Robbanási Sugár 1
+upgrades.resourcepackerquickcharge.title,Gyors töltet
+versus.corruptionmonsterdamage.desc,"A szörnyek sokkal nagyobb sebzést okoznak, beleértve a lövedékeiket is."
+properties.dome.baserepair,Javítás mértéke {} életerő
+loadout.team,%s. csapat
+options.keybindings.action.general.down,Le
+properties.suitblaster.radius,Robbanási sugár (csempék): {}
+level.tutorial.fullscreen.continue,tovább
+level.tutorial.suitblaster.popup_1.switch,"Press | to fire the suit blaster, destroying rock in a radius around you."
+upgrades.resourcepackercount2.title,Csomagméret 2
+properties.sword.extendspeed,Gyorsaságkiterjesztés {} 
+upgrades.autocannondamage1.title,Súlyos lövedékek
+properties.sword.aimline,Célmeghatározás
+options.translation.community,"Közösségi fordítás, {completion}% kész"
+properties.spire.stuntrapabsorption,Sebzéselnyelés {.percent}
+upgrades.keeper4speed2.desc,Tovább növeli a mozgási sebességet.
+upgrades.keeper4ramping4.title,Lendület 4
+upgrades.orchard.desc,"Ültess egy fát a kupola alá! Ez olyan gyümölcsöt terem, amely felgyorsítja a mozgásodat és a bányászási erődet."
+pause.restart.popup,"Biztosan újra szeretnéd indítani a játékot?
+Nyomd meg újra a megerősítéshez."
+multiplayer.error.versionmismatch,A játékverziód nem egyezik a hosztéval. A hoszt verziója: {}
+assignment.condition.freegadget.plural,Két további kezdő eszköz
+upgrades.artillerydirecthit1.title,Szörnyverő 1
+options.input.controls.mouse,Egér
+upgrades.keeper4catgoblindig1.desc,"A macskagoblinok képesek kinyerni a nyersanyagokat anélkül, hogy a csempéket tönkretennék."
+reward.rewardpet11.title,Vízi szarvas kedvenc
+upgrades.artillerymachinegun2.title,Gyorstüzelés 1
+upgrades.teslaorbs.title,Elektrogömb
+properties.keeper2.spherespeed,Gömbsebesség: {}
+properties.artillery.machinegunpenetration,Lövedékbehatolás {}
+level.station.upgrademenu.cost,Ár
+keeperdlc.load.missing,"A mentés nem tölthető be, mert nem elérhető Dlc-tartalmat tartalmaz. Győződj meg róla, hogy a „The Lost Keepers” Dlc elérhető."
+upgrades.drillbotstrength1.desc,Felerősíti Ásóka ásási erejét.
+properties.resourcepacker.rechargetime,Újratöltési idő: {} mp
+level.converter.popup.queue.block,"Az átalakítás folyamatban van, és {time} másodperc múlva készül el."
+properties.keeper2.maxspeed,Csúcsgyorsaság {}
+level.converter.popup.conversion.to,ezzé:
+upgrades.blastminingblast2.title,Robbanás 2
+upgrades.suitblasterspeed1.desc,A ruha gyorsabban tölti fel a robbanást.
+options.audio.music.ost.mode.adaptive.desc,"Mikor egy őrzővel játszol, csak a hozzá tartozó felvételek játszhatók le."
+title.navbar.updates,Frissítések
+upgrades.orchardbattlerooting.title,Csapdagyökerek
+options.keybindings.action,Művelet
+upgrades.keeper4flexible3.title,Fürgeség 3
+unlock.buy.keeperdlc,A '%s' DLC-vel oldható fel.
+upgrades.keeper4flexible2.desc,Növeli az erőt és a kezdő bányászati sebességet.
+loadout.prestige.countdown,Visszaszámlálás
+assignment.weakcarry.desc,"Az őrző szállítóeszközei nem fejleszthetők, ezért a szállításhoz eszközökre kell hagyatkoznod."
+upgrades.liftcarrykeeper2.title,Őrző lift 2
+upgrades.domewavecount.desc,"Szerelj be egy számlálót, amely megmutatja, hány támadáshullámot éltél túl!"
+loadout.gadget.additional,További eszköz
+upgrades.prestigewatermultiplier.title,Víz küldése
+upgrades.condenser.title,Kondenzátor
+loadout.prestige.pro.supplementorder,Kiegészítők sorrendje
+assignment.goaltype.delivery.failed,"A cél '{goal}' volt, de csak {amount} szállítottál le."
+options.keybindings.gamepad.switch,Kontroller
+assignment.condition.duration,Fejezd be %d cikluson belül
+options.game.hideactionhint,Lehetséges akciók listájának elrejtése a kupolán kívül
+options.video.graphicsmode,Grafikai mód
+level.tutorial.assessor.carry.desc1_1.ps5,"Miután rád kapcsolódtak, akkor is követnek, ha elengeded a gyűjtés gombját."
+assignment.goaltype.relic,Szerezd vissza az ereklyét
+upgrades.stationextensionminimap.desc,"A mobil állomásra belépve megjelenik a bánya minitérképe, amely a felfedezett területet és a kőzet mélyén lévő néhány mezőt is mutatja."
+assignment.ironcontribution.title,Vas hozzájárulása
+properties.keeper4.speedupretention,Gyorsulásmegőrzés: {.percent}
+loadout.prestige.description,"Küldj haza nyersanyagokat, hogy tekintélyt szerezz az örzők között."
+upgrades.keeper3.title,Beszivárgó
+properties.shield.battleactivateondepletion,Pajzslemerüléskor aktivált képesség
+upgrades.jetpackspeed2.title,Gyorsaság 2
+properties.dome.maxhealth,Egészségi kapacitás {} életerő
+upgrades.drillbotstrength1.title,Erősség 1
+properties.artillery.grenadereloadspeed,Akna-újratöltési sebesség {} mp
+properties.tesla.perfecttimingmultiplier,Lövésszorzó {.percent}
+upgrades.orchardbattleshieldstrong.desc,Az indaburok megerősödik.
+loadout.difficulty.easy.description,Sok szempontból engedékenyebb.
+upgrades.drillsidespeed1.title,Fúrási sebesség 1
+loadout.prestige.miner,Bányász
+upgrades.keeper4catgoblindig2.desc,A macskagoblinok gyorsabban ásnak.
+upgrades.spireburst.title,Sorozatlövés
+options.input.vibration.strength,Vibrációerősség
+upgrades.swordexplosivereflection.desc,A visszavert lövedékek találatkor felrobbannak.
+level.tutorial.drillbot.handling2.switch,Press | to make it change direction while on the ground.
+loadout.mapsize.large.description,A nagy térképet egy óránál hosszabb ásatásokra ajánljuk.
+upgrades.artillerymachinegunhoming2.desc,Erősebb rakétákat használhatsz.
+upgrades.keeper3quadjump.title,Többszörös ugrás
+properties.artillery.grenadesexplosionradius,Aknarobbanási sugár {}
+upgrades.proberange2.desc,Növeli a szonda hatótávját.
+properties.drillbot.buffextraamount,Plusz fúrási találatok {}
+versus.corruptionbigwave.desc,A következő szörnyhullám hatalmas lesz.
+level.tutorial.artillery.panel2content1,Tartsd lenyomva a | gombot a légvédelmi ágyú használatához.
+level.tutorial.artillery.panel2content2,Kiváló a repülő ellenfelek ellen.
+upgrades.drillwidetunnel.desc,Két további lefelé fúróval széles alagutat alakít ki.
+upgrades.keeper2pinballdamage4.desc,Kinetikus gömbök fejlesztése.
+level.gameover.unlock.difficulty,Új nehézségi fok feloldva.
+loadout.prestige.fairness.headline,Tisztességes verseny
+upgrades.prestigeprovoke.desc,Növeli az összes jövőbeli szörnyhullám erejét a nagyobb presztízsért cserébe.
+options.audio.volumes.soundvolume,Hang
+multiplayer.continue.deviceselection.keeper,Őrző
+upgrades.teslaspeed2.desc,A célkeresz gyorsabban mozog.
+upgrades.artillerymachinegun2.desc,Fejleszti a légvédelmi géppuska tűzsebességét.
+properties.spire.splitadditionalprojectiles,További hasadó lövedékek {.percent}
+upgrades.artillery.title,Ágyú
+level.tutorial.assessor.bundle.desc1,Köteg kilövése nyersanyaghordás közben: |.
+properties.orchard.battleabilityduration,Képességek időtartama {} mp.
+loadout.zoom,Kameranagyítás
+level.tutorial.assessor.bundle.desc2,"Abba az irányba repül, amerre célzol, míg el nem tűnik."
+options.keybindings.rebinding.inputprocessor.switch,Nyomj meg egy új gombot ehhez az akcióhoz…
+properties.converter.irontoiron,1 vasból {} vas
+options.keybindings.cancel,Mégse
+upgrades.keeper1powerdrill.title,Fúró
+assignment.emergency.desc,"A Céh veszélyben van, és sürgős, időben beérkező hozzájárulásokra van szüksége!"
+multiplayer.host.crossplay.disabled,Crossplay letiltva
+properties.upgrade.gameover,Játék befejezése
+loadout.mode.secondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+telemetry.allow,Online szolgáltatások engedélyezése
+options.accessibility.vignette,Matrica letiltása
+options.game.tutorials,Útmutatók
+properties.dome.autorepair,Automatikus kupolajavítás
+upgrades.swordreflection3.title,Visszaverés 3
+upgrades.drillsidepull.desc,A kitermelt nyersanyagok az oldalsó fúrók mentén a központ felé mozognak.
+upgrades.keeper2movement4.title,Teljes nyomaték
+upgrades.shockwavestun1.desc,Növeli a lökéshullám kábító hatását.
+assignment.condition.freegadget.singular,Egy további kezdő eszköz
+title.message.close,Bezár
+reward.rewardfreerolls2.title,További újradobási lehetőségek
+upgrades.orchardbattleshieldstrong.title,Tartós burok
+upgrades.spirecapacity.title,Kapacitás
+upgrades.keeper2.title,Feltérképező
+upgrades.keeper2movement2.title,Gravitációs mozgás 2
+upgrades.furnacestrongironfiring.desc,A vaségetés hatékonyabban késlelteti a szörnyeket.
+upgrades.keeper2pinballdamage3.title,Kinetikus gömbök 3
+upgrades.autocannondamage1.desc,Növeli a lövedékméretet a sebzés növelése.
+loadout.versusmod.versusmodifiermanycaverns.desc,A bányában sok természetes barlang található.
+options.game.other,Egyéb
+upgrades.drillsidespeed2.title,Fúrási sebesség 2
+upgrades.mushroomfarmdrill2.desc,Növeli a gombák elfogyasztásával kapott bányász sebességet.
+properties.autocannon.speed,Mozgási sebesség {}
+upgrades.keeper4flexible1.desc,"Rugalmas bányászati stílus, amely jó kezdősebességgel indul, de kisebb maximális erőt ér el."
+title.navbar.credits.close,Bezár
+level.furnace.popup.fuel.stack,Jelenlegi készlet:
+upgrades.shieldstrength3.title,Erősség 3
+upgrades.domesupplementresurrection2.title,Még egyszer
+upgrades.artilleryprojectileerasure.desc,Az aknavetőd robbanásai minden lövedéket feloldanak a robbanás sugarán belül.
+level.gameover.assignment.completed,Gratulálunk! Sikeresen teljesítetted a megbízatást. Az Őrzők Céhe elismeri az erőfeszítéseidet.
+properties.tesla.radius,Lövéshatósugár {}
+properties.keeper2.bundlespeed,Kötegsebesség {}
+keybindings.reset.show,Először hadd nézzem meg
+options.input.controls.gamepadusage,Játékvezérlő használat
+assignment.maze.title,Labirintus
+upgrades.blastminingstickycharge.desc,"A töltetek az első falhoz tapadnak, és körrobbanás helyett alagutat nyitnak a sziklában."
+properties.prestige.baseperwave,{} Alaptekintély támadáshullámonként
+level.gameover.mineview,Bánya mutatása
+unlock.mapsize.medium,A feloldáshoz nyerj meg egy menetet kis pályán.
+upgrades.teslanurture.desc,A meglévő elektrogömböket az ismételt lövés erősíti. Ettől nagyobb lesz és tovább megmarad.
+upgrades.jetpackspeed1.desc,Jetpack sebességének fejlesztése.
+upgrades.domearmormelee2.desc,"Csökkenti a sérülés mértékét, amit kap a kupola a közelharci támadásoktól."
+loadout.prestige.friend.mode,Barátságos játékmód
+upgrades.domearmorhealth2.title,Páncél tartósság 2
+properties.artillery.machinegundamage,Lövedéksebzés {}
+upgrades.swordextendlong2.title,Hosszú döfés 2
+upgrades.lasermove2.title,Mozgási sebesség 2
+upgrades.shieldstrength2.title,Erősség 2
+properties.keeper3.slidecontrol,{.percent} Csúszásirányítás
+reward.rewardpet11.desc,Feloldja a vízi szarvast a kupolád házikedvenceként.
+properties.tesla.nurture,Gömbápolás
+properties.lift.speed,Gömbgyorsaság {}
+upgrades.lasermove2.desc,A lézer még gyorsabban mozog.
+loadout.mode.longtime,Hosszú ciklusok
+options.accessibility.highlightmonsters,Kiemeli a Szörnyeket
+upgrades.furnacebasedelay.desc,Fokozza a füst kábító hatását megnövekedett késleltetésért cserébe.
+upgrades.doublelaser.desc,"Egy második lézertornyot telepít, de a használatakor a tűzerősség megoszlik a két lézer között."
+properties.converter.ironwatertime,Vasból vízzé alakítás ideje (ciklusok): {}
+options.keybindings.rebinding.inputprocessor.xbox,Nyomj meg egy új gombot ehhez az akcióhoz…
+title.message.title,Megjegyzés
+upgrades.jetpackspeed4.title,Gyorsaság 4
+upgrades.drill2.desc,Ezzel megerősítheted a fúrót a gyorsabb ásáshoz.
+upgrades.extractorresources2.title,Aprólékos férgek
+unlock.buy.keeperdlc.ps5,A(z) '%s' kiegészítővel oldható fel.
+level.tutorial.assessor.split.desc1,Beérkező gömbök hasítása: |.
+upgrades.keeper2pinballdamage1.desc,A hosszabb újratöltés növeli a kinetikus gömbök erejét.
+upgrades.teleporterteleportduration2.desc,Az önteleportálási idő lecsökken.
+level.tutorial.assessor.split.desc2,"Többször is hasíthatók a gömbök, de mindig egy kicsit gyengülnek."
+options.accessibility.backgrounds,Egyszerű háttér
+assignment.weakwalls.desc,"A bolygó maró légköre halálos a kupolára és a szörnyekre is, ezért mindkettő több sebzést szenved el."
+multiplayer.error.disconnected,Megszakadt a kapcsolat a hoszttal.
+properties.autocannon.timebetweenshots,Lövések közt eltelő idő: {} mp
+upgrades.laserstrength1.desc,"Fejleszti a lézer erejét, de tüzelés közben lassítja a mozgását."
+upgrades.artillerydirecthit4.desc,Még a legnagyobb szörny elpusztítására is képes aknák kilövése.
+upgrades.teslapersistance3.title,Tartós gömbök 3
+level.gameover.stats.timeplayed.unit,p
+level.tutorial.drillbot.sleeping3.switch,You can make it turn around by pressing | when it's awake.
+upgrades.autocannonshotgun1.desc,Több lövésből álló puskamozgásszerű tüzelési sorozat.
+upgrades.probe.desc,"Ez egy radarral egészíti ki az öltözeted, amely aktiválás után megmutatja a közeli nyersanyagokat. Az eszköz a kupola alatti állomás tölthető fel."
+upgrades.droneyardparasites.desc,"Olyan drónokat enged ki, amelyek a legerősebb szörnyekhez tapadnak és gyengítik azokat. A szörny ezután több sebzést szenved el, és folyamatosan elkábul."
+properties.stunlaser.trackingInCooldown,Célkövetési újratöltés
+upgrades.domewavemeter.desc,"Megmutatja, mikor érkezik az ellenséges életformák következő csapása."
+properties.sword.stabexplosive,Nyílhegybomba beszerelve
+loadout.gadget,Elsődleges eszköz
+properties.stunlaser.areagrowthpermonster,Szörnyenkénti területi növekedés {}
+upgrades.swordfastreflection.title,Gyorsított visszaverés
+level.tutorial.assessor.explode.desc1.switch,Press|to explode all spheres in your vicinity.
+reward.rewardkeeper3skin1.desc,Új őrzőkinézetet old fel az Beszivárgó számára.
+properties.shockwave.stunstrength,Kábításerősség {}
+upgrades.resourcepackercount1.title,Csomagméret 1
+reward.rewardkeepersupplements.desc,Rendkívül erős kiegészítő fejlesztéseket fedezhetsz fel az őrződhöz.
+upgrades.spirestuntrap3.desc,Az energiacsapda már a szörnyeket is elkábítja.
+upgrades.lift.desc,"Szerelj be egy automata liftet, amely a kupolába szállítja a kifejtett, feldolgozandó nyersanyagokat."
+upgrades.orchard.title,Kert
+pause.playerlist,Játékoslista
+upgrades.keeper2bundle2.title,Kötegirányítás
+assignment.weakmining.desc,"Az őrző bányászeszközei nem fejleszthetők, ezért a bányászathoz eszközökre kell hagyatkoznod."
+upgrades.converter.title,Nyersanyag-átalakító
+properties.repellent.battlemonstervulnerability,További szörnysebzés {.percent}
+level.gameover.revealresources,Nyersanyagok felfedése
+upgrades.jetpackstrength3.desc,Jetpack nyersanyaghordó képességének fejlesztése.
+options.input.controls.touch.fliphud,HUD tükrözése
+properties.keeper2.bundleguide,Közelségi irányítás
+upgrades.furnaceironfiring.desc,"Égess el vasat a kemencében, hogy hosszabb ideig késleltesd a szörnyetegek támadását."
+upgrades.swordlongblade2.desc,"Továbbfejleszti a kard gyorsaságát, amely a kupola szélét érve visszapattan."
+options.input.controls.mouse.keepers,Egér használata Őrző irányítására
+loadout.mode.domesupplements.desc,"Háromszor annyi kiegészítőt kapsz, és a kupola három kiegészítőhellyel rendelkezik."
+reward.rewardautomatedweapons.title,Automatizált fegyverek
+versus.corruptionmonsterhealth.desc,A szörnyeknek sokkal több életerejük lesz.
+upgrades.keeper3slidecontrol.desc,"Jobban irányíthatod magad, miközben a falak mentén csúszol."
+options.keybindings.action.dome.fire,Tűz
+options.keybindings.gamepad.xbox.view.xbox,Nézet gomb
+level.gameover.win.title,A KUPOLÁD MEGMENEKÜLT
+upgrades.versusincreasewave1.title,Szabotázs 1
+options.video.graphicsmode.borderlesswindow,Keret nélküli ablak
+properties.artillery.rotationspeed,Forgatási sebesség {}
+upgrades.probe.title,Radar
+reward.rewardkeeper2skin5.desc,Új őrzőkinézetet old fel az Értékelő számára.
+upgrades.artillerydirecthit4.title,Szörnyverő 4
+properties.keeper4.squadcount,Osztagok száma: {}
+upgrades.keeper3kunaicooldown3.title,Ezer kunai
+upgrades.prospectionmeterrange2.desc,Tovább növeli az előrejelző mérő észlelési hatótávolságát.
+level.gameover.unlock.mapsize,Új térképméret feloldva.
+loadout.prestige.friend.desc,"Tekintélymenetet alacsonyabb nehézségi szinten, és különálló, csak ismerősöknek szóló ranglistákon teljesíts."
+upgrades.jetpackstrength4.title,Hordáserősség 4
+options.input.controls.virtualjoystickopacity,Virtuális joystick átlátszósága
+upgrades.repellentovercharge.title,Szörnyellenes folyadék túltöltése
+upgrades.suitblastermaxcharge.desc,"Növeli a ruhádban tárolható töltetek számát. Minél több töltet van készenlétben, annál gyorsabban töltődnek fel a továbbiak."
+upgrades.stationextensiontubemovement.desc,Az állomásra belépve vákuumcsőben gyorsan a kupolához utazhatsz. Csak felfelé haladás közben használható.
+upgrades.domesupplementmeleedamagereduction1.title,Kupolahéj-ellenállás
+upgrades.keeper4catgoblinsleeptime.desc,Csökkenti a macskagoblinok pihenőidejét.
+upgrades.prestigespeedup.desc,Hullámok közt eltelő idő rövidítése.
+upgrades.keeper3kunaicooldown1.title,Gyors Dobás
+upgrades.spire.title,Torony
+multiplayer.join.sessions,Játékok
+options.input.controls.keybindings,Billentyűparancsok
+multiplayer.host.crossplay.desc.xbox,"A crossplay lehetővé teszi, hogy más platformokon játszó barátaiddal is együtt játssz."
+upgrades.teslaorbs.desc,"Minden lövés egy elektromos gömböt hoz létre, ami folyamatos sebzést okoz és elkábítja az ellenségeket."
+upgrades.prestigeiron.desc,Küldj vissza vasat. Növeli a hullámok után kapott presztízspontok mennyiségét.
+properties.keeper2.explodespheres,Robbanó gömbök
+level.tutorial.assessor.split.desc1.switch,Press|to split an incoming sphere.
+properties.artillery.machinegunhoming,Visszatérő rakéták
+upgrades.spirespeedup.desc,Lövések közt eltelő idő csökkentése.
+level.tutorial.drillbot.handling1,Ásóka ismételt felvétele: | nyomva tartásával.
+keybindings.reset.doreset.xbox,Gombkiosztásaim visszaállítása
+level.tutorial.drillbot.handling2,"Ha le van téve, nyomd meg ezt: |, hogy irányt váltson."
+upgrades.artillerysplash1.desc,Aknavető fejlesztése nagy robbanási sugarú akták kilövésére.
+upgrades.shockwave.desc,"Két kalapácsot szerel a kupolára, amelyek erőteljes lökéshullámokat keltenek. Kézzel kell aktiválni."
+options.game.blocklist.unblock,Unblock
+properties.drillbot.buffamount,Energetizált fúrási találatok {}
+upgrades.teslaorbdamage.desc,"Megnövekszik a gömbök vezetőképessége, és idővel nagyobb sebzést okoz."
+loadout.versusmod.versusmodifierconcentratediron.desc,"A vaslelőhelyek ritkák, de nagyon nagyok."
+upgrades.keeper4squad2.title,Nagy Osztag
+upgrades.keeper4flexible1.title,Fürgeség
+upgrades.swordreflection3.desc,Maximális pajzsfelület.
+unlock.prestige.promode,Legalább 1000-es presztízspontszámmal megnyert menettel oldható fel.
+loadout.mapsize.huge,Hatalmas
+upgrades.artillerymachinegunhoming1.desc,"Lövedékek lecserélése intelligens rakétákra, amelyek pályamódosítással találják el a szörnyeket."
+upgrades.repellentovercharge.desc,"Vízzel túltöltheted az elhárítót, ezzel javítva a harci képességét."
+loadout.prestige.pro.caveorder,Barlangsorrend
+upgrades.spiresplit2.title,Gyors hasadás
+properties.laser.bend,a lézer automatikus célpontja {}°
+modding.modio.ugcterms.link1,Terms of Use
+upgrades.drillmagnetic.title,Mágneses burkolatok
+assignment.condition.deliveremergency,Teljesíts %d vészszállítást
+modding.modio.ugcterms.link2,Privacy Policy
+assignment.denseiron.desc,"A bolygó vasérce különösen sűrű, ezért nehezebb kitermelni."
+level.station.upgrademenu.inventory,Raktár
+upgrades.repellentbattleslowdownstun1.desc,"Szörnykábító spórák elszórása a ködben, amelytől egy rövid ideig nem tudnak továbbhaladni."
+upgrades.spirestuntrap2.title,Katalizátorcsapda
+properties.blastmining.radius,Robbanási sugár (mező) {}
+loadout.prestige.cobalt,Fix kobaltmennyiség
+upgrades.spireautonomy1.title,Autonómia
+upgrades.suitblastermaxcharge.title,Több töltet
+upgrades.stunlaserspeed2.desc,"A kábítólézer még gyorsabban mozog, és újratöltés közben is követi a szörnyeket."
+properties.suitblaster.maxcharge,Maximális töltetszám: {}
+upgrades.prospectionmetergadget.desc,Megmutatja a legközelebbi eszköz vagy ereklyekamra távolságát.
+properties.spire.rechargetime,Újratöltési idő {} mp.
+assignment.monstermasses.desc,A bolygót rengeteg alacsony szintű szörny árasztja el.
+telemetry.title.ps5,Végfelhasználói licencszerződés
+properties.condenser.autoovercharge,Automatizált túltöltés
+assignment.rareiron.desc,A bolygón túl kevés vas található egy normál bányászati művelethez.
+level.converter.popup.title,Nyersanyagok átalakítása
+upgrades.chainsaw.desc,"Egy körfűrészt szerel a kupolára, amely sebzi a közeli szörnyeknek."
+versus.inventory.title,Másik csapat adatai
+loadout.versusmod.versusmodifiernorelics.desc,The mine has no relics.
+level.gameover.stats.wavessurvived,Túlélt támadáshullámok
+upgrades.stunlaserduration1.title,Tüzelési kitartás 1
+upgrades.resourcepackercount1.desc,Növeli az egy kötegbe csomagolható nyersanyagok számát.
+level.tutorial.teleporter.carry3.switch,"If you press |, you will teleport back."
+gadget.slot.domesurface,Kupolafelület
+upgrades.converterirontocobalt.title,Kobaltátalakítás
+options.audio.music.ost.mode.desc,Minden őrzőhöz tartozik egy sor felvétel. Ezek lejátszás közben módosíthatók.
+assignment.condition.deliversand,Szállíts le %d kobaltot
+options.accessibility.photosensitivity.explanation,Csökkenti a villogó fényeket.
+upgrades.keeper2bundle4.desc,A nyersanyagköteg gyorsabban mozognak és tovább együtt maradnak.
+upgrades.domesupplementmeleedamagereduction2.title,Intenzív erősítés
+reward.rewardcentralmarker.title,Középpont jelölő
+upgrades.repellentbattleslowdown.desc,"Permetezz kábító füstöt a csatába, és ezzel lassíts le minden szörnyet."
+options.game.splitscreenfontscale,Show larger Text in Splitscreen
+upgrades.blastminingimpactdetonation.title,Érintéses robbanás
+loadout.relichunt.title,Válassz egy forgatókönyvet
+upgrades.assignmentsemergencycontribution2.title,Vészadomány 4
+upgrades.stunlaserspeed1.desc,A kábítólézer gyorsabban mozog.
+upgrades.keeper2movement2.desc,Gravitációgener mozgási sebességének további fejlesztése.
+loadout.prestige.pro.customorder,egyéni sorrend
+options.translation.community.desc.seavenplatforms,Ezeket a nyelveket a kedves közösségünk fordította a Crowdinon.
+properties.shield.battledestructionprevention,További időtartam {} mp.
+upgrades.spirespeedup.title,Újratöltés fejlesztése
+upgrades.shieldovercharge.title,Pajzstúltöltés
+level.tutorial.station.popup_4.switch,Then press | to enter battle mode and defend.
+options.keybindings.action.keeper.drop,Eldobás
+options.accessibility.vignette.explanation,Mélyebb bányaszinteken megjelenített sötétítő matricahatás letiltása.
+upgrades.keeper4speed3.title,Mozgási sebesség 3
+title.navbar.splitscreen,Helyi osztottképernyős
+upgrades.extractorquickextraction.title,Gyors férgek
+pause.disconnect,Játékos kirakása
+properties.map.ironadditionalhealth,További vas-keménység: {}
+properties.keeper2.reflectlifetime,Visszaverő mező élettartama {}s
+loadout.versusmod.versusmodifiersoftrock,Puha kőzet
+upgrades.repellentoverchargeduration1.title,Továbbfejlesztett túltöltés
+upgrades.teleporterteleportitems.desc,Minden hordható dolog teleportálható a nyersanyagok és nagy tárgyak kivételével.
+upgrades.shieldstrength2.desc,Még jobban növeli a pajzs támadáselnyelési képességét.
+unlock.mapsize.large,A feloldáshoz nyerj meg egy menetet közepes pályán.
+upgrades.shieldoverchargestrength2.desc,Tovább növeli a túltöltött pajzs által elnyelt sebzés mértékét.
+properties.drill.extensionspeed,Oldalsó bővítés sebessége: {}
+properties.orchard.growthtime,Növekedési időtartam (ciklus) {}
+upgrades.drillbotbuff1.desc,"Jutalomfalatok nőnek a kupola alatt található fészekben. Vidd el őket Ásókának, aki ezeket belakmározva új erőre kap."
+properties.repellent.battleslowdown,Szörnylassulás {.percent}
+level.station.upgrademenu.buy,Megvesz
+keybindings.reset.title.ps5,Gombkiosztás visszaállítása
+title.navbar.multiplayer.join,Csatlakozás játékhoz
+multiplayer.host.crossplay.desc,"A crossplay lehetővé teszi, hogy más platformokon játszó barátaiddal is együtt játssz. Például PC-s és konzolos játékosok együtt játszhatnak."
+properties.probe.range,Hatótáv (mező) {}
+modding.modio.connectionfailed,Connection to mod.io failed!
+properties.dome.resurrectcharges,Maradék újjáéledések {}
+upgrades.mushroomstack.title,Halmozott gombák
+multiplayer.error.lobby.join,Nem sikerült csatlakozni a lobbihoz.
+pause.title,Szünet
+level.furnace.popup.fuel.cycles,Hátralévő ciklusok: {cycles}
+level.gameover.unlock.gamemodevariant,Új játékmódvariáns
+upgrades.keeper2movement3.title,Gravitációs mozgás 3
+upgrades.keeper3kunaicooldown2.desc,Dobd a kunaiokat gyorsabban.
+upgrades.repellentbattledamageovertime.title,Mérgező füst
+reward.rewardfreerolls1.title,Ajánlatok újrasorsolása
+assignment.superhardrockwithholes.title,Ementáli
+modding.restartneeded,A modok helyes működéséhez a játékot újra kell indítani.
+upgrades.versusshowinventory.title,Készlet kém
+level.tutorial.assessor.carry.desc1,"Tartsd|a nyersanyagok behúzásához, amíg rád nem csatolódnak."
+level.tutorial.assessor.carry.desc2,"Nyomd meg a | gombot, hogy egy kötegben ki lődd őket abba az irányba, amerre nézel."
+demo.unavailable,A demóban nem elérhető
+assignment.harmfuliron.desc,"A bolygón lévő vas veszélyesen reakcióképes, és feldarabolásakor kárt tesz a kupoládban."
+upgrades.keeper4flexible4.title,Fürgeség 4
+properties.dome.reducedhealth,Vesztett életerő {}hp
+upgrades.keeper4catgoblinamount.desc,"Hozz létre több macskagoblint, hogy segítsenek a küldetésedben."
+properties.keeper2.spherebasedamage,Alapszintű sebzés a gömb által {}
+level.gameover.showimages,Nyitva
+properties.keeper4.maxpunchdelay,Leglassabb ütés: {} mp
+upgrades.converterironduplication.desc,Kis mennyiségű vasat nagyobb mennyiséggé finomít.
+upgrades.liftorbless.title,Gravitációs lift
+upgrades.artilleryshotstun.desc,"Az aknavető kilövése olyan erős, hogy a közelben lévő szörnyek egy időre elkábulnak."
+upgrades.keeper4squadsmarts.title,Intelligens feltárás
+options.video.graphicsmode.enablevsync,Függőleges szinkronizálás engedélyezése
+upgrades.repellentdelay3.desc,Késleltesd még tovább a következő szörnytámadást.
+properties.spire.splitshotground,360°-os hasadás
+upgrades.autocannonrateoffire3.desc,Maximálisra növeli a tüzelési sebességet.
+upgrades.furnacebasedelay.title,Kábító füst
+properties.sword.stabcooldown,Kilövési újratöltés {} mp.
+upgrades.resourcepacker.title,Nyersanyagcsomagoló
+properties.probe.permanentrevealrock,Sziklák végleges felfedése
+upgrades.prestigeprovoke.title,Szörnyek feldühítése
+loadout.hint.teams,Mindkét csapatban legalább egy játékosnak kell lennie!
+upgrades.proberange1.title,Közepes Hatótáv
+upgrades.condenserautocollect.desc,"Automatikus vízbegyűjtést eredményez, így nem kell manuálisan felszedni."
+title.navbar.continue,Folytatás
+upgrades.drillbotbuffguidance.title,Jutalomfalat-keresés
+options.video.stretchmode.rezised,Átméretezett
+upgrades.shieldbattlereflectspeed.desc,"A visszavert lövedékek gyorsabban visszapattannak, ezzel nagyobb eséllyel találják el a támadót."
+properties.keeper2.spherebaselifetime,Gömbélettartam {} mp.
+properties.resourcepacker.packscale,Összezsugorítás mértéke: {.percent}
+properties.chainsaw.speed,Mozgási sebesség {}
+properties.probe.rechargetime,Teljes újratöltési idő (ciklus) {}
+upgrades.blastminingblast1.title,Robbanás 1
+upgrades.liftcarrykeeper1.title,Őrző-emelkedésisebesség 1
+loadout.versusmod.versusmodifierlongcycles,Hosszú ciklusok
+options.keybindings.action.dome.secondary,Másodlagos képesség
+upgrades.extractor.title,Vasférgek
+level.tutorial.assessor.reflect.desc2,"A beérkező gömböket visszaveri, egyben felerősíti őket."
+options.keybindings.keyboard,Billentyűzet
+level.tutorial.assessor.reflect.desc1,Környező visszaverő mező átváltása: |.
+level.tutorial.beastmaster.move,Mozgás
+level.gameover.automove,Automatikus kamera
+upgrades.keeper4punch4.title,Őrjöngés 4
+properties.shockwave.damagemod,További sebzés: {.percent}
+upgrades.drillbotsleepless.desc,"Ásóka tovább fog dolgozni anélkül, hogy elálmosodna."
+upgrades.keeper2pinballexplode.desc,"Kinetikus energia kiengedése, és az összes közeli gömb felrobbantása."
+reward.rewardpermanentwavemeter.title,Állandó ellenségközelség-jelző
+upgrades.keeper3shurikencooldown1.desc,Még tovább csökkenti a shuriken újratöltési idejét.
+upgrades.droneyard.title,Dróngyár
+level.gameover.unlock.promode,A haladó presztízsbeállítások feloldva!
+upgrades.swordextendlong2.desc,Döféserősség és pontos irányítási képesség további fejlesztése.
+upgrades.drillbotturnaround.desc,"Ha Ásóka egy lebonthatatlan falba ütközik, megfordul ahelyett, hogy szundikálna egyet."
+loadout.prestige.fairness.desc,"Örömmel látjuk, hogy a presztízsjátékosok egyre magasabb pontszámokért versenyeznek, és egyre jobb stratégiákat találnak. Szeretnénk, hogy ez a verseny tisztességes és élvezetes maradjon, ezért fontos, hogy mindenki egyenlő feltételekkel játsszon.
+
+Kérjük, értsétek meg, hogy egy menetet érvénytelennek jelölhetünk vagy törölhetünk, ha úgy tűnik, hogy csalóeszközöket vagy exploitokat használtatok.
+Exploitnak tekintünk mindent, ami kézzelfogható előnyt biztosít a presztízsmenetben, de nem a normál játékmenet részeként érhető el. Ide tartozik például a mentések szerkesztése vagy megtekintése, a túlzott újratöltögetés, a nem engedélyezett modok használata, valamint a hibák szándékos és ismételt kihasználása.
+Ha a menet jelentős mértékben támaszkodott csalásokra vagy exploitokra, végleg kizárhatunk a szokásos ranglistákból.
+
+Ha nem vagy biztos benne, hogy valami szabályellenesnek számít-e, kérdezz rá Discordon vagy e-mailben a dome@bippinbits.com címen. Akkor is fordulhatsz hozzánk, ha tévesen jelöltünk meg.
+
+Jó szórakozást!"
+assignment.emergency.title,Vészhelyzet
+upgrades.droneyardbattlegridlong2.title,Drón horda
+properties.repellent.battleuses,Használatszám csatánként {}
+loadout.difficulty.easy,Nehéz
+level.tutorial.mineraltree1,"Egy kristályfa magot találtál. Ültesd el egy nyersanyagba és idővel nyersanyag fog teremni rajta.
+Dobd egy blokkra hogy elültesd."
+options.keybindings.action.keeper.pickup,Felszedés
+gadget.slot.domebackside,Kupolahátoldal
+assignment.megacreeps.desc,Ezt a bolygót csak a legnagyobb és legerősebb szörnyek járják.
+options.keybindings.rebinding.error.gamepad.switch,Ezt nem állíthatod be kontroller-bemenetként.
+modding.profile.new,Új profil
+upgrades.suitblasterspeed2.desc,A ruha gyorsabban tölti fel a robbanást.
+properties.domearmor.pulsedamagethreshold,Pulzussebzés küszöbértéke: {}
+options.game.autopause,"Játék szüneteltetése, ha nincs fókuszban"
+savegame.wiped.desc,"Minden mentési fájlod sérült, valószínűleg a mentés közbeni rendszerhiba miatt. Az előrehaladás nem állítható helyre.
+Ellenőrizd, hogy vissza tudod-e állítani a mentést felhőalapú tárolóból. Ellenkező esetben az előrehaladásod végleg elveszett."
+properties.shield.maxstrength,Erősség {} életerő
+level.tutorial.ninja.rope.desc1,Hold| to shoot your rope in the direction you are aiming with your %s.
+level.gameover.unlock.gadgetability,Az eszköznek új harcképessége van
+level.tutorial.ninja.rope.desc2,Tartsd nyomva a | az ugráshoz.
+upgrades.repellent.desc,Szerelj fel egy szörnyellenes folyadékot előállító tartályt! A folyadékot permetezd a kupolán kívülre a következő támadáshullám késleltetésére.
+modding.modio.report,Report Mod
+properties.artillery.directhitdamage,Telitalálat sebzése {.percent}
+upgrades.spireprojectileslowdown.title,Lövedék lassítás
+properties.keeper2.bundleduration,Kötegélettartam {} mp.
+upgrades.domesandrepair.title,Javítás kobalttal
+upgrades.assignmentsemergencycontribution3.desc,"Küldd el ezt a csomagot a 7. körig, különben meghiúsul a feladat."
+upgrades.stunlaserduration3.title,Tüzelési kitartás 3
+properties.orchard.battleshields,Pajzsrétegek {}
+options.video.brightness,Fényerő
+demo.end.misc1,A kompetitív presztízs mód 4 játékmód-változattal
+upgrades.droneyarddrones.desc,Építs egy további drónt az erőforrások szállítására.
+demo.end.misc3,Több elsődleges eszköz
+options.game,Játék
+loadout.mode.longtime.desc,"A támadáshullámok erősebbek, de a köztük eltelt idő a szokásos kétszerese."
+demo.end.misc2,Sok kihívást jelentő küldetés
+demo.end.misc5,Több barlang
+demo.end.misc4,További pályaméret
+upgrades.orchardduration2.title,Időtartam 2
+reward.rewarddomesupplements.title,Kupolakiegészítők
+demo.end.misc6,Több szörny
+upgrades.keeper2rotationalmining1.desc,"Anyagkeménységtől független, állandó sziklabányászati sebesség."
+upgrades.droneyardbattlegridquick2.desc,"Az összes drónt nagyon gyorsan kiengedi, így készen állnak majd a csata elején."
+loadout.choices.comingsoon,Hamarosan elérhető.
+properties.keeper2.splitlifetime,Hasított gömb élettartama {.percent}
+options.input.controls.mouse.sword,Egér használata a Kardos kupola irányítására
+level.tutorial.beastmaster.goblins.desc1,"Tartsd lenyomva a | gombot, hogy rést üss a falon, amin át a macskagoblinjaid bejuthatnak a bányába."
+upgrades.drill4.desc,Fúró erősítése a gyorsabb fúráshoz.
+upgrades.jetpackstrength3.title,Hordáserősség 3
+upgrades.laserstrength3.title,Erő 3
+level.tutorial.beastmaster.goblins.desc2,Segítenek összegyűjteni a nyílás közelében lévő nyersanyagokat.
+upgrades.domesupplementresurrection1.title,Kupola-újjáéledés
+loadout.mapsize.small.description,A kis térképet rövidebb játékidőre ajánljuk.
+upgrades.proberange2.title,Nagy hatótáv
+reward.rewardkeeper2skin5.title,Értékelő kinézet
+upgrades.jetpackspeed2.desc,Jetpack sebességének fejlesztése.
+upgrades.artilleryrotation2.desc,Aknavető gyorsabb forgatása.
+upgrades.domesupplementcombatrepair3.title,Harc közbeni gyorsjavítás
+reward.rewardkeeper4skin3.desc,Új őrzőkinézetet old fel az Vadállatidomár számára.
+multiplayer.host.splitscreen.desc.xbox,Használd a kontrollereket a további őrzők létrehozásához. Egy képernyőt legfeljebb négy őrző oszthat meg. Kombinálható online többjátékos móddal.
+upgrades.keeper2pinballdamage2.desc,A még hosszabb újratöltés tovább növeli a kinetikus gömbök erejét.
+level.tutorial.ninja.rope,Kötél
+options.keybindings.rebinding.error.keyboard,Ez nem állítható be billentyűzetbemenetként.
+upgrades.domesupplementcombatrepair2.desc,"Erősebb automatikus javítás, jobban helyreállítja a statikai állapotot."
+properties.dome.autohealamount,Javítás {} életerő
+properties.repellent.growthtime,Gyártási idő (ciklus) {}
+properties.keeper.domefuel,Üzemanyag-hozzáadás {}
+options.accessibility.critters,Lények letiltása
+level.tutorial.assessor.reflect.desc1.switch,Press|to toggle a reflective field around you.
+upgrades.probelongmarker2.title,Tartós jelölők
+upgrades.converterefficientwater.title,Gazdaságos vízátalakítás
+upgrades.assignmentssendcobalt.title,Kobalt leszállítása
+properties.monsters.waveinterval,Hullámok közti idő: {} mp
+options.keybindings.rebinding.error.gamepad,Ez nem állítható be játékvezérlő bemenetként.
+options.input.gamepad.twinstick.ps5,Kétkaros irányítás
+properties.extractor.units,Termelt férgek: {}
+loadout.mode.doubleiron.desc,A vaslelőhelyek sokkal gazdagabbak.
+telemetry.title,Engedélyezed az online többjátékos módot?
+multiplayer.host.local.desc,A helyi hálózatodon lévő játékosok csatlakozhatnak.
+properties.laser.dps,Sebzés {}
+level.tutorial.assessor.spheres.desc1.switch,Press| to shoot a kinetic sphere in the direction in which you are facing.
+upgrades.spirecapacity.desc,"Nagyobb számú lövés adható le, mielőtt újratöltés lenne szükséges."
+upgrades.doublelaser.title,Dupla lézer
+options.keybindings.text,"A beállításokat kedved szerint módosíthatod.
+Az egyes szekciók billentyűkombinációi között lehetnek átfedések (lehet ugyanazt a betűkombó a kupola- és a őrző fegyvereinek használatához)."
+properties.repellent.battleabilityduration,Képességek időtartama {} mp.
+options.input.controls.keybindings.switch,Gombkiosztás
+options.keybindings.gamepad.xbox.menu,Indítás
+upgrades.shieldstrength1.title,Erősség 1
+properties.converter.watertoiron,1 vízből {} vas
+upgrades.stunlaserstun2.title,Kábításerősség 2
+upgrades.drillbotstrength2.desc,Felerősíti Ásóka ásási erejét.
+upgrades.dome1.title,Lézerkupola
+options.keybindings.rebinding.error.gamepad.xbox,Ezt nem állíthatod be kontroller-bemenetként.
+loadout.assignment.shop,Az Őrzők Céhének jutalmai
+upgrades.orchardbattlerootingmore.desc,"Növessz több, hosszabb élettartamú gyökereket."
+options.keybindings.rebinding.cancel,Mégse
+exhibition.level.instruction,Nyomj meg egy gombot a folytatáshoz!
+upgrades.converterefficientwater.desc,Átalakítási hatékonyság fejlesztése.
+upgrades.teslapower4.desc,A tesla tűzerejének fejlesztése.
+properties.spire.splitshot,Hasadó lövedékek
+assignment.weakwalls.title,Magas kockázat
+title.navbar.quit,Kilépés az asztalra
+upgrades.autocannonrateoffire1.desc,Növeli a tüzelési sebességet.
+upgrades.laserstrength3.desc,"Maximálisra fejleszti a lézer erejét, de tüzelés közben alig fog mozogni."
+loadout.mode.automateddefense.desc,"Kezd az összes védelmi és autonómiás eszközzel, de elsődleges fegyver nélkül. Bízt a feladatot a kupoládra!"
+level.gameover.prestige.score.rankunchanged,A rangsorban nem léptél előre.
+properties.keeper2.directmininghardness,Sziklakeménység befolyása {.percent}
+level.gameover.retry,Kezdj egy következő kört
+options.input.controls.keybindings.button.xbox,Gombkiosztás módosítása
+upgrades.keeper4autospawnminers.title,Lelkes osztag
+modding.modio.declined,Please accept conditions if you want to access mods
+upgrades.repellentoverchargeduration1.desc,Növeli a túltöltés hatását a harci képességekre.
+upgrades.assignmentsemergencycontribution5.title,Vészadomány 16
+upgrades.keeper2pinballdamage2.title,Kinetikus gömbök 2
+upgrades.teslaspeed3.desc,A célkeresz gyorsabban mozog.
+upgrades.domesupplementmeleedamagereduction2.desc,"Tovább erősíti a héjt, így még kevesebb sebzést okoznak a támadók."
+properties.extractor.processingtime,Kitermelési idő: {} mp
+upgrades.keeper3.desc,"Egy fürge Őrző, aki gyorsan mozog kötéllel és ügyes ugrásokkal, miközben erős kunait dob."
+assignment.acidrain.title,Savas Eső
+upgrades.droneyardparasites3.desc,Tovább javítja a parazita drónok gyengítő képességét.
+upgrades.domesupplementelectrifiedsurface1.desc,"Egy reagálóképes elektromos burkolat kerül a kupolahéjra, ami bántja a támadó szörnyeket."
+unlock.buy.keeperdlc.switch,A(z) '%s' kiegészítővel oldható fel.
+upgrades.keeper3shurikenstrength2.desc,Még tovább növeli a shuriken robbanásának erejét.
+upgrades.teslapower3.title,Tűzerő 3
+upgrades.stationextensionrevealdistance2.desc,Növeli az állomás körül felfedezhető kőzetek és nyersanyagok távolságát.
+upgrades.keeper3shurikencooldown2.title,Megállíthatatlan Shuriken
+properties.orchard.buffduration,Bónuszidőtartam (ciklus) {}
+loadout.prestige.provocation.description,"Provokáld a szörnyeket erősebb hullámokért és több presztízsért. A szorzó minden ciklusban csökken, és a menet véget ér, ha nulla alá esik."
+level.tutorial.probe.popup_1,Radarimpulzus kibocsátása: |.
+level.tutorial.repellent.popup_2,Közelébe érve aktiválás: |.
+multiplayer.join.profile,Profil
+level.tutorial.probe.popup_3,"Ez megmutatja a közelben lévő nyersanyagok egy részét.
+Töltsd újra az állomásnál."
+level.tutorial.repellent.popup_1,A szörnyellenes folyadék kész a következő hullám késleltetésére.
+upgrades.keeper4ramping2.desc,"Növeli az erőt, a csúcssebességet és a lendület megtartását."
+options.game.kunaicarrierbeforegadgets,Throw Kunai Carrier before Gadgets
+properties.probe.permanentrevealresources,Erőforrások végleges felfedése
+upgrades.keeper2bundle4.title,Erős köteg
+options.audio.volumes.musicvolume,Zene
+options.input.controls.useindividualsettings,Egyéni Keeper-beállítások használata
+upgrades.keeper4squadsmarts.desc,A bányászosztagok előnyben részesítik a speciális csempéket és a nyersanyagokhoz közeli csempéket.
+upgrades.domesupplementscraprepair2.title,Visszaállítás
+upgrades.orchardduration3.desc,A gyümölcs hatása a lehető legtovább tart.
+options.input.controls.touch,Érintés
+level.gameover.keepgadget.none,Nincs
+upgrades.stunlaserautonomy1.title,Autonómia
+upgrades.swordexplosivereflection.title,Robbanó visszaverés
+upgrades.probelongmarker1.desc,"Fejleszd a próbaszerkezet memóriamodulját, hogy a jelzők sokkal tovább láthatóak legyenek."
+upgrades.resourcepackercharges.desc,Növeli a páncélodban tartható töltetek számát.
+level.tutorial.tesla.panel2header,Lövés
+upgrades.drilladditionalsides.desc,"További oldalsó fúrókat kapsz, amelyek ugyanazzal a funkcióval rendelkeznek, mint az első."
+loadout.difficulty.veryeasy.description,"Ez sem könnyű, de a többi nehézségi szinthez képest kellemesen nyugodt tempójú."
+properties.stunlaser.stunstrength,Kábításerősség {}
+properties.resourcepacker.packcount,Csomagméret {}
+upgrades.keeperonewayteleporter.title,Egyirányú térkapu
+upgrades.keeper3kunaidamage4.title,Kunai találat
+upgrades.drill4.title,Fúráserősség 4
+options.game.directionsnapping,Őrző célzásának igazítása a fő irányokba
+upgrades.artillerymachinegun3.title,Gyorstüzelés 2
+upgrades.stunlaserspeed2.title,Gyorsaság 2
+properties.artillery.machinegunreloadspeed,Lövedék-újratöltési sebesség {} mp
+options.game.screenshake,Képernyőremegés
+upgrades.proberechargeafterbattle.desc,"A szonda idővel automatikusan feltöltődik, így a töltőállomásra nincs többé szükség. Felszabadítja a felszereléshelyet a pincében."
+upgrades.jetpackstrength2.title,Hordáserősség 2
+loadout.versus.condition.irondelivery.title,Vasszállítás
+upgrades.teslaspeed4.desc,A célkeresz gyorsabban mozog.
+level.assignment.badges.toggle,"A küldetések teljesítésével jelvényeket szerezhetsz. A jelvényeidet az Őrzők Céhének jutalmaira költheted. A megvásárolt jutalmakat később ki is kapcsolhatod, ha nélkülük szeretnél játszani."
+loadout.versus.wincondition,Győzelmi feltétel
+upgrades.converterefficientwatershort.title,Gyors kezelés
+properties.keeper2.directminingdamage,Kompressziós bányászat sebzése {}
+upgrades.assignmentssendiron.desc,Szállíts vasat az Őrzők Céhének. A megbízás sikeres végrehajtásához vissza kell küldeni az összes elérhető szállítmányt.
+upgrades.keeper3carrylimit1.title,Szállítási kapacitás 1
+assignment.goaltype.survive,Túlélés
+upgrades.shield.title,Pajzs
+level.station.battle.navbar.stabspeedup,Szúrási gyorsítás
+upgrades.keeper3quadjump.desc,Végezz akár három további ugrást a levegőben.
+properties.laser.aimline,Célvonal
+properties.domearmor.pulsestunduration,Pulzuskábítás időtartama: {} mp
+level.tutorial.assessor.carry.desc2.switch,Press|to shoot them as a bundle in the direction in which you are facing.
+level.tutorial.ninja.carry.desc1.switch,Press| to throw a kunai carrying resources in the direction you are aiming with your %s.
+upgrades.orchardovercharge.desc,"Használj vizet a kerted túltöltésére, így segítsd elő a gyorsabb termési folyamatot."
+upgrades.missile.abilityname,Rakéta
+upgrades.resourcepackercount2.desc,Növeli az egy kötegbe csomagolható nyersanyagok számát.
+assignment.bigmapsparseresources.desc,"Ezen a nagy bolygón a nyersanyagok ritkák és távol helyezkednek el egymástól, a kőzet viszont nagyon törékeny."
+properties.spire.stuntrap,Energiacsapda
+playerlist.block,Block
+level.tutorial.sworddome.stabbing.desc,A kard kilövésével döfhetők le a távoli ellenségek.
+properties.sword.sliceacceleration,Kardgyorsaság {}
+loadout.team.join,Csatlakozás
+assignment.weapondefect.desc,"A kupola főfegyvere megsemmisült, ezért más módon kell túlélned."
+upgrades.repellentbattlehealthreduction.title,Gyengítés
+loadout.versusmod.versusmodifiertoughstart,Nehéz kezdet
+title.navbar.multiplayer,Többjátékos Mód
+keybindings.reset.title.switch,Gombkiosztás visszaállítása
+upgrades.extractorquickextraction.desc,"Hiperaktívvá fejleszti a férgeidet, hogy sokkal gyorsabban termeljék a vasrögöket."
+upgrades.mushroomfarmquickgrowth.title,Gyors növekedés
+upgrades.repellentbattlehealthreduction.desc,"Az összes szörny gyengébb lesz, és találatkor nagyobb lesz a sebzésük."
+loadout.versusmod.versusmodifierstrongmonsters,Szívós szörnyek
+leaderboard.failed,Nem sikerült betölteni a ranglistát.
+properties.sword.reflectprojectilesexplosive,Robbanó visszavert energialövedékek
+level.station.navbar.upgrades,Fejlesztések
+upgrades.artillerymachinegun3.desc,Fejleszti a légvédelmi géppuskát.
+level.gameover.unlock.pet,Új állatka feloldva.
+upgrades.domesupplementelectrifiedsurface2.title,Elektromos héj
+upgrades.keeper3shuriken2.desc,"Csökkenti a shuriken újratöltési idejét, így gyakrabban dobhatod őket."
+upgrades.artillerysplash2.desc,Két aknavetőlövés gyors egymásutánban.
+loadout.mode.hud,HUD
+upgrades.keeper4flexible2.title,Fürgeség 2
+upgrades.shieldbattlereflectshortuses.desc,Gyakoribb visszaverés egy rövidebb ideig.
+upgrades.rocketlauncherdamage2.title,Halálos rakéták
+upgrades.domesupplementscraprepair1.title,Hulladékjavítás
+upgrades.keeper2bundle3.title,Gravitációs középpont
+upgrades.keeper2bundle2.desc,Kis hatótávú eldobott köteg irányvezérlésének engedélyezése
+upgrades.keeper3shurikencooldown2.desc,Még tovább csökkenti a shuriken újratöltési idejét.
+upgrades.suitblaster.title,Beépített robbantó
+upgrades.prestigeiron.title,Küldj vasat
+properties.stunlaser.cooldown,Újratöltés {} mp.
+options.input.controls.keepersettings.desc,"A Keeperek alapértelmezés szerint a globális beállításokat használják. Itt felülírhatod ezeket, és egyéni beállításokat adhatsz minden Keeperhez. Például eltérő rácsra igazítási beállításokat használhatsz a Keeper vagy a végzett akció függvényében."
+options.keybindings.action.keeper.gravityball,Tüzelés
+upgrades.liftorbs.desc,Építs be még egy emelőgömböt.
+options.input.controls.mouse.gamepad,Játékvezérlőre váltás és visszaváltás automatikus érzékelése.
+properties.probe.detectchambers,Kamraészlelés
+landing.proceed.ps5,A folytatáshoz nyomj meg egy gombot
+upgrades.condenserautocollect.title,Automatikus begyűjtés
+multiplayer.error.hostcrossplaydisabled,"Nem lehet csatlakozni a lobbyhoz, mert a hoszt letiltotta a crossplayt, és más platformon játszik."
+upgrades.repellent.title,Szörnyellenes folyadék
+loadout.team.color,Csapatszín
+options.game.tutorials.resettutorials,Útmutatók visszaállítása
+options.accessibility.critters.explanation,"Férgek, bogarak, pókok, illetve vizuális hatásként a bányában kikelő lények letiltása."
+upgrades.prospectionmeterrange1.desc,Növeli az előrejelző mérő észlelési hatótávolságát.
+upgrades.drillsidepull.title,Ásványszállítás
+options.accessibility.highlightmonsters.explanation,A jobb láthatóság érdekében világos körvonalat jeleníthet meg a szörnyek körül.
+upgrades.keeper2bundle1.desc,Közvetlenül a kupola alatti jelöléssel mutatja a köteg felfelé lövésének helyét.
+upgrades.assignmentsemergencycontribution6.title,Vészadomány 20
+upgrades.keeper4ramping3.title,Lendület 3
+upgrades.swordblade1.desc,Kard vágáserősségének és sebességének fejlesztése.
+upgrades.probedetectchambers.title,Kamraészlelés
+loadout.mode.shortcycles,Rövid ciklusok
+upgrades.proberange3.desc,Növeli a szonda hatótávját.
+upgrades.prestigespeedup.title,Ciklusok rövidítése
+loadout.prestige.endless.description,Nincs idő- és nyersanyagkorlát nagyon hosszú meneteknél.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"Állítsd be az értéket úgy, hogy a mérő ne villogjon, amikor csak megérinted az analóg kart, anélkül hogy elmozdítanád.
+A mérőnek viszont villognia kell, amikor mozgatod a kart."
+upgrades.blastminingblast3.title,Robbanás 3
+upgrades.swordextendlong1.desc,Döféserősség és irányítási képesség fejlesztése.
+properties.autocannon.rateoffire,Tűzgyorsaság: {.percent}
+upgrades.assignmentsemergencycontribution4.title,Vészadomány 11
+assignment.minorvision.desc,A bolygó sötét árnyai minden fényt elnyelnek.
+options.audio.volumes,Hangerő
+unlock.host.locked.ps5,A host nem rendelkezik a(z) '%s' kiegészítővel.
+loadout.versusmod.versusmodifiershortcycles.desc,Kevesebb idő van a szörnyhullámok között.
+upgrades.keeper2pinballexplode2.title,Robbanás fejlesztése
+multiplayer.host.local,Helyi
+options.video.graphicsmode.fullscreen,Teljes képernyő
+properties.keeper3.kunaidamage,Kunai sebzés {}
+options.game.screenshake.shakewhenmining,Remegés bányászáskor
+upgrades.dome2.title,Kardos kupola
+properties.autocannon.damage,Lövedéksebzés {}
+loadout.mode.doubleiron,Tömegvas
+upgrades.keeper4punch1.title,Őrjöngés
+level.gameover.unlock.versus,A párbajmód feloldva!
+upgrades.artillerydoublemachinegun.desc,Egy második csövet szerel fel a kupola légvédelmi géppuskájára.
+level.converter.popup.conversion.time,{time} ciklus
+options.translation.title,VÁLASSZ NYELVET
+loadout.prestige.pro.title,Egyéni beállítások
+multiplayer.host.title,Többjátékos mód indítása
+properties.keeper4.movespeed,Mozgási sebesség {}
+options.input.gamepad.thumbstick.xbox,Stick
+upgrades.furnacelastingironfiring.title,Tartós vas üzemanyag
+upgrades.shieldoverchargestrength1.title,Túltöltött pajzs erőssége 1
+multiplayer.error.modsmismatched,A modlistád nem egyezik a hosztéval. Nem lehet csatlakozni.
+upgrades.laserhitprojectiles.desc,"Ha az energialövedékeket eltalálod a lézerrel, azonnal megsemmisülnek."
+upgrades.probepermanentrevealtiles.desc,"Az összes terület, amit a próbaszerkezet feltérképez, tartósan láthatóvá válik."
+options.keybindings.action.keeper.jump,Ugrás
+upgrades.repellentdelay2.title,Késleltetés 2
+upgrades.keeper3shuriken1.title,Shuriken
+upgrades.probelongmarker2.desc,A nyersanyag-jelzők hosszú ideig láthatóak maradnak.
+properties.shockwave.stunduration,Kábítás időtartama: {} mp
+level.tutorial.teleporter.teleport1.switch,"When close to the portal, press | to teleport back."
+options.game.alwaysshowping,Always show Server Ping
+loadout.choices.locked,Még nincs feloldva
+upgrades.prospectionmetersand1.title,Kobaltmérő
+upgrades.drill2.title,Fúráserősség 2
+level.gameover.findimages,Mentés másként
+level.tutorial.resourcepacker.popup_1.switch,"When close to resources, press | to pack them into a compact bundle that is easier to transport."
+reward.rewardpostrunshowmonstercount.title,További harci statisztikák
+upgrades.drill.title,Fúrótorony
+upgrades.versusincreasewave1.desc,Véglegesen növeli az ellenfél csapatának szörnyhullám-erejét.
+upgrades.swordstabfast1.desc,Döfj gyorsabban és gyakrabban.
+properties.sword.slicebrake,Vágás okozta gyorsaságcsökkenés {.percent}
+upgrades.lasermove3.desc,Max. lézermozgási sebesség.
+upgrades.prestigewatermultiplier.desc,Küldj vissza vizet. Növeli a hullámok után kapott presztízspontok mennyiségét.
+upgrades.domesupplementresurrection1.desc,"Ahelyett, hogy megsemmisülne, a kupola teljesen meggyógyul és egy ideig sebezhetetlenné válik. Csak egyszer használható."
+upgrades.swordextendlong3.title,Hosszú döfés 3
+properties.repellent.wavedelay,Hullámkésleltetés (ciklus) {}
+upgrades.domewavepathtodome.desc,"Amikor a hullámriasztó cseng, megjeleníti a kupoládba vezető legrövidebb útvonalat is."
+level.tutorial.ninja.carry,Kunaihordozó
+upgrades.dome4.desc,"Az elektromosság erejét sosem látott mértékben kiaknázni képes, legújabb fejlesztésű kupola."
+upgrades.prospectionmeterwater2.title,Víziránytű
+multiplayer.techtree.keeperexclusivegadget,Ez az eszköz csak a Te őrződre vonatkozik.
+options.keybindings.action.dome,Kupola
+upgrades.drillbotbuff1.title,Jutalomfalatok
+versus.corruption.desc,"Válassz egy torzulást, amely hatással lesz a másik csapatot támadó szörnyekre!"
+upgrades.swordstabshoot.title,Dárda
+properties.dome.projectiledamagereduction,Lövedéksebzés csökkenése {.percent}
+upgrades.drillbotbuffstrength2.desc,"Ha Ásóka ilyen falatot falatozik, még tovább képes dolgozni anélkül, hogy elálmosodna."
+leaderboard.global,Globális
+options.game.blocklist.unblockall,Unblock all
+upgrades.swordlongblade1.title,Hosszú penge 1
+properties.mushroomfarm.drillbuff,Bányászati erősség bónusz {}
+properties.spire.splitshotspeed,Hasadó lövési sebesség {}
+options.keybindings.action.dome.upgrade,Fejlesztések
+upgrades.teslaspeed3.title,Célkeresztsebesség 3
+upgrades.domehealthmeter.title,Statikai állapotjelző
+properties.extractor.additionalresources,További nyersanyagok: {}
+upgrades.domesupplementcombatrepair3.desc,"Az automatikus javítás hamarabb, már kevesebb sérülés után aktiválódik."
+upgrades.furnacelastingironfiring.desc,Minden vasdarab hosszabb ideig ég a kemencében.
+properties.dome.resurrectinvulnerability,Feltámadás utáni sebezhetetlenség: {} mp
+upgrades.assignmentssendwater.desc,Szállíts vizet az Őrzők Céhéhez. A feladat sikeréhez küldj vissza minden elérhető szállítmányt.
+options.game.autopickupresources,Automatically pick up Resources
+upgrades.repellentbattledamageovertime.desc,A mérgező füstben töltött minden másodperccel sérülnek a szörnyek.
+upgrades.artillerydirecthit3.desc,Aknavető-lövedékek pusztítóképességének növelése.
+upgrades.domearmorprojectile1.title,Lövedék Páncél 1
+upgrades.keeper4catgoblindig3.desc,Macskagoblinok teljesen elpusztítják a csempéket ásás közben.
+upgrades.stunlaserarea.desc,"Kábító robbanást hoz létre a célszörny körül amely az összes közeli szörnyre hat. Minél több szörny van benne, annál jobban növekszik a terület és a sebzés."
+level.tutorial.teleporter.carry2,Közelébe érve a portál ismételt felszedése: | nyomva tartásával.
+level.tutorial.teleporter.carry3,Ennek a gombnak a megnyomásával: | visszateleportálhatod magad.
+upgrades.keeper2pinballreflect.title,Visszaverő mező
+upgrades.probepermanentrevealtiles.title,Szikla feltárás
+loadout.versusmod.versusmodifierfastmonsters.desc,A szörnyek gyorsabban mozognak.
+level.tutorial.teleporter.carry1,"A portált odaviheted, ahova akarod."
+level.tutorial.pickup.popup_1.switch,Press | to pick up a resource.
+options.input.gamepad.autoswitch,Kedvenc játékvezérlő automatikus érzékelése
+options.accessibility,Megközelíthetőség
+upgrades.teslapersistance2.desc,"Nagyobb és ellenállóbb elektrogömbök, amelyek tovább megmaradnak."
+properties.sword.reflectionacceleration,Lövedékvisszaverés gyorsasága {.percent}
+upgrades.artillerygrenadefastreload.title,Gyors újratöltés
+upgrades.keeper2pinballreflect.desc,Álló visszaverő mező elhelyezése a gömbök visszaverésére. A visszaverődött gömbök kissé felerősödnek.
+options.keybindings.action.keeper,Őrző
+upgrades.drillbotbuffstrength1.desc,Ezek a jutalomfalatok tovább fenntartják Ásóka energiáját.
+upgrades.versussendiron.desc,"Szállíts vasat az Őrzők Céhének. Küldj vissza minden elérhető szállítmányt, hogy legyőzd az ellenfél csapatát."
+upgrades.keeper2pinballmorespheres1.desc,Hordozható gömbök számának növelése.
+properties.rocketlauncher.rechargetime,Újratöltési idő: {} mp
+upgrades.domesupplementadditionalcellar.title,Mély pince
+upgrades.blastminingstickycharge.title,Ragadós irányított robbanótöltet
+level.tutorial.assessor.explode.desc1,Összes környező gömb felrobbantása: |.
+upgrades.furnacestrongironfiring.title,Fokozott vas üzemanyag
+assignment.monstermasses.title,Szörnytömegek
+options.input.gamepad.gamepadstickdeadzone.switch,Analóg kar holt zónája
+properties.stunlaser.areastunstrength,Kábítási területi hatékonyság {.percent}
+upgrades.dome1health2.desc,Ezzel tartósan javíthatod a kupola statikai állapotát.
+upgrades.probepermanentrevealresources.title,Nyersanyagok felfedése
+upgrades.swordfastreflection.desc,Gyorsabb energialövedék-visszaverés.
+properties.autocannon.shotgun,Puskalövedékek {}
+loadout.difficulty.medium,Brutális
+multiplayer.join.joincodeinput,Csatlakozási kód megadása
+properties.keeper4.maxspeedupatpunches,Maximális sebesség {} ütés után
+properties.monstermodifiers.health,Szörnyéleterő: {.percent}
+loadout.versusmod.versusmodifierfastmonsters,Gyors szörnyek
+upgrades.shieldoverchargestrength1.desc,Növeli a túltöltött pajzs által elnyelt sebzés mértékét.
+properties.probe.charges,Töltet: {}
+reward.rewardthreechoicessupplement.title,Három kiegészítőajánlat
+upgrades.domesupplementscraprepair1.desc,"Kupola javítása durva módszerrel, vassal. Rontja az általános statikai állapototot."
+level.tutorial.tesla.panel1content1,Mozgasd a célkeresztet a képernyőn a célzáshoz.
+upgrades.shockwavebig.desc,"A lökéshullám hatalmas sebzést okoz, és akár néhány erősebb szörnyet is teljesen megsemmisíthet."
+multiplayer.continue.allowmultiplayererror,"Nem lehet folytatni az online többjátékos módot, mert az „Online játék engedélyezése” nincs bekapcsolva a beállítások menüben."
+loadout.hint.multiplayer.playerminimum,Legalább két játékos szükséges a többjátékos mód elindításához.
+upgrades.artillerymachinegunhoming2.title,Visszatérő rakéták 2
+upgrades.repellentbattleslowdownstun2.title,Erős bénítás
+upgrades.shockwave.abilityname,Lökéshullám
+upgrades.jetpackspeed1.title,Gyorsaság 1
+upgrades.teleporterteleportduration1.title,Teleportálás időtartama
+upgrades.autocannonrateoffire3.title,Géppuska 3
+properties.monstermodifiers.totalrunweightmodifier,Hullámerősség-szorzó: {.percent}
+upgrades.swordstabfast1.title,Gyors döfés 1
+upgrades.swordstabfast3.title,Gyors döfés 3
+properties.tesla.quickshotstrength,Gyorslövés ereje: {.percent}
+upgrades.keeper2pinballdamage3.desc,A még hosszabb újratöltés tovább növeli a kinetikus gömbök erejét.
+title.navbar.options,Beállítások
+upgrades.domearmormelee1.desc,"Csökkenti a sérülés mértékét, amit a kupola kap a közelharci támadásoktól."
+upgrades.shieldbattleelectroblast.title,Elektromos tér
+properties.spire.stuntrapradius,Sugár {}
+options.audio.volumes.ambiencevolume,Háttérhang
+loadout.mode.drillbert.desc,"Kezd Ásókával és robbantó bányászattal, de az őrzők nem frissíthetik bányászóképességüket. Korlátlan Ásókaellátás."
+loadout.versus.team.closed,zárva
+properties.keeper4.goblinnapduration,Macskagoblin pihenőideje: {} mp
+properties.keeper2.reflectnexthitdamage,További sebzés következő találatkor {.percent}
+upgrades.orchardbattlerootingmore.title,Erős gyökerek
+multiplayer.error.connection,Nem sikerült csatlakozni.
+keeperdlc.load.missing.ps5,"A mentés nem tölthető be, mert nem elérhető kiegészítőtartalmat tartalmaz. Győződj meg róla, hogy a „The Lost Keepers” kiegészítő elérhető."
+level.tutorial.fruit.popup_2.switch,"When next to it, press | to consume it."
+loadout.versusmod.versusmodifierlittlecobalt,Kobalthiány
+reward.rewardpet12.desc,Feloldja a kutyát a kupolád házikedvenceként.
+multiplayer.host.joincodelabel,Csatlakozási kód
+upgrades.swordstabfast2.desc,Döfj még gyorsabban és gyakrabban.
+properties.dome.incomingdamagemodifier,Elszenvedett sebzés: {.percent}
+properties.sword.stabexplosivedamage,Bomba sebzése {}
+properties.blastmining.bombs,Robbanótöltetek száma: {}
+properties.resourcepacker.charges,Töltet: {}
+upgrades.assignmentsemergencycontribution1.desc,"Küldd el ezt a csomagot a 2. körig, különben meghiúsul a feladat."
+properties.artillery.machinegunbarrels,Légvédelmi géppuska {}
+properties.artillery.gunaimline,Lézerfény
+upgrades.jetpackstrength4.desc,Jetpack nyersanyaghordó képességének fejlesztése.
+loadout.mode.nomonsters.desc,Érkezz egy teljesen szörnymentes világra.
+telemetry.eula,EULA elolvasása
+upgrades.condenserspeed1.title,Gyártási sebesség 1
+upgrades.mushroomstack.desc,"A bónuszok időtartama halmozódik, így több gomba elfogyasztásával hosszabb ideig tartó hatásokat kapsz."
+upgrades.keeper2pinballexplode2.desc,Gömbök okozta robbanás mértékének növelése.
+versus.message.disruption,A másik csapat tartósan megerősítette a szörnyhullámaidat.
+loadout.mode.strongmonsters.desc,Monsters will deal double damage.
+upgrades.tesla.desc,"Mutasd meg az elektromosság csodáját mindenkinek. Legjobb, ha az arcukba kapják. A több ezer voltot."
+properties.drillbot.turnaround,Visszafordulás áthatolhatatlan falba ütközéskor
+upgrades.keeper2movement3.desc,Gravitáció generátor mozgási sebességének maximális fejlesztése.
+level.tutorial.onewayteleporter2,"Nyomd meg a | gombot a portál lerakásához. Nyomd meg újra, hogy visszateleportálj hozzá."
+upgrades.domearmormelee2.title,Közelharci Páncél 2
+upgrades.drillbotbuffstrength2.title,Taurinos finomság
+level.tutorial.onewayteleporter3,Automatikusan újratöltődik.
+upgrades.keeper4extraresource.desc,Gondos ásás közben a macskagoblinjaid néha plusz nyersanyagot termelnek egy csempéből.
+upgrades.drillbotduo.desc,"Hívd segítségül Drillbert unokatestvéreit, Diggoryt és Minervát a bányászathoz. A biztonságot adó társaságban nem ijednek meg a szörnyhullámok alatt, és tovább ásnak."
+properties.tesla.perfecttimingwindow,Időablak {}s
+loadout.mode.strongmonsters,Keménykötésűek
+pause.quittotitlescreen,Kilépés a főmenübe
+properties.keeper2.explodespheresradius,Robbanási sugár (mező) {}
+telemetry.privacy,Adatkezelésünkről részletesebben adatvédelmi nyilatkozatunk ad tájékoztatást: http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,A rakéták pusztítóbbá válnak.
+keybindings.reset.doreset,Állítsd vissza a gombkiosztásomat
+upgrades.keeper3carrylimit3.desc,Növeld a kunai-hordozódon szállítható nyersanyagok számát.
+upgrades.autocannondoublefirerate.desc,Az automata ágyú sokkal gyorsabban tüzel. Egyszerű és hatékony.
+upgrades.autocannon.title,Automata ágyú
+upgrades.artillerymachinegunhoming1.title,Visszatérő rakéták 1
+level.tutorial.assessor.carry.desc1_1.switch,"Miután rád kapcsolódtak, akkor is követnek, ha elengeded a gyűjtés gombját."
+upgrades.swordlongblade1.desc,Egy hosszabb és fürgébb kard felszerelése.
+loadout.team.players,Játékosok
+loadout.abort,Vissza
+options.keybindings.action.keeper.rope,Kötél dobása
+upgrades.mushroomfarm.title,Gombafarm
+loadout.prestige.title,Válassz módvariációt
+upgrades.prospectionmeterrange1.title,Hatótáv 1
+upgrades.keeper3doublejump.title,Dupla ugrás
+upgrades.keeper3kunaibounce1.desc,"Display the Kunai's predicted bounce path and landing point. Each bounce reverberates through the stone, revealing nearby tiles."
+upgrades.repellentbattlelongerhealthreduction.title,Intenzív gyengítés
+loadout.versusmod.versusmodifierlittlewater,Vízhiány
+upgrades.mushroomfarmdrill1.title,Gombabányászat 1
+loadout.versusmod.versusmodifierscatterediron,Elszórt vas
+level.converter.popup.conversion.convert,átalakít
+properties.droneyard.overchargebattledronecount,További harci drónok {.percent}
+reward.rewardfreerolls1.desc,Menetenként egyszer ingyen újradobhatod az eszköz- vagy kiegészítőválasztékot.
+multiplayer.host.splitscreen,Helyi osztott képernyő engedélyezése
+properties.converter.cobalttoiron,1 kobaltból {} vas
+loadout.mode.automateddefense,Automata védelem
+options.input.gamepad.gamepadstickdeadzone.xbox,Analóg kar holt zónája
+level.converter.popup.explanation,A kezdéshez válaszd ki az átalakítandó nyersanyagot!
+upgrades.dome1health2.title,Statikai állapot 2
+upgrades.stunlaserduration3.desc,A kábítólézer rendkívül gyorsan újratölt és jelentősen meghosszabbodik a tüzelés időtartama.
+upgrades.assignmentsemergencycontribution5.desc,"Küldd el ezt a csomagot a 16. körig, különben meghiúsul a feladat."
+pause.gamepadcontrols.use,Használ
+properties.spire.stunmonsters,Szörnykábítás
+upgrades.assignmentssendcobalt.desc,Szállíts kobaltot az Őrzők Céhének. A megbízás sikeres végrehajtásához vissza kell küldeni az összes elérhető szállítmányt.
+upgrades.mushroomfarmspeed1.desc,Növeli a gombák elfogyasztásával kapott sebességbónuszt.
+upgrades.keeper2pinballmorespheres1.title,Gömbellátás
+upgrades.rocketlauncherrockets2.desc,Növeli a kilőhető rakéták számát.
+options.keybindings.gamepad.xbox.menu.xbox,Menü gomb
+upgrades.swordstabfast3.desc,Szúrj még gyorsabban és gyakrabban.
+properties.shield.overchargestrength,Túltöltési erősség {} életerő
+upgrades.droneyarddronespeed1.desc,Fokozza a szállító drónok sebességét.
+upgrades.liftorbs.title,További gömbök
+properties.keeper3.carrylimit,Kunai tárolókapacitás: {}
+options.video.graphicsmode.photosensitive,Fotóérzékenység-mód
+upgrades.keeper2pinballdamage1.title,Kinetikus gömbök 1
+reward.rewardkeeper3skin1.title,Beszivárgó kinézet
+level.tutorial.ninja.gadgetpickup.desc1,Az eszközöket nem veszed fel automatikusan.
+properties.converter.ironperwater,{} vas vízenként
+properties.spire.capacity,Lövésszám újratöltésig: {}
+level.tutorial.ninja.gadgetpickup.desc2,Tartsd lenyomva a | gombot egy eszköz felvételéhez.
+loadout.versusmod.versusmodifierlittlewater.desc,A pálya csak minimális vízlelőhelyet tartalmaz.
+upgrades.drillbotstrength3.desc,Felerősíti Ásóka ásási erejét.
+upgrades.spirestuntrap3.title,Szörnycsapda
+upgrades.shredgadgettocobalt.desc,"Törd szét az eszközödet, és szerezz ennyi kobaltot: {amount}!"
+upgrades.converterefficientcobalt.title,Gazdaságos kobaltátalakítás
+options.input.vibration.strength.switch,Rezgéserősség
+properties.sword.reflectprojectiles,Energialövedékek visszaverése
+reward.rewardfreerolls2.desc,Menetenként egy további ingyenes újradobást kapsz a eszköz- vagy kiegészítőválasztékra.
+level.tutorial.station.popup_2.switch,Move to the station and press | to enter it.
+upgrades.versus.desc,"Két kupola, két csapat. Egymás ellen küzdenek, míg végül csak egy marad."
+upgrades.dome2.desc,"Kísérleti kupola nagy erejű karddal, melynek használatát meg kell tanulni, de akkor még a legerősebb támadót is legyőzi."
+upgrades.drillmagnetic.desc,"A lefelé irányuló fúrók burkolata mágnesessé válik, és a helyén tartja a kitermelt nyersanyagokat."
+assignment.harmfuliron.title,Veszélyes vas
+level.tutorial.sworddome.stabbing,Döfés
+options.input.gamepad.icons,Ikonok
+upgrades.shredgadgettoiron.desc,"Törd szét az eszközödet, és szerzel {amount} vasat."
+upgrades.assignmentsemergencycontribution6.desc,"Küldd el ezt a csomagot a 20. körig, különben meghiúsul a feladat."
+properties.droneyard.battledroneshots,Lövés per drón {}
+level.gameover.lose.title,A KUPOLÁD ELVESZETT
+loadout.difficulty.title,Nehézség
+properties.artillery.maxrotation,Maximális forgatás {}°
+upgrades.shockwavestun2.desc,Növeli a lökéshullám kábító hatását.
+unlock.host.locked,A host nem rendelkezik a(z) '%s' DLC-vel.
+multiplayer.host.splitscreen.desc,Használj kontrollereket a további őrzők létrehozásához. Egy képernyőt legfeljebb négy őrző oszthat meg. Kombinálható helyi hálózati vagy online többjátékos móddal.
+telemetry.explanation,"Online többjátékos módhoz csatlakozhatsz a szolgáltatásunkhoz, hogy más játékosokat találj és csatlakozz a játékaikhoz, vagy saját játékot indíts.
+Ez opcionális, szabadon engedélyezheted vagy letilthatod. A háttérrendszerhez való ismételt csatlakozás – még névtelen fiókkal is – a GDPR hatálya alá tartozik.
+Nem gyűjtünk személyes adatokat, és nincs telemetria, amely a játékmenetedet követné.
+Ha nem engedélyezed az online többjátékos módot, továbbra is játszhatsz többjátékos módban egy eszközön osztott képernyőn, vagy helyi hálózaton.
+
+Ezt a beállítást bármikor módosíthatod a beállítások menüben."
+gadget.slot.supplement,Kiegészítő
+upgrades.droneyardovercharge2.desc,A túltötlés után a drónok erősebbek lesznek.
+level.furnace.popup.fuel.burn,"Minden | {cycles} ciklusig tart, és további {seconds} másodperccel késlelteti a szörnyeket."
+options.input.controls.nooptions,Ehhez a Keeperhez nincs elérhető egyéni %s-beállítás.
+upgrades.versusshowinventory.desc,Megmutatja az ellenfél készletét a kupolájuk figyelése közben.
+properties.keeper1.drillstrength,Fúráserősség {}
+upgrades.keeper1.desc,"Egy képzett és hatékonyan dolgozó szakember, aki kiváló bányászati tudással rendelkezik."
+leaderboard.friends,Ismerősök
+gadget.slot.activegadget,Másodlagos harci képesség
+upgrades.keeper2.desc,"Rutinos bányász, aki kísérleti kinetikus energiát és gravitációs technológiát alkalmaz."
+upgrades.keeper2pinballsplit2.title,Fejlesztett hasítás
+upgrades.keeper2movement1.title,Gravitációs mozgás 1
+upgrades.keeper2pinballexplode.title,Robbanó gömbök
+upgrades.keeper3kunaidamage4.desc,Növeld a kunaid bányászati erejét. A kunai különösen gyenge a kemény kőzettel szemben.
+upgrades.spireautonomy1.desc,"Mesterséges intelligencia automatikusan irányítja a tornyot akkor is, ha nem vagy a vezérlőállomáson."
+properties.droneyard.dronespeed,Drón sebesség {}
+upgrades.teslaquickshot.title,Gyors lövés
+assignment.megacreeps.title,A legerősebbek túlélése
+upgrades.shieldbattleactivateondepletion.title,Aktiválás lemerülésnél
+versus.corruptionbigwave.title,Gyilkos hullám
+upgrades.lasermove3.title,Mozgási sebesség 3
+upgrades.swordelectrified.title,Elektromos penge
+upgrades.artillerymachinegun1.title,Fejlesztett légvédelmi géppuska
+level.tutorial.beastmaster.move.desc2,"Csak akkor tudsz mozogni, ha meg tudsz kapaszkodni valamiben."
+options.accessibility.fontsize.small,Kicsi
+assignment.unpredictable.desc,"A bolygó légköre megzavarja a kupola közelségjelzőjét, így az ellenséges hullámok nem követhetők nyomon."
+level.tutorial.beastmaster.move.desc1,A csápokkal mozoghatsz a bányában.
+upgrades.suitblasterdirectional.desc,"Ha egy irányba mozogsz, a ruhába szerelt robbantó hosszú alagutat robbant. Ha aktiváláskor nem mozogsz, továbbra is körkörös robbanás jön létre."
+level.tutorial.teleporter.take1,A teleport egy állomásból és egy portálból áll. A kettő között lehet teleportálni.
+options.audio.music.ost.mode.fixed.desc,"Felvételek lejátszása a következő őrző hangsávokból, függetlenül attól, melyik őrző van éppen játszva."
+level.tutorial.teleporter.take2,Fogd meg a portált és tedd ahová szeretnéd.
+level.gameover.assignment.failed,Nem sikerült teljesítened az Őrzők Céhének megbízatását.
+telemetry.manage,Online szolgáltatások letiltása
+modding.restart,Újraindítás
+upgrades.orchardbattlerootingexplosion.title,Robbanó áldozat
+level.gameover.unlock.skin,Új öltözet feloldva!
+upgrades.jetpackspeed3.desc,Jetpack sebességének fejlesztése.
+upgrades.repellentoverchargeduration2.title,Intenzív túltöltés
+upgrades.prospectionmeterwater1.desc,Megmutatja a legközelebbi vízlelőhelyeket.
+loadout.prestige.miner.description,Koncentrálj a leghatékonyabb bányászatra egy szörnyek nélküli világban. 20 ciklust vesz igénybe.
+upgrades.shieldbattlereflect.desc,"Aktív harcképességet indít be, amely egy rövid időre visszaveri a beérkező lövedékeket."
+upgrades.stunlaserstun1.desc,Kábítósugár erejének növelése.
+multiplayer.error.gameresolved,Ez a játék már véget ért.
+upgrades.shieldbattlereflect.title,Visszaverés
+options.audio.volumes.mastervolume,Mester
+upgrades.keeper2pinballdamage4.title,Kinetikus gömbök 4
+leaderboard.loading,betöltés...
+upgrades.droneyardparasites2.title,Parazita drónok 2
+playerlist.title,Játékoslista
+upgrades.versusincreasewave2.desc,Véglegesen növeli az ellenfél csapatának szörnyhullám-erejét.
+upgrades.rocketlauncher.title,Rakétakilövő
+upgrades.liftspeed1.title,Gyorsaság
+upgrades.rocketlauncherrockets2.title,Sortűz 2
+level.tutorial.blastmining.popup_1,"Fogd a robbanótöltetet, és dobd el, ha köveket akarsz eltisztítani az útból."
+upgrades.keeper3slidecontrol.title,Csúszkavezérlés
+properties.furnace.wavedelay,Alapkésleltetés: {} mp
+upgrades.mushroomfarmspeed2.desc,Növeli a gombák elfogyasztásával kapott sebességbónuszt.
+upgrades.dome3.title,Ágyús kupola
+properties.converter.ironirontime,Vasból vassá alakítás ideje (ciklusok): {}
+properties.laser.movespeed,Mozgási sebesség {}
+properties.stunlaser.damagepermonster,Szörnyenkénti területi sebzés {}
+upgrades.stunlaser.title,Kábítólézer
+title.navbar.credits,Készítők
+upgrades.drillbotbuffstrength1.title,Tápláló falatok
+level.tutorial.pickup.popup_1,Nyersanyagfelszedés: |.
+level.tutorial.pickup.popup_3,Nyomva tartva szedhető fel több.
+upgrades.blastminingtriple.title,Tripla töltet
+upgrades.prospectionmeterscandelay1.desc,Megnöveli a mérők frissítési sebességét.
+upgrades.furnacelastingwaterfiring.desc,Minden egységnyi víz hosszabb ideig ég a kemencében.
+upgrades.versusincreasewave2.title,Szabotázs 2
+upgrades.artillerymachinegun4.desc,Extrém tűzsebességre képes géppuskacső felszerelése.
+upgrades.teslaspeed4.title,Célkeresztsebesség 4
+upgrades.swordextendlong3.desc,Hatalmas szúróerő és időtartam.
+demo.end.title,"Köszönjük, hogy játszottál a demóval!"
+upgrades.stationextensiontubemovement.title,Vákuumcsöves utazás
+upgrades.keeper4squad3.title,Hatalmas Osztag
+upgrades.orchardbattleshield.desc,Növessz indákból álló burkot a kupoládra amely megvédi a lövedékektől.
+properties.droneyard.battledronestrength,Parazita hatás {.percent}
+options.game.kunaicarriersnapping,Kunai-hordozó célzásának igazítása a fő irányokhoz
+options.input.vibration.strength.xbox,Vibrációerősség
+upgrades.keeper2pinballspherelifetime.title,Gömbélettartam
+upgrades.furnace.title,Kemence
+upgrades.shockwavedamage1.title,Lökéshullám-sebzés 1
+properties.orchard.drillbuff,Bányászati erősség bónusz {}
+level.tutorial.station.popup_4,Ezután harc játékmód és védekezés: |.
+level.tutorial.teleporter_2,A teleportálás a teleportállomás és a portál között lehetséges.
+level.tutorial.station.popup_2,Az állomásra érve belépés ezzel: |.
+pause.resumegame,Játék folytatása
+actionhint.tap,Érint
+level.tutorial.station.popup_1,A kupolát támadás érte!
+multiplayer.error.kicked,Kidobtak a többjátékos munkamenetből.
+telemetry.allow.ps5,EULA elfogadása
+landing.proceed.switch,A folytatáshoz nyomj meg egy gombot
+upgrades.condenserautoovercharge.title,Automata túltöltés
+upgrades.keeper2pinballdestroyadjacenttiles.title,Átterjedő becsapódás
+level.converter.popup.queue,Átalakítás automatikus ismétlése
+options.keybindings.action.general.back,Visszavon
+loadout.versus.condition.deathmatch.title,Utolsó állva maradó kupola
+upgrades.domearmorprojectile1.desc,"Csökkenti a sebzés mértékét, amit a kupola kap a lövedék támadásoktól."
+options.keybindings.action.general.move,Mozgás
+upgrades.keeper3kunaicooldown2.title,Villám Dobás
+upgrades.artilleryrotation2.title,Gyors forgatás
+loadout.gadget.additional.desc,Válassz egy további eszközt!
+level.gameover.unlock.assignment,A megbízatások feloldva!
+upgrades.domesupplementprojectiledamagereduction1.desc,"Lövedék okozta sebzést csökkentő, fejlesztett elhárítóképességű kupolahéj. A közelharci sebzést nem értinti."
+upgrades.blastminingproductiontime1.desc,Csökkenti a robbanótöltet-gyártási időt.
+upgrades.autocannonshotgun1.title,Puska 1
+loadout.hint.loadout,Véglegesítsd a felszerelésedet!
+assignment.condition.deliveriron,Szállíts le %d vasat
+upgrades.drillbotduo.title,Bátor barátok
+level.tutorial.assessor.carry.desc1_1.xbox,"Miután rád kapcsolódtak, akkor is követnek, ha elengeded a gyűjtés gombját."
+multiplayer.error.nomods,Nem lehetnek telepített modok.
+options.input.controls.keybindings.xbox,Gombkiosztás
+upgrades.domearmorprojectile2.title,Lövedék Páncél 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"Állítsd be az értéket úgy, hogy a mérő ne villogjon, amikor csak megérinted az analóg kart, anélkül hogy elmozdítanád.
+A mérőnek viszont villognia kell, amikor mozgatod a kart."
+upgrades.domesupplementcombatrepair2.title,Átfogó harc közbeni javítás
+level.gadgetchoice.title,VÁLASZD KI AZ ESZKÖZÖDET!
+properties.teleporter.slowdown,Cipelési lassulás: {.percent}
+upgrades.teslaspeed1.title,Célkeresztsebesség 1
+assignment.weapondefect.title,Hibás fegyver
+properties.suitblaster.directionalexplosions,Irányított robbanás
+options.translation.community.title,Közösségi Fordítás
+options.audio.music.ost.mode,Hangsávbeállítások
+upgrades.teleporterteleportresourcesback.title,Teleportálj nyersanyagokat
+upgrades.orchardbattleshield.title,Indaburok
+properties.drill.sides,Oldalsó fúrók: {}
+upgrades.teslaorbstun.desc,Az elektro gömbök sokkal jobban kábítanak.
+upgrades.repellentoverchargeduration2.desc,Növeli a túltöltés hatását a harci képességekre.
+properties.keeper2.totalspheres,Gömbök {}
+options.keybindings.action.general.up,Fel
+pause.quit.popup,"Biztosan kilépsz?
+Ehhez nyomj meg egy gombot!
+(a játékállást elmentjük)"
+upgrades.drillbotduplicate.desc,"Ásóka kap az egypetéjű ikertestvért, Ásikát."
+properties.keeper3.shurikenstrength,Robbanási sugár (mező) {}
+assignment.bigmapsparseresources.title,Kietlen vidék
+upgrades.converterqueue.title,Automatizált átalakítás
+multiplayer.error.otherprestigeplayerquit,"A játék véget ért, mert a csapattársad kilépett a játékból. A játékod el lett mentve, és a Folytatás menüben a többjátékos mód kiválasztásával folytathatod a játékot."
+level.tutorial.teleporter.teleport1,Vissza-teleportálás a portál közeléből: |.
+level.tutorial.teleporter.teleport2,A másik irányba is tudsz teleportálni.
+playerlist.report,Jelentés
+upgrades.swordextendlong1.title,Hosszú döfés 1
+upgrades.spiresplit3.desc,Mindenfelé távoznak a hasadó lövedékek.
+upgrades.keeper3kunaicooldown3.desc,Dobd a kunaiokat gyorsabban.
+exhibition.title.press.anything,A játék indításához nyomj meg egy gombot
+multiplayer.techtree.keeperexclusivesupplement,Ez a kiegészítő csak a Te őrződre vonatkozik.
+options.input.gamepad.twinstick.xbox,Kétkaros irányítás
+gadget.slot.domesupplement,Kupolakiegészítő
+loadout.mode.maze,Labirintus
+upgrades.teleporter.title,Teleport
+properties.keeper4.holesquad,Bányászcsapat mérete: {}
+level.tutorial.fruit.popup_1,Kész az első energetizáló gyümölcsöd.
+upgrades.teslatiming1.desc,"Sokkal hatékonyabbá teheted a lövést, ha pontosan a tesla újratöltődésekor lősz."
+upgrades.converterefficientwaterlong.title,Intenzív kezelés
+level.tutorial.fruit.popup_2,A közelébe érve elfogyasztás: |.
+unlock.buy.keeperdlc.xbox,A(z) '%s' kiegészítővel oldható fel.
+upgrades.autocannonspeed1.desc,Az ágyúszerkezet zsírozásával jelentősen növelhető a mozgási sebesség.
+upgrades.probepermanentrevealresources.desc,"A jelzett nyersanyagok tartósan láthatóvá válnak, nem csupán egy jelzővel lesznek megjelölve."
+properties.teleporter.teleportresourcescooldown,Nyersanyag-teleport újratöltési idő: {} mp
+upgrades.spire.desc,Beérkező lövedékek lelövésére szolgáló védelmi torony.
+reward.rewardkeepersupplements.title,Őrző-kiegészítők
+upgrades.condenser.desc,"Egy gépet helyez el a kupola alatt, amely kondenzációval vizet állít elő."
+upgrades.spiresplit3.title,Talajhasadás
+properties.drillbot.plantgrowthtime,Jutalomfalat-növési idő (ciklus) {}
+modding.modio.showdownloaded,Show Downloaded Mods
+upgrades.stunlaserspeed1.title,Gyorsaság 1
+upgrades.resourcepackercharges.title,Töltetek
+upgrades.swordblade1.title,Vágásfejlesztés
+loadout.versus.modifiers.desc,"Válassz módosítókat ehhez a menethez, amelyek a te csapatodra és a másik csapatra is hatással lesznek. A módosítók nem kötelezőek."
+level.tutorial.fullscreen.back,vissza
+options.accessibility.backgrounds.explanation,"Cseréld le minden világ hátterét egyetlen élénk színre, hogy csökkentsd a vizuális zajt a harc során."
+upgrades.dome1health1.title,Statikai állapot 1
+loadout.prestige.pro.randomorder,Véletlen sorrend
+assignment.superhardrockwithholes.desc,"A kőzet rendkívül sűrű, de tele van természetes barlangokkal."
+upgrades.droneyardparasites.title,Parazita drónok
+actionhint.hold,Nyomva tart
+properties.spire.timebetweenshots,Célzási idő {} mp.
+properties.game.cyclespeed,Ciklussebesség {.percent}
+upgrades.artillerydirecthit3.title,Szörnyverő 3
+loadout.mode.drillbert,Ásóka játékmód
+upgrades.prestigecobalt.title,Küldj kobaltot
+upgrades.rocketlauncher.desc,Önirányító rakétákat lő ki a szörnyekre. Kézzel kell aktiválni.
+level.station.battle.navbar.exit,Kilépés
+options.game.events.enableseasonal,Idényjellegű tartalom engedélyezése
+options.audio.music.ost.mode.fixed,Fix
+assignment.ironcontribution.desc,"A Céhnek sürgősen vasra van szüksége, és egy nagy mennyiség gyors szállítását kéri."
+properties.rocketlauncher.damageperrocket,Sebzés {}
+upgrades.keeper4.title,Fenevadmester
+upgrades.laserbend.title,Forgófejes lézer
+unlock.host.locked.switch,A host nem rendelkezik a(z) '%s' kiegészítővel.
+level.supplementchoice.reroll.free, (%s) Újrasorsolás
+loadout.versusmod.versusmodifierconcentratediron,Koncentrált vaslelőhelyek
+options.keybindings.rebinding.apply,Alkalmaz
+properties.repellent.battledamageovertime,A szörnyek ennyi sebzést szereznek másodpercenként {}
+upgrades.repellentdelay1.title,Késleltetés 1
+upgrades.converterefficientwatershort.desc,A víz átalakítása sokkal gyorsabb lesz.
+upgrades.domesupplementcombatrepair1.title,Harc közbeni javítás 1
+level.tutorial.sworddome.slicing,Vágás
+properties.drillbot.scared,Fél a szörnyektől
+title.navbar.updates.close,Bezár
+upgrades.condenserspeed2.desc,Tovább csökkenti a vízkondenzáció időtartamát.
+upgrades.prospectionmeteriron2.desc,Megmutatja a legközelebbi vaslelőhely irányát.
+upgrades.keeper3carrylimit2.title,Szállítási kapacitás 2
+loadout.versus.condition.irondelivery.desc,"Az a csapat nyer, amelyik elsőként szállít le %s vasat."
+properties.mushroomfarm.speedbuffduration,Sebességbónusz időtartama: {} mp
+upgrades.keeper4punch1.desc,"A csápbányászatod lassan hatalmas erőre töltődik, de az irányváltás megszakítja a felhalmozódást."
+exhibition.level.heading,Játszol még?
+keeperdlc.load.missing.xbox,"A mentés nem tölthető be, mert nem elérhető kiegészítőtartalmat tartalmaz. Győződj meg róla, hogy a „The Lost Keepers” kiegészítő elérhető."
+upgrades.domesupplementresurrection2.desc,További újjáéledést biztosít.
+actionhint.release,Eloldás
+level.gameover.stats.monsterskilled,Megölt szörnyek
+level.gameover.timelapse,Timelapse
+upgrades.drill3.desc,Ezzel megerősítheted a fúrót a gyorsabb ásáshoz.
+upgrades.prospectionmetersand1.desc,Megmutatja a legközelebbi kobaltlelőhelyeket.
+assignment.instagip.desc,"A bolygó szörnyei természetellenesen kegyetlenek, támadásaik pusztító sebzést okoznak a kupoládnak."
+landing.proceed.xbox,A folytatáshoz nyomj meg egy gombot
+upgrades.drillsides.desc,"Egy oldalsó fúrót ad a központi fúróhoz, amely szükség szerint áthelyezhető."
+properties.dome.meleedamagereduction,Közelharci sebzés csökkentése {.percent}
+options.keybindings.action.keeper.throw,Kunai dobása
+level.station.battle.navbar.artilleryflak,Géppuska
+upgrades.teleporterlightweight.desc,A portál hordozása alig fog lassítani.
+level.gameover.backtomainmenu,Vissza a főmenübe
+properties.sword.stabarrowhead,Nyílhegyméret növelése
+loadout.versus.team.open,nyitva
+level.gameover.stats.mapsize,Térképméret
+upgrades.domesupplementelectrifiedsurface2.desc,Nagyobb sérülést szereznek a kupolába ütköző szörnyek.
+upgrades.prestigecobalt.desc,Küldj vissza kobaltot. Növeli a hullámok után kapott presztízspontok mennyiségét.
+options.video.renderscale.reset,Visszaáll
+options.keybindings.text.xbox,Személyre szabhatod a gombkiosztást. Ugyanazt a gombot több kategóriában is használhatod (például a Őrző mozgatására és a kupola fegyverhez.)
+options.audio.music.frequency,Gyakoriság (zene nélküli ciklusok)
+upgrades.rocketlauncherrockets3.desc,Növeli a kilőhető rakéták számát.
+options.input.controls.mouse.menus,Egér használata a menükben
+upgrades.artillerysplash4.title,Négyszeres akna
+upgrades.keeper4catgoblindig3.title,Őrült Bányászat
+properties.keeper4.catgoblincount,Macskagoblinok száma: {}
+loadout.mode.hud.desc,Kezdj teljesen frissített HUD-dal.
+upgrades.drillbotsleepless.title,Alapfeltételek
+assignment.maze.desc,"Ennek a bolygónak a pályája labirintusszerű, tele folyosókkal és egyenetlen képződményekkel."
+level.tutorial.drop.popup_2.switch,Press | to drop one. Hold to drop many.
+upgrades.artillerysplash2.title,Dupla héj
+loadout.select,Kiválaszt
+level.gameover.prestige.uploading.failed,"feltöltés sikertelen, próbáld újra"
+level.assignment.badges.available,Elérhető jelvények: %d
+level.tutorial.beastmaster.goblins,Macskagoblinok
+properties.autocannon.spray,Lövedékpermetezés {.percent}
+upgrades.versusspycam.title,Kémkamera
+upgrades.shredgadgettoiron.title,Törmelékből vas
+upgrades.teslapersistance3.desc,"Nagyobb és ellenállóbb elektrogömbök, amelyek tovább megmaradnak."
+upgrades.suitblasterspeed2.title,Töltési Sebesség 2
+properties.shield.battleuses,Használatszám csatánként {}
+properties.prospectionmeter.range,Hatótáv (mező) {}
+upgrades.droneyard.desc,"Telepít egy udvart, erőforrások szállításában és harcban használt drónok előállításához."
+upgrades.domearmorpulse.title,Reaktív impulzus
+title.navbar.multiplayer.host,Többjátékos mód indítása
+upgrades.spireburst.desc,"Tüzelés rövid sorozatban, sorozattüzelést okoz."
+upgrades.domearmor.desc,"Erős páncélzatot kapsz a kupolára, ami növeli annak tartósságát."
+options.input.controls.mouse.gamepad.xbox,A kontrollerre váltást és visszaváltást a játék automatikusan érzékeli
+unlock.difficulty.hard,A feloldáshoz nyerj meg egy menetet brutális nehézségen.
+versus.corruptionmonsterhealth.title,Szívós szörnyek
+properties.probe.markerretention,Jelölésmegtartások {} mp.
+loadout.hint.gamemodecompletion,Végelegesítsd a játékmód beállításait!
+upgrades.suitblasterdirectional.title,Irányított töltet
+options.keybindings.gamepad.xbox.view,Vissza
+unlock.host.locked.xbox,A host nem rendelkezik a(z) '%s' kiegészítővel.
+loadout.versusmod.versusmodifiernorelics,No Relics
+upgrades.autocannondoublefirerate.title,Gyorstüzelő ágyú
+upgrades.blastmining.desc,"Robbanótölteteket állít elő robbantó bányászathoz. Vidd a bányába, és kioldva robbantsd őket fel."
+upgrades.converterqueue.desc,"Miután egy átalakítás befejeződik, a keletkezett nyersanyagok automatikusan kikerülnek, és ugyanaz az átalakítás újraindul, ha elegendő nyersanyag van a készletben."
+modding.modio.fetchsubscriptionsfailed,Error fetching mod.io subscriptions!
+upgrades.orchardbattleshieldsecondlayer.desc,Növessz még egy réteg indákból álló burkot a kupoládra.
+unlock.generic,Egy menet megnyerésével oldható fel.
+loadout.versusmod.versusmodifiersoftrock.desc,A pályán több puha kőzet található.
+upgrades.assignments.desc,"Kihívást jelentő küldetések az Őrzők Céhétől, amikben bizonyíthatod a rátermettségedet."
+properties.probe.autorecharge,Automatikus újratöltés
+assignment.instagip.title,Brutális szörnyek
+upgrades.artillerysplash3.desc,Aknavető fejlesztése nagy robbanási sugarú akták kilövésére.
+multiplayer.join.button,Csatlakozás
+pause.gamepadcontrols.move,Mozgás
+upgrades.condenserautoovercharge.desc,A fő eszközödet véglegesen túltölti víz felhasználása nélkül. A vízlecsapódási folyamat a túltöltődés miatt később tud csak indulni.
+multiplayer.continue.deviceselection.title,Válaszd ki az őrződ!
+upgrades.autocannonautonomy.desc,"Akkor is aktiválódik az automata ágyú, ha nem vagy a vezérlőállomáson."
+upgrades.swordaimline.title,Célvonal
+multiplayer.join.joinfromcode,Csatlakozás
+properties.artillery.rotationspeedwhilemachinegun,Forgatási sebesség lövés közben {.percent}
+level.tutorial.artillery.panel2header,Légvédelmi ágyú
+level.gameover.keepgadget.title,"Válaszd ki, mely eszközt tartod meg a következő játékra"
+upgrades.domearmorprojectile2.desc,"Csökkenti a sebzés mértékét, amit a kupola kap a lövedék támadásoktól."
+upgrades.shieldbattledestructionprevention.title,Utolsó védvonal
+upgrades.domeresourcecounters.desc,"Megmutatja a tárolt nyersanyagok mennyiségét, és harc közben kobalt használatával automatikusan javítja a kupolát."
+upgrades.spirestuntrap1.title,Energiacsapda
+upgrades.prospectionmeteriron2.title,Vasiránytű
+loadout.mode.hyperactive,Gyors és törékeny
+upgrades.prospectionmeterwater2.desc,Megmutatja a legközelebbi vízlelőhely irányát.
+options.video.stretchmode,Nyújtásmód
+level.gameover.prestige.title,TEKINTÉLYJÁTÉK VÉGE
+upgrades.droneyardovercharge1.title,Dróngyár túltöltése
+level.station.navbar.exit,Kilépés
+upgrades.teslaorbdamage.title,Szupravezetés
+upgrades.proberechargeafterbattle.title,Állomás nélküli szonda
+upgrades.assignmentssendwater.title,Vízhordás
+upgrades.probecharges.title,Szonda töltés
+pause.gamepadcontrols.pickup,Felszedés
+upgrades.prospectionmeter.title,Előrejelző mérő
+upgrades.condenserspeed2.title,Gyártási sebesség 2
+loadout.mode.hyperactive.desc,"A szörnyek gyorsak, de kevesebb életerejük van."
+upgrades.teleporterlightweight.title,Könnyített portál
+versus.corruptionstunresistance.title,Kábításellenállás
+loadout.versusmod.versusmodifierpoorirondeposits,Vékony vaslelőhelyek
+level.gameover.prestige.uploading.finalfailed,Az új pontszámodat sajnos nem sikerült feltöltenünk. Bocsi!
+modding.currentprofile,(Jelenlegi profil)
+upgrades.versussendiron.title,Vas leszállítása
+loadout.assignment.title,Válassz megbízatást
+options.keybindings.rebinding,Újrakötés
+upgrades.teslaspeed2.title,Célkeresztsebesség 2
+level.tutorial.beastmaster.hole_1,"Tartsd lenyomva a | gombot, hogy lyukat áss a hátsó falba."
+level.tutorial.beastmaster.hole_2,"Hamarosan előbújik egy macskagoblin, és csatlakoztatja azt az alagútrendszerükhöz."
+upgrades.keeper3shurikenstrength2.title,Hatalmas Shuriken
+upgrades.versusspycam.desc,"Kapsz egy új állomást, amellyel megfigyelheted az ellenfél kupoláját."
+loadout.versusmod.versusmodifiershortcycles,Rövid ciklusok
+options.accessibility.fontsize.large,Nagy
+reward.rewardcentralmarker.desc,A bánya közepét egy függőleges vonallal jelöli meg.
+upgrades.shieldstrength3.desc,Még jobban növeli a pajzs támadáselnyelési képességét.
+options.game.movementsnapping,Mozgás igazítása a fő irányokhoz
+upgrades.laseraimline.title,Lézercél
+upgrades.converterironduplication.title,Vasfinomítás
+upgrades.jetpackspeed4.desc,Jetpack sebességének fejlesztése.
+options.keybindings.gamepad.xbox,Kontroller
+upgrades.teslapower1.title,Tűzerő 1
+gadget.slot.mineshaft,Bányatárna
+keybindings.reset.title.xbox,Gombkiosztás visszaállítása
+upgrades.autocannonrateoffire2.desc,Tovább növeli a tüzelési sebességet.
+multiplayer.join.localonly,Csak helyi játékok. Engedélyezed az online többjátékos módot?
+upgrades.keeper3aerialmastery.title,Légi Mester
+upgrades.extractordestruction.desc,"A férgek nem aszalódnak össze a járataik mélyén, hanem inkább beomlasztják a kifúrt sziklákat, és magukkal rántanak egy darabot a környező kőzetből is."
+properties.shield.battleabilityduration,Képességek időtartama {} mp.
+upgrades.keeper4squad3.desc,Növeli az osztagban lévő macskagoblinok számát és az élettartamukat.
+level.gameover.prestige.score.rankimproved,A rangod mostantól: {rank}.
+options.game.tutorials.noneunlocked,Nincs feloldott oktatóanyag.
+upgrades.droneyardparasites2.desc,Növeli parazita drónok hatékonyságát.
+loadout.prestige.provocation,Provokáció
+network.error.generic,Hálózati hiba.
+options.game.ropesnapping, Kötél és célzójelző igazítása a fő irányokhoz
+upgrades.keeper4catgoblindig1.title,Macskagoblin Bányászat
+level.gameover.manualmove,Kézi kamera
+upgrades.domesupplementcombatrepair1.desc,"Harc közben automatikusan javítja magát a kupola, ha a kapott sebzés meghalad egy bizonyos értéket. Ez nem fogyasztja a kobaltot."
+upgrades.prospectionmeterscandelay1.title,Pásztázási sebesség fejlesztése
+assignment.goaltype,Cél
+properties.keeper1.speedlosspercarry,Hordáslassulás {}
+upgrades.extractor.desc,"Nevelj hordozható kitermelő férgeket, amelyek az vasérc-csomókhoz kapcsolódva folyamatosan nyerik ki a vasat."
+unlock.mapsize.huge,A feloldáshoz nyerj meg egy menetet nagy pályán.
+upgrades.liftcarrykeeper2.desc,A felvonó tovább fokozza sebességedet.
+loadout.mapsize.title,Térképméret
+loadout.difficulty.hard,Te akartad
+upgrades.rocketlauncherdamage1.title,Továbbfejlesztett rakéták
+versus.corruptionfastmonsters.title,Gyors szörnyek
+multiplayer.host.online.desc,A világ minden tájáról csatlakozhatnak játékosok.
+upgrades.keeper4speed3.desc,Nagymértékben növeli a sebességet.
+network.error.offline,"Megszakadt a hálózati kapcsolat. Kérlek, ellenőrizd a hálózati kapcsolatodat."
+level.tutorial.ninja.carry.desc1_1,"A nyersanyagokat automatikusan felveszed, ha átmész rajtuk."
+upgrades.resourcepackerconstant.desc,"A közel azonnali újratöltés majdnem korlátlan használatot tesz lehetővé, ráadásul növeli a csomag méretét és a hatékonyságot."
+loadout.versusmod.versusmodifiersecondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+assignment.logistics.desc,"A Céh bőséges vízkészletet talált ezen a bolygón, és rád bízza a logisztikát."
+properties.shockwave.damage,Sebzés {}
+pause.gamepadcontrols.back,Vissza

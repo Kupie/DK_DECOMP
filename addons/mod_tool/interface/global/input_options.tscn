@@ -1,0 +1,42 @@
+[gd_scene load_steps=4 format=4 uid="uid://dyunxqcmy4esi"]
+
+[ext_resource type="Script" path="res://addons/mod_tool/interface/global/input_options.gd" id="1"]
+
+[sub_resource type="Image" id="Image_gppvy"]
+data = {
+"data": PackedByteArray("////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A/11d//9dXf//XV3//11d//9dXf//XV3//11d/////wD/Xl5/////AP///wD///8A////AP///wD///8A////AP9dXf//XV3//11d//9dXf//XV3//11d//9dXf////8A/11d//9eXn////8A////AP///wD///8A////AP///wD/XV3//11d//9dXf//XV3//11d//9dXf//XV3/////AP9dXf//XV3//15ef////wD///8A////AP///wD///8A/11d//9dXf//XV3//11d//9dXf//XV3//11d/////wD/XV3//11d//9dXf//Xl5/////AP///wD///8A////AP9dXf//XV3//11d//9dXf//XV3//11d//9dXf////8A////AP///wD///8A////AP///wD///8A////AP///wD/XV3//11d//9dXf//XV3//11d//9dXf//XV3//11d//9dXf//XV3//11d//9dXf////8A////AP///wD///8A/11d//9dXf//XV3//11d//9dXf//XV3//11d//9dXf//XV3//11d//9dXf//XV3/////AP///wD///8A////AP9dXef/Xl42/15eOf9dXen/XV3//11d//9dXef/Xl42/15eOf9dXen/XV3//11d/////wD///8A////AP///wD/YWEq////AP///wD/YWEq/11d6f9dXej/XV0p////AP///wD/YWEq/11d6f9dXej///8A////AP///wD///8A////AP9gYC3/XV0s////AP9hYSr/YWEq////AP9gYC3/XV0s////AP9hYSr/YWEq////AP///wD///8A////AP9gYC3/XV3r/15e6v9fXyv///8A////AP9gYC3/XV3r/15e6v9fXyv///8A////AP///wD///8A////AP///wD/XV3r/11d//9dXf//XV3p/19fO/9gYD3/XV3r/11d//9dXf//XV3p/19fO/9gYD3///8A////AP///wD///8A/11d//9dXf//XV3//11d//9dXf//XV3//11d//9dXf//XV3//11d//9dXf//XV3/////AP///wD///8A////AP9dXf//XV3//11d//9dXf//XV3//11d//9dXf//XV3//11d//9dXf//XV3//11d/////wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AA=="),
+"format": "RGBA8",
+"height": 16,
+"mipmaps": false,
+"width": 16
+}
+
+[sub_resource type="ImageTexture" id="ImageTexture_xi7aw"]
+image = SubResource("Image_gppvy")
+
+[node name="InputOptions" type="HBoxContainer"]
+anchor_right = 1.0
+offset_bottom = 32.0
+script = ExtResource("1")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 2
+size_flags_horizontal = 3
+text = " (optional)"
+clip_text = true
+
+[node name="ErrorIcon" type="TextureRect" parent="."]
+unique_name_in_owner = true
+self_modulate = Color(1, 1, 1, 0)
+custom_minimum_size = Vector2(32, 32)
+layout_mode = 2
+texture = SubResource("ImageTexture_xi7aw")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="Input" type="OptionButton" parent="."]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[connection signal="item_selected" from="Input" to="." method="_on_Input_item_selected"]

@@ -1,0 +1,2209 @@
+﻿key,sv_SE
+upgrades.teslapersistance1.title,Ständiga klot 1
+upgrades.keeper4ramping1.title,Momentum
+upgrades.stationextensionupgrades.desc,Buy upgrades remotely in the mobile station.
+upgrades.sword.title,Svärd
+upgrades.autocannonimproved.desc,Förbättra alla egenskaper hos kanonen.
+upgrades.laserstrength1.title,Kraft 1
+properties.monstermodifiers.timebetweenwavesmodifier,Cykellängd {.percent}
+level.gameover.unlock.modifiers,Ny spelmodifiering upplåst!
+keybindings.reset.explanation.ps5,Din tangentbordslayout har återställts på grund av en ny uppdatering som gjorde betydande ändringar i kontrollschemat. Ursäktar för besväret!
+reward.rewardrerolloffers2.desc,Spend water to reroll the gadget or supplement choices multiple times.
+upgrades.proberecharge.desc,The probe will slowly recharge on its own over time.
+versus.corruptionmonsterdamage.title,Lethal Monsters
+loadout.start.area.press,Tryck|för att starta ditt spel!
+upgrades.shieldbattleblastdamage.title,Dödlig stöt
+properties.monstermodifiers.move_speed,Monsterhastighet {.percent}
+upgrades.mushroomfarmspeed1.title,Svamphastighet 1
+upgrades.chainsawdamage1.title,Sågstorlek 1
+properties.orchard.battlerootexplosion,Explosionsskada {}
+level.tutorial.assessor.bundleguide.desc2.switch,Press|without pressing a direction to place a stationary bundle.
+upgrades.swordtargetlock.desc,När svärdet hugger låser det sig på det första monster det stöter på.
+reward.rewardautomatedweapons.desc,Automate your secondary weapons.
+options.input.gamepad,Handkontroll
+playerlist.profile,Se profil
+upgrades.stunlaserstun1.title,Chockstyrka 1
+properties.condenser.overchargedelay,Produktionsfördröjning (cykler) {}
+exhibition.level.description,Återgår till huvudmenyn om…
+keybindings.reset.explanation.switch,Din tangentbordslayout har återställts på grund av en ny uppdatering som gjorde betydande ändringar i kontrollschemat. Ursäktar för besväret!
+upgrades.shockwave.title,Chockvågshammare
+properties.keeper3.shurikencooldown,Shuriken Cooldown {}s
+title.navbar.leaderboard,Prestige
+modding.prestigewhitelist,"Om du har en mod som bör vitlistas för prestigeläge, berätta för oss på discord så undersöker vi den. Vi kommer att vitlista moddar som inte ändrar balansen, men till exempel ger bättre tillgänglighet eller endast är kosmetiska."
+upgrades.extractordoublebuild.desc,Förbättra maskproduktionen.
+upgrades.chainsawdamage3.title,Sågstorlek 3
+modding.modio.error,Error mod.io
+loadout.versusmod.versusmodifiermirroredmap.desc,"The maps below the domes are identical, mirrored copies of each other."
+actionhint.blast,Explosion
+multiplayer.host.crossplay,Aktivera plattformsöverskridande spel
+properties.converter.ironpercobalt,{} järn per kobolt
+upgrades.shieldovercharge.desc,Använd vatten för att manuellt extraladda skölden så att den absorberar mer skada under nästa våg.
+properties.droneyard.overchargebattledronestrength,Starkare stridsdrönare {.percent}
+options.game.showkeeperaimindicator,Visa väktarens sikte
+upgrades.autocannonautonomy.title,Autonomi
+properties.keeper4.holesquadduration,Mining Squad Duration {}s
+options.keybindings.rebinding.capture,Mata in
+options.game.screenshake.shakeintensity,Skakningsintensitet
+upgrades.keeper2pinballspherelifetime.desc,Increase the time kinetic spheres will remain flying.
+upgrades.swordreflection2.title,Reflektion 2
+upgrades.lift.title,Hiss
+assignment.circumstance,Villkor
+options.input,Inmatning
+properties.keeper2.spheresplit,Split Incoming Spheres
+properties.artillery.machinegundamage,Skottskada {}
+options.game.events.allowtelemetry,Aktivera flerspelarläge online
+properties.keeper1.maxspeed,Topphastighet {}
+level.tutorial.tesla.panel3content1,The tesla dome is versatile. You need to combine all its abilities to succeed with it.
+level.tutorial.sworddome.reflecting.desc,Använd svärdets sköldplatta för att stoppa projektiler eller till och med reflektera dem tillbaka.
+options.game.bundlesnapping,Lås siktet till väderstreck
+upgrades.spiresustain.title,Sustained Fire
+reward.rewardpermanentinventory.title,Permanent förråd
+properties.furnace.ironduration,Iron Burn Time (Cycles) {}
+level.gameover.assignment.badges.more,Slutför utmaningsläget för detta uppdrag för att få en ny medalj.
+upgrades.droneyardovercharge2.title,Förbättrad överbelastning
+multiplayer.error.joincodefailed,Ingen lobby hittades med den angivna koden
+properties.laser.movespeedwhilefiring,Hastighet vid eldgivning {.percent}
+upgrades.keeper3shurikencooldown1.title,Rapid Shuriken
+upgrades.orchardduration2.desc,Fruktens effekter varar ännu längre.
+options.input.controls,Styrning
+upgrades.droneyardovercharge3.desc,Få ännu fler drönare efter överladdning av drönarvarvet.
+upgrades.blastminingimpactdetonation.desc,The blast charge will explode on impact with a surface. The explosion will be offset into the direction of the impact.
+upgrades.drillbotstrength3.title,Styrka 3
+level.gameover.clientdisconnect,Disconnect from Host
+upgrades.swordstabexplode.desc,Svärdet utrustas med en bomb som sprängs vid den första fiende svärdet hugger.
+properties.keeper4.minpunchdelay,Fastest Punch {}s
+options.audio.music,Musik
+upgrades.keeper3carrylimit3.title,Bärförmåga 3
+upgrades.keeper4swiftpunch.desc,Mining starts at a higher initial speed.
+assignment.showdown.desc,Monstren på den här planeten förbereder sig för en enda massiv attack.
+properties.suitblaster.chargespeedpercharge,Additional Charge Speed per Charge {.percent}
+loadout.versusmod.versusmodifierhardrock,Hard Rock
+properties.keeper4.catgoblinminingspeed,Catgoblin Digging Speed {.percent}
+keeperdlc.title,The Lost Keepers
+upgrades.drillbotduplicate.title,Syskon
+properties.mushroomfarm.drillbuffduration,Mining Buff Duration {}s
+upgrades.droneyardbattlegridlong1.desc,Släpp fler drönare som kommer att stanna kvar längre.
+level.gameover.prestige.uploading.inprocess,laddar upp poäng…
+upgrades.furnace.desc,Installera en ugn med en skorsten. Dess rök försenar nästa monsterattack.
+leaderboard.needsOnlineServices.ps5,Accept EULA in the options to view leaderboards.
+options.game.multiplayer,Flerspelarläge
+upgrades.shieldbattledestructionprevention.desc,"Få en lång periods osårbarhet när kupolen är på väg att förstöras.
+Efter det laddas inte skölden upp inför nästa strid. Sista chansen kan bara aktiveras igen efter 2 avklarade vågor.
+"
+properties.keeper2.bundlestopcenter,Gravitationsfält i mittkolumn
+upgrades.chainsawdamage2.title,Sågstorlek 2
+upgrades.keeper2rotationalmining1.title,Kompressionsgruvdrift 1
+upgrades.swordlargeblade1.title,Tung klinga 1
+loadout.difficulty.veryeasy,Normalt
+level.tutorial.assessor.spheres.desc2,Your sphere supply is limited and reloads automatically over time.
+level.tutorial.assessor.spheres.desc1,Hit| to shoot a kinetic sphere in the direction in which you are facing.
+upgrades.repellentdelay2.desc,Fördröjer nästa våg med monster ännu mer.
+upgrades.artillerydirecthit1.desc,Förbättra din granatkastare till att skjuta granater specialiserade på direkta träffar.
+reward.rewardpet12.title,Dog Pet
+upgrades.keeper2movement4.desc,Rör dig mycket snabbare när du samlar in och bär resurser.
+properties.sword.stabspeed,Hugghastighet {.percent} 
+upgrades.artillerysplash3.title,Instabila sprängämnen 2
+properties.drillbot.amount,{} borrträffar
+options.game.autopickupkunaicarrier,Automatically pick up Kunai Carrier
+upgrades.stunlaserautonomy1.desc,Stun laser activates even when you are not inside the control station.
+properties.shockwave.stunstrength,Chockstyrka {}
+level.gameover.continue,Fortsätt
+multiplayer.host.joincodeunavailable,Otillgänglig
+upgrades.shieldbattlelongerafterdepletion.desc,Stöten varar längre om den aktiveras när fienden brutit igenom skölden.
+level.tutorial.assessor.mining.desc,To remove a single rock keep pushing against it.
+upgrades.teleporterteleportresourcesback.desc,Portalen kan nu teleportera material men kan inte längre användas att ta sig tillbaka. Du kan dock fortfarande använda den för att ta dig från Domen till Portalen.
+keybindings.reset.doreset,Återställ min tangentbordslayout
+upgrades.jetpackstrength1.title,Bärstyrka 1
+level.tutorial.beastmaster.squad_1,Hold| near a hole to call a mining squad.
+loadout.prestige.pro.explanation,"Reduce some randomness and define a fixed order for gadgets, supplements and caves."
+level.tutorial.beastmaster.squad_3,Only one squad can be active at a time.
+upgrades.swordelectrified.desc,Det går ström genom klingan så den gör skada vid beröring.
+level.tutorial.beastmaster.squad_2,They will randomly mine rock around the hole.
+upgrades.drill1.title,Borrstyrka 1
+loadout.start.area.move,Flytta alla väktare hit för att börja!
+level.station.battle.navbar.exit,Stäng
+upgrades.rocketlauncherrestock.title,Restock Missiles
+upgrades.chainsawdamage1.desc,Increase how much damage the buzz saw does to monsters.
+level.station.battle.navbar.artilleryshoot,Granatkastare
+upgrades.repellentdelay3.title,Fördröjning 3
+upgrades.suitblasterspeed1.title,Laddhastighet 1
+level.gameover.stats.additional,Detaljerad statistik
+options.audio.music.ost.mode.adaptive,Adaptiv (rekommenderas)
+upgrades.furnacestrongwaterfiring.title,Förbättrat vattenbränsle
+properties.dome.meleethorndamage,Returnerad skada {}
+upgrades.repellentbattlelongerhealthreduction.desc,Strengthen the withering of all visible monsters.
+level.tutorial.tesla.panel3header,Många förmågor
+versus.corruptionstunresistance.desc,The monsters will be largely resistant to being stunned or slowed.
+level.tutorial.assessor.spheres,Kinetiska sfärer
+upgrades.chainsawdouble.title,Double Buzz Saw
+upgrades.keeper4squad1.desc,Summon a specialized squad of miner Catgoblins to excavate nearby rock. They have a knack for digging around resources.
+versus.message.corruption,The other team just sent a monster corruption your way.
+options.keybindings.action.keeper.gadget1,Pryl 1
+options.keybindings.action.keeper.gadget2,Pryl 2
+upgrades.shieldbattlereflectspeed.title,Accelererad reflektion
+properties.monsters.additionalstartweight,Additional Wave Weight {}
+level.gameover.stats.damagedealt,Utdelad skada
+properties.keeper2.reflectspeed,Sphere Speedup {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,Ytterligare varaktighet för förmågan {} sek
+properties.converter.ironcobalttime,Iron to Cobalt Conversion Time (Cycles) {}
+upgrades.droneyardbattlegrid.desc,Deploy a formation of battle drones to defend against nearby monsters.
+upgrades.suitblasterradius1.desc,Öka sprängradien.
+upgrades.droneyardbattlegridquick1.title,Snabba drönare
+options.input.controls.keybindings.button,Ändra tangentbordslayout
+multiplayer.host.ping,Server Ping: %dms
+title.navbar.singleplayer,Enspelarläge
+options.video.renderhalfres.enable,Rendera till halv upplösning
+level.gameover.stats.destroyedblocks,Förstörda Block
+upgrades.converterefficientwaterlong.desc,Change the water conversion into a lengthy process with great yields.
+pause.restartrun,Restart Run
+options.video.stretchmode.scaled,Skalat
+level.tutorial.beastmaster.mine.desc1,Continuously push against rocks to mine them.
+level.tutorial.beastmaster.mine.desc2,Your mining speed increases with each hit.
+upgrades.domesupplementscraprepair2.desc,Återställ kupolens strukturella integritet med skrotreparationer.
+upgrades.keeper2bundle3.desc,Bundles shot toward the center of the mine will stop directly under the dome instead of continuing to fly.
+leaderboard.fellowkeepers,Gillesranking
+upgrades.autocannon.desc,Installera en kraftfull automatkanon på din kupol som gör stor skada på monster.
+properties.orchard.battlerootcatchduration,Fällans varaktighet {}s
+upgrades.laseraimline.desc,"Lägger till en siktlinje till laser vapnet, som tydligt visar vart det siktar."
+upgrades.teslapersistance2.title,Ständiga klot 2
+upgrades.orchardovercharge2.desc,Öka effekten av att överladda stridsförmågor.
+actionhint.teleport,Teleportera
+loadout.difficulty.medium.description,Kupolens svårighetsgrad.
+upgrades.swordlargeblade2.title,Tung klinga 2
+loadout.prestige.endless,Oändlig
+upgrades.teslanurture.title,Göd elektriska klot
+upgrades.shieldbattleelectroblast.desc,Aktivera en aktiv stridsförmåga som skapar ett livsfarligt fält runt kupolen en kort stund.
+options.game.blocklist.desc,"List of users you have blocked.
+You won't be able to play with any blocked user in future online games.
+If you change your mind about a blocked user, unblock it below.
+You can block up to %s users."
+actionhint.cancel,Avbryt
+upgrades.shockwavestun2.title,Stötvågschock 2
+upgrades.liftcapacity1.desc,Hisskloten kan transportera mer resurser.
+upgrades.domewavemeter.title,Fiendeindikator
+level.gameover.assignment.win.title,UPPDRAGET FULLBORDADES
+gadget.slot.cellar,Källare
+options.game.ropecamerafollow,Camera Look-Ahead strength when using the Rope
+upgrades.proberecharge.title,Autouppladdning
+level.tutorial.repair.usecobalt,Du kan använda kobolt för att reparera kupolen. Det är en uppgradering i kupolteknikträdet.
+level.supplementchoice.title,VÄLJ ETT TILLÄGG!
+options.keybindings.action.general.right,Höger
+gadget.slot.keepersuit,Väktardräkt
+assignment.cobaltcontribution.desc,Gilölet är i akut behov av kobolt och begär att du snabbt levererar en stor mängd kobolt.
+upgrades.prestigefinish.desc,Lämna planeten och åk hem.
+loadout.mapsize.huge.description,En enorm karta för de allra längsta spelomgångarna.
+options.game.events,Händelser
+loadout.versusmod.versusmodifierrichirondeposits.desc,Iron deposits are small but very rich.
+loadout.mode.shortcycles.desc,You have less time between waves.
+multiplayer.error.lobby.host,Kunde inte starta lobbyn.
+level.tutorial.sworddome.reflecting,Reflektera
+level.tutorial.artillery.panel3header,Explosions & Direct Hits
+assignment.rareiron.title,Järnbrist
+level.tutorial.assessor.carry.desc1_1,När de blir låsta på dig följer de dig även om du släpper samlingsnyckeln.
+level.station.battle.navbar.slice,Skiva
+upgrades.furnacewaterfiring.title,Vattenbränsle
+upgrades.drill.desc,"En centralborr för att gå djupt ned i gruvan, med en valfri sidoborr."
+level.gameover.stats.additionalgadget,Extrapryl
+level.tutorial.tesla.panel2content1,Hold|to charge a shot.
+level.tutorial.tesla.panel2content2,"To fire a shot, only release after fully charging. Releasing before will do nothing."
+upgrades.teslapersistance1.desc,De elektriska kloten är större och varar längre.
+upgrades.blastminingtriple.desc,Produce multiple blast charges at once instead of a single one.
+properties.droneyard.battledronecount,Stridsdrönare {}
+options.ok,OK
+loadout.versusmod.versusmodifiermanycaverns,Cavernous Map
+upgrades.lasermove1.desc,Lasern rör sig snabbare.
+upgrades.domewavewarner.desc,En adaptiv vågvarnare ljuder när en attack närmar sig. Varningens tillförlitlighet förbättras över tid.
+upgrades.dome4.title,Teslakupol
+upgrades.keeper4squad1.title,Tunnel Squad
+upgrades.keeper4autospawnminers.desc,"Whenever a new tunnel entrance is dug, a miner squad will emerge automatically."
+assignment.unpredictable.title,Broken Comms
+upgrades.blastminingblast3.desc,Upgrade the blast charges to extreme strength.
+upgrades.domewavepathtodome.title,Nödutgång
+level.tutorial.probe.popup_1.switch,Press | to emit a probe pulse.
+upgrades.teslapower1.desc,Förbättra kraften i teslas skott.
+loadout.versus.modifiers.title,Modifiers
+properties.furnace.irondelay,Järnfördröjning {}s
+actionhint.pickup,Plocka upp
+demo.end.subtitle,"Fullversionen av spelet erbjuder massor av innehåll. Om du har roligt, överväg gärna att skaffa hela versionen. Här är lite av vad den innehåller:"
+loadout.versusmod.versusmodifierironinflation.desc,"All upgrades need twice as much iron, but iron deposits are richer."
+upgrades.artilleryprojectileerasure.title,Projektilförintelse
+options.video.brightness.reset,Nollställ
+upgrades.domesandrepair.desc,Reparera din kupol med kobolt.
+upgrades.swordlongblade2.title,Lång klinga 2
+level.gameover.restart,Starta om spelomgången
+options.input.gamepad.thumbstick.ps5,Stick
+level.tutorial.caves,Grottor
+options.input.gamepad.gamepadstickdeadzone,Dödzon för styrspakar
+upgrades.keeper3shuriken2.title,Snabb Shuriken
+upgrades.condenserspeed1.desc,Reducerar tiden det tar att producera vatten.
+properties.monsters.fixedweight,Fast vågstyrka {}
+properties.versus.ironcontribution,Iron Contribution {}
+multiplayer.join.title,Delta i en flerspelar session
+upgrades.prestigewater.title,Skicka vatten
+upgrades.keeper3kunaibounce2.title,Deep Resonance
+upgrades.swordtargetlock.title,Mållåsning
+upgrades.artillerymachinegun4.title,Snabbt Eldvapen
+upgrades.mushroomfarmdrill2.title,Svamputvinning 2
+upgrades.stunlaser.desc,Installera en laser som automatiskt lamslår små monster.
+upgrades.shieldbattleinvulnerable.title,Osårbarhet
+loadout.hint.dome,Välj en kupol!
+loadout.versusmod.versusmodifierrichirondeposits,Dense Iron Deposits
+upgrades.chainsawdouble.desc,Install another buzz saw to effectively defend both sides of the dome.
+properties.lift.capacity,Hissklot bär {} resurser
+upgrades.keeper2bundle1.title,Centrera markör
+upgrades.autocannonrateoffire1.title,Kulspruta 1
+loadout.versusmod.versusmodifierwindingmap,Winding Map
+upgrades.prospectionmetersand2.title,Koboltkompass
+properties.lift.orbs,{} Hissklot
+upgrades.keeper3doublejump.desc,Jump again while in mid-air.
+upgrades.droneyardparasites3.title,Parasitdrönare 3
+upgrades.keeper4doublesquad.title,Second Squad
+upgrades.relichunt.title,Relikjakt
+upgrades.orchardbattlerooting.desc,Aktivera i strid för att få rötter som fångar alla mellanstora monster som kliver på dem att växa utanför kupolen.
+upgrades.prospectionmetergadget.title,High Performance Meter
+properties.sword.reflection,Större sköldplatta
+upgrades.extractorresources1.desc,"Breed special worms that work carefully, extracting more iron."
+properties.dome.autohealdamagethreshold,Activate After Taking More Than {} HP Damage
+upgrades.keeper2rotationalmining2.desc,Förbättra hur snabbt berget bryts.
+properties.tesla.persistencestunstrength,Electro Orb Stun Strength {}
+level.gameover.stats.timeplayed,Speltid
+properties.sword.stabdamage,Huggskada {} 
+properties.monsters.additionalwaveweight,Ytterligare vågstyrka {.percent}
+options.game.playerindicatorsinmultiplayer,Show Player Indicators in Multiplayer
+properties.mushroomfarm.speedbuff,Move Speed Buff {}
+level.tutorial.drillbot.carry,Ta Borris från tanken och ställ den i gruvan där du vill att den ska gräva.
+modding.modio.decline,Decline
+assignment.inversegravity.desc,Planeten har omvänd gravitation.
+level.tutorial.drop.popup_2,Tryck på | för att släppa en. Håll in för att släppa flera.
+upgrades.droneyardbattlegridquick1.desc,Släpp fler drönare i mycket snabbare följd.
+upgrades.mushroomfarmautopickup.desc,Automatically consume mushrooms when moving close to them.
+level.tutorial.drop.popup_1,Du rör dig långsammare när du bär resurser.
+properties.sword.retractspeed,Infällningshastighet {} 
+reward.rewardkeeper1skin5.title,Engineer Skin
+upgrades.keeper4.desc,"Arcane keeper traversing the mines with agile tentacles, commanding catgoblin minions."
+assignment.condition.deliverwater,Deliver %d water
+loadout.difficulty.hard.description,Den som gapar efter mycket…
+upgrades.keeper4speed2.title,Rörelsehastighet 2
+loadout.versusmod.versusmodifierhardrock.desc,The map has more hard rock.
+properties.furnace.maxironstack,Maximal järnstapel {}
+upgrades.rocketlauncherdamage2.desc,Förbättra missilerna ännu mer.
+upgrades.artilleryrotation1.desc,Låter dig rotera granatkastaren ytterligare.
+level.furnace.popup.fuel.add,Stapla en|för att eldas.
+reward.rewardpostrunshowmonstercount.desc,Show additional post-run battle statistics like how much damage you received per monster type.
+upgrades.extractordoublebuild.title,Dubbla maskar
+multiplayer.error.otherteamquit,Spelet avslutades eftersom alla spelare har lämnat det andra laget. Ditt spel har sparats och du kan fortsätta genom att välja flerspelarläge i fortsätt-menyn.
+upgrades.blastminingproductiontime1.title,Produktionstid
+upgrades.chainsawdamage2.desc,Increase how much damage the buzz saw does to monsters.
+multiplayer.continue.deviceselection.originalplayer,Ursprungsspelare
+upgrades.shieldbattleinvulnerable.desc,Aktivera en aktiv stridsförmåga som gör kupolen osårbar en kort stund.
+level.gameover.unlock.drillbert,Drillbertmodifierare upplåst!
+multiplayer.host.splitscreen.desc.switch,Använd handkontroller i utrustningsmenyn för att lägga till fler väktare. Upp till fyra väktare kan dela samma skärm. Kan kombineras med flerspelarläge online.
+loadout.mapsize.large,Stor
+level.furnace.popup.explanation,Lägga till resurser i bränslehögen. Resurserna bränns en åt gången.
+upgrades.liftcapacity1.title,Kapacitet
+upgrades.shockwavebig.title,Dödlig våg
+upgrades.extractorresources2.desc,Breed worms that will find every last iron particle within the rock.
+level.tutorial.ninja.shuriken.desc1,Double tap| to throw a shuriken.
+level.tutorial.ninja.shuriken.desc2,Shuriken replenish over time.
+upgrades.droneyarddronespeed1.title,Drönarhastighet
+upgrades.stunlaserarea.title,Chockområde
+assignment.weakmining.title,Problem med gruvdrift
+options.game.events.allowtelemetry.ps5,Acceptera EULA
+upgrades.keeper3kunaibounce2.desc,Increase the range of tiles revealed with each bounce.
+assignment.projectilehell.title,Projektilhelvete
+options.input.controls.mouse.gamepad.ps5,Växla till trådlös handkontroll och tillbaka upptäcks automatiskt
+reward.rewardpermanenthealthmeter.title,Permanent Health Meter
+properties.game.fixedtimelimit,Tidsgräns: {} minuter
+upgrades.drillbot.title,Borris
+options.video.performance,Prestanda
+properties.furnace.waterduration,Water Burn Time (Cycles) {}
+level.gameover.win.team.profile,Profil
+upgrades.droneyardbattlegrid.title,Stridsrutnät
+loadout.prestige.countdown.description,Prestigemultiplikatorn startar högt och minskar varje cykel.
+level.tutorial.ninja.carry.desc1,Hit| to throw a kunai carrying resources in the direction you are aiming with your %s.
+level.gameover.miner.title,GRUVOMGÅNGEN FÄRDIG
+loadout.mapsize.medium.description,En normalstor karta för en ordentlig spelomgång.
+upgrades.assignmentsemergencycontribution2.desc,Skicka detta paket innan den 4:e vågen slutar annars förloras uppdraget.
+level.gameover.unlocknewelementbutton,Lås upp ett alternativ
+upgrades.repellentbattlestrongerslowdown2.desc,Dimman saktar ner monstren ännu mer och varar längre.
+upgrades.orchardovercharge3.desc,Öka effekten av att överladda stridsförmågor.
+modding.steamworkshop,Öppna Steam Workshop
+upgrades.drillbotstrength2.title,Styrka 2
+reward.rewardkeeper1skin5.desc,Unlock a new keeper skin for the Engineer.
+options.keybindings.rebinding.error.gamepad.ps5,Kan inte ställa in detta som en inmatning för trådlös handkontroll.
+properties.keeper2.actioncooldown,Handlingsväntetid {}s
+pause.godot,Tillverkat med Godot
+loadout.mode.nomonsters,Inga monster
+properties.teleporter.teleportduration,Teleporteringstid {} sek
+level.paused,Pausat
+upgrades.teslaautoaim.desc,The aiming reticle gains a small radius in which it will automatically aim at the closest monster.
+upgrades.domearmorpulse.desc,"The dome armor retains a portion of the kinetic energy from attacks received, eventually releasing it in strong pulses that stun nearby enemies."
+upgrades.teslapower2.title,Skottstyrka 2
+level.station.navbar.exit,Stäng
+upgrades.stunlaserduration2.desc,The stun laser cools down even faster and has an extended firing duration.
+level.station.battle.navbar.move,Styr
+upgrades.repellentbattleslowdown.title,Bedöva
+properties.drillbot.buffstrength,Energifylld påskyndare {.percent}
+options.input.controls.keybindings.button.ps5,Ändra tangentbordslayout
+upgrades.keeper4speed1.title,Rörelsehastighet 1
+upgrades.stunlaserduration2.title,Eldgivningsuthållighet 2
+modding.profile.delete,Radera profil
+upgrades.dome1health1.desc,Ökar din kupols maxhälsa permanent.
+assignment.logistics.title,Logistical Nightmare
+level.gameover.prestige.score.finalscore,Din slutliga poäng är...
+upgrades.prestige.desc,Få poäng genom att skicka hem så mycket resurser du kan innan din kupol faller eller du tryggt lämnar planeten!
+properties.chainsaw.damage,Skada per sekund {}
+upgrades.autocannonshotgun2.desc,Öka hagelgevärets kraft.
+reward.rewardthreechoicesgadget.title,Tre prylerbjudanden
+options.input.gamepad.twinstick,Kontroller med dubbla styrspakar
+upgrades.domewavewarner.title,Adaptiv vågvarnare
+upgrades.mushroomfarmdrill1.desc,Improve the mining buff obtained from consuming mushrooms.
+properties.suitblaster.chargespeed,Laddningar per cykel {}
+loadout.player.color,Keeper Color
+level.assignment.badges.unlock,Tjäna %d fler medaljer att låsa upp.
+assignment.projectilehell.desc,"Planeten är angripen av flygande, projektilspottande monster."
+properties.repellent.overchargebattleabilityduration,Ytterligare varaktighet för förmågan {.percent}
+properties.orchard.battleshieldhp,Styrka {}hp
+properties.keeper2.reflectsphere,Reflektionsfält
+upgrades.probecharges.desc,Lägg till ytterligare en laddning till sonden.
+upgrades.resourcepackerconstant.title,Masterful Packing
+upgrades.droneyardbattlegridlong2.desc,Släpp mycket fler drönare som kommer att stanna kvar väldigt länge.
+upgrades.swordreflection2.desc,Ännu större sköldplatta.
+upgrades.orchardovercharge3.title,Intensiv överbelastning
+upgrades.assignmentsemergencycontribution4.desc,Send this package before the 11th wave ends or fail this assignment.
+upgrades.droneyardovercharge3.title,Omfattande överbelastning
+level.gameover.assignment.lose.title,UPPDRAGET MISSLYCKADES
+actionhint.pack,Packa
+upgrades.stationextensionminimap.title,Kartografi
+properties.tesla.orbdamage,Electro Orb Damage {}
+properties.furnace.maxwaterstack,Maximum Water Stack {}
+loadout.versusmod.versusmodifiermirroredmap,Mirrored Map
+upgrades.artilleryrotation1.title,Bred rotation
+upgrades.drillsidespeed2.desc,Speed up the side drillers even more.
+level.tutorial.resourcepacker.popup_1,"When close to resources, hit | to pack them into a compact bundle that is easier to transport."
+properties.orchard.overchargeabilityuses,Additional Ability Uses {}
+options.input.controls.gamepadusage.ps5,Användning av trådlös handkontroll
+options.keybindings.restoredefault,Återställ standard
+options.input.gamepad.switch,Handkontroll
+upgrades.stationextensionresolution.title,Högupplöst skärm
+upgrades.shieldbattlelongerafterdepletion.title,Intrångsbonus
+telemetry.manage.ps5,Neka EULA
+level.gameover.stats.damagereceived,Skada mottagen
+modding.modio.moddownloadfailed,Error downloading mod.io mod!
+loadout.versusmod.versusmodifierironinflation,Iron Inflation
+reward.rewardpermanentwavecount.title,Permanent Cycle Counter
+upgrades.jetpackstrength1.desc,Förbättrar jetpacken så du kan bära mer resurser.
+level.gameover.unlock.gadget,Ny pryl
+upgrades.stationextension.desc,"Get a mobile station, running on a rail directly below the dome. Enter the station to remotely control your dome from within the mine."
+loadout.versusmod.versusmodifierpoorirondeposits.desc,Iron deposits are very large but have lower yield.
+upgrades.repellentbattlestrongerslowdown2.title,Stark Bedövning
+upgrades.converterirontocobalt.desc,Låter dig omvandla kobolt till järn och vice versa.
+loadout.dome,Kupol
+upgrades.orchardduration3.title,Frukt 3
+level.gameover.stats.resourcesmined,Resurser Brutna
+options.input.gamepad.thumbstick,Thumbstick
+upgrades.keeper1powerdrill.desc,"Gain a greatly improved drill that can easily drill through the hardest rock, even destroying previously indestructible bedrock."
+upgrades.domesecondweapon.title,Weaponize Second Station
+actionhint.fire,Skjut
+versus.corruptionfastprojectiles.title,Fast Projectiles
+level.gameover.unlock.dome,Ny kupol
+loadout.versus.modifiers.limit,%d of %d modifiers chosen.
+upgrades.swordstabfast2.title,Snabbt hugg 2
+properties.blastmining.growthtime,Produktionstid (cykler) {}
+options.keybindings.rebinding.inputprocessor.ps5,Tryck på en ny knapp för denna handling…
+level.gameover.stats.difficulty,Svårighetsgrad
+assignment.inversegravity.title,Upp och ned
+assignment.acidrain.desc,The planet's acidic rain prevents any life and even cuts through the dome's armor.
+upgrades.keeper4doublesquad.desc,"Gain another squad, ready to work any time you call them."
+upgrades.keeper4powerfulfirstpunch.desc,The first strike against a tile will use exceptional force.
+multiplayer.host.start,Värdsession
+upgrades.mushroomfarmspeed2.title,Svamphastighet 2
+demo.end.more1,Fler kupoler!
+demo.end.more2,Väktaren Assessor!
+upgrades.swordreflection1.desc,Gör sköldplattan större och får den att reflektera energiprojektiler.
+demo.end.more3,Många fler prylar!
+upgrades.chainsawspeed1.title,Såghastighet
+assignment.treefarm.desc,"The planet's resources are few, but many resource tree seeds can be found."
+demo.end.more4,Kraftfulla tillskott!
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"Ställ in värdet så att mätaren inte rör sig om du bara snuddar vid spakarna utan att förflytta dem.
+
+Om du flyttar spaken ska mätaren röra sig."
+actionhint.probe,Sond
+level.gameover.keepgadget.keeping,Pryl att behålla: {gadget}
+upgrades.keeper3aerialmastery.desc,"Gain increased control while falling. Additionally, each mid-air jump will launch you higher than the last."
+upgrades.drillbot.desc,Adoptera en liten krabat som älskar att gräva. Bär den till gruvan och släpp den där du vill att den ska jobba. Du får titta till den då och då för att väcka den om den somnar på jobbet.
+upgrades.laserstrength4.title,Kraft 4
+upgrades.artillerydoublemachinegun.title,Dubbelpipig
+upgrades.laserbend.desc,Gör lasern svängbar så att den automatiskt korrigerar siktet om den kommer nära.
+upgrades.teslaquickshot2.title,Powered Quick Shot
+properties.droneyard.battledronespawntime,Drönarproduktionstid {}s
+upgrades.prospectionmetersand2.desc,Visar åt vilket håll närmaste koboltåder ligger.
+upgrades.keeper2pinballreflect2.title,Förbättrad reflektion
+loadout.secondstage.start,Påbörja spelomgång
+level.tutorial.extractor.popup_1,Ta järnmaskarna från stationen och släpp dem nära ett järnkluster. De kommer att fästa sig vid järnet och effektivt bryta det under en tid.
+upgrades.spirestuntrap2.desc,Improve the efficiency of the energy trap to catch more projectiles.
+loadout.versus.condition.deathmatch.desc,The team that survives the longest wins.
+loadout.versusmod.versusmodifiertoughstart.desc,The monster waves start out quite strong.
+level.tutorial.drillingrig.popup2,"När du är nära en sidoborr, håll | för att flytta den längs borraxeln."
+level.tutorial.drillbot.sleeping2.switch,"When close to Drillbert, press | to wake it."
+upgrades.teleporterteleportitems.title,Teleportera föremål
+level.tutorial.drillingrig.popup1,"Your drilling rig has a side driller, mining horizontally."
+level.tutorial.ninja.drop.desc1,Hit| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.stationextension.title,Underjordisk station
+upgrades.keeper2pinballreflect2.desc,Sfärerna laddas upp ännu mer när de deflekterar skott.
+properties.sword.stabrange,Räckvidd {} 
+pause.disconnect.popup.ps5,You can't drop the main wireless controller.
+options.game.systemcursor,Använd standardmuspekaren
+upgrades.artillerygrenadefastreload.desc,Minska omladdningstiden för din granatkastare avsevärt.
+upgrades.stationextensionrevealdistance1.title,Close Rock Scan
+loadout.mode.secondweapon,Second Weapon Unlocked
+options.video.reducedparticles,Minskade partikeleffekter
+properties.monsters.finalwavefixedstrength,Final Wave Strength {}
+versus.corruptionfastmonsters.desc,The monsters will permanently be faster.
+upgrades.spirestuntrap1.desc,Shooting down a projectile generates an energy trap that will catch more projectiles. The amount the trap can capture depends on the potency of the incoming projectile.
+versus.corruptionfastprojectiles.desc,The monster projectiles will fly much faster.
+options.input.gamepad.twinstick.switch,Twin-Stick Controls (Disabled for single Joy-Con)
+upgrades.autocannonrateoffire2.title,Kulspruta 2
+upgrades.chainsaw.title,Cirkelsåg
+options.input.vibration.strength,Vibrationsstyrka
+savegame.corrupted.title,Corrupted Save File
+properties.drillbot.drillstrength,Borrstyrka {}
+properties.prestige.multiplier,{} prestige per vågmultiplikator
+upgrades.artillerysplash4.desc,Ta förödelse över hela slagfältet genom att avfyra 4 mycket explosiva granater i snabb följd.
+upgrades.condenserdoublestorage.desc,Kondensatorn producerar och lagrar två vatten innan den stannar.
+upgrades.shieldbattleactivateondepletion.desc,Osårbarhet aktiveras automatiskt en extra gång när fienden bryter igenom skölden.
+upgrades.chainsawspeed1.desc,Let the buzz saw move faster between both sides.
+upgrades.teleporterteleportduration2.title,Teleporteringsvaraktighet 2
+properties.orchard.overchargeabilitystrength,Additional Ability Strength {.percent}
+modding.modio.loginfailed,Login to mod.io with Xbox account failed!
+upgrades.rocketlauncherrockets3.title,Spärreld 3
+leaderboard.needsOnlineServices,Leaderboards require online services to be enabled.
+options.game.blocklist,Blocked User List
+upgrades.keeper4squad2.desc,Increases the number of Catgoblins in the squad and their endurance.
+reward.rewardweaponsupplements.desc,Discover extremely strong supplement upgrades for your weapon.
+upgrades.domesupplementadditionalcellar.desc,"Lägg till en nivå till din källare, med ytterligare plats för två prylar."
+level.tutorial.assessor.bundle.desc1.switch,Press|while carrying resources to shoot a bundle.
+loadout.difficult.harder,svårare
+level.station.upgrademenu.close,Stäng
+upgrades.keeper3rocketcarrier.title,Rocket Carrier
+level.tutorial.assessor.spheres.desc1.aiming,Hit| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+level.gameover.unlock.gamemode,Nytt spelläge
+upgrades.rocketlauncherrockets1.title,Spärreld 1
+upgrades.autocannonspeed1.title,Uppsnabbning
+upgrades.spiresustain.desc,"Bring the recharge time down to nearly zero, enabling a very steady fire pace."
+upgrades.extractorresources1.title,Flitiga maskar
+multiplayer.host.splitscreen.desc.xbox,Använd handkontroller i utrustningsmenyn för att lägga till fler väktare. Upp till fyra väktare kan dela samma skärm. Kan kombineras med flerspelarläge online.
+level.assignment.badges,Medaljer
+upgrades.prestigefinish.title,Lämna planet
+properties.sword.slicebounceback,Svärdstuds på kanten
+properties.droneyard.transportdronecount,Transportdrönare {}
+upgrades.drilladditionalsides.title,Additional Side Driller
+upgrades.shieldbattleblastdamage.desc,Increase the damage and uses per battle of the electro blast.
+upgrades.extractordestruction.title,Lair Implosion
+properties.sword.electricdamage,Skada med elektriskt svärd {}
+properties.mushroomfarm.growthtime,Växttid (cykler) {}
+upgrades.keeper3carrylimit1.desc,Increase the number of resources you can haul on your Kunai carrier.
+options.accessibility.fontsize,Font Size
+upgrades.keeper4punch2.title,Frenzy 2
+upgrades.laser.desc,En precisionslaser som rör sig längs din kupol.
+loadout.hint.multiplayer.playermaximum,Must have 8 or fewer players to start a multiplayer run.
+upgrades.drillsides.title,Sidoborrmaskin
+upgrades.mushroomfarmautopickup.title,Quick Bite
+options.input.controls.mouseusage,Musanvändning
+properties.tesla.reticlemaxspeed,Siktets hastighet {}
+upgrades.swordstabshoot.desc,"Istället för att dras iväg med en kabel laddas svärdet upp och skjuts iväg från kupolen, som ett spjut."
+properties.condenser.autocollect,Automatisk insamling
+level.gameover.back,Tillbaka
+loadout.mapsize.small,Liten
+loadout.hint.gamemode,Välj ett spelläge!
+upgrades.swordlargeblade3.title,Tung klinga 3
+level.tutorial.ninja.controls,This keeper can only be played with controller or mouse and keyboard.
+telemetry.explanation.ps5,"Acceptera vår EULA för att komma åt flerspelarläge online.
+Om du inte gör det kan du fortfarande spela det lokala flerspelarläget på delad skärm.
+
+Du kan ändra denna inställning när som helst i inställningarna."
+multiplayer.techtree.keeperexclusiveupgrades,Dessa uppgraderingar gäller endast din väktare.
+assignment.heavyhitters.desc,Planeten svärmar med närstridsmonster.
+options.input.controls.mouse.domes,Använd musen för kupolen
+loadout.mode.toughstart, Tough Start
+upgrades.swordaimline.desc,Lägger till ett lasersikte för att rikta in svärdshugg.
+upgrades.assignmentssendiron.title,Leverera järn
+upgrades.domearmormelee1.title,Närstridsrustning 1
+assignment.showdown.title,Uppgörelse
+upgrades.keeper3shuriken1.desc,Gain a throwable Shuriken that explodes in a small radius. Automatically replenishes over time.
+upgrades.teslatiming1.title,Perfect Timing
+upgrades.stationextensionrevealdistance2.title,Stenscanning
+loadout.prestige.pro.gadgetorder,Prylordning
+upgrades.prospectionmeterwater1.title,Vattenmätare
+properties.teleporter.teleportresources,Teleportera resurser
+options.video.stretchmode.scaled.text,"Återger spelet i en bestämd upplösning och skalar det för din upplösning. Kan vara pixlat, särskilt teckensnitt, men det finns inga visuella linjefel."
+loadout.abort,Avbryt
+level.station.battle.navbar.stab,Hugg
+properties.keeper3.bouncesonarrange,Sonar Range (Tiles) {}
+assignment.cobaltcontribution.title,Koboltbidrag
+upgrades.keeper2pinballsplit.desc,"Delar inkommande kinetiska sfärer i två, skickar dom 90° mot deras ursprungliga banor."
+options.input.gamepad.xbox,Handkontroll
+upgrades.stunlaserduration1.desc,Chocklasern laddas upp snabbare och skjuter under längre tid.
+properties.spire.stuntrapduration,Varaktighet {}s
+loadout.mapsize.medium,Medelstor
+upgrades.keeper4swiftpunch.title,Swift Strikes
+upgrades.domewavecount.title,Cykelräknare
+level.gadgetchoice.slot,Plats: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,Take myzel spores from the mushroom trunk and drop them on a rock. They will occasionally grow into a buff mushroom.
+options.game.languages,Språk
+upgrades.autocannonshotgun2.title,Hagelgevär 2
+upgrades.drillbotturnaround.title,Avancerad jobbträning
+level.tutorial.overcharge.popup_2,Move close to it and press | to overcharge.
+level.tutorial.overcharge.popup_3,This will consume one | and can only be done if you have enough.
+level.tutorial.overcharge.popup_1,"You can now overcharge your primary gadget, strengthening it for the next battle."
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,Istället för att använda lyftklot flyttas alla resurser inne i hissen kontinuerligt uppåt av ett omvänt gravitationsfält. Resurser som spenderats på klot återbetalas delvis.
+level.station.navbar.battle,Strid
+options.keybindings.rebinding.error.mouse,Kan inte ställa in detta som en inmatning för mus.
+options.input.gamepad.autoswitch.ps5,Automatisk identifiering av föredragen trådlös handkontroll
+properties.lift.keeperupwardsspeed,Väktarens hisshastighet {}
+loadout.keeper,VÄKTARE
+level.gameover.unlock.keeper,Ny väktare
+options.keybindings.rebinding.inputprocessor,Tryck på en ny tangent för den här handlingen...
+options.keybindings.gamepad,Handkontroll
+upgrades.keeper4extraresource.title,Diligent Catgoblins
+upgrades.shieldoverchargestrength2.title,Extraladda sköldstyrka 2
+loadout.mode.domesupplements,Triple Supplements
+upgrades.converter.desc,Kan omvandla resurser för att hjälpa dig balansera resursförrådet.
+assignment.minorvision.title,Darkness
+upgrades.shieldstrength1.desc,Stärker kupolskölden så att den kan absorbera mer skada.
+properties.stationextension.tilerevealdistance,Reveal Distance {} Tiles
+loadout.mode.toughstart.desc,Start with stronger waves.
+upgrades.liftcarrykeeper1.desc,The lift boosts your speed when moving inside it.
+options.input.controls.mouse.aim,Använd musen för att sikta
+upgrades.spireprojectileslowdown.desc,The spire continuously slows down all enemy projectiles.
+assignment.chosen.title,Ditt gillesuppdrag
+upgrades.furnacestrongwaterfiring.desc,Boost the effectiveness of burning water in delaying monsters.
+properties.dome.healthfractionrepair,Reparera {.percent} av den totala hälsan
+level.tutorial.assessor.carry,Gravitationsinsamling
+upgrades.laserhitprojectiles.title,Lös upp projektiler
+upgrades.teslaorbstun.title,Djupeffekt
+reward.rewardgadgetsupplements.title,Gadget Supplements
+options.input.controls.keepersettings.individual,Individuella inställningar för Väktare
+upgrades.teslapower2.desc,Förbättra kraften i teslas skott.
+properties.acidrain.fixeddamageperminute,Damage per Minute {}
+demo.end.more,Och mycket mer:
+landing.proceed,Tryck på vad som helst för att fortsätta
+modding.modio.ugcterms.content2,"By continuing, your Xbox Live identifier will be used to seamlessly authenticate you with mod.io. To proceed, you must read and agree to the mod.io policies:"
+upgrades.keeper4catgoblinamount.title,Expanded Brood
+modding.modio.ugcterms.content3,[i]These conditions will open in your system's default web browser.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,Stagnation
+upgrades.spiresplit1.title,Projektildelning
+upgrades.suitblasterradius2.title,Explosionsradie 2
+properties.keeper4.punchstrength,Punch Strength {}
+modding.modio.ugcterms.content1,"To access, download, and manage user-generated content (UGC), this game uses the [b]mod.io[/b] service."
+upgrades.versus.title,Versus
+upgrades.swordstabexplode.title,Huggbomb
+modding.modlist.title,Aktiverade moddar
+options.game.kunaisnapping,Snap Kunai Aim to Cardinal Directions
+loadout.versusmod.versusmodifiersecondweapon,Second Weapon Unlocked
+upgrades.teleporterteleportduration1.desc,Det tar kortare tid för dig att teleportera dig
+options.input.controls.keybindings.button.switch,Ändra tangentbordslayout
+upgrades.domearmor.title,Kupolpansar
+options.input.gamepad.gamepadstickdeadzone.text,"Ställ in värdet så att mätaren inte rör sig om du bara snuddar vid spakarna utan att förflytta dem.
+Om du flyttar spaken ska mätaren röra sig."
+options.translation.community.desc,Dessa språk översätts av vår kära community. Du kan också delta om du vill!
+level.tutorial.beastmaster.mine,Mining
+upgrades.keeper4speed1.desc,Increases movement speed.
+properties.shield.overchargebattleabilityduration,Ytterligare varaktighet för förmågan {.percent}
+upgrades.shockwavedamage2.desc,Öka skadan som chockvågen tillfogar.
+network.error.offline.xbox,Your connection to Xbox network has been lost. Please check your internet connection and try again.
+properties.condenser.waterstorage,Lagrar {} vatten
+loadout.versusmod.versusmodifierstrongmonsters.desc,Monsters are harder to kill.
+title.navbar.modding,Moddning
+upgrades.dome3.desc,Militär kupol använd till att skapa förödelse med en kraftfull granatkastare. Även ett luftvärn ingår.
+upgrades.keeper4powerfulfirstpunch.title,First Strike
+properties.sword.brake,Svärdsmidighet {}
+level.tutorial.suitblaster.popup_1,"Hit | to fire the suit blaster, destroying rock in a radius around you."
+properties.stunlaser.firetime,Eldgivningstid {} sek
+level.tutorial.suitblaster.popup_2,Den laddas om automatiskt över tid.
+properties.droneyard.battleabilityuses,Användningar per strid {}
+upgrades.keeper4ramping1.desc,Build up mining speed through continuous mining. Momentum decays when you stop.
+level.gameover.unlockpicker.title,LÅS UPP ETT ALTERATIV
+options.input.gamepad.autoswitch,Automatisk identifiering av föredragen handkontroll
+upgrades.suitblaster.desc,Install a mining blaster into your suit which can explosively destroy rocks around you.
+upgrades.spiresplit1.desc,"Hit projectiles split into multiple small ones, dealing damage to enemies. The resulting amount of split projectiles depends on the potency of the incoming projectile."
+properties.versus.additivewave,Increased Wave Strength (other team) {}
+properties.keeper3.aircontrol,{.percent} Air Control
+multiplayer.error.keepertaken,Den valda väktaren är redan upptagen. Försök igen med en annan väktare.
+assignment.mode.challenge,Utmaning
+upgrades.keeper3shurikenstrength1.desc,"Increase Shuriken explosion power, destroying tiles in a bigger radius."
+pause.invite,Invite Friend
+options.accessibility.fontsize.medium,Medelstor
+upgrades.keeper2pinballdestroyadjacenttiles.desc,"Whenever a kinetic sphere destroys a rock tile, the tiles perpendicular to the impact also get destroyed."
+upgrades.furnaceironfiring.title,Järnbränsle
+upgrades.furnaceslowdown.desc,"Add a toxic component to the fumes, numbing the nervous systems of the monsters and slowing down their movement."
+upgrades.swordlargeblade2.desc,Installera en massiv klinga. Den är mindre men gör rejäl skada.
+upgrades.blastminingblast1.desc,Ökar sprängstyrkan.
+upgrades.stationextensionrevealdistance1.desc,Rock and resources close to the station are automatically revealed.
+leaderboard.season,Säsong {season}
+multiplayer.host.crossplay.enabled,Plattformsöverskridande spel aktiverat
+multiplayer.techtree.keepersharedupgrades,Dessa uppgraderingar delas för alla väktare som äger denna pryl.
+loadout.versusmod.versusmodifierlongcycles.desc,The time between monster waves is longer.
+upgrades.artillerydirecthit2.title,Monsterförgörare 2
+upgrades.stationextensionresolution.desc,Get a clearer image of the dome and its surroundings.
+options.keybindings.action.general.use,Använda
+loadout.relichunt.modifiers,Spelmodifierare
+assignment.heavyhitters.title,Tunga kämpar
+upgrades.furnacelastingwaterfiring.title,Hållbart vattenbränsle
+properties.shield.battleblastdamage,{} sprängskada per sekund
+multiplayer.error.kicked,Utkastad från flerspelarsession.
+multiplayer.join.discovering,Hitta sessioner
+properties.condenser.growthtime,Produktionstid (cykler) {}
+level.gameover.assignment.badges,Du fick en ny medalj att spendera till Väktargillets belöningar.
+upgrades.drill2.desc,Förstärker borren så du gräver snabbare.
+level.corruptionchoice.title,PICK A CORRUPTION!
+properties.artillery.grenadedamage,Granatskada {}
+loadout.proceed,Fortsätt
+options.game.spheresnapping,Snap Sphere Aim to Cardinal Directions
+options.input.gamepad.gamepadstickdeadzone.motiondetected,rörelse upptäckt:
+options.input.gamepad.icons.automatic,Automatisk
+reward.rewardkeeper4skin3.title,Beastmaster Skin
+upgrades.prestige.title,Prestige
+upgrades.keeper3shurikenstrength1.title,Stark Shuriken
+upgrades.spiresplit2.desc,Split projectiles are faster and more plentiful.
+upgrades.swordlargeblade1.desc,Gör klingan längre och bredare så den gör mer skada.
+upgrades.droneyardbattlegridlong1.title,Långvariga drönare
+properties.stunlaser.speed,Hastighet {}
+upgrades.repellentbattleslowdownstun2.desc,Använd sporer oftare och lamslå monstren längre.
+upgrades.drillsidespeed1.desc,Speed up the side drillers.
+level.tutorial.ninja.bombs.desc1,Hold| to shoot kunai for mining in the direction you are aiming with your %s.
+loadout.mode.maze.desc,"Kartan är upplagd som en labyrint, med många förgreningar och återvändsgränder."
+upgrades.domesupplementprojectiledamagereduction2.desc,Förbättra deflektionen ytterligare för ännu färre projektilskador.
+level.tutorial.ninja.bombs.desc2,Kunai will bounce when hitting a wall at a steep angle.
+upgrades.domesupplementmeleedamagereduction1.desc,Härdar kupolens skrov så att den tar mindre skada från monstrens närstridsattacker. Skador från projektiler påverkas inte.
+upgrades.chainsawautonomy.title,Autonomi
+options.input.gamepad.gamepadstickdeadzone.ps5,Dödzon för styrspakar
+upgrades.teslapower3.desc,Förbättra kraften i teslas skott.
+level.tutorial.artillery.panel1header,Granatkastare
+upgrades.keeper4punch3.title,Frenzy 3
+upgrades.furnaceslowdown.title,Bedövande ångor
+upgrades.teslaspeed1.desc,Siktet rör sig snabbare.
+upgrades.teslaquickshot2.desc,Snabbskottet är mycket starkare.
+level.tutorial.repair.findcobalt,"Se om du kan hitta kobolt. Du kan reparera kupolen med det.
+Det är sällsynt och finns bara i begränsad mängd."
+title.navbar.newgame,Nytt spel
+options.keybindings.action.dome.battle,Stridsläge
+upgrades.keeper2pinballsplit.title,Dela sfärer
+properties.keeper2.bundlecentralmarker,Centrera kolumnmarkör
+options.keybindings.gamepad.ps5,Handkontroll
+options.video.stretchmode.rezised.text,"Renderar spelet i skärmens eller fönstrets standardupplösning.
+Ger skarp bild, men visuella fel i form av 1 pixel breda linjer kan dyka upp."
+options.audio,Ljud
+upgrades.domehealthmeter.desc,Visar kupolens hälsa.
+upgrades.shieldbattlereflectshortuses.title,Tajmad reflektion
+loadout.zoom1,Nära
+loadout.zoom2,Avlägset
+upgrades.orchardovercharge.title,Överladda fruktträdgård
+upgrades.keeperonewayteleporter.desc,Gain a personal one way teleporter. Place a one-use portal anywhere and teleport back to it whenever you want.
+options.input.controls.gamepadusage,Användning av handkontroll
+properties.orchard.battleroots,Grow Roots on the Ground {}
+upgrades.mushroomfarm.desc,Grow mushrooms in your cellar that can be planted inside the mine to get speed and mining buffs.
+keybindings.reset.title.ps5,Återställ knappbindningar
+multiplayer.continue.deviceselection.cancel,Avbryt markering
+loadout.hint.selection,Press|to choose an option.
+upgrades.orchardbattleshieldsecondlayer.title,Dubbla lager av klätterväxter
+properties.artillery.grenades,Granater {}
+upgrades.drill3.title,Borrstyrka 3
+assignment.weakcarry.title,Logistiskt problem
+upgrades.shockwavestun1.title,Stötvågschock 1
+upgrades.domesupplementprojectiledamagereduction1.title,Kupolskrov-avledning
+properties.keeper3.maxjumps,{} Jumps
+upgrades.converterefficientcobalt.desc,Improve the conversion to be more efficient.
+properties.furnace.waterdelay,Vattenfördröjning {}s
+gadget.slot.domesupplement,Kupoltillägg
+upgrades.keeper4ramping2.title,Momentum 2
+upgrades.orchardduration1.title,Frukt 1
+upgrades.domesupplementprojectiledamagereduction2.title,Förbättrad deflektion
+loadout.pet,Husdjur
+reward.rewarddomesupplements.desc,Discover extremely strong supplement upgrades for your dome.
+properties.prestige.score,{} prestige
+properties.keeper3.kunaicooldown,Kunai Cooldown {}s
+properties.stunlaser.stunarea,Chockområde {}
+upgrades.blastminingblast2.desc,Ökar sprängstyrkan ytterligare.
+reward.rewardrerolloffers2.title,Water Reroll
+upgrades.artillerysplash1.title,Instabila sprängämnen 1
+upgrades.drillwidetunnel.title,Vid tunnel
+modding.modio.ugcterms.title,User Generated Content Terms of Use
+options.input.controls.keepersettings.title,Inmatningsinställningar för Väktare
+options.keybindings.action.keeper.gravitycollect,Samla
+upgrades.domearmorhealth1.desc,"Increase the durability of the armor, giving the dome more health."
+reward.rewardgadgetsupplements.desc,Discover extremely strong supplement upgrades for your gadgets.
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.domeresourcecounters.title,Lagerhanteringssystem
+level.tutorial.tesla.panel2header,Skottlossning
+upgrades.jetpackstrength2.desc,Förbättrar jetpacken så du kan bära mer resurser.
+upgrades.teslapower4.title,Skottstyrka 4
+properties.orchard.battleabilityuses,Användningar per strid {}
+loadout.gadget.additional.unlock,"Det finns prylar som du inte har låst upp ännu. Slutför en spelomgång för att låsa upp en ny pryl, genom att ha hitta den inuti gruvan och installera den i kupolen."
+properties.laser.hitprojectiles,Lasern träffar energiprojektiler
+properties.keeper2.minspeed,Minimum Speed {.percent}
+properties.laser.dpsmod,Damage Modifier {.percent}
+properties.prospectionmeter.scandelay,Skanningsfördröjning {}s
+level.tutorial.artillery.panel1content2,"Ju längre du håller in, desto längre kommer granaten att flyga."
+level.tutorial.artillery.panel1content1,Hold|to charge the mortar and then release to fire.
+level.gameover.saveimages,Spara
+assignment.mode.regular,Normal
+upgrades.teslaautoaim.title,Sikta automatiskt
+upgrades.orchardduration1.desc,Fruktens effekter varar längre.
+options.title,ALTERNATIV
+upgrades.probedetectchambers.desc,The probe now also detects chambers like the gadget chamber.
+upgrades.dome1.desc,Standard gruvdriftskupol utrustad med en precisionslaser.
+upgrades.repellentbattlestrongerslowdown1.desc,Dimman saktar ner monster mer och varar längre.
+upgrades.resourcepacker.desc,"Install a resource packer into your suit which can pack and compress multiple resources into a bundle, making them easier to transport."
+properties.keeper4.goblinextraresourcechance,Additional Resource Chance {.percent}
+properties.orchard.speedbuff,Move Speed Buff {}
+keybindings.reset.explanation.xbox,Din tangentbordslayout har återställts på grund av en ny uppdatering som gjorde betydande ändringar i kontrollschemat. Ursäktar för besväret!
+upgrades.keeper2rotationalmining2.title,Kompressionsgruvdrift 2
+upgrades.keeper3rocketcarrier.desc,Replace Kunai carriers with rocket-powered versions that travel in a straight line until impact.
+properties.blastmining.damage,Skada {}
+options.video.renderscale,Renderingsskala
+modding.profile.title,Välj profil
+options.keybindings.action.general.left,Vänster
+properties.versus.multiplicativeewave,Increased Wave Strength (other team) {.percent}
+level.tutorial.drillbot.sleeping1,Borris går in i viloläge efter tag och när den stöter på väggar den inte kommer igenom.
+level.tutorial.drillbot.sleeping2,Tryck på | när du är nära för att väcka den.
+upgrades.laserstrength3.desc,"Stärker din laser enormt, men den rör sig knappt när den skjuter."
+upgrades.orchardovercharge2.title,Förbättrad överbelastning
+level.tutorial.drillbot.sleeping3,Du kan vända på den genom att trycka på | när den är vaken.
+modding.prestigeforbidden,Kan inte starta en prestige-omgång med dessa moddar.
+upgrades.laser.title,Laser
+upgrades.domesupplementelectrifiedsurface1.title,Elektrifierat skrov 1
+pause.quitgame,Avsluta spelet
+upgrades.swordlargeblade3.desc,"En monstruös klinga. Väldigt stark, men rör sig långsamt."
+upgrades.relichunt.desc,Hitta reliken djupt under marken och ta tillbaka den till din kupol.
+properties.stunlaser.cooldown,Väntetid {} sek
+upgrades.repellentdelay1.desc,Fördröjer nästa våg med monster mer.
+savegame.corrupted.desc,"Your last save file is corrupted, possibly due to a system crash during saving. Reverting to the previous save."
+multiplayer.host.online,Online
+keybindings.reset.doreset.ps5,Återställ min tangentbordslayout
+loadout.secondstage.cancel,Avbryt
+upgrades.keeper4catgoblindig2.title,Efficient Digging
+upgrades.furnacewaterfiring.desc,Burn water in the furnace for an additional delay to monster attacks.
+upgrades.shockwavedamage2.title,Stötvågsskada 2
+upgrades.proberange1.desc,Öka sondens räckvidd.
+pause.options,Alternativ
+keeperdlc.load.missing.switch,"Cannot load save, it contains unavailable downloadable content. Please ensure 'The Lost Keepers' downloadable content is available."
+actionhint.release,Släpp
+upgrades.assignmentsemergencycontribution3.title,Emergency Contribution 7
+options.game.shootbundlebeforegadgets,Shoot the Resource Bundle before Gadgets
+options.video,Bild
+upgrades.blastmining.title,Sprängbrytning
+modding.modio.subscriptions,Show Mod.IO Subscriptions
+level.gameover.proceedtounlock,Lås upp någonting nytt
+upgrades.prospectionmeter.desc,A meter that shows the distance to the nearest resources.
+properties.keeper2.spherereload,Sfäromladdning om {}
+options.keybindings.apply,Tillämpa
+upgrades.teslaquickshot.desc,"After shooting a charged shot, you can fire a single weaker shot by tapping the shoot button."
+level.tutorial.tesla.panel1header,Reticle Movement
+upgrades.tesla.title,Tesla
+properties.tesla.persistance,Elektriska klots livstid {}s
+upgrades.repellentbattleslowdownstun1.title,Paralysering
+upgrades.probelongmarker1.title,Markörminne
+modding.modio.tokenerror,Connection to token provider failed!
+upgrades.stationextensionupgrades.title,Fjärruppgraderingar
+upgrades.prestigewater.desc,Send back water. Increases how many prestige points you get after each wave.
+upgrades.artillerydirecthit2.desc,Öka den destruktiva potentialen hos dina granater.
+upgrades.mushroomfarmquickgrowth.desc,Mushrooms grow more quickly in the cellar.
+network.error.notsignedin.ps5,Sign in to PlayStation™Network to access online features
+options.input.controls.keybindings.ps5,Knappbindningar
+multiplayer.error.clientcrossplaydisabled,Du måste aktivera korsspel för att kunna ansluta till den här lobbyn.
+upgrades.keeper3carrylimit2.desc,Increase the number of resources you can haul on your Kunai carrier.
+level.supplementchoice.reroll, Slå om
+upgrades.orchardbattlerootingexplosion.desc,Aktivera igen för att få alla fångade monster att explodera och göra skada kring sig.
+upgrades.rocketlauncherrestock.desc,The missile silo will restock all missiles some time after being emptied.
+upgrades.droneyardbattlegridquick2.title,Omedelbara drönare
+assignment.denseiron.title,Tätt järn
+options.input.controls.gamepadusage.switch,Användning av handkontroll
+level.tutorial.ninja.bombs,Kunai
+upgrades.domearmorhealth2.desc,"Increase the durability of the armor, giving the dome more health."
+loadout.title,Utrustning
+multiplayer.continue.deviceselection.team,Lag
+properties.keeper3.kunaiweaknessagainsthardrock,Kunai Weakness Against Hard Rock {.percent}
+level.tutorial.repellent.popup_2.switch,"When close to it, press | to activate it."
+upgrades.chainsawdamage3.desc,Increase how much damage the buzz saw does to monsters.
+level.tutorial.artillery.panel3content1,"Granaterna har ett verkansområde, men direkta träffar tillfogar mer skada. De kan inte skada kupolen."
+level.gameover.unlock.regulargadget,Ny pryl upplåst från dina uppdrag!
+options.keybindings.gamepad.switch,Handkontroll
+options.input.gamepad.thumbstick.switch,Stick
+upgrades.artilleryshotstun.title,Bedövande explosion
+upgrades.assignments.title,Gillesuppdrag
+upgrades.rocketlauncherrockets1.desc,Öka mängden missiler du kan avfyra.
+level.tutorial.assessor.bundleguide.desc1,Du kan nu guida stationära paket.
+level.tutorial.assessor.mining,Kompressionsgruvdrift
+level.tutorial.assessor.bundleguide.desc3,"Den kommer att följa dig, om du är nära den."
+level.gameover.win.team,TEAM %s WON
+level.tutorial.assessor.bundleguide.desc2,Hit|without pressing a direction to place a stationary bundle.
+options.video.graphicsmode.window,Fönster
+upgrades.artillerymachinegun1.desc,Improve your anti-air gun to fire faster. Also comes with a laser sight for better aim.
+upgrades.droneyardovercharge1.desc,Temporarily overcharge the droneyard with water to produce more drones in the next battle.
+modding.title,MODDNING
+assignment.treefarm.title,Tree Farm
+level.gameover.prestige.score.personalbest,Nytt personbästa!
+level.gameover.unlock.world,Ny värld upplåst!
+assignment.chosen.todo,Ingen uppdrag vald
+options.keybindings.action.dome.battleability1,Stridsförmåga 1
+loadout.versusmod.versusmodifierwindingmap.desc,The map is slightly labyrinthian.
+reward.rewardweaponsupplements.title,Weapon Supplements
+upgrades.laserstrength2.title,Kraft 2
+upgrades.keeper2movement1.desc,Förbättra din gravitationsgenerator för att röra dig snabbare.
+options.keybindings.action.dome.battleability2,Stridsförmåga 2
+upgrades.domesecondweapon.desc,Install a new weapon that is controlled by the second station located in the second cellar layer.
+upgrades.resourcepackerquickcharge.desc,Increase how fast the packing charges regenerate.
+upgrades.laserstrength2.desc,"Stärker din laser ordentligt, men den rör sig ännu långsammare när den skjuter."
+upgrades.autocannonimproved.title,Förbättrad automatkanon
+upgrades.keeper3kunaicooldown1.desc,Throw Kunais more quickly.
+upgrades.keeper2pinballsplit2.desc,Öka den totala livslängden av kluvna kinetiska sfärer.
+upgrades.swordreflection1.title,Reflektion 1
+level.tutorial.ninja.drop.desc1.switch,Press| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.suitblasterradius2.desc,Öka sprängradien.
+options.game.dropresourcesbeforegadgets,Drop Resources before Gadgets
+options.translation.community.crowdin,Dome Keepers översättningsprojekt på Crowdin
+loadout.hint.playerlimitprestige,"Start Run
+
+Scores are not uploaded when playing Prestige with 3+ players."
+upgrades.assignmentsemergencycontribution1.title,Emergency Contribution 2
+upgrades.shockwavedamage1.desc,Öka skadan som chockvågen orsakar.
+options.input.gamepad.autoswitch.switch,Automatisk identifiering av föredragen handkontroll
+loadout.versusmod.versusmodifierlittlecobalt.desc,The map contains minimal cobalt deposits.
+upgrades.keeper1.title,Ingenjör
+level.furnace.popup.title,Mata ugnen
+upgrades.prospectionmeterrange2.title,Räckvidd 2
+pause.discord,Prata med oss på Discord
+upgrades.lasermove1.title,Rörelsehastighet 1
+options.input.controls.mouse.gamepad.switch,Växla till handkontroll och tillbaka upptäcks automatiskt
+upgrades.jetpackspeed3.title,Hastighet 3
+upgrades.chainsawautonomy.desc,The buzz saw defends your dome even when you are not inside the control station.
+properties.extractor.buildcycles,Maskproduktion (cykler) {}
+upgrades.stunlaserstun2.desc,"Increase the power of the stun beam, heavily affecting even the strongest monsters."
+upgrades.teleporter.desc,A two-way teleporter connects a station in the cellar with a movable portal.
+upgrades.droneyarddrones.title,Transportdrönare
+level.tutorial.assessor.spheres.desc1.aiming.switch,Press| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+upgrades.liftspeed1.desc,Hisskloten rör sig snabbare.
+properties.prestige.provokedwavestrength,Monsterprovokation {.percent}
+upgrades.artillery.desc,En kombination av en stor granatkastare som skjuter massiva explosiva granater och en snabbskjutande luftvärnskanon.
+upgrades.shredgadgettocobalt.title,Bryt ner till Kobolt
+level.gameover.stats.distancetravelled,Förflyttningsavstånd
+loadout.mode,Spelläge
+loadout.difficult.easier,lättare
+upgrades.domearmorhealth1.title,Rustningshållbarhet 1
+options.game.playernamesinmultiplayer,Visa spelarnamn i flerspelarläge
+properties.sword.slicedamage,Skärskada {} 
+options.keybindings.action.general,Allmänt
+upgrades.keeper4punch2.desc,Increase your mining strength and maximum mining speed.
+upgrades.keeper4catgoblinsleeptime.title,Caffeine Pills
+upgrades.condenserdoublestorage.title,Dubbel lagring
+upgrades.drillbotbuffguidance.desc,Show the direction towards Drillbert when carrying a treat.
+loadout.versusmod.versusmodifierscatterediron.desc,"Iron deposits are small and scattered, but plentiful."
+upgrades.proberange3.title,Mycket lång räckvidd
+upgrades.sword.desc,Ett tåligt svärd som gör mer skada ju längre det svingas. Det kan skjutas iväg för att spetsa monster och har en sköldbas som blockerar projektiler.
+properties.rocketlauncher.rockets,Raketer {}
+keybindings.reset.explanation,Din tangentbordslayout har återställts på grund av en ny uppdatering som gjorde betydande ändringar i inmatningssystemet. Ledsen för besväret!
+upgrades.shield.desc,Installera en sköld som absorberar en del skada. Laddas upp automatiskt.
+multiplayer.error.lobbyfull,Lobby är full
+upgrades.keeper3kunaibounce1.title,Trajectory Assist
+loadout.team.selection,Join %s
+level.tutorial.sworddome.slicing.desc,"Ju snabbare svärdet svingas, desto högre blir huggskadan."
+properties.drill.sidetimepertile,Side Driller Time per Tile {}s
+upgrades.suitblasterradius1.title,Explosionsradie 1
+upgrades.resourcepackerquickcharge.title,Snabb laddning
+versus.corruptionmonsterdamage.desc,"The monsters will do much more damage, projectiles included."
+properties.dome.baserepair,Reparera {} hälsa
+loadout.team,Team %s
+options.keybindings.action.general.down,Ner
+properties.blastmining.radius,Explosionsradie (rutor) {}
+level.tutorial.fullscreen.continue,fortsätt
+level.tutorial.suitblaster.popup_1.switch,"Press | to fire the suit blaster, destroying rock in a radius around you."
+upgrades.resourcepackercount2.title,Paketstorlek 2
+properties.sword.extendspeed,Höj hastigheten {} 
+upgrades.autocannondamage1.title,Tunga kulor
+properties.sword.aimline,Sikthjälpmedel
+options.translation.community,{completion}% klar
+properties.spire.stuntrapabsorption,Damage Absorption {.percent}
+upgrades.keeper4speed2.desc,Further increases movement speed.
+upgrades.keeper4ramping4.title,Momentum 4
+upgrades.orchard.desc,Plantera ett träd i kupolen som får frukter som gör dig snabbare och din brytning starkare.
+pause.restart.popup,"Are you sure you want to restart your run?
+Press again to confirm."
+multiplayer.error.versionmismatch,Din spelversion matchar inte värdens. Värdens version: {}
+assignment.condition.freegadget.plural,Two additional starter gadgets
+upgrades.artillerydirecthit1.title,Monsterförgörare 1
+options.input.controls.mouse,Mus
+upgrades.keeper4catgoblindig1.desc,Catgoblins will dig out resources without destroying tiles.
+reward.rewardpet11.title,Water Deer Pet
+upgrades.artillerymachinegun2.title,Snabb eldgivning 1
+upgrades.teslaorbs.title,Elektriskt klot
+properties.keeper2.spherespeed,Sphere Speed {}
+properties.artillery.machinegunpenetration,Kulans penetration {}
+level.station.upgrademenu.cost,Kostnad
+keeperdlc.load.missing,"Cannot load save, it contains unavailable dlc content. Please ensure 'The Lost Keepers' dlc is available."
+upgrades.drillbotstrength1.desc,Ger Borris högre grävstyrka.
+properties.resourcepacker.rechargetime,Recharge Duration {}s
+level.converter.popup.queue.block,Denna konvertering bearbetas just nu och kommer att avslutas inom {time} sekunder.
+properties.keeper2.maxspeed,Topphastighet {}
+level.converter.popup.conversion.to,till
+upgrades.blastminingblast2.title,Sprängning 2
+upgrades.suitblasterspeed1.desc,Improve how quickly the suit charges a blast.
+options.audio.music.ost.mode.adaptive.desc,"När man spelar med en väktare, kommer endast deras respektive soundtrack att spela."
+title.navbar.updates,Uppdateringar
+upgrades.orchardbattlerooting.title,Rotfällor
+options.keybindings.action,Handling
+upgrades.keeper4flexible3.title,Agility 3
+unlock.buy.keeperdlc,Unlocked by the DLC '%s'.
+upgrades.keeper4flexible2.desc,Increase your mining strength and your initial mining speed.
+loadout.prestige.countdown,Nedräkning
+assignment.weakcarry.desc,"Väktarens transportverktyg är skadat, så du måste förlita dig på prylar."
+upgrades.liftcarrykeeper2.title,Väktarhiss 2
+upgrades.domewavecount.desc,Installera en räknare som visar hur många vågor du överlevt.
+loadout.gadget.additional,Extrapryl
+upgrades.prestigewatermultiplier.title,Skicka vatten
+upgrades.condenser.title,Kondensator
+loadout.prestige.pro.supplementorder,Supplement Order
+assignment.goaltype.delivery.failed,"Ditt mål var att '{goal}', men du levererade bara {amount}."
+options.input.gamepad.ps5,Trådlös handkontroll
+assignment.condition.duration,Avsluta inom %d cykler
+options.game.hideactionhint,Dölj tips utanför kupolen
+options.video.graphicsmode,Grafikläge
+level.tutorial.assessor.carry.desc1_1.ps5,"Once locked onto you, they will follow you even if you release the collect button."
+assignment.goaltype.relic,Hämta reliken
+upgrades.stationextensionminimap.desc,Show a minimap of the mine whenever you enter the mobile station. The minimap shows the discovered area and some tiles deep into the rock.
+assignment.ironcontribution.title,Järnbidrag
+properties.keeper4.speedupretention,Speedup Retention {.percent}
+loadout.prestige.description,Skicka resurser bort från planeten för att öka din prestige i Väktargillet.
+upgrades.keeper3.title,Infiltratör
+properties.shield.battleactivateondepletion,Aktivera förmåga vid sköldintrång
+upgrades.jetpackspeed2.title,Hastighet 2
+properties.dome.maxhealth,Hälsokapacitet {}hp
+upgrades.drillbotstrength1.title,Styrka 1
+properties.artillery.grenadereloadspeed,Shell Reload Speed {}s
+properties.tesla.perfecttimingmultiplier,Multiplikator för skott {.percent}
+upgrades.orchardbattleshieldstrong.desc,Klätterväxterna blir starkare.
+loadout.difficulty.easy.description,Lite mer förlåtande på många sätt och vis.
+upgrades.drillsidespeed1.title,Borrhastighet 1
+loadout.prestige.miner,Gruvarbetare
+upgrades.keeper4catgoblindig2.desc,Catgoblins dig faster.
+upgrades.spireburst.title,Eldskur
+options.input.vibration.strength.ps5,Vibrationsstyrka
+upgrades.swordexplosivereflection.desc,Reflekterade projektiler exploderar när de träffar något.
+level.tutorial.drillbot.handling2.switch,Press | to make it change direction while on the ground.
+loadout.mapsize.large.description,En större karta för spelomgångar som varar längre än en timma.
+upgrades.artillerymachinegunhoming2.desc,Använd kraftfullare raketer.
+upgrades.keeper3quadjump.title,Multi Jump
+properties.artillery.grenadesexplosionradius,Granatens sprängradie {}
+upgrades.proberange2.desc,Öka sondens räckvidd.
+properties.drillbot.buffextraamount,{} extra borrträffar
+versus.corruptionbigwave.desc,The next monster wave will be enormous.
+level.tutorial.artillery.panel2content1,Hold|to fire your anti air gun.
+level.tutorial.artillery.panel2content2,It's great against flying enemies.
+upgrades.drillwidetunnel.desc,Install two additional downward drills to make a wide tunnel.
+upgrades.keeper2pinballdamage4.desc,Förbättra dina kinetiska sfärer.
+level.gameover.unlock.difficulty,Ny svårighetsgrad upplåst!
+loadout.prestige.fairness.headline,Fair Competition
+upgrades.prestigeprovoke.desc,Öka styrkan för alla kommande monstervågor för att få mer prestige.
+options.audio.volumes.soundvolume,Ljud
+multiplayer.continue.deviceselection.keeper,Väktare
+upgrades.teslaspeed2.desc,Siktet rör sig snabbare.
+upgrades.artillerymachinegun2.desc,Förbättra din luftvärnskanon så att den skjuter snabbare.
+properties.spire.splitadditionalprojectiles,Additional Split Projectiles {.percent}
+upgrades.artillery.title,Artilleri
+level.tutorial.assessor.bundle.desc1,Hit|while carrying resources to shoot a bundle.
+properties.shield.battleabilityduration,Föremågas Varaktighet {} sek
+loadout.zoom,Kamerazoom
+level.tutorial.assessor.bundle.desc2,Det kommer att flyga i den riktning du siktar tills det upplöses.
+options.keybindings.rebinding.inputprocessor.switch,Tryck på en ny knapp för denna handling…
+properties.converter.irontoiron,1 järn till {} järn
+options.cancel,Avbryt
+upgrades.keeper1powerdrill.title,Kraftborr
+assignment.emergency.desc,The Keeper's Guild is in danger and needs emergency contributions. Send them quickly!
+multiplayer.host.crossplay.disabled,Plattformsöverskridande spel avaktiverat
+properties.upgrade.gameover,Avsluta spelomgången
+loadout.mode.secondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+telemetry.allow,Aktivera onlinetjänster
+options.accessibility.vignette,Inaktivera vinjettering
+options.game.tutorials,Genomgångar
+properties.dome.autorepair,Automatiserad kupolreparation
+upgrades.swordreflection3.title,Reflektion 3
+upgrades.drillsidepull.desc,Mined resources will be moved along the side drillers towards the center.
+upgrades.keeper2movement4.title,Fullt vridmoment
+upgrades.shockwavestun1.desc,Öka bedövningsförmågan hos chockvågen.
+assignment.condition.freegadget.singular,One additional starter gadget
+modding.close,Stäng
+reward.rewardfreerolls2.title,Additional Reroll Offers
+upgrades.orchardbattleshieldstrong.title,Tåliga klätterväxter
+upgrades.spirecapacity.title,Kapacitet
+upgrades.keeper2.title,Utvärderare
+upgrades.keeper2movement2.title,Gravitationsrörelse 2
+upgrades.furnacestrongironfiring.desc,Increase the effectiveness of burning iron in delaying monsters.
+upgrades.keeper2pinballdamage3.title,Kinetiska sfärer 3
+upgrades.autocannondamage1.desc,Öka kulans storlek för mer skada.
+loadout.versusmod.versusmodifiermanycaverns.desc,The mine has many natural caves.
+options.game.other,Övrigt
+upgrades.drillsidespeed2.title,Borrhastighet 2
+upgrades.mushroomfarmdrill2.desc,Improve the mining buff obtained from consuming mushrooms.
+properties.autocannon.speed,Rörelsehastighet {}
+upgrades.keeper4flexible1.desc,"A flexible mining style that starts with moderate speed, but has lower peak strength."
+playerlist.close,Stäng
+level.furnace.popup.fuel.stack,Aktuell stapel:
+upgrades.shieldstrength3.title,Styrka 3
+upgrades.domesupplementresurrection2.title,En gång till
+upgrades.artilleryprojectileerasure.desc,Explosionerna från dina granater löser upp alla projektiler inom sprängradien.
+level.gameover.assignment.completed,Grattis! Du har slutfört uppdraget framgångsrikt. Väktargillet uppmärksammar dina ansträngningar.
+properties.tesla.radius,Skottradie {}
+properties.keeper2.bundlespeed,Pakethastighet {}
+keybindings.reset.show,Låt mig kontrollera det först
+options.input.controls.gamepadusage.xbox,Användning av handkontroll
+assignment.maze.title,Labyrint
+upgrades.blastminingstickycharge.desc,Charges stick to the first wall they touch and blast a tunnel instead of a circular explosion.
+properties.prestige.baseperwave,{} grundprestige per våg
+level.gameover.mineview,Visa gruva
+unlock.mapsize.medium,Vinn en körning på en liten karta för att låsa upp.
+upgrades.teslanurture.desc,Stärk ett befintligt elektriskt klot genom att skjuta den igen. Klotet växer då i storlek och kommer att vara längre.
+upgrades.jetpackspeed1.desc,Förbättrar jetpacken så du rör dig snabbare.
+upgrades.domearmormelee1.desc,Decrease how much damage the dome takes from melee attacks.
+loadout.prestige.friend.mode,Vänligt läge
+upgrades.domearmorhealth2.title,Rustningshållbarhet 2
+properties.autocannon.damage,Skottskada {}
+upgrades.swordextendlong2.title,Långt hugg 2
+upgrades.lasermove2.title,Rörelsehastighet 2
+upgrades.shieldstrength2.title,Styrka 2
+properties.keeper3.slidecontrol,{.percent} Slide Control
+reward.rewardpet11.desc,Unlock the water deer as a pet for your dome.
+properties.tesla.nurture,Klotnäring
+properties.lift.speed,Hissklothastighet {}
+upgrades.lasermove2.desc,Lasern rör sig ännu snabbare.
+loadout.mode.longtime,Långa cykler
+options.accessibility.highlightmonsters,Förtydliga Monster
+upgrades.furnacebasedelay.desc,Enhance the smoke's dazing effect for a greater baseline delay.
+upgrades.doublelaser.desc,"Installerar ett andra lasertorn, men delar eldkraften mellan dem."
+properties.converter.ironwatertime,Järn till vatten konverteringstid (cykler) {}
+options.keybindings.rebinding.inputprocessor.xbox,Tryck på en ny knapp för denna handling…
+title.message.title,Notis
+upgrades.jetpackspeed4.title,Hastighet 4
+upgrades.drill1.desc,Stärker borren så du gräver snabbare.
+upgrades.extractorresources2.title,Noggranna maskar
+unlock.buy.keeperdlc.switch,Unlocked by downloadable content '%s'.
+level.tutorial.assessor.split.desc1,Hit|to split an incoming sphere.
+upgrades.keeper2pinballdamage1.desc,Öka omladdningstiden för att förbättra kraften i de kinetiska sfärerna.
+upgrades.teleporterteleportduration2.desc,Det tar kortare tid för dig att teleportera dig.
+level.tutorial.assessor.split.desc2,"You can split the spheres again, but they become a bit weaker each time."
+options.accessibility.backgrounds,Enkla bakgrunder
+assignment.weakwalls.desc,"Den här planetens frätande atmosfär är dödlig för din kupol och monstren, vilket gör att båda tar mer skada."
+multiplayer.error.disconnected,Frånkopplad från värd
+properties.autocannon.timebetweenshots,Tid mellan skott {}s
+upgrades.laserstrength1.desc,"Förstärker din laser, men får den också att röra sig långsammare medan den skjuter."
+upgrades.artillerydirecthit4.desc,Eldgranater specialiserade på att förgöra även de största monstren.
+upgrades.teslapersistance3.title,Ständiga klot 3
+level.gameover.stats.timeplayed.unit,min
+level.tutorial.drillbot.sleeping3.switch,You can make it turn around by pressing | when it's awake.
+upgrades.autocannonshotgun1.desc,Avfyra flera projektiler som sprids ut.
+upgrades.probe.desc,Ger din dräkt en sond som skickar ut en puls som avslöjar resurser i närheten när den aktiveras. Måste laddas i stationen under kupolen.
+upgrades.droneyardparasites.desc,Släpp drönare som fäster vid och försvagar de starkaste monster de kan hitta. Monstret kommer därefter att ta mer skada och bli chockat kontinuerligt.
+properties.stunlaser.trackingInCooldown,Track Target in Cooldown
+upgrades.domewavemeter.desc,Visar tiden tills nästa våg fiender anfaller.
+properties.sword.stabexplosive,Monterad spetsbomb
+loadout.gadget,Primär pryl
+properties.stunlaser.areagrowthpermonster,Områdestillväxt per monster {}
+upgrades.swordfastreflection.title,Accelererad reflektion
+level.tutorial.assessor.explode.desc1.switch,Press|to explode all spheres in your vicinity.
+reward.rewardkeeper3skin1.desc,Unlock a new keeper skin for the Infiltrator.
+properties.laser.stun,Lamslagningsstyrka {}
+upgrades.resourcepackercount1.title,Paketstorlek 1
+reward.rewardkeepersupplements.desc,Discover extremely strong supplement upgrades for your keeper.
+upgrades.spirestuntrap3.desc,The energy trap now also stuns monsters.
+upgrades.lift.desc,Installera en automatisk hiss som automatiskt transporterar resurser för behandling i kupolen.
+upgrades.orchard.title,Fruktträdgård
+pause.playerlist,Spelarlista
+upgrades.keeper2bundle2.title,Paketets vägledning
+assignment.weakmining.desc,"Väktarens borr är skadad, så du måste förlita dig på prylar."
+upgrades.converter.title,Resursomvandlare
+properties.repellent.battlemonstervulnerability,Additional Damage to Monsters {.percent}
+level.gameover.revealresources,Avslöja resurser
+upgrades.jetpackstrength3.desc,Förbättrar jetpacken så du kan bära mer resurser.
+options.input.controls.touch.fliphud,Vänd HUD
+properties.keeper2.bundleguide,Proximity Guidance
+upgrades.furnaceironfiring.desc,Bränn järn i ugnen för en utökad fördröjning till monsterattacker.
+upgrades.swordlongblade2.desc,Gör klingan ännu snabbare så att den studsar när den träffar kanten.
+options.input.controls.mouse.keepers,Använd musen för väktare
+loadout.mode.domesupplements.desc,Get three times the supplements and equip the dome with three slots for them.
+reward.rewardautomatedweapons.title,Automated Weapons
+versus.corruptionmonsterhealth.desc,The monsters will have much more health.
+upgrades.keeper3slidecontrol.desc,Gain increased control while sliding along walls.
+options.keybindings.action.dome.fire,Eld
+options.keybindings.gamepad.xbox.view.xbox,Visa knapp
+level.gameover.win.title,DU HAR RÄDDAT KUPOLEN
+upgrades.versusincreasewave1.title,Sabotage 1
+options.video.graphicsmode.borderlesswindow,Kantlöst fönster
+properties.artillery.rotationspeed,Rotationshastighet {}
+upgrades.probe.title,Sond
+reward.rewardkeeper2skin5.desc,Unlock a new keeper skin for the Assessor.
+upgrades.artillerydirecthit4.title,Monsterförgörare 4
+properties.keeper4.squadcount,Squad Count {}
+upgrades.keeper3kunaicooldown3.title,A Thousand Kunai
+upgrades.prospectionmeterrange2.desc,Further increase the detection range of the prospecting meter.
+level.gameover.unlock.mapsize,Ny kartstorlek upplåst!
+loadout.prestige.friend.desc,Play prestige on a lower difficulty and compete on separate leaderboards with friends only.
+upgrades.jetpackstrength4.title,Bärstyrka 4
+options.input.controls.virtualjoystickopacity,Virtuell Joystick genomskinlighet
+upgrades.repellentovercharge.title,Extraladda avskräckningsmedel
+upgrades.suitblastermaxcharge.desc,"Increase how many charges you can store in your suit. The more charges you have ready, the faster additional ones will charge."
+upgrades.stationextensiontubemovement.desc,Enter the station and quickly travel to the dome within a vacuum. Only works while moving upward.
+upgrades.domesupplementmeleedamagereduction1.title,Härdning av kupolens skrov
+upgrades.keeper4catgoblinsleeptime.desc,Reduces the duration of Catgoblins' naps.
+upgrades.prestigespeedup.desc,Förkorta tiden mellan vågorna.
+upgrades.keeper3kunaicooldown1.title,Fast Throw
+upgrades.spire.title,Spiran
+multiplayer.join.sessions,Session
+options.input.controls.keybindings,Tangenter
+multiplayer.host.crossplay.desc.xbox,Plattformsöverskridande spel låter dig spela med vänner på andra plattformar.
+upgrades.teslaorbs.desc,Each shot leaves an electro orb that deals damage over time and stuns enemies.
+upgrades.prestigeiron.desc,Send back iron. Increases how many prestige points you get after each wave.
+properties.keeper2.explodespheres,Explodera sfärer
+level.tutorial.assessor.split.desc1.switch,Press|to split an incoming sphere.
+properties.artillery.machinegunhoming,Målsökande raketer
+upgrades.spirespeedup.desc,Decrease the time between shots.
+level.tutorial.drillbot.handling1,Tryck på | för att plocka upp Borris igen.
+keybindings.reset.doreset.switch,Återställ min tangentbordslayout
+level.tutorial.drillbot.handling2,Tryck på | så byter den riktning om den befinner sig på marken.
+upgrades.artillerysplash1.desc,Förbättra din granatkastare till att skjuta granater som har en enorm sprängradie.
+upgrades.shockwave.desc,Installera två hammare på kupolen som skapar intensiva chockvågor. Måste utlösas manuellt.
+options.game.blocklist.unblock,Unblock
+properties.drillbot.buffamount,{} energifyllda borrträffar
+upgrades.teslaorbdamage.desc,"Kloten leder mycket mer elektricitet, vilket innebär mer skada över tid."
+loadout.versusmod.versusmodifierconcentratediron.desc,Iron deposits are sparse but very large.
+upgrades.keeper4squad2.title,Large Squad
+upgrades.keeper4flexible1.title,Agility
+upgrades.swordreflection3.desc,Maximalt stor sköldplatta.
+unlock.prestige.promode,Unlock by winning a run with a prestige score of at least 1000.
+loadout.mapsize.huge,Gigantisk
+upgrades.artillerymachinegunhoming1.desc,Replace the bullets with smart rockets that automatically course-correct to hit monsters.
+upgrades.repellentovercharge.desc,"Use water to overcharge your repellent, improving the repellent's battle ability."
+loadout.prestige.pro.caveorder,Grottans ordning
+upgrades.spiresplit2.title,Snabb delning
+properties.laser.bend,Lasern autosiktar {}°
+modding.modio.ugcterms.link1,Terms of Use
+upgrades.drillmagnetic.title,Magnetiska höljen
+assignment.condition.deliveremergency,Fulfill %d emergency deliveries
+modding.modio.ugcterms.link2,Privacy Policy
+assignment.denseiron.desc,"Järnet på den här planeten är särskilt tätt, vilket gör det svårt att bryta."
+level.station.upgrademenu.inventory,Förråd
+upgrades.repellentbattleslowdownstun1.desc,Använd instabila sporer i dimman för att lamslå monster och stoppa dem under kort tid.
+upgrades.spirestuntrap2.title,Katalysatorfälla
+properties.keeper2.explodespheresradius,Explosionsradie (rutor) {}
+loadout.prestige.cobalt,Förbestämd kobolt
+upgrades.spireautonomy1.title,Autonomi
+upgrades.suitblastermaxcharge.title,Fler laddningar
+upgrades.stunlaserspeed2.desc,The stun laser moves even faster and keeps tracking monsters while cooling down.
+properties.suitblaster.maxcharge,Max laddningar {}
+upgrades.prospectionmetergadget.desc,Display the distance to the nearest chamber and improves the range significantly.
+properties.spire.rechargetime,Laddningstid {}s
+assignment.monstermasses.desc,Planeten plågas av enorma mängder av lågnivå monster.
+telemetry.title.ps5,Användarvillkor
+properties.condenser.autoovercharge,Automatisk Extraladdning
+assignment.rareiron.desc,Planeten innehåller alldeles för lite järn för en normal gruvdrift.
+level.converter.popup.title,Ombandla resurser
+upgrades.chainsaw.desc,"Install a buzz saw running along the dome cupola, dealing damage to nearby monsters."
+versus.inventory.title,Other team info
+loadout.versusmod.versusmodifiernorelics.desc,The mine has no relics.
+level.gameover.stats.wavessurvived,Vågor överlevda
+upgrades.stunlaserduration1.title,Eldgivningsuthållighet 1
+upgrades.resourcepackercount1.desc,Increase how many resources can be packed into a single bundle.
+level.tutorial.teleporter.carry3.switch,"If you press |, you will teleport back."
+gadget.slot.domesurface,Kupolytan
+upgrades.converterirontocobalt.title,Koboltomvandling
+options.audio.music.ost.mode.desc,Varje väktare har sitt eget unika soundtrack. Du kan ändra när dessa spelas upp.
+assignment.condition.deliversand,Leverera %d kobolt
+options.accessibility.photosensitivity.explanation,Minskar blinkande ljus.
+upgrades.keeper2bundle4.desc,The resources bundles move faster and stay together longer.
+upgrades.domesupplementmeleedamagereduction2.title,Intensiv härdning
+reward.rewardcentralmarker.title,Mittlinje
+upgrades.repellentbattleslowdown.desc,Spreja en bedövande dimma som saktar ner alla monster.
+options.game.splitscreenfontscale,Show larger Text in Splitscreen
+upgrades.blastminingimpactdetonation.title,Kollisionsdetonation
+loadout.relichunt.title,Välj ett scenario
+upgrades.assignmentsemergencycontribution2.title,Emergency Contribution 4
+upgrades.stunlaserspeed1.desc,Chocklasern rör sig snabbare.
+upgrades.keeper2movement2.desc,Förbättra din gravitationsgenerator för att röra dig ännu snabbare.
+loadout.prestige.pro.customorder,Anpassad ordning
+options.translation.community.desc.seavenplatforms,Dessa språk översätts av vår kära community på Cowdin.
+properties.shield.battledestructionprevention,Extra Varaktighet {} sek
+upgrades.spirespeedup.title,Förbättrad kylning
+upgrades.shieldovercharge.title,Extraladda sköld
+level.tutorial.station.popup_4.switch,Then press | to enter battle mode and defend.
+options.keybindings.action.keeper.drop,Släpp
+options.accessibility.vignette.explanation,Inaktivera den mörkare vinjetteringseffekten som uppstår djupare ned i gruvan.
+upgrades.keeper4speed3.title,Rörelsehastighet 3
+title.navbar.splitscreen,Lokalt delad skärm
+upgrades.extractorquickextraction.title,Snabba maskar
+pause.disconnect,Drop player
+properties.map.ironadditionalhealth,Ytterligare järnhårdhet {}
+properties.keeper2.reflectlifetime,Reflektionsfälts livstid {}s
+loadout.versusmod.versusmodifiersoftrock,Soft Rock
+upgrades.repellentoverchargeduration1.title,Förbättrad överbelastning
+upgrades.teleporterteleportitems.desc,"Teleport anything you carry with you, except for resources and large objects."
+upgrades.shieldstrength2.desc,Stärker kupolskölden ytterligare så att den kan absorbera ännu mer skada.
+unlock.mapsize.large,Vinn en körning på ett mellankarta för att låsa upp.
+upgrades.shieldoverchargestrength2.desc,Stärker den extraladdade kupolskölden så att den kan absorbera ännu mer skada.
+properties.drill.extensionspeed,Sidotilläggshastighet {}
+properties.orchard.growthtime,Växttid (cykler) {}
+upgrades.drillbotbuff1.desc,Godis växer i boet under kupolen. Ta dem till Borris så slukar han dem för att få energi.
+properties.repellent.battleslowdown,Monsterfördröjning {.percent}
+level.station.upgrademenu.buy,Köp
+keybindings.reset.title.switch,Återställ knappbindningar
+title.navbar.multiplayer.join,Gå med i flerspelarläge
+multiplayer.host.crossplay.desc,Plattformsöverskridande spel låter dig spela med vänner på andra plattformar. Till exempel kan spelare på PC och konsol spela tillsammans.
+properties.probe.range,Räckvidd (rutor) {}
+modding.modio.connectionfailed,Connection to mod.io failed!
+properties.dome.resurrectcharges,Remaining Resurrections {}
+upgrades.mushroomstack.title,Staplade svampar
+multiplayer.error.lobby.join,Misslyckades gå med i lobbyn
+pause.title,PAUS
+level.furnace.popup.fuel.cycles,Återstående cykler: {cycles}
+level.gameover.unlock.gamemodevariant,Ny spellägesvariant
+upgrades.keeper2movement3.title,Gravitationsrörelse 3
+upgrades.keeper3kunaicooldown2.desc,Throw Kunais more quickly.
+upgrades.repellentbattledamageovertime.title,Giftiga ångor
+reward.rewardfreerolls1.title,Reroll Offers
+assignment.superhardrockwithholes.title,Schweizisk ost
+modding.restartneeded,Du behöver starta om spelet för att moddar ska fungera.
+upgrades.versusshowinventory.title,Inventory Spy
+level.tutorial.assessor.carry.desc1,Håll|för att dra in resurser tills de blir låsta på dig.
+level.tutorial.assessor.carry.desc2,Hit|to shoot them as a bundle in the direction in which you are facing.
+demo.unavailable,Ej tillgänglig i Demo
+assignment.harmfuliron.desc,"The planet's iron is dangerously reactive, damaging your dome when shredded."
+upgrades.keeper4flexible4.title,Agility 4
+properties.dome.reducedhealth,Förlorad hälsa {}hp
+upgrades.keeper4catgoblinamount.desc,Breed more Catgoblins to help with your mission.
+properties.keeper2.spherebasedamage,Sfärens basskada {}
+level.gameover.showimages,Öppna
+properties.keeper4.maxpunchdelay,Slowest Punch {}s
+upgrades.converterironduplication.desc,Konvertera lite järn till mycket mer järn.
+upgrades.liftorbless.title,Gravitationshiss
+upgrades.artilleryshotstun.desc,Att skjuta granatkastare är så kraftfullt att närliggande monster blir chockade under en period.
+upgrades.keeper4squadsmarts.title,Smart Excavation
+options.video.graphicsmode.enablevsync,Aktivera VSync
+upgrades.repellentdelay3.desc,Fördröjer nästa våg med monster ännu mer.
+properties.spire.splitshotground,360° Split
+upgrades.autocannonrateoffire3.desc,Maxad eldhastighet.
+upgrades.furnacebasedelay.title,Omtumlande ångor
+properties.sword.stabcooldown,Förläng väntetiden {} sek 
+upgrades.resourcepacker.title,Resurspaketerare
+properties.probe.permanentrevealrock,Avslöja bergytan permanent
+upgrades.prestigeprovoke.title,Provocera monstren
+loadout.hint.teams,Each team needs at least one player!
+upgrades.proberange1.title,Medium räckvidd
+upgrades.condenserautocollect.desc,Automatiserar vatteninsamlingen så att du inte behöver plocka upp det manuellt.
+title.navbar.continue,Fortsätt
+upgrades.drillbotbuffguidance.title,Målsökande hot
+options.video.stretchmode.rezised,Storleksändrad
+upgrades.shieldbattlereflectspeed.desc,"Reflected projectiles fly back at a higher speed, increasing the chance of hitting the attacker."
+properties.keeper2.spherebaselifetime,Sfärlivstid {}
+properties.resourcepacker.packscale,Shrink Scale {.percent}
+properties.chainsaw.speed,Rörelsehastighet {}
+properties.probe.rechargetime,Omladdningstid (cykler) {}
+upgrades.blastminingblast1.title,Sprängning 1
+upgrades.liftcarrykeeper1.title,Väktarhiss 1
+loadout.versusmod.versusmodifierlongcycles,Långa cykler
+options.keybindings.action.dome.secondary,Sekundär förmåga
+upgrades.extractor.title,Järnmaskar
+level.tutorial.assessor.reflect.desc2,Incoming spheres will be reflected. It will also power them up.
+options.keybindings.keyboard,Tangentbord
+level.tutorial.assessor.reflect.desc1,Hit|to toggle a reflective field around you.
+level.tutorial.beastmaster.move,Movement
+level.gameover.automove,Automatisk kamera
+upgrades.keeper4punch4.title,Frenzy 4
+properties.shockwave.damagemod,Additional Damage {.percent}
+upgrades.drillbotsleepless.desc,Borris orkar jobba längre utan att bli trött.
+upgrades.keeper2pinballexplode.desc,Detonerar alla sfärer i din omgivning och frigör deras sparade kinetiska energi.
+reward.rewardpermanentwavemeter.title,Permanent Hostile Proximity Meter
+upgrades.keeper3shurikencooldown1.desc,Reduces the Shuriken cooldown even further.
+upgrades.droneyard.title,Drönarvarv
+level.gameover.unlock.promode,Prestige pro-inställningar upplåsta!
+upgrades.swordextendlong2.desc,Ökar huggstyrkan ännu mer och gör styrningen i luften mer exakt.
+upgrades.drillbotturnaround.desc,Borris vänder om i stället för att somna vid oförstörbara väggar.
+loadout.prestige.fairness.desc,"We love to see you prestige players compete for the highest scores and find better and better strategies. We want to keep this a fair and fun competition, so it is important that everyone plays on equal terms.
+
+Please understand that your runs might be flagged as inadmissible or might get deleted, if it seems like you are using cheat tools or exploits.
+We define exploits as anything that provides you a tangible benefit in your prestige run that is not intended through normal gameplay means. This includes things like savegame editing or viewing, excessive reloading, using mods that are not whitelisted or intentional and repeated use of bugs.
+You might get permanently barred from competing on the usual leaderboards, if your run appears to have made significant use of cheats or exploits.
+
+If you are unsure about whether something is considered illegal, please ask on our Discord or via e-mail at dome@bippinbits.com. You can always appeal to us, if you got flagged wrongly.
+
+Have fun!"
+assignment.emergency.title,Emergency
+upgrades.droneyardbattlegridlong2.title,Drönarflock
+properties.repellent.battleuses,Användningar per strid {}
+loadout.difficulty.easy,Svårt
+level.tutorial.mineraltree1,"Du har precis hittat ett frö för mineralträd. Det kan växa till ett träd som rotar sig på brickor. Resurser växer beroende på resurserna för de rotade brickorna. 
+Släpp det på en bricka för att plantera fröet."
+options.keybindings.action.keeper.pickup,Ta upp
+gadget.slot.domebackside,Kupolens baksida
+assignment.megacreeps.desc,This planet is roamed by the largest and strongest monsters only.
+options.keybindings.rebinding.error.gamepad,Kan inte ställa in detta som en inmatning för handkontroll.
+modding.profile.new,Ny profil
+upgrades.suitblasterspeed2.desc,Improve how quickly the suit charges a blast.
+properties.domearmor.pulsedamagethreshold,Tröskel för pulsskada {}
+options.game.autopause,Pausa spelet när fönstret inte är aktivt
+savegame.wiped.desc,"All your save files are corrupted, possibly due to a system crash during saving. Unable to restore progress.
+Check if you can restore your save via cloud storage. Otherwise your progress is permanently lost."
+properties.shield.maxstrength,Styrka {}hp
+level.tutorial.ninja.rope.desc1,Hold| to shoot your rope in the direction you are aiming with your %s.
+level.gameover.unlock.gadgetability,Ny stridsförmåga till pryl
+level.tutorial.ninja.rope.desc2,Hold| to jump.
+upgrades.repellent.desc,Installera en tank med monsteravskräckningsmedel. Aktivera den för att spreja utanför kupolen och fördröja nästa våg med fiender.
+modding.modio.report,Report Mod
+properties.artillery.directhitdamage,Skada för direktträff {.percent}
+upgrades.spireprojectileslowdown.title,Projectile Slowdown
+properties.keeper2.bundleduration,Paketets livstid {}s
+upgrades.domesandrepair.title,Koboltreparation
+upgrades.assignmentsemergencycontribution3.desc,Send this package before the 7th wave ends or fail this assignment.
+upgrades.stunlaserduration3.title,Eldgivningsuthållighet 3
+properties.orchard.battleshields,Sköldlager {}
+options.video.brightness,Ljusstyrka
+demo.end.misc1,Det tävlingsinriktade prestigenläget med fyra lägesvarianter
+upgrades.droneyarddrones.desc,Construct an additional drone for transporting resources.
+demo.end.misc3,Fler primära prylar
+options.game,Spel
+loadout.mode.longtime.desc,"Du har dubbelt så lång tid mellan vågorna, men vågorna är starkare."
+demo.end.misc2,Många utmanande uppdrag
+demo.end.misc5,Fler grottor
+demo.end.misc4,Fler kartstorlekar
+upgrades.orchardduration2.title,Frukt 2
+reward.rewarddomesupplements.title,Dome Supplements
+demo.end.misc6,Fler monster
+upgrades.keeper2rotationalmining1.desc,Ignorera bergtäthet och borra i konstant hastighet.
+upgrades.droneyardbattlegridquick2.desc,"Släpp alla drönare mycket snabbt, och ha dem redo i början av striden."
+loadout.choices.comingsoon,Inte tillgängligt än men kommer snart.
+properties.keeper2.splitlifetime,Split Sphere Lifetime {.percent}
+options.input.controls.mouse.sword,Använd musen för att kontrollera Svärdskupolen
+level.tutorial.beastmaster.goblins.desc1,Hold| to punch a hole in the back wall for your Catgoblins to enter the mine.
+upgrades.drill3.desc,Förstärker borren så du gräver snabbare.
+upgrades.jetpackstrength3.title,Bärstyrka 3
+upgrades.laserstrength3.title,Kraft 3
+level.tutorial.beastmaster.goblins.desc2,They will help by collecting the resources near the hole.
+upgrades.domesupplementresurrection1.title,Kupolåterupplivning
+loadout.mapsize.small.description,En liten karta för kortare spelomgångar.
+upgrades.proberange2.title,Lång räckvidd
+reward.rewardkeeper2skin5.title,Assessor Skin
+upgrades.jetpackspeed2.desc,Förbättrar jetpacken så du rör dig snabbare.
+upgrades.artilleryrotation2.desc,Vrid din granatkastare snabbare.
+upgrades.domesupplementcombatrepair3.title,Snabb stridsreparation
+reward.rewardkeeper4skin3.desc,Unlock a new keeper skin for the Beastmaster.
+multiplayer.host.splitscreen.desc.ps5,Använd trådlösa handkontroller i utrustningsmenyn för att lägga till fler väktare. Upp till fyra väktare kan dela samma skärm. Kan kombineras med flerspelarläge online.
+upgrades.keeper2pinballdamage2.desc,Ytterligare ökar omladdningstiden för kraftfullare kinetiska sfärer.
+level.tutorial.ninja.rope,Rope
+options.keybindings.rebinding.error.keyboard,Kan inte ställa in detta som tangentbordsinmatning.
+upgrades.domesupplementcombatrepair2.desc,"Den automatisk reparationen är effektivare, återställer mer hälsa."
+properties.dome.autohealamount,Reparera {}hp
+properties.repellent.growthtime,Produktionstid (cykler) {}
+properties.keeper.domefuel,Lägg till bränsle {}
+options.accessibility.critters,Inaktivera odjur
+level.tutorial.assessor.reflect.desc1.switch,Press|to toggle a reflective field around you.
+upgrades.probelongmarker2.title,Enduring Markers
+upgrades.converterefficientwater.title,Effektiv vattenomvandling
+upgrades.assignmentssendcobalt.title,Leverera kobolt
+properties.monsters.waveinterval,Tid mellan vågor {}s
+options.keybindings.rebinding.error.gamepad.switch,Kan inte ställa in detta som en inmatning för handkontroll.
+options.input.gamepad.twinstick.ps5,Kontroller med dubbla styrspakar
+properties.extractor.units,Maskar producerade {}
+loadout.mode.doubleiron.desc,Järnfyndigheterna är mycket rikare.
+telemetry.title,Aktivera flerspelarläge online?
+multiplayer.host.local.desc,Spelar i ditt lokala nätverk kan ansluta
+properties.laser.dps,Skada {}
+level.tutorial.assessor.spheres.desc1.switch,Press| to shoot a kinetic sphere in the direction in which you are facing.
+upgrades.spirecapacity.desc,Increase the number of shots that can be fired before a recharge is necessary.
+upgrades.doublelaser.title,Dubbel laser
+options.keybindings.text,"Redigera kontrollkonfigurationen så att den passar dig.
+I allmänhet kan tangenter från olika sektioner överlappa utan problem (t.ex. om du använder samma tangenter för att förflytta din väktare som kupolvapnet)"
+properties.orchard.battleabilityduration,Föremågans verkningstid {} sek
+options.input.controls.keybindings.switch,Knappbindningar
+options.keybindings.gamepad.xbox.menu,Start
+upgrades.shieldstrength1.title,Styrka 1
+properties.converter.watertoiron,1 vatten till {} järn
+upgrades.stunlaserstun2.title,Chockstyrka 2
+upgrades.drillbotstrength2.desc,Ger Borris högre grävstyrka.
+upgrades.dome1.title,Laserkupol
+options.keybindings.rebinding.error.gamepad.xbox,Kan inte ställa in detta som en inmatning för handkontroll.
+loadout.assignment.shop,Väktarens gillesbelöningar
+upgrades.orchardbattlerootingmore.desc,Fler rötter som varar längre.
+options.keybindings.action.general.back,Avbryt
+exhibition.level.instruction,Tryck på vad som helst för att fortsätta spela!
+upgrades.converterefficientwater.desc,Improve the conversion to be more efficient.
+upgrades.teslapower4.desc,Förbättra kraften i teslas skott.
+properties.spire.splitshot,Dela projektiler
+assignment.weakwalls.title,Hög risk
+title.navbar.quit,Avsluta till skrivbordet
+upgrades.autocannonrateoffire1.desc,Ökad eldhastighet.
+upgrades.laserstrength4.desc,"Stärker din laser enormt, men den rör sig knappt när den skjuter."
+loadout.mode.automateddefense.desc,"Start with all defensive gadgets and gadget autonomy, but without a main weapon. Let your dome do the work!"
+level.gameover.prestige.score.rankunchanged,Ingen ändring i rang.
+properties.keeper2.directmininghardness,Rock Hardness Influence {.percent}
+level.gameover.retry,Påbörja en ny spelomgång
+options.input.controls.keybindings.button.xbox,Ändra tangentbordslayout
+upgrades.keeper4autospawnminers.title,Eager Squad
+modding.modio.declined,Please accept conditions if you want to access mods
+upgrades.repellentoverchargeduration1.desc,Öka effekten av att överladda stridsförmågor.
+upgrades.assignmentsemergencycontribution5.title,Emergency Contribution 16
+upgrades.keeper2pinballdamage2.title,Kinetiska sfärer 2
+upgrades.teslaspeed3.desc,Siktet rör sig snabbare.
+upgrades.domesupplementmeleedamagereduction2.desc,Härdar skrovet ytterligare för att minska skadan ännu mer från närstrid.
+properties.extractor.processingtime,Extraction Duration {}s
+upgrades.keeper3.desc,A nimble keeper who moves swiftly using rope and skillful jumps. Mines by throwing explosive kunai.
+assignment.acidrain.title,Acid Rain
+upgrades.droneyardparasites3.desc,Förstärk den försvagande effekten av dina parasitdrönare ytterligare.
+upgrades.domesupplementelectrifiedsurface1.desc,Lägg till en responsiv elektrifierat hölje till kupolens skrov som skadar närstridsmonster.
+unlock.buy.keeperdlc.ps5,Unlocked by add-on '%s'.
+upgrades.keeper3shurikenstrength2.desc,Increase Shuriken explosion power even more.
+upgrades.teslapower3.title,Skottstyrka 3
+upgrades.stationextensionrevealdistance2.desc,Increase the distance in which rock and resources around the station are revealed.
+upgrades.keeper3shurikencooldown2.title,Incessant Shuriken
+properties.orchard.buffduration,Buff Duration (Cycles) {}
+loadout.prestige.provocation.description,"Provoke monsters to generate stronger waves and gain more prestige. Multiplier decreases each cycle, and the run ends if it falls below zero."
+level.tutorial.probe.popup_1,Tryck på | för att skicka en sondping.
+level.tutorial.repellent.popup_2,Tryck på | när du är nära för att aktivera den.
+multiplayer.join.profile,Profil
+level.tutorial.probe.popup_3,"Den avslöjar resurser i närheten.
+Ladda upp den på stationen."
+level.tutorial.repellent.popup_1,Avskräckningsmedlet är redo att fördröja nästa våg.
+upgrades.keeper4ramping2.desc,"Increase your mining strength, peak speed, and momentum retention."
+options.game.kunaicarrierbeforegadgets,Throw Kunai Carrier before Gadgets
+properties.probe.permanentrevealresources,Avslöja resurser permanent
+upgrades.keeper2bundle4.title,Kraftfullt paket
+options.audio.volumes.musicvolume,Musik
+options.input.controls.useindividualsettings,Använd individuella inställningar för väktaren
+upgrades.keeper4squadsmarts.desc,Mining squads prioritize special tiles and tiles close to resources.
+upgrades.domesupplementscraprepair2.title,Återställning
+upgrades.orchardduration3.desc,Maxlängden för frukteffekter.
+options.input.controls.touch,Touch
+level.gameover.keepgadget.none,Ingen
+upgrades.stunlaserautonomy1.title,Autonomi
+upgrades.swordexplosivereflection.title,Explosiv reflektion
+upgrades.probelongmarker1.desc,"Improve the memory module of the probe, showing markers for much longer."
+upgrades.resourcepackercharges.desc,Increase how many packing charges you can hold within your suit.
+level.station.battle.navbar.shoot,Skjut
+upgrades.drilladditionalsides.desc,Få fler sidoborrmaskiner med samma funktionalitet som den första.
+loadout.difficulty.veryeasy.description,"Inte lätt, men mer avkopplat än de andra svårighetsgraderna."
+properties.stunlaser.stunstrength,Chockstyrka {}
+properties.resourcepacker.packcount,Paketstorlek {}
+upgrades.keeperonewayteleporter.title,Envägsteleportering
+upgrades.keeper3kunaidamage4.title,Kunai Impact
+upgrades.drill4.title,Borrstyrka 4
+options.game.directionsnapping,Fäst väktarens sikte till väderstreck
+upgrades.artillerymachinegun3.title,Snabb eldgivning 2
+upgrades.stunlaserspeed2.title,Hastighet 2
+properties.artillery.machinegunreloadspeed,Bullet Reload Speed {}s
+options.game.screenshake,Skärmskakning
+upgrades.proberechargeafterbattle.desc,"The probe will recharge automatically over time, making the recharge station obsolete. Frees up the gadget slot in the cellar."
+upgrades.jetpackstrength2.title,Bärstyrka 2
+loadout.versus.condition.irondelivery.title,Iron Delivery
+upgrades.teslaspeed4.desc,Siktet rör sig snabbare.
+level.assignment.badges.toggle,Tjäna medaljer genom att slutföra uppdrag. Spendera dina medaljer på Väktargillets belöningar. Du kan inaktivera belöningar efter att du köpt dem om du vill spela utan dem.
+loadout.versus.wincondition,Win Condition
+upgrades.converterefficientwatershort.title,Swift Treatment
+properties.keeper2.directminingdamage,Compression Mining Damage {}
+upgrades.assignmentssendiron.desc,"Leverera järn till Väktargillet. För att lyckas med uppdraget, måste du skicka tillbaka alla tillgängliga leveranser."
+upgrades.keeper3carrylimit1.title,Bärförmåga 1
+assignment.goaltype.survive,Överlev
+upgrades.shield.title,Sköld
+level.station.battle.navbar.stabspeedup,Stab Speedup
+upgrades.keeper3quadjump.desc,Perform up to three additional jumps while airborne.
+properties.laser.aimline,Sikteslinje
+properties.domearmor.pulsestunduration,Varaktighet för pulschock {}s
+level.tutorial.assessor.carry.desc2.switch,Press|to shoot them as a bundle in the direction in which you are facing.
+level.tutorial.ninja.carry.desc1.switch,Press| to throw a kunai carrying resources in the direction you are aiming with your %s.
+upgrades.orchardovercharge.desc,"Använd vatten för att överladda din fruktträdgård, vilket gör att det går snabbare att producera frukt."
+upgrades.missile.abilityname,Missil
+upgrades.resourcepackercount2.desc,Increase how many resources can be packed into a single bundle.
+assignment.bigmapsparseresources.desc,"Resurser är sällsynta och långt isär på denna stora planet, men berget är mycket skört."
+properties.spire.stuntrap,Energifälla
+playerlist.block,Block
+level.tutorial.sworddome.stabbing.desc,Förläng svärdet och hugg fiender länge bort.
+properties.sword.sliceacceleration,Svärdhastighet {}
+loadout.team.join,Gå med
+assignment.weapondefect.desc,"Din kupols huvudsakliga vapen har förstörts, så du kommer att behöva överleva med andra medel."
+upgrades.repellentbattlehealthreduction.title,Försvagning
+loadout.versusmod.versusmodifiertoughstart,Tough Start
+title.navbar.multiplayer,Flerspelarläge
+keybindings.reset.title.xbox,Återställ knappbindningar
+upgrades.extractorquickextraction.desc,"Evolve your worms to be hyperactive, extracting iron clusters much faster."
+upgrades.mushroomfarmquickgrowth.title,Fast Growth
+upgrades.repellentbattlehealthreduction.desc,"Weaken all monsters, causing them to take more damage when hit."
+loadout.versusmod.versusmodifierstrongmonsters,Healthy Monsters
+leaderboard.failed,Det gick inte att ladda topplistan.
+properties.sword.reflectprojectilesexplosive,Reflekterade energiprojektiler blir explosiva
+level.station.navbar.upgrades,Uppgraderingar
+upgrades.artillerymachinegun3.desc,Förbättra din luftvärnskanon.
+level.gameover.unlock.pet,Nytt husdjur upplåst!
+upgrades.domesupplementelectrifiedsurface2.title,Elektrifierat skrov 2
+upgrades.keeper3shuriken2.desc,"Reduce the Shuriken cooldown, allowing you to throw them more frequently."
+upgrades.artillerysplash2.desc,Avfyra två granater i snabb följd.
+loadout.mode.hud,Gränssnitt
+upgrades.keeper4flexible2.title,Agility 2
+upgrades.shieldbattlereflectshortuses.desc,Reflektera oftare under en kortare stund.
+upgrades.rocketlauncherdamage2.title,Deadly Missiles
+upgrades.domesupplementscraprepair1.title,Skrotreparation
+upgrades.keeper2bundle3.title,Gravitationscenter
+upgrades.keeper2bundle2.desc,Enable directional control of a dropped bundle at close range.
+upgrades.keeper3shurikencooldown2.desc,Reduces the Shuriken cooldown even further.
+upgrades.suitblaster.title,Suit Blaster
+upgrades.prestigeiron.title,Skicka järn
+properties.shockwave.cooldown,Väntetid {}s
+options.input.controls.keepersettings.desc,Väktare använder de globala inställningarna som standard. Du kan åsidosätta dem här med individuella inställningar per väktare. Du kan till exempel vilja ha olika knäppningsinställningar beroende på väktare eller handling.
+options.keybindings.action.keeper.gravityball,Skjut
+upgrades.liftorbs.desc,Lägger till ytterligare ett hissklot.
+options.input.controls.mouse.gamepad,Växla till en handkontroll och tillbaka upptäcks automatiskt.
+properties.probe.detectchambers,Upptäck kamrar
+landing.proceed.ps5,Tryck på vad som helst för att fortsätta
+upgrades.condenserautocollect.title,Automatisk insamling
+multiplayer.error.hostcrossplaydisabled,Kan inte ansluta till lobbyn eftersom värden har korsspel avstängt och är på en annan plattform.
+upgrades.repellent.title,Avskräckningsmedel
+loadout.team.color,Team Color
+options.game.tutorials.resettutorials,Återställ genomgångar
+options.accessibility.critters.explanation,"Inaktivera maskar, kryp och spindelliknande odjur som leker i gruvan som visuella effekter. (Påverkar inte spelet)"
+upgrades.prospectionmeterrange1.desc,Increase the detection range of the prospecting meter.
+upgrades.drillsidepull.title,Mineral Transportation
+options.accessibility.highlightmonsters.explanation,"Skapar en skarp siluett omkring monstren, så att de blir lättare att se."
+upgrades.keeper2bundle1.desc,Show a marker directly below the dome to indicate where to shoot bundles upwards.
+upgrades.assignmentsemergencycontribution6.title,Emergency Contribution 20
+upgrades.keeper4ramping3.title,Momentum 3
+upgrades.swordblade1.desc,Gör att svärdet hugger hårdare och snabbare.
+upgrades.probedetectchambers.title,Upptäck kamrar
+loadout.mode.shortcycles,Short Cycles
+upgrades.proberange3.desc,Öka sondens räckvidd.
+upgrades.prestigespeedup.title,Förkorta cykler
+loadout.prestige.endless.description,No limits on time or resources for very long runs.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"Ställ in värdet så att mätaren inte rör sig om du bara snuddar vid spakarna utan att förflytta dem.
+
+Om du flyttar spaken ska mätaren röra sig."
+upgrades.blastminingblast3.title,Explosion 3
+upgrades.swordextendlong1.desc,Starkare hugg och möjlighet att styra svärdet i luften.
+properties.autocannon.rateoffire,Eldhastighet {.percent}
+upgrades.assignmentsemergencycontribution4.title,Emergency Contribution 11
+assignment.minorvision.desc,The dark shadows on this planet consume all light.
+options.audio.volumes,Volym
+unlock.host.locked.ps5,Host does not own the add-on '%s'.
+loadout.versusmod.versusmodifiershortcycles.desc,The time between monster waves is shorter.
+upgrades.keeper2pinballexplode2.title,Förbättrad explosion
+multiplayer.host.local,Lokal
+options.video.graphicsmode.fullscreen,Helskärm
+properties.keeper3.kunaidamage,Kunai Damage {}
+options.game.screenshake.shakewhenmining,Skaka vid grävning
+upgrades.dome2.title,Svärdskupol
+properties.tesla.damage,Skottskada {}
+loadout.mode.doubleiron,Massa järn
+upgrades.keeper4punch1.title,Frenzy
+level.gameover.unlock.versus,Versus mode unlocked!
+upgrades.artillerydoublemachinegun.desc,Install a second barrel for the anti-air gun onto your dome.
+level.converter.popup.conversion.time,över {time} cykler
+options.translation.title,VÄLJ SPRÅK
+loadout.prestige.pro.title,Anpassade inställningar
+multiplayer.host.title,Skapa en flerspelarläge session
+properties.keeper4.movespeed,Rörelsehastighet {}
+options.input.gamepad.thumbstick.xbox,Stick
+upgrades.furnacelastingironfiring.title,Hållbart järnbränsle
+upgrades.shieldoverchargestrength1.title,Extraladda sköldstyrka 1
+multiplayer.error.modsmismatched,Din modlista matchar inte värdens. Kan ej ansluta.
+upgrades.laserhitprojectiles.desc,Energiprojektiler löses upp omedelbart när lasern träffar dem.
+upgrades.probepermanentrevealtiles.desc,All of the area that the probe scans is permanently revealed.
+options.keybindings.action.keeper.jump,Hoppa
+upgrades.repellentdelay2.title,Fördröjning 2
+upgrades.keeper3shuriken1.title,Shuriken
+upgrades.probelongmarker2.desc,The resource markers will remain for many cycles.
+properties.shockwave.stunduration,Chockvaraktighet {}s
+level.tutorial.teleporter.teleport1.switch,"When close to the portal, press | to teleport back."
+options.game.alwaysshowping,Always show Server Ping
+loadout.choices.locked,Inte upplåst
+upgrades.prospectionmetersand1.title,Koboltmätare
+upgrades.drill2.title,Borrstyrka 2
+level.gameover.findimages,Sparad till
+level.tutorial.resourcepacker.popup_1.switch,"When close to resources, press | to pack them into a compact bundle that is easier to transport."
+reward.rewardpostrunshowmonstercount.title,Additional Battle Statistics
+upgrades.drill.title,Borrningsutrustning
+upgrades.versusincreasewave1.desc,Permantently increase the monster wave strength for the other team.
+upgrades.swordstabfast1.desc,Hugg snabbare och oftare.
+properties.sword.slicebrake,Hastighetstapp vid skärning {.percent}
+upgrades.lasermove3.desc,Maxhastighet för lasern.
+upgrades.prestigewatermultiplier.desc,Send back water. Increases how many prestige points you get after each wave.
+upgrades.domesupplementresurrection1.desc,"Istället för att bli förstörd, kommer din kupol att läka helt och bli osårbar under en tid. Endast en gång."
+upgrades.swordextendlong3.title,Långt hugg 3
+properties.repellent.wavedelay,Vågfördröjning (cykler) {}
+upgrades.domewavepathtodome.desc,"När vågvarnaren ljuder, kommer den också att visa den kortaste vägen tillbaka till din kupol."
+level.tutorial.ninja.carry,Kunai Carrier
+upgrades.dome4.desc,Toppmodern kupol som utnyttjar elkraft på ett aldrig tidigare skådat sätt.
+upgrades.prospectionmeterwater2.title,Vattenkompass
+multiplayer.techtree.keeperexclusivegadget,Denna pryl påverkar endast din väktare
+options.keybindings.action.dome,Kupol
+upgrades.drillbotbuff1.title,Godis
+versus.corruption.desc,Choose a corruption that will affect the monsters attacking the other team!
+upgrades.swordstabshoot.title,Spjut
+properties.dome.projectiledamagereduction,Skadereducering för projektil {.percent}
+upgrades.drillbotbuffstrength2.desc,Efter att ha fått godis blir inte Borris trött på länge.
+leaderboard.global,Global
+options.game.blocklist.unblockall,Unblock all
+upgrades.swordlongblade1.title,Lång klinga 1
+properties.mushroomfarm.drillbuff,Mining Strength Buff {}
+properties.spire.splitshotspeed,Delat skotthastighet {}
+options.keybindings.action.dome.upgrade,Uppgraderingar
+upgrades.teslaspeed3.title,Siktets hastighet 3
+upgrades.domehealthmeter.title,Hälsomätare
+properties.extractor.additionalresources,Ytterligare resurser {}
+upgrades.domesupplementcombatrepair3.desc,"Automatisk reparation aktiveras tidigare, efter färre skador."
+upgrades.furnacelastingironfiring.desc,Make each piece of iron last longer in the furnace.
+properties.dome.resurrectinvulnerability,Osårbarhet efter återupplivning {}s
+upgrades.assignmentssendwater.desc,"Deliver water to the Keeper's Guild. To succeed with the assignment, you need to send back all the available deliveries."
+options.game.autopickupresources,Automatically pick up Resources
+upgrades.repellentbattledamageovertime.desc,Alla monster tar lite skada för varje sekund giftångorna består.
+upgrades.artillerydirecthit3.desc,Öka den destruktiva potentialen hos dina granater.
+upgrades.domearmorprojectile1.title,Projektilpansar 1
+upgrades.keeper4catgoblindig3.desc,Catgoblins will destroy tiles while digging.
+upgrades.stunlaserarea.desc,Creates a stun blast around the target monster that stuns all nearby monsters. The area grows and deals more damage the more monsters there are in it.
+level.tutorial.teleporter.carry2,Håll in | för att plocka upp portalen igen när du står i närheten av den.
+level.tutorial.teleporter.carry3,Om du trycker på | teleporteras du tillbaka.
+upgrades.keeper2pinballreflect.title,Reflektionsfält
+upgrades.probepermanentrevealtiles.title,Visa berget
+loadout.versusmod.versusmodifierfastmonsters.desc,Monsters move faster.
+level.tutorial.teleporter.carry1,Du kan flytta portalen vart du vill.
+level.tutorial.pickup.popup_1.switch,Press | to pick up a resource.
+options.input.gamepad.autoswitch.xbox,Automatisk identifiering av föredragen handkontroll
+options.accessibility,Tillgänglighet
+upgrades.teslapersistance2.desc,De elektriska kloten är större och varar längre.
+properties.sword.reflectionacceleration,Hastighet på reflekterade projektiler {.percent}
+upgrades.artillerygrenadefastreload.title,Snabb omladdning
+upgrades.keeper2pinballreflect.desc,Place a stationary reflection field that reflects kinetic spheres. Spheres are slightly powered up after each reflection.
+options.keybindings.action.keeper,Väktare
+upgrades.drillbotbuffstrength1.desc,Godis ger Borris energi längre.
+upgrades.versussendiron.desc,Deliver iron to the Keeper's Guild. Send back all available deliveries to achieve victory over the opposing team.
+upgrades.keeper2pinballmorespheres1.desc,Increase the number of kinetic spheres you can carry.
+properties.rocketlauncher.rechargetime,Tid för att ladda om {}s
+upgrades.domesupplementadditionalcellar.title,Djup källare
+upgrades.blastminingstickycharge.title,Klibbiga riktade laddningar
+level.tutorial.assessor.explode.desc1,Hit|to explode all spheres in your vicinity.
+upgrades.furnacestrongironfiring.title,Förbättrat järnbränsle
+assignment.monstermasses.title,Monsterhorder
+options.input.gamepad.gamepadstickdeadzone.switch,Dödzon för styrspakar
+properties.stunlaser.areastunstrength,Chockområdeseffektivitet {.percent}
+upgrades.dome1health2.desc,Ökar din kupols maxhälsa permanent.
+upgrades.probepermanentrevealresources.title,Avslöja resurser
+upgrades.swordfastreflection.desc,Reflekterade projektiler flyger tillbaka snabbare.
+properties.autocannon.shotgun,Hagelgevär hagel {}
+loadout.difficulty.medium,Brutalt
+multiplayer.join.joincodeinput,Ange ansökningskod
+properties.keeper4.maxspeedupatpunches,Fastest Speed After {} Punches
+properties.monstermodifiers.health,Monster Health {.percent}
+loadout.versusmod.versusmodifierfastmonsters,Fast Monsters
+upgrades.shieldoverchargestrength1.desc,Stärker den överladdade kupolskölden så att den kan absorbera mer skada.
+properties.probe.charges,Laddningar {}
+reward.rewardthreechoicessupplement.title,Three Supplement Offers
+upgrades.domesupplementscraprepair1.desc,Implementera provisoriska kupolreparationer med järn. Minskar den övergripande strukturella hälsan.
+level.tutorial.tesla.panel1content1,Move the reticle across the screen to aim.
+upgrades.shockwavebig.desc,The shockwave deals a vast amount of damage which can even annihilate some stronger monsters.
+multiplayer.continue.allowmultiplayererror,Kan inte fortsätta flerspelarläge online eftersom du inte har “Aktivera onlinespel” ikryssat i inställningsmenyn.
+loadout.hint.multiplayer.playerminimum,Need at least two players to start a multiplayer run.
+upgrades.artillerymachinegunhoming2.title,Målsökande raketer 2
+upgrades.repellentbattleslowdownstun2.title,Stark paralysering
+upgrades.shockwave.abilityname,Chockvåg
+upgrades.jetpackspeed1.title,Hastighet 1
+upgrades.teleporterteleportduration1.title,Teleporteringstid
+upgrades.autocannonrateoffire3.title,Kulspruta 3
+properties.monstermodifiers.totalrunweightmodifier,Multiplikator för vågstyrka {.percent}
+upgrades.swordstabfast1.title,Snabbt hugg 1
+upgrades.swordstabfast3.title,Snabbt hugg 3
+properties.tesla.quickshotstrength,Quick Shot Strength {.percent}
+upgrades.keeper2pinballdamage3.desc,Ytterligare ökar omladdningstiden för kraftfullare kinetiska sfärer.
+title.navbar.options,Alternativ
+upgrades.domearmormelee2.desc,Decrease how much damage the dome takes from melee attacks.
+upgrades.shieldbattleelectroblast.title,Elektrisk stöt
+properties.spire.stuntrapradius,Radie {}
+options.audio.volumes.ambiencevolume,Atmosfär
+loadout.mode.drillbert.desc,"Start with Drillbert and Blast Mining, but the keeper cannot upgrade mining skills. Unlimited Drillbert supply."
+loadout.versus.team.closed,closed
+properties.keeper4.goblinnapduration,Catgoblin Nap Duration {}s
+properties.keeper2.reflectnexthitdamage,Additional Damage on Next Hit {.percent}
+upgrades.orchardbattlerootingmore.title,Starka rötter
+multiplayer.error.connection,Misslyckades att ansluta
+keeperdlc.load.missing.ps5,"Cannot load save, it contains unavailable add-on content. Please ensure 'The Lost Keepers' add-on is available."
+level.tutorial.fruit.popup_2.switch,"When next to it, press | to consume it."
+loadout.versusmod.versusmodifierlittlecobalt,Cobalt Shortage
+reward.rewardpet12.desc,Unlock the dog as a pet for your dome.
+multiplayer.host.joincodelabel,Ansökningskod
+upgrades.swordstabfast2.desc,Hugg ännu snabbare och oftare.
+properties.dome.incomingdamagemodifier,Received Damage {.percent}
+properties.sword.stabexplosivedamage,Bombskada {}
+properties.blastmining.bombs,Sprängladdningar {}
+properties.resourcepacker.charges,Laddningar {}
+upgrades.assignmentsemergencycontribution1.desc,Send this package before the 2nd wave ends or fail this assignment.
+properties.artillery.machinegunbarrels,Luftvärn {}
+properties.artillery.gunaimline,Lasersikte
+upgrades.jetpackstrength4.desc,Förbättrar jetpacken så du kan bära mer resurser.
+loadout.mode.nomonsters.desc,Landa på en värld utan några monster alls.
+telemetry.eula,Läs EULA
+upgrades.condenserspeed1.title,Produktionshastighet 1
+upgrades.mushroomstack.desc,"Stack the duration of each buff, gaining longer-lasting buffs by consuming many mushrooms."
+upgrades.keeper2pinballexplode2.desc,Increase the magnitude of the explosions from the kinetic spheres.
+versus.message.disruption,The other team just strengthened your monster waves permanently.
+loadout.mode.strongmonsters.desc,Monsters will deal double damage.
+upgrades.tesla.desc,Förbluffa omvärlden med elektricitet. Helst i ansiktet. Med flera tusen volt.
+properties.drillbot.turnaround,Vänd om vid hårda väggar
+upgrades.keeper2movement3.desc,Förbättra din gravitationsgenerator för snabbaste rörelsehastigheten.
+level.tutorial.onewayteleporter2,Press|to place the portal. Press again to teleport back to it.
+upgrades.domearmormelee2.title,Närstridsrustning 2
+upgrades.drillbotbuffstrength2.title,Taurintillskott
+level.tutorial.onewayteleporter3,It recharges automatically.
+upgrades.keeper4extraresource.desc,Catgoblins will sometimes harvest an extra resource from a tile by carefully digging.
+upgrades.drillbotduo.desc,"Bring in Drillbert's cousins Diggory and Minerva to help with mining. Being in comforting company, they won't get scared during monster waves and keep digging instead."
+properties.tesla.perfecttimingwindow,Tidsfönster {}s
+loadout.mode.strongmonsters,Tunga kämpar
+pause.quittotitlescreen,Avsluta till titelskärmen
+properties.keeper3.shurikenstrength,Explosionsradie (rutor) {}
+telemetry.privacy,Mer information om våra datarutiner finns i vår Integritetspolicy http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,Missilerna blir mer dödliga.
+keybindings.reset.doreset.xbox,Återställ min tangentbordslayout
+upgrades.keeper3carrylimit3.desc,Increase the number of resources you can haul on your Kunai carrier.
+upgrades.autocannondoublefirerate.desc,The auto cannon fires much faster. Simple and effective.
+upgrades.autocannon.title,Automatkanon
+upgrades.artillerymachinegunhoming1.title,Målsökande raketer 1
+level.tutorial.assessor.carry.desc1_1.switch,"Once locked onto you, they will follow you even if you release the collect button."
+upgrades.swordlongblade1.desc,Installerar en längre och snabbare klinga.
+loadout.team.players,Players
+options.keybindings.gamepad.xbox.view,Tillbaka
+options.keybindings.action.keeper.rope,Fling rep
+upgrades.mushroomfarm.title,Svampodling
+loadout.prestige.title,Välj Spelläge
+upgrades.prospectionmeterrange1.title,Räckvidd 1
+upgrades.keeper3doublejump.title,Dubbelhopp
+upgrades.keeper3kunaibounce1.desc,"Display the Kunai's predicted bounce path and landing point. Each bounce reverberates through the stone, revealing nearby tiles."
+upgrades.repellentbattlelongerhealthreduction.title,Intensiv försvagning
+loadout.versusmod.versusmodifierlittlewater,Water Shortage
+upgrades.mushroomfarmdrill1.title,Svamputvinning 1
+loadout.versusmod.versusmodifierscatterediron,Scattered Iron
+level.converter.popup.conversion.convert,omvandling
+properties.droneyard.overchargebattledronecount,Ytterligare stridsdrönare {.percent}
+reward.rewardfreerolls1.desc,One free reroll of the gadget or supplement choices per run.
+multiplayer.host.splitscreen,Aktivera lokalt delad skärm
+properties.converter.cobalttoiron,1 kobolt till {} järn
+loadout.mode.automateddefense,Automatiserat försvar
+options.input.gamepad.gamepadstickdeadzone.xbox,Dödzon för styrspakar
+level.converter.popup.explanation,Välj en resursomvandling att påbörja!
+upgrades.dome1health2.title,Hälsa 2
+upgrades.stunlaserduration3.desc,The stun laser cools down extremely fast and has a significantly extended firing duration.
+upgrades.assignmentsemergencycontribution5.desc,Send this package before the 16th wave ends or fail this assignment.
+pause.gamepadcontrols.use,Använd
+properties.spire.stunmonsters,Chocka monster
+upgrades.assignmentssendcobalt.desc,"Leverera kobolt till Väktargillet. För att lyckas med uppdraget, måste du skicka tillbaka alla tillgängliga leveranser."
+upgrades.mushroomfarmspeed1.desc,Improve the speed buff obtained from consuming mushrooms.
+upgrades.keeper2pinballmorespheres1.title,Sfärförsörjning
+upgrades.rocketlauncherrockets2.desc,Öka mängden missiler du kan avfyra.
+options.keybindings.gamepad.xbox.menu.xbox,Menyknapp
+upgrades.swordstabfast3.desc,Hugg ännu snabbare och oftare.
+properties.shield.overchargestrength,Extraladdningsstyrka {} hälsa
+upgrades.droneyarddronespeed1.desc,Förbättra dina transportdrönares hastighet.
+upgrades.liftorbs.title,Additional Orbs
+properties.keeper3.carrylimit,Kunai Carrier Capacity {}
+options.video.graphicsmode.photosensitive,Ljuskänslighetsläge
+upgrades.keeper2pinballdamage1.title,Kinetiska sfärer 1
+reward.rewardkeeper3skin1.title,Infiltrator Skin
+level.tutorial.ninja.gadgetpickup.desc1,Gadgets are not automatically picked up.
+properties.converter.ironperwater,{} järn per vatten
+properties.spire.capacity,Shots Before Recharge {}
+level.tutorial.ninja.gadgetpickup.desc2,Hold| to pick up a gadget.
+loadout.versusmod.versusmodifierlittlewater.desc,The map contains minimal water deposits.
+upgrades.drillbotstrength3.desc,Ger Borris högre grävstyrka.
+upgrades.spirestuntrap3.title,Monsterfälla
+upgrades.shredgadgettocobalt.desc,Bryt ner prylen och få {amount} kobolt.
+upgrades.converterefficientcobalt.title,Effektiv koboltomvandling
+options.input.vibration.strength.switch,Vibrationsstyrka
+properties.sword.reflectprojectiles,Reflektera energiprojektiler
+reward.rewardfreerolls2.desc,One additional free reroll of the gadget or supplement choices per run.
+level.tutorial.station.popup_2.switch,Move to the station and press | to enter it.
+upgrades.versus.desc,"Two domes, two teams, competing against each other until only one remains."
+upgrades.dome2.desc,"Experimentell kupol med ett kraftfullt svärd som kräver skicklighet, men som kan besegra även de starkaste anfallarna."
+upgrades.drillmagnetic.desc,"The casings of the downward drills become magnetic, holding all mined resources in place."
+assignment.harmfuliron.title,Hazardous Iron
+level.tutorial.sworddome.stabbing,Hugga
+options.input.gamepad.icons,Ikoner
+upgrades.shredgadgettoiron.desc,Bryt ner prylen och få {amount} järn.
+upgrades.assignmentsemergencycontribution6.desc,Send this package before the 20th wave ends or fail this assignment.
+properties.droneyard.battledroneshots,Skott per drönare {}
+level.gameover.lose.title,DU HAR FÖRLORAT KUPOLEN
+loadout.difficulty.title,Svårighetsgrad
+properties.artillery.maxrotation,Maximal rotation {}°
+upgrades.shockwavestun2.desc,Öka bedövningsförmågan hos chockvågen.
+unlock.host.locked,Host does not own the DLC '%s'.
+multiplayer.host.splitscreen.desc,Använd handkontroller i utrustningsmenyn för att lägga till fler väktare. Upp till fyra väktare kan dela samma skärm. Kan kombineras med lokalt nätverk eller flerspelarläge online.
+telemetry.explanation,"För flerspelarläge online ansluter du till vår tjänst för att hitta andra spelare och gå med i deras spel, eller vara värd för egna spel.
+Detta är valfritt och du kan när som helst aktivera eller inaktivera det. Upprepade anslutningar till en backend—även med ett anonymt konto—är relevant enligt GDPR.
+Vi samlar inte in någon personlig information och det finns heller ingen telemetri som spårar dina spelomgångar.
+Om du inte aktiverar flerspelarläge online kan du fortfarande spela flerspelarläge på en enhet i delad skärm eller via ditt lokala nätverk.
+
+Du kan ändra denna inställning när som helst i inställningarna."
+gadget.slot.supplement,Tillägg
+upgrades.droneyardovercharge2.desc,Drönare är starkare efter överladdning av drönarvarvet.
+level.furnace.popup.fuel.burn,Varje|varar i {cycles} cykler och försenar monstren med ytterligare {seconds} sekunder.
+options.input.controls.nooptions,Det finns inga individuella %s inställningar för denna väktare tillgänglig.
+upgrades.versusshowinventory.desc,Allows you to see the other team's inventory when monitoring their dome.
+properties.keeper1.drillstrength,Borrstyrka {}
+upgrades.keeper1.desc,Ett skickligt och effektivt proffs som är expert på gruvdrift.
+leaderboard.friends,Vänner
+gadget.slot.activegadget,Sekundär stridsförmåga
+upgrades.keeper2.desc,En sofistikerad gruvarbetare som använder experimentell kinetisk energi och gravitationsteknik.
+upgrades.keeper2pinballsplit2.title,Förbättrad delning
+upgrades.keeper2movement1.title,Gravitationsrörelse 1
+upgrades.keeper2pinballexplode.title,Explodera sfärer
+upgrades.keeper3kunaidamage4.desc,Increase the mining power of your kunai. Kunai are especially weak against very dense rock.
+upgrades.spireautonomy1.desc,A simple AI will control the spire even when you are not inside the control station.
+properties.droneyard.dronespeed,Drönarhastighet {}
+upgrades.teslaquickshot.title,Snabbskott
+assignment.megacreeps.title,Survival of the Fittest
+upgrades.shieldbattleactivateondepletion.title,Aktivera vid intrång
+versus.corruptionbigwave.title,Killer Wave
+upgrades.lasermove3.title,Rörelsehastighet 3
+upgrades.swordelectrified.title,Elektrifierad klinga
+upgrades.artillerymachinegun1.title,Förbättrad luftvärnskanon
+level.tutorial.beastmaster.move.desc2,You can only move if there is something to grab onto.
+options.accessibility.fontsize.small,Liten
+assignment.unpredictable.desc,"The planet's atmosphere is interfering with the dome's proximity meter, preventing enemy waves from being tracked."
+level.tutorial.beastmaster.move.desc1,Use the tentacles to move through the mine.
+upgrades.suitblasterdirectional.desc,"When moving in a direction, the suit blaster will blast a long tunnel. Radial blasts can still be achieved by not moving when triggering the suit blaster."
+level.tutorial.teleporter.take1,Din teleporter har en station och en portal. Du kan teleportera mellan dem.
+options.audio.music.ost.mode.fixed.desc,"Spela låtar från följande Keepers soundtracks, oavsett vilken väktare du väljer."
+level.tutorial.teleporter.take2,Ta portalen och placera den var du vill.
+level.gameover.assignment.failed,Du misslyckades med Väktargillets uppdrag.
+telemetry.manage,Inaktivera onlinetjänster
+modding.restart,Starta om
+upgrades.orchardbattlerootingexplosion.title,Explosivt villebråd
+level.gameover.unlock.skin,Ny dräkt upplåst!
+upgrades.jetpackspeed3.desc,Förbättrar jetpacken så du rör dig snabbare.
+upgrades.repellentoverchargeduration2.title,Intensiv överbelastning
+upgrades.prospectionmeterwater1.desc,Visar avståndet till närmaste vattensamling.
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+upgrades.shieldbattlereflect.desc,Aktivera en aktiv stridsförmåga som reflekterar fiendens projektiler en kort stund.
+upgrades.stunlaserstun1.desc,Öka kraften i chockstrålen.
+multiplayer.error.gameresolved,Matchen har redan avslutats.
+upgrades.shieldbattlereflect.title,Reflektion
+options.audio.volumes.mastervolume,Huvudvolym
+upgrades.keeper2pinballdamage4.title,Kinetiska sfärer 4
+leaderboard.loading,Laddar...
+upgrades.droneyardparasites2.title,Parasitdrönare 2
+playerlist.title,Spelarlista
+upgrades.versusincreasewave2.desc,Permantently increase the monster wave strength for the other team.
+upgrades.rocketlauncher.title,Raketkastare
+upgrades.liftspeed1.title,Hastighet
+upgrades.rocketlauncherrockets2.title,Spärreld 2
+level.tutorial.blastmining.popup_1,Ta sprängladdningen och släpp den där du vill rensa undan stenar.
+upgrades.keeper3slidecontrol.title,Slide Control
+properties.furnace.wavedelay,Grundfördröjning {}s
+upgrades.mushroomfarmspeed2.desc,Improve the speed buff obtained from consuming mushrooms.
+upgrades.dome3.title,Artillerikupol
+properties.converter.ironirontime,Iron to Iron Conversion Time (Cycles) {}
+properties.laser.movespeed,Rörelsehastighet {}
+properties.stunlaser.damagepermonster,Områdesskador per monster {}dps
+upgrades.stunlaser.title,Chocklaser
+title.navbar.credits,Medverkande
+upgrades.drillbotbuffstrength1.title,Nyttigt godis
+level.tutorial.pickup.popup_1,Tryck på | för att plocka upp resurser.
+level.tutorial.pickup.popup_3,Håll in för att plocka upp flera.
+upgrades.blastminingtriple.title,Trippla laddningar
+upgrades.prospectionmeterscandelay1.desc,Öka hur snabbt mätarna uppdateras.
+upgrades.furnacelastingwaterfiring.desc,Make each unit of water last longer in the furnace.
+upgrades.versusincreasewave2.title,Sabotage 2
+upgrades.artillerymachinegun4.desc,Installera förstärkta vapenpipor som kan hantera extrema eldhastigheter.
+upgrades.teslaspeed4.title,Siktets hastighet 4
+upgrades.swordextendlong3.desc,Enorm huggstyrka och varaktighet.
+demo.end.title,Tack för att du spelade demo!
+upgrades.stationextensiontubemovement.title,Vakuumrörresa
+upgrades.keeper4squad3.title,Massive Squad
+upgrades.orchardbattleshield.desc,"Odla ett tak av klätterväxter ovanför din kupol, som skyddar den mot projektiler."
+properties.droneyard.battledronestrength,Parasitisk effekt {.percent}
+options.game.kunaicarriersnapping,Snap Kunai Carrier Aim to Cardinal Directions
+options.input.vibration.strength.xbox,Vibrationsstyrka
+upgrades.keeper2pinballspherelifetime.title,Sfärlivstid
+upgrades.furnace.title,Smältugn
+upgrades.shockwavedamage1.title,Stötvågsskada 1
+properties.orchard.drillbuff,Mining Strength Buff {}
+level.tutorial.station.popup_4,Tryck sedan på | för att aktivera stridsläge och försvara den.
+level.tutorial.teleporter_2,Använd teleporteringsstationen för att teleportera dig till portalen och vice versa.
+level.tutorial.station.popup_2,Gå till stationen och tryck på | för att gå in i den.
+pause.resumegame,Fortsätt spela
+actionhint.tap,Klicka
+level.tutorial.station.popup_1,Kupolen är under attack!
+multiplayer.error.timeout,Utkastad från flerspelarsession.
+telemetry.allow.ps5,Acceptera EULA
+landing.proceed.switch,Tryck på vad som helst för att fortsätta
+upgrades.condenserautoovercharge.title,Automatisk snabbladdning
+upgrades.keeper2pinballdestroyadjacenttiles.title,Cascading Impact
+level.converter.popup.queue,Upprepa konvertering automatiskt
+options.keybindings.cancel,Avbryt
+loadout.versus.condition.deathmatch.title,Last Dome Standing
+upgrades.domearmorprojectile1.desc,Decrease how much damage the dome takes from projectile attacks.
+pause.gamepadcontrols.move,Styr
+upgrades.keeper3kunaicooldown2.title,Rapid Throw
+upgrades.artilleryrotation2.title,Snabb Rotation
+loadout.gadget.additional.desc,Välj ytterligare en pryl!
+level.gameover.unlock.assignment,Uppgifter upplåsta!
+upgrades.domesupplementprojectiledamagereduction1.desc,Förbättra kupolskrovets avledning för att minska projektilskador. Närstridsskador påverkas inte.
+upgrades.blastminingproductiontime1.desc,Minskar tiden det tar att skapa sprängladdningar.
+upgrades.autocannonshotgun1.title,Hagelgevär 1
+loadout.hint.loadout,Packa klart din utrustning!
+assignment.condition.deliveriron,Leverera %d järn
+upgrades.drillbotduo.title,Brave Friends
+level.tutorial.assessor.carry.desc1_1.xbox,"Once locked onto you, they will follow you even if you release the collect button."
+multiplayer.error.nomods,Inga moddar får vara installerade.
+options.input.controls.keybindings.xbox,Knappbindningar
+upgrades.domearmorprojectile2.title,Projektilpansar 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"Ställ in värdet så att mätaren inte rör sig om du bara snuddar vid spakarna utan att förflytta dem.
+
+Om du flyttar spaken ska mätaren röra sig."
+upgrades.domesupplementcombatrepair2.title,Omfattande stridsreparation
+level.gadgetchoice.title,VÄLJ EN PRYL!
+properties.teleporter.slowdown,Carry Slowdown {.percent}
+upgrades.teslaspeed1.title,Siktets hastighet 1
+assignment.weapondefect.title,Defekt vapen
+properties.suitblaster.directionalexplosions,Riktad sprängverkan
+options.translation.community.title,Communityöversättningar
+options.audio.music.ost.mode,Soundtrackinställningar
+upgrades.teleporterteleportresourcesback.title,Teleportera resurser
+upgrades.orchardbattleshield.title,Tak av klätterväxter
+properties.drill.sides,Sidoborrmaskiner {}
+upgrades.teslaorbstun.desc,De elektriska kloten orsakar högre chockverkan.
+upgrades.repellentoverchargeduration2.desc,Öka effekten av att överladda stridsförmågor.
+properties.keeper2.totalspheres,Sfärer {}
+options.keybindings.action.general.up,Upp
+pause.quit.popup,"Vill du avsluta?
+Tryck igen för att göra det.
+(Dina framsteg sparas.)"
+upgrades.drillbotduplicate.desc,"Borris får en identisk tvilling, Borre."
+properties.suitblaster.radius,Explosionsradie (rutor) {}
+assignment.bigmapsparseresources.title,Kargt område
+upgrades.converterqueue.title,Automatiserad konvertering
+multiplayer.error.otherprestigeplayerquit,Spelet avslutades eftersom din lagkamrat lämnade spelet. Ditt spel har sparats och du kan fortsätta genom att välja flerspelarläge i fortsätt-menyn.
+level.tutorial.teleporter.teleport1,Tryck på | när du är nära portalen för att teleportera tillbaka.
+level.tutorial.teleporter.teleport2,Du kan även teleportera i den andra riktningen.
+playerlist.report,Rapportera
+upgrades.swordextendlong1.title,Långt hugg 1
+upgrades.spiresplit3.desc,Split projectiles can go off at any angle.
+upgrades.keeper3kunaicooldown3.desc,Throw Kunais more quickly.
+exhibition.title.press.anything,Tryck på vad som helst för att spela
+multiplayer.techtree.keeperexclusivesupplement,Detta tillägg gäller endast din väktare.
+options.input.gamepad.twinstick.xbox,Kontroller med dubbla styrspakar
+gadget.slot.keepersupplement,Kupoltillägg
+loadout.mode.maze,Labyrint
+upgrades.teleporter.title,Teleportör
+properties.keeper4.holesquad,Mining Squad Size {}
+level.tutorial.fruit.popup_1,Du har odlat din första bränslefrukt.
+upgrades.teslatiming1.desc,Shoot a much more powerful shot by shooting precisely at the moment the tesla is recharged and ready to fire.
+upgrades.converterefficientwaterlong.title,Intensiv behandling
+level.tutorial.fruit.popup_2,Tryck på | när du står bredvid den för att äta den.
+unlock.buy.keeperdlc.xbox,Unlocked by add-on '%s'.
+upgrades.autocannonspeed1.desc,Grease the cannon's gears for a significant movement speed increase.
+upgrades.probepermanentrevealresources.desc,Pinged resources are permanently revealed instead just being identified with a marker.
+properties.teleporter.teleportresourcescooldown,Resource Teleport Cooldown {}s
+upgrades.spire.desc,A defensive Spire that shoots down incoming projectiles.
+reward.rewardkeepersupplements.title,Keeper Supplements
+upgrades.condenser.desc,Lägger till en maskin under kupolen som sakta producerar vatten genom kondensering.
+upgrades.spiresplit3.title,Ground Split
+properties.drillbot.plantgrowthtime,Treat Growth Time (Cycles) {}
+modding.modio.showdownloaded,Show Downloaded Mods
+upgrades.stunlaserspeed1.title,Hastighet 1
+upgrades.resourcepackercharges.title,Laddningar
+upgrades.swordblade1.title,Förbättrade hugg
+loadout.versus.modifiers.desc,Choose modifiers for this run that will affect both your team and the other team. Modifiers are optional.
+level.tutorial.fullscreen.back,tillbaka
+options.accessibility.backgrounds.explanation,"Ersätt bakgrunder i varje värld med en ljus färg, för att minska visuellt brus i strid."
+upgrades.dome1health1.title,Hälsa 1
+loadout.prestige.pro.randomorder,Slumpmässig ordning
+assignment.superhardrockwithholes.desc,Berget är extremt tätt men full av naturliga grottor.
+upgrades.droneyardparasites.title,Parasitdrönare
+actionhint.hold,Håll
+properties.spire.timebetweenshots,Sikttid {}s
+properties.game.cyclespeed,Cykelhastighet {.percent}
+upgrades.artillerydirecthit3.title,Monsterförgörare 3
+loadout.mode.drillbert,Drillbert-läge
+upgrades.prestigecobalt.title,Skicka kobolt
+upgrades.rocketlauncher.desc,Fire target-seeking missiles at monsters. Must be manually triggered.
+title.message.close,Stäng
+options.game.events.enableseasonal,Aktivera säsongsinnehåll
+options.audio.music.ost.mode.fixed,Låst
+assignment.ironcontribution.desc,Guilden är i akut behov av järn och kräver att du levererar en stor mängd snabbt.
+properties.rocketlauncher.damageperrocket,Skada {}
+upgrades.keeper4.title,Beastmaster
+upgrades.laserbend.title,Svängbar laser
+unlock.host.locked.switch,Host does not own the downloadable content '%s'.
+level.supplementchoice.reroll.free, (%s) Reroll
+loadout.versusmod.versusmodifierconcentratediron,Concentrated Iron
+options.keybindings.rebinding.apply,Tillämpa
+properties.repellent.battledamageovertime,Monster tar {} skada per sekund
+upgrades.repellentdelay1.title,Fördröjning 1
+upgrades.converterefficientwatershort.desc,Gör vattenomvandlingen mycket snabbare.
+upgrades.domesupplementcombatrepair1.title,Stridsreparation
+level.tutorial.sworddome.slicing,Skära
+properties.drillbot.scared,Scared of Monsters
+title.navbar.credits.close,Stäng
+upgrades.condenserspeed2.desc,Reducerar tiden det tar att producera vatten ytterligare.
+upgrades.prospectionmeteriron2.desc,Visar åt vilket håll närmaste järnåder ligger.
+upgrades.keeper3carrylimit2.title,Bärförmåga 2
+loadout.versus.condition.irondelivery.desc,The team that delivers %s iron first wins.
+properties.mushroomfarm.speedbuffduration,Speed Buff Duration {}s
+upgrades.keeper4punch1.desc,"Your tentacle mining slowly builds up enourmous strength, but resets when changing direction."
+exhibition.level.heading,Är du kvar?
+keeperdlc.load.missing.xbox,"Cannot load save, it contains unavailable add-on content. Please ensure 'The Lost Keepers' add-on is available."
+upgrades.domesupplementresurrection2.desc,Få ytterligare en återupplivning.
+pause.gamepadcontrols.drop,Släpp
+level.gameover.stats.monsterskilled,Monster dödade
+level.gameover.timelapse,Timelapse
+upgrades.drill4.desc,Förstärker borren så du gräver snabbare.
+upgrades.prospectionmetersand1.desc,Visar avståndet till närmaste koboltåder.
+assignment.instagip.desc,The monsters on this planet are unnaturally brutal. Their attacks deal devastating damage to your dome.
+landing.proceed.xbox,Tryck på vad som helst för att fortsätta
+upgrades.drillsides.desc,Add a side driller to the central drill which can be moved around as needed.
+properties.dome.meleedamagereduction,Reduktion av närstridsskada {.percent}
+options.keybindings.action.keeper.throw,Kasta Kunai
+level.station.battle.navbar.artilleryflak,Kulspruta
+upgrades.teleporterlightweight.desc,Carrying the portal will barely slow you down.
+level.gameover.backtomainmenu,Tillbaka till huvudmenyn
+properties.sword.stabarrowhead,Större pilhuvud
+loadout.versus.team.open,öppna
+level.gameover.stats.mapsize,Kartstorlek
+upgrades.domesupplementelectrifiedsurface2.desc,Öka hur mycket skada monster tar när de attackerar kupolen.
+upgrades.prestigecobalt.desc,Skicka tillbaka kobolt. Ökar hur många prestigepoäng du får efter varje våg.
+options.video.renderscale.reset,Nollställ
+options.keybindings.text.xbox,"Anpassa kontrollinställningarna efter eget tycke.
+Du kan tilldela samma knapp till flera kategorier (t.ex. använda samma knappar för att styra din väktare och kupolens vapen)."
+options.audio.music.frequency,Frekvens (cykler utan musik)
+upgrades.rocketlauncherrockets3.desc,Öka mängden missiler du kan avfyra.
+options.input.controls.mouse.menus,Använd musen i menyer
+upgrades.artillerysplash4.title,Fyrfaldiga granater
+upgrades.keeper4catgoblindig3.title,Frenzied Digging
+properties.keeper4.catgoblincount,Catgoblin Count {}
+loadout.mode.hud.desc,Start with a fully upgraded HUD.
+upgrades.drillbotsleepless.title,Jobbträning
+assignment.maze.desc,"Denna planet har en labyrintliknande karta, full av korridorer och ojämna strukturer."
+level.tutorial.drop.popup_2.switch,Press | to drop one. Hold to drop many.
+upgrades.artillerysplash2.title,Dubbla granater
+loadout.select,Välj
+level.gameover.prestige.uploading.failed,"uppladdningen misslyckades, försöker igen"
+level.assignment.badges.available,Tillgängliga medaljer: %d
+level.tutorial.beastmaster.goblins,Catgoblins
+properties.autocannon.spray,Bullet Spray {.percent}
+upgrades.versusspycam.title,Spionkamera
+upgrades.shredgadgettoiron.title,Bryt ner till Järn
+upgrades.teslapersistance3.desc,De elektriska kloten är större och varar längre.
+upgrades.suitblasterspeed2.title,Laddhastighet 2
+properties.shield.battleuses,Användningar per strid {}
+properties.prospectionmeter.range,Räckvidd (rutor) {}
+upgrades.droneyard.desc,Install a yard for producing drones used in resource transportation and combat.
+upgrades.domearmorpulse.title,Reactive Pulse
+title.navbar.multiplayer.host,Starta flerspelarläge
+upgrades.spireburst.desc,"Fire in short bursts, defending effectively against salvos."
+upgrades.domearmor.desc,"Install a robust plating onto your dome, making it more durable."
+options.input.controls.mouse.gamepad.xbox,Växla till handkontroll och tillbaka upptäcks automatiskt
+unlock.difficulty.hard,Vinn en körning på brutal svårighet att låsa upp.
+versus.corruptionmonsterhealth.title,Healthy Monsters
+properties.probe.markerretention,Markörlås {} sek
+loadout.hint.gamemodecompletion,Ställ in ditt spelläge fullständigt!
+upgrades.suitblasterdirectional.title,Riktad laddning
+options.keybindings.rebinding.cancel,Avbryt
+unlock.host.locked.xbox,Host does not own the add-on '%s'.
+loadout.versusmod.versusmodifiernorelics,No Relics
+upgrades.autocannondoublefirerate.title,Snabbt Skjutande Kanon
+upgrades.blastmining.desc,Produce blast charges for explosive mining. Carry them into the mines and release to detonate.
+upgrades.converterqueue.desc,"After a conversion is finished, the generated resources will be automatically ejected and the same conversion will start again, if there are enough resources in the inventory."
+modding.modio.fetchsubscriptionsfailed,Error fetching mod.io subscriptions!
+upgrades.orchardbattleshieldsecondlayer.desc,Odla ytterligare ett lager av klätterväxter.
+unlock.generic,Lås upp genom att vinna en körning.
+loadout.versusmod.versusmodifiersoftrock.desc,The map has more soft rock.
+upgrades.assignments.desc,Acceptera en utmanande uppgift från Väktargillet och bevisa din kompetens.
+properties.probe.autorecharge,Automatisk omladdning
+assignment.instagip.title,Brutal Monsters
+upgrades.artillerysplash3.desc,Förbättra din granatkastare till att skjuta granater som har en enorm sprängradie.
+multiplayer.join.button,Gå med
+options.keybindings.action.general.move,Flytta
+upgrades.condenserautoovercharge.desc,Håller din primära pryl permanent extraladdad utan att förbruka vatten. Kondensatorns vattenproduktion försenas efter extraladdning.
+multiplayer.continue.deviceselection.title,Välj väktare!
+upgrades.autocannonautonomy.desc,Auto cannon activates even when you are not inside the control station.
+upgrades.swordaimline.title,Sikteslinje
+multiplayer.join.joinfromcode,Gå med
+properties.artillery.rotationspeedwhilemachinegun,Rotation Speed While Shooting {.percent}
+level.tutorial.artillery.panel2header,Luftvärn
+level.gameover.keepgadget.title,Välj en pryl att behålla till nästa spelomgång
+upgrades.domearmorprojectile2.desc,Decrease how much damage the dome takes from projectile attacks.
+upgrades.shieldbattledestructionprevention.title,Sista chansen
+upgrades.domeresourcecounters.desc,Visar antalet lagrade resurser och reparerar automatiskt kupolen under strid med lagrad kobolt.
+upgrades.spirestuntrap1.title,Energifälla
+upgrades.prospectionmeteriron2.title,Järnkompass
+loadout.mode.hyperactive,Snabba och Sköra
+upgrades.prospectionmeterwater2.desc,Visar åt vilket håll närmaste vattensamling ligger.
+options.video.stretchmode,Utsträckningsläge
+level.gameover.prestige.title,PRESTIGEOMGÅNG AVKLARAD
+upgrades.droneyardovercharge1.title,Överladda drönarvarvet
+title.navbar.updates.close,Stäng
+upgrades.teslaorbdamage.title,Superkonduktivitet
+upgrades.proberechargeafterbattle.title,Stationslös sond
+upgrades.assignmentssendwater.title,Leverera vatten
+upgrades.probecharges.title,Sondladdningar
+pause.gamepadcontrols.pickup,Plocka upp
+upgrades.prospectionmeter.title,Prospecting Meter
+upgrades.condenserspeed2.title,Produktionshastighet 2
+loadout.mode.hyperactive.desc,Monster är mycket snabbare men har mindre hälsa.
+upgrades.teleporterlightweight.title,Lättviktsportal
+versus.corruptionstunresistance.title,Stun Resistance
+loadout.versusmod.versusmodifierpoorirondeposits,Thin Iron Deposits
+level.gameover.prestige.uploading.finalfailed,"tyvärr, kunde inte ladda upp nya poängen!"
+modding.currentprofile,(Nuvarande profil)
+upgrades.versussendiron.title,Leverera järn
+loadout.assignment.title,Välj ditt uppdrag
+options.keybindings.rebinding,Ändrar inställning
+upgrades.teslaspeed2.title,Siktets hastighet 2
+level.tutorial.beastmaster.hole_1,Hold| to dig a hole in the back wall.
+level.tutorial.beastmaster.hole_2,"A catgoblin will soon emerge, connecting it to their tunnel system."
+upgrades.keeper3shurikenstrength2.title,Massive Shuriken
+upgrades.versusspycam.desc,Receive a new station which allows you to monitor the other team's dome.
+loadout.versusmod.versusmodifiershortcycles,Short Cycles
+options.accessibility.fontsize.large,Stor
+reward.rewardcentralmarker.desc,Markera mitten av gruvan med en vertikal linje.
+upgrades.shieldstrength3.desc,Stärker kupolskölden ytterligare så att den kan absorbera ännu mer skada.
+options.game.movementsnapping,Lås rörelse till väderstreck
+upgrades.laseraimline.title,Lasersikte
+upgrades.converterironduplication.title,Järnraffinering
+upgrades.jetpackspeed4.desc,Förbättrar jetpacken så du rör dig snabbare.
+options.keybindings.gamepad.xbox,Handkontroll
+upgrades.teslapower1.title,Skottstyrka 1
+gadget.slot.mineshaft,Gruvgång
+keybindings.reset.title,Nollställ tangentbordslayouten
+upgrades.autocannonrateoffire2.desc,Öka eldhastigheten ytterligare.
+multiplayer.join.localonly,Söker enbart efter lokala spel. Aktivera flerspelarläge online?
+upgrades.keeper3aerialmastery.title,Aerial Mastery
+upgrades.extractordestruction.desc,"Instead of withering inside their tunnels, the worms will collapse rocks they tunneled into, also destroying some surrounding rock."
+properties.repellent.battleabilityduration,Föremågetid {} sek
+upgrades.keeper4squad3.desc,Increases the number of Catgoblins in the squad and their endurance.
+level.gameover.prestige.score.rankimproved,Du höjde din rang till {rank}.
+options.game.tutorials.noneunlocked,Inga handledningar upplåsta.
+upgrades.droneyardparasites2.desc,Öka effektiviteten i dina parasitdrönare.
+loadout.prestige.provocation,Provokation
+network.error.generic,Network error.
+options.game.ropesnapping,Snap Rope and Aim Indicator to Cardinal Directions
+upgrades.keeper4catgoblindig1.title,Catgoblin Digging
+level.gameover.manualmove,Manuell kamera
+upgrades.domesupplementcombatrepair1.desc,Reparerar automatiskt kupolen en gång under striden efter att ha tagit en viss mängd skador. Konsumerar inte kobolt.
+upgrades.prospectionmeterscandelay1.title,Improved Scan Speed
+assignment.goaltype,Mål
+properties.keeper1.speedlosspercarry,Viktbegränsning {}
+upgrades.extractor.desc,Grow portable extractor worms that attach to iron clusters and efficiently extract them over time.
+unlock.mapsize.huge,Vinn en körning på en stor karta för att låsa upp.
+upgrades.liftcarrykeeper2.desc,Hissen ökar din hastighet ännu mer.
+loadout.mapsize.title,Kartstorlek
+loadout.difficulty.hard,Du bad om det
+upgrades.rocketlauncherdamage1.title,Improved Missiles
+versus.corruptionfastmonsters.title,Swift Monsters
+multiplayer.host.online.desc,Spelare från hela världen kan ansluta
+upgrades.keeper4speed3.desc,Greatly increases movement speed.
+network.error.offline,The connection to the network has been lost. Please check your network connection.
+level.tutorial.ninja.carry.desc1_1,Resources are automatically picked up by walking over them.
+upgrades.resourcepackerconstant.desc,"Near instant recharge makes the usage nearly unrestricted, in addition to improving bundle size and scaling."
+loadout.versusmod.versusmodifiersecondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+assignment.logistics.desc,The Keeper's Guild discovered abundant water on this planet and tasks you with handling the logistics.
+properties.shockwave.damage,Skada {}
+pause.gamepadcontrols.back,Tillbaka

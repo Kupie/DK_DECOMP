@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://b0ct63vi1cwd0"]
+
+[ext_resource type="Script" path="res://content/shared/drops/CarryInfluence.gd" id="1"]
+
+[node name="CarryInfluence" type="Node2D" groups=["carry_influence"]]
+z_index = -1
+script = ExtResource("1")

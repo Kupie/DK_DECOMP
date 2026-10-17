@@ -1,0 +1,165 @@
+[gd_scene load_steps=7 format=3 uid="uid://dr1i0vbqno3ox"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="2"]
+[ext_resource type="Script" path="res://stages/title/host_session_panel.gd" id="3"]
+[ext_resource type="FontVariation" uid="uid://c5l04pe7y0aer" path="res://gui/fonts/FontLarge.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="5"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_vu2ab"]
+
+[node name="HostSessionPanel" type="PanelContainer"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -500.0
+offset_top = -236.0
+offset_right = 469.0
+offset_bottom = 189.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1")
+theme_override_styles/panel = ExtResource("2")
+script = ExtResource("3")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="MarginContainer3" type="MarginContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="Label30" type="Label" parent="VBoxContainer/MarginContainer3"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("4")
+text = "multiplayer.host.title"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="PanelContainer" type="PanelContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="GridContainer" type="GridContainer" parent="VBoxContainer/PanelContainer/MarginContainer"]
+layout_mode = 2
+columns = 3
+
+[node name="LANButton" type="Button" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+focus_neighbor_right = NodePath("../PlayfabButton")
+toggle_mode = true
+button_group = SubResource("ButtonGroup_vu2ab")
+text = "multiplayer.host.local"
+
+[node name="PlayfabButton" type="Button" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+focus_neighbor_left = NodePath("../LANButton")
+toggle_mode = true
+button_group = SubResource("ButtonGroup_vu2ab")
+text = "multiplayer.host.online"
+
+[node name="Control" type="Control" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+
+[node name="LANLabel" type="Label" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+text = "multiplayer.host.local.desc"
+autowrap_mode = 3
+
+[node name="PlayfabLabel" type="Label" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "multiplayer.host.online.desc"
+autowrap_mode = 3
+
+[node name="Control2" type="Control" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+
+[node name="CrossplayPanelContainer" type="PanelContainer" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer/Control2"]
+unique_name_in_owner = true
+layout_mode = 2
+offset_left = 63.0
+offset_top = -102.5
+offset_right = 457.0
+offset_bottom = 57.5
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer/Control2/CrossplayPanelContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer/Control2/CrossplayPanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="CrossplayCheckBox" type="CheckBox" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer/Control2/CrossplayPanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "multiplayer.host.crossplay"
+
+[node name="CrossplayButton" type="Button" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer/Control2/CrossplayPanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+focus_mode = 0
+disabled = true
+button_mask = 0
+shortcut_feedback = false
+shortcut_in_tooltip = false
+text = "Crossplay disabled"
+autowrap_mode = 3
+
+[node name="Label" type="Label" parent="VBoxContainer/PanelContainer/MarginContainer/GridContainer/Control2/CrossplayPanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "multiplayer.host.crossplay.desc"
+autowrap_mode = 3
+
+[node name="SplitscreenCheckBox" type="CheckBox" parent="VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "multiplayer.host.splitscreen"
+
+[node name="Label3" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "multiplayer.host.splitscreen.desc"
+autowrap_mode = 3
+
+[node name="HSeparator" type="HSeparator" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="VBoxContainer/HBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+text = "title.navbar.credits.close"
+
+[node name="StartButton" type="Button" parent="VBoxContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+text = "multiplayer.host.start"
+
+[connection signal="focus_entered" from="VBoxContainer/PanelContainer/MarginContainer/GridContainer/LANButton" to="." method="_on_lan_button_focus_entered"]
+[connection signal="pressed" from="VBoxContainer/PanelContainer/MarginContainer/GridContainer/LANButton" to="." method="_on_lan_button_pressed"]
+[connection signal="focus_entered" from="VBoxContainer/PanelContainer/MarginContainer/GridContainer/PlayfabButton" to="." method="_on_playfab_button_focus_entered"]
+[connection signal="pressed" from="VBoxContainer/PanelContainer/MarginContainer/GridContainer/PlayfabButton" to="." method="_on_playfab_button_pressed"]
+[connection signal="pressed" from="VBoxContainer/PanelContainer/MarginContainer/GridContainer/Control2/CrossplayPanelContainer/MarginContainer/VBoxContainer/CrossplayCheckBox" to="." method="_on_crossplay_check_box_pressed"]
+[connection signal="pressed" from="VBoxContainer/SplitscreenCheckBox" to="." method="_on_splitscreen_check_box_pressed"]
+[connection signal="focus_entered" from="VBoxContainer/HBoxContainer/CancelButton" to="." method="_on_cancel_button_focus_entered"]
+[connection signal="focus_entered" from="VBoxContainer/HBoxContainer/StartButton" to="." method="_on_start_button_focus_entered"]
+[connection signal="pressed" from="VBoxContainer/HBoxContainer/StartButton" to="." method="_on_start_button_pressed"]

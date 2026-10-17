@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://test/SwarmTest.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://bq725ag0fsf50" path="res://content/monster/swarm/Swarm.tscn" id="2"]
+
+[node name="SwarmTest" type="Node2D"]
+script = ExtResource("1")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_left = -927.0
+offset_top = -497.0
+offset_right = 1082.0
+offset_bottom = 582.0
+color = Color(0.615686, 0.592157, 0.592157, 1)
+
+[node name="Swarm" parent="." instance=ExtResource("2")]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+zoom = Vector2(0.25, 0.25)

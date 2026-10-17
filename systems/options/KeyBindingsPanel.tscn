@@ -1,0 +1,221 @@
+[gd_scene load_steps=9 format=3 uid="uid://ctbgn7mhjntc7"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://systems/options/KeyBindingsPanel.gd" id="2"]
+[ext_resource type="FontVariation" uid="uid://g3vbmmqhudaf" path="res://gui/fonts/FontHeading.tres" id="3"]
+[ext_resource type="LabelSettings" uid="uid://b5aow2qb2h3pe" path="res://gui/fontsettings/HeadingFontSettings.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://qsc7kngg06e5" path="res://gui/fontsettings/SmallFontSettings.tres" id="5"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="6"]
+[ext_resource type="Script" path="res://systems/options/MouseRebind.gd" id="7"]
+[ext_resource type="FontVariation" uid="uid://c5l04pe7y0aer" path="res://gui/fonts/FontLarge.tres" id="8"]
+
+[node name="KeyBindingsPanel" type="ColorRect"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+theme = ExtResource("1")
+color = Color(0.0705882, 0.0705882, 0.101961, 0.733333)
+script = ExtResource("2")
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+
+[node name="PanelContainer" type="PanelContainer" parent="CenterContainer"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/PanelContainer"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer/MarginContainer"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="Label" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3")
+text = "options.input.controls.keybindings"
+label_settings = ExtResource("4")
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+text = "options.keybindings.text"
+label_settings = ExtResource("5")
+autowrap_mode = 3
+
+[node name="Titles" type="HBoxContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 2
+alignment = 1
+
+[node name="ActionLabel" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/Titles"]
+texture_filter = 4
+custom_minimum_size = Vector2(160, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.keybindings.action"
+label_settings = ExtResource("6")
+
+[node name="KeyboardLabel" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/Titles"]
+unique_name_in_owner = true
+texture_filter = 4
+custom_minimum_size = Vector2(250, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.keybindings.keyboard"
+label_settings = ExtResource("6")
+
+[node name="MouseLabel" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/Titles"]
+unique_name_in_owner = true
+texture_filter = 4
+custom_minimum_size = Vector2(250, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.input.controls.mouse"
+label_settings = ExtResource("6")
+
+[node name="GamepadLabel" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/Titles"]
+texture_filter = 4
+custom_minimum_size = Vector2(180, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.keybindings.gamepad"
+label_settings = ExtResource("6")
+
+[node name="Control" type="Control" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/Titles"]
+custom_minimum_size = Vector2(20, 0)
+layout_mode = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+texture_filter = 1
+custom_minimum_size = Vector2(660, 600)
+layout_mode = 2
+follow_focus = true
+horizontal_scroll_mode = 0
+
+[node name="KeyBindings" type="VBoxContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+theme_override_constants/separation = 8
+
+[node name="HSeparator" type="HSeparator" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.keybindings.cancel"
+
+[node name="ResetButton" type="Button" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.keybindings.restoredefault"
+
+[node name="ButtonApply" type="Button" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.keybindings.apply"
+
+[node name="ColorRect" type="ColorRect" parent="."]
+visible = false
+layout_mode = 0
+offset_right = 1920.0
+offset_bottom = 1080.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+color = Color(0.0705882, 0.0705882, 0.101961, 0.733333)
+script = ExtResource("7")
+
+[node name="CenterContainer" type="CenterContainer" parent="ColorRect"]
+layout_mode = 0
+offset_right = 1920.0
+offset_bottom = 1080.0
+mouse_filter = 2
+
+[node name="PanelContainer" type="PanelContainer" parent="ColorRect/CenterContainer"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="ColorRect/CenterContainer/PanelContainer"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="ColorRect/CenterContainer/PanelContainer/MarginContainer"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="RebindingTitleLabel" type="Label" parent="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3")
+horizontal_alignment = 1
+
+[node name="PanelContainer" type="PanelContainer" parent="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+mouse_filter = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer/PanelContainer"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="NewKeyLabel" type="Label" parent="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("8")
+horizontal_alignment = 1
+
+[node name="ErrorMessageLabel" type="Label" parent="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+horizontal_alignment = 1
+
+[node name="CaptureKeyControls" type="HBoxContainer" parent="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelInputButton" type="Button" parent="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer/CaptureKeyControls"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_neighbor_left = NodePath(".")
+focus_neighbor_top = NodePath(".")
+focus_neighbor_right = NodePath("../CaptureButton")
+focus_neighbor_bottom = NodePath(".")
+text = "options.keybindings.rebinding.cancel"
+
+[node name="CaptureButton" type="Button" parent="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer/CaptureKeyControls"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_neighbor_left = NodePath("../CancelInputButton")
+focus_neighbor_top = NodePath(".")
+focus_neighbor_right = NodePath("../ApplyInputButton")
+focus_neighbor_bottom = NodePath(".")
+text = "options.keybindings.rebinding.capture"
+
+[node name="ApplyInputButton" type="Button" parent="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer/CaptureKeyControls"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_neighbor_left = NodePath("../CaptureButton")
+focus_neighbor_top = NodePath(".")
+focus_neighbor_right = NodePath(".")
+focus_neighbor_bottom = NodePath(".")
+text = "options.keybindings.rebinding.apply"
+
+[connection signal="pressed" from="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2/CancelButton" to="." method="_on_CancelButton_pressed"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2/ResetButton" to="." method="_on_ResetButton_pressed"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/HBoxContainer2/ButtonApply" to="." method="_on_ButtonApply_pressed"]
+[connection signal="pressed" from="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer/CaptureKeyControls/CancelInputButton" to="." method="_on_CancelInputButton_pressed"]
+[connection signal="pressed" from="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer/CaptureKeyControls/CaptureButton" to="." method="clearCapture"]
+[connection signal="pressed" from="ColorRect/CenterContainer/PanelContainer/MarginContainer/VBoxContainer/CaptureKeyControls/ApplyInputButton" to="." method="_on_ApplyInputButton_pressed"]

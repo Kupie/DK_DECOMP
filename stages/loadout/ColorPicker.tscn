@@ -1,0 +1,33 @@
+[gd_scene load_steps=2 format=3 uid="uid://cw3810eup7wd5"]
+
+[ext_resource type="PackedScene" uid="uid://csiut4i08ma7m" path="res://stages/loadout/ColorChoice.tscn" id="1"]
+
+[node name="ColorPicker" type="GridContainer"]
+size_flags_horizontal = 4
+theme_override_constants/h_separation = 8
+theme_override_constants/v_separation = 8
+columns = 2
+
+[node name="ColorChoice1" parent="." instance=ExtResource("1")]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 0
+color = "color0"
+
+[node name="ColorChoice2" parent="." instance=ExtResource("1")]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 0
+color = "color1"
+
+[node name="ColorChoice3" parent="." instance=ExtResource("1")]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 0
+color = "color2"
+
+[node name="ColorChoice4" parent="." instance=ExtResource("1")]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 0
+color = "color3"

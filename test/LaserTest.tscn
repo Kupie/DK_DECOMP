@@ -1,0 +1,147 @@
+[gd_scene load_steps=4 format=3 uid="uid://blses6qn2uhyb"]
+
+[sub_resource type="GDScript" id="GDScript_3df1m"]
+script/source = "extends Node
+
+@export var devMode := false
+@export var tracking := true
+@export var demo := true
+@export var resetBetweenRuns := false
+@export var version := \".\"
+
+var screenshotIndex = 0
+var firing = false
+var direction = 1
+var timer = 3.0
+
+func _ready():
+	randomize()
+	GameWorld.devMode = true
+	GameWorld.resetBetweenRuns = resetBetweenRuns
+	GameWorld.version = \"v\"+str(version)
+	
+	Options.init()
+	
+	StageManager.startStage(\"stages/level/level\", [\"dome1\", \"orchard\", \"keeper1\", \"migration\"])
+
+	GameWorld.buyUpgrade(\"laserMove2\", \"team1\")
+	GameWorld.buyUpgrade(\"laserStrength2\", \"team1\")
+	GameWorld.buyUpgrade(\"laserAimLine\", \"team1\")
+	Data.apply(\"team1.laser.variant\", 0)
+	GameWorld.goalCameraZoom = 2
+	
+	# Add keys for switching weapons
+	var ev: InputEventKey
+	ev = InputEventKey.new()
+	ev.keycode = KEY_1
+	InputMap.add_action(\"test_laser1\")
+	InputMap.action_add_event(\"test_laser1\", ev)
+	ev = InputEventKey.new()
+	ev.keycode = KEY_2
+	InputMap.add_action(\"test_laser2\")
+	InputMap.action_add_event(\"test_laser2\", ev)
+	ev = InputEventKey.new()
+	ev.keycode = KEY_3
+	InputMap.add_action(\"test_laser3\")
+	InputMap.action_add_event(\"test_laser3\", ev)
+	ev = InputEventKey.new()
+	ev.keycode = KEY_4
+	InputMap.add_action(\"test_laser4\")
+	InputMap.action_add_event(\"test_laser4\", ev)
+
+
+func _input(event):
+	# Switch between lasers
+	var weapon = get_tree().get_nodes_in_group(\"team1-primaryweapon\")
+	if event is InputEventKey:
+		event = event as InputEventKey
+		if event.is_action_pressed(\"test_laser1\"):
+			Data.apply(\"laser.variant\", 0)
+			weapon[0].firing = false
+		if event.is_action_pressed(\"test_laser2\"):
+			Data.apply(\"laser.variant\", 1)
+			weapon[0].firing = false
+		if event.is_action_pressed(\"test_laser3\"):
+			Data.apply(\"laser.variant\", 2)
+			weapon[0].firing = false
+		if event.is_action_pressed(\"test_laser4\"):
+			Data.apply(\"laser.variant\", 3)
+			weapon[0].firing = false
+
+#func _process(delta):
+#	var weapon = get_tree().get_nodes_in_group(\"team1-primaryweapon\")
+#	weapon[0].inputReady = true
+#	if firing:
+#		weapon[0].move(Vector2(direction, -1), true, true)
+#	else:
+#		weapon[0].move(Vector2(direction, 0), true, true)
+#
+#	timer -= delta
+#	if timer <= 0:
+#		timer = randf() * 3 + 1
+#		direction = randi() % 3 - 1
+#		direction = 0
+
+func fire(variant):
+	Data.apply(\"laser.variant\", variant)
+	firing = true
+	
+func stop():
+	firing = false
+	
+"
+
+[sub_resource type="Animation" id="1"]
+resource_name = "default"
+length = 16.0
+loop_mode = 1
+tracks/0/type = "method"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 3, 4, 7, 8, 11, 12, 15),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1),
+"values": [{
+"args": [0],
+"method": &"fire"
+}, {
+"args": [],
+"method": &"stop"
+}, {
+"args": [1],
+"method": &"fire"
+}, {
+"args": [],
+"method": &"stop"
+}, {
+"args": [2],
+"method": &"fire"
+}, {
+"args": [],
+"method": &"stop"
+}, {
+"args": [3],
+"method": &"fire"
+}, {
+"args": [],
+"method": &"stop"
+}]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_vk366"]
+_data = {
+"default": SubResource("1")
+}
+
+[node name="LaserTest" type="Node"]
+script = SubResource("GDScript_3df1m")
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_vk366")
+}

@@ -1,0 +1,18 @@
+[gd_scene load_steps=2 format=3 uid="uid://cwch6yjt6bbct"]
+
+[ext_resource type="Script" path="res://content/weapons/turrets/machine_gun_turret.gd" id="1"]
+
+[node name="MachineGunTurret" type="Node2D" groups=["lostL"]]
+script = ExtResource("1")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_left = -2.0
+offset_top = -7.0
+offset_right = 1.0
+color = Color(0.999998, 0.995143, 0.523713, 1)
+
+[node name="Marker2D" type="Marker2D" parent="."]
+position = Vector2(0, 13)
+
+[node name="ProjectilePosition" type="Marker2D" parent="."]
+position = Vector2(0, -6)

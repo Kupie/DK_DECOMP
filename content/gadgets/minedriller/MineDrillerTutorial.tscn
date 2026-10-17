@@ -1,0 +1,92 @@
+[gd_scene load_steps=7 format=3 uid="uid://c6ybc4acd701e"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://content/gadgets/minedriller/MineDrillerTutorial.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://euyt0md4tfjh" path="res://content/gadgets/minedriller/mainarmsegment.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://bnbg0hi6l4jl1" path="res://content/gadgets/minedriller/grabber.png" id="4"]
+[ext_resource type="LabelSettings" uid="uid://qgs4khkkhaso" path="res://gui/fontsettings/NormalFontSettings.tres" id="5"]
+[ext_resource type="PackedScene" uid="uid://y24moy72idmu" path="res://gui/buttons/Action.tscn" id="6"]
+
+[node name="MineDrillerTutorial" type="MarginContainer"]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -813.0
+offset_top = -136.0
+grow_horizontal = 0
+grow_vertical = 0
+theme = ExtResource("1")
+script = ExtResource("2")
+summaryCategory = "upgrades.drill.title"
+moveOutAfter = 40.0
+moveInDelay = 1.0
+listeningDelay = 5.0
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer"]
+layout_mode = 2
+
+[node name="TextureRect" type="TextureRect" parent="PanelContainer/HBoxContainer"]
+texture_filter = 1
+custom_minimum_size = Vector2(44, 72)
+layout_mode = 2
+texture = ExtResource("3")
+stretch_mode = 4
+
+[node name="TextureRect3" type="TextureRect" parent="PanelContainer/HBoxContainer/TextureRect"]
+texture_filter = 1
+custom_minimum_size = Vector2(44, 36)
+layout_mode = 2
+offset_top = 36.0
+offset_right = 44.0
+offset_bottom = 108.0
+texture = ExtResource("3")
+stretch_mode = 4
+
+[node name="TextureRect2" type="TextureRect" parent="PanelContainer/HBoxContainer/TextureRect"]
+texture_filter = 1
+custom_minimum_size = Vector2(60, 40)
+layout_mode = 2
+offset_left = -8.0
+offset_top = -1.0
+offset_right = 52.0
+offset_bottom = 79.0
+texture = ExtResource("4")
+stretch_mode = 5
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer"]
+custom_minimum_size = Vector2(450, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "level.tutorial.drillingrig.popup1"
+label_settings = ExtResource("5")
+autowrap_mode = 3
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/HBoxContainer/VBoxContainer"]
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+size_flags_horizontal = 0
+
+[node name="Label1" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "When close to a side driller, hold"
+label_settings = ExtResource("5")
+
+[node name="Action" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer" instance=ExtResource("6")]
+custom_minimum_size = Vector2(10, 10)
+layout_mode = 2
+action = "ui_select"
+
+[node name="Label2" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "to move it along the drill shaft."
+label_settings = ExtResource("5")

@@ -1,0 +1,103 @@
+[gd_scene load_steps=10 format=3 uid="uid://ppccb4voa352"]
+
+[ext_resource type="Script" path="res://content/gadgets/rocketlauncher/Rocketlauncher.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://4jvpv3y2px1k" path="res://content/gadgets/rocketlauncher/rocketlauncher_sheet.png" id="2"]
+[ext_resource type="PackedScene" uid="uid://b4tr7hgnt3xh7" path="res://content/gadgets/rocketlauncher/RocketSprite.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="4"]
+[ext_resource type="AudioStream" uid="uid://c7gwrydu6sdpy" path="res://content/sounds/Weapons/artillery/loop_09 perc.wav" id="5"]
+[ext_resource type="AudioStream" uid="uid://bfwo2ou6ialxb" path="res://content/sounds/Locations/RocketLauncher/rocket_shoot_02.wav" id="6"]
+[ext_resource type="AudioStream" uid="uid://c47fqfovupdxx" path="res://content/sounds/Locations/RocketLauncher/rocket_shoot_03.wav" id="7"]
+[ext_resource type="Script" path="res://systems/network/Synchronizer.gd" id="8"]
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_tar1w"]
+streams_count = 2
+stream_0/stream = ExtResource("6")
+stream_1/stream = ExtResource("7")
+
+[node name="Rocketlauncher" type="Node2D" node_paths=PackedStringArray("synchronizer")]
+z_index = -10
+texture_filter = 1
+script = ExtResource("1")
+synchronizer = NodePath("Synchronizer")
+
+[node name="Sprite0" type="Sprite2D" parent="."]
+position = Vector2(27.5, -19.5)
+texture = ExtResource("2")
+hframes = 3
+vframes = 4
+
+[node name="rocket_parent_back" type="Node2D" parent="Sprite0"]
+
+[node name="Rocket4" parent="Sprite0/rocket_parent_back" instance=ExtResource("3")]
+position = Vector2(-9.5, -5)
+offset = Vector2(0.5, 0)
+
+[node name="Rocket5" parent="Sprite0/rocket_parent_back" instance=ExtResource("3")]
+position = Vector2(-2.5, -6)
+offset = Vector2(0.5, 0)
+
+[node name="Rocket6" parent="Sprite0/rocket_parent_back" instance=ExtResource("3")]
+position = Vector2(4.5, -7)
+offset = Vector2(0.5, 0)
+
+[node name="Rocket7" parent="Sprite0/rocket_parent_back" instance=ExtResource("3")]
+position = Vector2(11.5, -8)
+offset = Vector2(0.5, 0)
+
+[node name="Rocket8" parent="Sprite0/rocket_parent_back" instance=ExtResource("3")]
+position = Vector2(-16.5, -4)
+offset = Vector2(0.5, 0)
+
+[node name="rocket_parent_front" type="Node2D" parent="Sprite0"]
+
+[node name="Rocket1" parent="Sprite0/rocket_parent_front" instance=ExtResource("3")]
+position = Vector2(1.5, -2)
+offset = Vector2(0.5, 0)
+
+[node name="Rocket2" parent="Sprite0/rocket_parent_front" instance=ExtResource("3")]
+position = Vector2(-5.5, -1)
+offset = Vector2(0.5, 0)
+
+[node name="Rocket3" parent="Sprite0/rocket_parent_front" instance=ExtResource("3")]
+position = Vector2(8.5, -3)
+offset = Vector2(0.5, 0)
+
+[node name="Rocket10" parent="Sprite0/rocket_parent_front" instance=ExtResource("3")]
+position = Vector2(15.5, -4)
+offset = Vector2(0.5, 0)
+
+[node name="Rocket9" parent="Sprite0/rocket_parent_front" instance=ExtResource("3")]
+position = Vector2(-12.5, 0)
+offset = Vector2(0.5, 0)
+
+[node name="Sprite1" type="Sprite2D" parent="."]
+position = Vector2(27.5, -19.5)
+texture = ExtResource("2")
+hframes = 3
+vframes = 4
+frame = 1
+
+[node name="Sprite2" type="Sprite2D" parent="."]
+position = Vector2(27.5, -19.5)
+texture = ExtResource("2")
+hframes = 3
+vframes = 4
+frame = 5
+
+[node name="CannotFireSound" parent="." instance=ExtResource("4")]
+volume_db = -4.166
+pitch_scale = 1.78
+bus = &"World"
+randomVolume = 2.08165e-12
+randomPitch = 2.08165e-12
+streams = [ExtResource("5")]
+
+[node name="FireSound" parent="." instance=ExtResource("4")]
+stream = SubResource("AudioStreamRandomizer_tar1w")
+volume_db = -3.778
+pitch_scale = 1.35
+bus = &"World"
+
+[node name="Synchronizer" type="Node" parent="."]
+script = ExtResource("8")
+target_connection_states = [6]

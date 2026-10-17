@@ -1,0 +1,86 @@
+[gd_scene load_steps=4 format=3 uid="uid://bsh2jwmefmuuv"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://systems/options/KeyBinding.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://ceuabagxjs61x" path="res://gui/buttons/icon_deletel.png" id="3"]
+
+[node name="KeyBinding" type="HBoxContainer" groups=["key_bindings"]]
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme = ExtResource("1")
+theme_override_constants/separation = 0
+script = ExtResource("2")
+
+[node name="ActionNameLabel" type="Label" parent="."]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+
+[node name="KeyboardButton1" type="Button" parent="."]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+text_overrun_behavior = 3
+
+[node name="DeleteKeyboardButton1" type="Button" parent="."]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+icon = ExtResource("3")
+
+[node name="Control3" type="Control" parent="."]
+custom_minimum_size = Vector2(16, 0)
+layout_mode = 2
+
+[node name="KeyboardButton2" type="Button" parent="."]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+text_overrun_behavior = 3
+
+[node name="DeleteKeyboardButton2" type="Button" parent="."]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+icon = ExtResource("3")
+
+[node name="Control" type="Control" parent="."]
+custom_minimum_size = Vector2(60, 0)
+layout_mode = 2
+
+[node name="MouseButton" type="Button" parent="."]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+text_overrun_behavior = 3
+
+[node name="DeleteMouseButton" type="Button" parent="."]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+icon = ExtResource("3")
+
+[node name="Control2" type="Control" parent="."]
+custom_minimum_size = Vector2(60, 0)
+layout_mode = 2
+
+[node name="GamepadButton1" type="Button" parent="."]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+text_overrun_behavior = 3
+
+[node name="DeleteGamepadButton1" type="Button" parent="."]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+icon = ExtResource("3")
+
+[node name="Control4" type="Control" parent="."]
+custom_minimum_size = Vector2(16, 0)
+layout_mode = 2
+
+[node name="GamepadButton2" type="Button" parent="."]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+text_overrun_behavior = 3
+
+[node name="DeleteGamepadButton2" type="Button" parent="."]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+icon = ExtResource("3")
+
+[node name="Control5" type="Control" parent="."]
+custom_minimum_size = Vector2(16, 0)
+layout_mode = 2

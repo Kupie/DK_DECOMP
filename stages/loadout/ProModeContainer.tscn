@@ -1,0 +1,84 @@
+[gd_scene load_steps=4 format=3 uid="uid://dqek55vxmbhks"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://stages/loadout/ProModeContainer.gd" id="2"]
+[ext_resource type="LabelSettings" uid="uid://b5aow2qb2h3pe" path="res://gui/fontsettings/HeadingFontSettings.tres" id="3"]
+
+[node name="ProModeContainer" type="PanelContainer"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -249.5
+offset_top = -154.0
+offset_right = 249.5
+offset_bottom = 154.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+
+[node name="ProModeTitleLabel" type="Label" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "loadout.prestige.pro.title"
+label_settings = ExtResource("3")
+horizontal_alignment = 1
+
+[node name="ProModeExplanationLabel" type="Label" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "loadout.prestige.pro.explanation"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="HBoxContainer" type="GridContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+columns = 2
+
+[node name="PrestigeModeCaveOrderButton" type="Button" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "loadout.prestige.pro.caveorder"
+
+[node name="LabelCaveOrder" type="Label" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+horizontal_alignment = 1
+
+[node name="PrestigeModeGadgetOrderButton" type="Button" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "loadout.prestige.pro.gadgetorder"
+
+[node name="LabelGadgetOrder" type="Label" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+horizontal_alignment = 1
+
+[node name="PrestigeModeSupplementOrderButton" type="Button" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "loadout.prestige.pro.supplementorder"
+
+[node name="LabelSupplementOrder" type="Label" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+horizontal_alignment = 1
+
+[node name="CancelButton" type="Button" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "title.navbar.updates.close"
+
+[connection signal="pressed" from="MarginContainer/VBoxContainer/HBoxContainer/PrestigeModeCaveOrderButton" to="." method="_on_prestige_mode_cave_order_button_pressed"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/HBoxContainer/PrestigeModeGadgetOrderButton" to="." method="_on_prestige_mode_gadget_order_button_pressed"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/HBoxContainer/PrestigeModeSupplementOrderButton" to="." method="_on_prestige_mode_supplement_order_button_pressed"]

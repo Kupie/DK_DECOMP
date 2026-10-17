@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://gopgvc7ll84h"]
+
+[ext_resource type="Script" path="res://addons/dome_editor_ext/dev_tools/dev_tools.gd" id="1"]
+
+[node name="DevHelper" type="Node"]
+script = ExtResource("1")

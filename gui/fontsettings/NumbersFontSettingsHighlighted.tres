@@ -1,0 +1,8 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://cid11j1eank2m"]
+
+[ext_resource type="FontVariation" uid="uid://c4rbs2i3k5kyw" path="res://gui/fonts/FontNumbers.tres" id="1"]
+
+[resource]
+font = ExtResource("1")
+font_size = 24
+font_color = Color(0.847059, 0.615686, 0.862745, 1)

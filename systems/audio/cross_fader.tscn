@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://ddmtv1xx3n18y"]
+
+[ext_resource type="Script" path="res://systems/audio/CrossFader.gd" id="1"]
+
+[node name="CrossFader" type="Node"]
+script = ExtResource("1")
+volume_db = 1.0
+bus = &"Ambience"
+
+[node name="Player_01" type="AudioStreamPlayer" parent="."]
+unique_name_in_owner = true
+
+[node name="Player_02" type="AudioStreamPlayer" parent="."]
+unique_name_in_owner = true
+
+[connection signal="finished" from="Player_01" to="." method="_on_player_a_finished"]
+[connection signal="finished" from="Player_02" to="." method="_on_player_b_finished"]

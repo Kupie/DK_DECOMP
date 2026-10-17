@@ -1,0 +1,14 @@
+[remap]
+
+importer="image"
+type="Image"
+uid="uid://1gjuym8hp4ew"
+path="res://.godot/imported/index_palette.png-125f394334609aa5cb3651df843e61d9.image"
+
+[deps]
+
+source_file="res://tool/IndexPaletteRecolor/index_palette.png"
+dest_files=["res://.godot/imported/index_palette.png-125f394334609aa5cb3651df843e61d9.image"]
+
+[params]
+

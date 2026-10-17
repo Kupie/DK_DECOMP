@@ -1,0 +1,26 @@
+[gd_scene load_steps=4 format=3 uid="uid://bw8frqi7nv6we"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://stages/level/actionhint/ActionHintPopup.gd" id="2"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_eis0o"]
+
+[node name="ActionHintPopup" type="PanelContainer"]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -509.5
+offset_top = -64.0
+offset_right = 509.5
+grow_horizontal = 2
+mouse_filter = 2
+theme = ExtResource("1")
+theme_override_styles/panel = SubResource("StyleBoxEmpty_eis0o")
+script = ExtResource("2")
+
+[node name="Container" type="HBoxContainer" parent="."]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/separation = 40
+alignment = 1

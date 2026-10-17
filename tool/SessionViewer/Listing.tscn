@@ -1,0 +1,72 @@
+[gd_scene load_steps=6 format=3 uid="uid://dx0yi8s32tvjh"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://tool/SessionViewer/Listing.gd" id="2"]
+[ext_resource type="Script" path="res://tool/SessionViewer/GetListing.gd" id="3"]
+[ext_resource type="Script" path="res://tool/SessionViewer/GetNumberOfListingEntries.gd" id="4"]
+[ext_resource type="Script" path="res://tool/SessionViewer/GetFile.gd" id="5"]
+
+[node name="Listing" type="PanelContainer"]
+offset_right = 168.0
+offset_bottom = 1068.0
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+
+[node name="ListingLabel" type="Label" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+text = "Listing"
+horizontal_alignment = 1
+
+[node name="ScrollContainer" type="ScrollContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+follow_focus = true
+horizontal_scroll_mode = 0
+
+[node name="ListingContent" type="VBoxContainer" parent="MarginContainer/VBoxContainer/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="PreviousListing" type="Button" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+focus_mode = 0
+disabled = true
+text = "<"
+
+[node name="PaginationLabel" type="Label" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+horizontal_alignment = 1
+
+[node name="NextListing" type="Button" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+focus_mode = 0
+disabled = true
+text = ">"
+
+[node name="GetListing" type="HTTPRequest" parent="."]
+script = ExtResource("3")
+
+[node name="GetNumberOfListingEntries" type="HTTPRequest" parent="."]
+script = ExtResource("4")
+
+[node name="GetFile" type="HTTPRequest" parent="."]
+script = ExtResource("5")
+
+[connection signal="pressed" from="MarginContainer/VBoxContainer/HBoxContainer/PreviousListing" to="." method="_on_PreviousListing_pressed"]
+[connection signal="pressed" from="MarginContainer/VBoxContainer/HBoxContainer/NextListing" to="." method="_on_NextListing_pressed"]
+[connection signal="request_completed" from="GetListing" to="." method="_on_GetListing_request_completed"]
+[connection signal="request_completed" from="GetNumberOfListingEntries" to="." method="_on_GetNumberOfListingEntries_request_completed"]
+[connection signal="request_completed" from="GetFile" to="." method="_on_GetFile_request_completed"]

@@ -1,0 +1,126 @@
+[gd_scene load_steps=12 format=3 uid="uid://pt140ofas5j"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://content/gadgets/furnace/FurnacePopup.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="3"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="4"]
+[ext_resource type="FontVariation" uid="uid://g3vbmmqhudaf" path="res://gui/fonts/FontHeading.tres" id="5"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="6"]
+[ext_resource type="AudioStream" uid="uid://b60xismlkx3aq" path="res://content/sounds/Bastards/Achiemenet.wav" id="7"]
+[ext_resource type="AudioStream" uid="uid://cec4rwmxtfsmw" path="res://content/sounds/drops/Irontest_02.wav" id="8"]
+[ext_resource type="AudioStream" uid="uid://c5k32uvffwsop" path="res://content/sounds/drops/waterTest_01.wav" id="9"]
+[ext_resource type="AudioStream" uid="uid://d2h31jad56i2w" path="res://content/sounds/Locations/Furnace/furnaceopen.wav" id="10"]
+[ext_resource type="AudioStream" uid="uid://d21ce3k4ntrcv" path="res://content/sounds/Locations/Furnace/furnaceClose.wav" id="11"]
+
+[node name="FurnacePopup" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="ColorRect" type="ColorRect" parent="." groups=["unstyled"]]
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+color = Color(0, 0, 0, 1)
+
+[node name="Tween" parent="." instance=ExtResource("3")]
+
+[node name="Container" type="CenterContainer" parent="."]
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="PanelContainer" type="PanelContainer" parent="Container"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/panel = ExtResource("4")
+
+[node name="MarginContainer" type="MarginContainer" parent="Container/PanelContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Container/PanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="TitleLabel" type="Label" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = ExtResource("5")
+text = "level.furnace.popup.title"
+horizontal_alignment = 1
+
+[node name="Label" type="Label" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "level.furnace.popup.explanation"
+horizontal_alignment = 1
+
+[node name="FuelOptionsContainer" type="VBoxContainer" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="HSeparator2" type="HSeparator" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+visible = false
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "level.station.upgrademenu.close"
+
+[node name="FurnaceSelection2Sound" parent="." instance=ExtResource("6")]
+volume_db = 5.193
+pitch_scale = 1.78
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 0
+streams = [ExtResource("7")]
+
+[node name="FurnaceSelection2Sound2" parent="FurnaceSelection2Sound" instance=ExtResource("6")]
+stream = ExtResource("8")
+volume_db = 5.193
+pitch_scale = 1.78
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="FurnaceSelection1Sound" parent="." instance=ExtResource("6")]
+volume_db = 5.193
+pitch_scale = 0.88
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 0
+streams = [ExtResource("7")]
+
+[node name="FurnaceSelection1Sound2" parent="FurnaceSelection1Sound" instance=ExtResource("6")]
+stream = ExtResource("9")
+volume_db = 5.193
+pitch_scale = 0.88
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="OpenSound" parent="." instance=ExtResource("6")]
+stream = ExtResource("10")
+volume_db = -6.692
+pitch_scale = 0.92
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 0
+
+[node name="CloseSound" parent="." instance=ExtResource("6")]
+stream = ExtResource("11")
+volume_db = -8.152
+pitch_scale = 1.29
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 0

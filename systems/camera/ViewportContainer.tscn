@@ -1,0 +1,157 @@
+[gd_scene load_steps=17 format=3 uid="uid://5ysdfech0to4"]
+
+[ext_resource type="Script" path="res://systems/camera/ViewportContainer.gd" id="1"]
+[ext_resource type="Shader" path="res://systems/camera/viewport_split_glow.gdshader" id="2"]
+[ext_resource type="Script" path="res://systems/camera/WorldViewport.gd" id="3"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="4"]
+[ext_resource type="AudioStream" uid="uid://btofxscfdmvqj" path="res://content/sounds/Locations/Teleport/TeleportMove3.wav" id="5"]
+[ext_resource type="AudioStream" uid="uid://bri5blprws0cw" path="res://content/sounds/Locations/Teleport/TeleportDone_v2.wav" id="6"]
+[ext_resource type="PackedScene" uid="uid://bv68qcilgliqe" path="res://systems/camera/WorldCanvas.tscn" id="7"]
+[ext_resource type="PackedScene" uid="uid://cetma77dhkjfy" path="res://systems/camera/vignette/Vignette.tscn" id="8"]
+[ext_resource type="Shader" path="res://systems/camera/vignette/vignette.gdshader" id="9"]
+[ext_resource type="PackedScene" uid="uid://dcyqcpom2ng22" path="res://stages/level/PlayerCanvas.tscn" id="10"]
+[ext_resource type="Texture2D" uid="uid://nr75wfygpeyv" path="res://white_dot.png" id="11"]
+[ext_resource type="Material" uid="uid://c3uhnbpyt56x8" path="res://systems/camera/splitglow_material.tres" id="12"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_2rqts"]
+resource_local_to_scene = true
+shader = ExtResource("2")
+shader_parameter/blend_left = 1.0
+shader_parameter/blend_right = 0.0
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_j4mqf"]
+resource_local_to_scene = true
+shader = ExtResource("9")
+shader_parameter/zoom = Vector2(1, 1)
+shader_parameter/color_conversion = Vector3(0.8, 0.8, 0.8)
+shader_parameter/vignette_alpha = 1.0
+shader_parameter/light_cutout_offset = Vector2(0.412, 0.668)
+shader_parameter/light_cutout_scale = Vector2(0.233, 0.143)
+shader_parameter/aspect_ratio = 1.777
+shader_parameter/nmb_of_targets = 1
+shader_parameter/target_center_offsets_and_strengths = null
+shader_parameter/brightness_bias = 3.0
+shader_parameter/brightness_bands = 3
+shader_parameter/light_cutouts = null
+
+[sub_resource type="ViewportTexture" id="ViewportTexture_xahnx"]
+viewport_path = NodePath("UISubviewportRect/SubViewport")
+
+[sub_resource type="StyleBoxFlat" id="143"]
+draw_center = false
+border_width_left = 3
+border_width_top = 3
+border_width_right = 3
+border_width_bottom = 3
+border_color = Color(1, 1, 1, 1)
+expand_margin_left = 2.0
+expand_margin_top = 2.0
+expand_margin_right = 2.0
+expand_margin_bottom = 2.0
+
+[node name="ViewportContainer" type="MarginContainer" node_paths=PackedStringArray("viewport") groups=["pauseL"]]
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+script = ExtResource("1")
+viewport = NodePath("SubViewportContainer/SubViewport")
+
+[node name="SubViewportContainer" type="TextureRect" parent="."]
+texture_filter = 1
+material = SubResource("ShaderMaterial_2rqts")
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+expand_mode = 1
+
+[node name="SubViewport" type="SubViewport" parent="SubViewportContainer"]
+disable_3d = true
+own_world_3d = true
+handle_input_locally = false
+canvas_item_default_texture_filter = 0
+audio_listener_enable_2d = true
+gui_snap_controls_to_pixels = false
+positional_shadow_atlas_size = 0
+positional_shadow_atlas_16_bits = false
+positional_shadow_atlas_quad_0 = 0
+positional_shadow_atlas_quad_1 = 0
+positional_shadow_atlas_quad_2 = 0
+positional_shadow_atlas_quad_3 = 0
+size = Vector2i(1920, 1080)
+size_2d_override_stretch = true
+render_target_update_mode = 4
+script = ExtResource("3")
+
+[node name="Teleportation" type="Node2D" parent="SubViewportContainer/SubViewport"]
+
+[node name="TeleportFade" parent="SubViewportContainer/SubViewport/Teleportation" instance=ExtResource("4")]
+stream = ExtResource("5")
+volume_db = -6.118
+bus = &"Mine"
+
+[node name="TeleportFadeUpgrade" parent="SubViewportContainer/SubViewport/Teleportation" instance=ExtResource("4")]
+stream = ExtResource("6")
+volume_db = -4.37
+pitch_scale = 1.49
+bus = &"Mine"
+
+[node name="WorldCanvas" parent="SubViewportContainer/SubViewport" instance=ExtResource("7")]
+
+[node name="VignetteLayer" type="CanvasLayer" parent="SubViewportContainer/SubViewport"]
+
+[node name="Vignette" parent="SubViewportContainer/SubViewport/VignetteLayer" instance=ExtResource("8")]
+material = SubResource("ShaderMaterial_j4mqf")
+
+[node name="UISubviewportRect" type="TextureRect" parent="."]
+layout_mode = 2
+mouse_filter = 2
+texture = SubResource("ViewportTexture_xahnx")
+expand_mode = 1
+
+[node name="SubViewport" type="SubViewport" parent="UISubviewportRect"]
+own_world_3d = true
+transparent_bg = true
+handle_input_locally = false
+size = Vector2i(1920, 1080)
+size_2d_override = Vector2i(1920, 1080)
+size_2d_override_stretch = true
+render_target_update_mode = 4
+
+[node name="PlayerCanvas" parent="UISubviewportRect/SubViewport" instance=ExtResource("10")]
+unique_name_in_owner = true
+scale = Vector2(0.75, 0.75)
+transform = Transform2D(0.75, 0, 0, 0.75, 0, 0)
+
+[node name="Curtain" type="TextureRect" parent="UISubviewportRect"]
+visible = false
+self_modulate = Color(0, 0, 0, 1)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("11")
+
+[node name="SplitGlow" type="ColorRect" parent="." groups=["unstyled"]]
+modulate = Color(1, 1, 1, 0.333333)
+material = ExtResource("12")
+layout_mode = 2
+mouse_filter = 2
+
+[node name="ViewportBorder" type="Panel" parent="."]
+visible = false
+modulate = Color(0, 0, 0, 1)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+theme_override_styles/panel = SubResource("143")
+
+[connection signal="mouse_entered" from="." to="." method="_on_mouse_entered"]
+[connection signal="mouse_exited" from="." to="." method="_on_mouse_exited"]
+[connection signal="resized" from="." to="." method="_on_resized"]

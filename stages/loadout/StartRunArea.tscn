@@ -1,0 +1,84 @@
+[gd_scene load_steps=9 format=3 uid="uid://cekhm1iidi7dd"]
+
+[ext_resource type="StyleBox" uid="uid://d0e6hxlj6ehem" path="res://gui/panels/panel_inside_dark.tres" id="1"]
+[ext_resource type="Script" path="res://stages/loadout/StartRunArea.gd" id="2"]
+[ext_resource type="LabelSettings" uid="uid://qgs4khkkhaso" path="res://gui/fontsettings/NormalFontSettings.tres" id="3"]
+[ext_resource type="Material" uid="uid://ooltj4cifkjq" path="res://systems/style/materials/palette_swap_unmodulated.tres" id="4"]
+[ext_resource type="Texture2D" uid="uid://cmnyitowitaah" path="res://content/techtree/panels/lock_icon.png" id="5"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="6"]
+[ext_resource type="PackedScene" uid="uid://02emll07tpim" path="res://content/shared/Usable.tscn" id="7"]
+[ext_resource type="AudioStream" uid="uid://bd355yy8llp3" path="res://content/sounds/UI/game_ready.wav" id="8"]
+
+[node name="StartRunArea" type="PanelContainer"]
+custom_minimum_size = Vector2(500, 400)
+offset_right = 374.0
+offset_bottom = 400.0
+size_flags_horizontal = 0
+size_flags_vertical = 2
+theme_override_styles/panel = ExtResource("1")
+script = ExtResource("2")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+alignment = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="LabelTitle" type="Label" parent="VBoxContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+text = "TITLE"
+label_settings = ExtResource("3")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="LockIcon" type="TextureRect" parent="VBoxContainer/HBoxContainer" groups=["styleShaderCallback", "styled"]]
+unique_name_in_owner = true
+visible = false
+material = ExtResource("4")
+custom_minimum_size = Vector2(32, 36)
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_vertical = 0
+texture = ExtResource("5")
+expand_mode = 4
+stretch_mode = 5
+
+[node name="Control" type="Control" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="LabelHint" type="Label" parent="VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 10
+text = "loadout.start.area.move"
+label_settings = ExtResource("3")
+horizontal_alignment = 1
+vertical_alignment = 3
+autowrap_mode = 3
+
+[node name="ProgressBar" type="ProgressBar" parent="VBoxContainer"]
+custom_minimum_size = Vector2(0, 40)
+layout_mode = 2
+size_flags_vertical = 8
+step = 0.1
+rounded = true
+
+[node name="Tween" parent="." instance=ExtResource("6")]
+
+[node name="Usable" parent="." instance=ExtResource("7")]
+unique_name_in_owner = true
+position = Vector2(187, 200)
+collision_mask = 16384
+
+[node name="AllReadySound" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("8")
+bus = &"Sounds"
+
+[connection signal="item_rect_changed" from="." to="." method="_on_resized"]
+[connection signal="resized" from="." to="." method="_on_resized"]

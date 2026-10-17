@@ -1,0 +1,60 @@
+[gd_scene load_steps=10 format=3 uid="uid://ydw647aqevfy"]
+
+[ext_resource type="Script" path="res://content/gadgets/furnace/FurnaceStation.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://b8nxkvyyi8y18" path="res://content/gadgets/furnace/FurnaceStationSingle.tscn" id="2"]
+[ext_resource type="PackedScene" uid="uid://02emll07tpim" path="res://content/shared/Usable.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="4"]
+[ext_resource type="AudioStream" uid="uid://c86dr5q5dv1yu" path="res://content/sounds/drops/waterTest_03.wav" id="5"]
+[ext_resource type="AudioStream" uid="uid://dtkoyagsjtjww" path="res://content/sounds/Bastards/blep.wav" id="6"]
+[ext_resource type="AudioStream" uid="uid://tqyiq571yvnr" path="res://content/sounds/drops/Irontest_03.wav" id="7"]
+[ext_resource type="Script" path="res://content/gadgets/GadgetSynchronizer.gd" id="8"]
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_mo42y"]
+streams_count = 1
+stream_0/stream = ExtResource("6")
+
+[node name="FurnaceStation" type="Node2D" node_paths=PackedStringArray("synchronizer")]
+texture_filter = 1
+script = ExtResource("1")
+synchronizer = NodePath("GadgetSynchronizer")
+
+[node name="Sprites" parent="." instance=ExtResource("2")]
+
+[node name="Usable" parent="." instance=ExtResource("3")]
+position = Vector2(0, -3)
+
+[node name="AddFuelSoundWater" parent="." instance=ExtResource("4")]
+volume_db = 5.193
+pitch_scale = 0.71
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+streams = [ExtResource("5")]
+
+[node name="AddFuelSoundIron3" parent="AddFuelSoundWater" instance=ExtResource("4")]
+stream = SubResource("AudioStreamRandomizer_mo42y")
+volume_db = 2.717
+pitch_scale = 1.22
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="AddFuelSoundIron" parent="." instance=ExtResource("4")]
+volume_db = 5.193
+pitch_scale = 0.84
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+streams = [ExtResource("7")]
+
+[node name="AddFuelSoundIron2" parent="AddFuelSoundIron" instance=ExtResource("4")]
+stream = SubResource("AudioStreamRandomizer_mo42y")
+volume_db = 2.717
+pitch_scale = 1.22
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="GadgetSynchronizer" type="Node" parent="."]
+script = ExtResource("8")
+target_connection_states = [6]

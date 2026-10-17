@@ -1,0 +1,24 @@
+[gd_scene load_steps=4 format=3 uid="uid://b6x06lo18oujh"]
+
+[ext_resource type="Material" uid="uid://ch2r8fx68b31u" path="res://content/map/chamber/relicswitch/NewCable/cable_segment_inactive.tres" id="1"]
+[ext_resource type="Script" path="res://content/map/chamber/relicswitch/NewCable/CableSegment.gd" id="2"]
+[ext_resource type="SpriteFrames" uid="uid://cjo37u1yfibaq" path="res://content/map/chamber/relicswitch/NewCable/cable_segment_crack_frames.tres" id="3"]
+
+[node name="Segment" type="Line2D"]
+z_index = 10
+material = ExtResource("1")
+points = PackedVector2Array(0, 0, 3.31478, 0, 6.78348, 0, 11.6712, 0, 15.4552, 0, 20, 0, 23.9167, 0, 40, 0)
+width = 2.0
+texture_mode = 2
+joint_mode = 2
+begin_cap_mode = 2
+end_cap_mode = 2
+script = ExtResource("2")
+
+[node name="Entry" type="AnimatedSprite2D" parent="."]
+z_index = -1
+sprite_frames = ExtResource("3")
+
+[node name="Exit" type="AnimatedSprite2D" parent="."]
+z_index = -1
+sprite_frames = ExtResource("3")

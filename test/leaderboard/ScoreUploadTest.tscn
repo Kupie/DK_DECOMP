@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3]
+
+[ext_resource type="Script" path="res://test/leaderboard/ScoreUploadTest.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://d234mcpn6o5o6" path="res://content/gamemode/prestige/RunFinishedPopup.tscn" id="2"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource("1")
+
+[node name="RunFinishedPopup" parent="." instance=ExtResource("2")]
+layout_mode = 0
+anchors_preset = 0

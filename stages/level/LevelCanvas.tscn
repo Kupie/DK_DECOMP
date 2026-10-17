@@ -1,0 +1,39 @@
+[gd_scene load_steps=3 format=3 uid="uid://d22ing1k2ex3y"]
+
+[ext_resource type="Script" path="res://stages/level/LevelCanvas.gd" id="1"]
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="2"]
+
+[node name="LevelCanvas" type="CanvasLayer"]
+script = ExtResource("1")
+
+[node name="SizeProbe" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="AreaLimiter" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="NoStreamContainer" type="MarginContainer" parent="AreaLimiter"]
+unique_name_in_owner = true
+layout_mode = 0
+offset_right = 549.0
+offset_bottom = 35.0
+theme_override_constants/margin_left = 4
+theme_override_constants/margin_top = 1
+
+[node name="NoStreamLabel" type="Label" parent="AreaLimiter/NoStreamContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme = ExtResource("2")
+text = "Preview version. Please don't stream/publish videos"

@@ -1,0 +1,596 @@
+[gd_scene load_steps=21 format=3 uid="uid://dwdfkebnjx05l"]
+
+[ext_resource type="Script" path="res://stages/intro/IntroStage.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://bw52aagk3nrsi" path="res://stages/intro/bb_logo_layer_0.svg" id="2"]
+[ext_resource type="Texture2D" uid="uid://bx2mhafa4ql2t" path="res://stages/intro/bb_logo_layer_1.svg" id="3"]
+[ext_resource type="Texture2D" uid="uid://cecoy8c447tit" path="res://stages/intro/bb_logo_layer_nose.svg" id="4"]
+[ext_resource type="Texture2D" uid="uid://b8rivcx4iwnbm" path="res://stages/intro/bb_logo_layer_eyes.svg" id="5"]
+[ext_resource type="Texture2D" uid="uid://vkddsci48fbe" path="res://stages/intro/bb_logo_layer_letters.svg" id="6"]
+[ext_resource type="Texture2D" uid="uid://crxaj3xapjgu2" path="res://Splash_Screen.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://dhrkg56vy71l2" path="res://logo_bb_rawfury_seaven_pasta_DK.png" id="8"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="9"]
+[ext_resource type="AudioStream" uid="uid://cg77nwtyatr35" path="res://content/sounds/UI/DomeLogo.wav" id="10"]
+[ext_resource type="PackedScene" uid="uid://dutjgavl8amrn" path="res://content/map/Map.tscn" id="11"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="12"]
+
+[sub_resource type="Gradient" id="7"]
+offsets = PackedFloat32Array(0.00727273, 1)
+colors = PackedColorArray(0.129412, 0.121569, 0.121569, 1, 0.129412, 0.121569, 0.121569, 1)
+
+[sub_resource type="GradientTexture2D" id="8"]
+gradient = SubResource("7")
+
+[sub_resource type="Gradient" id="3"]
+offsets = PackedFloat32Array(0.00727273, 1)
+colors = PackedColorArray(0.516602, 0.484718, 0.484718, 1, 0.735352, 0.69686, 0.69686, 1)
+
+[sub_resource type="GradientTexture2D" id="4"]
+gradient = SubResource("3")
+
+[sub_resource type="Animation" id="5"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Control/LogoCenterer/Eyes/LogoEyes:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(0, 0)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("Control/LogoCenterer/Eyes:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(0, 0)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("Control/LogoCenterer/Eyes:custom_minimum_size")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(1133, 628)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("Control/LogoCenterer/Eyes:visible")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [true]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("Control/LogoCenterer/Lettering:size")
+tracks/4/interp = 1
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(13, 628)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("../Background:texture:gradient:colors")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [PackedColorArray(0.129412, 0.121569, 0.121569, 1, 0.129412, 0.121569, 0.121569, 1)]
+}
+tracks/6/type = "value"
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/path = NodePath("../Background2:modulate")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(1, 1, 1, 0)]
+}
+tracks/7/type = "value"
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/path = NodePath("Control/LogoCenterer:scale")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(0.5, 0.5)]
+}
+tracks/8/type = "value"
+tracks/8/imported = false
+tracks/8/enabled = true
+tracks/8/path = NodePath("Control/LogoCenterer/LogoBG:modulate")
+tracks/8/interp = 1
+tracks/8/loop_wrap = true
+tracks/8/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Color(0, 0, 0, 0)]
+}
+tracks/9/type = "value"
+tracks/9/imported = false
+tracks/9/enabled = true
+tracks/9/path = NodePath("Control/LogoCenterer:position")
+tracks/9/interp = 1
+tracks/9/loop_wrap = true
+tracks/9/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector2(-549, -314)]
+}
+tracks/10/type = "value"
+tracks/10/imported = false
+tracks/10/enabled = true
+tracks/10/path = NodePath("../../LogoSound:playing")
+tracks/10/interp = 1
+tracks/10/loop_wrap = true
+tracks/10/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [true]
+}
+
+[sub_resource type="Animation" id="6"]
+resource_name = "Reveal"
+length = 3.0
+step = 0.05
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Control/LogoCenterer/Eyes/LogoEyes:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.45),
+"transitions": PackedFloat32Array(0.129408, 0.233259, 0.233259),
+"update": 0,
+"values": [Vector2(0, -295), Vector2(0, -295), Vector2(0, -267.8)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("Control/LogoCenterer/Eyes:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.4, 0.75),
+"transitions": PackedFloat32Array(0.129408, 0.233259, 0.233259),
+"update": 0,
+"values": [Vector2(0, 290), Vector2(0, 290), Vector2(0, 263.261)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("Control/LogoCenterer/Eyes:custom_minimum_size")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0, 0.4, 0.75),
+"transitions": PackedFloat32Array(0.129408, 0.233259, 0.233259),
+"update": 0,
+"values": [Vector2(1133, 5), Vector2(1133, 5), Vector2(1133, 64.9331)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("Control/LogoCenterer/Eyes:visible")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0, 0.35, 0.4),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 1,
+"values": [false, false, true]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("Control/LogoCenterer/Lettering:size")
+tracks/4/interp = 0
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(0, 1.65, 1.7, 1.75, 1.8, 1.85, 1.9, 1.95, 2, 2.05, 2.1, 2.15),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector2(13, 628), Vector2(13, 628), Vector2(178, 628), Vector2(227, 628), Vector2(368, 628), Vector2(515, 628), Vector2(567, 628), Vector2(698, 628), Vector2(847, 628), Vector2(897, 628), Vector2(995, 628), Vector2(1105, 628)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("../Background2:modulate")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(0, 1.25, 1.6),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 1)]
+}
+tracks/6/type = "value"
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/path = NodePath("Control/LogoCenterer:scale")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/keys = {
+"times": PackedFloat32Array(0, 0.4, 2.2),
+"transitions": PackedFloat32Array(-1.86607, -1.86607, 0.615572),
+"update": 0,
+"values": [Vector2(0.5, 0.5), Vector2(0.5, 0.5), Vector2(0.6, 0.6)]
+}
+tracks/7/type = "value"
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/path = NodePath("Control/LogoCenterer/LogoBG:modulate")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/keys = {
+"times": PackedFloat32Array(0, 0.4, 0.8),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0), Color(0, 0, 0, 0), Color(1, 1, 1, 1)]
+}
+tracks/8/type = "method"
+tracks/8/imported = false
+tracks/8/enabled = true
+tracks/8/path = NodePath("../..")
+tracks/8/interp = 1
+tracks/8/loop_wrap = true
+tracks/8/keys = {
+"times": PackedFloat32Array(3),
+"transitions": PackedFloat32Array(1),
+"values": [{
+"args": [],
+"method": &"end_animation"
+}]
+}
+tracks/9/type = "value"
+tracks/9/imported = false
+tracks/9/enabled = true
+tracks/9/path = NodePath("../../LogoSound:playing")
+tracks/9/interp = 1
+tracks/9/loop_wrap = true
+tracks/9/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 1,
+"values": [true]
+}
+
+[sub_resource type="Animation" id="9"]
+resource_name = "Reveal-Smash"
+length = 3.0
+step = 0.005
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath("Control/LogoCenterer/Eyes/LogoEyes:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.125, 1.225, 1.6),
+"transitions": PackedFloat32Array(0.129408, 0.129408, 0.233259, 0.233259),
+"update": 0,
+"values": [Vector2(0, -295), Vector2(0, -295), Vector2(0, -295), Vector2(0, -267.8)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath("Control/LogoCenterer/Eyes:position")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.125, 1.225, 1.6),
+"transitions": PackedFloat32Array(0.129408, 0.129408, 0.233259, 0.233259),
+"update": 0,
+"values": [Vector2(0, 290), Vector2(0, 290), Vector2(0, 290), Vector2(0, 263.261)]
+}
+tracks/2/type = "value"
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/path = NodePath("Control/LogoCenterer/Eyes:custom_minimum_size")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/keys = {
+"times": PackedFloat32Array(0, 0.125, 1.225, 1.6),
+"transitions": PackedFloat32Array(0.129408, 0.129408, 0.233259, 0.233259),
+"update": 0,
+"values": [Vector2(1133, 5), Vector2(1133, 5), Vector2(1133, 5), Vector2(1133, 64.9331)]
+}
+tracks/3/type = "value"
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/path = NodePath("Control/LogoCenterer/Eyes:visible")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/keys = {
+"times": PackedFloat32Array(0, 0.125, 1.175, 1.225),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 1,
+"values": [false, false, false, true]
+}
+tracks/4/type = "value"
+tracks/4/imported = false
+tracks/4/enabled = true
+tracks/4/path = NodePath("Control/LogoCenterer/Lettering:size")
+tracks/4/interp = 0
+tracks/4/loop_wrap = true
+tracks/4/keys = {
+"times": PackedFloat32Array(0, 0.125, 1.575, 1.625, 1.675, 1.725, 1.775, 1.825, 1.875, 1.925, 1.975, 2.025, 2.075),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector2(13, 628), Vector2(13, 628), Vector2(13, 628), Vector2(178, 628), Vector2(227, 628), Vector2(368, 628), Vector2(515, 628), Vector2(567, 628), Vector2(698, 628), Vector2(847, 628), Vector2(897, 628), Vector2(995, 628), Vector2(1105, 628)]
+}
+tracks/5/type = "value"
+tracks/5/imported = false
+tracks/5/enabled = true
+tracks/5/path = NodePath("../Background2:modulate")
+tracks/5/interp = 1
+tracks/5/loop_wrap = true
+tracks/5/keys = {
+"times": PackedFloat32Array(0, 0.125, 0.325, 1.625),
+"transitions": PackedFloat32Array(1, 1, 1, 1),
+"update": 0,
+"values": [Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 0), Color(1, 1, 1, 1)]
+}
+tracks/6/type = "value"
+tracks/6/imported = false
+tracks/6/enabled = true
+tracks/6/path = NodePath("Control/LogoCenterer:scale")
+tracks/6/interp = 1
+tracks/6/loop_wrap = true
+tracks/6/keys = {
+"times": PackedFloat32Array(0, 0.125, 0.425),
+"transitions": PackedFloat32Array(2.21914, 2.21914, 2.21914),
+"update": 0,
+"values": [Vector2(0.8, 0.8), Vector2(0.8, 0.8), Vector2(0.6, 0.6)]
+}
+tracks/7/type = "value"
+tracks/7/imported = false
+tracks/7/enabled = true
+tracks/7/path = NodePath("Control/LogoCenterer/LogoBG:modulate")
+tracks/7/interp = 1
+tracks/7/loop_wrap = true
+tracks/7/keys = {
+"times": PackedFloat32Array(0, 0.125, 0.325),
+"transitions": PackedFloat32Array(1, 1, 1),
+"update": 0,
+"values": [Color(0, 0, 0, 0), Color(0, 0, 0, 0), Color(1, 1, 1, 1)]
+}
+tracks/8/type = "method"
+tracks/8/imported = false
+tracks/8/enabled = true
+tracks/8/path = NodePath("../..")
+tracks/8/interp = 1
+tracks/8/loop_wrap = true
+tracks/8/keys = {
+"times": PackedFloat32Array(3),
+"transitions": PackedFloat32Array(1),
+"values": [{
+"args": [],
+"method": &"end_animation"
+}]
+}
+tracks/9/type = "value"
+tracks/9/imported = false
+tracks/9/enabled = true
+tracks/9/path = NodePath("Control/LogoCenterer:position")
+tracks/9/interp = 1
+tracks/9/loop_wrap = true
+tracks/9/keys = {
+"times": PackedFloat32Array(0, 0.425, 0.455, 0.49, 0.54, 0.6),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1),
+"update": 0,
+"values": [Vector2(-549, -314), Vector2(-549, -314), Vector2(-549, -309), Vector2(-553, -318.207), Vector2(-541.182, -308.294), Vector2(-549, -314)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_hniym"]
+_data = {
+"RESET": SubResource("5"),
+"Reveal": SubResource("6"),
+"Reveal-Smash": SubResource("9")
+}
+
+[node name="Intro" type="Node"]
+script = ExtResource("1")
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+
+[node name="Background" type="TextureRect" parent="Canvas"]
+texture_filter = 2
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -819.0
+offset_top = 1419.0
+offset_right = -926.0
+offset_bottom = 4329.0
+rotation = 4.71239
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = SubResource("8")
+expand_mode = 1
+
+[node name="Background2" type="TextureRect" parent="Canvas"]
+modulate = Color(1, 1, 1, 0)
+texture_filter = 2
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -778.0
+offset_top = 1400.0
+offset_right = -946.0
+offset_bottom = 4228.0
+rotation = 4.71239
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = SubResource("4")
+expand_mode = 1
+
+[node name="LogoAnimation" type="CenterContainer" parent="Canvas"]
+unique_name_in_owner = true
+texture_filter = 4
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Control" type="Control" parent="Canvas/LogoAnimation"]
+layout_mode = 2
+
+[node name="LogoCenterer" type="Control" parent="Canvas/LogoAnimation/Control"]
+custom_minimum_size = Vector2(1133, 628)
+anchors_preset = 0
+offset_left = -549.0
+offset_top = -314.0
+offset_right = 584.0
+offset_bottom = 314.0
+scale = Vector2(0.5, 0.5)
+pivot_offset = Vector2(566, 314)
+
+[node name="LogoBG" type="TextureRect" parent="Canvas/LogoAnimation/Control/LogoCenterer"]
+visible = false
+modulate = Color(0, 0, 0, 0)
+texture_filter = 4
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -8.0
+offset_bottom = -8.0
+texture = ExtResource("2")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="LogoBG2" type="TextureRect" parent="Canvas/LogoAnimation/Control/LogoCenterer"]
+texture_filter = 4
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -8.0
+offset_bottom = -8.0
+texture = ExtResource("3")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="LogoNose" type="TextureRect" parent="Canvas/LogoAnimation/Control/LogoCenterer"]
+texture_filter = 4
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -8.0
+offset_bottom = -8.0
+texture = ExtResource("4")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Eyes" type="Control" parent="Canvas/LogoAnimation/Control/LogoCenterer"]
+clip_contents = true
+custom_minimum_size = Vector2(1133, 628)
+anchors_preset = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="LogoEyes" type="TextureRect" parent="Canvas/LogoAnimation/Control/LogoCenterer/Eyes"]
+texture_filter = 4
+custom_minimum_size = Vector2(1133, 628)
+layout_mode = 0
+offset_right = 1133.0
+offset_bottom = 628.0
+texture = ExtResource("5")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Lettering" type="Control" parent="Canvas/LogoAnimation/Control/LogoCenterer"]
+clip_contents = true
+anchors_preset = 0
+offset_right = 13.0
+offset_bottom = 628.0
+
+[node name="LogoLettering" type="TextureRect" parent="Canvas/LogoAnimation/Control/LogoCenterer/Lettering"]
+texture_filter = 4
+layout_mode = 0
+offset_top = -8.0
+offset_right = 1133.0
+offset_bottom = 620.0
+texture = ExtResource("6")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="IntroAnimation" type="AnimationPlayer" parent="Canvas/LogoAnimation"]
+libraries = {
+"": SubResource("AnimationLibrary_hniym")
+}
+autoplay = "Reveal"
+
+[node name="RawFury" type="TextureRect" parent="Canvas"]
+unique_name_in_owner = true
+texture_filter = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = ExtResource("7")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="bb_rawfury_seaven_pasta" type="TextureRect" parent="Canvas"]
+unique_name_in_owner = true
+visible = false
+texture_filter = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = ExtResource("8")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="LogoSound" parent="." instance=ExtResource("9")]
+unique_name_in_owner = true
+stream = ExtResource("10")
+volume_db = -7.866
+randomPitch = 0.0
+maxAudibleDistance = 0
+
+[node name="MapViewportPreload" type="CanvasLayer" parent="."]
+layer = -10
+
+[node name="Map" parent="MapViewportPreload" instance=ExtResource("11")]
+position = Vector2(53, 10)
+
+[node name="Tween" parent="." instance=ExtResource("12")]

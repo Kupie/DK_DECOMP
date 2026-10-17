@@ -1,0 +1,288 @@
+[gd_scene load_steps=29 format=3 uid="uid://ntdn6qe2vjye"]
+
+[ext_resource type="Script" path="res://content/keeper/keeper3/Kunai.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://cwawbamdsrlqf" path="res://content/keeper/keeper3/KunaiSprite.tscn" id="2"]
+[ext_resource type="PackedScene" uid="uid://bshpnrnvktmnk" path="res://content/keeper/keeper3/StarSprite.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="4"]
+[ext_resource type="AudioStream" uid="uid://b83orwq88w6mb" path="res://content/sounds/keeper3/kunai test_01.wav" id="5"]
+[ext_resource type="AudioStream" uid="uid://eynsnahtykr3" path="res://content/sounds/keeper3/kunai test_02.wav" id="6"]
+[ext_resource type="AudioStream" uid="uid://gbcs1vwsguo2" path="res://content/sounds/Weapons/Sword/Sword_Deflect.wav" id="7"]
+[ext_resource type="AudioStream" uid="uid://43hmss75awnl" path="res://content/sounds/keeper3/eplo_02.wav" id="8"]
+[ext_resource type="AudioStream" uid="uid://b8cpl6byh78ix" path="res://content/sounds/Locations/BlastMiner/MineExplode.wav" id="9"]
+[ext_resource type="AudioStream" uid="uid://cbt77f5t702hr" path="res://content/sounds/keeper3/shiriken tops .wav" id="10"]
+[ext_resource type="AudioStream" uid="uid://dko4u08gfx64u" path="res://content/sounds/drops/Irontest_01.wav" id="11"]
+[ext_resource type="AudioStream" uid="uid://cec4rwmxtfsmw" path="res://content/sounds/drops/Irontest_02.wav" id="12"]
+[ext_resource type="AudioStream" uid="uid://tqyiq571yvnr" path="res://content/sounds/drops/Irontest_03.wav" id="13"]
+[ext_resource type="AudioStream" uid="uid://byw587svv8akd" path="res://content/sounds/drops/Metaltest_01.wav" id="14"]
+[ext_resource type="AudioStream" uid="uid://dsus6nir5y1yv" path="res://content/sounds/drops/Metaltest_02.wav" id="15"]
+[ext_resource type="AudioStream" uid="uid://dc3lr524tvj4e" path="res://content/sounds/drops/Metaltest_03.wav" id="16"]
+[ext_resource type="AudioStream" uid="uid://c5k32uvffwsop" path="res://content/sounds/drops/waterTest_01.wav" id="17"]
+[ext_resource type="AudioStream" uid="uid://blquo55tyst6v" path="res://content/sounds/drops/waterTest_02.wav" id="18"]
+[ext_resource type="AudioStream" uid="uid://c86dr5q5dv1yu" path="res://content/sounds/drops/waterTest_03.wav" id="19"]
+[ext_resource type="AudioStream" uid="uid://nlxh66fmogk4" path="res://content/sounds/keeper3/shuriken_v2.mp3" id="20"]
+[ext_resource type="AudioStream" uid="uid://cbauoebgcvvpq" path="res://content/sounds/keeper3/dart_hit_01.wav" id="21"]
+[ext_resource type="AudioStream" uid="uid://dtld8cc4lswmy" path="res://content/sounds/keeper3/dart_hit_02.wav" id="22"]
+[ext_resource type="AudioStream" uid="uid://cyet4a58ayma1" path="res://content/sounds/keeper3/dart_hit_04.wav" id="23"]
+[ext_resource type="AudioStream" uid="uid://c3lqsmkxeapsr" path="res://content/sounds/keeper3/kunai_spark.wav" id="24"]
+[ext_resource type="Texture2D" uid="uid://dj8btdbsey87p" path="res://content/keeper/keeper3/kunai_glow.png" id="25"]
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_jiwq5"]
+streams_count = 1
+stream_0/stream = ExtResource("8")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_evn1m"]
+streams_count = 1
+stream_0/stream = ExtResource("8")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_rrowk"]
+streams_count = 3
+stream_0/stream = ExtResource("21")
+stream_1/stream = ExtResource("22")
+stream_2/stream = ExtResource("23")
+
+[node name="Kunai" type="RigidBody2D"]
+collision_layer = 1048576
+collision_mask = 521
+gravity_scale = 0.0
+continuous_cd = 2
+contact_monitor = true
+max_contacts_reported = 1
+script = ExtResource("1")
+
+[node name="KunaiSprite" parent="." instance=ExtResource("2")]
+position = Vector2(0, -0.24)
+
+[node name="ShurikenSprite" parent="." instance=ExtResource("3")]
+visible = false
+position = Vector2(0, -0.24)
+
+[node name="KunaiBounceSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = ExtResource("5")
+volume_db = 2.995
+pitch_scale = 1.05
+bus = &"Sounds"
+maxAudibleDistance = 300.0
+removeAfterPlaying = true
+
+[node name="KunaiBounceSound2" parent="KunaiBounceSound" instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = ExtResource("6")
+volume_db = -0.501
+pitch_scale = 1.18
+bus = &"Sounds"
+maxAudibleDistance = 400.0
+removeAfterPlaying = true
+
+[node name="KunaiBounceSound3" parent="KunaiBounceSound" instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = ExtResource("7")
+volume_db = -10.534
+pitch_scale = 1.52
+bus = &"Sounds"
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+removeAfterPlaying = true
+
+[node name="KunaiQuickBounceSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = ExtResource("5")
+volume_db = 5.461
+pitch_scale = 1.14
+bus = &"Sounds"
+maxAudibleDistance = 300.0
+removeAfterPlaying = true
+
+[node name="KunaiBounceSound2" parent="KunaiQuickBounceSound" instance=ExtResource("4")]
+stream = ExtResource("6")
+volume_db = 1.965
+pitch_scale = 1.29
+bus = &"Sounds"
+maxAudibleDistance = 400.0
+removeAfterPlaying = true
+
+[node name="KunaiBounceSound3" parent="KunaiQuickBounceSound" instance=ExtResource("4")]
+stream = ExtResource("7")
+volume_db = -3.956
+pitch_scale = 1.52
+bus = &"Sounds"
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+removeAfterPlaying = true
+
+[node name="KunaiExplosionSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = SubResource("AudioStreamRandomizer_jiwq5")
+volume_db = -8.091
+pitch_scale = 1.35
+bus = &"Sounds"
+randomVolume = 4.0
+maxAudibleDistance = 550.0
+removeAfterPlaying = true
+
+[node name="KunaiUpgradedExplosionSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = SubResource("AudioStreamRandomizer_evn1m")
+volume_db = -3.158
+pitch_scale = 1.13
+bus = &"Sounds"
+randomVolume = 4.0
+maxAudibleDistance = 700.0
+removeAfterPlaying = true
+
+[node name="Shurikenlevel1ExplodeSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = ExtResource("9")
+volume_db = -6.864
+pitch_scale = 1.18
+bus = &"Sounds"
+randomVolume = 0.0
+maxAudibleDistance = 400.0
+removeAfterPlaying = true
+
+[node name="KunaiExplosionSound2" parent="Shurikenlevel1ExplodeSound" instance=ExtResource("4")]
+stream = SubResource("AudioStreamRandomizer_evn1m")
+volume_db = -8.0
+pitch_scale = 1.41
+bus = &"Sounds"
+randomVolume = 0.0
+removeAfterPlaying = true
+
+[node name="ShurikenLevel2ExplodeSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = ExtResource("9")
+volume_db = -3.165
+pitch_scale = 0.83
+bus = &"Sounds"
+randomVolume = 0.0
+maxAudibleDistance = 500.0
+removeAfterPlaying = true
+
+[node name="KunaiExplosionSound2" parent="ShurikenLevel2ExplodeSound" instance=ExtResource("4")]
+stream = SubResource("AudioStreamRandomizer_evn1m")
+volume_db = -8.0
+pitch_scale = 1.41
+bus = &"Sounds"
+randomVolume = 0.0
+removeAfterPlaying = true
+
+[node name="ShurikenLevel3ExplodeSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = ExtResource("9")
+volume_db = 1.768
+pitch_scale = 0.83
+bus = &"Sounds"
+randomVolume = 0.0
+maxAudibleDistance = 600.0
+removeAfterPlaying = true
+
+[node name="KunaiExplosionSound2" parent="ShurikenLevel3ExplodeSound" instance=ExtResource("4")]
+stream = SubResource("AudioStreamRandomizer_evn1m")
+volume_db = -4.711
+pitch_scale = 1.22
+bus = &"Sounds"
+randomVolume = 0.0
+removeAfterPlaying = true
+
+[node name="KunaiExplosionSound3" parent="ShurikenLevel3ExplodeSound" instance=ExtResource("4")]
+stream = ExtResource("10")
+volume_db = -4.711
+pitch_scale = 1.22
+bus = &"Sounds"
+randomVolume = 0.0
+removeAfterPlaying = true
+
+[node name="KunaiChargedBounce" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = ExtResource("7")
+volume_db = -6.0
+pitch_scale = 0.94
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+removeAfterPlaying = true
+
+[node name="KunaiBounceRevealIronSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+volume_db = 10.0
+pitch_scale = 1.02
+bus = &"Sounds"
+randomVolume = 0.0
+maxAudibleDistance = 500.0
+streams = [ExtResource("11"), ExtResource("12"), ExtResource("13")]
+removeAfterPlaying = true
+
+[node name="KunaiBounceSound2" parent="KunaiBounceRevealIronSound" instance=ExtResource("4")]
+stream = ExtResource("6")
+volume_db = -0.09
+pitch_scale = 1.18
+bus = &"Sounds"
+maxAudibleDistance = 400.0
+removeAfterPlaying = true
+
+[node name="KunaiBounceRevealSandSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+volume_db = 10.0
+pitch_scale = 1.43
+bus = &"Sounds"
+randomVolume = 0.0
+maxAudibleDistance = 500.0
+streams = [ExtResource("14"), ExtResource("15"), ExtResource("16")]
+removeAfterPlaying = true
+
+[node name="KunaiBounceSound2" parent="KunaiBounceRevealSandSound" instance=ExtResource("4")]
+stream = ExtResource("6")
+volume_db = -0.501
+pitch_scale = 1.18
+bus = &"Sounds"
+maxAudibleDistance = 400.0
+removeAfterPlaying = true
+
+[node name="KunaiBounceRevealWaterSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+volume_db = 10.0
+pitch_scale = 1.66
+bus = &"Sounds"
+randomVolume = 0.0
+maxAudibleDistance = 500.0
+streams = [ExtResource("17"), ExtResource("18"), ExtResource("19")]
+removeAfterPlaying = true
+
+[node name="KunaiBounceSound2" parent="KunaiBounceRevealWaterSound" instance=ExtResource("4")]
+stream = ExtResource("6")
+volume_db = -0.501
+pitch_scale = 1.18
+bus = &"Sounds"
+maxAudibleDistance = 400.0
+removeAfterPlaying = true
+
+[node name="ShurikenImpactSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = ExtResource("20")
+bus = &"Sounds"
+randomVolume = 0.0
+minAudibleDistance = 70.0
+removeAfterPlaying = true
+
+[node name="KunaiImpactSound" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = SubResource("AudioStreamRandomizer_rrowk")
+volume_db = -4.078
+bus = &"Sounds"
+randomVolume = 2.0
+maxAudibleDistance = 500.0
+removeAfterPlaying = true
+
+[node name="KunaiFuseSound" parent="KunaiImpactSound" instance=ExtResource("4")]
+unique_name_in_owner = true
+stream = ExtResource("24")
+volume_db = -1.612
+pitch_scale = 1.17
+bus = &"Sounds"
+randomVolume = 2.0
+maxAudibleDistance = 500.0
+removeAfterPlaying = true
+
+[node name="LightNode" type="Sprite2D" parent="."]
+texture = ExtResource("25")
+offset = Vector2(0, 3)

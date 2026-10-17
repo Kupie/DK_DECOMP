@@ -1,0 +1,292 @@
+[gd_scene load_steps=25 format=3 uid="uid://bmkcek1hheu7q"]
+
+[ext_resource type="Script" path="res://content/gadgets/minedriller/SideDriller.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://02emll07tpim" path="res://content/shared/Usable.tscn" id="2"]
+[ext_resource type="Script" path="res://content/gadgets/minedriller/TileToucher.gd" id="3"]
+[ext_resource type="Texture2D" uid="uid://cu845y1snv2xd" path="res://content/gadgets/minedriller/sidearm_segment.png" id="4"]
+[ext_resource type="SpriteFrames" uid="uid://dy8eimum5decj" path="res://content/gadgets/minedriller/side_drill.tres" id="5"]
+[ext_resource type="Texture2D" uid="uid://cflnigtmjmyqg" path="res://content/shared/particle_1px_offset.png" id="6"]
+[ext_resource type="PackedScene" uid="uid://uxy7p8ptokg6" path="res://content/gadgets/minedriller/SideDrillerSounds.tscn" id="7"]
+[ext_resource type="Texture2D" uid="uid://blsb1cq2mxn63" path="res://content/drop/iron/icon_selector2_wide.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://bnbg0hi6l4jl1" path="res://content/gadgets/minedriller/grabber.png" id="9"]
+[ext_resource type="Texture2D" uid="uid://bqmvctmqe2fel" path="res://content/gadgets/minedriller/light_off.png" id="10"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="11"]
+[ext_resource type="AudioStream" uid="uid://b60xismlkx3aq" path="res://content/sounds/Bastards/Achiemenet.wav" id="12"]
+
+[sub_resource type="CircleShape2D" id="2"]
+radius = 3.0
+
+[sub_resource type="Gradient" id="Gradient_nccrt"]
+offsets = PackedFloat32Array(0, 0.606119, 0.848948, 1)
+colors = PackedColorArray(0.188235, 0.92549, 0.156863, 1, 0.12549, 0.568627, 0.156863, 1, 0.0313726, 0.145098, 0.156863, 1, 0.0313726, 0.145098, 0.156863, 0)
+
+[sub_resource type="GradientTexture2D" id="167"]
+gradient = SubResource("Gradient_nccrt")
+width = 128
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_754kc"]
+lifetime_randomness = 0.8
+particle_flag_disable_z = true
+angle_max = 360.0
+spread = 20.0
+initial_velocity_min = 6.0
+initial_velocity_max = 60.0
+angular_velocity_min = -800.0
+angular_velocity_max = 800.0
+gravity = Vector3(0, 20, 0)
+color_ramp = SubResource("167")
+
+[sub_resource type="RectangleShape2D" id="3"]
+size = Vector2(40, 24)
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_2yoms"]
+lifetime_randomness = 0.8
+particle_flag_disable_z = true
+angle_max = 360.0
+direction = Vector3(-1, 0, 0)
+spread = 20.0
+initial_velocity_min = 6.0
+initial_velocity_max = 60.0
+angular_velocity_min = -800.0
+angular_velocity_max = 800.0
+gravity = Vector3(0, 20, 0)
+color_ramp = SubResource("167")
+
+[sub_resource type="RectangleShape2D" id="4"]
+size = Vector2(40, 24)
+
+[sub_resource type="SegmentShape2D" id="SegmentShape2D_attach_top"]
+a = Vector2(-6, 0)
+b = Vector2(6, 0)
+
+[sub_resource type="SegmentShape2D" id="SegmentShape2D_attach_bottom"]
+a = Vector2(-6, 0)
+b = Vector2(6, 0)
+
+[sub_resource type="Curve" id="Curve_hgsvo"]
+_data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(0.314637, 1), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="CurveTexture" id="CurveTexture_mcoan"]
+curve = SubResource("Curve_hgsvo")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_8n0hi"]
+lifetime_randomness = 0.8
+particle_flag_disable_z = true
+emission_shape = 3
+emission_box_extents = Vector3(4, 1, 1)
+angle_max = 360.0
+direction = Vector3(0, 1, 0)
+spread = 70.0
+initial_velocity_min = 6.0
+initial_velocity_max = 60.0
+angular_velocity_min = -800.0
+angular_velocity_max = 800.0
+gravity = Vector3(0, 20, 0)
+alpha_curve = SubResource("CurveTexture_mcoan")
+
+[node name="SideDriller" type="Node2D"]
+z_index = 23
+texture_filter = 1
+script = ExtResource("1")
+
+[node name="Usable" parent="." instance=ExtResource("2")]
+visibleOnFocus = NodePath("../Marker")
+
+[node name="TileToucherLeft" type="Area2D" parent="."]
+z_index = 1
+position = Vector2(-8, 0)
+collision_layer = 0
+script = ExtResource("3")
+large = false
+direction = Vector2(-1, 0)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="TileToucherLeft"]
+shape = SubResource("2")
+
+[node name="Arm" type="Sprite2D" parent="TileToucherLeft"]
+z_index = -2
+z_as_relative = false
+position = Vector2(4, 0)
+texture = ExtResource("4")
+region_enabled = true
+region_rect = Rect2(0, 0, 0, 3)
+
+[node name="shadow" type="Sprite2D" parent="TileToucherLeft/Arm"]
+self_modulate = Color(0, 0, 0, 0.380392)
+z_index = -1
+position = Vector2(2, 2)
+texture = ExtResource("4")
+region_enabled = true
+region_rect = Rect2(0, 0, 0, 3)
+
+[node name="DrillSprite" type="AnimatedSprite2D" parent="TileToucherLeft"]
+z_index = -2
+z_as_relative = false
+texture_filter = 1
+sprite_frames = ExtResource("5")
+frame = 4
+frame_progress = 0.191321
+flip_h = true
+
+[node name="shadow" type="AnimatedSprite2D" parent="TileToucherLeft/DrillSprite"]
+self_modulate = Color(0, 0, 0, 0.380392)
+z_index = -1
+texture_filter = 1
+position = Vector2(2, 2)
+sprite_frames = ExtResource("5")
+frame = 4
+frame_progress = 0.191321
+flip_h = true
+
+[node name="DrillHitParticles" type="GPUParticles2D" parent="TileToucherLeft/DrillSprite"]
+position = Vector2(-3, 0)
+amount = 15
+process_material = SubResource("ParticleProcessMaterial_754kc")
+texture = ExtResource("6")
+lifetime = 0.8
+speed_scale = 2.0
+visibility_rect = Rect2(-3, -3, 6, 6)
+
+[node name="ResourcePuller" type="Area2D" parent="TileToucherLeft"]
+position = Vector2(8, 0)
+collision_layer = 0
+collision_mask = 1024
+monitorable = false
+gravity_space_override = 3
+gravity_point_center = Vector2(1, 0)
+gravity_direction = Vector2(1, 0)
+gravity = 8.0
+linear_damp_space_override = 3
+linear_damp = 1.0
+
+[node name="PullerCollisionLeft" type="CollisionShape2D" parent="TileToucherLeft/ResourcePuller"]
+unique_name_in_owner = true
+position = Vector2(0, -1.5)
+shape = SubResource("3")
+
+[node name="Sounds" parent="TileToucherLeft" instance=ExtResource("7")]
+
+[node name="TileToucherRight" type="Area2D" parent="."]
+z_index = 1
+position = Vector2(8, 0)
+collision_layer = 0
+script = ExtResource("3")
+large = false
+direction = Vector2(1, 0)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="TileToucherRight"]
+shape = SubResource("2")
+
+[node name="Arm" type="Sprite2D" parent="TileToucherRight"]
+z_index = -2
+z_as_relative = false
+position = Vector2(-4, 0)
+texture = ExtResource("4")
+region_enabled = true
+region_rect = Rect2(0, 0, 7, 3)
+
+[node name="shadow" type="Sprite2D" parent="TileToucherRight/Arm"]
+self_modulate = Color(0, 0, 0, 0.380392)
+z_index = -1
+position = Vector2(2, 2)
+texture = ExtResource("4")
+region_enabled = true
+region_rect = Rect2(0, 0, 7, 3)
+
+[node name="DrillSprite" type="AnimatedSprite2D" parent="TileToucherRight"]
+z_index = -2
+z_as_relative = false
+texture_filter = 1
+sprite_frames = ExtResource("5")
+frame = 4
+frame_progress = 0.191321
+
+[node name="shadow" type="AnimatedSprite2D" parent="TileToucherRight/DrillSprite"]
+self_modulate = Color(0, 0, 0, 0.380392)
+z_index = -1
+texture_filter = 1
+position = Vector2(2, 2)
+sprite_frames = ExtResource("5")
+frame = 4
+frame_progress = 0.191321
+
+[node name="DrillHitParticles" type="GPUParticles2D" parent="TileToucherRight/DrillSprite"]
+position = Vector2(3, 0)
+amount = 15
+process_material = SubResource("ParticleProcessMaterial_2yoms")
+texture = ExtResource("6")
+lifetime = 0.8
+speed_scale = 2.0
+visibility_rect = Rect2(-3, -3, 6, 6)
+
+[node name="ResourcePuller" type="Area2D" parent="TileToucherRight"]
+position = Vector2(-8, 0)
+collision_layer = 0
+collision_mask = 1024
+monitorable = false
+gravity_space_override = 3
+gravity_point_center = Vector2(-1, 0)
+gravity_direction = Vector2(-1, 0)
+gravity = 8.0
+linear_damp_space_override = 3
+linear_damp = 1.0
+
+[node name="PullerCollisionRight" type="CollisionShape2D" parent="TileToucherRight/ResourcePuller"]
+unique_name_in_owner = true
+position = Vector2(0, -0.5)
+shape = SubResource("4")
+
+[node name="Sounds" parent="TileToucherRight" instance=ExtResource("7")]
+
+[node name="TentacleAttachBody" type="StaticBody2D" parent="."]
+collision_layer = 2147483648
+collision_mask = 0
+
+[node name="CollisionShapeTop" type="CollisionShape2D" parent="TentacleAttachBody"]
+position = Vector2(0, -4)
+shape = SubResource("SegmentShape2D_attach_top")
+
+[node name="CollisionShapeBottom" type="CollisionShape2D" parent="TentacleAttachBody"]
+position = Vector2(0, 4)
+shape = SubResource("SegmentShape2D_attach_bottom")
+
+[node name="Marker" type="Sprite2D" parent="."]
+position = Vector2(-3.57628e-07, 0)
+texture = ExtResource("8")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+z_index = 2
+texture = ExtResource("9")
+
+[node name="light_left" type="Sprite2D" parent="Sprite2D" groups=["unstyled"]]
+position = Vector2(-6, -1)
+texture = ExtResource("10")
+offset = Vector2(0.5, 0)
+
+[node name="light_right" type="Sprite2D" parent="Sprite2D" groups=["unstyled"]]
+position = Vector2(5, -1)
+texture = ExtResource("10")
+offset = Vector2(0.5, 0)
+
+[node name="MoveParticles" type="GPUParticles2D" parent="."]
+amount = 40
+process_material = SubResource("ParticleProcessMaterial_8n0hi")
+texture = ExtResource("6")
+lifetime = 0.5
+speed_scale = 2.0
+visibility_rect = Rect2(-3, -3, 6, 6)
+
+[node name="GrabSound" parent="." instance=ExtResource("11")]
+stream = ExtResource("12")
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="ReleaseSound" parent="." instance=ExtResource("11")]
+stream = ExtResource("12")
+pitch_scale = 0.82
+randomVolume = 0.0
+randomPitch = 0.0
+
+[connection signal="body_entered" from="TileToucherLeft/ResourcePuller" to="." method="_on_resource_puller_body_entered"]
+[connection signal="body_entered" from="TileToucherRight/ResourcePuller" to="." method="_on_resource_puller_body_entered"]

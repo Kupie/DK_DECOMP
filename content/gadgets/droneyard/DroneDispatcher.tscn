@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://ch4e7rx87coms"]
+
+[ext_resource type="Script" path="res://content/gadgets/droneyard/DroneDispatcher.gd" id="1"]
+[ext_resource type="Script" path="res://systems/network/Synchronizer.gd" id="2"]
+
+[node name="DroneDispatcher" type="Node2D" node_paths=PackedStringArray("synchronizer")]
+script = ExtResource("1")
+synchronizer = NodePath("Synchronizer")
+
+[node name="DroneSpawnPoint" type="Marker2D" parent="."]
+
+[node name="Synchronizer" type="Node" parent="."]
+script = ExtResource("2")
+target_connection_states = [3, 6]

@@ -1,0 +1,33 @@
+[gd_scene load_steps=5 format=3 uid="uid://dh5kxxd5rxh7m"]
+
+[ext_resource type="Script" path="res://content/keeper/keeper3/KunaiSonar.gd" id="1"]
+
+[sub_resource type="Gradient" id="Gradient_jw4du"]
+offsets = PackedFloat32Array(0.184638, 0.206795, 0.57164, 1)
+colors = PackedColorArray(0.0941176, 0.74902, 0.627451, 1, 0.0313726, 0.270588, 0.627451, 1, 0.0313726, 0.270588, 0.627451, 1, 0.12549, 0.207843, 0.627451, 0)
+
+[sub_resource type="GradientTexture2D" id="2"]
+gradient = SubResource("Gradient_jw4du")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_3iap7"]
+particle_flag_disable_z = true
+emission_shape = 6
+emission_ring_axis = Vector3(0, 0, 1)
+emission_ring_height = 1.0
+emission_ring_radius = 10.0
+emission_ring_inner_radius = 10.0
+gravity = Vector3(0, 0, 0)
+tangential_accel_min = 2000.0
+tangential_accel_max = 2000.0
+scale_min = 2.0
+scale_max = 2.0
+color_ramp = SubResource("2")
+
+[node name="KunaiSonar" type="Node2D"]
+script = ExtResource("1")
+
+[node name="GPUParticles2D" type="GPUParticles2D" parent="."]
+scale = Vector2(0.2, 0.2)
+amount = 100
+process_material = SubResource("ParticleProcessMaterial_3iap7")
+lifetime = 0.1

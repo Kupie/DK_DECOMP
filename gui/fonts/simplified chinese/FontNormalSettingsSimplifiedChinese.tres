@@ -1,0 +1,8 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://bu3eucpm80afq"]
+
+[ext_resource type="FontFile" uid="uid://d0htcuqp38k1x" path="res://gui/fonts/simplified chinese/NotoSansSC-Regular.otf" id="1"]
+
+[resource]
+font = ExtResource("1")
+font_size = 22
+font_color = Color(0.878431, 0.807843, 0.862745, 1)

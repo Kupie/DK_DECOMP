@@ -1,0 +1,2207 @@
+﻿key,nl_NL
+upgrades.teslapersistance1.title,Persistent Orbs 1
+upgrades.keeper4ramping1.title,Momentum
+upgrades.stationextensionupgrades.desc,Buy upgrades remotely in the mobile station.
+upgrades.sword.title,Zwaard
+upgrades.autocannonimproved.desc,Improve all aspects of the cannon.
+upgrades.drillbotstrength1.title,Kracht 1
+properties.monstermodifiers.timebetweenwavesmodifier,Cycle Length {.percent}
+level.gameover.unlock.modifiers,New run modifier unlocked!
+keybindings.reset.explanation.ps5,Your Button Bindings have been reset due to a recent update which made significant changes to the input scheme. Sorry for the inconvenience!
+reward.rewardrerolloffers2.desc,Spend water to reroll the gadget or supplement choices multiple times.
+upgrades.proberecharge.desc,The probe will slowly recharge on its own over time.
+versus.corruptionmonsterdamage.title,Lethal Monsters
+loadout.start.area.press,Press|to start your run!
+upgrades.shieldbattleblastdamage.title,Dodelijk veld
+properties.monstermodifiers.move_speed,Monster Move Speed {.percent}
+upgrades.mushroomfarmspeed1.title,Mushroom Speed 1
+upgrades.chainsawdamage1.title,Saw Size 1
+properties.orchard.battlerootexplosion,Explosion Damage {}
+level.tutorial.assessor.bundleguide.desc2.switch,Press|without pressing a direction to place a stationary bundle.
+upgrades.swordtargetlock.desc,Na een steek fixeert het zwaard zich automatisch op het volgende monster.
+reward.rewardautomatedweapons.desc,Automate your secondary weapons.
+options.input.gamepad,Controller
+playerlist.profile,See Profile
+upgrades.stunlaserstun1.title,Stun Strength 1
+properties.condenser.overchargedelay,Production Delay (Cycles) {}
+exhibition.level.description,Je gaat terug naar het hoofdmenu over...
+keybindings.reset.explanation.switch,Your Button Bindings have been reset due to a recent update which made significant changes to the input scheme. Sorry for the inconvenience!
+upgrades.shockwave.title,Shockwave Hammer
+properties.keeper3.shurikencooldown,Shuriken Cooldown {}s
+title.navbar.leaderboard,Prestige
+modding.prestigewhitelist,"If you have a mod that should be whitelisted for Prestige mode, tell us on Discord and we'll check it. Whitelisted mods do not change game balance, but instead improve accessibility or add cosmetic changes."
+upgrades.extractordoublebuild.desc,Improve the worm production.
+upgrades.chainsawdamage3.title,Saw Size 3
+modding.modio.error,Error mod.io
+loadout.versusmod.versusmodifiermirroredmap.desc,"The maps below the domes are identical, mirrored copies of each other."
+actionhint.blast,Explosie
+multiplayer.host.crossplay,Enable Crossplay
+properties.converter.ironpercobalt,{} IJzer per Kobalt
+upgrades.shieldovercharge.desc,"Gebruik water om je schild handmatig te overladen, zodat het tijdens de volgende golf meer schade kan absorberen."
+properties.droneyard.overchargebattledronestrength,Strengthen Battle Drones {.percent}
+options.game.showkeeperaimindicator,Toon Wachter richtingsindicator
+upgrades.autocannonautonomy.title,Autonomie
+properties.keeper4.holesquadduration,Mining Squad Duration {}s
+options.keybindings.rebinding.capture,Vastleggen
+options.game.screenshake.shakeintensity,Intensiteit van het schudden
+upgrades.keeper2pinballspherelifetime.desc,Increase the time kinetic spheres will remain flying.
+upgrades.swordreflection2.title,Weerkaatsing 2
+upgrades.lift.title,Lift
+assignment.circumstance,Conditions
+options.input,Invoer
+properties.keeper2.spheresplit,Split Incoming Spheres
+properties.tesla.damage,Shot Damage {}
+options.game.events.allowtelemetry,Enable Online Multiplayer
+properties.keeper1.maxspeed,Topsnelheid {}
+level.tutorial.tesla.panel3content1,The tesla dome is versatile. You need to combine all its abilities to succeed with it.
+level.tutorial.sworddome.reflecting.desc,Gebruik het schild van het zwaard om projectielen te stoppen of zelfs weerkaatsen.
+options.game.bundlesnapping,Snap Bundle Aim to Cardinal Directions
+upgrades.spiresustain.title,Sustained Fire
+reward.rewardpermanentinventory.title,Permanent Inventory
+properties.furnace.ironduration,Iron Burn Time (Cycles) {}
+level.gameover.assignment.badges.more,Voltooi de uitdagingsmodus van deze opdracht om nog een badge te verdienen.
+upgrades.droneyardovercharge2.title,Improved Overcharge
+multiplayer.error.joincodefailed,No lobby with the given join code was found.
+properties.laser.movespeedwhilefiring,Snelheid tijdens schieten {.percent}
+upgrades.keeper3shurikencooldown1.title,Rapid Shuriken
+upgrades.orchardduration2.desc,De effecten van het fruit duren nog langer.
+options.input.controls,Besturing
+upgrades.droneyardovercharge3.desc,Get even more additional drones after overcharging the droneyard.
+upgrades.blastminingimpactdetonation.desc,The blast charge will explode on impact with a surface. The explosion will be offset into the direction of the impact.
+upgrades.drillbotstrength3.title,Kracht 3
+level.gameover.clientdisconnect,Disconnect from Host
+upgrades.swordstabexplode.desc,Het zwaard neemt een bom mee die ontploft op de eerste vijand die wordt gestoken.
+properties.keeper4.minpunchdelay,Fastest Punch {}s
+options.audio.music,Muziek
+upgrades.keeper3carrylimit3.title,Carry Capacity 3
+upgrades.keeper4swiftpunch.desc,Mining starts at a higher initial speed.
+assignment.showdown.desc,The monsters on this planet are preparing for a single massive attack.
+properties.suitblaster.chargespeedpercharge,Additional Charge Speed per Charge {.percent}
+loadout.versusmod.versusmodifierhardrock,Hard Rock
+properties.keeper4.catgoblinminingspeed,Catgoblin Digging Speed {.percent}
+keeperdlc.title,The Lost Keepers
+upgrades.drillbotduplicate.title,Broertje
+properties.mushroomfarm.drillbuffduration,Mining Buff Duration {}s
+upgrades.droneyardbattlegridlong1.desc,Release more drones that will stay around for longer.
+level.gameover.prestige.uploading.inprocess,score wordt geüpload...
+upgrades.furnace.desc,Install a furnace with a chimney. Its smoke delays the next monster attack.
+leaderboard.needsOnlineServices.ps5,Accept EULA in the options to view leaderboards.
+options.game.multiplayer,Meerdere spelers
+upgrades.shieldbattledestructionprevention.desc,"Je bent langer onkwetsbaar als je koepel op instorten staat.
+Je schild laadt daarna niet op voor het volgende gevecht. Je moet 2 golven hebben voltooid om 'Laatste verzet' te kunnen activeren.
+"
+properties.keeper2.bundlestopcenter,Zwaartekrachtsveld middenzuil
+upgrades.chainsawdamage2.title,Saw Size 2
+upgrades.keeper2rotationalmining1.title,Compression Mining 1
+upgrades.swordlargeblade1.title,Zwaar zwaard 1
+assignment.mode.regular,Normaal
+level.tutorial.assessor.spheres.desc2,Your sphere supply is limited and reloads automatically over time.
+level.tutorial.assessor.spheres.desc1,Hit| to shoot a kinetic sphere in the direction in which you are facing.
+upgrades.repellentdelay2.desc,Verlengt de vertraging van de volgende golf monsters nog meer.
+upgrades.artillerydirecthit1.desc,Improve your mortar to fire shells specialised in direct hits.
+reward.rewardpet12.title,Dog Pet
+upgrades.keeper2movement4.desc,Move much faster while collecting and carrying resources.
+properties.sword.stabspeed,Steeksnelheid {.percent} 
+upgrades.artillerysplash3.title,Volatile Explosives 2
+properties.drillbot.amount,Boort {} keer
+options.game.autopickupkunaicarrier,Automatically pick up Kunai Carrier
+upgrades.stunlaserautonomy1.desc,Stun laser activates even when you are not inside the control station.
+properties.laser.stun,Verlammingskracht {}
+level.gameover.continue,Doorgaan
+multiplayer.host.joincodeunavailable,Unavailable
+upgrades.shieldbattlelongerafterdepletion.desc,Het veld blijft langer actief als het is geactiveerd nadat je schild was uitgeput.
+level.tutorial.assessor.mining.desc,To remove a single rock keep pushing against it.
+upgrades.teleporterteleportresourcesback.desc,"De portal teleporteert nu grondstoffen, maar kan jou niet langer teleporteren. Je kunt nog wel teleporteren van de koepel naar de portal."
+keybindings.reset.doreset.ps5,Reset my Button bindings
+upgrades.jetpackstrength1.title,Draagkracht 1
+level.tutorial.beastmaster.squad_1,Hold| near a hole to call a mining squad.
+loadout.prestige.pro.explanation,"Reduce some randomness and define a fixed order for gadgets, supplements and caves."
+level.tutorial.beastmaster.squad_3,Only one squad can be active at a time.
+upgrades.swordelectrified.desc,"Het zwaard staat onder stroom, waardoor het extra schade aanricht bij contact."
+level.tutorial.beastmaster.squad_2,They will randomly mine rock around the hole.
+upgrades.drill1.title,Boorkracht 1
+loadout.start.area.move,Move all keepers here to start!
+level.station.upgrademenu.close,Afsluiten
+upgrades.rocketlauncherrestock.title,Restock Missiles
+upgrades.chainsawdamage1.desc,Increase how much damage the buzz saw does to monsters.
+level.station.battle.navbar.artilleryshoot,Mortar
+upgrades.repellentdelay3.title,Vertraging 3
+upgrades.suitblasterspeed1.title,Charge Speed 1
+level.gameover.stats.additional,Detailed Statistics
+options.audio.music.ost.mode.adaptive,Adaptief (aanbevolen)
+upgrades.furnacestrongwaterfiring.title,Enhanced Water Fuel
+properties.dome.meleethorndamage,Returned Damage {}
+upgrades.repellentbattlelongerhealthreduction.desc,Strengthen the withering of all visible monsters.
+level.tutorial.tesla.panel3header,Many Abilities
+versus.corruptionstunresistance.desc,The monsters will be largely resistant to being stunned or slowed.
+level.tutorial.assessor.spheres,Kinetische bollen
+upgrades.chainsawdouble.title,Double Buzz Saw
+upgrades.keeper4squad1.desc,Summon a specialized squad of miner Catgoblins to excavate nearby rock. They have a knack for digging around resources.
+versus.message.corruption,The other team just sent a monster corruption your way.
+options.keybindings.action.keeper.gadget1,Gadget 1
+options.keybindings.action.keeper.gadget2,Gadget 2
+upgrades.shieldbattlereflectspeed.title,Versnelde weerkaatsing
+properties.monsters.additionalstartweight,Additional Wave Weight {}
+level.gameover.stats.damagedealt,Damage Dealt
+properties.keeper2.reflectspeed,Sphere Speedup {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,Duur extra vaardigheid {}s
+properties.converter.ironcobalttime,Iron to Cobalt Conversion Time (Cycles) {}
+upgrades.droneyardbattlegrid.desc,Deploy a formation of battle drones to defend against nearby monsters.
+upgrades.suitblasterradius1.desc,Increase the blast radius.
+upgrades.droneyardbattlegridquick1.title,Quick Drones
+options.input.controls.keybindings.button.ps5,Change Button Bindings
+multiplayer.host.ping,Server Ping: %dms
+title.navbar.singleplayer,Singleplayer
+options.video.renderhalfres.enable,Render at Half Resolution
+level.gameover.stats.destroyedblocks,Blokken verwoest
+upgrades.converterefficientwaterlong.desc,Change the water conversion into a lengthy process with great yields.
+pause.restartrun,Restart Run
+options.video.stretchmode.scaled,Opgeschaald
+level.tutorial.beastmaster.mine.desc1,Continuously push against rocks to mine them.
+level.tutorial.beastmaster.mine.desc2,Your mining speed increases with each hit.
+upgrades.domesupplementscraprepair2.desc,Restore the structural integrity the dome lost doing scrap repairs.
+upgrades.keeper2bundle3.desc,Bundles shot toward the center of the mine will stop directly under the dome instead of continuing to fly.
+leaderboard.fellowkeepers,Guild Ranking
+upgrades.autocannon.desc,Install a powerful automatic cannon on your dome that does heavy damage to monsters.
+properties.orchard.battlerootcatchduration,Trap Duration {}s
+upgrades.laseraimline.desc,"Voeg een vizier toe aan de laser, zodat je kunt zien waarop deze gericht is."
+upgrades.teslapersistance2.title,Persistent Orbs 2
+upgrades.orchardovercharge2.desc,Increase the impact of overcharging on the battle abilities.
+actionhint.teleport,Teleport
+loadout.difficulty.medium.description,Dome's bedoelde moeilijkheidsgraad.
+upgrades.swordlargeblade2.title,Zwaar zwaard 2
+loadout.prestige.endless,Endless
+upgrades.teslanurture.title,Nurture Electro Orbs
+upgrades.shieldbattleelectroblast.desc,Activeer een actieve vechtvaardigheid die eventjes een dodelijk veld opwekt rond je koepel.
+options.game.blocklist.desc,"List of users you have blocked.
+You won't be able to play with any blocked user in future online games.
+If you change your mind about a blocked user, unblock it below.
+You can block up to %s users."
+actionhint.cancel,Annuleren
+upgrades.shockwavestun2.title,Shockwave Stun 2
+upgrades.liftcapacity1.desc,De bollen kunnen meer grondstoffen meenemen.
+upgrades.domewavemeter.title,Vijandklok
+level.gameover.assignment.win.title,ASSIGNMENT COMPLETED
+gadget.slot.cellar,Cellar
+options.game.ropecamerafollow,Camera Look-Ahead strength when using the Rope
+upgrades.proberecharge.title,Automatisch opladen
+level.tutorial.repair.usecobalt,Je kunt je koepel repareren met kobalt. Het is een upgrade in het techschema van de koepel.
+level.supplementchoice.title,PICK A SUPPLEMENT!
+options.keybindings.action.general.right,Rechts
+gadget.slot.keepersuit,Keeper Suit
+assignment.cobaltcontribution.desc,The guild is in urgent need of cobalt and requests that you deliver a lot of cobalt quickly.
+upgrades.prestigefinish.desc,Verlaat deze planeet en keer terug naar huis.
+loadout.mapsize.huge.description,Een grote kaart voor de langste runs.
+options.game.events,Evenementen
+loadout.versusmod.versusmodifierrichirondeposits.desc,Iron deposits are small but very rich.
+loadout.mode.shortcycles.desc,You have less time between waves.
+multiplayer.error.lobby.host,Failed to host the lobby.
+level.tutorial.sworddome.reflecting,Weerkaatsen
+level.tutorial.artillery.panel3header,Explosions & Direct Hits
+assignment.rareiron.title,Iron Shortage
+level.tutorial.assessor.carry.desc1_1,"Zodra ze aan je gekoppeld zijn, volgen ze je zelfs wanneer je de verzamelingsknop loslaat."
+level.station.battle.navbar.slice,Hakken
+upgrades.furnacewaterfiring.title,Water Fuel
+upgrades.drill.desc,"A central drill to go deep into the mine, with an optional side driller."
+level.gameover.stats.additionalgadget,Extra gadget
+level.tutorial.tesla.panel2content1,Hold|to charge a shot.
+level.tutorial.tesla.panel2content2,"To fire a shot, only release after fully charging. Releasing before will do nothing."
+upgrades.teslapersistance1.desc,The electro orbs are larger and persist longer.
+upgrades.blastminingtriple.desc,Produce multiple blast charges at once instead of a single one.
+properties.droneyard.battledronecount,Battle Drones {}
+options.ok,OK
+loadout.versusmod.versusmodifiermanycaverns,Cavernous Map
+upgrades.lasermove1.desc,De laser beweegt sneller.
+upgrades.domewavewarner.desc,An adaptive wave meter will signal when an attack on the dome is imminent. Accuracy of the meter will improve over time.
+upgrades.dome4.title,Tesla Dome
+upgrades.keeper4squad1.title,Tunnel Squad
+upgrades.keeper4autospawnminers.desc,"Whenever a new tunnel entrance is dug, a miner squad will emerge automatically."
+assignment.unpredictable.title,Broken Comms
+upgrades.blastminingblast3.desc,Upgrade the blast charges to extreme strength.
+upgrades.domewavepathtodome.title,Exit Route
+level.tutorial.probe.popup_1.switch,Press | to emit a probe pulse.
+upgrades.teslapower1.desc,Improve the power of the tesla's shot.
+loadout.versus.modifiers.title,Modifiers
+properties.furnace.irondelay,Iron Delay {}s
+actionhint.pickup,Oppakken
+demo.end.subtitle,"Het volledige spel biedt nog veel meer! Als je het naar je zin hebt, kun je overwegen het volledige spel te kopen. Het volledige spel biedt:"
+loadout.versusmod.versusmodifierironinflation.desc,"All upgrades need twice as much iron, but iron deposits are richer."
+upgrades.artilleryprojectileerasure.title,Projectile Dispersion
+options.video.brightness.reset,Herstel
+upgrades.domesandrepair.desc,Gebruik kobalt om de schade aan je koepel te repareren.
+upgrades.swordlongblade2.title,Lang zwaard 2
+level.gameover.restart,Begin opnieuw
+options.input.gamepad.thumbstick.ps5,Stick
+level.tutorial.caves,Caves
+options.input.gamepad.gamepadstickdeadzone.ps5,Stick Dead Zone
+upgrades.keeper3shuriken2.title,Swift Shuriken
+upgrades.condenserspeed1.desc,Er is minder tijd nodig om een eenheid water te produceren.
+properties.monsters.fixedweight,Fixed Wave Strength {}
+properties.versus.ironcontribution,Iron Contribution {}
+multiplayer.join.title,Join a multiplayer session
+upgrades.prestigewater.title,Water versturen
+upgrades.keeper3kunaibounce2.title,Deep Resonance
+upgrades.swordtargetlock.title,Doelwitfixatie
+upgrades.artillerymachinegun4.title,Fast Fire Gun
+upgrades.mushroomfarmdrill2.title,Mushroom Mining 2
+upgrades.stunlaser.desc,Installeert een laser die kleine monsters automatisch onder vuur neemt en verlamt.
+upgrades.shieldbattleinvulnerable.title,Onkwetsbaarheid
+loadout.hint.dome,Choose a dome!
+loadout.versusmod.versusmodifierrichirondeposits,Dense Iron Deposits
+upgrades.chainsawdouble.desc,Install another buzz saw to effectively defend both sides of the dome.
+properties.lift.capacity,Bollen kunnen {} grondstoffen meenemen
+reward.rewardcentralmarker.title,Center Marker
+upgrades.autocannonrateoffire1.title,Machine Gun 1
+loadout.versusmod.versusmodifierwindingmap,Winding Map
+upgrades.prospectionmetersand2.title,Kobaltkompas
+properties.lift.orbs,{} bollen
+upgrades.keeper3doublejump.desc,Jump again while in mid-air.
+upgrades.droneyardparasites3.title,Parasitic Drones 3
+upgrades.keeper4doublesquad.title,Second Squad
+upgrades.relichunt.title,Reliekenjacht
+upgrades.orchardbattlerooting.desc,Activeer deze upgrade tijdens een gevecht om wortels te laten groeien buiten de koepel die vijanden van gemiddelde grootte verstrikken als ze erop gaan staan.
+upgrades.prospectionmetergadget.title,High Performance Meter
+properties.sword.reflection,Grotere schildvoet
+upgrades.extractorresources1.desc,"Breed special worms that work carefully, extracting more iron."
+properties.dome.autohealdamagethreshold,Activate After Taking More Than {} HP Damage
+upgrades.keeper2rotationalmining2.desc,Improve how quickly rock is mined.
+properties.tesla.persistencestunstrength,Electro Orb Stun Strength {}
+level.gameover.stats.timeplayed,Speeltijd
+properties.sword.stabdamage,Steekschade {} 
+properties.monsters.additionalwaveweight,Additional Wave Strength {.percent}
+options.game.playerindicatorsinmultiplayer,Show Player Indicators in Multiplayer
+properties.mushroomfarm.speedbuff,Move Speed Buff {}
+level.tutorial.drillbot.carry,"Haal Booris uit zijn tank en plaats hem in de mijn, zodat hij lekker kan graven."
+modding.modio.decline,Decline
+assignment.inversegravity.desc,The planet has inverted gravity.
+level.tutorial.drop.popup_2,Druk op | om er eentje achter te laten. Hou ingedrukt om er meerdere achter te laten.
+upgrades.droneyardbattlegridquick1.desc,Release more drones in much quicker succession.
+upgrades.mushroomfarmautopickup.desc,Automatically consume mushrooms when moving close to them.
+level.tutorial.drop.popup_1,Gedragen grondstoffen maken je langzamer.
+properties.sword.retractspeed,Terugtreksnelheid {} 
+reward.rewardkeeper1skin5.title,Engineer Skin
+upgrades.keeper4.desc,"Arcane keeper traversing the mines with agile tentacles, commanding catgoblin minions."
+assignment.condition.deliverwater,Deliver %d water
+loadout.difficulty.hard.description,"Tja, dan moet je het zelf maar weten."
+upgrades.keeper4speed2.title,Bewegingssnelheid 2
+loadout.versusmod.versusmodifierhardrock.desc,The map has more hard rock.
+properties.furnace.maxironstack,Maximum Iron Stack {}
+upgrades.rocketlauncherdamage2.desc,Improve the missiles even more.
+upgrades.artilleryrotation1.desc,Allows you to rotate the mortar further.
+level.furnace.popup.fuel.add,Stack one|to be burned.
+reward.rewardpostrunshowmonstercount.desc,Show additional post-run battle statistics like how much damage you received per monster type.
+upgrades.extractordoublebuild.title,Double Worm
+multiplayer.error.otherteamquit,The game was ended because all players have left the other team. Your game has been saved and you can continue the game by selecting multiplayer under the continue menu.
+upgrades.blastminingproductiontime1.title,Productietijd
+upgrades.chainsawdamage2.desc,Increase how much damage the buzz saw does to monsters.
+multiplayer.continue.deviceselection.originalplayer,Original Player
+upgrades.shieldbattleinvulnerable.desc,Activeer een actieve vechtvaardigheid die je koepel eventjes onkwetsbaar maakt.
+level.gameover.unlock.drillbert,Drillbert modifier unlocked!
+multiplayer.host.splitscreen.desc.switch,Use the Controllers in the loadout to spawn additional keepers. Up to two keepers can share one screen. Can be combined with online multiplayer.
+loadout.mapsize.large,Groot
+level.furnace.popup.explanation,Add resources to the fuel stack. The resources are burned one after another.
+upgrades.liftcapacity1.title,Capaciteit
+upgrades.shockwavebig.title,Deadly Wave
+upgrades.extractorresources2.desc,Breed worms that will find every last iron particle within the rock.
+level.tutorial.ninja.shuriken.desc1,Double tap| to throw a shuriken.
+level.tutorial.ninja.shuriken.desc2,Shuriken replenish over time.
+upgrades.droneyarddronespeed1.title,Drone Speed
+upgrades.stunlaserarea.title,Area Stun
+assignment.weakmining.title,Mining Problem
+options.game.events.allowtelemetry.ps5,Accept EULA
+upgrades.keeper3kunaibounce2.desc,Increase the range of tiles revealed with each bounce.
+assignment.projectilehell.title,Projectile Hell
+options.input.controls.mouse.gamepad.ps5,Switching to a Controller and back is automatically detected
+reward.rewardpermanenthealthmeter.title,Permanent Health Meter
+properties.game.fixedtimelimit,Time Limit: {} Minutes
+upgrades.drillbot.title,Booris
+options.video.performance,Performance
+properties.furnace.waterduration,Water Burn Time (Cycles) {}
+level.gameover.win.team.profile,Profile
+upgrades.droneyardbattlegrid.title,Battle Grid
+loadout.prestige.countdown.description,De prestigevermenigvuldiger begint hoog en daalt elke cyclus.
+level.tutorial.ninja.carry.desc1,Hit| to throw a kunai carrying resources in the direction you are aiming with your %s.
+level.gameover.miner.title,MINER RUN FINISHED
+loadout.mapsize.medium.description,Een gemiddelde kaart voor als je lekker wilt mijnen.
+upgrades.assignmentsemergencycontribution2.desc,Send this package before the 4th wave ends or fail this assignment.
+level.gameover.unlocknewelementbutton,Maak je keuze
+upgrades.repellentbattlestrongerslowdown2.desc,De nevel vertraagt monsters nog meer en blijft nog langer hangen.
+upgrades.orchardovercharge3.desc,Increase the impact of overcharging on the battle abilities.
+modding.steamworkshop,Open Steam Workshop
+upgrades.drillbotstrength2.title,Kracht 2
+reward.rewardkeeper1skin5.desc,Unlock a new keeper skin for the Engineer.
+options.keybindings.rebinding.error.gamepad.ps5,Cannot set this as a Controller input.
+properties.keeper2.actioncooldown,Action Cooldown {}s
+pause.godot,Gemaakt met Godot
+loadout.mode.nomonsters,No Monsters
+properties.teleporter.teleportduration,Teleportatieduur {}s
+level.paused,Gepauzeerd
+upgrades.teslaautoaim.desc,The aiming reticle gains a small radius in which it will automatically aim at the closest monster.
+upgrades.domearmorpulse.desc,"The dome armor retains a portion of the kinetic energy from attacks received, eventually releasing it in strong pulses that stun nearby enemies."
+upgrades.teslapower2.title,Shot Power 2
+modding.close,Sluiten
+upgrades.stunlaserduration2.desc,The stun laser cools down even faster and has an extended firing duration.
+level.station.battle.navbar.move,Verplaatsen
+upgrades.repellentbattleslowdown.title,Oponthoud
+properties.drillbot.buffstrength,Sneller energie {.percent}
+options.input.controls.keybindings.button.switch,Change Button Bindings
+upgrades.keeper4speed1.title,Bewegingssnelheid 1
+upgrades.stunlaserduration2.title,Firing Stamina 2
+modding.profile.delete,Profiel verwijderen
+upgrades.dome1health1.desc,Permanente verbetering van de structurele stabiliteit van je koepel.
+assignment.logistics.title,Logistical Nightmare
+level.gameover.prestige.score.finalscore,Your final score is...
+upgrades.prestige.desc,Scoor punten door zoveel mogelijk grondstoffen terug te sturen naar huis voordat je koepel sneuvelt of jij de planeet veilig verlaat.
+properties.chainsaw.damage,Damage per Second {}
+upgrades.autocannonshotgun2.desc,Increase shotgun power.
+reward.rewardthreechoicesgadget.title,Three Gadget Offers
+options.input.gamepad.twinstick,Twin-Stik Besturing
+upgrades.domewavewarner.title,Adaptive Wave Warner
+upgrades.mushroomfarmdrill1.desc,Improve the mining buff obtained from consuming mushrooms.
+properties.suitblaster.chargespeed,Charges per Cycle {}
+loadout.player.color,Keeper Color
+level.assignment.badges.unlock,Earn %d more badges to unlock.
+assignment.projectilehell.desc,"The planet is infested with flying, projectile-spitting monsters."
+properties.repellent.overchargebattleabilityduration,Duur extra vaardigheid {.percent}
+properties.orchard.battleshieldhp,Strength {} HP
+properties.keeper2.reflectsphere,Reflection Field
+upgrades.probecharges.desc,Add another charge to the probe.
+upgrades.resourcepackerconstant.title,Masterful Packing
+upgrades.droneyardbattlegridlong2.desc,Release many more drones that will stay around for very long.
+upgrades.swordreflection2.desc,Nog grotere schildvoet.
+upgrades.orchardovercharge3.title,Intense Overcharge
+upgrades.assignmentsemergencycontribution4.desc,Send this package before the 11th wave ends or fail this assignment.
+upgrades.droneyardovercharge3.title,Extensive Overcharge
+level.gameover.assignment.lose.title,ASSIGNMENT FAILED
+actionhint.pack,Pack
+upgrades.stationextensionminimap.title,Cartography
+properties.tesla.orbdamage,Electro Orb Damage {}
+properties.furnace.maxwaterstack,Maximum Water Stack {}
+loadout.versusmod.versusmodifiermirroredmap,Mirrored Map
+upgrades.artilleryrotation1.title,Wide Rotation
+upgrades.drillsidespeed2.desc,Speed up the side drillers even more.
+level.tutorial.resourcepacker.popup_1,"When close to resources, hit | to pack them into a compact bundle that is easier to transport."
+properties.orchard.overchargeabilityuses,Additional Ability Uses {}
+options.input.controls.gamepadusage.ps5,Controller Usage
+options.keybindings.restoredefault,Terug naar standaardinstellingen
+options.input.gamepad.switch,Controller
+upgrades.stationextensionresolution.title,High-Res Display
+upgrades.shieldbattlelongerafterdepletion.title,Uitputtingsboost
+telemetry.manage.ps5,Decline EULA
+level.gameover.stats.damagereceived,Damage Received
+modding.modio.moddownloadfailed,Error downloading mod.io mod!
+loadout.versusmod.versusmodifierironinflation,Iron Inflation
+reward.rewardpermanentwavecount.title,Permanent Cycle Counter
+upgrades.jetpackstrength1.desc,"Verbetert het jetpack, zodat je meer grondstoffen mee kunt nemen."
+level.gameover.unlock.gadget,Nieuwe gadget
+upgrades.stationextension.desc,"Get a mobile station, running on a rail directly below the dome. Enter the station to remotely control your dome from within the mine."
+loadout.versusmod.versusmodifierpoorirondeposits.desc,Iron deposits are very large but have lower yield.
+upgrades.repellentbattlestrongerslowdown2.title,Sterke stagnatie
+upgrades.converterirontocobalt.desc,Zet kobalt om in ijzer en omgekeerd.
+loadout.dome,KOEPEL
+upgrades.orchardduration3.title,Voedzaamheid 3
+level.gameover.stats.resourcesmined,Grondstoffen verzameld
+options.input.gamepad.thumbstick,Thumbstick
+upgrades.keeper1powerdrill.desc,"Gain a greatly improved drill that can easily drill through the hardest rock, even destroying previously indestructible bedrock."
+upgrades.domesecondweapon.title,Weaponize Second Station
+actionhint.fire,Schieten
+versus.corruptionfastprojectiles.title,Fast Projectiles
+level.gameover.unlock.dome,Nieuwe koepel
+loadout.versus.modifiers.limit,%d of %d modifiers chosen.
+upgrades.swordstabfast2.title,Snelle steek 2
+properties.blastmining.growthtime,Production Time (Cycles) {}
+options.keybindings.rebinding.inputprocessor.ps5,Press a new Button for this action…
+level.gameover.stats.difficulty,Niveau
+assignment.inversegravity.title,Upside Down
+assignment.acidrain.desc,The planet's acidic rain prevents any life and even cuts through the dome's armor.
+upgrades.keeper4doublesquad.desc,"Gain another squad, ready to work any time you call them."
+upgrades.keeper4powerfulfirstpunch.desc,The first strike against a tile will use exceptional force.
+multiplayer.host.start,Host session
+upgrades.mushroomfarmspeed2.title,Mushroom Speed 2
+demo.end.more1,Meer koepels!
+demo.end.more2,De Beoordelaar Wachter!
+upgrades.swordreflection1.desc,Vergroot de schildvoet en zorgt ervoor dat hij energieprojectielen weerkaatst.
+demo.end.more3,Veel meer gadgets!
+upgrades.chainsawspeed1.title,Saw Speed
+assignment.treefarm.desc,"The planet's resources are few, but many resource tree seeds can be found."
+demo.end.more4,Krachtige aanvullingen!
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"Set the value so that the meter does not flicker when only touching the sticks, without pushing them.
+The meter should flicker when moving the stick."
+actionhint.probe,Sonde
+level.gameover.keepgadget.keeping,Te houden gadget: {gadget}
+upgrades.keeper3aerialmastery.desc,"Gain increased control while falling. Additionally, each mid-air jump will launch you higher than the last."
+upgrades.drillbot.desc,Adopteer een schattig wezen dat dol is op graven. Draag hem de mijn in en zet hem neer waar je wilt dat hij aan de slag gaat. Ga af en toe bij hem kijken en maak hem wakker als hij in slaap is gevallen.
+upgrades.laserstrength4.title,Kracht 4
+upgrades.artillerydoublemachinegun.title,Double Barrel
+upgrades.laserbend.desc,Installeert een draaikop op de laser die het richten corrigeert als je net niet nauwkeurig genoeg bent.
+upgrades.teslaquickshot2.title,Powered Quick Shot
+properties.droneyard.battledronespawntime,Drone Spawn Time {}s
+upgrades.prospectionmetersand2.desc,Toont de richting naar de dichtstbijzijnde kobaltafzettingen.
+upgrades.keeper2pinballreflect2.title,Verbeterde weerkaatsing
+loadout.secondstage.start,Run starten
+level.tutorial.extractor.popup_1,Take the iron worms from the station and drop them near an iron cluster. They will attach to the iron and efficiently mine it over time.
+upgrades.spirestuntrap2.desc,Improve the efficiency of the energy trap to catch more projectiles.
+loadout.versus.condition.deathmatch.desc,The team that survives the longest wins.
+loadout.versusmod.versusmodifiertoughstart.desc,The monster waves start out quite strong.
+level.tutorial.drillingrig.popup2,"When close to a side driller, hold | to move it along the drill shaft."
+level.tutorial.drillbot.sleeping2.switch,"When close to Drillbert, press | to wake it."
+upgrades.teleporterteleportitems.title,Teleport Items
+level.tutorial.drillingrig.popup1,"Your drilling rig has a side driller, mining horizontally."
+level.tutorial.ninja.drop.desc1,Hit| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.stationextension.title,Underground Station
+upgrades.keeper2pinballreflect2.desc,Spheres are powered up even more when reflected.
+properties.sword.stabrange,Bereik {} 
+pause.disconnect.popup.ps5,You can't drop the main wireless controller.
+options.game.systemcursor,Standaard muiscursor gebruiken
+upgrades.artillerygrenadefastreload.desc,Reduce the reload time of your mortar significantly.
+upgrades.stationextensionrevealdistance1.title,Close Rock Scan
+loadout.mode.secondweapon,Second Weapon Unlocked
+options.video.reducedparticles,Reduced Particle Effects
+properties.monsters.finalwavefixedstrength,Final Wave Strength {}
+versus.corruptionfastmonsters.desc,The monsters will permanently be faster.
+upgrades.spirestuntrap1.desc,Shooting down a projectile generates an energy trap that will catch more projectiles. The amount the trap can capture depends on the potency of the incoming projectile.
+versus.corruptionfastprojectiles.desc,The monster projectiles will fly much faster.
+options.input.gamepad.twinstick.switch,Twin-Stick Controls (Disabled for single Joy-Con)
+upgrades.autocannonrateoffire2.title,Machine Gun 2
+upgrades.chainsaw.title,Buzz Saw
+options.input.vibration.strength,Vibratiesterkte
+savegame.corrupted.title,Corrupted Save File
+properties.drillbot.drillstrength,Boorkracht {}
+properties.prestige.multiplier,{} prestige per golfvermenigvuldiger
+upgrades.artillerysplash4.desc,Bring devastation across the whole battlefield by firing 4 highly explosive shells in quick succession.
+upgrades.condenserdoublestorage.desc,"De condensator produceert twee eenheden water en slaat deze op, waarna hij stopt met werken."
+upgrades.shieldbattleactivateondepletion.desc,"Als het schild is uitgeput, wordt Onkwetsbaarheid automatisch geactiveerd."
+upgrades.chainsawspeed1.desc,Let the buzz saw move faster between both sides.
+upgrades.teleporterteleportduration2.title,Teleport Duration 2
+properties.orchard.overchargeabilitystrength,Additional Ability Strength {.percent}
+modding.modio.loginfailed,Login to mod.io with Xbox account failed!
+upgrades.rocketlauncherrockets3.title,Barrage 3
+leaderboard.needsOnlineServices,Leaderboards require online services to be enabled.
+options.game.blocklist,Blocked User List
+upgrades.keeper4squad2.desc,Increases the number of Catgoblins in the squad and their endurance.
+reward.rewardweaponsupplements.desc,Discover extremely strong supplement upgrades for your weapon.
+upgrades.domesupplementadditionalcellar.desc,"Add another level to your cellar, providing two additional spots for gadgets."
+level.tutorial.assessor.bundle.desc1.switch,Press|while carrying resources to shoot a bundle.
+loadout.difficult.harder,moeilijker
+playerlist.close,Sluiten
+upgrades.keeper3rocketcarrier.title,Rocket Carrier
+level.tutorial.assessor.spheres.desc1.aiming,Hit| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+level.gameover.unlock.gamemode,Nieuw speltype
+upgrades.rocketlauncherrockets1.title,Barrage 1
+upgrades.autocannonspeed1.title,Speedup
+upgrades.spiresustain.desc,"Bring the recharge time down to nearly zero, enabling a very steady fire pace."
+upgrades.extractorresources1.title,Diligent Worms
+multiplayer.host.splitscreen.desc.xbox,Use the Controllers in the loadout to spawn additional keepers. Up to four keepers can share one screen. Can be combined with online multiplayer.
+level.assignment.badges,Badges
+upgrades.prestigefinish.title,Planeet verlaten
+properties.sword.slicebounceback,Zwaard stuitert op grond
+properties.droneyard.transportdronecount,Transport Drones {}
+upgrades.drilladditionalsides.title,Additional Side Driller
+upgrades.shieldbattleblastdamage.desc,Increase the damage and uses per battle of the electro blast.
+upgrades.extractordestruction.title,Lair Implosion
+properties.sword.electricdamage,Elektrozwaardschade {}
+properties.mushroomfarm.growthtime,Growth Time (Cycles) {}
+upgrades.keeper3carrylimit1.desc,Increase the number of resources you can haul on your Kunai carrier.
+options.accessibility.fontsize,Font Size
+upgrades.keeper4punch2.title,Frenzy 2
+upgrades.laser.desc,Een precisielaser die rond je koepel beweegt. Oorspronkelijk gemaakt voor het mijnen van asteroïden.
+loadout.hint.multiplayer.playermaximum,Must have 8 or fewer players to start a multiplayer run.
+upgrades.drillsides.title,Side Driller
+upgrades.mushroomfarmautopickup.title,Quick Bite
+options.input.controls.mouseusage,Muis gebruik
+properties.tesla.reticlemaxspeed,Reticle Speed {}
+upgrades.swordstabshoot.desc,"Het zwaard wordt niet teruggetrokken met een kabel, maar opgeladen en als een speer afgevuurd vanuit de koepel."
+properties.condenser.autocollect,Automatische verzameling
+level.gameover.back,Terug
+loadout.mapsize.small,Klein
+loadout.hint.gamemode,Choose a game mode!
+upgrades.swordlargeblade3.title,Zwaar zwaard 3
+level.tutorial.ninja.controls,This keeper can only be played with controller or mouse and keyboard.
+telemetry.explanation.ps5,"Accept our EULA to access online multiplayer.
+If you don't, you can still play local multiplayer in splitscreen.
+
+You can change this setting any time in the options."
+multiplayer.techtree.keeperexclusiveupgrades,These upgrades apply only to your keeper.
+assignment.heavyhitters.desc,The planet is swarming with melee monsters.
+options.input.controls.mouse.domes,Gebruik Muis voor Domes
+loadout.mode.toughstart, Tough Start
+upgrades.swordaimline.desc,Voeg een laservizier toe om de zwaardsteek te richten.
+upgrades.assignmentssendiron.title,Deliver Iron
+upgrades.domearmormelee1.title,Melee Armor 1
+assignment.showdown.title,Showdown
+upgrades.keeper3shuriken1.desc,Gain a throwable Shuriken that explodes in a small radius. Automatically replenishes over time.
+upgrades.teslatiming1.title,Perfect Timing
+upgrades.stationextensionrevealdistance2.title,Rock Scan
+loadout.prestige.pro.gadgetorder,Gadget Order
+upgrades.prospectionmeterwater1.title,Watermeter
+properties.teleporter.teleportresources,Grondstoffenteleportatie
+options.video.stretchmode.scaled.text,"Geeft het spel weer in een vaste resolutie en past het aan aan jouw resolutie.
+Kan pixelachtig zijn, vooral bij lettertypes, maar er zijn geen visuele lijnfouten."
+loadout.secondstage.cancel,Annuleren
+level.station.battle.navbar.stab,Steken
+properties.keeper3.bouncesonarrange,Sonar Range (Tiles) {}
+assignment.cobaltcontribution.title,Cobalt Contribution
+upgrades.keeper2pinballsplit.desc,"Split oncoming kinetic spheres in two, launching them perpendicular to their original trajectories."
+options.input.gamepad.xbox,Controller
+upgrades.stunlaserduration1.desc,De stunlaser koelt sneller af en schiet langer.
+properties.spire.stuntrapduration,Duration {}s
+loadout.difficulty.veryeasy,Normaal
+upgrades.keeper4swiftpunch.title,Swift Strikes
+upgrades.domewavecount.title,Cyclusteller
+level.gadgetchoice.slot,Slot: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,Take myzel spores from the mushroom trunk and drop them on a rock. They will occasionally grow into a buff mushroom.
+options.game.languages,Talen
+upgrades.autocannonshotgun2.title,Shotgun 2
+upgrades.drillbotturnaround.title,Gevorderde conditionering
+level.tutorial.overcharge.popup_2,Move close to it and press | to overcharge.
+level.tutorial.overcharge.popup_3,This will consume one | and can only be done if you have enough.
+level.tutorial.overcharge.popup_1,"You can now overcharge your primary gadget, strengthening it for the next battle."
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,"Instead of using lifting orbs, all resources inside the lift are continuously moved upwards by an inverse gravity field. Partially refunds resources spent on orbs."
+level.station.navbar.battle,Gevecht
+options.keybindings.rebinding.error.mouse,Cannot set this as a mouse input.
+options.input.gamepad.autoswitch.ps5,Automatic Detection of Preferred Controller
+properties.lift.keeperupwardsspeed,Liftsnelheid wachter {}
+loadout.keeper,WACHTER
+level.gameover.unlock.keeper,Nieuwe wachter
+options.keybindings.rebinding.inputprocessor,Druk op een nieuwe toets voor deze actie
+options.keybindings.gamepad,Controller
+upgrades.keeper4extraresource.title,Diligent Catgoblins
+upgrades.shieldoverchargestrength2.title,Overladen schildkracht 2
+loadout.mode.domesupplements,Triple Supplements
+upgrades.converter.desc,Kan grondstoffen omzetten om je grondstoffenverzameling in balans te houden.
+assignment.minorvision.title,Darkness
+upgrades.shieldstrength1.desc,Vergroot de hoeveelheid schade die het koepelschild kan absorberen.
+properties.stationextension.tilerevealdistance,Reveal Distance {} Tiles
+loadout.mode.toughstart.desc,Start with stronger waves.
+upgrades.liftcarrykeeper1.desc,The lift boosts your speed when moving inside it.
+options.input.controls.mouse.aim,Use Mouse for Aiming
+upgrades.spireprojectileslowdown.desc,The spire continuously slows down all enemy projectiles.
+assignment.chosen.title,Your Guild Assignment
+upgrades.furnacestrongwaterfiring.desc,Boost the effectiveness of burning water in delaying monsters.
+properties.dome.healthfractionrepair,Repareer {.percent} van totale hp
+level.tutorial.assessor.carry,Zwaartekracht verzamelen
+upgrades.laserhitprojectiles.title,Projectielen oplossen
+upgrades.teslaorbstun.title,Depth Effect
+reward.rewardgadgetsupplements.title,Gadget Supplements
+options.input.controls.keepersettings.individual,Individual Keeper Settings
+upgrades.teslapower2.desc,Improve the power of the tesla's shot.
+properties.acidrain.fixeddamageperminute,Damage per Minute {}
+demo.end.more,En nog veel meer:
+landing.proceed,Druk op een toets of knop om door te gaan
+modding.modio.ugcterms.content2,"By continuing, your Xbox Live identifier will be used to seamlessly authenticate you with mod.io. To proceed, you must read and agree to the mod.io policies:"
+upgrades.keeper4catgoblinamount.title,Expanded Brood
+modding.modio.ugcterms.content3,[i]These conditions will open in your system's default web browser.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,Stagnatie
+upgrades.spiresplit1.title,Projectile Split
+upgrades.suitblasterradius2.title,Explosion Radius 2
+properties.keeper4.punchstrength,Punch Strength {}
+modding.modio.ugcterms.content1,"To access, download, and manage user-generated content (UGC), this game uses the [b]mod.io[/b] service."
+upgrades.versus.title,Versus
+upgrades.swordstabexplode.title,Steekbom
+modding.modlist.title,Schakel Mod In
+options.game.kunaisnapping,Snap Kunai Aim to Cardinal Directions
+loadout.versusmod.versusmodifiersecondweapon,Second Weapon Unlocked
+upgrades.teleporterteleportduration1.desc,Het duurt minder lang om jezelf te teleporteren.
+options.input.controls.keybindings.button,Wijzig sleutelbindingen
+upgrades.domearmor.title,Dome Armor
+options.input.gamepad.gamepadstickdeadzone.text,"Stel de waarde zo in dat de balk niet knippert als je de analoge sticks aanraakt, zonder ertegen te duwen.
+Als je de stick beweegt, zou de balk moeten knipperen."
+options.translation.community.desc,Deze talen zijn vertaald door onze prachtige community. Doe mee als je wil!
+level.tutorial.beastmaster.mine,Mining
+upgrades.keeper4speed1.desc,Increases movement speed.
+properties.shield.overchargebattleabilityduration,Duur extra vaardigheid {.percent}
+upgrades.shockwavedamage1.desc,Increase the damage the shockwave inflicts.
+network.error.offline.xbox,Your connection to Xbox network has been lost. Please check your internet connection and try again.
+properties.condenser.waterstorage,Slaat {} water op
+loadout.versusmod.versusmodifierstrongmonsters.desc,Monsters are harder to kill.
+title.navbar.modding,Modden
+upgrades.dome3.desc,Military dome used to unleash devastation using an immensely potent mortar. Also comes with an anti-air gun for full defensive capabilities.
+upgrades.keeper4powerfulfirstpunch.title,First Strike
+properties.sword.brake,Zwaardwendbaarheid {}
+level.tutorial.suitblaster.popup_1,"Hit | to fire the suit blaster, destroying rock in a radius around you."
+properties.stunlaser.firetime,Schietduur {}s
+level.tutorial.suitblaster.popup_2,It automatically recharges over time.
+properties.droneyard.battleabilityuses,Kan {} keer worden gebruikt per gevecht
+upgrades.keeper4ramping1.desc,Build up mining speed through continuous mining. Momentum decays when you stop.
+level.gameover.unlockpicker.title,MAAK JE KEUZE
+options.input.gamepad.autoswitch.switch,Automatic Detection of Preferred Controller
+upgrades.suitblaster.desc,Install a mining blaster into your suit which can explosively destroy rocks around you.
+upgrades.spiresplit1.desc,"Hit projectiles split into multiple small ones, dealing damage to enemies. The resulting amount of split projectiles depends on the potency of the incoming projectile."
+properties.versus.additivewave,Increased Wave Strength (other team) {}
+properties.keeper3.aircontrol,{.percent} Air Control
+multiplayer.error.keepertaken,The selected keeper has already been taken. Please try again with another keeper.
+assignment.mode.challenge,Challenge
+upgrades.keeper3shurikenstrength1.desc,"Increase Shuriken explosion power, destroying tiles in a bigger radius."
+pause.invite,Invite Friend
+loadout.mapsize.medium,Normaal
+upgrades.keeper2pinballdestroyadjacenttiles.desc,"Whenever a kinetic sphere destroys a rock tile, the tiles perpendicular to the impact also get destroyed."
+upgrades.furnaceironfiring.title,Iron Fuel
+upgrades.furnaceslowdown.desc,"Add a toxic component to the fumes, numbing the nervous systems of the monsters and slowing down their movement."
+upgrades.swordlargeblade2.desc,"Monteert een enorm zwaard. Het is trager, maar richt zware schade aan."
+upgrades.blastminingblast1.desc,Vergroot de kracht van de explosie.
+upgrades.stationextensionrevealdistance1.desc,Rock and resources close to the station are automatically revealed.
+leaderboard.season,Season {season}
+multiplayer.host.crossplay.enabled,Crossplay Enabled
+multiplayer.techtree.keepersharedupgrades,These upgrades are shared for all keepers who own this gadget.
+loadout.versusmod.versusmodifierlongcycles.desc,The time between monster waves is longer.
+upgrades.artillerydirecthit2.title,Monster Buster 2
+upgrades.stationextensionresolution.desc,Get a clearer image of the dome and its surroundings.
+options.keybindings.action.general.use,Gebruiken
+loadout.relichunt.modifiers,Run Modifiers
+assignment.heavyhitters.title,Heavy Hitters
+upgrades.furnacelastingwaterfiring.title,Durable Water Fuel
+properties.shield.battleblastdamage,{} explosieschade per seconde
+multiplayer.error.timeout,Connection has timed out.
+multiplayer.join.discovering,Discovering sessions...
+properties.condenser.growthtime,Production Time (Cycles) {}
+level.gameover.assignment.badges,You earned a new badge to spend for Keeper's Guild Rewards.
+upgrades.drill1.desc,Versterkt de boor om sneller te kunnen graven.
+level.corruptionchoice.title,PICK A CORRUPTION!
+properties.artillery.grenadedamage,Shell Damage {}
+loadout.proceed,Doorgaan
+options.game.spheresnapping,Snap Sphere Aim to Cardinal Directions
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Beweging gedetecteerd:
+options.input.gamepad.icons.automatic,Automatisch
+reward.rewardkeeper4skin3.title,Beastmaster Skin
+upgrades.prestige.title,Prestige
+upgrades.keeper3shurikenstrength1.title,Strong Shuriken
+upgrades.spiresplit2.desc,Split projectiles are faster and more plentiful.
+upgrades.swordlargeblade1.desc,"Maakt het zwaard breder en langer, zodat het meer schade aanricht."
+upgrades.droneyardbattlegridlong1.title,Long Lasting Drones
+properties.stunlaser.speed,Snelheid {}
+upgrades.repellentbattleslowdownstun2.desc,Gebruik de sporen vaker en verlam de monsters langer.
+upgrades.drillsidespeed1.desc,Speed up the side drillers.
+level.tutorial.ninja.bombs.desc1,Hold| to shoot kunai for mining in the direction you are aiming with your %s.
+loadout.mode.maze.desc,"De kaart is een soort doolhof vol vertakkingen, doodlopende stukken en kronkelingen."
+upgrades.domesupplementprojectiledamagereduction2.desc,Further improve the deflection to receive even less projectile damage.
+level.tutorial.ninja.bombs.desc2,Kunai will bounce when hitting a wall at a steep angle.
+upgrades.domesupplementmeleedamagereduction1.desc,Harden the dome's hull to take less damage from monsters melee hits. Projectile damage is unaffected.
+upgrades.chainsawautonomy.title,Autonomie
+options.input.gamepad.gamepadstickdeadzone,Thumbstick Dode Zone
+upgrades.teslapower3.desc,Improve the power of the tesla's shot.
+level.tutorial.artillery.panel1header,Mortar
+upgrades.keeper4punch3.title,Frenzy 3
+upgrades.furnaceslowdown.title,Numbing Fumes
+upgrades.teslaspeed1.desc,The aiming reticle moves faster.
+upgrades.teslaquickshot2.desc,The quick shot is much stronger.
+level.tutorial.repair.findcobalt,"Probeer kobalt te vinden, want daar kun je je koepel mee repareren.
+Het is zeldzaam en het kan op."
+title.navbar.newgame,Nieuwe game
+options.keybindings.action.dome.battle,Vechten
+upgrades.keeper2pinballsplit.title,Split Spheres
+properties.keeper2.bundlecentralmarker,Center Column Marker
+options.keybindings.gamepad.ps5,Controller
+options.video.stretchmode.rezised.text,"De game wordt op een volledig scherm gerenderd in de oorspronkelijke resolutie of in een vensterresolutie.
+Geeft een scherp beeld, maar er kunnen visuele problemen optreden in de vorm van lijnen die 1 pixel breed zijn."
+options.audio,Geluid
+upgrades.domehealthmeter.desc,Toont de structurele stabiliteit van de koepel.
+upgrades.shieldbattlereflectshortuses.title,Getimede weerkaatsing
+loadout.zoom1,Near
+loadout.zoom2,Far
+upgrades.orchardovercharge.title,Overladen fruitboom
+upgrades.keeperonewayteleporter.desc,Gain a personal one way teleporter. Place a one-use portal anywhere and teleport back to it whenever you want.
+options.input.controls.gamepadusage.switch,Controller Usage
+properties.orchard.battleroots,Grow Roots on the Ground {}
+upgrades.mushroomfarm.desc,Grow mushrooms in your cellar that can be planted inside the mine to get speed and mining buffs.
+keybindings.reset.title.ps5,Button Bindings Reset
+multiplayer.continue.deviceselection.cancel,Cancel Selection
+loadout.hint.selection,Press|to choose an option.
+upgrades.orchardbattleshieldsecondlayer.title,Double Layer Canopy
+properties.artillery.grenades,Shells {}
+upgrades.drill3.title,Boorkracht 3
+assignment.weakcarry.title,Logistical Problem
+upgrades.shockwavestun1.title,Shockwave Stun 1
+upgrades.domesupplementprojectiledamagereduction1.title,Dome Hull Deflection
+properties.keeper3.maxjumps,{} Jumps
+upgrades.converterefficientcobalt.desc,Improve the conversion to be more efficient.
+properties.furnace.waterdelay,Water Delay {}s
+gadget.slot.keepersupplement,Keeper Supplement
+upgrades.keeper4ramping2.title,Momentum 2
+upgrades.orchardduration1.title,Voedzaamheid 1
+upgrades.domesupplementprojectiledamagereduction2.title,Improved Deflection
+loadout.pet,Huisdier
+reward.rewarddomesupplements.desc,Discover extremely strong supplement upgrades for your dome.
+properties.prestige.score,{} prestige
+properties.keeper3.kunaicooldown,Kunai Cooldown {}s
+properties.stunlaser.stunarea,Stun Area {}
+upgrades.blastminingblast2.desc,Vergroot de kracht van de explosie nog meer.
+reward.rewardrerolloffers2.title,Water Reroll
+upgrades.artillerysplash1.title,Volatile Explosives 1
+upgrades.drillwidetunnel.title,Wide Tunnel
+modding.modio.ugcterms.title,User Generated Content Terms of Use
+options.input.controls.keepersettings.title,Keeper Input Settings
+options.keybindings.action.keeper.gravitycollect,Collect
+upgrades.domearmorhealth1.desc,"Increase the durability of the armor, giving the dome more health."
+reward.rewardgadgetsupplements.desc,Discover extremely strong supplement upgrades for your gadgets.
+properties.laser.movespeedmod,Move Speed Modifier {.percent}
+upgrades.domeresourcecounters.title,Inventory Management
+level.tutorial.tesla.panel2header,Shooting
+upgrades.jetpackstrength2.desc,"Verbetert het jetpack, zodat je meer grondstoffen mee kunt nemen."
+upgrades.teslapower4.title,Shot Power 4
+properties.orchard.battleabilityuses,Kan {} keer worden gebruikt per gevecht
+loadout.gadget.additional.unlock,"There are gadgets you have not unlocked yet. To unlock a gadget, win any run after finding the gadget inside the mine and installing it into the dome."
+properties.laser.hitprojectiles,Laser raakt energieprojectielen
+properties.keeper2.minspeed,Minimum Speed {.percent}
+properties.laser.dpsmod,Damage Modifier {.percent}
+properties.prospectionmeter.scandelay,Scan Delay {}s
+level.tutorial.artillery.panel1content2,"The longer you hold, the farther the shell will fly."
+level.tutorial.artillery.panel1content1,Hold|to charge the mortar and then release to fire.
+level.gameover.saveimages,Save
+options.accessibility.fontsize.medium,Normaal
+upgrades.teslaautoaim.title,Auto Aim
+upgrades.orchardduration1.desc,De effecten van het fruit duren langer.
+options.title,OPTIES
+upgrades.probedetectchambers.desc,The probe now also detects chambers like the gadget chamber.
+upgrades.dome1.desc,Standaardmijnkoepel met een precisielaser.
+upgrades.repellentbattlestrongerslowdown1.desc,De nevel vertraagt monsters nog meer en blijft langer hangen.
+upgrades.resourcepacker.desc,"Install a resource packer into your suit which can pack and compress multiple resources into a bundle, making them easier to transport."
+properties.keeper4.goblinextraresourcechance,Additional Resource Chance {.percent}
+properties.orchard.speedbuff,Move Speed Buff {}
+keybindings.reset.explanation.xbox,Your Button Bindings have been reset due to a recent update which made significant changes to the input scheme. Sorry for the inconvenience!
+upgrades.keeper2rotationalmining2.title,Compression Mining 2
+upgrades.keeper3rocketcarrier.desc,Replace Kunai carriers with rocket-powered versions that travel in a straight line until impact.
+properties.blastmining.damage,Schade {}
+options.video.renderscale,Render Scale
+modding.profile.title,Selecteer profiel
+options.keybindings.action.general.left,Links
+properties.versus.multiplicativeewave,Increased Wave Strength (other team) {.percent}
+level.tutorial.drillbot.sleeping1,"Na een tijdje, of als hij een muur tegenkomt waar hij niet doorheen kan graven, doet Booris doet dutje."
+level.tutorial.drillbot.sleeping2,Druk naast hem op | om hem wakker te maken.
+upgrades.laserstrength4.desc,"Massively improve the power of your laser, but it barely moves while firing."
+upgrades.orchardovercharge2.title,Improved Overcharge
+level.tutorial.drillbot.sleeping3,Je kunt het omdraaien door op | te drukken wanneer het actief is.
+modding.prestigeforbidden,Je kunt niet beginnen met een Prestige run met deze mods.
+upgrades.laser.title,Laser
+upgrades.domesupplementelectrifiedsurface1.title,Electrified Hull 1
+pause.quitgame,Game afsluiten
+upgrades.swordlargeblade3.desc,"Een monsterlijk zwaard. Zeer krachtig, maar erg traag."
+upgrades.relichunt.desc,Vind de relieken die diep begraven zijn en breng ze naar je koepel.
+properties.shockwave.cooldown,Afkoelperiode van {}s
+upgrades.repellentdelay1.desc,Verlengt de vertraging van de volgende golf monsters.
+savegame.corrupted.desc,"Your last save file is corrupted, possibly due to a system crash during saving. Reverting to the previous save."
+multiplayer.host.online,Online
+keybindings.reset.doreset.switch,Reset my Button bindings
+options.cancel,Annuleren
+upgrades.keeper4catgoblindig2.title,Efficient Digging
+upgrades.furnacewaterfiring.desc,Burn water in the furnace for an additional delay to monster attacks.
+upgrades.shockwavedamage2.title,Shockwave Damage 2
+upgrades.proberange1.desc,Increase the range of the probe.
+pause.options,Opties
+keeperdlc.load.missing.switch,"Cannot load save, it contains unavailable downloadable content. Please ensure 'The Lost Keepers' downloadable content is available."
+options.keybindings.action.keeper.drop,Laten vallen
+upgrades.assignmentsemergencycontribution3.title,Emergency Contribution 7
+options.game.shootbundlebeforegadgets,Shoot the Resource Bundle before Gadgets
+options.video,Beeld
+upgrades.blastmining.title,Explosief mijnwerk
+modding.modio.subscriptions,Show Mod.IO Subscriptions
+level.gameover.proceedtounlock,Ontgrendel een nieuwe element
+upgrades.prospectionmeter.desc,A meter that shows the distance to the nearest resources.
+properties.keeper2.spherereload,Heropladen bol {}s
+options.keybindings.apply,Toepassen
+upgrades.teslaquickshot.desc,"After shooting a charged shot, you can fire a single weaker shot by tapping the shoot button."
+level.tutorial.tesla.panel1header,Reticle Movement
+upgrades.tesla.title,Tesla
+properties.tesla.persistance,Electro Orb Lifetime {}s
+upgrades.repellentbattleslowdownstun1.title,Verlamming
+upgrades.probelongmarker1.title,Marker Memory
+modding.modio.tokenerror,Connection to token provider failed!
+upgrades.stationextensionupgrades.title,Remote Upgrades
+upgrades.prestigewater.desc,Send back water. Increases how many prestige points you get after each wave.
+upgrades.artillerydirecthit2.desc,Increase the destructive potential of your mortar shells.
+upgrades.mushroomfarmquickgrowth.desc,Mushrooms grow more quickly in the cellar.
+network.error.notsignedin.ps5,Sign in to PlayStation™Network to access online features
+options.input.controls.keybindings.ps5,Button Bindings
+multiplayer.error.clientcrossplaydisabled,Enabling crossplay is required to join this lobby.
+upgrades.keeper3carrylimit2.desc,Increase the number of resources you can haul on your Kunai carrier.
+level.supplementchoice.reroll, Reroll
+upgrades.orchardbattlerootingexplosion.desc,"Activeer nogmaals om alle verstrikte monsters te laten ontploffen, zodat ze schade om zich heen aanrichten."
+upgrades.rocketlauncherrestock.desc,The missile silo will restock all missiles some time after being emptied.
+upgrades.droneyardbattlegridquick2.title,Instant Drones
+assignment.denseiron.title,Dense Iron
+options.input.controls.gamepadusage.xbox,Controller Usage
+level.tutorial.ninja.bombs,Kunai
+upgrades.domearmorhealth2.desc,"Increase the durability of the armor, giving the dome more health."
+loadout.title,Loadout
+multiplayer.continue.deviceselection.team,Team
+properties.keeper3.kunaiweaknessagainsthardrock,Kunai Weakness Against Hard Rock {.percent}
+level.tutorial.repellent.popup_2.switch,"When close to it, press | to activate it."
+upgrades.chainsawdamage3.desc,Increase how much damage the buzz saw does to monsters.
+level.tutorial.artillery.panel3content1,"The mortar shells have an area of effect, but direct hits deal more damage. They can't damage the dome."
+level.gameover.unlock.regulargadget,New Gadget unlocked for Assignments!
+options.keybindings.gamepad.switch,Controller
+options.input.gamepad.thumbstick.switch,Stick
+upgrades.artilleryshotstun.title,Deafening Blast
+upgrades.assignments.title,Guild Assignment
+upgrades.rocketlauncherrockets1.desc,Increase the amount of missiles you can fire.
+level.tutorial.assessor.bundleguide.desc1,You can now guide stationary bundles.
+level.tutorial.assessor.mining,Compression Mining
+level.tutorial.assessor.bundleguide.desc3,"It will follow you, if you are close to it."
+level.gameover.win.team,TEAM %s WON
+level.tutorial.assessor.bundleguide.desc2,Hit|without pressing a direction to place a stationary bundle.
+options.video.graphicsmode.window,Venster
+upgrades.artillerymachinegun1.desc,Improve your anti-air gun to fire faster. Also comes with a laser sight for better aim.
+upgrades.droneyardovercharge1.desc,Temporarily overcharge the droneyard with water to produce more drones in the next battle.
+modding.title,MODDING
+assignment.treefarm.title,Tree Farm
+level.gameover.prestige.score.personalbest,Nieuw persoonlijk record!
+level.gameover.unlock.world,Nieuwe wereld ontgrendeld!
+assignment.chosen.todo,No assignment chosen
+options.keybindings.action.dome.battleability1,Battle Ability 1
+loadout.versusmod.versusmodifierwindingmap.desc,The map is slightly labyrinthian.
+reward.rewardweaponsupplements.title,Weapon Supplements
+upgrades.laserstrength2.title,Kracht 2
+upgrades.keeper2movement1.desc,Verbeter je zwaartekrachtgenerator om sneller te gaan.
+options.keybindings.action.dome.battleability2,Battle Ability 2
+upgrades.domesecondweapon.desc,Install a new weapon that is controlled by the second station located in the second cellar layer.
+upgrades.resourcepackerquickcharge.desc,Increase how fast the packing charges regenerate.
+upgrades.laserstrength2.desc,"Vergroot de kracht van je laser aanzienlijk, maar hij beweegt nog langzamer tijdens het schieten."
+upgrades.autocannonimproved.title,Improved Auto Cannon
+upgrades.keeper3kunaicooldown1.desc,Throw Kunais more quickly.
+upgrades.keeper2pinballsplit2.desc,Increase the overall lifetime of split kinetic spheres.
+upgrades.swordreflection1.title,Weerkaatsing 1
+level.tutorial.ninja.drop.desc1.switch,Press| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.suitblasterradius2.desc,Increase the blast radius.
+options.game.dropresourcesbeforegadgets,Drop Resources before Gadgets
+options.translation.community.crowdin,Dome Keeper Translation Project on Crowdin
+loadout.hint.playerlimitprestige,"Start Run
+
+Scores are not uploaded when playing Prestige with 3+ players."
+upgrades.assignmentsemergencycontribution1.title,Emergency Contribution 2
+upgrades.shockwavedamage2.desc,Increase the damage the shockwave inflicts.
+options.input.gamepad.autoswitch.xbox,Automatic Detection of Preferred Controller
+loadout.versusmod.versusmodifierlittlecobalt.desc,The map contains minimal cobalt deposits.
+upgrades.keeper1.title,Ingenieur
+level.furnace.popup.title,Fuel the Furnace
+upgrades.prospectionmeterrange2.title,Bereik 2
+pause.discord,Praat mee op Discord
+upgrades.lasermove1.title,Bewegingssnelheid 1
+options.input.controls.mouse.gamepad.switch,Switching to a Controller and back is automatically detected
+upgrades.jetpackspeed3.title,Snelheid 3
+upgrades.chainsawautonomy.desc,The buzz saw defends your dome even when you are not inside the control station.
+properties.extractor.buildcycles,Worm Production (Cycles) {}
+upgrades.stunlaserstun2.desc,"Increase the power of the stun beam, heavily affecting even the strongest monsters."
+upgrades.teleporter.desc,A two-way teleporter connects a station in the cellar with a movable portal.
+upgrades.droneyarddrones.title,Transport Drone
+level.tutorial.assessor.spheres.desc1.aiming.switch,Press| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+upgrades.liftspeed1.desc,De bollen bewegen sneller.
+properties.prestige.provokedwavestrength,Monster Provocation {.percent}
+upgrades.artillery.desc,A combination of a large mortar shooting massive explosive shells and a fast firing anti-air gun.
+upgrades.shredgadgettocobalt.title,Versnipperen voor kobalt
+level.gameover.stats.distancetravelled,Afgelegde afstand
+loadout.mode,Game Mode
+loadout.difficult.easier,gemakkelijker
+upgrades.domearmorhealth1.title,Armor Durability 1
+options.game.playernamesinmultiplayer,Show Player Names in Multiplayer
+properties.sword.slicedamage,Hakschade {} 
+options.keybindings.action.general,Algemeen
+upgrades.keeper4punch2.desc,Increase your mining strength and maximum mining speed.
+upgrades.keeper4catgoblinsleeptime.title,Caffeine Pills
+upgrades.condenserdoublestorage.title,Dubbele opslag
+upgrades.drillbotbuffguidance.desc,Show the direction towards Drillbert when carrying a treat.
+loadout.versusmod.versusmodifierscatterediron.desc,"Iron deposits are small and scattered, but plentiful."
+upgrades.proberange3.title,Very Long Range
+upgrades.sword.desc,Een duurzaam zwaard dat meer schade aanricht naarmate het verder van de koepel zwaait. Kan worden afgevuurd om monsters te steken en heeft een schildvoet die projectielen afweert.
+properties.rocketlauncher.rockets,Rockets {}
+keybindings.reset.explanation,Uw Sleutelhangers zijn gereset door een recente update die aanzienlijke wijzigingen heeft aangebracht in het invoerschema. Sorry voor het ongemak!
+upgrades.shield.desc,Monteer een schild dat wat schade absorbeert. Wordt automatisch opgeladen.
+multiplayer.error.lobbyfull,Lobby is full.
+upgrades.keeper3kunaibounce1.title,Trajectory Assist
+loadout.team.selection,Join %s
+level.tutorial.sworddome.slicing.desc,"Hoe sneller je het zwaard zwaait, des te meer schade je aanricht."
+properties.drill.sidetimepertile,Side Driller Time per Tile {}s
+upgrades.suitblasterradius1.title,Explosion Radius 1
+upgrades.resourcepackerquickcharge.title,Quick Charge
+versus.corruptionmonsterdamage.desc,"The monsters will do much more damage, projectiles included."
+properties.dome.autohealamount,Repareer {) hp
+loadout.team,Team %s
+options.keybindings.action.general.down,Omlaag
+properties.suitblaster.radius,Blast Radius (Tiles) {}
+level.tutorial.fullscreen.continue,doorgaan
+level.tutorial.suitblaster.popup_1.switch,"Press | to fire the suit blaster, destroying rock in a radius around you."
+upgrades.resourcepackercount2.title,Bundle Size 2
+properties.sword.extendspeed,Acceleratie {} 
+upgrades.autocannondamage1.title,Heavy Bullets
+properties.sword.aimline,Richtvoorspelling
+options.translation.community,"Communityvertaling, {completion}% voltooid"
+properties.spire.stuntrapabsorption,Damage Absorption {.percent}
+upgrades.keeper4speed2.desc,Further increases movement speed.
+upgrades.keeper4ramping4.title,Momentum 4
+upgrades.orchard.desc,Plant een boom in de koepel waaraan fruit groeit dat je bewegingssnelheid en mijnkracht verbetert.
+pause.restart.popup,"Are you sure you want to restart your run?
+Press again to confirm."
+multiplayer.error.versionmismatch,Your game version does not match the host. Host version: {}
+assignment.condition.freegadget.plural,Two additional starter gadgets
+upgrades.artillerydirecthit1.title,Monster Buster 1
+options.input.controls.mouse,Muis
+upgrades.keeper4catgoblindig1.desc,Catgoblins will dig out resources without destroying tiles.
+reward.rewardpet11.title,Water Deer Pet
+upgrades.artillerymachinegun2.title,Fast Fire 1
+upgrades.teslaorbs.title,Electro Orb
+properties.keeper2.spherespeed,Sphere Speed {}
+properties.artillery.machinegunpenetration,Bullet Penetration {}
+level.station.upgrademenu.cost,Kosten
+keeperdlc.load.missing,"Cannot load save, it contains unavailable dlc content. Please ensure 'The Lost Keepers' dlc is available."
+upgrades.drillbotstrength1.desc,Vergroot de graafkracht van Booris.
+properties.resourcepacker.rechargetime,Recharge Duration {}s
+level.converter.popup.queue.block,This conversion is currently processing and will finish in {time} seconds.
+properties.keeper2.maxspeed,Topsnelheid {}
+level.converter.popup.conversion.to,in
+upgrades.blastminingblast2.title,Explosie 2
+upgrades.suitblasterspeed1.desc,Improve how quickly the suit charges a blast.
+options.audio.music.ost.mode.adaptive.desc,"Als je met een Keeper speelt, wordt alleen hun respectievelijke soundtrack afgespeeld."
+title.navbar.updates,Updates
+upgrades.orchardbattlerooting.title,Strikwortels
+options.keybindings.action,Actie
+upgrades.keeper4flexible3.title,Agility 3
+unlock.buy.keeperdlc,Unlocked by the DLC '%s'.
+upgrades.keeper4flexible2.desc,Increase your mining strength and your initial mining speed.
+loadout.prestige.countdown,Countdown
+assignment.weakcarry.desc,"The keeper's transportation tools cannot be upgraded, so you will need to rely on gadgets for transportation."
+upgrades.liftcarrykeeper2.title,Wachterslift 2
+upgrades.domewavecount.desc,Monteer een teller die bijhoudt hoeveel golven je hebt overleefd.
+loadout.gadget.additional,Extra gadget
+upgrades.prestigewatermultiplier.title,Water versturen
+upgrades.condenser.title,Condensator
+loadout.prestige.pro.supplementorder,Supplement Order
+assignment.goaltype.delivery.failed,"Your goal was to '{goal}', but you delivered {amount}."
+options.input.gamepad.ps5,Wireless controller
+assignment.condition.duration,Finish within %d cycles
+options.game.hideactionhint,Verberg Actie Tips Buiten Dome
+options.video.graphicsmode,Grafische modus
+level.tutorial.assessor.carry.desc1_1.ps5,"Once locked onto you, they will follow you even if you release the collect button."
+assignment.goaltype.relic,Retrieve the relic
+upgrades.stationextensionminimap.desc,Show a minimap of the mine whenever you enter the mobile station. The minimap shows the discovered area and some tiles deep into the rock.
+assignment.ironcontribution.title,Iron Contribution
+properties.keeper4.speedupretention,Speedup Retention {.percent}
+loadout.prestige.description,Send resources off-world to gain prestige amongst the Keepers Guild.
+upgrades.keeper3.title,Infiltrator
+properties.shield.battleactivateondepletion,Activeert vaardigheid bij schilduitputting
+upgrades.jetpackspeed2.title,Snelheid 2
+properties.dome.maxhealth,Health Capacity {} HP
+upgrades.laserstrength1.title,Kracht 1
+properties.artillery.grenadereloadspeed,Shell Reload Speed {}s
+properties.tesla.perfecttimingmultiplier,Shot Multiplier {.percent}
+upgrades.orchardbattleshieldstrong.desc,The vine canopy gets stronger.
+loadout.difficulty.easy.description,In velerlei opzicht wat genadiger.
+upgrades.drillsidespeed1.title,Drill Speed 1
+loadout.prestige.miner,Mijnwerker
+upgrades.keeper4catgoblindig2.desc,Catgoblins dig faster.
+upgrades.spireburst.title,Burst Fire
+options.input.vibration.strength.ps5,Vibratiesterkte
+upgrades.swordexplosivereflection.desc,Weerkaatste projectielen ontploffen als ze iets raken.
+level.tutorial.drillbot.handling2.switch,Press | to make it change direction while on the ground.
+loadout.mapsize.large.description,Een grote kaart voor sessies van meer dan een uur.
+upgrades.artillerymachinegunhoming2.desc,Use more powerful rockets.
+upgrades.keeper3quadjump.title,Multi Jump
+properties.artillery.grenadesexplosionradius,Shell Explosion Radius {}
+upgrades.proberange2.desc,Increase the range of the probe.
+properties.drillbot.buffextraamount,Boort {} keer extra
+versus.corruptionbigwave.desc,The next monster wave will be enormous.
+level.tutorial.artillery.panel2content1,Hold|to fire your anti air gun.
+level.tutorial.artillery.panel2content2,It's great against flying enemies.
+upgrades.drillwidetunnel.desc,Install two additional downward drills to make a wide tunnel.
+upgrades.keeper2pinballdamage4.desc,Improve your kinetic spheres.
+level.gameover.unlock.difficulty,Nieuw niveau ontgrendeld!
+loadout.prestige.fairness.headline,Fair Competition
+upgrades.prestigeprovoke.desc,Increase the strength of all future monster waves to gain more prestige.
+options.audio.volumes.soundvolume,Geluid
+multiplayer.continue.deviceselection.keeper,Wachter
+upgrades.teslaspeed2.desc,The aiming reticle moves faster.
+upgrades.artillerymachinegun2.desc,Improve your anti-air gun to fire faster.
+properties.spire.splitadditionalprojectiles,Additional Split Projectiles {.percent}
+upgrades.artillery.title,Artillerie
+level.tutorial.assessor.bundle.desc1,Hit|while carrying resources to shoot a bundle.
+properties.orchard.battleabilityduration,Vaardigheidsduur {}s
+loadout.zoom,Camera Zoom
+level.tutorial.assessor.bundle.desc2,It will fly in the direction you aim until it dissolves.
+options.keybindings.rebinding.inputprocessor.switch,Press a new Button for this action…
+properties.converter.irontoiron,1 IJzer naar {} IJzer
+options.keybindings.action.general.back,Annuleren
+upgrades.keeper1powerdrill.title,Power Drill
+assignment.emergency.desc,The Keeper's Guild is in danger and needs emergency contributions. Send them quickly!
+multiplayer.host.crossplay.disabled,Crossplay Disabled
+properties.upgrade.gameover,Run beëindigen
+loadout.mode.secondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+telemetry.allow,Enable online services
+options.accessibility.vignette,Disable Vignette
+options.game.tutorials,Tutorials
+properties.dome.autorepair,Automated Dome Repair
+upgrades.swordreflection3.title,Weerkaatsing 3
+upgrades.drillsidepull.desc,Mined resources will be moved along the side drillers towards the center.
+upgrades.keeper2movement4.title,Full Torque
+upgrades.shockwavestun1.desc,Increase the stun capability of the shockwave.
+assignment.condition.freegadget.singular,One additional starter gadget
+title.navbar.credits.close,Afsluiten
+reward.rewardfreerolls2.title,Additional Reroll Offers
+upgrades.orchardbattleshieldstrong.title,Durable Canopy
+upgrades.spirecapacity.title,Capaciteit
+upgrades.keeper2.title,Beoordelaar
+upgrades.keeper2movement2.title,Zwaartekrachtbeweging 2
+upgrades.furnacestrongironfiring.desc,Increase the effectiveness of burning iron in delaying monsters.
+upgrades.keeper2pinballdamage3.title,Kinetic Spheres 3
+upgrades.autocannondamage1.desc,Increase the bullet size for more damage.
+loadout.versusmod.versusmodifiermanycaverns.desc,The mine has many natural caves.
+options.game.other,Anderen
+upgrades.drillsidespeed2.title,Drill Speed 2
+upgrades.mushroomfarmdrill2.desc,Improve the mining buff obtained from consuming mushrooms.
+properties.autocannon.speed,Movement Speed {}
+upgrades.keeper4flexible1.desc,"A flexible mining style that starts with moderate speed, but has lower peak strength."
+title.message.close,Sluiten
+level.furnace.popup.fuel.stack,Current stack:
+upgrades.laserstrength3.title,Kracht 3
+upgrades.domesupplementresurrection2.title,One More Time
+upgrades.artilleryprojectileerasure.desc,The explosions from your mortar dissolve all projectiles within the blast radius.
+level.gameover.assignment.completed,Congratulations! You completed the assignment successfully. The Keeper's Guild acknowledges your efforts.
+properties.tesla.radius,Shot Radius {}
+properties.keeper2.bundlespeed,Bundle Speed {}
+keybindings.reset.show,Laat me eerst even kijken
+options.input.controls.gamepadusage,Gamepad Gebruik
+assignment.maze.title,Doolhof
+upgrades.blastminingstickycharge.desc,Charges stick to the first wall they touch and blast a tunnel instead of a circular explosion.
+properties.prestige.baseperwave,{} basisprestige per golf
+level.gameover.mineview,Show Mine
+unlock.mapsize.medium,Win a run on a small map to unlock.
+upgrades.teslanurture.desc,Strengthen an existing electro orb by shooting it again. The orb will grow in size and will persist for longer.
+upgrades.jetpackspeed1.desc,"Verbetert de jetpack, zodat je je sneller verplaatst."
+upgrades.domearmormelee1.desc,Decrease how much damage the dome takes from melee attacks.
+loadout.prestige.friend.mode,Friendly Mode
+upgrades.domearmorhealth2.title,Armor Durability 2
+properties.artillery.machinegundamage,Bullet Damage {}
+upgrades.swordextendlong2.title,Lange steek 2
+upgrades.lasermove2.title,Bewegingssnelheid 2
+upgrades.shieldstrength2.title,Kracht 2
+properties.keeper3.slidecontrol,{.percent} Slide Control
+reward.rewardpet11.desc,Unlock the water deer as a pet for your dome.
+properties.tesla.nurture,Orb Nurturing
+properties.lift.speed,Bolsnelheid {}
+upgrades.lasermove2.desc,De laser beweegt nog sneller.
+loadout.mode.longtime,Lange cycli
+options.accessibility.highlightmonsters,Markeer de monsters
+upgrades.furnacebasedelay.desc,Enhance the smoke's dazing effect for a greater baseline delay.
+upgrades.doublelaser.desc,"Monteert een tweede lasergeschut, maar de vuurkracht wordt verdeeld."
+properties.converter.ironwatertime,Iron to Water Conversion Time (Cycles) {}
+options.keybindings.rebinding.inputprocessor.xbox,Press a new Button for this action…
+title.message.title,Notice
+upgrades.jetpackspeed4.title,Snelheid 4
+upgrades.drill2.desc,Versterkt de boor om sneller te kunnen graven.
+upgrades.extractorresources2.title,Meticulous Worms
+unlock.buy.keeperdlc.switch,Unlocked by downloadable content '%s'.
+level.tutorial.assessor.split.desc1,Hit|to split an incoming sphere.
+upgrades.keeper2pinballdamage1.desc,Increase the reload time to improve the power of the kinetic spheres.
+upgrades.teleporterteleportduration2.desc,Het duurt minder lang om jezelf te teleporteren.
+level.tutorial.assessor.split.desc2,"You can split the spheres again, but they become a bit weaker each time."
+options.accessibility.backgrounds,Simple Backgrounds
+assignment.weakwalls.desc,"The corrosive atmosphere of this planet is lethal for your dome and the monsters, making both take more damage."
+multiplayer.error.disconnected,Disconnected from host.
+properties.autocannon.timebetweenshots,Time Between Shots {}s
+upgrades.laserstrength1.desc,"Vergroot de kracht van je laser, maar hij beweegt langzamer tijdens het schieten."
+upgrades.artillerydirecthit4.desc,Fire shells specialised in ruining even the largest monsters.
+upgrades.teslapersistance3.title,Persistent Orbs 3
+level.gameover.stats.timeplayed.unit,m
+level.tutorial.drillbot.sleeping3.switch,You can make it turn around by pressing | when it's awake.
+upgrades.autocannonshotgun1.desc,Fire multiple projectiles that fan out.
+upgrades.probe.desc,Voegt een sonde toe aan je pak die na activering een puls uitzendt die nabije grondstoffen onthult. Moet worden opgeladen in het station onder de koepel.
+upgrades.droneyardparasites.desc,Release drones that attach to and weaken the strongest monsters they can find. The monster will subsequently take more damage and be continuously stunned.
+properties.stunlaser.trackingInCooldown,Track Target in Cooldown
+upgrades.domewavemeter.desc,Geeft aan hoe lang het nog duurt tot de volgende golf vijanden aanvalt.
+properties.sword.stabexplosive,Bom gemonteerd op punt
+loadout.gadget,Primary Gadget
+properties.stunlaser.areagrowthpermonster,Area Growth per Monster {}
+upgrades.swordfastreflection.title,Versnelde weerkaatsing
+level.tutorial.assessor.explode.desc1.switch,Press|to explode all spheres in your vicinity.
+reward.rewardkeeper3skin1.desc,Unlock a new keeper skin for the Infiltrator.
+properties.shockwave.stunstrength,Verlammingskracht {}
+upgrades.resourcepackercount1.title,Bundle Size 1
+reward.rewardkeepersupplements.desc,Discover extremely strong supplement upgrades for your keeper.
+upgrades.spirestuntrap3.desc,The energy trap now also stuns monsters.
+upgrades.lift.desc,"Installeer een geautomatiseerde lift die gewonnen grondstoffen naar boven brengt, zodat de koepel ze kan verwerken."
+upgrades.orchard.title,Fruitboom
+pause.playerlist,Player List
+upgrades.keeper2bundle2.title,Bundle Guidance
+assignment.weakmining.desc,"The keeper's mining tools cannot be upgraded, so you will need to rely on gadgets for mining."
+upgrades.converter.title,Grondstoffenomzetter
+properties.repellent.battlemonstervulnerability,Additional Damage to Monsters {.percent}
+level.gameover.revealresources,Reveal Resources
+upgrades.jetpackstrength3.desc,"Verbetert het jetpack, zodat je meer grondstoffen mee kunt nemen."
+options.input.controls.touch.fliphud,Flip HUD
+properties.keeper2.bundleguide,Proximity Guidance
+upgrades.furnaceironfiring.desc,Burn iron in the furnace for an extended delay to monster attacks.
+upgrades.swordlongblade2.desc,"Verhoogt de zwaardsnelheid, waardoor het stuitert als het de grond raakt."
+options.input.controls.mouse.keepers,Gebruik Muis voor Keepers
+loadout.mode.domesupplements.desc,Get three times the supplements and equip the dome with three slots for them.
+reward.rewardautomatedweapons.title,Automated Weapons
+versus.corruptionmonsterhealth.desc,The monsters will have much more health.
+upgrades.keeper3slidecontrol.desc,Gain increased control while sliding along walls.
+level.station.battle.navbar.shoot,Schieten
+options.keybindings.gamepad.xbox.view.xbox,View Button
+level.gameover.win.title,JE KOEPEL IS GERED
+upgrades.versusincreasewave1.title,Sabotage 1
+options.video.graphicsmode.borderlesswindow,Venster zonder randen
+properties.artillery.rotationspeed,Rotation Speed {}
+upgrades.probe.title,Sonde
+reward.rewardkeeper2skin5.desc,Unlock a new keeper skin for the Assessor.
+upgrades.artillerydirecthit4.title,Monster Buster 4
+properties.keeper4.squadcount,Squad Count {}
+upgrades.keeper3kunaicooldown3.title,A Thousand Kunai
+upgrades.prospectionmeterrange2.desc,Further increase the detection range of the prospecting meter.
+level.gameover.unlock.mapsize,Nieuwe kaartgrootte ontgrendeld!
+loadout.prestige.friend.desc,Play prestige on a lower difficulty and compete on separate leaderboards with friends only.
+upgrades.jetpackstrength4.title,Draagkracht 4
+options.input.controls.virtualjoystickopacity,Virtual Joystick Opacity
+upgrades.repellentovercharge.title,Overladen verdelger
+upgrades.suitblastermaxcharge.desc,"Increase how many charges you can store in your suit. The more charges you have ready, the faster additional ones will charge."
+upgrades.stationextensiontubemovement.desc,Enter the station and quickly travel to the dome within a vacuum. Only works while moving upward.
+upgrades.domesupplementmeleedamagereduction1.title,Dome Hull Hardening
+upgrades.keeper4catgoblinsleeptime.desc,Reduces the duration of Catgoblins' naps.
+upgrades.prestigespeedup.desc,Shorten the time between waves.
+upgrades.keeper3kunaicooldown1.title,Fast Throw
+upgrades.spire.title,Spire
+multiplayer.join.sessions,Sessions
+options.input.controls.keybindings,Toetsen toewijzen
+multiplayer.host.crossplay.desc.xbox,Crossplay lets you play with friends on other platforms.
+upgrades.teslaorbs.desc,Each shot leaves an electro orb that deals damage over time and stuns enemies.
+upgrades.prestigeiron.desc,Send back iron. Increases how many prestige points you get after each wave.
+properties.keeper2.explodespheres,Explode Spheres
+level.tutorial.assessor.split.desc1.switch,Press|to split an incoming sphere.
+properties.artillery.machinegunhoming,Homing Rockets
+upgrades.spirespeedup.desc,Decrease the time between shots.
+level.tutorial.drillbot.handling1,Hou | ingedrukt om Booris weer op te pakken.
+keybindings.reset.doreset.xbox,Reset my Button bindings
+level.tutorial.drillbot.handling2,Druk op | om van richting te veranderen als je op de grond bent.
+upgrades.artillerysplash1.desc,Improve your mortar to fire shells that have a large blast radius.
+upgrades.shockwave.desc,Install two hammers on the dome cupola that create intense shockwaves. Must be manually triggered.
+options.game.blocklist.unblock,Unblock
+properties.drillbot.buffamount,Boort {} keer als hij vol energie zit
+upgrades.teslaorbdamage.desc,"The orbs conduct much more electricity, dealing more damage over time."
+loadout.versusmod.versusmodifierconcentratediron.desc,Iron deposits are sparse but very large.
+upgrades.keeper4squad2.title,Large Squad
+upgrades.keeper4flexible1.title,Agility
+upgrades.swordreflection3.desc,Maximale schildvoet.
+unlock.prestige.promode,Unlock by winning a run with a prestige score of at least 1000.
+loadout.mapsize.huge,Enorm
+upgrades.artillerymachinegunhoming1.desc,Replace the bullets with smart rockets that automatically course-correct to hit monsters.
+upgrades.repellentovercharge.desc,"Use water to overcharge your repellent, improving the repellent's battle ability."
+loadout.prestige.pro.caveorder,Cave Order
+upgrades.spiresplit2.title,Fast Split
+properties.laser.bend,Laser richt automatisch {}°
+modding.modio.ugcterms.link1,Terms of Use
+upgrades.drillmagnetic.title,Magnetic Casings
+assignment.condition.deliveremergency,Fulfill %d emergency deliveries
+modding.modio.ugcterms.link2,Privacy Policy
+assignment.denseiron.desc,"The iron on this planet is especially dense, making it difficult to mine."
+level.station.upgrademenu.inventory,Inventaris
+upgrades.repellentbattleslowdownstun1.desc,"Sporen in de nevel verlammen monsters, zodat ze eventjes niet kunnen bewegen."
+upgrades.spirestuntrap2.title,Catalyst Trap
+properties.blastmining.radius,Explosion Radius (Tiles) {}
+loadout.prestige.cobalt,Vaste hoeveelheid kobalt
+upgrades.spireautonomy1.title,Autonomie
+upgrades.suitblastermaxcharge.title,More Charges
+upgrades.stunlaserspeed2.desc,The stun laser moves even faster and keeps tracking monsters while cooling down.
+properties.suitblaster.maxcharge,Maximum Charges {}
+upgrades.prospectionmetergadget.desc,Display the distance to the nearest chamber and improves the range significantly.
+properties.spire.rechargetime,Recharge Time {}s
+assignment.monstermasses.desc,The planet is plagued by vast amounts of low-tier monsters.
+telemetry.title.ps5,End-User License Agreement
+properties.condenser.autoovercharge,Automatisch overladen
+assignment.rareiron.desc,The planet contains far too little iron for a normal mining operation.
+level.converter.popup.title,Grondstoffen omzetten
+upgrades.chainsaw.desc,"Install a buzz saw running along the dome cupola, dealing damage to nearby monsters."
+versus.inventory.title,Other team info
+loadout.versusmod.versusmodifiernorelics.desc,The mine has no relics.
+level.gameover.stats.wavessurvived,Golven overleefd
+upgrades.stunlaserduration1.title,Firing Stamina 1
+upgrades.resourcepackercount1.desc,Increase how many resources can be packed into a single bundle.
+level.tutorial.teleporter.carry3.switch,"If you press |, you will teleport back."
+gadget.slot.domesurface,Dome Surface
+upgrades.converterirontocobalt.title,Kobaltomzetting
+options.audio.music.ost.mode.desc,Elke Keeper heeft zijn eigen unieke soundtrack. Je kunt veranderen wanneer deze wordt gespeeld.
+assignment.condition.deliversand,Deliver %d cobalt
+options.accessibility.photosensitivity.explanation,Vermindert flikkerende lichten.
+upgrades.keeper2bundle4.desc,The resources bundles move faster and stay together longer.
+upgrades.domesupplementmeleedamagereduction2.title,Intense Hardening
+upgrades.keeper2bundle1.title,Center Marker
+upgrades.repellentbattleslowdown.desc,Sproei een verdovende nevel die alle monsters vertraagt.
+options.game.splitscreenfontscale,Show larger Text in Splitscreen
+upgrades.blastminingimpactdetonation.title,Impactexplosie
+loadout.relichunt.title,Choose a Scenario
+upgrades.assignmentsemergencycontribution2.title,Emergency Contribution 4
+upgrades.stunlaserspeed1.desc,De stunlaser beweegt sneller.
+upgrades.keeper2movement2.desc,Improve your gravity generator to move even faster.
+loadout.prestige.pro.customorder,Custom order
+options.translation.community.desc.seavenplatforms,These languages are translated by our lovely community on Crowdin.
+properties.shield.battledestructionprevention,Aanvullende duur {}s
+upgrades.spirespeedup.title,Improved Cooling
+upgrades.shieldovercharge.title,Overladen schild
+level.tutorial.station.popup_4.switch,Then press | to enter battle mode and defend.
+pause.gamepadcontrols.drop,Laten vallen
+options.accessibility.vignette.explanation,Disable the darkening vignette effect that appears in deeper levels of the mine.
+upgrades.keeper4speed3.title,Bewegingssnelheid 3
+title.navbar.splitscreen,Local Splitscreen
+upgrades.extractorquickextraction.title,Quick Worms
+pause.disconnect,Drop player
+properties.map.ironadditionalhealth,Additional Iron Hardness {}
+properties.keeper2.reflectlifetime,Reflection Field Lifetime {}s
+loadout.versusmod.versusmodifiersoftrock,Soft Rock
+upgrades.repellentoverchargeduration1.title,Improved Overcharge
+upgrades.teleporterteleportitems.desc,"Teleport anything you carry with you, except for resources and large objects."
+upgrades.shieldstrength2.desc,Het koepelschild kan nog meer schade absorberen.
+unlock.mapsize.large,Win a run on a medium map to unlock.
+upgrades.shieldoverchargestrength2.desc,Het overladen schild kan nog meer schade absorberen.
+properties.drill.extensionspeed,Side Extension Speed {}
+properties.orchard.growthtime,Growth Time (Cycles) {}
+upgrades.drillbotbuff1.desc,"Er groeien lekkernijen in het nest onder de koepel. Breng ze naar Booris, die ze met smaak oppeuzelt om energie te krijgen."
+properties.repellent.battleslowdown,Monstervertraging {.percent}
+level.station.upgrademenu.buy,Kopen
+keybindings.reset.title.switch,Button Bindings Reset
+title.navbar.multiplayer.join,Join Multiplayer
+multiplayer.host.crossplay.desc,"Crossplay lets you play with friends on other platforms. So for example, PC and console players can play together."
+properties.probe.range,Range (Tiles) {}
+modding.modio.connectionfailed,Connection to mod.io failed!
+properties.dome.resurrectcharges,Remaining Resurrections {}
+upgrades.mushroomstack.title,Stacked Mushrooms
+multiplayer.error.lobby.join,Failed to join the lobby.
+pause.title,PAUZE
+level.furnace.popup.fuel.cycles,Remaining cycles: {cycles}
+level.gameover.unlock.gamemodevariant,Nieuwe speltypevariant
+upgrades.keeper2movement3.title,Zwaartekrachtbeweging 3
+upgrades.keeper3kunaicooldown2.desc,Throw Kunais more quickly.
+upgrades.repellentbattledamageovertime.title,Gifdampen
+reward.rewardfreerolls1.title,Reroll Offers
+assignment.superhardrockwithholes.title,Swiss Cheese
+modding.restartneeded,Je moet het spel opnieuw opstarten om mods correct te laten werken.
+upgrades.versusshowinventory.title,Inventory Spy
+level.tutorial.assessor.carry.desc1,Houd|ingedrukt om grondstoffen aan te trekken tot ze aan je gekoppeld zijn.
+level.tutorial.assessor.carry.desc2,Hit|to shoot them as a bundle in the direction in which you are facing.
+demo.unavailable,Niet beschikbaar in demo
+assignment.harmfuliron.desc,"The planet's iron is dangerously reactive, damaging your dome when shredded."
+upgrades.keeper4flexible4.title,Agility 4
+properties.dome.reducedhealth,Lost Health {} HP
+upgrades.keeper4catgoblinamount.desc,Breed more Catgoblins to help with your mission.
+properties.keeper2.spherebasedamage,Basisschade bol {}
+level.gameover.showimages,Open
+properties.keeper4.maxpunchdelay,Slowest Punch {}s
+upgrades.converterironduplication.desc,Convert some iron into much more iron.
+upgrades.liftorbless.title,Gravitational Lift
+upgrades.artilleryshotstun.desc,Firing the mortar is so powerful that nearby monsters get stunned for some time.
+upgrades.keeper4squadsmarts.title,Smart Excavation
+options.video.graphicsmode.enablevsync,VSync inschakelen
+upgrades.repellentdelay3.desc,Verlengt de vertraging van de volgende golf monsters nog meer.
+properties.spire.splitshotground,360° Split
+upgrades.autocannonrateoffire3.desc,Maximize the rate of fire.
+upgrades.furnacebasedelay.title,Dazing Fumes
+properties.sword.stabcooldown,Afkoelperiode zwaard afvuren {)s 
+upgrades.resourcepacker.title,Resource Packer
+properties.probe.permanentrevealrock,Permanently Reveal Rock
+upgrades.prestigeprovoke.title,Provoke Monsters
+loadout.hint.teams,Each team needs at least one player!
+upgrades.proberange1.title,Medium Range
+upgrades.condenserautocollect.desc,"Water wordt automatisch verzameld, zodat je het niet handmatig hoeft op te halen."
+title.navbar.continue,Doorgaan
+upgrades.drillbotbuffguidance.title,Seeking Treat
+options.video.stretchmode.rezised,Grootte aangepast
+upgrades.shieldbattlereflectspeed.desc,"Reflected projectiles fly back at a higher speed, increasing the chance of hitting the attacker."
+properties.keeper2.spherebaselifetime,Sphere Lifetime {}s
+properties.resourcepacker.packscale,Shrink Scale {.percent}
+properties.chainsaw.speed,Move Speed {}
+properties.probe.rechargetime,Recharge Time (Cycles) {}
+upgrades.blastminingblast1.title,Explosie 1
+upgrades.liftcarrykeeper1.title,Wachterslift 1
+loadout.versusmod.versusmodifierlongcycles,Lange cycli
+options.keybindings.action.dome.secondary,Secondary Ability
+upgrades.extractor.title,Iron Worms
+level.tutorial.assessor.reflect.desc2,Incoming spheres will be reflected. It will also power them up.
+options.keybindings.keyboard,Toetsenbord
+level.tutorial.assessor.reflect.desc1,Hit|to toggle a reflective field around you.
+level.tutorial.beastmaster.move,Movement
+level.gameover.automove,Automatic Camera
+upgrades.keeper4punch4.title,Frenzy 4
+properties.shockwave.damagemod,Additional Damage {.percent}
+upgrades.drillbotsleepless.desc,Booris werkt veel langer door voordat hij slaap krijgt.
+upgrades.keeper2pinballexplode.desc,"Detonate every sphere in your vicinity, releasing their stored kinetic energy."
+reward.rewardpermanentwavemeter.title,Permanent Hostile Proximity Meter
+upgrades.keeper3shurikencooldown1.desc,Reduces the Shuriken cooldown even further.
+upgrades.droneyard.title,Droneyard
+level.gameover.unlock.promode,Prestige pro settings unlocked!
+upgrades.swordextendlong2.desc,Verbetert de steekkracht nog verder en bestuurt nauwkeuriger als het is afgevuurd.
+upgrades.drillbotturnaround.desc,"Als hij een ondoordringbare muur tegenkomt, keert Booris om in plaats van dat hij een dutje doet."
+loadout.prestige.fairness.desc,"We love to see you prestige players compete for the highest scores and find better and better strategies. We want to keep this a fair and fun competition, so it is important that everyone plays on equal terms.
+
+Please understand that your runs might be flagged as inadmissible or might get deleted, if it seems like you are using cheat tools or exploits.
+We define exploits as anything that provides you a tangible benefit in your prestige run that is not intended through normal gameplay means. This includes things like savegame editing or viewing, excessive reloading, using mods that are not whitelisted or intentional and repeated use of bugs.
+You might get permanently barred from competing on the usual leaderboards, if your run appears to have made significant use of cheats or exploits.
+
+If you are unsure about whether something is considered illegal, please ask on our Discord or via e-mail at dome@bippinbits.com. You can always appeal to us, if you got flagged wrongly.
+
+Have fun!"
+assignment.emergency.title,Emergency
+upgrades.droneyardbattlegridlong2.title,Drone Horde
+properties.repellent.battleuses,Kan {} keer worden gebruikt per gevecht
+loadout.difficulty.easy,Moeilijk
+level.tutorial.mineraltree1,"Je hebt net een mineraalboomzaad gevonden. Dit kan tot een boom uitgroeien die in tegels wortelt. Deze kweekt grondstoffen afhankelijk van de grondstoffen van de gewortelde tegels.
+Laat het op een tegel vallen om het zaad te planten."
+options.keybindings.action.keeper.pickup,Oprapen
+gadget.slot.domebackside,Dome Backside
+assignment.megacreeps.desc,This planet is roamed by the largest and strongest monsters only.
+options.keybindings.rebinding.error.gamepad.switch,Cannot set this as a Controller input.
+modding.profile.new,Nieuw Profiel
+upgrades.suitblasterspeed2.desc,Improve how quickly the suit charges a blast.
+properties.domearmor.pulsedamagethreshold,Pulse Damage Threshold {}
+options.game.autopause,Pauzeer spel Wanneer buiten de focus
+savegame.wiped.desc,"All your save files are corrupted, possibly due to a system crash during saving. Unable to restore progress.
+Check if you can restore your save via cloud storage. Otherwise your progress is permanently lost."
+properties.shield.maxstrength,Strength {} HP
+level.tutorial.ninja.rope.desc1,Hold| to shoot your rope in the direction you are aiming with your %s.
+level.gameover.unlock.gadgetability,Nieuwe vechtvaardigheid voor gadget
+level.tutorial.ninja.rope.desc2,Hold| to jump.
+upgrades.repellent.desc,Installeert een tank met vloeistof die monsters afweert. Activeer hem om de vloeistof buiten de koepel te sproeien om de volgende aanvalsgolf te vertragen.
+modding.modio.report,Report Mod
+properties.artillery.directhitdamage,Direct Hit Damage {.percent}
+upgrades.spireprojectileslowdown.title,Projectile Slowdown
+properties.keeper2.bundleduration,Bundle Lifetime {}s
+upgrades.domesandrepair.title,Kobaltreparatie
+upgrades.assignmentsemergencycontribution3.desc,Send this package before the 7th wave ends or fail this assignment.
+upgrades.stunlaserduration3.title,Firing Stamina 3
+properties.orchard.battleshields,Schildlagen {}
+options.video.brightness,Helderheid
+demo.end.misc1,De competitieve prestige modus met 4 variaties
+upgrades.droneyarddrones.desc,Construct an additional drone for transporting resources.
+demo.end.misc3,Meer primaire gadgets
+options.game,Spel
+loadout.mode.longtime.desc,"Er zit twee keer zoveel tijd tussen de golven, maar de golven zijn sterker."
+demo.end.misc2,Meer uitdagende opdrachten
+demo.end.misc5,Meer grotten
+demo.end.misc4,Meer kaart groottes
+upgrades.orchardduration2.title,Voedzaamheid 2
+reward.rewarddomesupplements.title,Dome Supplements
+demo.end.misc6,Meer monsters
+upgrades.keeper2rotationalmining1.desc,Ignore rock density and mine at a constant speed.
+upgrades.droneyardbattlegridquick2.desc,"Release all drones very quickly, having them ready at the beginning of the battle."
+loadout.choices.comingsoon,"Nog niet beschikbaar, maar binnenkort."
+properties.keeper2.splitlifetime,Split Sphere Lifetime {.percent}
+options.input.controls.mouse.sword,Gebruik Muis om Zwaard Dome Slice te Control
+level.tutorial.beastmaster.goblins.desc1,Hold| to punch a hole in the back wall for your Catgoblins to enter the mine.
+upgrades.drill3.desc,Versterkt de boor om sneller te kunnen graven.
+upgrades.jetpackstrength3.title,Draagkracht 3
+upgrades.shieldstrength3.title,Kracht 3
+level.tutorial.beastmaster.goblins.desc2,They will help by collecting the resources near the hole.
+upgrades.domesupplementresurrection1.title,Dome Resurrection
+loadout.mapsize.small.description,Een kleine kaart voor korte sessies.
+upgrades.proberange2.title,Groot bereik
+reward.rewardkeeper2skin5.title,Assessor Skin
+upgrades.jetpackspeed2.desc,"Verbetert de jetpack, zodat je je sneller verplaatst."
+upgrades.artilleryrotation2.desc,Turn your mortar faster.
+upgrades.domesupplementcombatrepair3.title,Quick Combat Repair
+reward.rewardkeeper4skin3.desc,Unlock a new keeper skin for the Beastmaster.
+multiplayer.host.splitscreen.desc.ps5,Use the wireless controllers in the loadout to spawn additional keepers. Up to four keepers can share one screen. Can be combined with online multiplayer.
+upgrades.keeper2pinballdamage2.desc,Further increase the reload time for more powerful kinetic spheres.
+level.tutorial.ninja.rope,Rope
+options.keybindings.rebinding.error.keyboard,Kan niet worden ingesteld als toetsenbordinvoer.
+upgrades.domesupplementcombatrepair2.desc,"Automatic repair is stronger, restoring more structural health."
+properties.dome.baserepair,Repareer {) hp
+properties.repellent.growthtime,Production Time (Cycles) {}
+properties.keeper.domefuel,Add Fuel {}
+options.accessibility.critters,Disable Critters
+level.tutorial.assessor.reflect.desc1.switch,Press|to toggle a reflective field around you.
+upgrades.probelongmarker2.title,Enduring Markers
+upgrades.converterefficientwater.title,Efficiënte wateromzetting
+upgrades.assignmentssendcobalt.title,Deliver Cobalt
+properties.monsters.waveinterval,Time Between Waves {}s
+options.keybindings.rebinding.error.gamepad,Kan niet worden ingesteld als controllerinvoer.
+options.input.gamepad.twinstick.ps5,Twin-Stik Besturing
+properties.extractor.units,Worms Produced {}
+loadout.mode.doubleiron.desc,Iron deposits are much richer.
+telemetry.title,Enable Online Multiplayer?
+multiplayer.host.local.desc,Players in your local network can join.
+properties.laser.dps,Schade {}
+level.tutorial.assessor.spheres.desc1.switch,Press| to shoot a kinetic sphere in the direction in which you are facing.
+upgrades.spirecapacity.desc,Increase the number of shots that can be fired before a recharge is necessary.
+upgrades.doublelaser.title,Dubbele laser
+options.keybindings.text,"Wijzig de besturing naar eigen smaak.
+Toetsen voor verschillende secties zullen doorgaans niet voor overlapproblemen zorgen (zoals het gebruik van dezelfde toetsen voor het verplaatsen van je wachter en het koepelwapen)."
+properties.repellent.battleabilityduration,Vaardigheidsduur {}s
+options.input.controls.keybindings.switch,Button Bindings
+options.keybindings.gamepad.xbox.menu,Start
+upgrades.shieldstrength1.title,Kracht 1
+properties.converter.watertoiron,1 Water naar {} IJzer
+upgrades.stunlaserstun2.title,Stun Strength 2
+upgrades.drillbotstrength2.desc,Vergroot de graafkracht van Booris.
+upgrades.dome1.title,Laserkoepel
+options.keybindings.rebinding.error.gamepad.xbox,Cannot set this as a Controller input.
+loadout.assignment.shop,Keeper's Guild Rewards
+upgrades.orchardbattlerootingmore.desc,Laat meer wortels groeien die langer actief blijven.
+options.keybindings.cancel,Annuleren
+exhibition.level.instruction,Druk op een toets of knop om te blijven spelen!
+upgrades.converterefficientwater.desc,Improve the conversion to be more efficient.
+upgrades.teslapower4.desc,Improve the power of the tesla's shot.
+properties.spire.splitshot,Split Projectiles
+assignment.weakwalls.title,High Risk
+title.navbar.quit,Naar bureaublad
+upgrades.autocannonrateoffire1.desc,Increase the rate of fire.
+upgrades.laserstrength3.desc,"Vergroot de kracht van je laser enorm, maar hij beweegt nauwelijks tijdens het schieten."
+loadout.mode.automateddefense.desc,"Start with all defensive gadgets and gadget autonomy, but without a main weapon. Let your dome do the work!"
+level.gameover.prestige.score.rankunchanged,Klassering ongewijzigd.
+properties.keeper2.directmininghardness,Rock Hardness Influence {.percent}
+level.gameover.retry,Nieuwe run starten
+options.input.controls.keybindings.button.xbox,Change Button Bindings
+upgrades.keeper4autospawnminers.title,Eager Squad
+modding.modio.declined,Please accept conditions if you want to access mods
+upgrades.repellentoverchargeduration1.desc,Increase the impact of overcharging on the battle abilities.
+upgrades.assignmentsemergencycontribution5.title,Emergency Contribution 16
+upgrades.keeper2pinballdamage2.title,Kinetic Spheres 2
+upgrades.teslaspeed3.desc,The aiming reticle moves faster.
+upgrades.domesupplementmeleedamagereduction2.desc,Further harden the hull to take even less damage from melee hits.
+properties.extractor.processingtime,Extraction Duration {}s
+upgrades.keeper3.desc,A nimble keeper who moves swiftly using rope and skillful jumps. Mines by throwing explosive kunai.
+assignment.acidrain.title,Acid Rain
+upgrades.droneyardparasites3.desc,Further improve the weakening impact of your parasitic drones.
+upgrades.domesupplementelectrifiedsurface1.desc,Add a responsive electrified coat to the dome hull which hurts melee monsters.
+unlock.buy.keeperdlc.ps5,Unlocked by add-on '%s'.
+upgrades.keeper3shurikenstrength2.desc,Increase Shuriken explosion power even more.
+upgrades.teslapower3.title,Shot Power 3
+upgrades.stationextensionrevealdistance2.desc,Increase the distance in which rock and resources around the station are revealed.
+upgrades.keeper3shurikencooldown2.title,Incessant Shuriken
+properties.orchard.buffduration,Buff Duration (Cycles) {}
+loadout.prestige.provocation.description,"Provoke monsters to generate stronger waves and gain more prestige. Multiplier decreases each cycle, and the run ends if it falls below zero."
+level.tutorial.probe.popup_1,Druk op | om een sondepuls uit te zenden.
+level.tutorial.repellent.popup_2,Druk vlakbij op | om hem te activeren.
+multiplayer.join.profile,Profile
+level.tutorial.probe.popup_3,"Dit onthult enkele nabije grondstoffen.
+Laad hem op in het station."
+level.tutorial.repellent.popup_1,Je verdelger is gereed om de volgende golf te vertragen.
+upgrades.keeper4ramping2.desc,"Increase your mining strength, peak speed, and momentum retention."
+options.game.kunaicarrierbeforegadgets,Throw Kunai Carrier before Gadgets
+properties.probe.permanentrevealresources,Permanently Reveal Resources
+upgrades.keeper2bundle4.title,Powerful Bundle
+options.audio.volumes.musicvolume,Muziek
+options.input.controls.useindividualsettings,Use individual keeper settings
+upgrades.keeper4squadsmarts.desc,Mining squads prioritize special tiles and tiles close to resources.
+upgrades.domesupplementscraprepair2.title,Restoration
+upgrades.orchardduration3.desc,Maximale duur van fruiteffecten.
+options.input.controls.touch,Touch
+level.gameover.keepgadget.none,Geen
+upgrades.stunlaserautonomy1.title,Autonomie
+upgrades.swordexplosivereflection.title,Explosieve weerkaatsing
+upgrades.probelongmarker1.desc,"Improve the memory module of the probe, showing markers for much longer."
+upgrades.resourcepackercharges.desc,Increase how many packing charges you can hold within your suit.
+options.keybindings.action.dome.fire,Schieten
+upgrades.drilladditionalsides.desc,Gain more side drillers with the same functionality as the first.
+loadout.difficulty.veryeasy.description,"Nog steeds geen makkie, maar minder intens dan de andere niveaus."
+properties.stunlaser.stunstrength,Verlammingskracht {}
+properties.resourcepacker.packcount,Bundle Size {}
+upgrades.keeperonewayteleporter.title,One Way Teleporter
+upgrades.keeper3kunaidamage4.title,Kunai Impact
+upgrades.drill4.title,Boorkracht 4
+options.game.directionsnapping,Snap Keeper Aiming naar kardinale richtingen
+upgrades.artillerymachinegun3.title,Fast Fire 2
+upgrades.stunlaserspeed2.title,Snelheid 2
+properties.artillery.machinegunreloadspeed,Bullet Reload Speed {}s
+options.game.screenshake,Schudden van het scherm
+upgrades.proberechargeafterbattle.desc,"The probe will recharge automatically over time, making the recharge station obsolete. Frees up the gadget slot in the cellar."
+upgrades.jetpackstrength2.title,Draagkracht 2
+loadout.versus.condition.irondelivery.title,Iron Delivery
+upgrades.teslaspeed4.desc,The aiming reticle moves faster.
+level.assignment.badges.toggle,Earn badges by completing assignments. Spend your badges on Keeper's Guild rewards. You can deactivate rewards after purchasing them if you want to play without them.
+loadout.versus.wincondition,Win Condition
+upgrades.converterefficientwatershort.title,Swift Treatment
+properties.keeper2.directminingdamage,Compression Mining Damage {}
+upgrades.assignmentssendiron.desc,"Deliver iron to the Keeper's Guild. To succeed with the assignment, you need to send back all the available deliveries."
+upgrades.keeper3carrylimit1.title,Carry Capacity 1
+assignment.goaltype.survive,Survive
+upgrades.shield.title,Schild
+level.station.battle.navbar.stabspeedup,Stab Speedup
+upgrades.keeper3quadjump.desc,Perform up to three additional jumps while airborne.
+properties.laser.aimline,Richtlijn
+properties.domearmor.pulsestunduration,Pulse Stun Duration {}s
+level.tutorial.assessor.carry.desc2.switch,Press|to shoot them as a bundle in the direction in which you are facing.
+level.tutorial.ninja.carry.desc1.switch,Press| to throw a kunai carrying resources in the direction you are aiming with your %s.
+upgrades.orchardovercharge.desc,"Geef je fruitboom water om hem te overladen, zodat er sneller fruit aan groeit."
+upgrades.missile.abilityname,Missile
+upgrades.resourcepackercount2.desc,Increase how many resources can be packed into a single bundle.
+assignment.bigmapsparseresources.desc,"Resources are rare and far apart on this large planet, but its rock is very brittle."
+properties.spire.stuntrap,Energy Trap
+playerlist.block,Block
+level.tutorial.sworddome.stabbing.desc,Maak het zwaard langer en steek vijanden op afstand.
+properties.sword.sliceacceleration,Zwaardsnelheid {}
+loadout.team.join,Join
+assignment.weapondefect.desc,"Your dome's main weapon has been destroyed, so you will need to survive by other means."
+upgrades.repellentbattlehealthreduction.title,Verzwakken
+loadout.versusmod.versusmodifiertoughstart,Tough Start
+title.navbar.multiplayer,Meerdere spelers
+keybindings.reset.title.xbox,Button Bindings Reset
+upgrades.extractorquickextraction.desc,"Evolve your worms to be hyperactive, extracting iron clusters much faster."
+upgrades.mushroomfarmquickgrowth.title,Fast Growth
+upgrades.repellentbattlehealthreduction.desc,"Weaken all monsters, causing them to take more damage when hit."
+loadout.versusmod.versusmodifierstrongmonsters,Healthy Monsters
+leaderboard.failed,Failed to load leaderboard.
+properties.sword.reflectprojectilesexplosive,Weerkaatste energieprojectielen zijn explosief
+level.station.navbar.upgrades,Upgrades
+upgrades.artillerymachinegun3.desc,Improve your anti-air gun.
+level.gameover.unlock.pet,Nieuw huisdier ontgrendeld!
+upgrades.domesupplementelectrifiedsurface2.title,Electrified Hull 2
+upgrades.keeper3shuriken2.desc,"Reduce the Shuriken cooldown, allowing you to throw them more frequently."
+upgrades.artillerysplash2.desc,Fire two mortar shells in quick succession.
+loadout.mode.hud,HUD
+upgrades.keeper4flexible2.title,Agility 2
+upgrades.shieldbattlereflectshortuses.desc,Je weerkaatst projectielen vaker in een kortere tijd.
+upgrades.rocketlauncherdamage2.title,Deadly Missiles
+upgrades.domesupplementscraprepair1.title,Scrap Repair
+upgrades.keeper2bundle3.title,Zwaartekrachtscentrum
+upgrades.keeper2bundle2.desc,Enable directional control of a dropped bundle at close range.
+upgrades.keeper3shurikencooldown2.desc,Reduces the Shuriken cooldown even further.
+upgrades.suitblaster.title,Suit Blaster
+upgrades.prestigeiron.title,IJzer versturen
+properties.stunlaser.cooldown,Afkoelperiode van {}s
+options.input.controls.keepersettings.desc,"Keepers use the global settings by default. You can override them here with individual settings per keeper. For example, you may want different snapping settings depending on the keeper or action."
+options.keybindings.action.keeper.gravityball,Schieten
+upgrades.liftorbs.desc,Installeer een extra liftbol.
+options.input.controls.mouse.gamepad,Overschakelen naar een gamepad en terug wordt automatisch gedetecteerd.
+properties.probe.detectchambers,Detect Chambers
+landing.proceed.ps5,Druk op een toets of knop om door te gaan
+upgrades.condenserautocollect.title,Automatische verzameling
+multiplayer.error.hostcrossplaydisabled,Can't join lobby because host has crossplay disabled and is on a different platform.
+upgrades.repellent.title,Verdelger
+loadout.team.color,Team Color
+options.game.tutorials.resettutorials,Tutorials resetten
+options.accessibility.critters.explanation,"Disable worms, bugs and spider-like critters that spawn in the mine as visual effects. (Does not affect gameplay)"
+upgrades.prospectionmeterrange1.desc,Increase the detection range of the prospecting meter.
+upgrades.drillsidepull.title,Mineral Transportation
+options.accessibility.highlightmonsters.explanation,Voeg een duidelijke omlijning aan de monsters toe zodat je ze goed kunt zien.
+upgrades.keeper2bundle1.desc,Show a marker directly below the dome to indicate where to shoot bundles upwards.
+upgrades.assignmentsemergencycontribution6.title,Emergency Contribution 20
+upgrades.keeper4ramping3.title,Momentum 3
+upgrades.swordblade1.desc,Verbeter de hakkracht en -snelheid van je zwaard.
+upgrades.probedetectchambers.title,Detect Chambers
+loadout.mode.shortcycles,Short Cycles
+upgrades.proberange3.desc,Increase the range of the probe.
+upgrades.prestigespeedup.title,Shorten Cycles
+loadout.prestige.endless.description,No limits on time or resources for very long runs.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"Set the value so that the meter does not flicker when only touching the sticks, without pushing them.
+The meter should flicker when moving the stick."
+upgrades.blastminingblast3.title,Explosie 3
+upgrades.swordextendlong1.desc,Verbetert de steekkracht en de geleiding als het is afgevuurd.
+properties.autocannon.rateoffire,Rate of Fire {.percent}
+upgrades.assignmentsemergencycontribution4.title,Emergency Contribution 11
+assignment.minorvision.desc,The dark shadows on this planet consume all light.
+options.audio.volumes,Volumes
+unlock.host.locked.ps5,Host does not own the add-on '%s'.
+loadout.versusmod.versusmodifiershortcycles.desc,The time between monster waves is shorter.
+upgrades.keeper2pinballexplode2.title,Improved Explosion
+multiplayer.host.local,Local
+options.video.graphicsmode.fullscreen,Volledig scherm
+properties.keeper3.kunaidamage,Kunai Damage {}
+options.game.screenshake.shakewhenmining,Schudden tijdens het mijnen
+upgrades.dome2.title,Zwaardkoepel
+properties.autocannon.damage,Bullet Damage {}
+loadout.mode.doubleiron,Mass Iron
+upgrades.keeper4punch1.title,Frenzy
+level.gameover.unlock.versus,Versus mode unlocked!
+upgrades.artillerydoublemachinegun.desc,Install a second barrel for the anti-air gun onto your dome.
+level.converter.popup.conversion.time,over {time} cyclussen
+options.translation.title,KIES JE TAAL
+loadout.prestige.pro.title,Custom Settings
+multiplayer.host.title,Host a multiplayer session
+properties.keeper4.movespeed,Move Speed {}
+options.input.gamepad.thumbstick.xbox,Stick
+upgrades.furnacelastingironfiring.title,Durable Iron Fuel
+upgrades.shieldoverchargestrength1.title,Overladen schildkracht 1
+multiplayer.error.modsmismatched,Your modlist does not match the host. Unable to join.
+upgrades.laserhitprojectiles.desc,Energieprojectielen die worden geraakt met de laser lossen direct op.
+upgrades.probepermanentrevealtiles.desc,All of the area that the probe scans is permanently revealed.
+options.keybindings.action.keeper.jump,Jump
+upgrades.repellentdelay2.title,Vertraging 2
+upgrades.keeper3shuriken1.title,Shuriken
+upgrades.probelongmarker2.desc,The resource markers will remain for many cycles.
+properties.shockwave.stunduration,Stun Duration {}s
+level.tutorial.teleporter.teleport1.switch,"When close to the portal, press | to teleport back."
+options.game.alwaysshowping,Always show Server Ping
+loadout.choices.locked,Nog niet ontgrendeld
+upgrades.prospectionmetersand1.title,Kobaltmeter
+upgrades.drill2.title,Boorkracht 2
+level.gameover.findimages,Saved to
+level.tutorial.resourcepacker.popup_1.switch,"When close to resources, press | to pack them into a compact bundle that is easier to transport."
+reward.rewardpostrunshowmonstercount.title,Additional Battle Statistics
+upgrades.drill.title,Drilling Rig
+upgrades.versusincreasewave1.desc,Permantently increase the monster wave strength for the other team.
+upgrades.swordstabfast1.desc,Steek sneller en vaker.
+properties.sword.slicebrake,Snelheidsverlies bij hakken {.percent}
+upgrades.lasermove3.desc,De maximale bewegingssnelheid van de laser.
+upgrades.prestigewatermultiplier.desc,Send back water. Increases how many prestige points you get after each wave.
+upgrades.domesupplementresurrection1.desc,"Instead of being destroyed, your dome will heal completely and become invulnerable for some time. One use only."
+upgrades.swordextendlong3.title,Lange steek 3
+properties.repellent.wavedelay,Wave Delay (Cycles) {}
+upgrades.domewavepathtodome.desc,"When the Wave Warner signals, it will also display the shortest path back to your dome."
+level.tutorial.ninja.carry,Kunai Carrier
+upgrades.dome4.desc,State-of-the-art dome that harnesses the power of electricity to an extent never before seen.
+upgrades.prospectionmeterwater2.title,Waterkompas
+multiplayer.techtree.keeperexclusivegadget,This gadget applies to only your keeper.
+options.keybindings.action.dome,Koepel
+upgrades.drillbotbuff1.title,Lekkernijen
+versus.corruption.desc,Choose a corruption that will affect the monsters attacking the other team!
+upgrades.swordstabshoot.title,Speer
+properties.dome.projectiledamagereduction,Projectile Damage Reduction {.percent}
+upgrades.drillbotbuffstrength2.desc,Na het eten van een lekkernij werkt Booris een stuk langer door voordat hij slaap krijgt.
+leaderboard.global,Global
+options.game.blocklist.unblockall,Unblock all
+upgrades.swordlongblade1.title,Lang zwaard 1
+properties.mushroomfarm.drillbuff,Mining Strength Buff {}
+properties.spire.splitshotspeed,Split Shot Speed {}
+options.keybindings.action.dome.upgrade,Upgrades
+upgrades.teslaspeed3.title,Reticle Speed 3
+upgrades.domehealthmeter.title,Stabiliteitsmeter
+properties.extractor.additionalresources,Additional Resources {}
+upgrades.domesupplementcombatrepair3.desc,"Automatic repair activates sooner, after receiving less damage."
+upgrades.furnacelastingironfiring.desc,Make each piece of iron last longer in the furnace.
+properties.dome.resurrectinvulnerability,Invulnerability after Resurrection {}s
+upgrades.assignmentssendwater.desc,"Deliver water to the Keeper's Guild. To succeed with the assignment, you need to send back all the available deliveries."
+options.game.autopickupresources,Automatically pick up Resources
+upgrades.repellentbattledamageovertime.desc,Alle monsters lopen wat schade op gedurende elke seconde dat de gifdampen aanwezig zijn.
+upgrades.artillerydirecthit3.desc,Increase the destructive potential of your mortar shells.
+upgrades.domearmorprojectile1.title,Projectile Armor 1
+upgrades.keeper4catgoblindig3.desc,Catgoblins will destroy tiles while digging.
+upgrades.stunlaserarea.desc,Creates a stun blast around the target monster that stuns all nearby monsters. The area grows and deals more damage the more monsters there are in it.
+level.tutorial.teleporter.carry2,Hou | ingedrukt bij de portal om hem opnieuw op te pakken.
+level.tutorial.teleporter.carry3,"Als je op | drukt, teleporteer je terug."
+upgrades.keeper2pinballreflect.title,Reflection Field
+upgrades.probepermanentrevealtiles.title,Reveal Rock
+loadout.versusmod.versusmodifierfastmonsters.desc,Monsters move faster.
+level.tutorial.teleporter.carry1,Je kunt de portal overal mee naartoe nemen.
+level.tutorial.pickup.popup_1.switch,Press | to pick up a resource.
+options.input.gamepad.autoswitch,Automatische detectie van voorkeur spelpad
+options.accessibility,Toegankelijkheid
+upgrades.teslapersistance2.desc,The electro orbs are larger and persist longer.
+properties.sword.reflectionacceleration,Snelheid weerkaatste projectielen {.percent}
+upgrades.artillerygrenadefastreload.title,Swift Reload
+upgrades.keeper2pinballreflect.desc,Place a stationary reflection field that reflects kinetic spheres. Spheres are slightly powered up after each reflection.
+options.keybindings.action.keeper,Wachter
+upgrades.drillbotbuffstrength1.desc,Lekkernijen geven Booris langer energie.
+upgrades.versussendiron.desc,Deliver iron to the Keeper's Guild. Send back all available deliveries to achieve victory over the opposing team.
+upgrades.keeper2pinballmorespheres1.desc,Increase the number of kinetic spheres you can carry.
+properties.rocketlauncher.rechargetime,Time to Restock {}s
+upgrades.domesupplementadditionalcellar.title,Deep Cellar
+upgrades.blastminingstickycharge.title,Kleefexplosieven
+level.tutorial.assessor.explode.desc1,Hit|to explode all spheres in your vicinity.
+upgrades.furnacestrongironfiring.title,Enhanced Iron Fuel
+assignment.monstermasses.title,Monster Masses
+options.input.gamepad.gamepadstickdeadzone.switch,Stick Dead Zone
+properties.stunlaser.areastunstrength,Area Stun Efficiency {.percent}
+upgrades.dome1health2.desc,Permanente verbetering van de structurele stabiliteit van je koepel.
+upgrades.probepermanentrevealresources.title,Reveal Resources
+upgrades.swordfastreflection.desc,Weerkaatste projectielen vliegen sneller terug.
+properties.autocannon.shotgun,Shotgun Bullets {}
+loadout.difficulty.medium,Wreed
+multiplayer.join.joincodeinput,Enter join code
+properties.keeper4.maxspeedupatpunches,Fastest Speed After {} Punches
+properties.monstermodifiers.health,Monster Health {.percent}
+loadout.versusmod.versusmodifierfastmonsters,Fast Monsters
+upgrades.shieldoverchargestrength1.desc,Vergroot de hoeveelheid schade die het overladen schild kan absorberen.
+properties.probe.charges,Ladingen {}
+reward.rewardthreechoicessupplement.title,Three Supplement Offers
+upgrades.domesupplementscraprepair1.desc,Implement makeshift dome repairs using iron. Reduces overall structural health.
+level.tutorial.tesla.panel1content1,Move the reticle across the screen to aim.
+upgrades.shockwavebig.desc,The shockwave deals a vast amount of damage which can even annihilate some stronger monsters.
+multiplayer.continue.allowmultiplayererror,Unable to continue online multiplayer because you don't have Enable Online Play checked in the options menu.
+loadout.hint.multiplayer.playerminimum,Need at least two players to start a multiplayer run.
+upgrades.artillerymachinegunhoming2.title,Homing Rockets 2
+upgrades.repellentbattleslowdownstun2.title,Ernstige verlamming
+upgrades.shockwave.abilityname,Shockwave
+upgrades.jetpackspeed1.title,Snelheid 1
+upgrades.teleporterteleportduration1.title,Teleportatieduur
+upgrades.autocannonrateoffire3.title,Machine Gun 3
+properties.monstermodifiers.totalrunweightmodifier,Wave Strength Multiplier {.percent}
+upgrades.swordstabfast1.title,Snelle steek 1
+upgrades.swordstabfast3.title,Snelle steek 3
+properties.tesla.quickshotstrength,Quick Shot Strength {.percent}
+upgrades.keeper2pinballdamage3.desc,Further increase the reload time for more powerful kinetic spheres.
+title.navbar.options,Opties
+upgrades.domearmormelee2.desc,Decrease how much damage the dome takes from melee attacks.
+upgrades.shieldbattleelectroblast.title,Elektroveld
+properties.spire.stuntrapradius,Radius {}
+options.audio.volumes.ambiencevolume,Ambiantie
+loadout.mode.drillbert.desc,"Start with Drillbert and Blast Mining, but the keeper cannot upgrade mining skills. Unlimited Drillbert supply."
+loadout.versus.team.closed,closed
+properties.keeper4.goblinnapduration,Catgoblin Nap Duration {}s
+properties.keeper2.reflectnexthitdamage,Additional Damage on Next Hit {.percent}
+upgrades.orchardbattlerootingmore.title,Sterke wortels
+multiplayer.error.connection,Failed to connect.
+keeperdlc.load.missing.ps5,"Cannot load save, it contains unavailable add-on content. Please ensure 'The Lost Keepers' add-on is available."
+level.tutorial.fruit.popup_2.switch,"When next to it, press | to consume it."
+loadout.versusmod.versusmodifierlittlecobalt,Cobalt Shortage
+reward.rewardpet12.desc,Unlock the dog as a pet for your dome.
+multiplayer.host.joincodelabel,Join Code
+upgrades.swordstabfast2.desc,Steek nog sneller en vaker.
+properties.dome.incomingdamagemodifier,Received Damage {.percent}
+properties.sword.stabexplosivedamage,Bomschade {}
+properties.blastmining.bombs,Blast Charges {}
+properties.resourcepacker.charges,Ladingen {}
+upgrades.assignmentsemergencycontribution1.desc,Send this package before the 2nd wave ends or fail this assignment.
+properties.artillery.machinegunbarrels,Anti Air Guns {}
+properties.artillery.gunaimline,Laservizier
+upgrades.jetpackstrength4.desc,"Verbetert het jetpack, zodat je meer grondstoffen mee kunt nemen."
+loadout.mode.nomonsters.desc,Land on a world without any monsters at all.
+telemetry.eula,Read EULA
+upgrades.condenserspeed1.title,Productiesnelheid 1
+upgrades.mushroomstack.desc,"Stack the duration of each buff, gaining longer-lasting buffs by consuming many mushrooms."
+upgrades.keeper2pinballexplode2.desc,Increase the magnitude of the explosions from the kinetic spheres.
+versus.message.disruption,The other team just strengthened your monster waves permanently.
+loadout.mode.strongmonsters.desc,Monsters will deal double damage.
+upgrades.tesla.desc,Introduce the marvel of electricity to whatever is out there. Preferably to the face. At several thousand volts.
+properties.drillbot.turnaround,Omkeren bij een harde muur
+upgrades.keeper2movement3.desc,Improve your gravity generator for the fastest movement speed.
+level.tutorial.onewayteleporter2,Press|to place the portal. Press again to teleport back to it.
+upgrades.domearmormelee2.title,Melee Armor 2
+upgrades.drillbotbuffstrength2.title,Vleugje taurine
+level.tutorial.onewayteleporter3,It recharges automatically.
+upgrades.keeper4extraresource.desc,Catgoblins will sometimes harvest an extra resource from a tile by carefully digging.
+upgrades.drillbotduo.desc,"Bring in Drillbert's cousins Diggory and Minerva to help with mining. Being in comforting company, they won't get scared during monster waves and keep digging instead."
+properties.tesla.perfecttimingwindow,Time Window {}s
+loadout.mode.strongmonsters,Heavy Hitters
+pause.quittotitlescreen,Terug naar titelscherm
+properties.keeper2.explodespheresradius,Explosion Radius (Tiles) {}
+telemetry.privacy,Meer informatie over onze gegevenspraktijken vindt u in ons privacybeleid: http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,The missiles become more lethal.
+keybindings.reset.doreset,Reset mijn sneltoetsen
+upgrades.keeper3carrylimit3.desc,Increase the number of resources you can haul on your Kunai carrier.
+upgrades.autocannondoublefirerate.desc,The auto cannon fires much faster. Simple and effective.
+upgrades.autocannon.title,Auto Cannon
+upgrades.artillerymachinegunhoming1.title,Homing Rockets 1
+level.tutorial.assessor.carry.desc1_1.switch,"Once locked onto you, they will follow you even if you release the collect button."
+upgrades.swordlongblade1.desc,"Monteert een langer, wendbaarder zwaard."
+loadout.team.players,Players
+options.keybindings.gamepad.xbox.view,Terug
+options.keybindings.action.keeper.rope,Fling Rope
+upgrades.mushroomfarm.title,Mushroom Farm
+loadout.prestige.title,Kies een speltypevariatie
+upgrades.prospectionmeterrange1.title,Bereik 1
+upgrades.keeper3doublejump.title,Double Jump
+upgrades.keeper3kunaibounce1.desc,"Display the Kunai's predicted bounce path and landing point. Each bounce reverberates through the stone, revealing nearby tiles."
+upgrades.repellentbattlelongerhealthreduction.title,Ernstige verzwakking
+loadout.versusmod.versusmodifierlittlewater,Water Shortage
+upgrades.mushroomfarmdrill1.title,Mushroom Mining 1
+loadout.versusmod.versusmodifierscatterediron,Scattered Iron
+level.converter.popup.conversion.convert,omzetten:
+properties.droneyard.overchargebattledronecount,Additional Battle Drones {.percent}
+reward.rewardfreerolls1.desc,One free reroll of the gadget or supplement choices per run.
+multiplayer.host.splitscreen,Enable Local Split Screen
+properties.converter.cobalttoiron,1 Kobalt naar {} IJzer
+loadout.mode.automateddefense,Automated Defense
+options.input.gamepad.gamepadstickdeadzone.xbox,Stick Dead Zone
+level.converter.popup.explanation,Kies een grondstofomzetting om te beginnen!
+upgrades.dome1health2.title,Stabiliteit 2
+upgrades.stunlaserduration3.desc,The stun laser cools down extremely fast and has a significantly extended firing duration.
+upgrades.assignmentsemergencycontribution5.desc,Send this package before the 16th wave ends or fail this assignment.
+pause.gamepadcontrols.use,Gebruiken
+properties.spire.stunmonsters,Stun Monsters
+upgrades.assignmentssendcobalt.desc,"Deliver cobalt to the Keeper's Guild. To succeed with the assignment, you need to send back all the available deliveries."
+upgrades.mushroomfarmspeed1.desc,Improve the speed buff obtained from consuming mushrooms.
+upgrades.keeper2pinballmorespheres1.title,Bolvoorraad
+upgrades.rocketlauncherrockets2.desc,Increase the amount of missiles you can fire.
+options.keybindings.gamepad.xbox.menu.xbox,Menu Button
+upgrades.swordstabfast3.desc,Steek nog sneller en vaker.
+properties.shield.overchargestrength,Overladen versterkt {} hp
+upgrades.droneyarddronespeed1.desc,Enhance the speed of your transport drones.
+upgrades.liftorbs.title,Additional Orbs
+properties.keeper3.carrylimit,Kunai Carrier Capacity {}
+options.video.graphicsmode.photosensitive,Lichtovergevoeligheidsmodus
+upgrades.keeper2pinballdamage1.title,Kinetic Spheres 1
+reward.rewardkeeper3skin1.title,Infiltrator Skin
+level.tutorial.ninja.gadgetpickup.desc1,Gadgets are not automatically picked up.
+properties.converter.ironperwater,{} IJzer per Water
+properties.spire.capacity,Shots Before Recharge {}
+level.tutorial.ninja.gadgetpickup.desc2,Hold| to pick up a gadget.
+loadout.versusmod.versusmodifierlittlewater.desc,The map contains minimal water deposits.
+upgrades.drillbotstrength3.desc,Vergroot de graafkracht van Booris.
+upgrades.spirestuntrap3.title,Monster Trap
+upgrades.shredgadgettocobalt.desc,Versnipper de gadget en ontvang {amount} kobalt.
+upgrades.converterefficientcobalt.title,Efficiënte kobaltomzetting
+options.input.vibration.strength.switch,Vibratiesterkte
+properties.sword.reflectprojectiles,Weerkaatst energieprojectielen
+reward.rewardfreerolls2.desc,One additional free reroll of the gadget or supplement choices per run.
+level.tutorial.station.popup_2.switch,Move to the station and press | to enter it.
+upgrades.versus.desc,"Two domes, two teams, competing against each other until only one remains."
+upgrades.dome2.desc,Experimental dome with a powerful sword that requires mastery but can dominate even the strongest assailants.
+upgrades.drillmagnetic.desc,"The casings of the downward drills become magnetic, holding all mined resources in place."
+assignment.harmfuliron.title,Hazardous Iron
+level.tutorial.sworddome.stabbing,Steken
+options.input.gamepad.icons,Iconen
+upgrades.shredgadgettoiron.desc,Versnipper de gadget en ontvang {amount} ijzer.
+upgrades.assignmentsemergencycontribution6.desc,Send this package before the 20th wave ends or fail this assignment.
+properties.droneyard.battledroneshots,Shots per Drone {}
+level.gameover.lose.title,DE KOEPEL IS VERLOREN
+loadout.difficulty.title,Niveau
+properties.artillery.maxrotation,Maximum Rotation {}°
+upgrades.shockwavestun2.desc,Increase the stun capability of the shockwave.
+unlock.host.locked,Host does not own the DLC '%s'.
+multiplayer.host.splitscreen.desc,Use gamepads in the loadout to spawn additional keepers. Up to four keepers can share one screen. Can be combined with local network or online multiplayer.
+telemetry.explanation,"For online multiplayer, connect to our service to discover other players and join their games, or host games on your side.
+This is optional and you are free to enable/disable this. Repeatedly connecting to a backend—even with an anonymous account—is relevant under GDPR.
+We don't collect your personal information and there is also no telemetry tracking your runs.
+If you don't enable online multiplayer, you can still play multiplayer on one device in splitscreen or on your local network.
+
+You can change this setting any time in the options."
+gadget.slot.supplement,Supplement
+upgrades.droneyardovercharge2.desc,Drones are stronger after overcharging the droneyard.
+level.furnace.popup.fuel.burn,Each|lasts for {cycles} cycles and delays the monsters by an additional {seconds} seconds.
+options.input.controls.nooptions,There are no individual %s settings for this keeper available.
+upgrades.versusshowinventory.desc,Allows you to see the other team's inventory when monitoring their dome.
+properties.keeper1.drillstrength,Boorkracht {}
+upgrades.keeper1.desc,"Een bekwame, efficiënte professional die weet wat mijnwerk is."
+leaderboard.friends,Friends
+gadget.slot.activegadget,Secondary Combat Ability
+upgrades.keeper2.desc,A sophisticated miner who employs experimental kinetic energy and gravity technologies.
+upgrades.keeper2pinballsplit2.title,Improved Split
+upgrades.keeper2movement1.title,Zwaartekrachtbeweging 1
+upgrades.keeper2pinballexplode.title,Explode Spheres
+upgrades.keeper3kunaidamage4.desc,Increase the mining power of your kunai. Kunai are especially weak against very dense rock.
+upgrades.spireautonomy1.desc,A simple AI will control the spire even when you are not inside the control station.
+properties.droneyard.dronespeed,Drone Speed {}
+upgrades.teslaquickshot.title,Quick Shot
+assignment.megacreeps.title,Survival of the Fittest
+upgrades.shieldbattleactivateondepletion.title,Activeren bij uitputting
+versus.corruptionbigwave.title,Killer Wave
+upgrades.lasermove3.title,Bewegingssnelheid 3
+upgrades.swordelectrified.title,Elektrozwaard
+upgrades.artillerymachinegun1.title,Improved Anti-Air Gun
+level.tutorial.beastmaster.move.desc2,You can only move if there is something to grab onto.
+options.accessibility.fontsize.small,Klein
+assignment.unpredictable.desc,"The planet's atmosphere is interfering with the dome's proximity meter, preventing enemy waves from being tracked."
+level.tutorial.beastmaster.move.desc1,Use the tentacles to move through the mine.
+upgrades.suitblasterdirectional.desc,"When moving in a direction, the suit blaster will blast a long tunnel. Radial blasts can still be achieved by not moving when triggering the suit blaster."
+level.tutorial.teleporter.take1,Je teleporteerder heeft een station en een portal. Je kunt ertussen teleporteren.
+options.audio.music.ost.mode.fixed.desc,"Speel tracks af van de volgende Keeper soundtracks, ongeacht welke Keeper je selecteert."
+level.tutorial.teleporter.take2,Grijp de Portal en plaats deze waar je wil.
+level.gameover.assignment.failed,You failed the Keeper's Guild assignment.
+telemetry.manage,Disable online services
+modding.restart,Herstart
+upgrades.orchardbattlerootingexplosion.title,Explosieve prooi
+level.gameover.unlock.skin,New suit unlocked!
+upgrades.jetpackspeed3.desc,"Verbetert de jetpack, zodat je je sneller verplaatst."
+upgrades.repellentoverchargeduration2.title,Intense Overcharge
+upgrades.prospectionmeterwater1.desc,Toont de afstand tot de dichtstbijzijnde waterbronnen.
+loadout.prestige.miner.description,Concentrate on the most efficient mining in a world without monsters. Lasts 20 cycles.
+upgrades.shieldbattlereflect.desc,Activeer een actieve vechtvaardigheid die aankomende projectielen tijdelijk weerkaatst.
+upgrades.stunlaserstun1.desc,Increase the power of the stun beam.
+multiplayer.error.gameresolved,This match has already ended.
+upgrades.shieldbattlereflect.title,Weerkaatsing
+options.audio.volumes.mastervolume,Meester
+upgrades.keeper2pinballdamage4.title,Kinetic Spheres 4
+leaderboard.loading,Loading...
+upgrades.droneyardparasites2.title,Parasitic Drones 2
+playerlist.title,Player List
+upgrades.versusincreasewave2.desc,Permantently increase the monster wave strength for the other team.
+upgrades.rocketlauncher.title,Missile Launcher
+upgrades.liftspeed1.title,Snelheid
+upgrades.rocketlauncherrockets2.title,Barrage 2
+level.tutorial.blastmining.popup_1,Neem het explosief mee en laat het achter waar je rotsen wilt opblazen.
+upgrades.keeper3slidecontrol.title,Slide Control
+properties.furnace.wavedelay,Base Delay {}s
+upgrades.mushroomfarmspeed2.desc,Improve the speed buff obtained from consuming mushrooms.
+upgrades.dome3.title,Artilleriekoepel
+properties.converter.ironirontime,Iron to Iron Conversion Time (Cycles) {}
+properties.laser.movespeed,Move Speed {}
+properties.stunlaser.damagepermonster,Area Damage per Monster {}DPS
+upgrades.stunlaser.title,Stunlaser
+title.navbar.credits,Credits
+upgrades.drillbotbuffstrength1.title,Voedzame lekkernijen
+level.tutorial.pickup.popup_1,Druk op | om een grondstof te pakken.
+level.tutorial.pickup.popup_3,Ingedrukt houden om er meerdere te pakken.
+upgrades.blastminingtriple.title,Driedubbele ladingen
+upgrades.prospectionmeterscandelay1.desc,Increase how quickly the meters update.
+upgrades.furnacelastingwaterfiring.desc,Make each unit of water last longer in the furnace.
+upgrades.versusincreasewave2.title,Sabotage 2
+upgrades.artillerymachinegun4.desc,Install reinforced gun barrels that can handle extreme rates of fire.
+upgrades.teslaspeed4.title,Reticle Speed 4
+upgrades.swordextendlong3.desc,Enormous stab strength and duration.
+demo.end.title,Bedankt voor het spelen van de demo!
+upgrades.stationextensiontubemovement.title,Vacuum Tube Travel
+upgrades.keeper4squad3.title,Massive Squad
+upgrades.orchardbattleshield.desc,"Grow a canopy of vines on your dome, protecting the dome from projectiles."
+properties.droneyard.battledronestrength,Parasitic Effect {.percent}
+options.game.kunaicarriersnapping,Snap Kunai Carrier Aim to Cardinal Directions
+options.input.vibration.strength.xbox,Vibratiesterkte
+upgrades.keeper2pinballspherelifetime.title,Levensduur bol
+upgrades.furnace.title,Furnace
+upgrades.shockwavedamage1.title,Shockwave Damage 1
+properties.orchard.drillbuff,Mining Strength Buff {}
+level.tutorial.station.popup_4,Druk vervolgens op | om naar de vechtstand te gaan en te verdedigen.
+level.tutorial.teleporter_2,Gebruik het teleportatiestation om naar de portal te teleporteren en omgekeerd.
+level.tutorial.station.popup_2,Ga naar het station en druk op | om naar binnen te gaan.
+pause.resumegame,Game hervatten
+actionhint.tap,Tap
+level.tutorial.station.popup_1,Je koepel wordt aangevallen!
+multiplayer.error.kicked,Kicked from the multiplayer session.
+telemetry.allow.ps5,Accept EULA
+landing.proceed.switch,Druk op een toets of knop om door te gaan
+upgrades.condenserautoovercharge.title,Automatisch overladen
+upgrades.keeper2pinballdestroyadjacenttiles.title,Cascading Impact
+level.converter.popup.queue,Automatically Repeat Conversion
+options.keybindings.rebinding.cancel,Annuleren
+loadout.versus.condition.deathmatch.title,Last Dome Standing
+upgrades.domearmorprojectile1.desc,Decrease how much damage the dome takes from projectile attacks.
+pause.gamepadcontrols.move,Verplaatsen
+upgrades.keeper3kunaicooldown2.title,Rapid Throw
+upgrades.artilleryrotation2.title,Fast Rotation
+loadout.gadget.additional.desc,Pick an additional gadget!
+level.gameover.unlock.assignment,Assignments unlocked!
+upgrades.domesupplementprojectiledamagereduction1.desc,Improve the deflection of the dome hull to reduce projectile damage. Melee damage is unaffected.
+upgrades.blastminingproductiontime1.desc,Er is minder tijd nodig om een explosief te maken.
+upgrades.autocannonshotgun1.title,Shotgun 1
+loadout.hint.loadout,Finish your loadout!
+assignment.condition.deliveriron,Deliver %d iron
+upgrades.drillbotduo.title,Brave Friends
+level.tutorial.assessor.carry.desc1_1.xbox,"Once locked onto you, they will follow you even if you release the collect button."
+multiplayer.error.nomods,No mods should be installed.
+options.input.controls.keybindings.xbox,Button Bindings
+upgrades.domearmorprojectile2.title,Projectile Armor 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"Set the value so that the meter does not flicker when only touching the sticks, without pushing them.
+The meter should flicker when moving the stick."
+upgrades.domesupplementcombatrepair2.title,Thorough Combat Repair
+level.gadgetchoice.title,KIES EEN GADGET!
+properties.teleporter.slowdown,Carry Slowdown {.percent}
+upgrades.teslaspeed1.title,Reticle Speed 1
+assignment.weapondefect.title,Defective Weapon
+properties.suitblaster.directionalexplosions,Directional Blast
+options.translation.community.title,Communityvertalingen
+options.audio.music.ost.mode,Soundtrack instelling
+upgrades.teleporterteleportresourcesback.title,Grondstoffenteleportatie
+upgrades.orchardbattleshield.title,Vine Canopy
+properties.drill.sides,Side Drillers {}
+upgrades.teslaorbstun.desc,The electro orbs apply a much higher stun.
+upgrades.repellentoverchargeduration2.desc,Increase the impact of overcharging on the battle abilities.
+properties.keeper2.totalspheres,Bollen {}
+options.keybindings.action.general.up,Omhoog
+pause.quit.popup,"Weet je zeker dat je wilt stoppen?
+Druk dan opnieuw.
+(Je voortgang wordt opgeslagen)"
+upgrades.drillbotduplicate.desc,"Booris krijgt een identieke tweelingbroer, Boorlando."
+properties.keeper3.shurikenstrength,Explosion Radius (Tiles) {}
+assignment.bigmapsparseresources.title,Barren Lands
+upgrades.converterqueue.title,Automated Conversion
+multiplayer.error.otherprestigeplayerquit,The game was ended because your teammate left the game. Your game has been saved and you can continue the game by selecting multiplayer under the continue menu.
+level.tutorial.teleporter.teleport1,"Wanneer je de portal sluit, druk op | om terug te teleporteren."
+level.tutorial.teleporter.teleport2,Je kunt ook in de andere richting teleporteren.
+playerlist.report,Report
+upgrades.swordextendlong1.title,Lange steek 1
+upgrades.spiresplit3.desc,Split projectiles can go off at any angle.
+upgrades.keeper3kunaicooldown3.desc,Throw Kunais more quickly.
+exhibition.title.press.anything,Druk op een toets of knop om te spelen
+multiplayer.techtree.keeperexclusivesupplement,This supplement applies to only your keeper.
+options.input.gamepad.twinstick.xbox,Twin-Stik Besturing
+gadget.slot.domesupplement,Dome Supplement
+loadout.mode.maze,Doolhof
+upgrades.teleporter.title,Teleporteerder
+properties.keeper4.holesquad,Mining Squad Size {}
+level.tutorial.fruit.popup_1,Je fruitboom heeft zijn eerste vruchten.
+upgrades.teslatiming1.desc,Shoot a much more powerful shot by shooting precisely at the moment the tesla is recharged and ready to fire.
+upgrades.converterefficientwaterlong.title,Intensive Treatment
+level.tutorial.fruit.popup_2,Druk ernaast op | om een vrucht te eten.
+unlock.buy.keeperdlc.xbox,Unlocked by add-on '%s'.
+upgrades.autocannonspeed1.desc,Grease the cannon's gears for a significant movement speed increase.
+upgrades.probepermanentrevealresources.desc,Pinged resources are permanently revealed instead just being identified with a marker.
+properties.teleporter.teleportresourcescooldown,Resource Teleport Cooldown {}s
+upgrades.spire.desc,A defensive Spire that shoots down incoming projectiles.
+reward.rewardkeepersupplements.title,Keeper Supplements
+upgrades.condenser.desc,Voegt een machine toe onder de koepel die langzaam water produceert door middel van condensatie.
+upgrades.spiresplit3.title,Ground Split
+properties.drillbot.plantgrowthtime,Treat Growth Time (Cycles) {}
+modding.modio.showdownloaded,Show Downloaded Mods
+upgrades.stunlaserspeed1.title,Snelheid 1
+upgrades.resourcepackercharges.title,Charges
+upgrades.swordblade1.title,Hakverbetering
+loadout.versus.modifiers.desc,Choose modifiers for this run that will affect both your team and the other team. Modifiers are optional.
+level.tutorial.fullscreen.back,terug
+options.accessibility.backgrounds.explanation,"Replace the backgrounds in each world with a single bright color, to reduce visual noise in battle."
+upgrades.dome1health1.title,Stabiliteit 1
+loadout.prestige.pro.randomorder,Random order
+assignment.superhardrockwithholes.desc,The rock is extremely dense but riddled with natural caves.
+upgrades.droneyardparasites.title,Parasitic Drones
+actionhint.hold,Hold
+properties.spire.timebetweenshots,Targetting Time {}s
+properties.game.cyclespeed,Cycle Speed {.percent}
+upgrades.artillerydirecthit3.title,Monster Buster 3
+loadout.mode.drillbert,Drillbert Mode
+upgrades.prestigecobalt.title,Kobalt versturen
+upgrades.rocketlauncher.desc,Fire target-seeking missiles at monsters. Must be manually triggered.
+level.station.battle.navbar.exit,Stoppen
+options.game.events.enableseasonal,Seizoenscontent inschakelen
+options.audio.music.ost.mode.fixed,Fixed
+assignment.ironcontribution.desc,The Guild is in urgent need of iron and requests that you deliver a large amount quickly.
+properties.rocketlauncher.damageperrocket,Schade {}
+upgrades.keeper4.title,Beastmaster
+upgrades.laserbend.title,Laser met draaikop
+unlock.host.locked.switch,Host does not own the downloadable content '%s'.
+level.supplementchoice.reroll.free, (%s) Reroll
+loadout.versusmod.versusmodifierconcentratediron,Concentrated Iron
+options.keybindings.rebinding.apply,Toepassen
+properties.repellent.battledamageovertime,Monsters lopen {} schade op per seconde
+upgrades.repellentdelay1.title,Vertraging 1
+upgrades.converterefficientwatershort.desc,Make the water conversion much faster.
+upgrades.domesupplementcombatrepair1.title,Combat Repair
+level.tutorial.sworddome.slicing,Hakken
+properties.drillbot.scared,Scared of Monsters
+title.navbar.updates.close,Afsluiten
+upgrades.condenserspeed2.desc,Er is nog minder tijd nodig om een eenheid water te produceren.
+upgrades.prospectionmeteriron2.desc,Toont de richting naar de dichtstbijzijnde ijzerafzettingen.
+upgrades.keeper3carrylimit2.title,Carry Capacity 2
+loadout.versus.condition.irondelivery.desc,The team that delivers %s iron first wins.
+properties.mushroomfarm.speedbuffduration,Speed Buff Duration {}s
+upgrades.keeper4punch1.desc,"Your tentacle mining slowly builds up enourmous strength, but resets when changing direction."
+exhibition.level.heading,Ben je er nog?
+keeperdlc.load.missing.xbox,"Cannot load save, it contains unavailable add-on content. Please ensure 'The Lost Keepers' add-on is available."
+upgrades.domesupplementresurrection2.desc,Gain an additional resurrection.
+actionhint.release,Release
+level.gameover.stats.monsterskilled,Monsters gedood
+level.gameover.timelapse,Timelapse
+upgrades.drill4.desc,Versterkt de boor om sneller te kunnen graven.
+upgrades.prospectionmetersand1.desc,Toont de afstand tot de dichtstbijzijnde kobaltafzettingen.
+assignment.instagip.desc,The monsters on this planet are unnaturally brutal. Their attacks deal devastating damage to your dome.
+landing.proceed.xbox,Druk op een toets of knop om door te gaan
+upgrades.drillsides.desc,Add a side driller to the central drill which can be moved around as needed.
+properties.dome.meleedamagereduction,Mêleeschadebeperking {.percent}
+options.keybindings.action.keeper.throw,Throw Kunai
+level.station.battle.navbar.artilleryflak,Machine Gun
+upgrades.teleporterlightweight.desc,Carrying the portal will barely slow you down.
+level.gameover.backtomainmenu,Terug naar hoofdmenu
+properties.sword.stabarrowhead,Grotere pijlpunt
+loadout.versus.team.open,open
+level.gameover.stats.mapsize,Kaartgrootte
+upgrades.domesupplementelectrifiedsurface2.desc,Increase how much damage monsters take when hitting the dome.
+upgrades.prestigecobalt.desc,Send back cobalt. Increases how many prestige points you get after each wave.
+options.video.renderscale.reset,Herstel
+options.keybindings.text.xbox,"Edit the control mapping to your liking.
+You can map the same Button across multiple categories (i.e. using the same buttons to move your keeper as well as the dome weapon.)"
+options.audio.music.frequency,Aantal keer (cycli zonder muziek)
+upgrades.rocketlauncherrockets3.desc,Increase the amount of missiles you can fire.
+options.input.controls.mouse.menus,Gebruik Muis In Menu's
+upgrades.artillerysplash4.title,Quadruple Shell
+upgrades.keeper4catgoblindig3.title,Frenzied Digging
+properties.keeper4.catgoblincount,Catgoblin Count {}
+loadout.mode.hud.desc,Start with a fully upgraded HUD.
+upgrades.drillbotsleepless.title,Basisconditionering
+assignment.maze.desc,"This planet has a maze-like map, full of corridors and uneven structures."
+level.tutorial.drop.popup_2.switch,Press | to drop one. Hold to drop many.
+upgrades.artillerysplash2.title,Double Shell
+loadout.select,Select
+level.gameover.prestige.uploading.failed,uploaden mislukt; nog een keer proberen
+level.assignment.badges.available,Available Badges: %d
+level.tutorial.beastmaster.goblins,Catgoblins
+properties.autocannon.spray,Bullet Spray {.percent}
+upgrades.versusspycam.title,Spy Cam
+upgrades.shredgadgettoiron.title,Versnipperen tot ijzer
+upgrades.teslapersistance3.desc,The electro orbs are larger and persist longer.
+upgrades.suitblasterspeed2.title,Charge Speed 2
+properties.shield.battleuses,Kan {} keer worden gebruikt per gevecht
+properties.prospectionmeter.range,Range (Tiles) {}
+upgrades.droneyard.desc,Install a yard for producing drones used in resource transportation and combat.
+upgrades.domearmorpulse.title,Reactive Pulse
+title.navbar.multiplayer.host,Host Multiplayer
+upgrades.spireburst.desc,"Fire in short bursts, defending effectively against salvos."
+upgrades.domearmor.desc,"Install a robust plating onto your dome, making it more durable."
+options.input.controls.mouse.gamepad.xbox,Switching to a Controller and back is automatically detected
+unlock.difficulty.hard,Win a run on brutal difficulty to unlock.
+versus.corruptionmonsterhealth.title,Healthy Monsters
+properties.probe.markerretention,Markeringsbehoud {}s
+loadout.hint.gamemodecompletion,Setup your game mode fully!
+upgrades.suitblasterdirectional.title,Directional Charge
+loadout.abort,Afbreken
+unlock.host.locked.xbox,Host does not own the add-on '%s'.
+loadout.versusmod.versusmodifiernorelics,No Relics
+upgrades.autocannondoublefirerate.title,Fast Firing Cannon
+upgrades.blastmining.desc,Produce blast charges for explosive mining. Carry them into the mines and release to detonate.
+upgrades.converterqueue.desc,"After a conversion is finished, the generated resources will be automatically ejected and the same conversion will start again, if there are enough resources in the inventory."
+modding.modio.fetchsubscriptionsfailed,Error fetching mod.io subscriptions!
+upgrades.orchardbattleshieldsecondlayer.desc,Grow another layer of vines to the canopy.
+unlock.generic,Unlock by winning a run.
+loadout.versusmod.versusmodifiersoftrock.desc,The map has more soft rock.
+upgrades.assignments.desc,Accept a challenging assignment from the Keepers Guild and prove your competence.
+properties.probe.autorecharge,Automated Recharge
+assignment.instagip.title,Brutal Monsters
+upgrades.artillerysplash3.desc,Improve your mortar to fire shells that have a huge blast radius.
+multiplayer.join.button,Join
+options.keybindings.action.general.move,Bewegen
+upgrades.condenserautoovercharge.desc,Je primaire gadget blijft permanent overladen zonder water te verbruiken. Na het overladen duurt het langer voor de condensator water produceert.
+multiplayer.continue.deviceselection.title,Kies je wachter!
+upgrades.autocannonautonomy.desc,Auto cannon activates even when you are not inside the control station.
+upgrades.swordaimline.title,Richtlijn
+multiplayer.join.joinfromcode,Join
+properties.artillery.rotationspeedwhilemachinegun,Rotation Speed While Shooting {.percent}
+level.tutorial.artillery.panel2header,Anti Air Gun
+level.gameover.keepgadget.title,Selecteer een gadget dat je behoudt voor je volgende run
+upgrades.domearmorprojectile2.desc,Decrease how much damage the dome takes from projectile attacks.
+upgrades.shieldbattledestructionprevention.title,Laatste verzet
+upgrades.domeresourcecounters.desc,Display the current amount of stored resources and automatically repairs the dome during combat using stored cobalt.
+upgrades.spirestuntrap1.title,Energy Trap
+upgrades.prospectionmeteriron2.title,IJzerkompas
+loadout.mode.hyperactive,"Snel, maar zwak"
+upgrades.prospectionmeterwater2.desc,Toont de richting naar de dichtstbijzijnde waterbronnen.
+options.video.stretchmode,Uitgestrekte modus
+level.gameover.prestige.title,PRESTIGERUN VOLTOOID
+upgrades.droneyardovercharge1.title,Overcharge Droneyard
+level.station.navbar.exit,Stoppen
+upgrades.teslaorbdamage.title,Superconductivity
+upgrades.proberechargeafterbattle.title,Stationless Probe
+upgrades.assignmentssendwater.title,Deliver Water
+upgrades.probecharges.title,Probe Charges
+pause.gamepadcontrols.pickup,Oppakken
+upgrades.prospectionmeter.title,Prospecting Meter
+upgrades.condenserspeed2.title,Productiesnelheid 2
+loadout.mode.hyperactive.desc,"Monsters bewegen een stuk sneller, maar hebben minder gezondheid."
+upgrades.teleporterlightweight.title,Lightweight Portal
+versus.corruptionstunresistance.title,Stun Resistance
+loadout.versusmod.versusmodifierpoorirondeposits,Thin Iron Deposits
+level.gameover.prestige.uploading.finalfailed,"nieuwe score uploaden mislukt, sorry!"
+modding.currentprofile,(Huidige profiel)
+upgrades.versussendiron.title,Deliver Iron
+loadout.assignment.title,Choose Your Assignment
+options.keybindings.rebinding,Toetsen opnieuw toewijzen
+upgrades.teslaspeed2.title,Reticle Speed 2
+level.tutorial.beastmaster.hole_1,Hold| to dig a hole in the back wall.
+level.tutorial.beastmaster.hole_2,"A catgoblin will soon emerge, connecting it to their tunnel system."
+upgrades.keeper3shurikenstrength2.title,Massive Shuriken
+upgrades.versusspycam.desc,Receive a new station which allows you to monitor the other team's dome.
+loadout.versusmod.versusmodifiershortcycles,Short Cycles
+options.accessibility.fontsize.large,Groot
+reward.rewardcentralmarker.desc,Mark the center of the mine with a vertical line.
+upgrades.shieldstrength3.desc,Het koepelschild kan nog meer schade absorberen.
+options.game.movementsnapping,Snap Movement to Cardinal Directions
+upgrades.laseraimline.title,Laservizier
+upgrades.converterironduplication.title,Iron Refinement
+upgrades.jetpackspeed4.desc,"Verbetert de jetpack, zodat je je sneller verplaatst."
+options.keybindings.gamepad.xbox,Controller
+upgrades.teslapower1.title,Shot Power 1
+gadget.slot.mineshaft,Mine Shaft
+keybindings.reset.title,Sleutelbindingen opnieuw instellen
+upgrades.autocannonrateoffire2.desc,Further increases the rate of fire.
+multiplayer.join.localonly,Only searching for local games. Enable Online Multiplayer?
+upgrades.keeper3aerialmastery.title,Aerial Mastery
+upgrades.extractordestruction.desc,"Instead of withering inside their tunnels, the worms will collapse rocks they tunneled into, also destroying some surrounding rock."
+properties.shield.battleabilityduration,Vaardigheidsduur {}s
+upgrades.keeper4squad3.desc,Increases the number of Catgoblins in the squad and their endurance.
+level.gameover.prestige.score.rankimproved,Je bent gestegen naar positie {rank}.
+options.game.tutorials.noneunlocked,No tutorials unlocked.
+upgrades.droneyardparasites2.desc,Boost the effectiveness of your parasitic drones.
+loadout.prestige.provocation,Provocation
+network.error.generic,Network error.
+options.game.ropesnapping,Snap Rope and Aim Indicator to Cardinal Directions
+upgrades.keeper4catgoblindig1.title,Catgoblin Digging
+level.gameover.manualmove,Manual Camera
+upgrades.domesupplementcombatrepair1.desc,Automatically repairs the dome once during combat after taking a certain amount of damage. Does not consume cobalt.
+upgrades.prospectionmeterscandelay1.title,Improved Scan Speed
+assignment.goaltype,Goal
+properties.keeper1.speedlosspercarry,Draagvertraging {}
+upgrades.extractor.desc,Grow portable extractor worms that attach to iron clusters and efficiently extract them over time.
+unlock.mapsize.huge,Win a run on a large map to unlock.
+upgrades.liftcarrykeeper2.desc,The lift boosts your speed even more.
+loadout.mapsize.title,Kaartgrootte
+loadout.difficulty.hard,Je vraagt erom
+upgrades.rocketlauncherdamage1.title,Improved Missiles
+versus.corruptionfastmonsters.title,Swift Monsters
+multiplayer.host.online.desc,Players from around the world can join.
+upgrades.keeper4speed3.desc,Greatly increases movement speed.
+network.error.offline,The connection to the network has been lost. Please check your network connection.
+level.tutorial.ninja.carry.desc1_1,Resources are automatically picked up by walking over them.
+upgrades.resourcepackerconstant.desc,"Near instant recharge makes the usage nearly unrestricted, in addition to improving bundle size and scaling."
+loadout.versusmod.versusmodifiersecondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+assignment.logistics.desc,The Keeper's Guild discovered abundant water on this planet and tasks you with handling the logistics.
+properties.shockwave.damage,Schade {}
+pause.gamepadcontrols.back,Terug

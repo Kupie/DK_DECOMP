@@ -1,0 +1,23 @@
+[gd_scene load_steps=4 format=3 uid="uid://caduk2c4nimue"]
+
+[ext_resource type="Script" path="res://content/playerlist/PlayerListLine.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://cqehgtpgprwcl" path="res://gui/platform/gamertag/GamerTagLabel.tscn" id="2"]
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="3"]
+
+[node name="PlayerListLine" type="HBoxContainer"]
+script = ExtResource("1")
+
+[node name="GamerTagLabel" parent="." instance=ExtResource("2")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+
+[node name="ProfileButton" type="Button" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+theme = ExtResource("3")
+text = "playerlist.profile"
+icon_alignment = 2
+
+[connection signal="pressed" from="ProfileButton" to="." method="_on_profile_button_pressed"]

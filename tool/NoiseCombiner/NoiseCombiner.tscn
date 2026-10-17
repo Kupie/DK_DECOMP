@@ -1,0 +1,56 @@
+[gd_scene load_steps=8 format=3 uid="uid://tytbji8imcg"]
+
+[ext_resource type="Script" path="res://tool/NoiseCombiner/NoiseCombiner.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://dg6xlvn7wx5fs" path="res://content/map/textures/Map_bg_cave_noise_map_l.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://crxns50k67b3t" path="res://content/map/textures/Map_bg_cave_noise_map_s.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://dfagwu7ab78xs" path="res://content/map/textures/Map_bg_cave_noise_map_holes.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://utf45x11ki76" path="res://content/map/textures/Map_bg_mask_noise_map.png" id="5"]
+
+[sub_resource type="Shader" id="Shader_o0nbg"]
+code = "// Noise combiner
+shader_type canvas_item;
+render_mode blend_mix;
+
+uniform sampler2D noise_1 : repeat_enable, hint_default_black;
+uniform vec2 noise_1_uv = vec2(1.0);
+uniform sampler2D noise_2 : repeat_enable, hint_default_black;
+uniform vec2 noise_2_uv = vec2(1.0);
+uniform sampler2D noise_3 : repeat_enable, hint_default_black;
+uniform vec2 noise_3_uv = vec2(1.0);
+
+void fragment() {
+	vec3 noise_1_t = texture(noise_1, UV*noise_1_uv).rgb;
+	vec3 noise_2_t = texture(noise_2, UV*noise_2_uv).rgb;
+	vec3 noise_3_t = texture(noise_3, UV*noise_3_uv).rgb;
+	
+	COLOR.rgb = vec3(noise_1_t.r, noise_2_t.r, noise_3_t.r);
+	COLOR.a = 1.0;
+}"
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_w3lcf"]
+shader = SubResource("Shader_o0nbg")
+shader_parameter/noise_1_uv = Vector2(1, 1)
+shader_parameter/noise_2_uv = Vector2(1, 1)
+shader_parameter/noise_3_uv = Vector2(1, 1)
+shader_parameter/noise_1 = ExtResource("2")
+shader_parameter/noise_2 = ExtResource("3")
+shader_parameter/noise_3 = ExtResource("4")
+
+[node name="NoiseCombiner" type="Node2D"]
+script = ExtResource("1")
+
+[node name="SubViewportContainer" type="SubViewportContainer" parent="."]
+custom_minimum_size = Vector2(1024, 1024)
+offset_right = 40.0
+offset_bottom = 40.0
+stretch = true
+
+[node name="SubViewport" type="SubViewport" parent="SubViewportContainer"]
+handle_input_locally = false
+size = Vector2i(1024, 1024)
+render_target_update_mode = 4
+
+[node name="Target" type="Sprite2D" parent="SubViewportContainer/SubViewport"]
+material = SubResource("ShaderMaterial_w3lcf")
+texture = ExtResource("5")
+centered = false

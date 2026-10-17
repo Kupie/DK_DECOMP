@@ -1,0 +1,102 @@
+[gd_scene load_steps=15 format=3 uid="uid://6otlsvrosxow"]
+
+[ext_resource type="Script" path="res://content/keeper/keeper4/GoblinHole.gd" id="1"]
+[ext_resource type="SpriteFrames" uid="uid://ksi65fhrgilt" path="res://content/keeper/keeper4/goblins/spriteframes-hole.tres" id="2"]
+[ext_resource type="SpriteFrames" uid="uid://d2g3vteouojwl" path="res://content/keeper/keeper4/goblins/spriteframes-goblinhole-color0.tres" id="3"]
+[ext_resource type="Texture2D" uid="uid://cflnigtmjmyqg" path="res://content/shared/particle_1px_offset.png" id="4"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="5"]
+[ext_resource type="AudioStream" uid="uid://cjlcokynirnxu" path="res://content/sounds/keeper4/hole_inwall_v2.wav" id="6"]
+[ext_resource type="AudioStream" uid="uid://ck5yilk51340x" path="res://content/sounds/keeper4/hole_inwall__close.wav" id="7"]
+[ext_resource type="AudioStream" uid="uid://bji3d5dsqegnd" path="res://content/sounds/rock-break-1.wav" id="8"]
+[ext_resource type="AudioStream" uid="uid://udm5272gosao" path="res://content/sounds/keeper4/catgoblin/catgoblin_attention.wav" id="9"]
+[ext_resource type="AudioStream" uid="uid://dq825gfp1iy8o" path="res://content/sounds/keeper4/catgoblin/catgoblin_attention_2.wav" id="10"]
+[ext_resource type="Script" path="res://systems/audio/Sound.gd" id="11"]
+[ext_resource type="AudioStream" uid="uid://s517ky1mtpg1" path="res://content/sounds/keeper4/catgoblin/goblin_dighole.wav" id="12"]
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_digout"]
+streams_count = 2
+stream_0/stream = ExtResource("9")
+stream_1/stream = ExtResource("10")
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_75d2d"]
+
+[node name="GoblinHole" type="Node2D" groups=["pauseL"]]
+z_index = -10
+script = ExtResource("1")
+
+[node name="Sprite" type="AnimatedSprite2D" parent="." groups=["unstyled"]]
+sprite_frames = ExtResource("2")
+animation = &"close"
+
+[node name="SpriteGoblin" type="AnimatedSprite2D" parent="."]
+unique_name_in_owner = true
+visible = false
+sprite_frames = ExtResource("3")
+animation = &"digging_out_reverse"
+
+[node name="CPUParticles2D" type="CPUParticles2D" parent="."]
+visible = false
+position = Vector2(0, -11)
+amount = 32
+lifetime = 2.0
+texture = ExtResource("4")
+emission_shape = 1
+emission_sphere_radius = 12.0
+gravity = Vector2(0, -10)
+scale_amount_min = 2.0
+scale_amount_max = 4.0
+color = Color(0.65, 0.18, 0.78, 1)
+
+[node name="HoleCreatedSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("6")
+volume_db = -1.623
+pitch_scale = 1.09
+bus = &"Keeper"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 200.0
+
+[node name="HoleClosedSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("7")
+volume_db = -5.371
+pitch_scale = 1.06
+bus = &"Keeper"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 200.0
+
+[node name="SquadExitSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("8")
+volume_db = -5.893
+pitch_scale = 1.2
+bus = &"Keeper"
+randomVolume = 2.0
+randomPitch = 0.15
+maxAudibleDistance = 200.0
+
+[node name="GoblinDiggingOutHoleSound" type="AudioStreamPlayer" parent="."]
+stream = SubResource("AudioStreamRandomizer_digout")
+volume_db = -4.596
+pitch_scale = 0.3
+bus = &"Sounds"
+script = ExtResource("11")
+maxAudibleDistance = 200.0
+
+[node name="GoblinDiggingOutHoleSound2" type="AudioStreamPlayer" parent="GoblinDiggingOutHoleSound"]
+stream = ExtResource("12")
+volume_db = 4.046
+pitch_scale = 1.06
+bus = &"Sounds"
+script = ExtResource("11")
+randomPitch = 0.0
+maxAudibleDistance = 250.0
+
+[node name="ResourceDetector" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 64
+monitorable = false
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="ResourceDetector"]
+shape = SubResource("CircleShape2D_75d2d")
+
+[connection signal="frame_changed" from="SpriteGoblin" to="." method="_on_sprite_goblin_frame_changed"]

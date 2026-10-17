@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://bixqtut4porfi"]
+
+[ext_resource type="Script" path="res://systems/camera/KeeperCamera.gd" id="1"]
+
+[node name="Camera3D" type="Camera2D" groups=["cameras"]]
+position = Vector2(0, 100)
+zoom = Vector2(0.25, 0.25)
+process_callback = 0
+drag_left_margin = 0.0
+drag_top_margin = 0.0
+drag_right_margin = 0.0
+drag_bottom_margin = 0.0
+script = ExtResource("1")

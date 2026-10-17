@@ -1,0 +1,52 @@
+[gd_scene load_steps=4 format=4]
+
+[ext_resource type="Script" path="res://addons/mod_tool/interface/global/input_string_with_button.gd" id="1"]
+
+[sub_resource type="Image" id="Image_nvtjq"]
+data = {
+"data": PackedByteArray("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/MMwD/3GQA/9tkAP/MMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/MMwD/zDMF/9xksv/bZLb/zDMF/8wzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/2WIA/9tjc//dZf//3WX//9tjc//YXwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/12IA/9diGv/cZPH/3WX//91l///cZPH/1lsZ/9ZbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/91iAP/dZKX/3WX//91lAP/dZQD/3WX//91kpf/dYgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/85QAP/dYTz/3WX//91l///dZQD/3WUA/91l///dZf//3WE8/85QAAAAAAAAAAAAAAAAAAAAAAAAAAAA/78/AP+/PwT/3WTS/91l///dZf//3WUA/91lAP/dZf//3WX//9xk0f+/PwT/vz8AAAAAAAAAAAAAAAAAAAAAAP/bYgD/3GNu/91l///dZf//3WX//91lAP/dZQD/3WX//91l///dZf//3GNu/9tiAAAAAAAAAAAAAAAAAP/aYQD/2mEV/9xk7//dZf//3WX//91l///dZQD/3WUA/91l///dZf//3WX//9xk7//aYRX/2mEAAAAAAAAAAAD/2mQA/9tkoP/dZf//3WX//91l///dZf//3WX//91l///dZf//3WX//91l///dZf//22Sg/9pkAAAAAAD/2mQA/9pkOP/cZP7/3WX//91l///dZf//3WX//91lAP/dZQD/3WX//91l///dZf//3WX//9xk/v/aZDj/2mQA/9xkAP/cZMH/3WX//91l///dZf//3WX//91l///dZQD/3WUA/91l///dZf//3WX//91l///dZf//3GTB/9xkAP/dZAD/3WSl/91l///dZf//3WX//91l///dZf//3WX//91l///dZf//3WX//91l///dZf//3WX//91kpf/dZAAAAAAA/91kAP/dZQD/3WUA/91lAP/dZQD/3WUA/91lAP/dZQD/3WUA/91lAP/dZQD/3WUA/91lAP/dZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="),
+"format": "RGBA8",
+"height": 16,
+"mipmaps": false,
+"width": 16
+}
+
+[sub_resource type="ImageTexture" id="2"]
+image = SubResource("Image_nvtjq")
+
+[node name="InputStringWithButton" type="HBoxContainer"]
+anchor_right = 1.0
+offset_bottom = 24.0
+script = ExtResource("1")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 2
+size_flags_horizontal = 3
+text = " (optional)"
+clip_text = true
+
+[node name="ErrorIcon" type="TextureRect" parent="."]
+unique_name_in_owner = true
+self_modulate = Color(1, 1, 1, 0)
+custom_minimum_size = Vector2(32, 32)
+layout_mode = 2
+texture = SubResource("2")
+expand_mode = 1
+stretch_mode = 6
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Input" type="LineEdit" parent="HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Button" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+text = " ... "
+
+[connection signal="text_changed" from="HBoxContainer/Input" to="." method="_on_Input_text_changed"]
+[connection signal="pressed" from="HBoxContainer/Button" to="." method="emit_signal" binds= ["button_pressed"]]

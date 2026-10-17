@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://d8jfmr1nem2r"]
+
+[ext_resource type="Script" path="res://systems/proximiter/proximity_proxy/proximity_proxy.gd" id="1"]
+
+[node name="ProximityProxy" type="Node2D" groups=["ProximityProxy"]]
+script = ExtResource("1")

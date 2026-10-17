@@ -1,0 +1,53 @@
+[gd_scene load_steps=5 format=3 uid="uid://c46vwhnoqmsv1"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://stages/level/StationPopup.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://y24moy72idmu" path="res://gui/buttons/Action.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="4"]
+
+[node name="StationPopup" type="PanelContainer"]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -260.0
+offset_top = -64.0
+offset_right = 260.0
+grow_horizontal = 2
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="ActionBattle" parent="HBoxContainer" instance=ExtResource("3")]
+layout_mode = 2
+action = "dome_battle"
+
+[node name="ActionBattleLabel" type="Label" parent="HBoxContainer" groups=["splitscreen_scalable_font"]]
+layout_mode = 2
+text = "level.station.navbar.battle"
+
+[node name="ActionUpgradesSeparator" type="VSeparator" parent="HBoxContainer"]
+layout_mode = 2
+
+[node name="ActionUpgrades" parent="HBoxContainer" instance=ExtResource("3")]
+layout_mode = 2
+action = "dome_upgrades"
+
+[node name="ActionUpgradesLabel" type="Label" parent="HBoxContainer" groups=["splitscreen_scalable_font"]]
+layout_mode = 2
+text = "level.station.navbar.upgrades"
+
+[node name="ActionBackSeparator" type="VSeparator" parent="HBoxContainer"]
+layout_mode = 2
+
+[node name="ActionBack" parent="HBoxContainer" instance=ExtResource("3")]
+layout_mode = 2
+action = "ui_cancel"
+
+[node name="ActionBackLabel" type="Label" parent="HBoxContainer" groups=["splitscreen_scalable_font"]]
+layout_mode = 2
+text = "level.station.navbar.exit"
+
+[node name="Tween" parent="." instance=ExtResource("4")]

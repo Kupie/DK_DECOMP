@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cp6165u6x1fpj"
+path="res://.godot/imported/slow glass.mp3-810129341da1e74441bfb08852d96935.mp3str"
+
+[deps]
+
+source_file="res://content/sounds/assignments/slow glass.mp3"
+dest_files=["res://.godot/imported/slow glass.mp3-810129341da1e74441bfb08852d96935.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,78 @@
+[gd_scene load_steps=7 format=3 uid="uid://caalip1meogpm"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://content/keeper/keeper3/tutorial/infiltrator_mining_tutorial.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://dcs06nol76slf" path="res://content/techtree/panels/zero_bright.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://b64roxqvkcdes" path="res://content/icons/keeper3kunaidamage3.png" id="4"]
+[ext_resource type="LabelSettings" uid="uid://qgs4khkkhaso" path="res://gui/fontsettings/NormalFontSettings.tres" id="5"]
+[ext_resource type="PackedScene" uid="uid://y24moy72idmu" path="res://gui/buttons/Action.tscn" id="6"]
+
+[node name="InfiltratorMiningTutorial" type="MarginContainer" groups=["gamepadListeners"]]
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -473.0
+offset_top = -105.0
+grow_horizontal = 0
+grow_vertical = 0
+theme = ExtResource("1")
+script = ExtResource("2")
+summaryCategory = "upgrades.keeper3.title"
+moveOutAfter = 40.0
+moveInDelay = 8.0
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer"]
+layout_mode = 2
+
+[node name="CenterContainer" type="CenterContainer" parent="PanelContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="TextureRect2" type="TextureRect" parent="PanelContainer/HBoxContainer/CenterContainer"]
+texture_filter = 1
+custom_minimum_size = Vector2(112, 114)
+layout_mode = 2
+texture = ExtResource("3")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="TextureRect" type="TextureRect" parent="PanelContainer/HBoxContainer/CenterContainer"]
+texture_filter = 1
+custom_minimum_size = Vector2(88, 88)
+layout_mode = 2
+texture = ExtResource("4")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/HBoxContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="LabelDesc1" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "t1"
+label_settings = ExtResource("5")
+
+[node name="Action" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer" instance=ExtResource("6")]
+layout_mode = 2
+action = "keeper3_throw"
+
+[node name="LabelDesc2" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+text = "t2"
+label_settings = ExtResource("5")
+autowrap_mode = 3
+
+[node name="Label2" type="Label" parent="PanelContainer/HBoxContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+text = "level.tutorial.ninja.bombs.desc2"
+label_settings = ExtResource("5")
+autowrap_mode = 3

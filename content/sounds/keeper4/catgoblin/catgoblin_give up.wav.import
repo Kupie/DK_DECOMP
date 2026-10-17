@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cvngv1nphgidb"
+path="res://.godot/imported/catgoblin_give up.wav-a25c1be364feeea707805989efe79081.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper4/catgoblin/catgoblin_give up.wav"
+dest_files=["res://.godot/imported/catgoblin_give up.wav-a25c1be364feeea707805989efe79081.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=48000
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=0
+compress/mode=0

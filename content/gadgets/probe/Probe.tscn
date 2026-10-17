@@ -1,0 +1,18 @@
+[gd_scene load_steps=5 format=3 uid="uid://dqfj5xqsts042"]
+
+[ext_resource type="Script" path="res://content/gadgets/probe/Probe.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="2"]
+[ext_resource type="AudioStream" uid="uid://dwje56fwri6y2" path="res://content/sounds/Locations/Probe/probeready.wav" id="3"]
+[ext_resource type="Script" path="res://systems/network/Synchronizer.gd" id="4"]
+
+[node name="Probe" type="Node2D" node_paths=PackedStringArray("synchronizer") groups=["saveable", "special1"]]
+script = ExtResource("1")
+synchronizer = NodePath("Synchronizer")
+
+[node name="ProbeReadySound" parent="." instance=ExtResource("2")]
+stream = ExtResource("3")
+pitch_scale = 1.36
+
+[node name="Synchronizer" type="Node" parent="."]
+script = ExtResource("4")
+target_connection_states = [6]

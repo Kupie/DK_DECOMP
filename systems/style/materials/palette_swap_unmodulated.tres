@@ -1,0 +1,8 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=3 uid="uid://ooltj4cifkjq"]
+
+[ext_resource type="Shader" path="res://systems/style/materials/palette_swap_shader_unmodulated.gdshader" id="1"]
+[ext_resource type="Texture2D" uid="uid://ccqqc5rjgjkom" path="res://systems/style/palettes/index_palette.png" id="2"]
+
+[resource]
+shader = ExtResource("1")
+shader_parameter/palette = ExtResource("2")

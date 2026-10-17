@@ -1,0 +1,6 @@
+[gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://6f5v5s8cyj8g"]
+
+[ext_resource type="FontFile" uid="uid://dhbkb1y43vh0k" path="res://gui/fonts/DroidSansMono.ttf" id="1"]
+
+[resource]
+base_font = ExtResource("1")

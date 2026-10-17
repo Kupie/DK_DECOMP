@@ -1,0 +1,59 @@
+[gd_scene load_steps=9 format=3 uid="uid://btmsrtvjffumq"]
+
+[ext_resource type="Script" path="res://content/gadgets/suitblaster/SuitblasterExplosion.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="2"]
+[ext_resource type="AudioStream" uid="uid://0er438cus2qs" path="res://content/sounds/Locations/SuitBlaster/simmerings_30.wav" id="3"]
+[ext_resource type="AudioStream" uid="uid://dupx0xkoq5oa0" path="res://content/sounds/Locations/SuitBlaster/bumps_05.wav" id="4"]
+
+[sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_tfs40"]
+blend_mode = 1
+
+[sub_resource type="Gradient" id="Gradient_bc554"]
+offsets = PackedFloat32Array(0, 0.244624, 0.395161, 0.556452, 0.819892, 1)
+colors = PackedColorArray(1, 0.615686, 0.372549, 0, 1, 0.666667, 0.368627, 1, 0.644531, 0.366699, 0.329819, 1, 0.372549, 0.184314, 0.290196, 1, 0.25098, 0.172549, 0.360784, 0.694118, 0.25098, 0.172549, 0.360784, 0)
+
+[sub_resource type="GradientTexture2D" id="282"]
+gradient = SubResource("Gradient_bc554")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_funbu"]
+resource_local_to_scene = true
+lifetime_randomness = 0.4
+particle_flag_disable_z = true
+emission_shape = 6
+emission_ring_axis = Vector3(0, 0, 1)
+emission_ring_height = 1.0
+emission_ring_radius = 40.0
+emission_ring_inner_radius = 40.0
+spread = 0.0
+orbit_velocity_min = 0.1
+orbit_velocity_max = 0.1
+gravity = Vector3(0, 0, 0)
+radial_accel_min = -300.0
+radial_accel_max = -210.0
+attractor_interaction_enabled = false
+color_ramp = SubResource("282")
+
+[node name="Explosion" type="Node2D"]
+z_index = 10
+position = Vector2(0, -2)
+script = ExtResource("1")
+
+[node name="ChargupParticles" type="GPUParticles2D" parent="."]
+z_as_relative = false
+material = SubResource("CanvasItemMaterial_tfs40")
+emitting = false
+amount = 300
+process_material = SubResource("ParticleProcessMaterial_funbu")
+one_shot = true
+explosiveness = 0.8
+local_coords = true
+trail_lifetime = 10.0
+
+[node name="ChargeupSound" parent="." instance=ExtResource("2")]
+stream = ExtResource("3")
+volume_db = 5.554
+pitch_scale = 0.9
+bus = &"Mine"
+randomVolume = 0.0
+randomPitch = 0.0
+streams = [ExtResource("4")]

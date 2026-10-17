@@ -1,0 +1,167 @@
+[gd_scene load_steps=7 format=3 uid="uid://nwae57tocjsi"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="2"]
+[ext_resource type="Script" path="res://stages/title/join_session_panel.gd" id="3"]
+[ext_resource type="FontVariation" uid="uid://c5l04pe7y0aer" path="res://gui/fonts/FontLarge.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="5"]
+[ext_resource type="PackedScene" uid="uid://d4brkx6xeqw5y" path="res://gui/panels/numpad_panel/numpad_panel.tscn" id="6"]
+
+[node name="JoinSessionPanel" type="PanelContainer"]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -500.0
+offset_top = -236.0
+offset_right = 469.0
+offset_bottom = 189.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1")
+theme_override_styles/panel = ExtResource("2")
+script = ExtResource("3")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="MarginContainer3" type="MarginContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="Label30" type="Label" parent="VBoxContainer/MarginContainer3"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("4")
+text = "multiplayer.join.title"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="PanelContainer" type="PanelContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="Lobbies" type="VBoxContainer" parent="VBoxContainer/PanelContainer/MarginContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 260)
+layout_mode = 2
+theme_override_constants/separation = 16
+
+[node name="ExplanationLabel" type="Label" parent="VBoxContainer/PanelContainer/MarginContainer/Lobbies"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+text = "We could have an explanation here where the game explains"
+horizontal_alignment = 1
+
+[node name="JoinCodeContainer" type="HBoxContainer" parent="VBoxContainer/PanelContainer/MarginContainer/Lobbies"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="JoinCode" type="LineEdit" parent="VBoxContainer/PanelContainer/MarginContainer/Lobbies/JoinCodeContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+placeholder_text = "multiplayer.join.joincodeinput"
+max_length = 20
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="JoinWithCode" type="Button" parent="VBoxContainer/PanelContainer/MarginContainer/Lobbies/JoinCodeContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "multiplayer.join.joinfromcode"
+
+[node name="DiscoverLabel" type="Label" parent="VBoxContainer/PanelContainer/MarginContainer/Lobbies"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "multiplayer.join.discovering"
+horizontal_alignment = 1
+
+[node name="LocalOnly" type="Button" parent="VBoxContainer/PanelContainer/MarginContainer/Lobbies"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "multiplayer.join.localonly"
+
+[node name="Control" type="Control" parent="VBoxContainer/PanelContainer/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 8
+
+[node name="CrossplayPanelContainer" type="PanelContainer" parent="VBoxContainer/PanelContainer/MarginContainer/Control"]
+unique_name_in_owner = true
+layout_mode = 1
+offset_left = 68.0
+offset_top = -28.0
+offset_right = 462.0
+offset_bottom = 132.0
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer/PanelContainer/MarginContainer/Control/CrossplayPanelContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="VBoxContainer/PanelContainer/MarginContainer/Control/CrossplayPanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="CrossplayCheckBox" type="CheckBox" parent="VBoxContainer/PanelContainer/MarginContainer/Control/CrossplayPanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "multiplayer.host.crossplay"
+
+[node name="CrossplayButton" type="Button" parent="VBoxContainer/PanelContainer/MarginContainer/Control/CrossplayPanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+focus_mode = 0
+disabled = true
+button_mask = 0
+shortcut_feedback = false
+shortcut_in_tooltip = false
+text = "Crossplay disabled"
+autowrap_mode = 3
+
+[node name="Label" type="Label" parent="VBoxContainer/PanelContainer/MarginContainer/Control/CrossplayPanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "multiplayer.host.crossplay.desc"
+autowrap_mode = 3
+
+[node name="SplitscreenCheckBox" type="CheckBox" parent="VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "multiplayer.host.splitscreen"
+
+[node name="Label3" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "multiplayer.host.splitscreen.desc"
+autowrap_mode = 3
+
+[node name="HSeparator" type="HSeparator" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 0
+text = "title.navbar.credits.close"
+
+[node name="NumPadPanel" parent="." node_paths=PackedStringArray("target_text_input", "focus_on_close", "focus_on_accept") instance=ExtResource("6")]
+mode = 0
+size = Vector2i(300, 344)
+visible = false
+always_on_top = false
+target_text_input = NodePath("../VBoxContainer/PanelContainer/MarginContainer/Lobbies/JoinCodeContainer/JoinCode")
+focus_on_close = NodePath("../VBoxContainer/CancelButton")
+focus_on_accept = NodePath("../VBoxContainer/PanelContainer/MarginContainer/Lobbies/JoinCodeContainer/JoinWithCode")
+
+[connection signal="tree_exiting" from="." to="." method="_on_tree_exiting"]
+[connection signal="gui_input" from="VBoxContainer/PanelContainer/MarginContainer/Lobbies/JoinCodeContainer/JoinCode" to="." method="_on_join_code_gui_input"]
+[connection signal="text_changed" from="VBoxContainer/PanelContainer/MarginContainer/Lobbies/JoinCodeContainer/JoinCode" to="." method="_on_join_code_text_changed"]
+[connection signal="pressed" from="VBoxContainer/PanelContainer/MarginContainer/Lobbies/JoinCodeContainer/JoinWithCode" to="." method="_on_join_with_code_pressed"]
+[connection signal="pressed" from="VBoxContainer/PanelContainer/MarginContainer/Lobbies/LocalOnly" to="." method="_on_local_only_pressed"]
+[connection signal="pressed" from="VBoxContainer/PanelContainer/MarginContainer/Control/CrossplayPanelContainer/MarginContainer/VBoxContainer/CrossplayCheckBox" to="." method="_on_crossplay_check_box_pressed"]
+[connection signal="pressed" from="VBoxContainer/SplitscreenCheckBox" to="." method="_on_splitscreen_check_box_pressed"]

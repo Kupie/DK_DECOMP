@@ -1,0 +1,15 @@
+[gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://bohhoc8c03wkc"]
+
+[ext_resource type="Texture2D" uid="uid://dqhs4udvs6lwa" path="res://gui/sliders/bar_hor.png" id="1"]
+
+[resource]
+texture = ExtResource("1")
+texture_margin_left = 8.0
+texture_margin_top = 8.0
+texture_margin_right = 8.0
+texture_margin_bottom = 8.0
+expand_margin_left = 3.0
+expand_margin_right = 3.0
+axis_stretch_horizontal = 1
+axis_stretch_vertical = 1
+region_rect = Rect2(0, 0, 24, 20)

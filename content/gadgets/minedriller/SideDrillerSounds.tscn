@@ -1,0 +1,76 @@
+[gd_scene load_steps=8 format=3 uid="uid://uxy7p8ptokg6"]
+
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="1"]
+[ext_resource type="AudioStream" uid="uid://buagisuhueame" path="res://content/sounds/Locations/Drill/off.wav" id="2"]
+[ext_resource type="AudioStream" uid="uid://blq1h2mow7utu" path="res://content/sounds/Locations/Drill/volco_start2.wav" id="3"]
+[ext_resource type="AudioStream" uid="uid://diyq0i4si2t3v" path="res://content/sounds/Locations/Drill/slide looop_03_0.wav" id="4"]
+[ext_resource type="AudioStream" uid="uid://bchji27plaqds" path="res://content/sounds/Locations/Drill/volco_still_4.wav" id="5"]
+[ext_resource type="AudioStream" uid="uid://bsokdltjyx85g" path="res://content/sounds/monster/worm/RocksDestroy_1.wav" id="6"]
+[ext_resource type="AudioStream" uid="uid://bji3d5dsqegnd" path="res://content/sounds/rock-break-1.wav" id="7"]
+
+[node name="Sounds" type="Node2D"]
+
+[node name="PowerOffSound" parent="." instance=ExtResource("1")]
+stream = ExtResource("2")
+volume_db = 3.698
+pitch_scale = 1.39
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 30.0
+
+[node name="PowerOnSound" parent="." instance=ExtResource("1")]
+stream = ExtResource("3")
+volume_db = -5.671
+pitch_scale = 1.71
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 30.0
+
+[node name="DrillSound" parent="." instance=ExtResource("1")]
+stream = ExtResource("4")
+volume_db = -8.014
+pitch_scale = 1.32
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 30.0
+fadeInTime = 0.5
+fadeOutTime = 0.5
+
+[node name="DrillSound2" parent="DrillSound" instance=ExtResource("1")]
+stream = ExtResource("5")
+volume_db = -5.203
+pitch_scale = 1.32
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 30.0
+fadeInTime = 0.5
+fadeOutTime = 0.5
+
+[node name="MoveSound" parent="." instance=ExtResource("1")]
+stream = ExtResource("5")
+volume_db = 0.579
+pitch_scale = 1.48
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 30.0
+
+[node name="ImpactSound" parent="." instance=ExtResource("1")]
+stream = ExtResource("6")
+volume_db = -6.059
+pitch_scale = 1.57
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 20.0
+streams = [ExtResource("7")]

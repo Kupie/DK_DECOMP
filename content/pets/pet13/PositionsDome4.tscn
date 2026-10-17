@@ -1,0 +1,81 @@
+[gd_scene format=3 uid="uid://bqx8w5e26yow0"]
+
+[node name="PetPositions" type="Node2D"]
+
+[node name="Position1_1" type="Marker2D" parent="."]
+position = Vector2(-27, 8)
+
+[node name="Position1_2" type="Marker2D" parent="."]
+position = Vector2(-11, 1.5)
+
+[node name="Position1_3" type="Marker2D" parent="."]
+position = Vector2(27, 9.5)
+
+[node name="position2_1" type="Marker2D" parent="."]
+position = Vector2(0, 1.5)
+
+[node name="position2_2" type="Marker2D" parent="."]
+position = Vector2(10, -24)
+
+[node name="position2_3" type="Marker2D" parent="."]
+position = Vector2(38, -24)
+
+[node name="position2_4" type="Marker2D" parent="."]
+position = Vector2(28, 8.5)
+
+[node name="position3_1" type="Marker2D" parent="."]
+position = Vector2(-12, 1.5)
+
+[node name="position3_2" type="Marker2D" parent="."]
+position = Vector2(29, 9.5)
+
+[node name="position3_3" type="Marker2D" parent="."]
+position = Vector2(-30, 8.5)
+
+[node name="position4_1" type="Marker2D" parent="."]
+position = Vector2(-30, 8.5)
+
+[node name="position4_3" type="Marker2D" parent="."]
+position = Vector2(29, 7.5)
+
+[node name="position4_4_left" type="Marker2D" parent="."]
+position = Vector2(10, -24)
+
+[node name="position5_1_right" type="Marker2D" parent="."]
+position = Vector2(2, -25)
+
+[node name="position5_2_left" type="Marker2D" parent="."]
+position = Vector2(10, -24)
+
+[node name="position5_3" type="Marker2D" parent="."]
+position = Vector2(38, -24)
+
+[node name="position6_1_right" type="Marker2D" parent="."]
+position = Vector2(2, -25)
+
+[node name="position6_2_left" type="Marker2D" parent="."]
+position = Vector2(10, -24)
+
+[node name="position6_3" type="Marker2D" parent="."]
+position = Vector2(38, -24)
+
+[node name="position7_1" type="Marker2D" parent="."]
+position = Vector2(30, 9.5)
+
+[node name="position7_2" type="Marker2D" parent="."]
+position = Vector2(-28, 9.5)
+
+[node name="position7_3" type="Marker2D" parent="."]
+position = Vector2(0, 1.5)
+
+[node name="position8_1" type="Marker2D" parent="."]
+position = Vector2(-26, 7)
+
+[node name="position8_2" type="Marker2D" parent="."]
+position = Vector2(26, 8)
+
+[node name="position9_1_right" type="Marker2D" parent="."]
+position = Vector2(-11, 1.5)
+
+[node name="position10_1_right" type="Marker2D" parent="."]
+position = Vector2(-11, 1.5)

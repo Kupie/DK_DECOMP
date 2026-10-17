@@ -1,0 +1,86 @@
+[gd_scene load_steps=6 format=3 uid="uid://bfxveutam5pi4"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://stages/loadout/CaveOrderPopup.gd" id="2"]
+[ext_resource type="FontVariation" uid="uid://dckp620uqltqk" path="res://gui/fonts/FontVeryLarge.tres" id="3"]
+[ext_resource type="LabelSettings" uid="uid://cq1nq3tq5f52p" path="res://gui/fontsettings/VeryLargeFontSettings.tres" id="4"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_mmlwl"]
+
+[node name="CaveOrderPopup" type="ColorRect"]
+custom_minimum_size = Vector2(800, 800)
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="PanelContainer2" type="PanelContainer" parent="."]
+layout_mode = 0
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -140.0
+offset_top = -46.5
+offset_right = 140.0
+offset_bottom = 46.5
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer2"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer2/MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 24
+
+[node name="Label" type="Label" parent="PanelContainer2/MarginContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3")
+text = "loadout.prestige.pro.caveorder"
+label_settings = ExtResource("4")
+horizontal_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer2/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="ButtonNoCaveOrder" type="Button" parent="PanelContainer2/MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_mmlwl")
+text = "loadout.prestige.pro.randomorder"
+
+[node name="ButtonApplyCaveOrder" type="Button" parent="PanelContainer2/MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_mmlwl")
+text = "loadout.prestige.pro.customorder"
+
+[node name="ScrollContainer" type="ScrollContainer" parent="PanelContainer2/MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(500, 680)
+layout_mode = 2
+follow_focus = true
+horizontal_scroll_mode = 0
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer2/MarginContainer/VBoxContainer/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Caves" type="GridContainer" parent="PanelContainer2/MarginContainer/VBoxContainer/ScrollContainer/MarginContainer"]
+layout_mode = 2
+theme_override_constants/h_separation = 8
+theme_override_constants/v_separation = 2
+columns = 6
+
+[node name="CloseButton" type="Button" parent="PanelContainer2/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "title.navbar.updates.close"
+
+[connection signal="pressed" from="PanelContainer2/MarginContainer/VBoxContainer/HBoxContainer/ButtonNoCaveOrder" to="." method="_on_ButtonNoCaveOrder_pressed"]
+[connection signal="pressed" from="PanelContainer2/MarginContainer/VBoxContainer/HBoxContainer/ButtonApplyCaveOrder" to="." method="_on_ButtonApplyCaveOrder_pressed"]
+[connection signal="pressed" from="PanelContainer2/MarginContainer/VBoxContainer/CloseButton" to="." method="_on_CloseButton_pressed"]

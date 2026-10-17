@@ -1,0 +1,51 @@
+GDRE Tools v2.7.4
+Windows 10.0.26200, NVIDIA GeForce RTX 5070 Ti, vulkan
+WARNING: Could not find embedded pck in EXE, found pck file, loading from: C:/Games/Dome Keeper v5.08.14/domekeeper.pck
+   at: GDRESettings::sort_and_validate_pck_files (modules\gdsdecomp\utility\gdre_settings.cpp:612)
+Opening file: C:/Games/Dome Keeper v5.08.14/domekeeper.pck
+Loaded 6248 imported files
+Detected Engine Version: 4.3.1
+Detected Bytecode Revision: 4.3.0-stable (77af6ca)
+Verified 12615 files, no errors detected!
+Extracted 12615 files, no errors detected!
+Recreating plugin configs...
+Found matching plugin in cache: sentry, version: 0.6.0, download url: https://github.com/getsentry/sentry-godot/releases/download/0.6.0/sentry-godot-gdextension-0.6.0%2B20143e4.zip
+No plugin download url found for plugin gdgifexporter_custom, hashes: 079619ef8d9692424f894564ad282d5dc1421618472ea0c5c54a62642e12046a
+Loading resource strings, this may take a while!!
+Resource strings loaded!
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     871
+Scripts not decompiled:                 0
+Imported resources for export session:  6248
+Successfully converted:                 6248
+Lossy:                                  20
+Rewrote metadata:                       4152
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+
+---------------------------------IMPORTANT NOTES----------------------------------
+
+
+Translation Export Incomplete:
+Could not recover 9/2021 keys for res://systems/localization/translations/localization_el_GR.csv
+Could not recover 129/1058 keys for res://systems/localization/translations/localization_fil_PH.csv
+
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.3.1 to edit the project.
+
+*******************************************************************************
+

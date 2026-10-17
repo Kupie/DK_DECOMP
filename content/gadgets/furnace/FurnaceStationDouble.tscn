@@ -1,0 +1,31 @@
+[gd_scene load_steps=5 format=3 uid="uid://7ghixqdxgcm"]
+
+[ext_resource type="Texture2D" uid="uid://nsggm2j1ntcb" path="res://content/gadgets/furnace/cellarstationL1.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://c0u66j36o3q1t" path="res://content/gadgets/furnace/cellarstationL2.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://2h3id5sen55x" path="res://content/gadgets/furnace/cellarstationL3.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://curfr63osioss" path="res://content/gadgets/furnace/cellarstationL4.png" id="4"]
+
+[node name="FurnaceStationSingle" type="Node2D"]
+texture_filter = 1
+
+[node name="Sprite" type="Sprite2D" parent="."]
+position = Vector2(7, -6)
+texture = ExtResource("1")
+
+[node name="Sprite4" type="Sprite2D" parent="."]
+position = Vector2(-1, -12.5)
+texture = ExtResource("2")
+
+[node name="Sprite3" type="Sprite2D" parent="."]
+position = Vector2(-1, -12)
+texture = ExtResource("3")
+
+[node name="IronStack" type="Marker2D" parent="."]
+position = Vector2(-11, -6)
+
+[node name="WaterStack" type="Marker2D" parent="."]
+position = Vector2(3, -2)
+
+[node name="Sprite2" type="Sprite2D" parent="."]
+position = Vector2(-1, -12.5)
+texture = ExtResource("4")

@@ -1,0 +1,54 @@
+[gd_scene load_steps=7 format=3]
+
+[ext_resource type="Script" path="res://test/primarygadgets/PrimaryGadgetsRenderPosition.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://rwepo22g03ki" path="res://content/dome/dome1/Dome1.tscn" id="2"]
+[ext_resource type="PackedScene" uid="uid://cjngmxki0wou8" path="res://content/dome/dome2/Dome2.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://d3ynr0oyum1xd" path="res://content/dome/dome3/Dome3.tscn" id="4"]
+[ext_resource type="PackedScene" uid="uid://cs3p50oj1tlq7" path="res://content/dome/dome4/Dome4.tscn" id="5"]
+[ext_resource type="Script" path="res://test/primarygadgets/Mock.gd" id="6"]
+
+[node name="PrimaryGadgetsRenderPosition" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(121, 88)
+zoom = Vector2(0.5, 0.5)
+
+[node name="Dome1_1" parent="." instance=ExtResource("2")]
+position = Vector2(-179, -90)
+
+[node name="Dome1_2" parent="." instance=ExtResource("2")]
+position = Vector2(-2, -91)
+
+[node name="Dome1_3" parent="." instance=ExtResource("2")]
+position = Vector2(174, -87)
+
+[node name="Dome2_1" parent="." instance=ExtResource("3")]
+position = Vector2(-182, 28)
+
+[node name="Dome2_2" parent="." instance=ExtResource("3")]
+position = Vector2(-2, 22)
+
+[node name="Dome2_3" parent="." instance=ExtResource("3")]
+position = Vector2(176, 19)
+
+[node name="Dome3_1" parent="." instance=ExtResource("4")]
+position = Vector2(-183, 118)
+
+[node name="Dome3_2" parent="." instance=ExtResource("4")]
+position = Vector2(-9, 112)
+
+[node name="Dome3_3" parent="." instance=ExtResource("4")]
+position = Vector2(165, 105)
+
+[node name="Dome4_1" parent="." instance=ExtResource("5")]
+position = Vector2(-184, 269)
+
+[node name="Dome4_2" parent="." instance=ExtResource("5")]
+position = Vector2(-13, 264)
+
+[node name="Dome4_3" parent="." instance=ExtResource("5")]
+position = Vector2(165, 259)
+
+[node name="Mock" type="Node2D" parent="."]
+script = ExtResource("6")

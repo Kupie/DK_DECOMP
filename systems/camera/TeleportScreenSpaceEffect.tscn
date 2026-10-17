@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://c31xgn1pslcyl"]
+
+[ext_resource type="Material" uid="uid://v0mo0rpwp3e6" path="res://systems/camera/teleport_screen_space_effect_material.tres" id="1"]
+[ext_resource type="Script" path="res://stages/level/TeleportingScreenspaceEffect.gd" id="2"]
+
+[node name="TeleportScreenSpaceEffect" type="ColorRect" groups=["customStyle"]]
+visible = false
+material = ExtResource("1")
+mouse_filter = 2
+script = ExtResource("2")
+styleColor = Color(0.188235, 0.298039, 0.54902, 1)

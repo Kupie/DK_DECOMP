@@ -1,0 +1,9 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://dtr8so0uyvfcy"]
+
+[ext_resource type="FontFile" uid="uid://dnmchgsoj6mrj" path="res://gui/fonts/thai/Aksaramatee Regular.ttf" id="1"]
+
+[resource]
+font = ExtResource("1")
+font_size = 62
+font_color = Color(0.784314, 0.0627451, 0.862745, 1)
+outline_color = Color(0.133333, 0.121569, 0.121569, 1)

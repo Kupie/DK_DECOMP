@@ -1,0 +1,357 @@
+showdown:
+  hidden: false
+  tier: -3
+  goaltype: survive
+  upgradeLimits: hostile, domehealth
+  freegadgets: 1
+  worldModifiers: worldmodifiernorelic
+  propertyChanges:
+    - monsters.finalwavefixedstrength = 3000
+    - monsters.fixedweight = 0
+    - run.durationcycles = 20
+    - wavemeter.warnermuted = true
+  challengePropertyChanges:
+    - monsters.finalwavefixedstrength = 8000
+    - monsters.fixedweight = 0
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+ironcontribution:
+  hidden: false
+  tier: -2
+  goaltype: property
+  goalvalue: assignments.ironcontribution >= 200
+  upgradeLimits: assignments-iron
+  freegadgets: 1
+  worldModifiers: worldmodifiernomonsters
+  propertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 0.0
+    - game.fixedtimelimit = 30
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 0.0
+    - game.fixedtimelimit = 25
+  multiplayerModifier:
+    - game.fixedtimelimit *= 0.85
+
+inversegravity:
+  hidden: false
+  tier: -1
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  worldModifiers: worldmodifierinversegravity
+  propertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 1.4
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 2.2
+    - monsters.additionalwaveweight = 20
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+maze:
+  hidden: false
+  tier: 0
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  freegadgets: 1
+  mapArchetype: assignment-maze
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 2.0
+    - monsters.additionalwaveweight = 20
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+projectilehell:
+  hidden: false
+  tier: 2
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  freegadgets: 1
+  propertyChanges:
+    - monsters.allowedtypes = [flyer, stingray, shifter, butterfly, stag, scarab]
+    - monstermodifiers.totalrunweightmodifier = 2.0
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 3.0
+    - monsters.additionalwaveweight = 30
+    - monstermodifiers.finalwavemultiplicator = 3.0
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+denseiron:
+  hidden: false
+  tier: 3
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  propertyChanges:
+    - map.ironAdditionalHealth = 120
+    - map.ironrichness = 3
+  mapArchetype: assignment-dense-iron
+  freegadgets: 1
+  challengePropertyChanges:
+    - map.ironAdditionalHealth = 400
+    - monstermodifiers.totalrunweightmodifier = 3.0
+    - monsters.additionalwaveweight = 30
+    - monstermodifiers.finalwavemultiplicator = 3.0
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+bigmapsparseresources:
+  hidden: false
+  tier: 4
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  mapArchetype: assignment-softrock-sparseresources
+  freegadgets: 1
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 2.0
+    - monsters.additionalwaveweight = 30
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+weapondefect:
+  hidden: false
+  tier: 5
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  worldModifiers: worldmodifiernoprimaryweapon
+  freegadgets: 2
+  propertyChanges:
+    - monsters.antistall = true
+    - monstermodifiers.punishers = false
+    - monsters.antistallthreshold = 5
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 1.5
+    - monsters.additionalwaveweight = 20
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+heavyhitters:
+  hidden: false
+  tier: 7
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  freegadgets: 1
+  propertyChanges:
+    - monsters.allowedtypes = [walker, rockman, mucker, diver, driller, beast, hornet, phaser]
+    - monstermodifiers.totalrunweightmodifier = 1.8
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 2.6
+    - monsters.additionalwaveweight = 30
+    - monstermodifiers.finalwavemultiplicator = 3.0
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+superhardrockwithholes:
+  hidden: false
+  tier: 8
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  mapArchetype: assignment-hardrock-manyholes
+  freegadgets: 1
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 2.0
+    - monsters.additionalwaveweight = 30
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+weakcarry:
+  hidden: false
+  tier: 9
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  worldModifiers: worldmodifierbrokencarry
+  freegadgets: 1
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 3.0
+    - monsters.additionalwaveweight = 20
+    - monstermodifiers.finalwavemultiplicator = 3.0
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+weakwalls:
+  hidden: false
+  tier: 10
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  propertyChanges:
+    - dome.incomingdamagemodifier = 2.0
+    - monstermodifiers.health *= 0.5
+  freegadgets: 1
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 2.0
+    - monsters.additionalwaveweight = 20
+    - dome.incomingdamagemodifier = 4.0
+    - monstermodifiers.health *= 0.3
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+monstermasses:
+  hidden: false
+  tier: 12
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  freegadgets: 1
+  propertyChanges:
+    - monsters.allowedtypes = [rockman, walker, tick, bigtick, flyer, stingray, hornet, mucker, worm]
+    - monstermodifiers.totalrunweightmodifier = 1.5
+    - monsters.additionalwaveweight = 20
+    - monstermodifiers.finalwavemultiplicator = 3.0
+    - monsters.minimumtimebetweenmonsters = 0.05
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 3.0
+    - monsters.additionalwaveweight = 60
+    - monstermodifiers.finalwavemultiplicator = 3.0
+    - monsters.minimumtimebetweenmonsters = 0.02
+
+rareiron:
+  hidden: false
+  tier: 13
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  mapArchetype: assignment-rare-iron
+  freegadgets: 2
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 2.0
+    - monsters.additionalwaveweight = 10
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+weakmining:
+  hidden: false
+  tier: 14
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  worldModifiers: worldmodifierbrokenmining
+  freegadgets: 2
+  propertyChanges:
+    - monsters.additionalwaveweight = -20
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 2.0
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+cobaltcontribution:
+  hidden: false
+  tier: 15
+  goaltype: property
+  goalvalue: assignments.sandcontribution >= 20
+  upgradeLimits: hostile, domehealth, assignments-sand
+  freegadgets: 1
+  propertyChanges:
+    - run.durationcycles = 20
+  challengePropertyChanges:
+    - run.durationcycles = 18
+    - monstermodifiers.totalrunweightmodifier = 2.0
+    - monsters.additionalwaveweight = 25
+    - monsters.minimumtimebetweenmonsters = 0.08
+
+minorvision:
+  hidden: false
+  tier: 1
+  goaltype: relic
+  mapArchetype: assignment-minorvision
+  upgradeLimits: hostile, domehealth
+  worldModifiers: worldmodifierdarkcaves
+  freegadgets: 1
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 1.8
+
+acidrain:
+  hidden: false
+  tier: 11
+  goaltype: relic
+  mapArchetype: assignment-acidrain
+  upgradeLimits: domehealth
+  eraseupgradelimits: primaryweapon, hostile
+  worldModifiers: worldmodifieracidrain, worldmodifiernowavemeter
+  freegadgets: 1
+  propertyChanges:
+    - monsters.antistall = false
+    - acidrain.fixedDamagePerMinute = 190
+  challengePropertyChanges:
+    - acidrain.fixedDamagePerMinute = 300
+  multiplayerModifier:
+    - acidrain.fixedDamagePerMinute *= 1.25
+
+treefarm:
+  hidden: false
+  tier: 6
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  freegadgets: 1
+  worldModifiers: worldmodifiertreefarms
+  mapArchetype: assignment-tree-farm
+  challengePropertyChanges:
+    - monsters.additionalwaveweight = 20
+    - monstermodifiers.totalrunweightmodifier = 1.5
+
+megacreeps:
+  hidden: false
+  tier: 20
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  freegadgets: 1
+  propertyChanges:
+    - monsters.allowedtypes = [stag, driller, scarab, tormentor, butterfly, beast]
+    - monsters.additionalwaveweight = 100
+    - monsters.waveinterval = 160
+    - monstermodifiers.totalrunweightmodifier = 2.3
+    - monstermodifiers.onetimewavestrengthmultiplier = 0.0
+    - monstermodifiers.minweightmodifier = 0.1
+    - monstermodifiers.maxRelativeWeightInWave = 1.0
+  challengePropertyChanges:
+    - monsters.allowedtypes = [driller, stag, scarab, tormentor, butterfly, beast]
+    - monsters.waveinterval = 110
+    - monstermodifiers.totalrunweightmodifier = 3.2
+
+instagip:
+  hidden: false
+  tier: 18
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  freegadgets: 1
+  propertyChanges:
+    - monstermodifiers.damage = 10.0
+  challengePropertyChanges:
+    - monstermodifiers.damage = 12.0
+    - monstermodifiers.totalrunweightmodifier = 1.3
+
+harmfuliron:
+  hidden: false
+  tier: 16
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  freegadgets: 1
+  propertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 0.5
+    - harmfuldrops.iron = 30
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 1.0
+    - harmfuldrops.iron = 40
+    
+unpredictable:
+  hidden: false
+  tier: -4
+  goaltype: relic
+  upgradeLimits: hostile, domehealth
+  worldModifiers: worldmodifiernowavemeter
+  freegadgets: 0
+  propertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 1.2
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 1.8
+    - monsters.wavetimemodifier = 0.8
+
+emergency:
+  hidden: false
+  tier: 17
+  goaltype: property
+  goalvalue: assignments.emergencycontribution >= 6
+  upgradeLimits: hostile, domehealth, assignments-emergencycontribution
+  freegadgets: 1
+  challengePropertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 1.8
+    
+logistics:
+  hidden: false
+  tier: 19
+  goaltype: property
+  mapArchetype: assignment-logistics
+  upgradeLimits: assignments-water
+  goalvalue: assignments.watercontribution >= 400
+  freegadgets: 1
+  worldModifiers: worldmodifiernomonsters
+  propertyChanges:
+    - monstermodifiers.totalrunweightmodifier = 0.0
+    - game.fixedtimelimit = 30
+    - map.waterrichness = 5
+  challengePropertyChanges:
+    - game.fixedtimelimit = 25
+  multiplayerModifier:
+    - game.fixedtimelimit *= 0.85

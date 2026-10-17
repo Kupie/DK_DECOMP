@@ -1,0 +1,33 @@
+[gd_scene load_steps=4 format=3 uid="uid://cetma77dhkjfy"]
+
+[ext_resource type="Shader" path="res://systems/camera/vignette/vignette.gdshader" id="1"]
+[ext_resource type="Script" path="res://systems/camera/vignette/Vignette.gd" id="2"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_oy7ip"]
+resource_local_to_scene = true
+shader = ExtResource("1")
+shader_parameter/zoom = Vector2(1, 1)
+shader_parameter/color_conversion = Vector3(0.8, 0.8, 0.8)
+shader_parameter/vignette_alpha = 1.0
+shader_parameter/light_cutout_offset = Vector2(0.412, 0.668)
+shader_parameter/light_cutout_scale = Vector2(0.233, 0.143)
+shader_parameter/aspect_ratio = 1.777
+shader_parameter/nmb_of_targets = 1
+shader_parameter/target_center_offsets_and_strengths = null
+shader_parameter/brightness_bias = 3.0
+shader_parameter/brightness_bands = 3
+shader_parameter/light_cutouts = null
+
+[node name="Vignette" type="ColorRect" groups=["lostL"]]
+process_priority = -1
+material = SubResource("ShaderMaterial_oy7ip")
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(960, 540)
+mouse_filter = 2
+color = Color(0, 0, 0, 1)
+script = ExtResource("2")
+
+[connection signal="visibility_changed" from="." to="." method="_on_visibility_changed"]

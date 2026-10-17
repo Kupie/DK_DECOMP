@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://xa00w6tjyd4g"]
+
+[ext_resource type="Script" path="res://systems/audio/EffectHandler.gd" id="1"]
+[ext_resource type="Script" path="res://systems/audio/CurveAttenuation.gd" id="2"]
+
+[sub_resource type="Curve2D" id="35"]
+_data = {
+"points": PackedVector2Array(11.6411, 11.9557, -11.6411, -11.9557, 0, 0, -175.561, 2.20237, 175.561, -2.20237, 287, -148)
+}
+point_count = 2
+
+[node name="EffectHandler" type="Node2D"]
+script = ExtResource("1")
+minimumWorldVolume = -20.0
+
+[node name="MineAttenuation" type="Path2D" parent="."]
+curve = SubResource("35")
+script = ExtResource("2")
+length = 600.0

@@ -1,0 +1,2206 @@
+﻿key,th_TH
+upgrades.teslapersistance1.title,Persistent Orbs 1
+upgrades.keeper4ramping1.title,Momentum
+upgrades.stationextensionupgrades.desc,Buy upgrades remotely in the mobile station.
+upgrades.sword.title,ดาบ
+upgrades.autocannonimproved.desc,Improve all aspects of the cannon.
+upgrades.laserstrength1.title,เพิ่มพลัง 1
+properties.monstermodifiers.timebetweenwavesmodifier,Cycle Length {.percent}
+level.gameover.unlock.modifiers,New run modifier unlocked!
+keybindings.reset.explanation.ps5,Your Button Bindings have been reset due to a recent update which made significant changes to the input scheme. Sorry for the inconvenience!
+reward.rewardrerolloffers2.desc,Spend water to reroll the gadget or supplement choices multiple times.
+upgrades.proberecharge.desc,The probe will slowly recharge on its own over time.
+versus.corruptionmonsterdamage.title,Lethal Monsters
+loadout.start.area.press,Press|to start your run!
+upgrades.shieldbattleblastdamage.title,ระเบิดเป็นจุล
+properties.monstermodifiers.move_speed,ความเร็วการเคลื่อยที่ของมอนส์เตอร์ {.percent}
+upgrades.mushroomfarmspeed1.title,Mushroom Speed 1
+upgrades.chainsawdamage1.title,Saw Size 1
+properties.orchard.battlerootexplosion,Explosion Damage {}
+level.tutorial.assessor.bundleguide.desc2.switch,Press|without pressing a direction to place a stationary bundle.
+upgrades.swordtargetlock.desc,เมื่อยิงดาบออกไป ดาบจะล็อคกับมอนสเตอร์ตัวแรกที่พบโดยอัตโนมัติ
+reward.rewardautomatedweapons.desc,Automate your secondary weapons.
+options.input.gamepad,จอยสติ๊ก
+playerlist.profile,ดูโปรไฟล์
+upgrades.stunlaserstun1.title,Stun Strength 1
+properties.condenser.overchargedelay,Production Delay (Cycles) {}
+exhibition.level.description,กำลังกลับสู่เมนูหลักใน ...
+keybindings.reset.explanation.switch,Your Button Bindings have been reset due to a recent update which made significant changes to the input scheme. Sorry for the inconvenience!
+upgrades.shockwave.title,Shockwave Hammer
+properties.keeper3.shurikencooldown,Shuriken Cooldown {}s
+title.navbar.leaderboard,เกียรติยศ
+modding.prestigewhitelist,หากคุณมีม็อดที่ควรจะมีอยู่ในไวท์ลิสต์ของ โหมดเกียรติยศ โปรดแจ้งให้เราทราบใน Discord แล้วเราจะตรวจสอบ เราจะอนุญาตม็อดที่ไม่ปรับเปลี่ยนความสมดุลของเกม แต่แค่ปรับให้ทุกคนสามารถเข้าถึงได้ หรือเป็นเพียงแค่การตกแต่งเท่านั้น
+upgrades.extractordoublebuild.desc,Improve the worm production.
+upgrades.chainsawdamage3.title,Saw Size 3
+modding.modio.error,Error mod.io
+loadout.versusmod.versusmodifiermirroredmap.desc,"The maps below the domes are identical, mirrored copies of each other."
+actionhint.blast,ระเบิด
+multiplayer.host.crossplay,Enable Crossplay
+properties.converter.ironpercobalt,{} Iron per Cobalt
+upgrades.shieldovercharge.desc,ใช้น้ำเพื่อเพิ่มการดูดซับความเสียหายของเกราะในการจู่โจมถัดไป
+properties.droneyard.overchargebattledronestrength,Strengthen Battle Drones {.percent}
+options.game.showkeeperaimindicator,แสดงเป้าเล็งของ Keeper
+options.input.gamepad.icons.automatic,อัตโนมัติ
+properties.keeper4.holesquadduration,Mining Squad Duration {}s
+options.keybindings.rebinding.capture,บันทึก
+options.game.screenshake.shakeintensity,ระดับการสั่น
+upgrades.keeper2pinballspherelifetime.desc,Increase the time kinetic spheres will remain flying.
+upgrades.swordreflection2.title,สะท้อน 2
+upgrades.lift.title,ลิฟต์
+assignment.circumstance,Conditions
+options.input,การควบคุม
+properties.keeper2.spheresplit,แยกบอลพลังงานออกจากกัน
+properties.tesla.damage,Shot Damage {}
+options.game.events.allowtelemetry,Enable Online Multiplayer
+properties.keeper1.maxspeed,ความเร็วสูงสุด {}
+level.tutorial.tesla.panel3content1,The tesla dome is versatile. You need to combine all its abilities to succeed with it.
+level.tutorial.sworddome.reflecting.desc,ใช้แผ่นป้องกันของดาบเพื่อหยุดการโจมตีระยะไกล หรือ สะท้อนมันกลับ
+options.game.bundlesnapping,Snap Bundle Aim to Cardinal Directions
+upgrades.spiresustain.title,Sustained Fire
+reward.rewardpermanentinventory.title,Permanent Inventory
+properties.furnace.ironduration,Iron Burn Time (Cycles) {}
+level.gameover.assignment.badges.more,Complete the challenge mode of this assignment to earn another badge.
+upgrades.droneyardovercharge2.title,Improved Overcharge
+multiplayer.error.joincodefailed,No lobby with the given join code was found.
+properties.laser.movespeedwhilefiring,ความเร็วขณะยิง {.percent}
+upgrades.keeper3shurikencooldown1.title,Rapid Shuriken
+upgrades.orchardduration2.desc,ระยะเวลาบัพของผลไม้อยู่นานมากขึ้น
+options.input.controls,ควบคุม
+upgrades.droneyardovercharge3.desc,Get even more additional drones after overcharging the droneyard.
+upgrades.blastminingimpactdetonation.desc,The blast charge will explode on impact with a surface. The explosion will be offset into the direction of the impact.
+upgrades.shieldstrength3.title,เสริมเกราะ 3
+level.gameover.clientdisconnect,Disconnect from Host
+upgrades.swordstabexplode.desc,ดาบติดระเบิด ระเบิดใส่ศัตรูคนแรกที่ดาบแทง
+properties.keeper4.minpunchdelay,Fastest Punch {}s
+options.audio.music,เพลง
+upgrades.keeper3carrylimit3.title,Carry Capacity 3
+upgrades.keeper4swiftpunch.desc,Mining starts at a higher initial speed.
+assignment.showdown.desc,The monsters on this planet are preparing for a single massive attack.
+properties.suitblaster.chargespeedpercharge,Additional Charge Speed per Charge {.percent}
+loadout.versusmod.versusmodifierhardrock,Hard Rock
+properties.keeper4.catgoblinminingspeed,Catgoblin Digging Speed {.percent}
+keeperdlc.title,The Lost Keepers
+upgrades.drillbotduplicate.title,แฝดน้อง
+properties.mushroomfarm.drillbuffduration,Mining Buff Duration {}s
+upgrades.droneyardbattlegridlong1.desc,Release more drones that will stay around for longer.
+level.gameover.prestige.uploading.inprocess,กำลังอัพโหลดคะแนน
+upgrades.furnace.desc,Install a furnace with a chimney. Its smoke delays the next monster attack.
+leaderboard.needsOnlineServices.ps5,Accept EULA in the options to view leaderboards.
+options.game.multiplayer,เล่นหลายคน
+upgrades.shieldbattledestructionprevention.desc,"เมื่อโดมถูกทำลายจะเรียกใช้สกิลอมตะชั่วคราว หลังจากนั้นเกราะของโดมจะใช้งานไม่ได้ในการจู่โจมถัดไป ยืดหยัดสู้จะสามารถใช้ได้อีกครั้งหลังจากจบ 2 รอบการโจมตี
+"
+properties.keeper2.bundlestopcenter,เขตศูนย์กลางแรงโน้มถ่วง
+upgrades.chainsawdamage2.title,Saw Size 2
+upgrades.keeper2rotationalmining1.title,Compression Mining 1
+upgrades.swordlargeblade1.title,ดาบใหญ่ 1
+assignment.mode.regular,ปานกลาง
+level.tutorial.assessor.spheres.desc2,Your sphere supply is limited and reloads automatically over time.
+level.tutorial.assessor.spheres.desc1,Hit| to shoot a kinetic sphere in the direction in which you are facing.
+upgrades.repellentdelay1.desc,ยืดเวลาของการจู่โจมถัดไปให้นานขึ้น
+upgrades.artillerydirecthit1.desc,Improve your mortar to fire shells specialised in direct hits.
+reward.rewardpet12.title,Dog Pet
+upgrades.keeper2movement4.desc,Move much faster while collecting and carrying resources.
+properties.sword.stabspeed,ความเร็วในการแทง {.percent} 
+upgrades.artillerysplash3.title,Volatile Explosives 2
+properties.drillbot.amount,พลังขุด {} หน่วย
+options.game.autopickupkunaicarrier,Automatically pick up Kunai Carrier
+upgrades.stunlaserautonomy1.desc,Stun laser activates even when you are not inside the control station.
+properties.laser.stun,ความแรงสตั้น {}
+loadout.proceed,ต่อไป
+multiplayer.host.joincodeunavailable,ไม่พร้อมใช้งาน
+upgrades.shieldbattlelongerafterdepletion.desc,ผลของระเบิดสายฟ้าจะอยู่นานขึ้นหากเกราะถูกทำลาย
+level.tutorial.assessor.mining.desc,To remove a single rock keep pushing against it.
+upgrades.teleporterteleportresourcesback.desc,ประตูวาร์ปสามารถจัดส่งทรัพยากรกลับไปยังโดม แต่คุณจะไม่สามารถวาร์ปกลับผ่านประตูวาร์ปได้ คุณยังสามารถวาร์ปจากสถานทีมายังประตูวาร์ปได้อยู่
+keybindings.reset.doreset.ps5,Reset my Button bindings
+upgrades.jetpackstrength1.title,เพิ่มน้ำหนัก 1
+level.tutorial.beastmaster.squad_1,Hold| near a hole to call a mining squad.
+loadout.prestige.pro.explanation,"Reduce some randomness and define a fixed order for gadgets, supplements and caves."
+level.tutorial.beastmaster.squad_3,Only one squad can be active at a time.
+upgrades.swordelectrified.desc,กระแสไฟฟ้าไหลผ่านคมมีด สร้างความเสียหายเมื่อสัมผัส
+level.tutorial.beastmaster.squad_2,They will randomly mine rock around the hole.
+upgrades.drill1.title,ความแรงสว่าน 1
+loadout.start.area.move,Move all keepers here to start!
+level.station.upgrademenu.close,ปิด
+upgrades.rocketlauncherrestock.title,Restock Missiles
+upgrades.chainsawdamage1.desc,Increase how much damage the buzz saw does to monsters.
+level.station.battle.navbar.artilleryshoot,Mortar
+upgrades.repellentdelay3.title,ยืดเวลา 3
+upgrades.suitblasterspeed1.title,Charge Speed 1
+level.gameover.stats.additional,Detailed Statistics
+options.audio.music.ost.mode.adaptive,ปรับเปลี่ยนตามสถานการณ์ (แนะนำ)
+upgrades.furnacestrongwaterfiring.title,Enhanced Water Fuel
+properties.dome.meleethorndamage,Returned Damage {}
+upgrades.repellentbattlelongerhealthreduction.desc,Strengthen the withering of all visible monsters.
+level.tutorial.tesla.panel3header,Many Abilities
+versus.corruptionstunresistance.desc,The monsters will be largely resistant to being stunned or slowed.
+level.tutorial.assessor.spheres,บอลพลังงาน
+upgrades.chainsawdouble.title,Double Buzz Saw
+upgrades.keeper4squad1.desc,Summon a specialized squad of miner Catgoblins to excavate nearby rock. They have a knack for digging around resources.
+versus.message.corruption,The other team just sent a monster corruption your way.
+options.keybindings.action.keeper.gadget1,แกดเจ็ต 1
+options.keybindings.action.keeper.gadget2,แกดเจ็ต 2
+upgrades.shieldbattlereflectspeed.title,สะท้อนกลับเร็ว
+properties.monsters.additionalstartweight,Additional Wave Weight {}
+level.gameover.stats.damagedealt,Damage Dealt
+properties.keeper2.reflectspeed,Sphere Speedup {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,เพิ่มระยะเวลาสกิล {} วินาที
+properties.converter.ironcobalttime,Iron to Cobalt Conversion Time (Cycles) {}
+upgrades.droneyardbattlegrid.desc,Deploy a formation of battle drones to defend against nearby monsters.
+upgrades.suitblasterradius1.desc,Increase the blast radius.
+upgrades.droneyardbattlegridquick1.title,Quick Drones
+options.input.controls.keybindings.button.ps5,Change Button Bindings
+multiplayer.host.ping,ปิงของเซิร์ฟเวอร์: %dms
+title.navbar.singleplayer,เล่นคนเดียว
+options.video.renderhalfres.enable,Render at Half Resolution
+level.gameover.stats.destroyedblocks,บล๊อคที่ทำลายไป
+upgrades.converterefficientwaterlong.desc,Change the water conversion into a lengthy process with great yields.
+pause.restartrun,Restart Run
+options.video.stretchmode.scaled,ปรับสเกล
+level.tutorial.beastmaster.mine.desc1,Continuously push against rocks to mine them.
+level.tutorial.beastmaster.mine.desc2,Your mining speed increases with each hit.
+upgrades.domesupplementscraprepair2.desc,ฟื้นคืนความทนทานของโดมที่หายไปโดยการซ่อมแซม
+upgrades.keeper2bundle3.desc,Bundles shot toward the center of the mine will stop directly under the dome instead of continuing to fly.
+leaderboard.fellowkeepers,Guild Ranking
+upgrades.autocannon.desc,Install a powerful automatic cannon on your dome that does heavy damage to monsters.
+properties.orchard.battlerootcatchduration,Trap Duration {}s
+upgrades.laseraimline.desc,เพิ่มเส้นวิถีของเลเซอร์ เพื่อแสดงวิถีว่ากำลังเล็งไปที่ใด
+upgrades.teslapersistance2.title,Persistent Orbs 2
+upgrades.orchardovercharge2.desc,Increase the impact of overcharging on the battle abilities.
+actionhint.teleport,Teleport
+loadout.difficulty.medium.description,นี่แหละยาก
+upgrades.swordlargeblade2.title,ดาบใหญ่ 2
+loadout.prestige.endless,Endless
+upgrades.teslanurture.title,Nurture Electro Orbs
+upgrades.shieldbattleelectroblast.desc,เปิดใช้สกิลต่อสู้เพื่อปลดปล่อยระเบิดสายฟ้ารอบโดมของคุณเป็นช่วงเวลาสั้นๆ
+options.game.blocklist.desc,"List of users you have blocked.
+You won't be able to play with any blocked user in future online games.
+If you change your mind about a blocked user, unblock it below.
+You can block up to %s users."
+actionhint.cancel,ยกเลิก
+upgrades.shockwavestun2.title,Shockwave Stun 2
+upgrades.liftcapacity1.desc,ลูกแก้วขนส่งของได้มากขึ้น
+upgrades.domewavemeter.title,อุปกรณ์ตรวจจับศัตรู
+level.gameover.assignment.win.title,ASSIGNMENT COMPLETED
+gadget.slot.cellar,Cellar
+options.game.ropecamerafollow,Camera Look-Ahead strength when using the Rope
+upgrades.proberecharge.title,รีชาร์จอัตโนมัติ
+level.tutorial.repair.usecobalt,คุณสามารถใช้โคบอล์ทเพื่อซ่อมแซมโดม อัพเกรดเพิ่มเติมในผังเทคโนโลยี
+level.supplementchoice.title,PICK A SUPPLEMENT!
+options.keybindings.action.general.right,ขวา
+gadget.slot.keepersuit,Keeper Suit
+assignment.cobaltcontribution.desc,The guild is in urgent need of cobalt and requests that you deliver a lot of cobalt quickly.
+upgrades.prestigefinish.desc,ออกจากดวงดาวเเละกลับบ้าน
+loadout.mapsize.huge.description,แผนที่ขนาดใหญ่มาก ใช้เวลาในการเล่นนาน
+options.game.events,กิจกรรม
+loadout.versusmod.versusmodifierrichirondeposits.desc,Iron deposits are small but very rich.
+loadout.mode.shortcycles.desc,You have less time between waves.
+multiplayer.error.lobby.host,Failed to host the lobby.
+level.tutorial.sworddome.reflecting,สะท้อน
+level.tutorial.artillery.panel3header,Explosions & Direct Hits
+assignment.rareiron.title,Iron Shortage
+level.tutorial.assessor.carry.desc1_1,เมื่อดึงเข้ามาแล้วทรัพยากรจะลอยติดตามคุณ แม้จะปล่อยปุ่มรวบรวมไปแล้วก็ตาม
+level.station.battle.navbar.slice,ฟัน
+upgrades.furnacewaterfiring.title,Water Fuel
+upgrades.drill.desc,"A central drill to go deep into the mine, with an optional side driller."
+level.gameover.stats.additionalgadget,แกดเจ็ตเพิ่มเติม
+level.tutorial.tesla.panel2content1,Hold|to charge a shot.
+level.tutorial.tesla.panel2content2,"To fire a shot, only release after fully charging. Releasing before will do nothing."
+upgrades.teslapersistance1.desc,The electro orbs are larger and persist longer.
+upgrades.blastminingtriple.desc,Produce multiple blast charges at once instead of a single one.
+properties.droneyard.battledronecount,Battle Drones {}
+options.ok,ตกลง
+loadout.versusmod.versusmodifiermanycaverns,Cavernous Map
+upgrades.lasermove1.desc,เลเซอร์เคลื่อนที่เร็วขึ้น
+upgrades.domewavewarner.desc,An adaptive wave meter will signal when an attack on the dome is imminent. Accuracy of the meter will improve over time.
+upgrades.dome4.title,Tesla Dome
+upgrades.keeper4squad1.title,Tunnel Squad
+upgrades.keeper4autospawnminers.desc,"Whenever a new tunnel entrance is dug, a miner squad will emerge automatically."
+assignment.unpredictable.title,Broken Comms
+upgrades.blastminingblast3.desc,Upgrade the blast charges to extreme strength.
+upgrades.domewavepathtodome.title,ทางออก
+level.tutorial.probe.popup_1.switch,Press | to emit a probe pulse.
+upgrades.teslapower1.desc,Improve the power of the tesla's shot.
+loadout.versus.modifiers.title,Modifiers
+properties.furnace.irondelay,Iron Delay {}s
+actionhint.pickup,หยิบ
+demo.end.subtitle,"The full game offers a ton of content. If you are having a good time, please consider getting the full version. This is some of what it offers:"
+loadout.versusmod.versusmodifierironinflation.desc,"All upgrades need twice as much iron, but iron deposits are richer."
+upgrades.artilleryprojectileerasure.title,Projectile Dispersion
+options.video.brightness.reset,คืนค่าเดิม
+upgrades.domesandrepair.desc,ซ่อมแซมความเสียหายของโดมด้วยโคบอล์ท
+upgrades.swordlongblade2.title,ดาบยาว 2
+level.gameover.restart,Restart run
+options.input.gamepad.thumbstick.ps5,Stick
+level.tutorial.caves,Caves
+options.input.gamepad.gamepadstickdeadzone.ps5,Stick Dead Zone
+upgrades.keeper3shuriken2.title,Swift Shuriken
+upgrades.condenserspeed1.desc,ลดเวลาที่ใช้ในการสร้างทรัพยากรน้ำ 1 หยด
+properties.monsters.fixedweight,Fixed Wave Strength {}
+properties.versus.ironcontribution,Iron Contribution {}
+multiplayer.join.title,เข้าร่วมเซสชั่นผู้เล่นหลายคน
+upgrades.prestigewater.title,ส่ง น้ำ
+upgrades.keeper3kunaibounce2.title,Deep Resonance
+upgrades.swordtargetlock.title,ล็อคเป้า
+upgrades.artillerymachinegun4.title,Fast Fire Gun
+upgrades.mushroomfarmdrill2.title,Mushroom Mining 2
+upgrades.stunlaser.desc,ติดตั้งเลเซอร์จิ๋วที่เล็งเป้าหมายโดยอัตโนมัติเพื่อสตั้นมอนสเตอร์
+upgrades.shieldbattleinvulnerable.title,อมตะ
+loadout.hint.dome,Choose a dome!
+loadout.versusmod.versusmodifierrichirondeposits,Dense Iron Deposits
+upgrades.chainsawdouble.desc,Install another buzz saw to effectively defend both sides of the dome.
+properties.lift.capacity,ลูกแก้วขนส่งทรัพยากร {} ชิ้น
+reward.rewardcentralmarker.title,Center Marker
+upgrades.autocannonrateoffire1.title,Machine Gun 1
+loadout.versusmod.versusmodifierwindingmap,Winding Map
+upgrades.prospectionmetersand2.title,เข็มทิศ โคบอล์ท
+properties.lift.orbs,{} ลูก
+upgrades.keeper3doublejump.desc,Jump again while in mid-air.
+upgrades.droneyardparasites3.title,Parasitic Drones 3
+upgrades.keeper4doublesquad.title,Second Squad
+upgrades.relichunt.title,ล่าสมบัติ
+upgrades.orchardbattlerooting.desc,เปิดใช้ขณะต่อสู้ เรียกรากไม้ออกมาบริเวณด้านนอกโดมเพื่อดักจับมอนสเตอร์ระดับกลางที่เหยียบรากไม้
+upgrades.prospectionmetergadget.title,High Performance Meter
+properties.sword.reflection,เพิ่มขนาดแผ่นป้องกัน
+upgrades.extractorresources1.desc,"Breed special worms that work carefully, extracting more iron."
+properties.dome.autohealdamagethreshold,เปิดการใช้งานหากได้รับความเสียหายต่อพลังชีวิตมากกว่า {} หน่วย
+upgrades.keeper2rotationalmining2.desc,Improve how quickly rock is mined.
+properties.tesla.persistencestunstrength,Electro Orb Stun Strength {}
+level.gameover.stats.timeplayed,เวลาผ่านไป
+properties.sword.stabdamage,ดาเมจการแทง {} 
+properties.monsters.additionalwaveweight,Additional Wave Strength {.percent}
+options.game.playerindicatorsinmultiplayer,Show Player Indicators in Multiplayer
+properties.mushroomfarm.speedbuff,บัพเพิ่มความเร็ว {}
+level.tutorial.drillbot.carry,พาดริลเบริทไปยังเหมือง วางดริลเบริทในจุดที่ต้องการขุด
+modding.modio.decline,Decline
+assignment.inversegravity.desc,The planet has inverted gravity.
+level.tutorial.drop.popup_2,กด | เพื่อทิ้ง 1 ครั้ง กดค้างเพื่อทิ้งหลายครั้ง
+upgrades.droneyardbattlegridquick1.desc,Release more drones in much quicker succession.
+upgrades.mushroomfarmautopickup.desc,Automatically consume mushrooms when moving close to them.
+level.tutorial.drop.popup_1,บรรทุกทรัพยากรจะทำให้คุณช้าลง
+properties.sword.retractspeed,ความเร็วการถอย {} 
+reward.rewardkeeper1skin5.title,Engineer Skin
+upgrades.keeper4.desc,"Arcane keeper traversing the mines with agile tentacles, commanding catgoblin minions."
+assignment.condition.deliverwater,Deliver %d water
+loadout.difficulty.hard.description,ดีมาก พร้อมที่จะรับความพ่ายแพ้แล้วสินะ
+upgrades.keeper4speed2.title,ความเร็วเลเซอร์ 2
+loadout.versusmod.versusmodifierhardrock.desc,The map has more hard rock.
+properties.furnace.maxironstack,Maximum Iron Stack {}
+upgrades.rocketlauncherdamage2.desc,Improve the missiles even more.
+upgrades.artilleryrotation1.desc,Allows you to rotate the mortar further.
+level.furnace.popup.fuel.add,Stack one|to be burned.
+reward.rewardpostrunshowmonstercount.desc,Show additional post-run battle statistics like how much damage you received per monster type.
+upgrades.extractordoublebuild.title,Double Worm
+multiplayer.error.otherteamquit,The game was ended because all players have left the other team. Your game has been saved and you can continue the game by selecting multiplayer under the continue menu.
+upgrades.blastminingproductiontime1.title,เร่งการผลิต
+upgrades.chainsawdamage2.desc,Increase how much damage the buzz saw does to monsters.
+multiplayer.continue.deviceselection.originalplayer,Original Player
+upgrades.shieldbattleinvulnerable.desc,เปิดใช้สกิลต่อสู้เพื่อทำให้โดมไม่ได้รับความเสียหายชั่วคราว
+level.gameover.unlock.drillbert,Drillbert modifier unlocked!
+multiplayer.host.splitscreen.desc.switch,Use the Controllers in the loadout to spawn additional keepers. Up to two keepers can share one screen. Can be combined with online multiplayer.
+loadout.mapsize.large,ใหญ่
+level.furnace.popup.explanation,Add resources to the fuel stack. The resources are burned one after another.
+upgrades.condenserdoublestorage.title,เพิ่มความจุ
+upgrades.shockwavebig.title,Deadly Wave
+upgrades.extractorresources2.desc,Breed worms that will find every last iron particle within the rock.
+level.tutorial.ninja.shuriken.desc1,Double tap| to throw a shuriken.
+level.tutorial.ninja.shuriken.desc2,Shuriken replenish over time.
+upgrades.droneyarddronespeed1.title,ความเร็วโดรน
+upgrades.stunlaserarea.title,Area Stun
+assignment.weakmining.title,Mining Problem
+options.game.events.allowtelemetry.ps5,ยอมรับ EULA
+upgrades.keeper3kunaibounce2.desc,Increase the range of tiles revealed with each bounce.
+assignment.projectilehell.title,Projectile Hell
+options.input.controls.mouse.gamepad.ps5,Switching to a Controller and back is automatically detected
+reward.rewardpermanenthealthmeter.title,Permanent Health Meter
+properties.game.fixedtimelimit,Time Limit: {} Minutes
+upgrades.drillbot.title,ดริลเบริท
+options.video.performance,Performance
+properties.furnace.waterduration,Water Burn Time (Cycles) {}
+level.gameover.win.team.profile,โปรไฟล์
+upgrades.droneyardbattlegrid.title,Battle Grid
+loadout.prestige.countdown.description,ตัวคูณแต้มเกียรติยศเริ่มต้นสูงแต่จะลดลงในแต่ละรอบ
+level.tutorial.ninja.carry.desc1,Hit| to throw a kunai carrying resources in the direction you are aiming with your %s.
+level.gameover.miner.title,MINER RUN FINISHED
+loadout.mapsize.medium.description,แผนที่มาตรฐานเหมาะสำหรับการขุดเพลินๆ
+upgrades.assignmentsemergencycontribution2.desc,Send this package before the 4th wave ends or fail this assignment.
+level.gameover.unlocknewelementbutton,เลือกของปลดล๊อค
+upgrades.repellentbattlestrongerslowdown2.desc,พ่นหมอกให้มอนสเตอร์ช้าลงมากยิ่งขึ้นและยาวนานขึ้น
+upgrades.orchardovercharge3.desc,Increase the impact of overcharging on the battle abilities.
+modding.steamworkshop,เปิด steam workshop
+upgrades.shieldstrength2.title,เสริมเกราะ 2
+reward.rewardkeeper1skin5.desc,Unlock a new keeper skin for the Engineer.
+options.keybindings.rebinding.error.gamepad.ps5,Cannot set this as a Controller input.
+properties.keeper2.actioncooldown,Action Cooldown {}s
+pause.godot,สร้างโดย Godot
+loadout.mode.nomonsters,No Monsters
+properties.teleporter.teleportduration,ระยะเวลาวาร์ป {} วินาที
+level.paused,หยุดชั่วคราว
+upgrades.teslaautoaim.desc,The aiming reticle gains a small radius in which it will automatically aim at the closest monster.
+upgrades.domearmorpulse.desc,"The dome armor retains a portion of the kinetic energy from attacks received, eventually releasing it in strong pulses that stun nearby enemies."
+upgrades.teslapower2.title,Shot Power 2
+modding.close,ปิด
+upgrades.stunlaserduration2.desc,The stun laser cools down even faster and has an extended firing duration.
+level.station.battle.navbar.move,เคลื่อนที่
+upgrades.repellentbattleslowdown.title,อ่อนล้า
+properties.drillbot.buffstrength,บัพเพิ่มความเร็ว {.percent}
+options.input.controls.keybindings.button.switch,Change Button Bindings
+upgrades.keeper4speed1.title,ความเร็วเลเซอร์ 1
+upgrades.stunlaserduration2.title,Firing Stamina 2
+modding.profile.delete,ลบโปรไฟล์
+upgrades.dome1health1.desc,เพิ่มความแข็งแรงให้กับโครงสร้างโดมอย่างถาวร
+assignment.logistics.title,Logistical Nightmare
+level.gameover.prestige.score.finalscore,Your final score is...
+upgrades.prestige.desc,เก็บแต้มโดยการส่งออกทรัพยากรให้เยอะที่สุดเท่าที่จะทำได้ ก่อนที่โดมจะถูกทำลาย หรือ ออกจากดาวนี้โดยปลอดภัย
+properties.chainsaw.damage,Damage per Second {}
+upgrades.autocannonshotgun2.desc,Increase shotgun power.
+reward.rewardthreechoicesgadget.title,Three Gadget Offers
+options.input.gamepad.twinstick,Twin-Stick Controls
+upgrades.domewavewarner.title,Adaptive Wave Warner
+upgrades.mushroomfarmdrill1.desc,Improve the mining buff obtained from consuming mushrooms.
+properties.suitblaster.chargespeed,Charges per Cycle {}
+loadout.player.color,Keeper Color
+level.assignment.badges.unlock,Earn %d more badges to unlock.
+assignment.projectilehell.desc,"The planet is infested with flying, projectile-spitting monsters."
+properties.repellent.overchargebattleabilityduration,เพิ่มระยะเวลาสกิล {.percent}
+properties.orchard.battleshieldhp,Strength {} HP
+properties.keeper2.reflectsphere,Reflection Field
+upgrades.probecharges.desc,Add another charge to the probe.
+upgrades.resourcepackerconstant.title,Masterful Packing
+upgrades.droneyardbattlegridlong2.desc,Release many more drones that will stay around for very long.
+upgrades.swordreflection2.desc,แผ่นป้องกันใหญ่มาก
+upgrades.orchardovercharge3.title,Intense Overcharge
+upgrades.assignmentsemergencycontribution4.desc,Send this package before the 11th wave ends or fail this assignment.
+upgrades.droneyardovercharge3.title,Extensive Overcharge
+level.gameover.assignment.lose.title,ASSIGNMENT FAILED
+actionhint.pack,Pack
+upgrades.stationextensionminimap.title,Cartography
+properties.tesla.orbdamage,Electro Orb Damage {}
+properties.furnace.maxwaterstack,Maximum Water Stack {}
+loadout.versusmod.versusmodifiermirroredmap,Mirrored Map
+upgrades.artilleryrotation1.title,Wide Rotation
+upgrades.drillsidespeed2.desc,Speed up the side drillers even more.
+level.tutorial.resourcepacker.popup_1,"When close to resources, hit | to pack them into a compact bundle that is easier to transport."
+properties.orchard.overchargeabilityuses,Additional Ability Uses {}
+options.input.controls.gamepadusage.ps5,Controller Usage
+options.keybindings.restoredefault,คืนค่าเริ่มต้น
+options.input.gamepad.switch,คอนโทรลเลอร์
+upgrades.stationextensionresolution.title,High-Res Display
+upgrades.shieldbattlelongerafterdepletion.title,เกราะระเบิด
+telemetry.manage.ps5,ปฏิเสธ EULA
+level.gameover.stats.damagereceived,Damage Received
+modding.modio.moddownloadfailed,Error downloading mod.io mod!
+loadout.versusmod.versusmodifierironinflation,Iron Inflation
+reward.rewardpermanentwavecount.title,Permanent Cycle Counter
+upgrades.jetpackstrength1.desc,ปรับปรุงไอพ่นให้บรรทุกของได้เพิ่มขึ้น
+level.gameover.unlock.gadget,แกดเจ็ตใหม่
+upgrades.stationextension.desc,"Get a mobile station, running on a rail directly below the dome. Enter the station to remotely control your dome from within the mine."
+loadout.versusmod.versusmodifierpoorirondeposits.desc,Iron deposits are very large but have lower yield.
+upgrades.repellentbattlestrongerslowdown2.title,อ่อนเปลี้ย
+upgrades.converterirontocobalt.desc,สามารถแปรเปลี่ยนระหว่างโคบอล์ทและเหล็กได้
+loadout.dome,โดม
+upgrades.orchardduration3.title,ระยะเวลา 3
+level.gameover.stats.resourcesmined,เก็บทรัพยากรไป
+options.input.gamepad.thumbstick,Thumbstick
+upgrades.keeper1powerdrill.desc,"Gain a greatly improved drill that can easily drill through the hardest rock, even destroying previously indestructible bedrock."
+upgrades.domesecondweapon.title,Weaponize Second Station
+actionhint.fire,ไฟ
+versus.corruptionfastprojectiles.title,Fast Projectiles
+level.gameover.retry,เริ่มเกมใหม่
+loadout.versus.modifiers.limit,%d of %d modifiers chosen.
+upgrades.swordstabfast2.title,แทงไว 2
+properties.blastmining.growthtime,Production Time (Cycles) {}
+options.keybindings.rebinding.inputprocessor.ps5,Press a new Button for this action…
+level.gameover.stats.difficulty,ระดับความยาก
+assignment.inversegravity.title,Upside Down
+assignment.acidrain.desc,The planet's acidic rain prevents any life and even cuts through the dome's armor.
+upgrades.keeper4doublesquad.desc,"Gain another squad, ready to work any time you call them."
+upgrades.keeper4powerfulfirstpunch.desc,The first strike against a tile will use exceptional force.
+multiplayer.host.start,สร้างห้อง
+upgrades.mushroomfarmspeed2.title,Mushroom Speed 2
+demo.end.more1,More domes!
+demo.end.more2,The Assessor Keeper!
+upgrades.swordreflection1.desc,เพิ่มขนาดแผ่นป้องกันและสะท้อนการโจมตีของมอนสเตอร์ออกไป
+demo.end.more3,Many more gadgets!
+upgrades.chainsawspeed1.title,Saw Speed
+assignment.treefarm.desc,"The planet's resources are few, but many resource tree seeds can be found."
+demo.end.more4,Powerful supplements!
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"Set the value so that the meter does not flicker when only touching the sticks, without pushing them.
+The meter should flicker when moving the stick."
+actionhint.probe,สแกนเนอร์
+level.gameover.keepgadget.keeping,แกดเจ็ตที่เก็บไว้: {gadget}
+upgrades.keeper3aerialmastery.desc,"Gain increased control while falling. Additionally, each mid-air jump will launch you higher than the last."
+upgrades.drillbot.desc,เลี้ยงดริลเบริทผู้รักในการขุด นำดริลเบริทไปที่เหมืองปล่อยลงในตำแหน่งที่คุณต้องการให้ขุด กลับมาปลุกดริลเบริทให้ตื่นขึ้นเพื่อทำงานต่อ
+upgrades.laserstrength4.title,เพิ่มพลัง 4
+upgrades.artillerydoublemachinegun.title,Double Barrel
+upgrades.laserbend.desc,ติดตั้งอุปกรณ์เสริมให้กับเลเซอร์ให้สามารถเบี่ยงเบนเล็กน้อยเพื่อเล็งเป้าหมายที่อยู่ใกล้ได้โดยอัตโนมัติ
+upgrades.teslaquickshot2.title,Powered Quick Shot
+properties.droneyard.battledronespawntime,Drone Spawn Time {}s
+upgrades.prospectionmetersand2.desc,แสดงทิศทางจากทรัพยากรโคบอล์ทที่ใกล้ที่สุด
+upgrades.keeper2pinballreflect2.title,เพิ่มการสะท้อน
+loadout.secondstage.start,เริ่มเกม
+level.tutorial.extractor.popup_1,Take the iron worms from the station and drop them near an iron cluster. They will attach to the iron and efficiently mine it over time.
+upgrades.spirestuntrap2.desc,Improve the efficiency of the energy trap to catch more projectiles.
+loadout.versus.condition.deathmatch.desc,The team that survives the longest wins.
+loadout.versusmod.versusmodifiertoughstart.desc,The monster waves start out quite strong.
+level.tutorial.drillingrig.popup2,"When close to a side driller, hold | to move it along the drill shaft."
+level.tutorial.drillbot.sleeping2.switch,"When close to Drillbert, press | to wake it."
+upgrades.teleporterteleportitems.title,Teleport Items
+level.tutorial.drillingrig.popup1,"Your drilling rig has a side driller, mining horizontally."
+level.tutorial.ninja.drop.desc1,Hit| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.stationextension.title,สถานีใต้ดิน
+upgrades.keeper2pinballreflect2.desc,Spheres are powered up even more when reflected.
+properties.sword.stabrange,ระยะ {} 
+pause.disconnect.popup.ps5,You can't drop the main wireless controller.
+options.game.systemcursor,ใช้เคอร์เซอร์เดิมของเมาส์
+upgrades.artillerygrenadefastreload.desc,Reduce the reload time of your mortar significantly.
+upgrades.stationextensionrevealdistance1.title,Close Rock Scan
+loadout.mode.secondweapon,Second Weapon Unlocked
+options.video.reducedparticles,ลดเอฟเฟกต์พาร์ทิเคิล
+properties.monsters.finalwavefixedstrength,Final Wave Strength {}
+versus.corruptionfastmonsters.desc,The monsters will permanently be faster.
+upgrades.spirestuntrap1.desc,Shooting down a projectile generates an energy trap that will catch more projectiles. The amount the trap can capture depends on the potency of the incoming projectile.
+versus.corruptionfastprojectiles.desc,The monster projectiles will fly much faster.
+options.input.gamepad.twinstick.switch,Twin-Stick Controls (Disabled for single Joy-Con)
+upgrades.autocannonrateoffire2.title,Machine Gun 2
+upgrades.chainsaw.title,Buzz Saw
+options.input.vibration.strength,ระดับการสั่น
+savegame.corrupted.title,Corrupted Save File
+properties.drillbot.drillstrength,ความแรงสว่าน {}
+properties.prestige.multiplier,{} ตัวคูณแต้มเกียรติยศต่อรอบ
+upgrades.artillerysplash4.desc,Bring devastation across the whole battlefield by firing 4 highly explosive shells in quick succession.
+upgrades.condenserdoublestorage.desc,เครื่องกลั่นจะผลิตทรัพยากรน้ำ 2 หยด ก่อนหยุดทำงาน
+upgrades.shieldbattleactivateondepletion.desc,เมื่อเกราะหายไปจะเปิดใช้สกิลอมตะเพื่อทำให้โดมไม่ได้รับความเสียหายโดยอัตโนมัติ
+upgrades.chainsawspeed1.desc,Let the buzz saw move faster between both sides.
+upgrades.teleporterteleportduration2.title,Teleport Duration 2
+properties.orchard.overchargeabilitystrength,Additional Ability Strength {.percent}
+modding.modio.loginfailed,Login to mod.io with Xbox account failed!
+upgrades.rocketlauncherrockets3.title,Barrage 3
+leaderboard.needsOnlineServices,Leaderboards require online services to be enabled.
+options.game.blocklist,Blocked User List
+upgrades.keeper4squad2.desc,Increases the number of Catgoblins in the squad and their endurance.
+reward.rewardweaponsupplements.desc,Discover extremely strong supplement upgrades for your weapon.
+upgrades.domesupplementadditionalcellar.desc,"Add another level to your cellar, providing two additional spots for gadgets."
+level.tutorial.assessor.bundle.desc1.switch,Press|while carrying resources to shoot a bundle.
+loadout.difficult.harder,ยากขึ้น
+playerlist.close,ปิด
+upgrades.keeper3rocketcarrier.title,Rocket Carrier
+level.tutorial.assessor.spheres.desc1.aiming,Hit| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+level.gameover.unlock.gamemode,เกมโหมดใหม่
+upgrades.rocketlauncherrockets1.title,Barrage 1
+upgrades.autocannonspeed1.title,Speedup
+upgrades.spiresustain.desc,"Bring the recharge time down to nearly zero, enabling a very steady fire pace."
+upgrades.extractorresources1.title,Diligent Worms
+multiplayer.host.splitscreen.desc.xbox,Use the Controllers in the loadout to spawn additional keepers. Up to four keepers can share one screen. Can be combined with online multiplayer.
+level.assignment.badges,Badges
+upgrades.prestigefinish.title,ออกจากดวงดาว
+properties.sword.slicebounceback,ดาบกระเด้งของเมื่อกระทบพื้น
+properties.droneyard.transportdronecount,Transport Drones {}
+upgrades.drilladditionalsides.title,Additional Side Driller
+upgrades.shieldbattleblastdamage.desc,Increase the damage and uses per battle of the electro blast.
+upgrades.extractordestruction.title,Lair Implosion
+properties.sword.electricdamage,ดาเมจดาบสายฟ้า {}
+properties.mushroomfarm.growthtime,Growth Time (Cycles) {}
+upgrades.keeper3carrylimit1.desc,Increase the number of resources you can haul on your Kunai carrier.
+options.accessibility.fontsize,Font Size
+upgrades.keeper4punch2.title,Frenzy 2
+upgrades.laser.desc,เลเซอร์อันทรงพลังที่เคลื่อนที่รอบโดมของคุณ เดิมทีมีไว้สำหรับการขุดดาวเคราะห์น้อย
+loadout.hint.multiplayer.playermaximum,Must have 8 or fewer players to start a multiplayer run.
+upgrades.drillsides.title,Side Driller
+upgrades.mushroomfarmautopickup.title,Quick Bite
+options.input.controls.mouseusage,การใช้เมาส์
+properties.tesla.reticlemaxspeed,Reticle Speed {}
+upgrades.swordstabshoot.desc,แทนที่จะยืดดาบออกไปโจมตี เปลี่ยนเป็นการชาร์จดาบและยิงออกไปจากโดมเสมือนหอก
+properties.condenser.autocollect,เก็บทรัพยากรอัตโนมัติ
+level.gameover.back,กลับ
+loadout.mapsize.small,เล็ก
+loadout.hint.gamemode,Choose a game mode!
+upgrades.swordlargeblade3.title,ดาบยักษ์ 3
+level.tutorial.ninja.controls,This keeper can only be played with controller or mouse and keyboard.
+telemetry.explanation.ps5,"Accept our EULA to access online multiplayer.
+If you don't, you can still play local multiplayer in splitscreen.
+
+You can change this setting any time in the options."
+multiplayer.techtree.keeperexclusiveupgrades,These upgrades apply only to your keeper.
+assignment.heavyhitters.desc,The planet is swarming with melee monsters.
+options.input.controls.mouse.domes,ใช้เมาส์ในการควบคุมโดม
+loadout.mode.toughstart, Tough Start
+upgrades.swordaimline.desc,ติดตั้งเลเซอร์สำหรับการเล็งดาบเพื่อแทงศัตรู
+upgrades.assignmentssendiron.title,Deliver Iron
+upgrades.domearmormelee1.title,Melee Armor 1
+assignment.showdown.title,Showdown
+upgrades.keeper3shuriken1.desc,Gain a throwable Shuriken that explodes in a small radius. Automatically replenishes over time.
+upgrades.teslatiming1.title,Perfect Timing
+upgrades.stationextensionrevealdistance2.title,Rock Scan
+loadout.prestige.pro.gadgetorder,Gadget Order
+upgrades.prospectionmeterwater1.title,มิเตอร์ น้ำ
+properties.teleporter.teleportresources,วาร์ปทรัพยากร
+options.video.stretchmode.scaled.text,"เรนเดอร์เกมด้วยความละเอียดที่ตั้งค่าไว้และปรับขนาดให้เป็นความละเอียดของหน้าจอคุณ
+ภาพจะเป็นพิกเซล โดยเฉพาะอย่างยิ่งกับตัวหนังสือ แต่จะไม่มีเส้นผิดพลาดเกิดขึ้น"
+loadout.abort,ยกเลิก
+level.station.battle.navbar.stab,แทง
+properties.keeper3.bouncesonarrange,Sonar Range (Tiles) {}
+assignment.cobaltcontribution.title,Cobalt Contribution
+upgrades.keeper2pinballsplit.desc,"Split oncoming kinetic spheres in two, launching them perpendicular to their original trajectories."
+options.input.gamepad.xbox,คอนโทรลเลอร์
+upgrades.stunlaserduration1.desc,สตั้นเลเซอร์ทำงานได้ไวขึ้นและยิงได้นานขึ้น
+properties.spire.stuntrapduration,Duration {}s
+loadout.difficulty.veryeasy,ปานกลาง
+upgrades.keeper4swiftpunch.title,Swift Strikes
+upgrades.domewavecount.title,ตัวนับรอบ
+level.gadgetchoice.slot,Slot: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,Take myzel spores from the mushroom trunk and drop them on a rock. They will occasionally grow into a buff mushroom.
+options.game.languages,ภาษา
+upgrades.autocannonshotgun2.title,Shotgun 2
+upgrades.drillbotturnaround.title,ฝึกขั้นสูง
+level.tutorial.overcharge.popup_2,Move close to it and press | to overcharge.
+level.tutorial.overcharge.popup_3,This will consume one | and can only be done if you have enough.
+level.tutorial.overcharge.popup_1,"You can now overcharge your primary gadget, strengthening it for the next battle."
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,"Instead of using lifting orbs, all resources inside the lift are continuously moved upwards by an inverse gravity field. Partially refunds resources spent on orbs."
+level.station.navbar.battle,ต่อสู้
+options.keybindings.rebinding.error.mouse,Cannot set this as a mouse input.
+options.input.gamepad.autoswitch.ps5,Automatic Detection of Preferred Controller
+properties.lift.keeperupwardsspeed,ความเร็วผู้พิทักษ์ขณะอยู่บนลิฟต์ {}
+loadout.keeper,ผู้พิทักษ์
+level.gameover.unlock.keeper,ผู้พิทักษ์คนใหม่
+options.keybindings.rebinding.inputprocessor,กดปุ่มที่ต้องการตั้งค่า
+options.keybindings.gamepad.ps5,คอนโทรลเลอร์
+upgrades.keeper4extraresource.title,Diligent Catgoblins
+upgrades.shieldoverchargestrength2.title,โอเวอร์ชาร์จเกราะแกร่ง 2
+loadout.mode.domesupplements,Triple Supplements
+upgrades.converter.desc,แปรเปลี่ยนทรัพยากรที่มีอยู่ ช่วยให้ทรัพกรในช่องสัมภาระสมดุลมากขึ้น
+assignment.minorvision.title,Darkness
+upgrades.shieldstrength1.desc,เกราะดูดซับความเสียหายได้เพิ่มขึ้น
+properties.stationextension.tilerevealdistance,Reveal Distance {} Tiles
+loadout.mode.toughstart.desc,Start with stronger waves.
+upgrades.liftcarrykeeper1.desc,The lift boosts your speed when moving inside it.
+options.input.controls.mouse.aim,ใช้ เมาส์ เพื่อเล็ง
+upgrades.spireprojectileslowdown.desc,The spire continuously slows down all enemy projectiles.
+assignment.chosen.title,Your Guild Assignment
+upgrades.furnacestrongwaterfiring.desc,Boost the effectiveness of burning water in delaying monsters.
+properties.dome.healthfractionrepair,ซ่อมแซม {.percent} ของพลังชีวิตสูงสุด
+level.tutorial.assessor.carry,รวบรวมแรงโน้มถ่วง
+upgrades.laserhitprojectiles.title,สลายการโจมตี
+upgrades.teslaorbstun.title,Depth Effect
+reward.rewardgadgetsupplements.title,Gadget Supplements
+options.input.controls.keepersettings.individual,Individual Keeper Settings
+upgrades.teslapower2.desc,Improve the power of the tesla's shot.
+properties.acidrain.fixeddamageperminute,ความเสียหายต่อนาที {}
+demo.end.more,And much more:
+landing.proceed,กดปุ่มใดก็ได้ เพื่อเล่นต่อ
+modding.modio.ugcterms.content2,"By continuing, your Xbox Live identifier will be used to seamlessly authenticate you with mod.io. To proceed, you must read and agree to the mod.io policies:"
+upgrades.keeper4catgoblinamount.title,Expanded Brood
+modding.modio.ugcterms.content3,[i]These conditions will open in your system's default web browser.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,อ่อนเพลีย
+upgrades.spiresplit1.title,Projectile Split
+upgrades.suitblasterradius2.title,รัศมีการระเบิด 2
+properties.keeper4.punchstrength,Punch Strength {}
+modding.modio.ugcterms.content1,"To access, download, and manage user-generated content (UGC), this game uses the [b]mod.io[/b] service."
+upgrades.versus.title,ปะทะ
+upgrades.swordstabexplode.title,แทงติดระเบิด
+modding.modlist.title,ม็อดที่เปิดใช้งาน
+options.game.kunaisnapping,Snap Kunai Aim to Cardinal Directions
+loadout.versusmod.versusmodifiersecondweapon,Second Weapon Unlocked
+upgrades.teleporterteleportduration1.desc,วาร์ปตัวคุณได้อย่างรวดเร็ว
+options.input.controls.keybindings.button,แก้ไขการตั้งค่าปุ่ม
+upgrades.domearmor.title,Dome Armor
+options.input.gamepad.gamepadstickdeadzone.text,"ตั้งค่าบริเวณที่ไม่ตอบสนองต่อก้านอนาล็อก แถบแสดงการตอบสนองจะไม่ขยับ หากคุณเพียงแค่แตะเบาๆโดยไม่ได้ออกแรง
+หากคุณออกแรงดันก้านอนาล็อก แถบแสดงการตอบสนองจะขยับตาม"
+options.translation.community.desc,งานแปลเหล่านี้เป็นผลงานจากผู้เล่นที่น่ารักของเรา มาร่วมงานกันกับเราได้นะ
+level.tutorial.beastmaster.mine,Mining
+upgrades.keeper4speed1.desc,Increases movement speed.
+properties.shield.overchargebattleabilityduration,เพิ่มระยะเวลาสกิล {.percent}
+upgrades.shockwavedamage1.desc,Increase the damage the shockwave inflicts.
+network.error.offline.xbox,Your connection to Xbox network has been lost. Please check your internet connection and try again.
+properties.condenser.waterstorage,เก็บ {} น้ำ
+loadout.versusmod.versusmodifierstrongmonsters.desc,Monsters are harder to kill.
+title.navbar.modding,ม็อดต่างๆ
+upgrades.dome3.desc,Military dome used to unleash devastation using an immensely potent mortar. Also comes with an anti-air gun for full defensive capabilities.
+upgrades.keeper4powerfulfirstpunch.title,First Strike
+properties.sword.brake,ความไวของดาบ {}
+level.tutorial.suitblaster.popup_1,"Hit | to fire the suit blaster, destroying rock in a radius around you."
+properties.stunlaser.firetime,เวลายิง {} วินาที
+level.tutorial.suitblaster.popup_2,It automatically recharges over time.
+properties.droneyard.battleabilityuses,จำนวนครั้งต่อการจู่โจม {}
+upgrades.keeper4ramping1.desc,Build up mining speed through continuous mining. Momentum decays when you stop.
+level.gameover.unlockpicker.title,เลือกของปลดล๊อค
+options.input.gamepad.autoswitch.switch,Automatic Detection of Preferred Controller
+upgrades.suitblaster.desc,Install a mining blaster into your suit which can explosively destroy rocks around you.
+upgrades.spiresplit1.desc,"Hit projectiles split into multiple small ones, dealing damage to enemies. The resulting amount of split projectiles depends on the potency of the incoming projectile."
+properties.versus.additivewave,Increased Wave Strength (other team) {}
+properties.keeper3.aircontrol,{.percent} Air Control
+multiplayer.error.keepertaken,The selected keeper has already been taken. Please try again with another keeper.
+assignment.mode.challenge,Challenge
+upgrades.keeper3shurikenstrength1.desc,"Increase Shuriken explosion power, destroying tiles in a bigger radius."
+pause.invite,Invite Friend
+loadout.mapsize.medium,ปานกลาง
+upgrades.keeper2pinballdestroyadjacenttiles.desc,"Whenever a kinetic sphere destroys a rock tile, the tiles perpendicular to the impact also get destroyed."
+upgrades.furnaceironfiring.title,Iron Fuel
+upgrades.furnaceslowdown.desc,"Add a toxic component to the fumes, numbing the nervous systems of the monsters and slowing down their movement."
+upgrades.swordlargeblade2.desc,ติดตั้งดาบอันใหญ่โต เคลื่อนที่ได้ช้าแต่แรง
+upgrades.blastminingblast1.desc,เพิ่มความรุนแรงระเบิด
+upgrades.stationextensionrevealdistance1.desc,Rock and resources close to the station are automatically revealed.
+leaderboard.season,ซีซั่น {season}
+multiplayer.host.crossplay.enabled,Crossplay Enabled
+multiplayer.techtree.keepersharedupgrades,These upgrades are shared for all keepers who own this gadget.
+loadout.versusmod.versusmodifierlongcycles.desc,The time between monster waves is longer.
+upgrades.artillerydirecthit2.title,Monster Buster 2
+upgrades.stationextensionresolution.desc,Get a clearer image of the dome and its surroundings.
+options.keybindings.action.general.use,ใช้
+loadout.relichunt.modifiers,Run Modifiers
+assignment.heavyhitters.title,Heavy Hitters
+upgrades.furnacelastingwaterfiring.title,Durable Water Fuel
+properties.shield.battleblastdamage,ดาเมจระเบิด {} ต่อวินาที
+multiplayer.error.timeout,Connection has timed out.
+multiplayer.join.discovering,กำลังหาเซสชั่น
+properties.condenser.growthtime,Production Time (Cycles) {}
+level.gameover.assignment.badges,You earned a new badge to spend for Keeper's Guild Rewards.
+upgrades.drill1.desc,เพิ่มความแรงของสว่านเพื่อการขุดที่เร็วขึ้น
+level.corruptionchoice.title,PICK A CORRUPTION!
+properties.artillery.grenadedamage,Shell Damage {}
+level.gameover.continue,โหลดเกม
+options.game.spheresnapping,Snap Sphere Aim to Cardinal Directions
+options.input.gamepad.gamepadstickdeadzone.motiondetected,ตรวจจับความเคลื่อนไหว
+upgrades.autocannonautonomy.title,อัตโนมัติ
+reward.rewardkeeper4skin3.title,Beastmaster Skin
+upgrades.prestige.title,เกียรติยศ
+upgrades.keeper3shurikenstrength1.title,Strong Shuriken
+upgrades.spiresplit2.desc,Split projectiles are faster and more plentiful.
+upgrades.swordlargeblade1.desc,เพิ่มความกว้างและความยาวของดาบเพื่อทำความเสียหายมากขึ้น
+upgrades.droneyardbattlegridlong1.title,Long Lasting Drones
+properties.stunlaser.speed,ความเร็ว {}
+upgrades.repellentbattleslowdownstun2.desc,สปอร์อยู่นานขึ้นเเละสตันมอนสเตอร์นานขึ้น
+upgrades.drillsidespeed1.desc,Speed up the side drillers.
+level.tutorial.ninja.bombs.desc1,Hold| to shoot kunai for mining in the direction you are aiming with your %s.
+loadout.mode.maze.desc,แผนที่เปลี่ยนเป็นเขาวงกตที่เต็มไปด้วยเส้นทางอันคดเคี้ยว และ ทางตัน
+upgrades.domesupplementprojectiledamagereduction2.desc,Further improve the deflection to receive even less projectile damage.
+level.tutorial.ninja.bombs.desc2,Kunai will bounce when hitting a wall at a steep angle.
+upgrades.domesupplementmeleedamagereduction1.desc,Harden the dome's hull to take less damage from monsters melee hits. Projectile damage is unaffected.
+upgrades.chainsawautonomy.title,อัตโนมัติ
+options.input.gamepad.gamepadstickdeadzone,Thumbstick Dead Zone
+upgrades.teslapower3.desc,Improve the power of the tesla's shot.
+level.tutorial.artillery.panel1header,Mortar
+upgrades.keeper4punch3.title,Frenzy 3
+upgrades.furnaceslowdown.title,Numbing Fumes
+upgrades.teslaspeed1.desc,The aiming reticle moves faster.
+upgrades.teslaquickshot2.desc,The quick shot is much stronger.
+level.tutorial.repair.findcobalt,"ลองค้นหาโคบอล์ท เพื่อใช้ซ่อมแซมโดม
+โคบอล์ทหายากและมีน้อย"
+title.navbar.newgame,เริ่มเกม
+options.keybindings.action.dome.battle,โหมดต่อสู้
+upgrades.keeper2pinballsplit.title,แยกบอล
+properties.keeper2.bundlecentralmarker,Center Column Marker
+options.keybindings.gamepad.switch,คอนโทรลเลอร์
+options.video.stretchmode.rezised.text,"เรนเดอร์เกมด้วยความคมชัดดั้งเดิมของหน้าจอ
+ภาพที่ได้จะคมมากขึ้น แต่อาจจะมีข้อผิดพลาดเกิดเส้นขนาด 1 พิกเซลขึ้นได้"
+options.audio,เสียง
+upgrades.domehealthmeter.desc,แสดงค่าพลังชีวิตโดม
+upgrades.shieldbattlereflectshortuses.title,เพิ่มเวลาสะท้อน
+loadout.zoom1,Near
+loadout.zoom2,Far
+upgrades.orchardovercharge.title,โอเวอร์ชาร์จเร่งโต
+upgrades.keeperonewayteleporter.desc,Gain a personal one way teleporter. Place a one-use portal anywhere and teleport back to it whenever you want.
+options.input.controls.gamepadusage.switch,Controller Usage
+properties.orchard.battleroots,Grow Roots on the Ground {}
+upgrades.mushroomfarm.desc,Grow mushrooms in your cellar that can be planted inside the mine to get speed and mining buffs.
+keybindings.reset.title.ps5,Button Bindings Reset
+multiplayer.continue.deviceselection.cancel,ยกเลิกการเลือก
+loadout.hint.selection,Press|to choose an option.
+upgrades.orchardbattleshieldsecondlayer.title,Double Layer Canopy
+properties.artillery.grenades,Shells {}
+upgrades.drill3.title,ความแรงสว่าน 3
+assignment.weakcarry.title,Logistical Problem
+upgrades.shockwavestun1.title,Shockwave Stun 1
+upgrades.domesupplementprojectiledamagereduction1.title,Dome Hull Deflection
+properties.keeper3.maxjumps,{} กระโดด
+upgrades.converterefficientcobalt.desc,Improve the conversion to be more efficient.
+properties.furnace.waterdelay,Water Delay {}s
+gadget.slot.keepersupplement,Keeper Supplement
+upgrades.keeper4ramping2.title,Momentum 2
+upgrades.orchardduration1.title,ระยะเวลา 1
+upgrades.domesupplementprojectiledamagereduction2.title,Improved Deflection
+loadout.pet,สัตว์เลี้ยง
+reward.rewarddomesupplements.desc,Discover extremely strong supplement upgrades for your dome.
+properties.prestige.score,{} แต้มเกียรติยศ
+properties.keeper3.kunaicooldown,Kunai Cooldown {}s
+properties.stunlaser.stunarea,Stun Area {}
+upgrades.blastminingblast2.desc,เพิ่มความรุนแรงระเบิดอย่างมาก
+reward.rewardrerolloffers2.title,Water Reroll
+upgrades.artillerysplash1.title,Volatile Explosives 1
+upgrades.drillwidetunnel.title,Wide Tunnel
+modding.modio.ugcterms.title,User Generated Content Terms of Use
+options.input.controls.keepersettings.title,Keeper Input Settings
+options.keybindings.action.keeper.gravitycollect,เก็บ
+upgrades.domearmorhealth1.desc,"Increase the durability of the armor, giving the dome more health."
+reward.rewardgadgetsupplements.desc,Discover extremely strong supplement upgrades for your gadgets.
+properties.laser.movespeedmod,เพิ่มความเร็วในการหันเลเซอร์ {.percent}
+upgrades.domeresourcecounters.title,การจัดการช่องสัมภาระ
+level.tutorial.tesla.panel2header,Shooting
+upgrades.jetpackstrength2.desc,ปรับปรุงไอพ่นให้บรรทุกของได้เพิ่มขึ้น
+upgrades.teslapower4.title,Shot Power 4
+properties.repellent.battleuses,จำนวนครั้งต่อการจู่โจม {}
+loadout.gadget.additional.unlock,"There are gadgets you have not unlocked yet. To unlock a gadget, win any run after finding the gadget inside the mine and installing it into the dome."
+properties.laser.hitprojectiles,เลเซอร์ทำลายการโจมตีของศัตรู
+properties.keeper2.minspeed,Minimum Speed {.percent}
+properties.laser.dpsmod,เพิ่มดาเมจของเลเซอร์ {.percent}
+properties.prospectionmeter.scandelay,Scan Delay {}s
+level.tutorial.artillery.panel1content2,"The longer you hold, the farther the shell will fly."
+level.tutorial.artillery.panel1content1,Hold|to charge the mortar and then release to fire.
+level.gameover.saveimages,Save
+options.accessibility.fontsize.medium,ปานกลาง
+upgrades.teslaautoaim.title,เล็งอัตโนมัติ
+upgrades.orchardduration1.desc,ระยะเวลาบัพของผลไม้อยู่นานขึ้น
+options.title,การตั้งค่า
+upgrades.probedetectchambers.desc,The probe now also detects chambers like the gadget chamber.
+upgrades.dome1.desc,โดมทำเหมืองมาตรฐาน มาพร้อมกับเลเซอร์ที่ทรงประสิทธิภาพและแม่นยำ
+upgrades.repellentbattlestrongerslowdown1.desc,พ่นหมอกให้มอนสเตอร์ช้าลงมากขึ้นและนานขึ้น
+upgrades.resourcepacker.desc,"Install a resource packer into your suit which can pack and compress multiple resources into a bundle, making them easier to transport."
+properties.keeper4.goblinextraresourcechance,Additional Resource Chance {.percent}
+properties.orchard.speedbuff,บัพเพิ่มความเร็ว {}
+keybindings.reset.explanation.xbox,Your Button Bindings have been reset due to a recent update which made significant changes to the input scheme. Sorry for the inconvenience!
+upgrades.keeper2rotationalmining2.title,Compression Mining 2
+upgrades.keeper3rocketcarrier.desc,Replace Kunai carriers with rocket-powered versions that travel in a straight line until impact.
+properties.blastmining.damage,ดาเมจ {}
+options.video.renderscale,Render Scale
+modding.profile.title,เลือกโปรไฟล์
+options.keybindings.action.general.left,ซ้าย
+properties.versus.multiplicativeewave,Increased Wave Strength (other team) {.percent}
+level.tutorial.drillbot.sleeping1,ดริลเบริทจะหลับเมื่อเวลาผ่านไป หรือ เมื่อเจอกับกำแพงที่ขุดไม่ได้
+level.tutorial.drillbot.sleeping2,เมื่ออยู่ใกล้ๆ กด | เพื่อปลุก
+upgrades.laserstrength4.desc,"Massively improve the power of your laser, but it barely moves while firing."
+upgrades.orchardovercharge2.title,Improved Overcharge
+level.tutorial.drillbot.sleeping3,กด | เพื่อเปลี่ยนทิศการขุดในขณะที่ดริลเบริทตื่น
+modding.prestigeforbidden,ไม่สามารถเริ่ม โหมดเกียรติยศ ด้วยม็อดเหล่านี้ได้
+upgrades.laser.title,เลเซอร์
+upgrades.domesupplementelectrifiedsurface1.title,Electrified Hull 1
+pause.quitgame,ออกจากเกม
+upgrades.swordlargeblade3.desc,ติดตั้งดาบยักษ์ ทำความเสียหายได้มหาศาล แต่ต้องแลกกับความเร็วที่ช้าลง
+upgrades.relichunt.desc,ค้นหาโบราณวัตถุที่ถูกฝังลึกใต้ดินและนำกลับไปยังโดมของคุณ
+properties.shockwave.cooldown,คูลดาวน์ {} วินาที
+upgrades.repellentdelay2.desc,ยืดเวลาของการจู่โจมถัดไปให้นานขึ้น
+savegame.corrupted.desc,"Your last save file is corrupted, possibly due to a system crash during saving. Reverting to the previous save."
+multiplayer.host.online,ออนไลน์
+keybindings.reset.doreset.switch,Reset my Button bindings
+loadout.secondstage.cancel,ยกเลิก
+upgrades.keeper4catgoblindig2.title,Efficient Digging
+upgrades.furnacewaterfiring.desc,Burn water in the furnace for an additional delay to monster attacks.
+upgrades.shockwavedamage2.title,Shockwave Damage 2
+upgrades.proberange1.desc,Increase the range of the probe.
+pause.options,การตั้งค่า
+keeperdlc.load.missing.switch,"Cannot load save, it contains unavailable downloadable content. Please ensure 'The Lost Keepers' downloadable content is available."
+pause.gamepadcontrols.drop,วาง
+upgrades.assignmentsemergencycontribution3.title,Emergency Contribution 7
+options.game.shootbundlebeforegadgets,Shoot the Resource Bundle before Gadgets
+options.video,วิดีโอ
+upgrades.blastmining.title,ทุ่นระเบิด
+modding.modio.subscriptions,Show Mod.IO Subscriptions
+level.gameover.proceedtounlock,ปลดล๊อคทรัพยากรใหม่!
+upgrades.prospectionmeter.desc,A meter that shows the distance to the nearest resources.
+properties.keeper2.spherereload,รีโหลดบอลพลังงาน {}วินาที
+options.keybindings.apply,ใช้
+upgrades.teslaquickshot.desc,"After shooting a charged shot, you can fire a single weaker shot by tapping the shoot button."
+level.tutorial.tesla.panel1header,Reticle Movement
+upgrades.tesla.title,Tesla
+properties.tesla.persistance,Electro Orb Lifetime {}s
+upgrades.repellentbattleslowdownstun1.title,อัมพาต
+upgrades.probelongmarker1.title,Marker Memory
+modding.modio.tokenerror,Connection to token provider failed!
+upgrades.stationextensionupgrades.title,Remote Upgrades
+upgrades.prestigewater.desc,Send back water. Increases how many prestige points you get after each wave.
+upgrades.artillerydirecthit2.desc,Increase the destructive potential of your mortar shells.
+upgrades.mushroomfarmquickgrowth.desc,Mushrooms grow more quickly in the cellar.
+network.error.notsignedin.ps5,Sign in to PlayStation™Network to access online features
+options.input.controls.keybindings.ps5,Button Bindings
+multiplayer.error.clientcrossplaydisabled,Enabling crossplay is required to join this lobby.
+upgrades.keeper3carrylimit2.desc,Increase the number of resources you can haul on your Kunai carrier.
+level.supplementchoice.reroll, Reroll
+upgrades.orchardbattlerootingexplosion.desc,เปิดใช้งานอีกครั้งเพื่อระเบิดมอนสเตอร์ที่ติดกับดัก ระเบิดทำความเสียหายบริเวณใกล้เคียงด้วย
+upgrades.rocketlauncherrestock.desc,The missile silo will restock all missiles some time after being emptied.
+upgrades.droneyardbattlegridquick2.title,Instant Drones
+assignment.denseiron.title,Dense Iron
+options.input.controls.gamepadusage.xbox,Controller Usage
+level.tutorial.ninja.bombs,Kunai
+upgrades.domearmorhealth2.desc,"Increase the durability of the armor, giving the dome more health."
+loadout.title,Loadout
+multiplayer.continue.deviceselection.team,ทีม
+properties.keeper3.kunaiweaknessagainsthardrock,Kunai Weakness Against Hard Rock {.percent}
+level.tutorial.repellent.popup_2.switch,"When close to it, press | to activate it."
+upgrades.chainsawdamage3.desc,Increase how much damage the buzz saw does to monsters.
+level.tutorial.artillery.panel3content1,"The mortar shells have an area of effect, but direct hits deal more damage. They can't damage the dome."
+level.gameover.unlock.regulargadget,New Gadget unlocked for Assignments!
+options.keybindings.gamepad.xbox,คอนโทรลเลอร์
+options.input.gamepad.thumbstick.switch,Stick
+upgrades.artilleryshotstun.title,Deafening Blast
+upgrades.assignments.title,Guild Assignment
+upgrades.rocketlauncherrockets1.desc,Increase the amount of missiles you can fire.
+level.tutorial.assessor.bundleguide.desc1,You can now guide stationary bundles.
+level.tutorial.assessor.mining,Compression Mining
+level.tutorial.assessor.bundleguide.desc3,"It will follow you, if you are close to it."
+level.gameover.win.team,TEAM %s WON
+level.tutorial.assessor.bundleguide.desc2,Hit|without pressing a direction to place a stationary bundle.
+options.video.graphicsmode.window,โหมดย่อขนาดหน้าต่าง
+upgrades.artillerymachinegun1.desc,Improve your anti-air gun to fire faster. Also comes with a laser sight for better aim.
+upgrades.droneyardovercharge1.desc,Temporarily overcharge the droneyard with water to produce more drones in the next battle.
+modding.title,ม็อด
+assignment.treefarm.title,Tree Farm
+level.gameover.prestige.score.personalbest,คุณทำคะแนนสูงกว่าครั้งก่อน!
+level.gameover.unlock.world,ปลดล็อคโลกใหม่!
+assignment.chosen.todo,No assignment chosen
+options.keybindings.action.dome.battleability1,สกิลต่อสู้ 1
+loadout.versusmod.versusmodifierwindingmap.desc,The map is slightly labyrinthian.
+reward.rewardweaponsupplements.title,Weapon Supplements
+upgrades.laserstrength2.title,เพิ่มพลัง 2
+upgrades.keeper2movement1.desc,เพิ่มประสิทธิภาพของเครื่องกำเนิดแรงโน้มถ่วงเพื่อคลื่อนที่อย่างรวดเร็ว
+options.keybindings.action.dome.battleability2,สกิลต่อสู้ 2
+upgrades.domesecondweapon.desc,Install a new weapon that is controlled by the second station located in the second cellar layer.
+upgrades.resourcepackerquickcharge.desc,Increase how fast the packing charges regenerate.
+upgrades.laserstrength2.desc,เพิ่มพลังของเลเซอร์อย่างมาก แต่จะเคลื่อนที่ช้าลงขณะยิง
+upgrades.autocannonimproved.title,Improved Auto Cannon
+upgrades.keeper3kunaicooldown1.desc,Throw Kunais more quickly.
+upgrades.keeper2pinballsplit2.desc,Increase the overall lifetime of split kinetic spheres.
+upgrades.swordreflection1.title,สะท้อน 1
+level.tutorial.ninja.drop.desc1.switch,Press| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.suitblasterradius2.desc,Increase the blast radius.
+options.game.dropresourcesbeforegadgets,Drop Resources before Gadgets
+options.translation.community.crowdin,Dome Keeper Translation Project on Crowdin
+loadout.hint.playerlimitprestige,"Start Run
+
+Scores are not uploaded when playing Prestige with 3+ players."
+upgrades.assignmentsemergencycontribution1.title,Emergency Contribution 2
+upgrades.shockwavedamage2.desc,Increase the damage the shockwave inflicts.
+options.input.gamepad.autoswitch.xbox,Automatic Detection of Preferred Controller
+loadout.versusmod.versusmodifierlittlecobalt.desc,The map contains minimal cobalt deposits.
+upgrades.keeper1.title,วิศวกร
+level.furnace.popup.title,Fuel the Furnace
+upgrades.prospectionmeterrange2.title,เพิ่มระยะ 2
+pause.discord,เข้าร่วม Discord
+upgrades.lasermove1.title,ความเร็วเลเซอร์ 1
+options.input.controls.mouse.gamepad.switch,Switching to a Controller and back is automatically detected
+upgrades.jetpackspeed3.title,ความเร็ว 3
+upgrades.chainsawautonomy.desc,The buzz saw defends your dome even when you are not inside the control station.
+properties.extractor.buildcycles,Worm Production (Cycles) {}
+upgrades.stunlaserstun2.desc,"Increase the power of the stun beam, heavily affecting even the strongest monsters."
+upgrades.teleporter.desc,A two-way teleporter connects a station in the cellar with a movable portal.
+upgrades.droneyarddrones.title,โดรนขนส่ง
+level.tutorial.assessor.spheres.desc1.aiming.switch,Press| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+upgrades.liftspeed1.desc,ลูกแก้วเคลื่อนที่เร็วขึ้น
+properties.prestige.provokedwavestrength,อัตราการดึงดูดมอนส์เตอร์ {.percent}
+upgrades.artillery.desc,A combination of a large mortar shooting massive explosive shells and a fast firing anti-air gun.
+upgrades.shredgadgettocobalt.title,ทดแทนด้วยโคบอล์ท
+level.gameover.stats.distancetravelled,ระยะทางเคลื่อนที่ไป
+loadout.mode,Game Mode
+loadout.difficult.easier,ง่ายขึ้น
+upgrades.domearmorhealth1.title,Armor Durability 1
+options.game.playernamesinmultiplayer,แสดงชื่อผู้เล่นในโมหดผู้เล่นหลายคน
+properties.sword.slicedamage,ดาเมจการฟันดาบ {} 
+options.keybindings.action.general,ทั่วไป
+upgrades.keeper4punch2.desc,Increase your mining strength and maximum mining speed.
+upgrades.keeper4catgoblinsleeptime.title,Caffeine Pills
+upgrades.liftcapacity1.title,เพิ่มความจุ
+upgrades.drillbotbuffguidance.desc,Show the direction towards Drillbert when carrying a treat.
+loadout.versusmod.versusmodifierscatterediron.desc,"Iron deposits are small and scattered, but plentiful."
+upgrades.proberange3.title,Very Long Range
+upgrades.sword.desc,ดาบอันทรงพลังสามารถทำความเสียหายได้มากขึ้นด้วยระยะการแกว่งดาบที่กว้างขึ้นด้วยการเลื่อนดาบไปตามพื้นผิวของโดม สามารถยิงดาบออกไปเพื่อแทงมอนสเตอร์ที่เข้ามา และบริเวณฐานของดาบเป็นโล่ที่ปัดป้องความเสียหายจากการโจมตีระยะไกลของมอนสเตอร์
+properties.rocketlauncher.rockets,Rockets {}
+keybindings.reset.explanation,Your Key Bindings have been reset due to a recent update which made significant changes to the input scheme. Sorry for the inconvenience!
+upgrades.shield.desc,ติดตั้งเกราะป้องกันให้กับโดมเพื่อดูดซับความเสียหาย และรีชาร์จโดยอัตโนมัติ
+multiplayer.error.lobbyfull,ล็อบบี้เต็ม
+upgrades.keeper3kunaibounce1.title,Trajectory Assist
+loadout.team.selection,Join %s
+level.tutorial.sworddome.slicing.desc,แกว่งดาบเร็วขึ้น ทำดาเมจได้มากขึ้น
+properties.drill.sidetimepertile,Side Driller Time per Tile {}s
+upgrades.suitblasterradius1.title,รัศมีการระเบิด 1
+upgrades.resourcepackerquickcharge.title,Quick Charge
+versus.corruptionmonsterdamage.desc,"The monsters will do much more damage, projectiles included."
+properties.dome.autohealamount,ซ่อมแซมพลังชีวิต {} หน่วย
+loadout.team,Team %s
+options.keybindings.action.general.down,ลง
+properties.suitblaster.radius,Blast Radius (Tiles) {}
+level.tutorial.fullscreen.continue,เล่นต่อ
+level.tutorial.suitblaster.popup_1.switch,"Press | to fire the suit blaster, destroying rock in a radius around you."
+upgrades.resourcepackercount2.title,Bundle Size 2
+properties.sword.extendspeed,เพิ่มความเร็ว {} 
+upgrades.autocannondamage1.title,Heavy Bullets
+properties.sword.aimline,คาดคะเนการยิง
+options.translation.community,เสร็จไปแล้ว {completion}%
+properties.spire.stuntrapabsorption,Damage Absorption {.percent}
+upgrades.keeper4speed2.desc,Further increases movement speed.
+upgrades.keeper4ramping4.title,Momentum 4
+upgrades.orchard.desc,ปลูกต้นไม้ในโดมจะออกผลไม้ที่เสริมประสิทธิภาพในการเคลื่อนที่และการขุด
+pause.restart.popup,"Are you sure you want to restart your run?
+Press again to confirm."
+multiplayer.error.versionmismatch,Your game version does not match the host. Host version: {}
+assignment.condition.freegadget.plural,Two additional starter gadgets
+upgrades.artillerydirecthit1.title,Monster Buster 1
+options.input.controls.mouse,เมาส์
+upgrades.keeper4catgoblindig1.desc,Catgoblins will dig out resources without destroying tiles.
+reward.rewardpet11.title,Water Deer Pet
+upgrades.artillerymachinegun2.title,Fast Fire 1
+upgrades.teslaorbs.title,Electro Orb
+properties.keeper2.spherespeed,Sphere Speed {}
+properties.artillery.machinegunpenetration,Bullet Penetration {}
+level.station.upgrademenu.cost,ราคา
+keeperdlc.load.missing,"Cannot load save, it contains unavailable dlc content. Please ensure 'The Lost Keepers' dlc is available."
+upgrades.drillbotstrength1.desc,เพิ่มพลังขุดของดริลเบริท
+properties.resourcepacker.rechargetime,Recharge Duration {}s
+level.converter.popup.queue.block,This conversion is currently processing and will finish in {time} seconds.
+properties.keeper2.maxspeed,ความเร็วสูงสุด {}
+level.converter.popup.conversion.to,เป็น
+upgrades.blastminingblast2.title,ระเบิด 2
+upgrades.suitblasterspeed1.desc,Improve how quickly the suit charges a blast.
+options.audio.music.ost.mode.adaptive.desc,"When playing with a Keeper, only their respective soundtrack will play."
+title.navbar.updates,อัปเดต
+upgrades.orchardbattlerooting.title,กับดักรากไม้
+options.keybindings.action,การกระทำ
+upgrades.keeper4flexible3.title,Agility 3
+unlock.buy.keeperdlc,Unlocked by the DLC '%s'.
+upgrades.keeper4flexible2.desc,Increase your mining strength and your initial mining speed.
+loadout.prestige.countdown,นับถอยหลัง
+assignment.weakcarry.desc,"The keeper's transportation tools cannot be upgraded, so you will need to rely on gadgets for transportation."
+upgrades.liftcarrykeeper2.title,ลิฟต์ผู้พิทักษ์ 2
+upgrades.domewavecount.desc,ติดตั้งตัวนับรอบ เพื่อแสดงจำนวนรอบที่คุณรอดชีวิต
+loadout.gadget.additional,แกดเจ็ตเพิ่มเติม
+upgrades.prestigewatermultiplier.title,ส่ง น้ำ
+upgrades.condenser.title,เครื่องกลั่น
+loadout.prestige.pro.supplementorder,Supplement Order
+assignment.goaltype.delivery.failed,"Your goal was to '{goal}', but you delivered {amount}."
+options.input.gamepad.ps5,คอนโทรลเลอร์ไร้สาย
+assignment.condition.duration,Finish within %d cycles
+options.game.hideactionhint,Hide Action Hints Outside Dome
+options.video.graphicsmode,โหมดหน้าจอ
+level.tutorial.assessor.carry.desc1_1.ps5,"Once locked onto you, they will follow you even if you release the collect button."
+assignment.goaltype.relic,Retrieve the relic
+upgrades.stationextensionminimap.desc,Show a minimap of the mine whenever you enter the mobile station. The minimap shows the discovered area and some tiles deep into the rock.
+assignment.ironcontribution.title,Iron Contribution
+properties.keeper4.speedupretention,Speedup Retention {.percent}
+loadout.prestige.description,Send resources off-world to gain prestige amongst the Keepers Guild.
+upgrades.keeper3.title,Infiltrator
+properties.shield.battleactivateondepletion,เปิดใช้สกิลเมื่อเกราะหมดลง
+upgrades.jetpackspeed2.title,ความเร็ว 2
+properties.dome.maxhealth,Health Capacity {} HP
+upgrades.drillbotstrength1.title,เพิ่มพลังขุด 1
+properties.artillery.grenadereloadspeed,Shell Reload Speed {}s
+properties.tesla.perfecttimingmultiplier,Shot Multiplier {.percent}
+upgrades.orchardbattleshieldstrong.desc,The vine canopy gets stronger.
+loadout.difficulty.easy.description,ลองดูซิ! มันก็ไม่ได้ยากขนาดนั้น
+upgrades.drillsidespeed1.title,Drill Speed 1
+loadout.prestige.miner,นักขุด
+upgrades.keeper4catgoblindig2.desc,Catgoblins dig faster.
+upgrades.spireburst.title,Burst Fire
+options.input.vibration.strength.ps5,ระดับการสั่น
+upgrades.swordexplosivereflection.desc,สะท้อนการโจมตีของศัตรูกลับไปเมื่อโดนศัตรูจะระเบิดออก
+level.tutorial.drillbot.handling2.switch,Press | to make it change direction while on the ground.
+loadout.mapsize.large.description,แผนที่ขนาดใหญ่ ประมาณหนึ่งชั่วโมงต่อรอบ
+upgrades.artillerymachinegunhoming2.desc,Use more powerful rockets.
+upgrades.keeper3quadjump.title,Multi Jump
+properties.artillery.grenadesexplosionradius,Shell Explosion Radius {}
+upgrades.proberange2.desc,Increase the range of the probe.
+properties.drillbot.buffextraamount,เพิ่มพลังขุด {} หน่วย
+versus.corruptionbigwave.desc,The next monster wave will be enormous.
+level.tutorial.artillery.panel2content1,Hold|to fire your anti air gun.
+level.tutorial.artillery.panel2content2,It's great against flying enemies.
+upgrades.drillwidetunnel.desc,Install two additional downward drills to make a wide tunnel.
+upgrades.keeper2pinballdamage4.desc,Improve your kinetic spheres.
+level.gameover.unlock.difficulty,ปลดล็อคระดับความยากใหม่!
+loadout.prestige.fairness.headline,Fair Competition
+upgrades.prestigeprovoke.desc,Increase the strength of all future monster waves to gain more prestige.
+options.audio.volumes.soundvolume,เสียง
+multiplayer.continue.deviceselection.keeper,ผู้พิทักษ์
+upgrades.teslaspeed2.desc,The aiming reticle moves faster.
+upgrades.artillerymachinegun2.desc,Improve your anti-air gun to fire faster.
+properties.spire.splitadditionalprojectiles,Additional Split Projectiles {.percent}
+upgrades.artillery.title,ปืนใหญ่
+level.tutorial.assessor.bundle.desc1,Hit|while carrying resources to shoot a bundle.
+properties.orchard.battleabilityduration,ระยะเวลาสกิล {} วินาที
+loadout.zoom,Camera Zoom
+level.tutorial.assessor.bundle.desc2,It will fly in the direction you aim until it dissolves.
+options.keybindings.rebinding.inputprocessor.switch,Press a new Button for this action…
+properties.converter.irontoiron,1 Iron to {} Iron
+options.cancel,ยกเลิก
+upgrades.keeper1powerdrill.title,Power Drill
+assignment.emergency.desc,The Keeper's Guild is in danger and needs emergency contributions. Send them quickly!
+multiplayer.host.crossplay.disabled,Crossplay Disabled
+properties.upgrade.gameover,สิ้นสุด
+loadout.mode.secondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+telemetry.allow,Enable online services
+options.accessibility.vignette,Disable Vignette
+options.game.tutorials,โหมดฝึกสอน
+properties.dome.autorepair,การซ่อมโดมอัตโนมัติ
+upgrades.swordreflection3.title,สะท้อน 3
+upgrades.drillsidepull.desc,Mined resources will be moved along the side drillers towards the center.
+upgrades.keeper2movement4.title,Full Torque
+upgrades.shockwavestun1.desc,Increase the stun capability of the shockwave.
+assignment.condition.freegadget.singular,One additional starter gadget
+title.message.close,ปิด
+reward.rewardfreerolls2.title,Additional Reroll Offers
+upgrades.orchardbattleshieldstrong.title,Durable Canopy
+upgrades.spirecapacity.title,เพิ่มความจุ
+upgrades.keeper2.title,ผู้คุมแรงโน้มถ่วง
+upgrades.keeper2movement2.title,การลอยตัว 2
+upgrades.furnacestrongironfiring.desc,Increase the effectiveness of burning iron in delaying monsters.
+upgrades.keeper2pinballdamage3.title,Kinetic Spheres 3
+upgrades.autocannondamage1.desc,Increase the bullet size for more damage.
+loadout.versusmod.versusmodifiermanycaverns.desc,The mine has many natural caves.
+options.game.other,อื่น ๆ
+upgrades.drillsidespeed2.title,Drill Speed 2
+upgrades.mushroomfarmdrill2.desc,Improve the mining buff obtained from consuming mushrooms.
+properties.autocannon.speed,Movement Speed {}
+upgrades.keeper4flexible1.desc,"A flexible mining style that starts with moderate speed, but has lower peak strength."
+title.navbar.credits.close,ปิด
+level.furnace.popup.fuel.stack,Current stack:
+upgrades.drillbotstrength3.title,เพิ่มพลังขุด 3
+upgrades.domesupplementresurrection2.title,อีกครั้ง
+upgrades.artilleryprojectileerasure.desc,The explosions from your mortar dissolve all projectiles within the blast radius.
+level.gameover.assignment.completed,Congratulations! You completed the assignment successfully. The Keeper's Guild acknowledges your efforts.
+properties.tesla.radius,Shot Radius {}
+properties.keeper2.bundlespeed,Bundle Speed {}
+keybindings.reset.show,ขอลองดูก่อน
+options.input.controls.gamepadusage,Gamepad Usage
+assignment.maze.title,เขาวงกต
+upgrades.blastminingstickycharge.desc,Charges stick to the first wall they touch and blast a tunnel instead of a circular explosion.
+properties.prestige.baseperwave,{} แต้มเกียรติยศพื้นฐานต่อรอบ
+level.gameover.mineview,Show Mine
+unlock.mapsize.medium,Win a run on a small map to unlock.
+upgrades.teslanurture.desc,Strengthen an existing electro orb by shooting it again. The orb will grow in size and will persist for longer.
+upgrades.jetpackspeed1.desc,ปรับปรุงไอพ่นให้เคลื่อนที่เร็วขึ้น
+upgrades.domearmormelee1.desc,Decrease how much damage the dome takes from melee attacks.
+loadout.prestige.friend.mode,Friendly Mode
+upgrades.domearmorhealth2.title,Armor Durability 2
+properties.artillery.machinegundamage,Bullet Damage {}
+upgrades.swordextendlong2.title,แทงไกล 2
+upgrades.lasermove2.title,ความเร็วเลเซอร์ 2
+upgrades.drillbotstrength2.title,เพิ่มพลังขุด 2
+properties.keeper3.slidecontrol,{.percent} Slide Control
+reward.rewardpet11.desc,Unlock the water deer as a pet for your dome.
+properties.tesla.nurture,Orb Nurturing
+properties.lift.speed,ความเร็วลูกแก้ว {}
+upgrades.lasermove2.desc,เลเซอร์เคลื่อนที่เร็วมากขึ้น
+loadout.mode.longtime,เพิ่มเวลาต่อรอบ
+options.accessibility.highlightmonsters,ไฮไลท์มอนส์เตอร์
+upgrades.furnacebasedelay.desc,Enhance the smoke's dazing effect for a greater baseline delay.
+upgrades.doublelaser.desc,ติดตั้งป้อมปืนเลเซอร์อันที่สอง แต่แบ่งพลังการยิงของคุณระหว่างทั้งสอง
+properties.converter.ironwatertime,Iron to Water Conversion Time (Cycles) {}
+options.keybindings.rebinding.inputprocessor.xbox,Press a new Button for this action…
+title.message.title,ประกาศ
+upgrades.jetpackspeed4.title,ความเร็ว 4
+upgrades.drill2.desc,เพิ่มความแรงของสว่านเพื่อการขุดที่เร็วขึ้น
+upgrades.extractorresources2.title,Meticulous Worms
+unlock.buy.keeperdlc.switch,Unlocked by downloadable content '%s'.
+level.tutorial.assessor.split.desc1,Hit|to split an incoming sphere.
+upgrades.keeper2pinballdamage1.desc,Increase the reload time to improve the power of the kinetic spheres.
+upgrades.teleporterteleportduration2.desc,วาร์ปตัวคุณได้อย่างรวดเร็ว
+level.tutorial.assessor.split.desc2,"You can split the spheres again, but they become a bit weaker each time."
+options.accessibility.backgrounds,Simple Backgrounds
+assignment.weakwalls.desc,"The corrosive atmosphere of this planet is lethal for your dome and the monsters, making both take more damage."
+multiplayer.error.disconnected,หลุดการเชื่อมต่อจากโฮสต์
+properties.autocannon.timebetweenshots,Time Between Shots {}s
+upgrades.laserstrength1.desc,เพิ่มพลังของเลเซอร์ แต่จะเคลื่อนที่ช้าลงขณะยิง
+upgrades.artillerydirecthit4.desc,Fire shells specialised in ruining even the largest monsters.
+upgrades.teslapersistance3.title,Persistent Orbs 3
+level.gameover.stats.timeplayed.unit,นาที
+level.tutorial.drillbot.sleeping3.switch,You can make it turn around by pressing | when it's awake.
+upgrades.autocannonshotgun1.desc,Fire multiple projectiles that fan out.
+upgrades.probe.desc,ติดตั้งสแกนเนอร์กับชุดเมื่อเปิดใช้งานจะส่งคลื่นออกไปเพื่อหาตำแหน่งของทรัพยากรบริเวณใกล้เคียง จำเป็นต้องชาร์จใหม่อีกครั้งที่จุดชาร์จในโดม
+upgrades.droneyardparasites.desc,Release drones that attach to and weaken the strongest monsters they can find. The monster will subsequently take more damage and be continuously stunned.
+properties.stunlaser.trackingInCooldown,Track Target in Cooldown
+upgrades.domewavemeter.desc,แสดงเวลาจนกระทั่งการจู่โจมรอบถัดไปของศัตรูจะมาถึง
+properties.sword.stabexplosive,ติดระเบิดที่ปลาย
+loadout.gadget,Primary Gadget
+properties.stunlaser.areagrowthpermonster,Area Growth per Monster {}
+upgrades.swordfastreflection.title,สะท้อนกลับเร็ว
+level.tutorial.assessor.explode.desc1.switch,Press|to explode all spheres in your vicinity.
+reward.rewardkeeper3skin1.desc,Unlock a new keeper skin for the Infiltrator.
+properties.shockwave.stunstrength,ความแรงสตั้น {}
+upgrades.resourcepackercount1.title,Bundle Size 1
+reward.rewardkeepersupplements.desc,Discover extremely strong supplement upgrades for your keeper.
+upgrades.spirestuntrap3.desc,The energy trap now also stuns monsters.
+upgrades.lift.desc,ติดตั้งลิฟต์อัตโนมัติเพื่อนำทรัพยากรจากเหมืองกลับมายังโดม
+upgrades.orchard.title,พฤกษา
+pause.playerlist,รายชื่อผู้เล่น
+upgrades.keeper2bundle2.title,Bundle Guidance
+assignment.weakmining.desc,"The keeper's mining tools cannot be upgraded, so you will need to rely on gadgets for mining."
+upgrades.converter.title,เครื่องเปลี่ยนทรัพยากร
+properties.repellent.battlemonstervulnerability,Additional Damage to Monsters {.percent}
+level.gameover.revealresources,Reveal Resources
+upgrades.jetpackstrength3.desc,ปรับปรุงไอพ่นให้บรรทุกของได้เพิ่มขึ้น
+options.input.controls.touch.fliphud,Flip HUD
+properties.keeper2.bundleguide,Proximity Guidance
+upgrades.furnaceironfiring.desc,Burn iron in the furnace for an extended delay to monster attacks.
+upgrades.swordlongblade2.desc,เพิ่มความเร็วของของดาบ ทำให้สามารถเด้งกลับได้เมื่อถึงขอบ
+options.input.controls.mouse.keepers,ใช้เมาส์ในการควบคุม Keeper
+loadout.mode.domesupplements.desc,Get three times the supplements and equip the dome with three slots for them.
+reward.rewardautomatedweapons.title,Automated Weapons
+versus.corruptionmonsterhealth.desc,The monsters will have much more health.
+upgrades.keeper3slidecontrol.desc,Gain increased control while sliding along walls.
+options.keybindings.action.dome.fire,ไฟ
+options.keybindings.gamepad.xbox.view.xbox,View Button
+level.gameover.win.title,โดมปลอดภัยแล้ว
+upgrades.versusincreasewave1.title,Sabotage 1
+options.video.graphicsmode.borderlesswindow,หน้าต่างไร้ขอบ
+properties.artillery.rotationspeed,Rotation Speed {}
+upgrades.probe.title,สแกนเนอร์
+reward.rewardkeeper2skin5.desc,Unlock a new keeper skin for the Assessor.
+upgrades.artillerydirecthit4.title,Monster Buster 4
+properties.keeper4.squadcount,Squad Count {}
+upgrades.keeper3kunaicooldown3.title,A Thousand Kunai
+upgrades.prospectionmeterrange2.desc,Further increase the detection range of the prospecting meter.
+level.gameover.unlock.mapsize,ปลดล็อคขนาดแผนที่ใหม่!
+loadout.prestige.friend.desc,Play prestige on a lower difficulty and compete on separate leaderboards with friends only.
+upgrades.jetpackstrength4.title,เพิ่มน้ำหนัก 4
+options.input.controls.virtualjoystickopacity,Virtual Joystick Opacity
+upgrades.repellentovercharge.title,โอเวอร์ชาร์จสารขับไล่
+upgrades.suitblastermaxcharge.desc,"Increase how many charges you can store in your suit. The more charges you have ready, the faster additional ones will charge."
+upgrades.stationextensiontubemovement.desc,Enter the station and quickly travel to the dome within a vacuum. Only works while moving upward.
+upgrades.domesupplementmeleedamagereduction1.title,Dome Hull Hardening
+upgrades.keeper4catgoblinsleeptime.desc,Reduces the duration of Catgoblins' naps.
+upgrades.prestigespeedup.desc,Shorten the time between waves.
+upgrades.keeper3kunaicooldown1.title,Fast Throw
+upgrades.spire.title,Spire
+multiplayer.join.sessions,เซสชัน
+options.input.controls.keybindings,ตั้งค่าปุ่มกด
+multiplayer.host.crossplay.desc.xbox,Crossplay lets you play with friends on other platforms.
+upgrades.teslaorbs.desc,Each shot leaves an electro orb that deals damage over time and stuns enemies.
+upgrades.prestigeiron.desc,Send back iron. Increases how many prestige points you get after each wave.
+properties.keeper2.explodespheres,Explode Spheres
+level.tutorial.assessor.split.desc1.switch,Press|to split an incoming sphere.
+properties.artillery.machinegunhoming,Homing Rockets
+upgrades.spirespeedup.desc,Decrease the time between shots.
+level.tutorial.drillbot.handling1,กด | ค้าง เพื่อหยิบดริลเบริท
+keybindings.reset.doreset.xbox,Reset my Button bindings
+level.tutorial.drillbot.handling2,กด | เพื่อเปลี่ยนทิศทางของดริลเบริท
+upgrades.artillerysplash1.desc,Improve your mortar to fire shells that have a large blast radius.
+upgrades.shockwave.desc,Install two hammers on the dome cupola that create intense shockwaves. Must be manually triggered.
+options.game.blocklist.unblock,Unblock
+properties.drillbot.buffamount,บัพเพิ่มความแรงการขุด {} หน่วย
+upgrades.teslaorbdamage.desc,"The orbs conduct much more electricity, dealing more damage over time."
+loadout.versusmod.versusmodifierconcentratediron.desc,Iron deposits are sparse but very large.
+upgrades.keeper4squad2.title,Large Squad
+upgrades.keeper4flexible1.title,ความว่องไว
+upgrades.swordreflection3.desc,แผ่นป้องกันใหญ่สุดๆ
+unlock.prestige.promode,Unlock by winning a run with a prestige score of at least 1000.
+loadout.mapsize.huge,ใหญ่มาก
+upgrades.artillerymachinegunhoming1.desc,Replace the bullets with smart rockets that automatically course-correct to hit monsters.
+upgrades.repellentovercharge.desc,"Use water to overcharge your repellent, improving the repellent's battle ability."
+loadout.prestige.pro.caveorder,Cave Order
+upgrades.spiresplit2.title,Fast Split
+properties.laser.bend,เลเซอร์เล็งเป้าอัตโนมัติ {}°
+modding.modio.ugcterms.link1,Terms of Use
+upgrades.drillmagnetic.title,Magnetic Casings
+assignment.condition.deliveremergency,Fulfill %d emergency deliveries
+modding.modio.ugcterms.link2,Privacy Policy
+assignment.denseiron.desc,"The iron on this planet is especially dense, making it difficult to mine."
+level.station.upgrademenu.inventory,รายการสิ่งของ
+upgrades.repellentbattleslowdownstun1.desc,สร้างหมอกเพื่อกระจายสปอร์ออกไปทำให้มอนสเตอร์มึนงงหยุดเคลื่อนที่ชั่วขณะ
+upgrades.spirestuntrap2.title,Catalyst Trap
+properties.blastmining.radius,Explosion Radius (Tiles) {}
+loadout.prestige.cobalt,โคบอล์ท คงที่
+upgrades.spireautonomy1.title,อัตโนมัติ
+upgrades.suitblastermaxcharge.title,More Charges
+upgrades.stunlaserspeed2.desc,The stun laser moves even faster and keeps tracking monsters while cooling down.
+properties.suitblaster.maxcharge,Maximum Charges {}
+upgrades.prospectionmetergadget.desc,Display the distance to the nearest chamber and improves the range significantly.
+properties.spire.rechargetime,Recharge Time {}s
+assignment.monstermasses.desc,The planet is plagued by vast amounts of low-tier monsters.
+telemetry.title.ps5,End-User License Agreement
+properties.condenser.autoovercharge,โอเวอร์ชาร์จอัตโนมัติ
+assignment.rareiron.desc,The planet contains far too little iron for a normal mining operation.
+level.converter.popup.title,แลกเปลี่ยนทรัพยากร
+upgrades.chainsaw.desc,"Install a buzz saw running along the dome cupola, dealing damage to nearby monsters."
+versus.inventory.title,Other team info
+loadout.versusmod.versusmodifiernorelics.desc,The mine has no relics.
+level.gameover.stats.wavessurvived,จำนวนรอบที่ผ่าน
+upgrades.stunlaserduration1.title,Firing Stamina 1
+upgrades.resourcepackercount1.desc,Increase how many resources can be packed into a single bundle.
+level.tutorial.teleporter.carry3.switch,"If you press |, you will teleport back."
+gadget.slot.domesurface,Dome Surface
+upgrades.converterirontocobalt.title,แปรเปลี่ยนโคบอล์ท
+options.audio.music.ost.mode.desc,Keeper แต่ละคนจะมีเส้นทางของตัวเอง คุณสามารถเลือกได้ ว่าเมื่อไรเสียงต่างๆนั้นควรจะถูกเล่น
+assignment.condition.deliversand,Deliver %d cobalt
+options.accessibility.photosensitivity.explanation,ลดแสงกระพิบ
+upgrades.keeper2bundle4.desc,The resources bundles move faster and stay together longer.
+upgrades.domesupplementmeleedamagereduction2.title,Intense Hardening
+upgrades.keeper2bundle1.title,Center Marker
+upgrades.repellentbattleslowdown.desc,พ่นหมอกระหว่างต่อสู้ให้มอนสเตอร์เคลื่อนที่ช้าลง
+options.game.splitscreenfontscale,Show larger Text in Splitscreen
+upgrades.blastminingimpactdetonation.title,ระเบิดกระแทก
+loadout.relichunt.title,Choose a Scenario
+upgrades.assignmentsemergencycontribution2.title,Emergency Contribution 4
+upgrades.stunlaserspeed1.desc,สตั้นเลเซอร์เคลื่อนที่เร็วขึ้น
+upgrades.keeper2movement2.desc,Improve your gravity generator to move even faster.
+loadout.prestige.pro.customorder,Custom order
+options.translation.community.desc.seavenplatforms,These languages are translated by our lovely community on Crowdin.
+properties.shield.battledestructionprevention,เพิ่มระยะเวลา {} วินาที
+upgrades.spirespeedup.title,Improved Cooling
+upgrades.shieldovercharge.title,โอเวอร์ชาร์จเกราะ
+level.tutorial.station.popup_4.switch,Then press | to enter battle mode and defend.
+options.keybindings.action.keeper.drop,วางของ
+options.accessibility.vignette.explanation,Disable the darkening vignette effect that appears in deeper levels of the mine.
+upgrades.keeper4speed3.title,ความเร็วเลเซอร์ 3
+,
+upgrades.extractorquickextraction.title,Quick Worms
+pause.disconnect,Drop player
+properties.map.ironadditionalhealth,Additional Iron Hardness {}
+properties.keeper2.reflectlifetime,Reflection Field Lifetime {}s
+loadout.versusmod.versusmodifiersoftrock,Soft Rock
+upgrades.repellentoverchargeduration1.title,Improved Overcharge
+upgrades.teleporterteleportitems.desc,"Teleport anything you carry with you, except for resources and large objects."
+upgrades.shieldstrength2.desc,เกราะดูดซับความเสียหายได้มากยิ่งขึ้น
+unlock.mapsize.large,Win a run on a medium map to unlock.
+upgrades.shieldoverchargestrength2.desc,โอเวอร์ชาร์จให้เกราะดูดซับความเสียหายได้เพิ่มมากยิ่งขึ้น
+properties.drill.extensionspeed,Side Extension Speed {}
+properties.orchard.growthtime,Growth Time (Cycles) {}
+upgrades.drillbotbuff1.desc,ขนมขบเคี้ยวสำหรับดริลเบริทเติบโตที่บริเวณรังด้านล่างของโดม เมื่อนำของว่างให้กับดริลเบริทจะรู้สึกสดชื่นและมีพลัง
+properties.repellent.battleslowdown,มอนสเตอร์ช้าลง {.percent}
+level.station.upgrademenu.buy,ซื้อ
+keybindings.reset.title.switch,Button Bindings Reset
+title.navbar.multiplayer.join,เข้าร่วมห้องผู้เล่นหลายคน
+multiplayer.host.crossplay.desc,"Crossplay lets you play with friends on other platforms. So for example, PC and console players can play together."
+properties.probe.range,Range (Tiles) {}
+modding.modio.connectionfailed,Connection to mod.io failed!
+properties.dome.resurrectcharges,Remaining Resurrections {}
+upgrades.mushroomstack.title,Stacked Mushrooms
+multiplayer.error.lobby.join,Failed to join the lobby.
+pause.title,หยุดชั่วคราว
+level.furnace.popup.fuel.cycles,Remaining cycles: {cycles}
+level.gameover.unlock.gamemodevariant,ตัวแปรเกมโหมดใหม่
+upgrades.keeper2movement3.title,การลอยตัว 3
+upgrades.keeper3kunaicooldown2.desc,Throw Kunais more quickly.
+upgrades.repellentbattledamageovertime.title,เชื้อราพิษ
+reward.rewardfreerolls1.title,Reroll Offers
+assignment.superhardrockwithholes.title,Swiss Cheese
+modding.restartneeded,คุณต้องรีสตาร์ทเกมเพื่อให้ mods ทำงานได้อย่างถูกต้อง
+upgrades.versusshowinventory.title,Inventory Spy
+level.tutorial.assessor.carry.desc1,กด | ค้าง เพื่อดึงทรัพยากรเข้ามาที่ตัวของคุณ
+level.tutorial.assessor.carry.desc2,Hit|to shoot them as a bundle in the direction in which you are facing.
+demo.unavailable,ไม่พร้อมใช้งานในเวอร์ชั่นทดลอง
+assignment.harmfuliron.desc,"The planet's iron is dangerously reactive, damaging your dome when shredded."
+upgrades.keeper4flexible4.title,Agility 4
+properties.dome.reducedhealth,Lost Health {} HP
+upgrades.keeper4catgoblinamount.desc,Breed more Catgoblins to help with your mission.
+properties.keeper2.spherebasedamage,ความเสียหายพื้นฐานลูกแก้ว {}
+level.gameover.showimages,Open
+properties.keeper4.maxpunchdelay,Slowest Punch {}s
+upgrades.converterironduplication.desc,Convert some iron into much more iron.
+upgrades.liftorbless.title,Gravitational Lift
+upgrades.artilleryshotstun.desc,Firing the mortar is so powerful that nearby monsters get stunned for some time.
+upgrades.keeper4squadsmarts.title,Smart Excavation
+options.video.graphicsmode.enablevsync,เปิด VSync
+upgrades.repellentdelay3.desc,ยืดเวลาของการจู่โจมถัดไปให้นานขึ้น
+properties.spire.splitshotground,360° Split
+upgrades.autocannonrateoffire3.desc,Maximize the rate of fire.
+upgrades.furnacebasedelay.title,Dazing Fumes
+properties.sword.stabcooldown,เพิ่มคูลดาวน์ {} วินาที 
+upgrades.resourcepacker.title,Resource Packer
+properties.probe.permanentrevealrock,Permanently Reveal Rock
+upgrades.prestigeprovoke.title,Provoke Monsters
+loadout.hint.teams,Each team needs at least one player!
+upgrades.proberange1.title,Medium Range
+upgrades.condenserautocollect.desc,เก็บทรัพยากรน้ำอัตโตมัติ ทำให้คุณไม่ต้องเก็บทรัพยากรเอง
+title.navbar.continue,โหลดเกม
+upgrades.drillbotbuffguidance.title,Seeking Treat
+options.video.stretchmode.rezised,ปรับขนาด
+upgrades.shieldbattlereflectspeed.desc,"Reflected projectiles fly back at a higher speed, increasing the chance of hitting the attacker."
+properties.keeper2.spherebaselifetime,Sphere Lifetime {}s
+properties.resourcepacker.packscale,Shrink Scale {.percent}
+properties.chainsaw.speed,ความเร็วในการหันเลเซอร์ {}
+properties.probe.rechargetime,Recharge Time (Cycles) {}
+upgrades.blastminingblast1.title,ระเบิด 1
+upgrades.liftcarrykeeper1.title,ลิฟต์ผู้พิทักษ์ 1
+loadout.versusmod.versusmodifierlongcycles,เพิ่มเวลาต่อรอบ
+options.keybindings.action.dome.secondary,ความสามารถรอง
+upgrades.extractor.title,Iron Worms
+level.tutorial.assessor.reflect.desc2,Incoming spheres will be reflected. It will also power them up.
+options.keybindings.keyboard,คีย์บอร์ด
+level.tutorial.assessor.reflect.desc1,Hit|to toggle a reflective field around you.
+level.tutorial.beastmaster.move,Movement
+level.gameover.automove,Automatic Camera
+upgrades.keeper4punch4.title,Frenzy 4
+properties.shockwave.damagemod,Additional Damage {.percent}
+upgrades.drillbotsleepless.desc,ดริลเบริททำงานได้นานขึ้นก่อนจะหลับ
+upgrades.keeper2pinballexplode.desc,"Detonate every sphere in your vicinity, releasing their stored kinetic energy."
+reward.rewardpermanentwavemeter.title,Permanent Hostile Proximity Meter
+upgrades.keeper3shurikencooldown1.desc,Reduces the Shuriken cooldown even further.
+upgrades.droneyard.title,สถานีเก็บโดรน
+level.gameover.unlock.promode,Prestige pro settings unlocked!
+upgrades.swordextendlong2.desc,เพิ่มความเสียหายในการแทงและระยะการบินที่ไกลมากยิ่งขึ้น
+upgrades.drillbotturnaround.desc,เมื่อดริลเบริทเดินไปชนกับกำแพงแข็งที่เจาะไม่เข้า ดริลเบริทจะเปลี่ยนทิศทางแทนการนอนหลับ
+loadout.prestige.fairness.desc,"We love to see you prestige players compete for the highest scores and find better and better strategies. We want to keep this a fair and fun competition, so it is important that everyone plays on equal terms.
+
+Please understand that your runs might be flagged as inadmissible or might get deleted, if it seems like you are using cheat tools or exploits.
+We define exploits as anything that provides you a tangible benefit in your prestige run that is not intended through normal gameplay means. This includes things like savegame editing or viewing, excessive reloading, using mods that are not whitelisted or intentional and repeated use of bugs.
+You might get permanently barred from competing on the usual leaderboards, if your run appears to have made significant use of cheats or exploits.
+
+If you are unsure about whether something is considered illegal, please ask on our Discord or via e-mail at dome@bippinbits.com. You can always appeal to us, if you got flagged wrongly.
+
+Have fun!"
+assignment.emergency.title,Emergency
+upgrades.droneyardbattlegridlong2.title,Drone Horde
+properties.orchard.battleabilityuses,จำนวนครั้งที่ใช้ได้ในการต่อสู้ {}
+loadout.difficulty.easy,ยาก
+level.tutorial.mineraltree1,"คุณพบเมล็ดต้นทรัพยากร เมล็ดนี้สามารถโตเป็นต้นไม้ใหญ่ที่หยั่งรากยึดกับพื้น เมื่อโตเต็มที่จะมอบทรัพยากรตอบแทน ทรัพยากรที่ได้ขึ้นอยู่กับทรัพยากรที่รากยึดติดไว้
+วางเมล็ดเพื่อปลูกต้นทรัพยากร"
+options.keybindings.action.keeper.pickup,ยกของ
+gadget.slot.domebackside,Dome Backside
+assignment.megacreeps.desc,This planet is roamed by the largest and strongest monsters only.
+options.keybindings.rebinding.error.gamepad.switch,Cannot set this as a Controller input.
+modding.profile.new,สร้างโปรไฟล์ใหม่
+upgrades.suitblasterspeed2.desc,Improve how quickly the suit charges a blast.
+properties.domearmor.pulsedamagethreshold,Pulse Damage Threshold {}
+options.game.autopause,หยุดเกมชั่วคราวเมื่ออยู่นอกโฟกัส
+savegame.wiped.desc,"All your save files are corrupted, possibly due to a system crash during saving. Unable to restore progress.
+Check if you can restore your save via cloud storage. Otherwise your progress is permanently lost."
+properties.shield.maxstrength,Strength {} HP
+level.tutorial.ninja.rope.desc1,Hold| to shoot your rope in the direction you are aiming with your %s.
+level.gameover.unlock.gadgetability,สกิลแกดเจ็ตต่อสู้ใหม่
+level.tutorial.ninja.rope.desc2,Hold| to jump.
+upgrades.repellent.desc,ติดตั้งถังขนาดใหญ่เพื่อผลิตสารขับไล่มอนสเตอร์ เปิดใช้งานเพื่อฉีดพ่นกระจายสารอกไปด้านนอกโดมเพื่อยืดเวลาของรอบการโจมตีถัดไป
+modding.modio.report,Report Mod
+properties.artillery.directhitdamage,Direct Hit Damage {.percent}
+upgrades.spireprojectileslowdown.title,Projectile Slowdown
+properties.keeper2.bundleduration,Bundle Lifetime {}s
+upgrades.domesandrepair.title,ซ่อมแซ่มด้วยโคบอลต์
+upgrades.assignmentsemergencycontribution3.desc,Send this package before the 7th wave ends or fail this assignment.
+upgrades.stunlaserduration3.title,Firing Stamina 3
+properties.orchard.battleshields,ชั้นเกราะป้องกัน {}
+options.video.brightness,ความสว่าง
+demo.end.misc1,The competitive prestige mode with 4 mode variations
+upgrades.droneyarddrones.desc,ผลิตโดรนเพิ่มเพื่อช่วยขนส่งทรัพยากร
+demo.end.misc3,More primary gadgets
+options.game,เกม
+loadout.mode.longtime.desc,คุณมีเวลาต่อรอบเพิ่มเป็น 2 เท่า แต่รอบการบุกจะแข็งแกร่งขึ้น
+demo.end.misc2,Many challenging assignments
+demo.end.misc5,เพิ่มจำนวนถ้ำ
+demo.end.misc4,เพิ่มขนาดแผนที่
+upgrades.orchardduration2.title,ระยะเวลา 2
+reward.rewarddomesupplements.title,Dome Supplements
+demo.end.misc6,เพิ่มจำนวนมอนสเตอร์
+upgrades.keeper2rotationalmining1.desc,Ignore rock density and mine at a constant speed.
+upgrades.droneyardbattlegridquick2.desc,"Release all drones very quickly, having them ready at the beginning of the battle."
+loadout.choices.comingsoon,ยังเปิดใช้งาน แต่ใกล้แล้ว
+properties.keeper2.splitlifetime,Split Sphere Lifetime {.percent}
+options.input.controls.mouse.sword,Use Mouse to Control Sword Dome Slice
+level.tutorial.beastmaster.goblins.desc1,Hold| to punch a hole in the back wall for your Catgoblins to enter the mine.
+upgrades.drill3.desc,เพิ่มความแรงของสว่านเพื่อการขุดที่เร็วขึ้น
+upgrades.jetpackstrength3.title,เพิ่มน้ำหนัก 3
+upgrades.laserstrength3.title,เพิ่มพลัง 3
+level.tutorial.beastmaster.goblins.desc2,They will help by collecting the resources near the hole.
+upgrades.domesupplementresurrection1.title,Dome Resurrection
+loadout.mapsize.small.description,แผนที่ขนาดเล็ก สำหรับเวลาเล่นสั้น ๆ
+upgrades.proberange2.title,เพิ่มระยะ
+reward.rewardkeeper2skin5.title,Assessor Skin
+upgrades.jetpackspeed2.desc,ปรับปรุงไอพ่นให้เคลื่อนที่เร็วขึ้น
+upgrades.artilleryrotation2.desc,Turn your mortar faster.
+upgrades.domesupplementcombatrepair3.title,Quick Combat Repair
+reward.rewardkeeper4skin3.desc,Unlock a new keeper skin for the Beastmaster.
+multiplayer.host.splitscreen.desc.ps5,Use the wireless controllers in the loadout to spawn additional keepers. Up to four keepers can share one screen. Can be combined with online multiplayer.
+upgrades.keeper2pinballdamage2.desc,Further increase the reload time for more powerful kinetic spheres.
+level.tutorial.ninja.rope,Rope
+options.keybindings.rebinding.error.keyboard,ไม่สามารถตั้งค่าปุ่มนี้บนคีย์บอร์ด.
+upgrades.domesupplementcombatrepair2.desc,"Automatic repair is stronger, restoring more structural health."
+properties.dome.baserepair,ซ่อมแซมพลังชีวิต {} หน่วย
+properties.repellent.growthtime,Production Time (Cycles) {}
+properties.keeper.domefuel,เติมเชื้อเพลิง {}
+options.accessibility.critters,ปิดการแสดงแมลง
+level.tutorial.assessor.reflect.desc1.switch,Press|to toggle a reflective field around you.
+upgrades.probelongmarker2.title,Enduring Markers
+upgrades.converterefficientwater.title,แปรเปลี่ยนน้ำดีขึ้น
+upgrades.assignmentssendcobalt.title,Deliver Cobalt
+properties.monsters.waveinterval,Time Between Waves {}s
+options.keybindings.rebinding.error.gamepad,ไม่สามารถตั้งค่าปุ่มนี้บนจอยสติ๊ก.
+options.input.gamepad.twinstick.ps5,Left and Right Stick Controls
+properties.extractor.units,Worms Produced {}
+loadout.mode.doubleiron.desc,Iron deposits are much richer.
+telemetry.title,Enable Online Multiplayer?
+multiplayer.host.local.desc,ผู้เล่นในเครือข่ายเดียวกันสามารถเข้าร่วมได้
+properties.laser.dps,ดาเมจ {}
+level.tutorial.assessor.spheres.desc1.switch,Press| to shoot a kinetic sphere in the direction in which you are facing.
+upgrades.spirecapacity.desc,Increase the number of shots that can be fired before a recharge is necessary.
+upgrades.doublelaser.title,เลเซอร์คู่
+options.keybindings.text,"แก้ไขปุ่มลัดตามที่คุณต้องการ
+ปุ่มลัด สามารถทับซ้อนกันได้โดยไม่มีปัญหา (เช่น การควบคุมผู้พิทักษ์และอาวุธโดม)"
+properties.repellent.battleabilityduration,ระยะเวลาสกิล {} วินาที
+options.input.controls.keybindings.switch,Button Bindings
+options.keybindings.gamepad.xbox.menu,Start
+upgrades.shieldstrength1.title,เสริมเกราะ 1
+properties.converter.watertoiron,1 Water to {} Iron
+upgrades.stunlaserstun2.title,Stun Strength 2
+upgrades.drillbotstrength2.desc,เพิ่มพลังขุดของดริลเบริท
+upgrades.dome1.title,Laser Dome
+options.keybindings.rebinding.error.gamepad.xbox,Cannot set this as a Controller input.
+loadout.assignment.shop,Keeper's Guild Rewards
+upgrades.orchardbattlerootingmore.desc,เพิ่มจำนวนรากไม้ให้มากขึ้นและอยู่นานขึ้น
+options.keybindings.action.general.back,ยกเลิก
+exhibition.level.instruction,กดปุ่มกดปุ่มใดก็ได้ เพื่อเล่นต่อ
+upgrades.converterefficientwater.desc,Improve the conversion to be more efficient.
+upgrades.teslapower4.desc,Improve the power of the tesla's shot.
+properties.spire.splitshot,Split Projectiles
+assignment.weakwalls.title,High Risk
+title.navbar.quit,ออกไปสู่หน้าเดสก์ท็อป
+upgrades.autocannonrateoffire1.desc,Increase the rate of fire.
+upgrades.laserstrength3.desc,เพิ่มพลังของเลเซอร์อย่างมหาศาล แต่จะเคลื่อนที่ช้าลงขณะยิง
+loadout.mode.automateddefense.desc,"Start with all defensive gadgets and gadget autonomy, but without a main weapon. Let your dome do the work!"
+level.gameover.prestige.score.rankunchanged,ระดับไม่เปลี่ยนแปลง
+properties.keeper2.directmininghardness,Rock Hardness Influence {.percent}
+level.gameover.unlock.dome,เริ่มเกมใหม่
+options.input.controls.keybindings.button.xbox,Change Button Bindings
+upgrades.keeper4autospawnminers.title,Eager Squad
+modding.modio.declined,Please accept conditions if you want to access mods
+upgrades.repellentoverchargeduration1.desc,Increase the impact of overcharging on the battle abilities.
+upgrades.assignmentsemergencycontribution5.title,Emergency Contribution 16
+upgrades.keeper2pinballdamage2.title,Kinetic Spheres 2
+upgrades.teslaspeed3.desc,The aiming reticle moves faster.
+upgrades.domesupplementmeleedamagereduction2.desc,Further harden the hull to take even less damage from melee hits.
+properties.extractor.processingtime,Extraction Duration {}s
+upgrades.keeper3.desc,A nimble keeper who moves swiftly using rope and skillful jumps. Mines by throwing explosive kunai.
+assignment.acidrain.title,Acid Rain
+upgrades.droneyardparasites3.desc,Further improve the weakening impact of your parasitic drones.
+upgrades.domesupplementelectrifiedsurface1.desc,Add a responsive electrified coat to the dome hull which hurts melee monsters.
+unlock.buy.keeperdlc.ps5,Unlocked by add-on '%s'.
+upgrades.keeper3shurikenstrength2.desc,Increase Shuriken explosion power even more.
+upgrades.teslapower3.title,Shot Power 3
+upgrades.stationextensionrevealdistance2.desc,Increase the distance in which rock and resources around the station are revealed.
+upgrades.keeper3shurikencooldown2.title,Incessant Shuriken
+properties.orchard.buffduration,Buff Duration (Cycles) {}
+loadout.prestige.provocation.description,"Provoke monsters to generate stronger waves and gain more prestige. Multiplier decreases each cycle, and the run ends if it falls below zero."
+level.tutorial.probe.popup_1,กด | เพื่อสแกน
+level.tutorial.fruit.popup_2,เมื่ออยู่ใกล้ ๆ กด | เพื่อใช้
+multiplayer.join.profile,โปรไฟล์
+level.tutorial.probe.popup_3,"เพื่อเผยตำแหน่งของทรัพยากรใกล้เคียง
+กลับไปที่สถานีเพื่อรับชาร์จ"
+level.tutorial.repellent.popup_1,สารขับไล่พร้อมแล้วที่จะชะลอรอบการบุก
+upgrades.keeper4ramping2.desc,"Increase your mining strength, peak speed, and momentum retention."
+options.game.kunaicarrierbeforegadgets,Throw Kunai Carrier before Gadgets
+properties.probe.permanentrevealresources,Permanently Reveal Resources
+upgrades.keeper2bundle4.title,Powerful Bundle
+options.audio.volumes.musicvolume,เพลง
+options.input.controls.useindividualsettings,Use individual keeper settings
+upgrades.keeper4squadsmarts.desc,Mining squads prioritize special tiles and tiles close to resources.
+upgrades.domesupplementscraprepair2.title,Restoration
+upgrades.orchardduration3.desc,ระยะเวลาบัพของผลไม้สูงสุด
+options.input.controls.touch,แตะ
+level.gameover.keepgadget.none,None
+upgrades.stunlaserautonomy1.title,อัตโนมัติ
+upgrades.swordexplosivereflection.title,ระเบิดสะท้อน
+upgrades.probelongmarker1.desc,"Improve the memory module of the probe, showing markers for much longer."
+upgrades.resourcepackercharges.desc,Increase how many packing charges you can hold within your suit.
+level.station.battle.navbar.shoot,ยิง
+upgrades.drilladditionalsides.desc,Gain more side drillers with the same functionality as the first.
+loadout.difficulty.veryeasy.description,ชิล ง่ายกว่าความยากอื่นเยอะ
+properties.stunlaser.stunstrength,ความแรงสตั้น {}
+properties.resourcepacker.packcount,Bundle Size {}
+upgrades.keeperonewayteleporter.title,One Way Teleporter
+upgrades.keeper3kunaidamage4.title,Kunai Impact
+upgrades.drill4.title,ความแรงสว่าน 4
+options.game.directionsnapping,ดูดเป้าเล็งของ Keeper ไปในทิศทางหลัก
+upgrades.artillerymachinegun3.title,Fast Fire 2
+upgrades.stunlaserspeed2.title,ความเร็ว 2
+properties.artillery.machinegunreloadspeed,Bullet Reload Speed {}s
+options.game.screenshake,ความสั่นของจอ
+upgrades.proberechargeafterbattle.desc,"The probe will recharge automatically over time, making the recharge station obsolete. Frees up the gadget slot in the cellar."
+upgrades.jetpackstrength2.title,เพิ่มน้ำหนัก 2
+loadout.versus.condition.irondelivery.title,Iron Delivery
+upgrades.teslaspeed4.desc,The aiming reticle moves faster.
+level.assignment.badges.toggle,Earn badges by completing assignments. Spend your badges on Keeper's Guild rewards. You can deactivate rewards after purchasing them if you want to play without them.
+loadout.versus.wincondition,Win Condition
+upgrades.converterefficientwatershort.title,Swift Treatment
+properties.keeper2.directminingdamage,Compression Mining Damage {}
+upgrades.assignmentssendiron.desc,"Deliver iron to the Keeper's Guild. To succeed with the assignment, you need to send back all the available deliveries."
+upgrades.keeper3carrylimit1.title,Carry Capacity 1
+assignment.goaltype.survive,Survive
+upgrades.shield.title,เกราะป้องกัน
+level.station.battle.navbar.stabspeedup,Stab Speedup
+upgrades.keeper3quadjump.desc,Perform up to three additional jumps while airborne.
+properties.laser.aimline,เส้นวิถี
+properties.domearmor.pulsestunduration,Pulse Stun Duration {}s
+level.tutorial.assessor.carry.desc2.switch,Press|to shoot them as a bundle in the direction in which you are facing.
+level.tutorial.ninja.carry.desc1.switch,Press| to throw a kunai carrying resources in the direction you are aiming with your %s.
+upgrades.orchardovercharge.desc,ใช้น้ำกับต้นไม้เพื่อให้ได้ผลไม้ผลิตไวขึ้น
+upgrades.missile.abilityname,Missile
+upgrades.resourcepackercount2.desc,Increase how many resources can be packed into a single bundle.
+assignment.bigmapsparseresources.desc,"Resources are rare and far apart on this large planet, but its rock is very brittle."
+properties.spire.stuntrap,Energy Trap
+playerlist.block,Block
+level.tutorial.sworddome.stabbing.desc,ปล่อยดาบออกไปเพื่อแทงศัตรูที่อยู่ไกล
+properties.sword.sliceacceleration,ความเร็วดาบ {}
+loadout.team.join,เข้าร่วม
+assignment.weapondefect.desc,"Your dome's main weapon has been destroyed, so you will need to survive by other means."
+upgrades.repellentbattlehealthreduction.title,เน่าเปื่อย
+loadout.versusmod.versusmodifiertoughstart,Tough Start
+title.navbar.multiplayer,เล่นหลายคน
+keybindings.reset.title.xbox,Button Bindings Reset
+upgrades.extractorquickextraction.desc,"Evolve your worms to be hyperactive, extracting iron clusters much faster."
+upgrades.mushroomfarmquickgrowth.title,Fast Growth
+upgrades.repellentbattlehealthreduction.desc,"Weaken all monsters, causing them to take more damage when hit."
+loadout.versusmod.versusmodifierstrongmonsters,Healthy Monsters
+leaderboard.failed,Failed to load leaderboard.
+properties.sword.reflectprojectilesexplosive,สะท้อนการโจมตีและระเบิดออก
+level.station.navbar.upgrades,อัพเกรด
+upgrades.artillerymachinegun3.desc,Improve your anti-air gun.
+level.gameover.unlock.pet,ปลดล๊อคสัตว์เลี้ยงใหม่!
+upgrades.domesupplementelectrifiedsurface2.title,Electrified Hull 2
+upgrades.keeper3shuriken2.desc,"Reduce the Shuriken cooldown, allowing you to throw them more frequently."
+upgrades.artillerysplash2.desc,Fire two mortar shells in quick succession.
+loadout.mode.hud,HUD
+upgrades.keeper4flexible2.title,Agility 2
+upgrades.shieldbattlereflectshortuses.desc,เพิ่มจำนวนครั้งของการสะท้อน แต่ระยะเวลาจะสั้นลง
+upgrades.rocketlauncherdamage2.title,Deadly Missiles
+upgrades.domesupplementscraprepair1.title,Scrap Repair
+upgrades.keeper2bundle3.title,ศุนย์กลางแรงโน้มถ่วง
+upgrades.keeper2bundle2.desc,Enable directional control of a dropped bundle at close range.
+upgrades.keeper3shurikencooldown2.desc,Reduces the Shuriken cooldown even further.
+upgrades.suitblaster.title,Suit Blaster
+upgrades.prestigeiron.title,ส่ง เหล็ก
+properties.stunlaser.cooldown,คูลดาวน์ {} วินาที
+options.input.controls.keepersettings.desc,"Keepers use the global settings by default. You can override them here with individual settings per keeper. For example, you may want different snapping settings depending on the keeper or action."
+options.keybindings.action.keeper.gravityball,ยิง
+upgrades.liftorbs.desc,เพิ่มลูกแก้วในการขนส่งทรัพยากร
+options.input.controls.mouse.gamepad,Switching to a gamepad and back is automatically detected.
+properties.probe.detectchambers,Detect Chambers
+landing.proceed.ps5,กดปุ่มใดก็ได้ เพื่อเล่นต่อ
+upgrades.condenserautocollect.title,เก็บทรัพยากรอัตโนมัติ
+multiplayer.error.hostcrossplaydisabled,Can't join lobby because host has crossplay disabled and is on a different platform.
+upgrades.repellent.title,สารขับไล่
+loadout.team.color,Team Color
+options.game.tutorials.resettutorials,รีเซ็ตโหมดฝึกสอน
+options.accessibility.critters.explanation,ปิดการแสดง หนอน แมลงหรือแมงมุมที่เกิดในเหมือง
+upgrades.prospectionmeterrange1.desc,Increase the detection range of the prospecting meter.
+upgrades.drillsidepull.title,Mineral Transportation
+options.accessibility.highlightmonsters.explanation,วาดเส้นแสงตามขอบของมอนส์เตอร์เพื่อให้มองเห็นได้ง่ายขึ้น
+upgrades.keeper2bundle1.desc,Show a marker directly below the dome to indicate where to shoot bundles upwards.
+upgrades.assignmentsemergencycontribution6.title,Emergency Contribution 20
+upgrades.keeper4ramping3.title,Momentum 3
+upgrades.swordblade1.desc,ปรับปรุงความแรงและความเร็วของดาบของคุณ
+upgrades.probedetectchambers.title,Detect Chambers
+loadout.mode.shortcycles,Short Cycles
+upgrades.proberange3.desc,Increase the range of the probe.
+upgrades.prestigespeedup.title,Shorten Cycles
+loadout.prestige.endless.description,No limits on time or resources for very long runs.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"Set the value so that the meter does not flicker when only touching the sticks, without pushing them.
+The meter should flicker when moving the stick."
+upgrades.blastminingblast3.title,ระเบิด 3
+upgrades.swordextendlong1.desc,เพิ่มความเสียหายในการแทงและระยะการบินที่ไกลขึ้น
+properties.autocannon.rateoffire,Rate of Fire {.percent}
+upgrades.assignmentsemergencycontribution4.title,Emergency Contribution 11
+assignment.minorvision.desc,The dark shadows on this planet consume all light.
+options.audio.volumes,ระดับเสียง
+unlock.host.locked.ps5,Host does not own the add-on '%s'.
+loadout.versusmod.versusmodifiershortcycles.desc,The time between monster waves is shorter.
+upgrades.keeper2pinballexplode2.title,Improved Explosion
+multiplayer.host.local,ท้อง​ถิ่น
+options.video.graphicsmode.fullscreen,โหมดเต็มจอ
+properties.keeper3.kunaidamage,Kunai Damage {}
+options.game.screenshake.shakewhenmining,สั่นหน้าจอขณะขุด
+upgrades.dome2.title,Sword Dome
+properties.autocannon.damage,Bullet Damage {}
+loadout.mode.doubleiron,Mass Iron
+upgrades.keeper4punch1.title,Frenzy
+level.gameover.unlock.versus,Versus mode unlocked!
+upgrades.artillerydoublemachinegun.desc,Install a second barrel for the anti-air gun onto your dome.
+level.converter.popup.conversion.time,เกิน {time} รอบ
+options.translation.title,เลือกภาษาของคุณ
+loadout.prestige.pro.title,Custom Settings
+multiplayer.host.title,สร้างห้องผู้เล่นหลายคน
+properties.keeper4.movespeed,ความเร็วในการหันเลเซอร์ {}
+options.input.gamepad.thumbstick.xbox,Stick
+upgrades.furnacelastingironfiring.title,Durable Iron Fuel
+upgrades.shieldoverchargestrength1.title,โอเวอร์ชาร์จเกราะแกร่ง 1
+multiplayer.error.modsmismatched,Your modlist does not match the host. Unable to join.
+upgrades.laserhitprojectiles.desc,ทำลายการโจมตีของศัตรูด้วยเลเซอร์
+upgrades.probepermanentrevealtiles.desc,All of the area that the probe scans is permanently revealed.
+options.keybindings.action.keeper.jump,กระโดด
+upgrades.repellentdelay2.title,ยืดเวลา 2
+upgrades.keeper3shuriken1.title,ดาวกระจาย
+upgrades.probelongmarker2.desc,The resource markers will remain for many cycles.
+properties.shockwave.stunduration,Stun Duration {}s
+level.tutorial.teleporter.teleport1.switch,"When close to the portal, press | to teleport back."
+options.game.alwaysshowping,แสดงปิงของเซิร์ฟเวอร์ตลอด
+loadout.choices.locked,ยังไม่ปลดล็อก
+upgrades.prospectionmetersand1.title,มิเตอร์ โคบอล์ท
+upgrades.drill2.title,ความแรงสว่าน 2
+level.gameover.findimages,Saved to
+level.tutorial.resourcepacker.popup_1.switch,"When close to resources, press | to pack them into a compact bundle that is easier to transport."
+reward.rewardpostrunshowmonstercount.title,Additional Battle Statistics
+upgrades.drill.title,Drilling Rig
+upgrades.versusincreasewave1.desc,Permantently increase the monster wave strength for the other team.
+upgrades.swordstabfast1.desc,แทงเร็วขึ้นและบ่อยขึ้น
+properties.sword.slicebrake,ความเร็วที่เสียไปจากการฟันดาบ {.percent}
+upgrades.lasermove3.desc,เพิ่มความเร็วเลเซอร์สูงสุด
+upgrades.prestigewatermultiplier.desc,Send back water. Increases how many prestige points you get after each wave.
+upgrades.domesupplementresurrection1.desc,"Instead of being destroyed, your dome will heal completely and become invulnerable for some time. One use only."
+upgrades.swordextendlong3.title,แทงไกล 3
+properties.repellent.wavedelay,Wave Delay (Cycles) {}
+upgrades.domewavepathtodome.desc,เมื่อมีสัญญาณเตือนการจู่โจม จะแสดงทางที่สั้นที่สั้นที่สุดในการกลับโดม
+level.tutorial.ninja.carry,Kunai Carrier
+upgrades.dome4.desc,State-of-the-art dome that harnesses the power of electricity to an extent never before seen.
+upgrades.prospectionmeterwater2.title,เข็มทิศ น้ำ
+multiplayer.techtree.keeperexclusivegadget,This gadget applies to only your keeper.
+options.keybindings.action.dome,โดม
+upgrades.drillbotbuff1.title,ขนมขบเคี้ยว
+versus.corruption.desc,Choose a corruption that will affect the monsters attacking the other team!
+upgrades.swordstabshoot.title,หอก
+properties.dome.projectiledamagereduction,Projectile Damage Reduction {.percent}
+upgrades.drillbotbuffstrength2.desc,เมื่อนำขนมให้กับดริลเบริทจะทำงานได้นานขึ้นก่อนจะหลับ
+leaderboard.global,อันดับโลก
+options.game.blocklist.unblockall,Unblock all
+upgrades.swordlongblade1.title,ดาบยาว 1
+properties.mushroomfarm.drillbuff,บัพเพิ่มพลังขุด {}
+properties.spire.splitshotspeed,Split Shot Speed {}
+options.keybindings.action.dome.upgrade,อัพเกรด
+upgrades.teslaspeed3.title,Reticle Speed 3
+upgrades.domehealthmeter.title,อุปกรณ์วัดพลังชีวิต
+properties.extractor.additionalresources,Additional Resources {}
+upgrades.domesupplementcombatrepair3.desc,"Automatic repair activates sooner, after receiving less damage."
+upgrades.furnacelastingironfiring.desc,Make each piece of iron last longer in the furnace.
+properties.dome.resurrectinvulnerability,Invulnerability after Resurrection {}s
+upgrades.assignmentssendwater.desc,"Deliver water to the Keeper's Guild. To succeed with the assignment, you need to send back all the available deliveries."
+options.game.autopickupresources,Automatically pick up Resources
+upgrades.repellentbattledamageovertime.desc,มอนสเตอร์ทุกตัวจะได้รับดาเมจจากพิษทุกๆวินาที
+upgrades.artillerydirecthit3.desc,Increase the destructive potential of your mortar shells.
+upgrades.domearmorprojectile1.title,Projectile Armor 1
+upgrades.keeper4catgoblindig3.desc,Catgoblins will destroy tiles while digging.
+upgrades.stunlaserarea.desc,Creates a stun blast around the target monster that stuns all nearby monsters. The area grows and deals more damage the more monsters there are in it.
+level.tutorial.teleporter.carry2,เมื่ออยู่ใกล้ๆ กด | เพื่อหยิบ ประตูวาร์ป ขึ้นมา
+level.tutorial.teleporter.carry3,หากคุณกด | คุณจะวาร์ปกลับไป
+upgrades.keeper2pinballreflect.title,Reflection Field
+upgrades.probepermanentrevealtiles.title,Reveal Rock
+loadout.versusmod.versusmodifierfastmonsters.desc,Monsters move faster.
+level.tutorial.teleporter.carry1,คุณสามารถย้าย ประตูวาร์ป ไปที่ไหนก็ได้
+level.tutorial.pickup.popup_1.switch,Press | to pick up a resource.
+options.input.gamepad.autoswitch,Automatic Detection of Preferred Gamepad
+options.accessibility,การตั้งค่าเสริม
+upgrades.teslapersistance2.desc,The electro orbs are larger and persist longer.
+properties.sword.reflectionacceleration,ความเร็วการสะท้อน {.percent}
+upgrades.artillerygrenadefastreload.title,Swift Reload
+upgrades.keeper2pinballreflect.desc,Place a stationary reflection field that reflects kinetic spheres. Spheres are slightly powered up after each reflection.
+options.keybindings.action.keeper,ผู้พิทักษ์
+upgrades.drillbotbuffstrength1.desc,บัพขนมของดริลเบริทอยู่นานขึ้น
+upgrades.versussendiron.desc,Deliver iron to the Keeper's Guild. Send back all available deliveries to achieve victory over the opposing team.
+upgrades.keeper2pinballmorespheres1.desc,Increase the number of kinetic spheres you can carry.
+properties.rocketlauncher.rechargetime,Time to Restock {}s
+upgrades.domesupplementadditionalcellar.title,Deep Cellar
+upgrades.blastminingstickycharge.title,ระเบิดเหนียวหนึบ
+level.tutorial.assessor.explode.desc1,Hit|to explode all spheres in your vicinity.
+upgrades.furnacestrongironfiring.title,Enhanced Iron Fuel
+assignment.monstermasses.title,Monster Masses
+options.input.gamepad.gamepadstickdeadzone.switch,Stick Dead Zone
+properties.stunlaser.areastunstrength,Area Stun Efficiency {.percent}
+upgrades.dome1health2.desc,เพิ่มความแข็งแรงให้กับโครงสร้างโดมอย่างถาวร
+upgrades.probepermanentrevealresources.title,Reveal Resources
+upgrades.swordfastreflection.desc,สะท้อนการโจมตีของศัตรูกลับอย่างรวดเร็ว
+properties.autocannon.shotgun,Shotgun Bullets {}
+loadout.difficulty.medium,ยากมาก
+multiplayer.join.joincodeinput,ใส่รหัสเข้าร่วม
+properties.keeper4.maxspeedupatpunches,Fastest Speed After {} Punches
+properties.monstermodifiers.health,Monster Health {.percent}
+loadout.versusmod.versusmodifierfastmonsters,Fast Monsters
+upgrades.shieldoverchargestrength1.desc,โอเวอร์ชาร์จให้เกราะดูดซับความเสียหายได้เพิ่มขึ้น
+properties.probe.charges,จำนวนชาร์จ {}
+reward.rewardthreechoicessupplement.title,Three Supplement Offers
+upgrades.domesupplementscraprepair1.desc,Implement makeshift dome repairs using iron. Reduces overall structural health.
+level.tutorial.tesla.panel1content1,Move the reticle across the screen to aim.
+upgrades.shockwavebig.desc,The shockwave deals a vast amount of damage which can even annihilate some stronger monsters.
+multiplayer.continue.allowmultiplayererror,Unable to continue online multiplayer because you don't have Enable Online Play checked in the options menu.
+loadout.hint.multiplayer.playerminimum,Need at least two players to start a multiplayer run.
+upgrades.artillerymachinegunhoming2.title,Homing Rockets 2
+upgrades.repellentbattleslowdownstun2.title,อัมพาตรุนแรง
+upgrades.shockwave.abilityname,Shockwave
+upgrades.jetpackspeed1.title,ความเร็ว 1
+upgrades.teleporterteleportduration1.title,วาร์ปไว
+upgrades.autocannonrateoffire3.title,Machine Gun 3
+properties.monstermodifiers.totalrunweightmodifier,Wave Strength Multiplier {.percent}
+upgrades.swordstabfast1.title,แทงไว 1
+upgrades.swordstabfast3.title,แทงไว 3
+properties.tesla.quickshotstrength,Quick Shot Strength {.percent}
+upgrades.keeper2pinballdamage3.desc,Further increase the reload time for more powerful kinetic spheres.
+title.navbar.options,การตั้งค่า (Options)
+upgrades.domearmormelee2.desc,Decrease how much damage the dome takes from melee attacks.
+upgrades.shieldbattleelectroblast.title,ระเบิดสายฟ้า
+properties.spire.stuntrapradius,Radius {}
+options.audio.volumes.ambiencevolume,เสียงพื้นหลัง
+loadout.mode.drillbert.desc,"Start with Drillbert and Blast Mining, but the keeper cannot upgrade mining skills. Unlimited Drillbert supply."
+loadout.versus.team.closed,closed
+properties.keeper4.goblinnapduration,Catgoblin Nap Duration {}s
+properties.keeper2.reflectnexthitdamage,Additional Damage on Next Hit {.percent}
+upgrades.orchardbattlerootingmore.title,รากกำยำ
+multiplayer.error.connection,การเชื่อมต่อล้มเหลว
+keeperdlc.load.missing.ps5,"Cannot load save, it contains unavailable add-on content. Please ensure 'The Lost Keepers' add-on is available."
+level.tutorial.fruit.popup_2.switch,"When next to it, press | to consume it."
+loadout.versusmod.versusmodifierlittlecobalt,Cobalt Shortage
+reward.rewardpet12.desc,Unlock the dog as a pet for your dome.
+multiplayer.host.joincodelabel,รหัสเข้าร่วม
+upgrades.swordstabfast2.desc,แทงเร็วขึ้นและบ่อยขึ้น
+properties.dome.incomingdamagemodifier,Received Damage {.percent}
+properties.sword.stabexplosivedamage,ดาเมจระเบิด {}
+properties.blastmining.bombs,Blast Charges {}
+properties.resourcepacker.charges,จำนวนชาร์จ {}
+upgrades.assignmentsemergencycontribution1.desc,Send this package before the 2nd wave ends or fail this assignment.
+properties.artillery.machinegunbarrels,Anti Air Guns {}
+properties.artillery.gunaimline,ศูนย์เล็งเลเซอร์
+upgrades.jetpackstrength4.desc,ปรับปรุงไอพ่นให้บรรทุกของได้เพิ่มขึ้น
+loadout.mode.nomonsters.desc,Land on a world without any monsters at all.
+telemetry.eula,อ่าน EULA
+upgrades.condenserspeed1.title,เร่งผลิต 1
+upgrades.mushroomstack.desc,"Stack the duration of each buff, gaining longer-lasting buffs by consuming many mushrooms."
+upgrades.keeper2pinballexplode2.desc,Increase the magnitude of the explosions from the kinetic spheres.
+versus.message.disruption,The other team just strengthened your monster waves permanently.
+loadout.mode.strongmonsters.desc,Monsters will deal double damage.
+upgrades.tesla.desc,Introduce the marvel of electricity to whatever is out there. Preferably to the face. At several thousand volts.
+properties.drillbot.turnaround,เปลี่ยนทิศทางเมื่อเจอกับกำแพงแข็ง
+upgrades.keeper2movement3.desc,Improve your gravity generator for the fastest movement speed.
+level.tutorial.onewayteleporter2,Press|to place the portal. Press again to teleport back to it.
+upgrades.domearmormelee2.title,Melee Armor 2
+upgrades.drillbotbuffstrength2.title,คาเฟอีน
+level.tutorial.onewayteleporter3,รีชาร์ตแบบอัตโนมัติ
+upgrades.keeper4extraresource.desc,Catgoblins will sometimes harvest an extra resource from a tile by carefully digging.
+upgrades.drillbotduo.desc,"Bring in Drillbert's cousins Diggory and Minerva to help with mining. Being in comforting company, they won't get scared during monster waves and keep digging instead."
+properties.tesla.perfecttimingwindow,Time Window {}s
+loadout.mode.strongmonsters,Heavy Hitters
+pause.quittotitlescreen,ออกไปหน้าหลัก
+properties.keeper2.explodespheresradius,Explosion Radius (Tiles) {}
+telemetry.privacy,ข้อมูลเพิ่มเติมเกี่ยวกับหลักปฏิบัติด้านข้อมูลของเรา สามารถหาได้ในโยบายความเป็นส่วนตัวของเรา http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,The missiles become more lethal.
+keybindings.reset.doreset,รีเซ็ตการตั้งค่าปุ่ม
+upgrades.keeper3carrylimit3.desc,Increase the number of resources you can haul on your Kunai carrier.
+upgrades.autocannondoublefirerate.desc,The auto cannon fires much faster. Simple and effective.
+upgrades.autocannon.title,Auto Cannon
+upgrades.artillerymachinegunhoming1.title,Homing Rockets 1
+level.tutorial.assessor.carry.desc1_1.switch,"Once locked onto you, they will follow you even if you release the collect button."
+upgrades.swordlongblade1.desc,ติดตั้งดาบที่ยาวขึ้น และเร็วขึ้น
+loadout.team.players,Players
+options.keybindings.gamepad.xbox.view,กลับ
+options.keybindings.action.keeper.rope,Fling Rope
+upgrades.mushroomfarm.title,Mushroom Farm
+loadout.prestige.title,ปรับแต่งความหลากหลาย
+upgrades.prospectionmeterrange1.title,เพิ่มระยะ 1
+upgrades.keeper3doublejump.title,Double Jump
+upgrades.keeper3kunaibounce1.desc,"Display the Kunai's predicted bounce path and landing point. Each bounce reverberates through the stone, revealing nearby tiles."
+upgrades.repellentbattlelongerhealthreduction.title,เน่าเปื่อยรุนแรง
+loadout.versusmod.versusmodifierlittlewater,Water Shortage
+upgrades.mushroomfarmdrill1.title,Mushroom Mining 1
+loadout.versusmod.versusmodifierscatterediron,Scattered Iron
+level.converter.popup.conversion.convert,แลกทรัพยากร
+properties.droneyard.overchargebattledronecount,Additional Battle Drones {.percent}
+reward.rewardfreerolls1.desc,One free reroll of the gadget or supplement choices per run.
+multiplayer.host.splitscreen,เปิดระบบแบ่งหน้าจอบนเครื่องเดียว
+properties.converter.cobalttoiron,1 Cobalt to {} Iron
+loadout.mode.automateddefense,Automated Defense
+options.input.gamepad.gamepadstickdeadzone.xbox,Stick Dead Zone
+level.converter.popup.explanation,เลือก การแลกเปลี่ยนทรัพยากร
+upgrades.dome1health2.title,พลังชีวิต 2
+upgrades.stunlaserduration3.desc,The stun laser cools down extremely fast and has a significantly extended firing duration.
+upgrades.assignmentsemergencycontribution5.desc,Send this package before the 16th wave ends or fail this assignment.
+options.keybindings.rebinding.apply,ใช้
+properties.spire.stunmonsters,Stun Monsters
+upgrades.assignmentssendcobalt.desc,"Deliver cobalt to the Keeper's Guild. To succeed with the assignment, you need to send back all the available deliveries."
+upgrades.mushroomfarmspeed1.desc,Improve the speed buff obtained from consuming mushrooms.
+upgrades.keeper2pinballmorespheres1.title,บอลสำรอง
+upgrades.rocketlauncherrockets2.desc,Increase the amount of missiles you can fire.
+options.keybindings.gamepad.xbox.menu.xbox,Menu Button
+upgrades.swordstabfast3.desc,แทงเร็วขึ้นและบ่อยขึ้น
+properties.shield.overchargestrength,โอเวอร์ชาร์จ พลังชีวิต {} หน่วย
+upgrades.droneyarddronespeed1.desc,เพิ่มความเร็วโดรนขนส่ง
+upgrades.liftorbs.title,Additional Orbs
+properties.keeper3.carrylimit,Kunai Carrier Capacity {}
+options.video.graphicsmode.photosensitive,โหมดไวต่อแสง
+upgrades.keeper2pinballdamage1.title,Kinetic Spheres 1
+reward.rewardkeeper3skin1.title,Infiltrator Skin
+level.tutorial.ninja.gadgetpickup.desc1,Gadgets are not automatically picked up.
+properties.converter.ironperwater,{} Iron per Water
+properties.spire.capacity,Shots Before Recharge {}
+level.tutorial.ninja.gadgetpickup.desc2,Hold| to pick up a gadget.
+loadout.versusmod.versusmodifierlittlewater.desc,The map contains minimal water deposits.
+upgrades.drillbotstrength3.desc,เพิ่มพลังขุดของดริลเบริท
+upgrades.spirestuntrap3.title,กับดักมอนส์เตอร์
+upgrades.shredgadgettocobalt.desc,แทนอุปกรณ์ด้วย {amount} โคบอล์ท
+upgrades.converterefficientcobalt.title,แปรเปลี่ยนโคบอล์ทดีขึ้น
+options.input.vibration.strength.switch,ระดับการสั่น
+properties.sword.reflectprojectiles,สะท้อนการโจมตี
+reward.rewardfreerolls2.desc,One additional free reroll of the gadget or supplement choices per run.
+level.tutorial.station.popup_2.switch,Move to the station and press | to enter it.
+upgrades.versus.desc,"Two domes, two teams, competing against each other until only one remains."
+upgrades.dome2.desc,Experimental dome with a powerful sword that requires mastery but can dominate even the strongest assailants.
+upgrades.drillmagnetic.desc,"The casings of the downward drills become magnetic, holding all mined resources in place."
+assignment.harmfuliron.title,Hazardous Iron
+level.tutorial.sworddome.stabbing,แทง
+options.input.gamepad.icons,ไอคอน
+upgrades.shredgadgettoiron.desc,แทนอุปกรณ์ด้วย {amount} เหล็ก
+upgrades.assignmentsemergencycontribution6.desc,Send this package before the 20th wave ends or fail this assignment.
+properties.droneyard.battledroneshots,Shots per Drone {}
+level.gameover.lose.title,โดมถูกทำลาย
+loadout.difficulty.title,ระดับความยาก
+properties.artillery.maxrotation,Maximum Rotation {}°
+upgrades.shockwavestun2.desc,Increase the stun capability of the shockwave.
+unlock.host.locked,Host does not own the DLC '%s'.
+multiplayer.host.splitscreen.desc,ต่อเกมแพดในหน้าเตรียมตัวเพื่อเพิ่มผู้พิทักษ์ โดยแชร์หน้าจอร่วมกันได้สูงสุด 4 คน สามารถใช้ระบบนี้ร่วมกับการเล่นแบบ Lan หรือออนไลน์ก็ได้เช่นกัน
+telemetry.explanation,"For online multiplayer, connect to our service to discover other players and join their games, or host games on your side.
+This is optional and you are free to enable/disable this. Repeatedly connecting to a backend—even with an anonymous account—is relevant under GDPR.
+We don't collect your personal information and there is also no telemetry tracking your runs.
+If you don't enable online multiplayer, you can still play multiplayer on one device in splitscreen or on your local network.
+
+You can change this setting any time in the options."
+gadget.slot.supplement,Supplement
+upgrades.droneyardovercharge2.desc,Drones are stronger after overcharging the droneyard.
+level.furnace.popup.fuel.burn,Each|lasts for {cycles} cycles and delays the monsters by an additional {seconds} seconds.
+options.input.controls.nooptions,There are no individual %s settings for this keeper available.
+upgrades.versusshowinventory.desc,Allows you to see the other team's inventory when monitoring their dome.
+properties.keeper1.drillstrength,ความแรงสว่าน {}
+upgrades.keeper1.desc,ผู้เชี่ยวชาญที่เปี่ยมล้นไปด้วยทักษะการขุดเหมืองอันยอดเยี่ยม
+leaderboard.friends,เพื่อน
+gadget.slot.activegadget,Secondary Combat Ability
+upgrades.keeper2.desc,A sophisticated miner who employs experimental kinetic energy and gravity technologies.
+upgrades.keeper2pinballsplit2.title,Improved Split
+upgrades.keeper2movement1.title,การลอยตัว 1
+upgrades.keeper2pinballexplode.title,Explode Spheres
+upgrades.keeper3kunaidamage4.desc,Increase the mining power of your kunai. Kunai are especially weak against very dense rock.
+upgrades.spireautonomy1.desc,A simple AI will control the spire even when you are not inside the control station.
+properties.droneyard.dronespeed,Drone Speed {}
+upgrades.teslaquickshot.title,Quick Shot
+assignment.megacreeps.title,Survival of the Fittest
+upgrades.shieldbattleactivateondepletion.title,เกราะทลายเรียกใช้อมตะ
+versus.corruptionbigwave.title,Killer Wave
+upgrades.lasermove3.title,ความเร็วเลเซอร์ 3
+upgrades.swordelectrified.title,ดาบสายฟ้า
+upgrades.artillerymachinegun1.title,Improved Anti-Air Gun
+level.tutorial.beastmaster.move.desc2,You can only move if there is something to grab onto.
+options.accessibility.fontsize.small,เล็ก
+assignment.unpredictable.desc,"The planet's atmosphere is interfering with the dome's proximity meter, preventing enemy waves from being tracked."
+level.tutorial.beastmaster.move.desc1,Use the tentacles to move through the mine.
+upgrades.suitblasterdirectional.desc,"When moving in a direction, the suit blaster will blast a long tunnel. Radial blasts can still be achieved by not moving when triggering the suit blaster."
+level.tutorial.teleporter.take1,เครื่องวาร์ปสามารถใช้ได้ทั้งที่สถานีและประตูวาร์ป คุณสามารถวาร์ปไปกลับระหว่างกันได้
+options.audio.music.ost.mode.fixed.desc,"Play tracks from the following Keeper soundtracks, regardless of which Keeper you select."
+level.tutorial.teleporter.take2,หยิบ ประตูวาร์ป และวางไว้ที่ไหนก็ได้
+level.gameover.assignment.failed,You failed the Keeper's Guild assignment.
+telemetry.manage,Disable online services
+modding.restart,รีสตาร์ท
+upgrades.orchardbattlerootingexplosion.title,เหยื่อระเบิด
+level.gameover.unlock.skin,New suit unlocked!
+upgrades.jetpackspeed3.desc,ปรับปรุงไอพ่นให้เคลื่อนที่เร็วขึ้น
+upgrades.repellentoverchargeduration2.title,Intense Overcharge
+upgrades.prospectionmeterwater1.desc,แสดงระยะห่างจากทรัพยากรน้ำที่ใกล้ที่สุด
+loadout.prestige.miner.description,จดจ่อกับการขุดให้ได้มากที่สุดโดยไม่มีมอนสเตอร์รบกวน 20 รอบ
+upgrades.shieldbattlereflect.desc,เปิดใช้สกิลต่อสู้เพื่อสะท้อนการโจมตีของมอนสเตอร์เป็นช่วงเวลาสั้นๆ
+upgrades.stunlaserstun1.desc,Increase the power of the stun beam.
+multiplayer.error.gameresolved,This match has already ended.
+upgrades.shieldbattlereflect.title,สะท้อนกลับ
+options.audio.volumes.mastervolume,ระดับเสียงหลัก
+upgrades.keeper2pinballdamage4.title,Kinetic Spheres 4
+leaderboard.loading,กำลังโหลด...
+upgrades.droneyardparasites2.title,Parasitic Drones 2
+playerlist.title,รายชื่อผู้เล่น
+upgrades.versusincreasewave2.desc,Permantently increase the monster wave strength for the other team.
+upgrades.rocketlauncher.title,Missile Launcher
+upgrades.liftspeed1.title,เพิ่มความเร็ว
+upgrades.rocketlauncherrockets2.title,Barrage 2
+level.tutorial.blastmining.popup_1,เก็บระเบิดขึ้นและปล่อยในจุดที่ต้องการระเบิด
+upgrades.keeper3slidecontrol.title,Slide Control
+properties.furnace.wavedelay,Base Delay {}s
+upgrades.mushroomfarmspeed2.desc,Improve the speed buff obtained from consuming mushrooms.
+upgrades.dome3.title,Artillery Dome
+properties.converter.ironirontime,Iron to Iron Conversion Time (Cycles) {}
+properties.laser.movespeed,ความเร็วในการหันเลเซอร์ {}
+properties.stunlaser.damagepermonster,Area Damage per Monster {}DPS
+upgrades.stunlaser.title,สตั้นเลเซอร์
+title.navbar.credits,เครดิต
+upgrades.drillbotbuffstrength1.title,ขนมบำรุงกำลัง
+level.tutorial.pickup.popup_1,กด | เพื่อเก็บทรัพยากร
+level.tutorial.pickup.popup_3,กดค้างเพื่อเก็บเยอะ ๆ
+upgrades.blastminingtriple.title,สามชาร์จ
+upgrades.prospectionmeterscandelay1.desc,Increase how quickly the meters update.
+upgrades.furnacelastingwaterfiring.desc,Make each unit of water last longer in the furnace.
+upgrades.versusincreasewave2.title,Sabotage 2
+upgrades.artillerymachinegun4.desc,Install reinforced gun barrels that can handle extreme rates of fire.
+upgrades.teslaspeed4.title,Reticle Speed 4
+upgrades.swordextendlong3.desc,Enormous stab strength and duration.
+demo.end.title,ขอบคุณที่เล่นตัวเกมเวอร์ชั่นทดลอง!
+upgrades.stationextensiontubemovement.title,Vacuum Tube Travel
+upgrades.keeper4squad3.title,Massive Squad
+upgrades.orchardbattleshield.desc,"Grow a canopy of vines on your dome, protecting the dome from projectiles."
+properties.droneyard.battledronestrength,Parasitic Effect {.percent}
+options.game.kunaicarriersnapping,Snap Kunai Carrier Aim to Cardinal Directions
+options.input.vibration.strength.xbox,ระดับการสั่น
+upgrades.keeper2pinballspherelifetime.title,อายุของลูกแก้ว
+upgrades.furnace.title,เตาหลอม
+upgrades.shockwavedamage1.title,Shockwave Damage 1
+properties.orchard.drillbuff,บัพเพิ่มพลังขุด {}
+level.tutorial.station.popup_4,แล้วกด | เพื่อเริ่มโหมดจู่โจม และป้องกันโดม
+level.tutorial.teleporter_2,ใช้วาร์ปที่สถานีเพื่อวาร์ปไปหาประตูวาร์ป หรือจะย้อนกลับก็ได้
+level.tutorial.station.popup_2,เคลื่อนที่ไปที่สถานี และกด | เพื่อเข้าใช้
+pause.resumegame,เล่นต่อ
+actionhint.tap,Tap
+level.tutorial.station.popup_1,โดมของคุณกำลังถูกโจมตี!
+multiplayer.error.kicked,โดนเตะออกจากเซสชั่นผู้เล่นหลายคน
+telemetry.allow.ps5,ยอมรับ EULA
+landing.proceed.switch,กดปุ่มใดก็ได้ เพื่อเล่นต่อ
+upgrades.condenserautoovercharge.title,โอเวอร์ชาร์จอัตโนมัติ
+upgrades.keeper2pinballdestroyadjacenttiles.title,Cascading Impact
+level.converter.popup.queue,Automatically Repeat Conversion
+options.keybindings.cancel,ยกเลิก
+loadout.versus.condition.deathmatch.title,Last Dome Standing
+upgrades.domearmorprojectile1.desc,Decrease how much damage the dome takes from projectile attacks.
+options.keybindings.action.general.move,เคลื่อนที่
+upgrades.keeper3kunaicooldown2.title,Rapid Throw
+upgrades.artilleryrotation2.title,Fast Rotation
+loadout.gadget.additional.desc,Pick an additional gadget!
+level.gameover.unlock.assignment,Assignments unlocked!
+upgrades.domesupplementprojectiledamagereduction1.desc,Improve the deflection of the dome hull to reduce projectile damage. Melee damage is unaffected.
+upgrades.blastminingproductiontime1.desc,ลดเวลาในการสร้างระเบิด
+upgrades.autocannonshotgun1.title,Shotgun 1
+loadout.hint.loadout,Finish your loadout!
+assignment.condition.deliveriron,Deliver %d iron
+upgrades.drillbotduo.title,Brave Friends
+level.tutorial.assessor.carry.desc1_1.xbox,"Once locked onto you, they will follow you even if you release the collect button."
+multiplayer.error.nomods,No mods should be installed.
+options.input.controls.keybindings.xbox,Button Bindings
+upgrades.domearmorprojectile2.title,Projectile Armor 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"Set the value so that the meter does not flicker when only touching the sticks, without pushing them.
+The meter should flicker when moving the stick."
+upgrades.domesupplementcombatrepair2.title,Thorough Combat Repair
+level.gadgetchoice.title,เลือกแกดเจ็ต
+properties.teleporter.slowdown,Carry Slowdown {.percent}
+upgrades.teslaspeed1.title,Reticle Speed 1
+assignment.weapondefect.title,Defective Weapon
+properties.suitblaster.directionalexplosions,Directional Blast
+options.translation.community.title,งานแปลจากผู้เล่น
+options.audio.music.ost.mode,การตั้งค่าเพลงประกอบ
+upgrades.teleporterteleportresourcesback.title,เทเลพอร์ททรัพยากร
+upgrades.orchardbattleshield.title,Vine Canopy
+properties.drill.sides,Side Drillers {}
+upgrades.teslaorbstun.desc,The electro orbs apply a much higher stun.
+upgrades.repellentoverchargeduration2.desc,Increase the impact of overcharging on the battle abilities.
+properties.keeper2.totalspheres,บอลพลังงาน {}
+options.keybindings.action.general.up,ขึ้น
+pause.quit.popup,"คุณจะออกจากเกมใช่ไหม?
+กดอีกครั้งเพื่อยืนยัน
+(บันทึกความคืบหน้าเรียบร้อย)"
+upgrades.drillbotduplicate.desc,ดริลเบริท ทำงานร่วมกับฝาแฝด ดริลเลี่ยม
+properties.keeper3.shurikenstrength,Explosion Radius (Tiles) {}
+assignment.bigmapsparseresources.title,Barren Lands
+upgrades.converterqueue.title,Automated Conversion
+multiplayer.error.otherprestigeplayerquit,The game was ended because your teammate left the game. Your game has been saved and you can continue the game by selecting multiplayer under the continue menu.
+level.tutorial.teleporter.teleport1,เมื่ออยู่ใกล้ประตูวาร์ป กด | เพื่อวาร์ปกลับ
+level.tutorial.teleporter.teleport2,คุณสามารถวาร์ปไปกลับได้
+playerlist.report,รายงาน
+upgrades.swordextendlong1.title,แทงไกล 1
+upgrades.spiresplit3.desc,Split projectiles can go off at any angle.
+upgrades.keeper3kunaicooldown3.desc,Throw Kunais more quickly.
+exhibition.title.press.anything,กดปุ่มใดก็ได้ เพื่อเริ่มเกม
+multiplayer.techtree.keeperexclusivesupplement,This supplement applies to only your keeper.
+options.input.gamepad.twinstick.xbox,Twin-Stick Controls
+gadget.slot.domesupplement,Dome Supplement
+loadout.mode.maze,เขาวงกต
+upgrades.teleporter.title,เทเลพอร์ทเตอร์
+properties.keeper4.holesquad,Mining Squad Size {}
+level.tutorial.fruit.popup_1,ต้นไม้จะมอบผลไม้ให้กับคุณ
+upgrades.teslatiming1.desc,Shoot a much more powerful shot by shooting precisely at the moment the tesla is recharged and ready to fire.
+upgrades.converterefficientwaterlong.title,Intensive Treatment
+level.tutorial.repellent.popup_2,เมื่ออยู่ใกล้ ๆ กด | เพื่อใช้
+unlock.buy.keeperdlc.xbox,Unlocked by add-on '%s'.
+upgrades.autocannonspeed1.desc,Grease the cannon's gears for a significant movement speed increase.
+upgrades.probepermanentrevealresources.desc,Pinged resources are permanently revealed instead just being identified with a marker.
+properties.teleporter.teleportresourcescooldown,Resource Teleport Cooldown {}s
+upgrades.spire.desc,A defensive Spire that shoots down incoming projectiles.
+reward.rewardkeepersupplements.title,Keeper Supplements
+upgrades.condenser.desc,ติดตั้งเครื่องกลั่นใต้โดมเพื่อผลิตทรัพยากรน้ำด้วยการกลั่น
+upgrades.spiresplit3.title,Ground Split
+properties.drillbot.plantgrowthtime,Treat Growth Time (Cycles) {}
+modding.modio.showdownloaded,Show Downloaded Mods
+upgrades.stunlaserspeed1.title,ความเร็ว 1
+upgrades.resourcepackercharges.title,ชาร์จ
+upgrades.swordblade1.title,ปรับปรุงให้ดีขึ้น
+loadout.versus.modifiers.desc,Choose modifiers for this run that will affect both your team and the other team. Modifiers are optional.
+level.tutorial.fullscreen.back,ย้อนกลับ
+options.accessibility.backgrounds.explanation,"Replace the backgrounds in each world with a single bright color, to reduce visual noise in battle."
+upgrades.dome1health1.title,พลังชีวิต 1
+loadout.prestige.pro.randomorder,Random order
+assignment.superhardrockwithholes.desc,The rock is extremely dense but riddled with natural caves.
+upgrades.droneyardparasites.title,Parasitic Drones
+actionhint.hold,Hold
+properties.spire.timebetweenshots,Targetting Time {}s
+properties.game.cyclespeed,Cycle Speed {.percent}
+upgrades.artillerydirecthit3.title,Monster Buster 3
+loadout.mode.drillbert,Drillbert Mode
+upgrades.prestigecobalt.title,ส่งโคบอลต์
+upgrades.rocketlauncher.desc,Fire target-seeking missiles at monsters. Must be manually triggered.
+level.station.battle.navbar.exit,ออก
+options.game.events.enableseasonal,เปิดใช้งานเนื้อหาตามตามเทศกาล
+options.audio.music.ost.mode.fixed,ตายตัว
+assignment.ironcontribution.desc,The Guild is in urgent need of iron and requests that you deliver a large amount quickly.
+properties.rocketlauncher.damageperrocket,ดาเมจ {}
+upgrades.keeper4.title,Beastmaster
+upgrades.laserbend.title,เลเซอร์เบี่ยงเบน
+unlock.host.locked.switch,Host does not own the downloadable content '%s'.
+level.supplementchoice.reroll.free, (%s) Reroll
+loadout.versusmod.versusmodifierconcentratediron,Concentrated Iron
+pause.gamepadcontrols.use,ใช้
+properties.repellent.battledamageovertime,มอนสเตอร์ได้รับดาเมจ {} หน่วยต่อวินาที
+upgrades.repellentdelay1.title,ยืดเวลา 1
+upgrades.converterefficientwatershort.desc,Make the water conversion much faster.
+upgrades.domesupplementcombatrepair1.title,Combat Repair
+level.tutorial.sworddome.slicing,ฟัน
+properties.drillbot.scared,Scared of Monsters
+title.navbar.updates.close,ปิด
+upgrades.condenserspeed2.desc,ลดเวลาที่ใช้ในการสร้างทรัพยากรน้ำ 1 หยด
+upgrades.prospectionmeteriron2.desc,แสดงทิศทางจากทรัพยากรเหล็กที่ใกล้ที่สุด
+upgrades.keeper3carrylimit2.title,Carry Capacity 2
+loadout.versus.condition.irondelivery.desc,The team that delivers %s iron first wins.
+properties.mushroomfarm.speedbuffduration,Speed Buff Duration {}s
+upgrades.keeper4punch1.desc,"Your tentacle mining slowly builds up enourmous strength, but resets when changing direction."
+exhibition.level.heading,ยังเล่นอยู่หรือเปล่า
+keeperdlc.load.missing.xbox,"Cannot load save, it contains unavailable add-on content. Please ensure 'The Lost Keepers' add-on is available."
+upgrades.domesupplementresurrection2.desc,Gain an additional resurrection.
+actionhint.release,Release
+level.gameover.stats.monsterskilled,มอนส์เตอร์ที่สังหาร
+level.gameover.timelapse,Timelapse
+upgrades.drill4.desc,เพิ่มความแรงของสว่านเพื่อการขุดที่เร็วขึ้น
+upgrades.prospectionmetersand1.desc,แสดงระยะห่างจากทรัพยากรโคบอล์ทที่ใกล้ที่สุด
+assignment.instagip.desc,The monsters on this planet are unnaturally brutal. Their attacks deal devastating damage to your dome.
+landing.proceed.xbox,กดปุ่มใดก็ได้ เพื่อเล่นต่อ
+upgrades.drillsides.desc,Add a side driller to the central drill which can be moved around as needed.
+properties.dome.meleedamagereduction,ลดทอนความเสียหายระยะใกล้ {.percent}
+options.keybindings.action.keeper.throw,Throw Kunai
+level.station.battle.navbar.artilleryflak,Machine Gun
+upgrades.teleporterlightweight.desc,Carrying the portal will barely slow you down.
+level.gameover.backtomainmenu,กลับสู่เมนูหลัก
+properties.sword.stabarrowhead,เพิ่มขนาดของหัวธนู
+loadout.versus.team.open,open
+level.gameover.stats.mapsize,ขนาดแผนที่
+upgrades.domesupplementelectrifiedsurface2.desc,Increase how much damage monsters take when hitting the dome.
+upgrades.prestigecobalt.desc,Send back cobalt. Increases how many prestige points you get after each wave.
+options.video.renderscale.reset,คืนค่าเดิม
+options.keybindings.text.xbox,"Edit the control mapping to your liking.
+You can map the same Button across multiple categories (i.e. using the same buttons to move your keeper as well as the dome weapon.)"
+options.audio.music.frequency,โหมดเงียบ(รอบที่ไม่มีเสียงเพลง)
+upgrades.rocketlauncherrockets3.desc,Increase the amount of missiles you can fire.
+options.input.controls.mouse.menus,ใช้เมาส์ในหน้าเมนู
+upgrades.artillerysplash4.title,Quadruple Shell
+upgrades.keeper4catgoblindig3.title,Frenzied Digging
+properties.keeper4.catgoblincount,Catgoblin Count {}
+loadout.mode.hud.desc,Start with a fully upgraded HUD.
+upgrades.drillbotsleepless.title,ฝึกเบื้องต้น
+assignment.maze.desc,"This planet has a maze-like map, full of corridors and uneven structures."
+level.tutorial.drop.popup_2.switch,Press | to drop one. Hold to drop many.
+upgrades.artillerysplash2.title,Double Shell
+loadout.select,เลือก
+level.gameover.prestige.uploading.failed,อัพโหลดไม่สำเร็จ กำลังลองใหม่อีกครั้ง
+level.assignment.badges.available,Available Badges: %d
+level.tutorial.beastmaster.goblins,Catgoblins
+properties.autocannon.spray,Bullet Spray {.percent}
+upgrades.versusspycam.title,Spy Cam
+upgrades.shredgadgettoiron.title,แทนด้วยเหล็ก
+upgrades.teslapersistance3.desc,The electro orbs are larger and persist longer.
+upgrades.suitblasterspeed2.title,Charge Speed 2
+properties.shield.battleuses,จำนวนครั้งต่อการจู่โจม {}
+properties.prospectionmeter.range,Range (Tiles) {}
+upgrades.droneyard.desc,ติดตั้งสถานีเก็บโดรนเพื่อผลิตโดรนสำหรับช่วยขนส่งทรัพยากรและสนับสนุนการต่อสู้
+upgrades.domearmorpulse.title,Reactive Pulse
+title.navbar.multiplayer.host,เปิดห้องผู้เล่นหลายคน
+upgrades.spireburst.desc,"Fire in short bursts, defending effectively against salvos."
+upgrades.domearmor.desc,"Install a robust plating onto your dome, making it more durable."
+options.input.controls.mouse.gamepad.xbox,Switching to a Controller and back is automatically detected
+unlock.difficulty.hard,Win a run on brutal difficulty to unlock.
+versus.corruptionmonsterhealth.title,Healthy Monsters
+properties.probe.markerretention,เวลาแสดง {} วินาที
+loadout.hint.gamemodecompletion,Setup your game mode fully!
+upgrades.suitblasterdirectional.title,Directional Charge
+options.keybindings.rebinding.cancel,ยกเลิก
+unlock.host.locked.xbox,Host does not own the add-on '%s'.
+loadout.versusmod.versusmodifiernorelics,No Relics
+upgrades.autocannondoublefirerate.title,Fast Firing Cannon
+upgrades.blastmining.desc,Produce blast charges for explosive mining. Carry them into the mines and release to detonate.
+upgrades.converterqueue.desc,"After a conversion is finished, the generated resources will be automatically ejected and the same conversion will start again, if there are enough resources in the inventory."
+modding.modio.fetchsubscriptionsfailed,Error fetching mod.io subscriptions!
+upgrades.orchardbattleshieldsecondlayer.desc,Grow another layer of vines to the canopy.
+unlock.generic,Unlock by winning a run.
+loadout.versusmod.versusmodifiersoftrock.desc,The map has more soft rock.
+upgrades.assignments.desc,Accept a challenging assignment from the Keepers Guild and prove your competence.
+properties.probe.autorecharge,Automated Recharge
+assignment.instagip.title,Brutal Monsters
+upgrades.artillerysplash3.desc,Improve your mortar to fire shells that have a huge blast radius.
+multiplayer.join.button,เข้าร่วม
+pause.gamepadcontrols.move,เคลื่อนที่
+upgrades.condenserautoovercharge.desc,ทำให้เครื่องมือหลักของคุณโอเวอร์ชาร์จตลอดเวลาโดยไม่ใช้น้ำ แต่เครื่องกลั่นน้ำจะผลิตน้ำได้ช้าลง
+multiplayer.continue.deviceselection.title,เลือกผู้พิทักษ์ขอบคุณ!
+upgrades.autocannonautonomy.desc,Auto cannon activates even when you are not inside the control station.
+upgrades.swordaimline.title,เส้นวิถี
+multiplayer.join.joinfromcode,เข้าร่วม
+properties.artillery.rotationspeedwhilemachinegun,Rotation Speed While Shooting {.percent}
+level.tutorial.artillery.panel2header,Anti Air Gun
+level.gameover.keepgadget.title,เลือกแกดเจ็ตเก็บไว้ สำหรับการเล่นครั้งต่อไป
+upgrades.domearmorprojectile2.desc,Decrease how much damage the dome takes from projectile attacks.
+upgrades.shieldbattledestructionprevention.title,ยืนหยัดสู้
+upgrades.domeresourcecounters.desc,แสดงค่าทรัพยากรปัจจุบันและซ่อมโดมอัตโนมัติขณะต่อสู้โดยใช้โคบอล์ท
+upgrades.spirestuntrap1.title,Energy Trap
+upgrades.prospectionmeteriron2.title,เข็มทิศ เหล็ก
+loadout.mode.hyperactive,เปราะบาง แต่ เร็ว
+upgrades.prospectionmeterwater2.desc,แสดงทิศทางจากทรัพยากรน้ำที่ใกล้ที่สุด
+options.video.stretchmode,ส่วนขยาย
+level.gameover.prestige.title,สิ้นสุดรอบเกียรติยศ
+upgrades.droneyardovercharge1.title,Overcharge Droneyard
+level.station.navbar.exit,ออก
+upgrades.teslaorbdamage.title,Superconductivity
+upgrades.proberechargeafterbattle.title,Stationless Probe
+upgrades.assignmentssendwater.title,Deliver Water
+upgrades.probecharges.title,Probe Charges
+pause.gamepadcontrols.pickup,หยิบ
+upgrades.prospectionmeter.title,Prospecting Meter
+upgrades.condenserspeed2.title,เร่งผลิต 2
+loadout.mode.hyperactive.desc,มอนสเตอร์เคลื่อนที่ไวขึ้นแต่มีพลังชีวิตน้อย
+upgrades.teleporterlightweight.title,Lightweight Portal
+versus.corruptionstunresistance.title,Stun Resistance
+loadout.versusmod.versusmodifierpoorirondeposits,Thin Iron Deposits
+level.gameover.prestige.uploading.finalfailed,ขออภัย! อัพโหลดคะแนนไม่สำเร็จ
+modding.currentprofile,โปรไฟล์ปัจจุบัน
+upgrades.versussendiron.title,Deliver Iron
+loadout.assignment.title,Choose Your Assignment
+options.keybindings.rebinding,การเชื่อมต่อ
+upgrades.teslaspeed2.title,Reticle Speed 2
+level.tutorial.beastmaster.hole_1,Hold| to dig a hole in the back wall.
+level.tutorial.beastmaster.hole_2,"A catgoblin will soon emerge, connecting it to their tunnel system."
+upgrades.keeper3shurikenstrength2.title,Massive Shuriken
+upgrades.versusspycam.desc,Receive a new station which allows you to monitor the other team's dome.
+loadout.versusmod.versusmodifiershortcycles,Short Cycles
+options.accessibility.fontsize.large,ใหญ่
+reward.rewardcentralmarker.desc,Mark the center of the mine with a vertical line.
+upgrades.shieldstrength3.desc,เกราะดูดซับความเสียหายได้มากยิ่งขึ้น
+options.game.movementsnapping,Snap Movement to Cardinal Directions
+upgrades.laseraimline.title,ศูนย์เล็งเลเซอร์
+upgrades.converterironduplication.title,Iron Refinement
+upgrades.jetpackspeed4.desc,ปรับปรุงไอพ่นให้เคลื่อนที่เร็วขึ้น
+options.keybindings.gamepad,จอยสติ๊ก
+upgrades.teslapower1.title,Shot Power 1
+gadget.slot.mineshaft,Mine Shaft
+keybindings.reset.title,Key Bindings Reset
+upgrades.autocannonrateoffire2.desc,Further increases the rate of fire.
+multiplayer.join.localonly,Only searching for local games. Enable Online Multiplayer?
+upgrades.keeper3aerialmastery.title,Aerial Mastery
+upgrades.extractordestruction.desc,"Instead of withering inside their tunnels, the worms will collapse rocks they tunneled into, also destroying some surrounding rock."
+properties.shield.battleabilityduration,ระยะเวลาสกิล {} วินาที
+upgrades.keeper4squad3.desc,Increases the number of Catgoblins in the squad and their endurance.
+level.gameover.prestige.score.rankimproved,เพิ่มระดับของคุณเป็น {rank}
+options.game.tutorials.noneunlocked,No tutorials unlocked.
+upgrades.droneyardparasites2.desc,Boost the effectiveness of your parasitic drones.
+loadout.prestige.provocation,Provocation
+network.error.generic,Network error.
+options.game.ropesnapping,Snap Rope and Aim Indicator to Cardinal Directions
+upgrades.keeper4catgoblindig1.title,Catgoblin Digging
+level.gameover.manualmove,Manual Camera
+upgrades.domesupplementcombatrepair1.desc,Automatically repairs the dome once during combat after taking a certain amount of damage. Does not consume cobalt.
+upgrades.prospectionmeterscandelay1.title,Improved Scan Speed
+assignment.goaltype,Goal
+properties.keeper1.speedlosspercarry,น้ำหนักต่อทรัพยากร
+upgrades.extractor.desc,Grow portable extractor worms that attach to iron clusters and efficiently extract them over time.
+unlock.mapsize.huge,Win a run on a large map to unlock.
+upgrades.liftcarrykeeper2.desc,The lift boosts your speed even more.
+loadout.mapsize.title,ขนาดแผนที่
+loadout.difficulty.hard,แกไม่รอดแน่
+upgrades.rocketlauncherdamage1.title,Improved Missiles
+versus.corruptionfastmonsters.title,Swift Monsters
+multiplayer.host.online.desc,ผู้เล่นทั่วโลกสามารถเข้าร่วมได้
+upgrades.keeper4speed3.desc,Greatly increases movement speed.
+network.error.offline,The connection to the network has been lost. Please check your network connection.
+level.tutorial.ninja.carry.desc1_1,Resources are automatically picked up by walking over them.
+upgrades.resourcepackerconstant.desc,"Near instant recharge makes the usage nearly unrestricted, in addition to improving bundle size and scaling."
+loadout.versusmod.versusmodifiersecondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+assignment.logistics.desc,The Keeper's Guild discovered abundant water on this planet and tasks you with handling the logistics.
+properties.shockwave.damage,ดาเมจ {}
+pause.gamepadcontrols.back,กลับ

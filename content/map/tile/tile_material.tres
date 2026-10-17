@@ -1,0 +1,15 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=2]
+
+[ext_resource path="res://game/map/tile/cracks.gdshader" type="Shader" id=1]
+[ext_resource path="res://game/map/tile/cracks1.png" type="Texture2D" id=2]
+
+[resource]
+shader = ExtResource( 1 )
+shader_param/cracks_texture_size = 24
+shader_param/top_damage = 0.0
+shader_param/right_damage = 0.0
+shader_param/bottom_damage = 0.0
+shader_param/left_damage = 0.0
+shader_param/highlight_color = Color( 0, 0, 0, 1 )
+shader_param/texture_strength = 1.0
+shader_param/cracks_texture = ExtResource( 2 )

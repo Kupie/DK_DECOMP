@@ -1,0 +1,15 @@
+[gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://dvxqv22h1idaw"]
+
+[ext_resource type="Texture2D" uid="uid://cwkehcx5pkc7o" path="res://gui/buttons/button_disabled.png" id="1"]
+
+[resource]
+content_margin_left = 16.0
+content_margin_top = 12.0
+content_margin_right = 16.0
+content_margin_bottom = 12.0
+texture = ExtResource("1")
+texture_margin_left = 25.0
+texture_margin_top = 13.0
+texture_margin_right = 5.0
+texture_margin_bottom = 9.0
+region_rect = Rect2(0, 0, 36, 40)

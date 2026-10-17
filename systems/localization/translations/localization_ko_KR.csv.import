@@ -1,0 +1,15 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://bab5k4hbypcgf"
+
+[deps]
+
+source_file="res://systems/localization/translations/localization_ko_KR.csv"
+dest_files=["res://systems/localization/translations/localization_ko_KR.ko_KR.translation"]
+
+[params]
+
+compress=true
+delimiter=0

@@ -1,0 +1,103 @@
+[gd_scene load_steps=15 format=3 uid="uid://gkxg3f53m35j"]
+
+[ext_resource type="Script" path="res://content/keeper/keeper3/KunaiImpactBurst.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://bupw086lckr6l" path="res://content/map/tile/tile-dust.png" id="2"]
+
+[sub_resource type="Curve" id="Curve_dfd3w"]
+_data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(0.2, 0.8), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="CurveTexture" id="CurveTexture_f8g7j"]
+curve = SubResource("Curve_dfd3w")
+
+[sub_resource type="Gradient" id="Gradient_mr1gn"]
+offsets = PackedFloat32Array(0, 0.52, 1)
+colors = PackedColorArray(0.643137, 0.67451, 0.721569, 0.65, 0.631373, 0.658824, 0.705882, 0.35, 0.690196, 0.713725, 0.752941, 0)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture_u0bqy"]
+gradient = SubResource("Gradient_mr1gn")
+
+[sub_resource type="Curve" id="Curve_kis3e"]
+_data = [Vector2(0, 0.7), 0.0, 0.0, 0, 0, Vector2(1, 1.1), 0.0, 0.0, 0, 0]
+point_count = 2
+
+[sub_resource type="CurveTexture" id="CurveTexture_vbgxe"]
+curve = SubResource("Curve_kis3e")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_rp8ft"]
+particle_flag_disable_z = true
+emission_shape = 2
+emission_sphere_radius = 3.0
+direction = Vector3(0, -1, 0)
+spread = 40.0
+initial_velocity_min = 40.0
+initial_velocity_max = 70.0
+angular_velocity_min = -1.5
+angular_velocity_max = 1.5
+linear_accel_min = -45.0
+linear_accel_max = -25.0
+scale_min = 0.6
+scale_max = 1.3
+scale_curve = SubResource("CurveTexture_vbgxe")
+color_ramp = SubResource("GradientTexture_u0bqy")
+alpha_curve = SubResource("CurveTexture_f8g7j")
+
+[sub_resource type="Curve" id="Curve_f6p6p"]
+_data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(0.55, 0.85), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="CurveTexture" id="CurveTexture_w9p5k"]
+curve = SubResource("Curve_f6p6p")
+
+[sub_resource type="Gradient" id="Gradient_kwx6t"]
+colors = PackedColorArray(0.541176, 0.431373, 0.341176, 1, 0.447059, 0.356863, 0.282353, 0)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture_007c1"]
+gradient = SubResource("Gradient_kwx6t")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_wsp5f"]
+particle_flag_disable_z = true
+emission_shape = 2
+emission_sphere_radius = 2.0
+direction = Vector3(0, -1, 0)
+spread = 24.0
+initial_velocity_min = 140.0
+initial_velocity_max = 220.0
+angular_velocity_min = -6.0
+angular_velocity_max = 6.0
+gravity = Vector3(0, 160, 0)
+damping_min = 20.0
+damping_max = 40.0
+scale_min = 0.12
+scale_max = 0.2
+color_ramp = SubResource("GradientTexture_007c1")
+alpha_curve = SubResource("CurveTexture_w9p5k")
+
+[node name="KunaiImpactBurst" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Dust" type="GPUParticles2D" parent="."]
+emitting = false
+amount = 27
+process_material = SubResource("ParticleProcessMaterial_rp8ft")
+texture = ExtResource("2")
+lifetime = 0.2
+one_shot = true
+randomness = 0.45
+visibility_rect = Rect2(-18, -18, 36, 36)
+
+[node name="Debris" type="GPUParticles2D" parent="."]
+emitting = false
+amount = 2
+process_material = SubResource("ParticleProcessMaterial_wsp5f")
+texture = ExtResource("2")
+lifetime = 0.25
+one_shot = true
+randomness = 0.4
+visibility_rect = Rect2(-20, -12, 40, 24)
+
+[node name="CleanupTimer" type="Timer" parent="."]
+wait_time = 0.45
+one_shot = true
+
+[connection signal="timeout" from="CleanupTimer" to="." method="_on_cleanup_timer_timeout"]

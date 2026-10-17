@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://bwv0ttmgfw5cg"]
+
+[ext_resource type="Script" path="res://content/critters/Critters.gd" id="1"]
+[ext_resource type="Script" path="res://content/critters/CrittersSynchronizer.gd" id="2"]
+
+[node name="Critters" type="Node2D" node_paths=PackedStringArray("synchronizer") groups=["pauseL"]]
+script = ExtResource("1")
+synchronizer = NodePath("CrittersSynchronizer")
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 5.0
+
+[node name="CrittersSynchronizer" type="Node" parent="."]
+script = ExtResource("2")
+target_connection_states = [3, 6]
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]

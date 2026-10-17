@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c8uela8t4dlm5"]
+
+[ext_resource type="Script" path="res://systems/cheats/CheatDetection.gd" id="1"]
+
+[node name="CheatDetection" type="Node"]
+script = ExtResource("1")

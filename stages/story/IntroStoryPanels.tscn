@@ -1,0 +1,251 @@
+[gd_scene load_steps=8 format=3 uid="uid://b4lqqevx41cbo"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="StyleBox" path="res://stages/story/panel_intro.tres" id="2"]
+[ext_resource type="Texture2D" uid="uid://cs4bmn3s3fu6u" path="res://stages/story/dome1_pixel_high_color1.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://dyx4aaq1a4ek1" path="res://stages/story/dome2_pixel_high.png" id="4"]
+[ext_resource type="FontVariation" uid="uid://cmphosyxqvcqp" path="res://gui/fonts/FontSmall.tres" id="5"]
+[ext_resource type="LabelSettings" uid="uid://qsc7kngg06e5" path="res://gui/fontsettings/SmallFontSettings.tres" id="6"]
+[ext_resource type="Texture2D" uid="uid://bllfm6o7e6snc" path="res://stages/story/dome3_pixel_high_color2.png" id="7"]
+
+[node name="Node" type="Node"]
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+
+[node name="Part1" type="MarginContainer" parent="Canvas"]
+visible = false
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 20
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Canvas/Part1"]
+layout_mode = 2
+theme = ExtResource("1")
+
+[node name="PanelContainer2" type="PanelContainer" parent="Canvas/Part1/HBoxContainer"]
+custom_minimum_size = Vector2(550, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/panel = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/Part1/HBoxContainer/PanelContainer2"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="Canvas/Part1/HBoxContainer/PanelContainer2/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Congratulations! 
+Your purchase of the laser dome “Deadeye” from Brunelleschi Interstellar includes compulsory membership in the Keeper’s Guild! 
+Along with the comfort of fellowship, this grants you access to a variety of opportunities for our mutual benefit!"
+autowrap_mode = 3
+
+[node name="TextureRect2" type="TextureRect" parent="Canvas/Part1/HBoxContainer"]
+texture_filter = 1
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = ExtResource("3")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="Part2" type="MarginContainer" parent="Canvas"]
+visible = false
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 20
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Canvas/Part2"]
+layout_mode = 2
+theme = ExtResource("1")
+
+[node name="PanelContainer2" type="PanelContainer" parent="Canvas/Part2/HBoxContainer"]
+custom_minimum_size = Vector2(550, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/panel = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/Part2/HBoxContainer/PanelContainer2"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="Canvas/Part2/HBoxContainer/PanelContainer2/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "As you know, only the core dome components can be landed planetside. Its included equipment means no planet is too tough to tame. 
+The control station offers all kinds of useful upgrades and you will be very productive in your state-of-the-art Keeper suit with its jetpack, autodrill, and materials tether system."
+autowrap_mode = 3
+
+[node name="TextureRect2" type="TextureRect" parent="Canvas/Part2/HBoxContainer"]
+texture_filter = 1
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = ExtResource("4")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="PanelContainer3" type="PanelContainer" parent="Canvas/Part2/HBoxContainer/TextureRect2"]
+layout_mode = 0
+offset_left = 527.0
+offset_top = 216.0
+offset_right = 612.0
+offset_bottom = 269.0
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_horizontal = 6
+size_flags_vertical = 4
+theme_override_styles/panel = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/Part2/HBoxContainer/TextureRect2/PanelContainer3"]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+
+[node name="Label" type="Label" parent="Canvas/Part2/HBoxContainer/TextureRect2/PanelContainer3/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Laser"
+
+[node name="PanelContainer6" type="PanelContainer" parent="Canvas/Part2/HBoxContainer/TextureRect2"]
+layout_mode = 0
+offset_left = 357.0
+offset_top = 652.0
+offset_right = 465.0
+offset_bottom = 705.0
+grow_horizontal = 0
+grow_vertical = 2
+size_flags_horizontal = 6
+size_flags_vertical = 4
+theme_override_styles/panel = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/Part2/HBoxContainer/TextureRect2/PanelContainer6"]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+
+[node name="Label" type="Label" parent="Canvas/Part2/HBoxContainer/TextureRect2/PanelContainer6/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Keeper"
+
+[node name="PanelContainer4" type="PanelContainer" parent="Canvas/Part2/HBoxContainer/TextureRect2"]
+layout_mode = 0
+anchor_left = 0.188737
+anchor_top = -0.0384615
+anchor_right = 0.257991
+anchor_bottom = -0.0384615
+offset_left = 669.0
+offset_top = 374.0
+offset_right = 773.0
+offset_bottom = 427.0
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_horizontal = 6
+size_flags_vertical = 4
+theme_override_styles/panel = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/Part2/HBoxContainer/TextureRect2/PanelContainer4"]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+
+[node name="Label" type="Label" parent="Canvas/Part2/HBoxContainer/TextureRect2/PanelContainer4/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Control Station"
+
+[node name="PanelContainer5" type="PanelContainer" parent="Canvas/Part2/HBoxContainer/TextureRect2"]
+layout_mode = 0
+anchor_left = 0.0563166
+anchor_top = -0.0375
+anchor_right = 0.0563166
+anchor_bottom = -0.0375
+offset_left = 108.0
+offset_top = 352.0
+offset_right = 256.0
+offset_bottom = 428.0
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_horizontal = 6
+size_flags_vertical = 4
+theme_override_styles/panel = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/Part2/HBoxContainer/TextureRect2/PanelContainer5"]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/Part2/HBoxContainer/TextureRect2/PanelContainer5/MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="Label" type="Label" parent="Canvas/Part2/HBoxContainer/TextureRect2/PanelContainer5/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Orchard"
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="Canvas/Part2/HBoxContainer/TextureRect2/PanelContainer5/MarginContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("5")
+text = "Primary Gadget"
+label_settings = ExtResource("6")
+horizontal_alignment = 1
+
+[node name="Part3" type="MarginContainer" parent="Canvas"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 20
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Canvas/Part3"]
+layout_mode = 2
+theme = ExtResource("1")
+
+[node name="PanelContainer2" type="PanelContainer" parent="Canvas/Part3/HBoxContainer"]
+custom_minimum_size = Vector2(550, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/panel = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/Part3/HBoxContainer/PanelContainer2"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="Canvas/Part3/HBoxContainer/PanelContainer2/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Of course your arrival won’t go unnoticed, so anticipate the local lifeforms getting hostile fairly quick. Give it your best defense!
+Remember, if you do fall, the emergency evac teleportation system will whisk you away to the safety of your orbiting rescue pod. You’ll be back to planning your next expedition right away."
+autowrap_mode = 3
+
+[node name="TextureRect2" type="TextureRect" parent="Canvas/Part3/HBoxContainer"]
+texture_filter = 1
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+texture = ExtResource("7")
+expand_mode = 1
+stretch_mode = 5

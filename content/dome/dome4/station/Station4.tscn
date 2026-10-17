@@ -1,0 +1,329 @@
+[gd_scene load_steps=43 format=3 uid="uid://jc2u2s0aehs5"]
+
+[ext_resource type="Script" path="res://content/dome/dome4/station/Station4.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://cmn3fbrc50l1a" path="res://content/dome/dome4/station/station_background.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://fjbldikevaei" path="res://content/dome/dome4/station/station_sheet.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://bci56ry4yl5py" path="res://content/gadgets/teleporter/teleport_startup_energy2.png" id="4"]
+[ext_resource type="Script" path="res://content/keeper/keeper2/CustomStyle_ChangeModulate.gd" id="5"]
+[ext_resource type="PackedScene" uid="uid://02emll07tpim" path="res://content/shared/Usable.tscn" id="6"]
+[ext_resource type="Texture2D" uid="uid://c7m4vc0nuq8qy" path="res://content/dome/dome4/station/station_wavealert.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://dsxl2haohxe3j" path="res://content/dome/station/station_alarm_sheet.png" id="8"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="9"]
+[ext_resource type="Texture2D" uid="uid://d0x4yuav01a4l" path="res://content/dome/dome4/station/station_outside.png" id="10"]
+[ext_resource type="Script" path="res://content/dome/station/StationSynchronizer.gd" id="11"]
+[ext_resource type="Script" path="res://content/dome/WeaponSynchronizer.gd" id="12"]
+
+[sub_resource type="AtlasTexture" id="4"]
+atlas = ExtResource("3")
+region = Rect2(0, 0, 31, 31)
+
+[sub_resource type="AtlasTexture" id="5"]
+atlas = ExtResource("3")
+region = Rect2(62, 0, 31, 31)
+
+[sub_resource type="AtlasTexture" id="6"]
+atlas = ExtResource("3")
+region = Rect2(31, 0, 31, 31)
+
+[sub_resource type="AtlasTexture" id="7"]
+atlas = ExtResource("3")
+region = Rect2(0, 0, 31, 31)
+
+[sub_resource type="AtlasTexture" id="1"]
+atlas = ExtResource("3")
+region = Rect2(31, 0, 31, 31)
+
+[sub_resource type="AtlasTexture" id="2"]
+atlas = ExtResource("3")
+region = Rect2(62, 0, 31, 31)
+
+[sub_resource type="AtlasTexture" id="3"]
+atlas = ExtResource("3")
+region = Rect2(93, 0, 31, 31)
+
+[sub_resource type="SpriteFrames" id="8"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("4")
+}],
+"loop": true,
+"name": &"idle",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("5")
+}, {
+"duration": 1.0,
+"texture": SubResource("6")
+}, {
+"duration": 1.0,
+"texture": SubResource("7")
+}],
+"loop": false,
+"name": &"off",
+"speed": 12.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("1")
+}, {
+"duration": 1.0,
+"texture": SubResource("2")
+}, {
+"duration": 1.0,
+"texture": SubResource("3")
+}],
+"loop": false,
+"name": &"on",
+"speed": 12.0
+}]
+
+[sub_resource type="CanvasItemMaterial" id="10"]
+particles_animation = true
+particles_anim_h_frames = 8
+particles_anim_v_frames = 3
+particles_anim_loop = true
+
+[sub_resource type="Gradient" id="12"]
+colors = PackedColorArray(1, 1, 1, 1, 1, 1, 1, 0)
+
+[sub_resource type="GradientTexture2D" id="13"]
+gradient = SubResource("12")
+width = 128
+
+[sub_resource type="ParticleProcessMaterial" id="11"]
+particle_flag_disable_z = true
+emission_shape = 2
+emission_sphere_radius = 3.0
+angle_max = 360.0
+gravity = Vector3(0, 0, 0)
+scale_min = 0.2
+scale_max = 0.2
+color_ramp = SubResource("13")
+anim_speed_min = 0.1
+anim_speed_max = 0.1
+anim_offset_max = 1.0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_kvfmd"]
+atlas = ExtResource("8")
+region = Rect2(0, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_rtk4y"]
+atlas = ExtResource("8")
+region = Rect2(7, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_bw5mx"]
+atlas = ExtResource("8")
+region = Rect2(14, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_shmn1"]
+atlas = ExtResource("8")
+region = Rect2(21, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_vaup0"]
+atlas = ExtResource("8")
+region = Rect2(28, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_h05mj"]
+atlas = ExtResource("8")
+region = Rect2(35, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_r2isb"]
+atlas = ExtResource("8")
+region = Rect2(42, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_cbf3w"]
+atlas = ExtResource("8")
+region = Rect2(49, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="9"]
+atlas = ExtResource("8")
+region = Rect2(56, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nxy3i"]
+atlas = ExtResource("8")
+region = Rect2(63, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_w2u8j"]
+atlas = ExtResource("8")
+region = Rect2(70, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_j18es"]
+atlas = ExtResource("8")
+region = Rect2(77, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_yjuao"]
+atlas = ExtResource("8")
+region = Rect2(84, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="14"]
+atlas = ExtResource("8")
+region = Rect2(91, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="15"]
+atlas = ExtResource("8")
+region = Rect2(98, 0, 7, 6)
+
+[sub_resource type="AtlasTexture" id="16"]
+atlas = ExtResource("8")
+region = Rect2(105, 0, 7, 6)
+
+[sub_resource type="SpriteFrames" id="17"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_kvfmd")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_rtk4y")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bw5mx")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_shmn1")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_vaup0")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_h05mj")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_r2isb")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_cbf3w")
+}, {
+"duration": 1.0,
+"texture": SubResource("9")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nxy3i")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_w2u8j")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_j18es")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_yjuao")
+}, {
+"duration": 1.0,
+"texture": SubResource("14")
+}, {
+"duration": 1.0,
+"texture": SubResource("15")
+}, {
+"duration": 1.0,
+"texture": SubResource("16")
+}],
+"loop": true,
+"name": &"default",
+"speed": 30.0
+}]
+
+[sub_resource type="Curve2D" id="Curve2D_npelj"]
+_data = {
+"points": PackedVector2Array(0, 0, 0, 0, 3, -8, 0, 0, 0, 0, -34, -112)
+}
+point_count = 2
+
+[node name="Station" type="Node2D" node_paths=PackedStringArray("synchronizer", "weapon_synchronizer")]
+texture_filter = 1
+position = Vector2(1, -4)
+script = ExtResource("1")
+synchronizer = NodePath("StationSynchronizer")
+weapon_synchronizer = NodePath("WeaponSynchronizer")
+
+[node name="StationBackground" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(5, 1)
+texture = ExtResource("2")
+
+[node name="Sprite2D" type="AnimatedSprite2D" parent="."]
+z_index = 1
+position = Vector2(3, -8)
+sprite_frames = SubResource("8")
+animation = &"idle"
+
+[node name="GPUParticles2D" type="GPUParticles2D" parent="Sprite2D"]
+z_index = -1
+material = SubResource("10")
+position = Vector2(6, -2)
+emitting = false
+amount = 20
+process_material = SubResource("11")
+texture = ExtResource("4")
+lifetime = 0.3
+script = ExtResource("5")
+self_init = true
+
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Sprite2D"]
+remote_path = NodePath("../../StationOutsideCrop/StationOutside")
+update_rotation = false
+update_scale = false
+
+[node name="Usable" parent="." instance=ExtResource("6")]
+position = Vector2(0, -7)
+
+[node name="KeeperPosition" type="Marker2D" parent="."]
+position = Vector2(7, -5)
+
+[node name="StationWavealert" type="Sprite2D" parent="."]
+z_index = 1
+texture_filter = 1
+position = Vector2(13, 3)
+texture = ExtResource("7")
+
+[node name="WaveAlarm" type="AnimatedSprite2D" parent="."]
+z_index = 1
+position = Vector2(13, 0)
+sprite_frames = SubResource("17")
+frame = 3
+
+[node name="Path2D" type="Path2D" parent="."]
+curve = SubResource("Curve2D_npelj")
+
+[node name="PathFollow2D" type="PathFollow2D" parent="Path2D"]
+unique_name_in_owner = true
+position = Vector2(3, -8)
+rotation = -1.9126
+loop = false
+
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Path2D/PathFollow2D"]
+remote_path = NodePath("../../../Sprite2D")
+update_rotation = false
+update_scale = false
+
+[node name="MoveTween" parent="." instance=ExtResource("9")]
+
+[node name="StationOutsideCrop" type="Control" parent="."]
+clip_contents = true
+layout_mode = 3
+anchors_preset = 0
+offset_left = -57.0
+offset_top = -137.0
+offset_right = -10.0
+offset_bottom = -115.0
+mouse_filter = 2
+
+[node name="StationOutside" type="Sprite2D" parent="StationOutsideCrop"]
+z_index = 1
+texture_filter = 1
+position = Vector2(60, 129)
+texture = ExtResource("10")
+
+[node name="StationSynchronizer" type="Node" parent="."]
+script = ExtResource("11")
+target_connection_states = [3, 6]
+
+[node name="WeaponSynchronizer" type="Node" parent="."]
+script = ExtResource("12")
+target_connection_states = [3, 6]
+
+[connection signal="animation_finished" from="Sprite2D" to="." method="_on_Sprite_animation_finished"]
+[connection signal="animation_looped" from="Sprite2D" to="." method="_on_sprite_2d_animation_looped"]

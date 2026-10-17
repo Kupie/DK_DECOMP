@@ -1,0 +1,133 @@
+[gd_scene load_steps=5 format=3 uid="uid://dxb5i3nnnbkwl"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://stages/level/BattlePopup.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://y24moy72idmu" path="res://gui/buttons/Action.tscn" id="4"]
+
+[node name="BattlePopup" type="CenterContainer"]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -868.0
+offset_top = -49.0
+offset_right = 868.0
+grow_horizontal = 0
+grow_vertical = 0
+size_flags_horizontal = 4
+size_flags_vertical = 8
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="Tween" parent="." instance=ExtResource("3")]
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 8
+
+[node name="HintContainers" type="GridContainer" parent="PanelContainer"]
+layout_mode = 2
+columns = 4
+
+[node name="MoveContainer" type="HBoxContainer" parent="PanelContainer/HintContainers"]
+visible = false
+layout_mode = 2
+
+[node name="ActionWeaponMoveUp" parent="PanelContainer/HintContainers/MoveContainer" instance=ExtResource("4")]
+layout_mode = 2
+action = "ui_up"
+
+[node name="ActionWeaponMoveLeft" parent="PanelContainer/HintContainers/MoveContainer" instance=ExtResource("4")]
+layout_mode = 2
+action = "ui_left"
+
+[node name="ActionWeaponMoveDown" parent="PanelContainer/HintContainers/MoveContainer" instance=ExtResource("4")]
+layout_mode = 2
+action = "ui_down"
+
+[node name="ActionWeaponMoveRight" parent="PanelContainer/HintContainers/MoveContainer" instance=ExtResource("4")]
+layout_mode = 2
+action = "ui_right"
+
+[node name="LeftRightLabel" type="Label" parent="PanelContainer/HintContainers/MoveContainer" groups=["splitscreen_scalable_font"]]
+layout_mode = 2
+text = "level.station.battle.navbar.move"
+
+[node name="VSeparator2" type="VSeparator" parent="PanelContainer/HintContainers/MoveContainer"]
+layout_mode = 2
+
+[node name="SpecialContainer" type="HBoxContainer" parent="PanelContainer/HintContainers"]
+visible = false
+layout_mode = 2
+
+[node name="ActionSpecial" parent="PanelContainer/HintContainers/SpecialContainer" instance=ExtResource("4")]
+unique_name_in_owner = true
+layout_mode = 2
+action = "dome_special"
+
+[node name="SpecialLabel" type="Label" parent="PanelContainer/HintContainers/SpecialContainer" groups=["splitscreen_scalable_font"]]
+layout_mode = 2
+text = "level.station.battle.navbar.reload"
+
+[node name="VSeparator" type="VSeparator" parent="PanelContainer/HintContainers/SpecialContainer"]
+layout_mode = 2
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="PanelContainer/HintContainers"]
+visible = false
+layout_mode = 2
+
+[node name="ActionShoot" parent="PanelContainer/HintContainers/HBoxContainer2" instance=ExtResource("4")]
+unique_name_in_owner = true
+layout_mode = 2
+action = "dome_fire"
+
+[node name="UpLabel" type="Label" parent="PanelContainer/HintContainers/HBoxContainer2" groups=["splitscreen_scalable_font"]]
+layout_mode = 2
+text = "level.station.battle.navbar.shoot"
+
+[node name="VSeparator" type="VSeparator" parent="PanelContainer/HintContainers/HBoxContainer2"]
+layout_mode = 2
+
+[node name="Battle1Container" type="HBoxContainer" parent="PanelContainer/HintContainers"]
+visible = false
+layout_mode = 2
+
+[node name="Actionbattle1" parent="PanelContainer/HintContainers/Battle1Container" instance=ExtResource("4")]
+layout_mode = 2
+action = "dome_ability1"
+
+[node name="Label" type="Label" parent="PanelContainer/HintContainers/Battle1Container" groups=["splitscreen_scalable_font"]]
+layout_mode = 2
+text = "level.station.battle.navbar.battle1"
+
+[node name="VSeparator" type="VSeparator" parent="PanelContainer/HintContainers/Battle1Container"]
+layout_mode = 2
+
+[node name="Battle2Container" type="HBoxContainer" parent="PanelContainer/HintContainers"]
+visible = false
+layout_mode = 2
+
+[node name="Actionbattle2" parent="PanelContainer/HintContainers/Battle2Container" instance=ExtResource("4")]
+layout_mode = 2
+action = "dome_ability2"
+
+[node name="Label" type="Label" parent="PanelContainer/HintContainers/Battle2Container" groups=["splitscreen_scalable_font"]]
+layout_mode = 2
+text = "level.station.battle.navbar.battle2"
+
+[node name="VSeparator" type="VSeparator" parent="PanelContainer/HintContainers/Battle2Container"]
+layout_mode = 2
+
+[node name="ExitContainer" type="HBoxContainer" parent="PanelContainer/HintContainers"]
+visible = false
+layout_mode = 2
+
+[node name="ActionBack" parent="PanelContainer/HintContainers/ExitContainer" instance=ExtResource("4")]
+layout_mode = 2
+action = "ui_cancel"
+
+[node name="Label" type="Label" parent="PanelContainer/HintContainers/ExitContainer" groups=["splitscreen_scalable_font"]]
+layout_mode = 2
+text = "level.station.battle.navbar.exit"

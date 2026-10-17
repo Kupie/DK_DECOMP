@@ -1,0 +1,80 @@
+[gd_scene load_steps=5 format=3 uid="uid://bgs0qxxxho38l"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="2"]
+[ext_resource type="FontVariation" uid="uid://g3vbmmqhudaf" path="res://gui/fonts/FontHeading.tres" id="3"]
+[ext_resource type="LabelSettings" uid="uid://b5aow2qb2h3pe" path="res://gui/fontsettings/HeadingFontSettings.tres" id="4"]
+
+[node name="DomeInputSettingsPopup" type="ColorRect"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+theme = ExtResource("1")
+color = Color(0.0705882, 0.0705882, 0.101961, 0.733333)
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="PanelContainer" type="PanelContainer" parent="CenterContainer"]
+layout_mode = 2
+theme_override_styles/panel = ExtResource("2")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("3")
+text = "Dome Input Settings"
+label_settings = ExtResource("4")
+horizontal_alignment = 1
+
+[node name="PanelContainer" type="PanelContainer" parent="CenterContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="Keeper4Box" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/Keeper4Box"]
+layout_mode = 2
+text = "Use mouse controls for the following domes:"
+
+[node name="Dome1Checkbox" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/Keeper4Box"]
+layout_mode = 2
+text = "upgrades.dome1.title"
+
+[node name="Dome2Checkbox" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/Keeper4Box"]
+layout_mode = 2
+text = "upgrades.dome2.title"
+
+[node name="Dome3Checkbox" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/Keeper4Box"]
+layout_mode = 2
+text = "upgrades.dome3.title"
+
+[node name="Dome4Checkbox" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/Keeper4Box"]
+layout_mode = 2
+text = "upgrades.dome4.title"
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.cancel"
+
+[node name="ButtonApply" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.ok"
+
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2/CancelButton" to="." method="_on_CancelButton_pressed"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2/ButtonApply" to="." method="_on_ButtonApply_pressed"]

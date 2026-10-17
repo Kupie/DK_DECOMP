@@ -1,0 +1,90 @@
+[gd_scene load_steps=2 format=3 uid="uid://ddrp2xlculenq"]
+
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="1"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 28.0
+offset_bottom = 24.0
+
+[node name="Background" type="PanelContainer" parent="."]
+layout_mode = 0
+offset_left = 378.0
+offset_top = 129.0
+offset_right = 1009.0
+offset_bottom = 751.0
+theme_override_styles/panel = ExtResource("1")
+
+[node name="LeaderboardBoundries" type="VBoxContainer" parent="Background"]
+layout_mode = 2
+
+[node name="LeaderboardHeader" type="HBoxContainer" parent="Background/LeaderboardBoundries"]
+layout_mode = 2
+
+[node name="Ranku" type="Label" parent="Background/LeaderboardBoundries/LeaderboardHeader"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+text = "rank"
+
+[node name="Playeru" type="Label" parent="Background/LeaderboardBoundries/LeaderboardHeader"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+text = "Player"
+
+[node name="Scoreu" type="Label" parent="Background/LeaderboardBoundries/LeaderboardHeader"]
+layout_mode = 2
+text = "Score"
+
+[node name="Line" type="HSeparator" parent="Background/LeaderboardBoundries"]
+layout_mode = 2
+
+[node name="Leaderboard" type="VBoxContainer" parent="Background/LeaderboardBoundries"]
+layout_mode = 2
+
+[node name="Button" type="Button" parent="."]
+layout_mode = 0
+anchor_right = 7.749
+anchor_bottom = 3.496
+offset_left = 460.0
+offset_top = 879.0
+offset_right = 268.04
+offset_bottom = 821.16
+text = "Upload"
+
+[node name="Button2" type="Button" parent="."]
+layout_mode = 0
+anchor_right = 7.749
+anchor_bottom = 3.496
+offset_left = 637.0
+offset_top = 880.0
+offset_right = 466.04
+offset_bottom = 822.16
+text = "Download and show"
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 415.0
+offset_top = 780.0
+offset_right = 561.0
+offset_bottom = 794.0
+text = "Please Enter a Number"
+
+[node name="TextEdit" type="TextEdit" parent="."]
+layout_mode = 0
+anchor_bottom = 0.148
+offset_left = 407.0
+offset_top = 807.0
+offset_right = 823.0
+offset_bottom = 855.892
+text = "0"
+
+[node name="uploadLabel" type="Label" parent="."]
+layout_mode = 0
+offset_left = 884.0
+offset_top = 929.0
+offset_right = 1119.0
+offset_bottom = 959.0
+
+[connection signal="pressed" from="Button" to="." method="_on_Button_pressed"]
+[connection signal="pressed" from="Button2" to="." method="_on_Button2_pressed"]

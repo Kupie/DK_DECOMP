@@ -1,0 +1,12 @@
+[gd_scene load_steps=3 format=3 uid="uid://bsun8on4a2gql"]
+
+[ext_resource type="Script" path="res://content/keeper/OneWayTeleporter.gd" id="1"]
+[ext_resource type="Script" path="res://systems/network/Synchronizer.gd" id="2"]
+
+[node name="OneWayTeleporter" type="Node2D" node_paths=PackedStringArray("synchronizer") groups=["saveable", "special2"]]
+script = ExtResource("1")
+synchronizer = NodePath("Synchronizer")
+
+[node name="Synchronizer" type="Node" parent="."]
+script = ExtResource("2")
+target_connection_states = [6]

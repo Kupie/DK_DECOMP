@@ -1,0 +1,55 @@
+[gd_scene load_steps=6 format=3 uid="uid://bnrg3rusaxmgf"]
+
+[ext_resource type="PackedScene" uid="uid://difanam1ljo2j" path="res://stages/loadout/LoadoutChoice.tscn" id="1"]
+[ext_resource type="Script" path="res://stages/loadout/AssignmentChoice.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://b6g0mx6jboumy" path="res://content/icons/badge1.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://cmjyr5ei6g8th" path="res://content/icons/badge2.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://c1vbldgk8ilne" path="res://content/icons/workshop.png" id="5"]
+
+[node name="AssignmentChoice" instance=ExtResource("1")]
+custom_minimum_size = Vector2(220, 110)
+script = ExtResource("2")
+
+[node name="Control" type="Control" parent="." index="4"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 8
+mouse_filter = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Control" index="0"]
+layout_mode = 0
+offset_left = -59.0
+offset_top = -40.0
+offset_right = 61.0
+offset_bottom = 40.0
+mouse_filter = 2
+alignment = 1
+
+[node name="Badge1" type="TextureRect" parent="Control/HBoxContainer" index="0"]
+unique_name_in_owner = true
+layout_mode = 2
+mouse_filter = 2
+texture = ExtResource("3")
+stretch_mode = 3
+
+[node name="Badge2" type="TextureRect" parent="Control/HBoxContainer" index="1"]
+unique_name_in_owner = true
+layout_mode = 2
+mouse_filter = 2
+texture = ExtResource("4")
+stretch_mode = 2
+
+[node name="Control2" type="Control" parent="." index="5"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="ModIcon" type="TextureRect" parent="Control2" index="0"]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = -20.0
+offset_top = -21.0
+offset_right = 12.0
+offset_bottom = 11.0
+rotation = -0.00354111
+texture = ExtResource("5")
+stretch_mode = 2

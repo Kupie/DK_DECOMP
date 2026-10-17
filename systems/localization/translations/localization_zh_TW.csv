@@ -1,0 +1,2207 @@
+﻿key,zh_TW
+upgrades.teslapersistance1.title,耐久電能球 1
+upgrades.keeper4ramping1.title,慣性
+upgrades.stationextensionupgrades.desc,在移動式控制台中遠程購買升級。
+upgrades.sword.title,劍
+upgrades.autocannonimproved.desc,改良加農炮的各個層面。
+upgrades.laserstrength1.title,威力 1
+properties.monstermodifiers.timebetweenwavesmodifier,回合長度：{.percent}
+level.gameover.unlock.modifiers,已解開全新的單輪遊戲調整器！
+keybindings.reset.explanation.ps5,由於最近的更新對輸入方案進行了重大更改，你的鍵位綁定已被重置。對於由此給你帶來的不便，我們深表歉意！
+reward.rewardrerolloffers2.desc,用水購買多次重擲道具或補給選擇的機會。
+upgrades.proberecharge.desc,探測器會隨時間推移自行緩慢充能。
+versus.corruptionmonsterdamage.title,致命怪獸
+loadout.start.area.press,按下 | 開始該輪遊戲！
+upgrades.shieldbattleblastdamage.title,致命爆破
+properties.monstermodifiers.move_speed,怪獸移動速度：{.percent}
+upgrades.mushroomfarmspeed1.title,蘑菇速度 1
+upgrades.chainsawdamage1.title,鋸片大小 1
+properties.orchard.battlerootexplosion,爆炸傷害：{}
+level.tutorial.assessor.bundleguide.desc2.switch,未朝任何方向移動時，按下「|」可放置固定射束。
+upgrades.swordtargetlock.desc,突刺時，利劍會自動鎖定其所瞄準的第一隻怪獸。
+reward.rewardautomatedweapons.desc,讓你的副武器自動化。
+options.input.gamepad,搖控制器
+playerlist.profile,檢視個人檔案
+upgrades.stunlaserstun1.title,眩暈強度 1
+properties.condenser.overchargedelay,生產延遲 (回合)：{}
+exhibition.level.description,再...後返回主選單
+keybindings.reset.explanation.switch,由於最近的更新對輸入方案進行了重大更改，你的鍵位綁定已被重置。對於由此給你帶來的不便，我們深表歉意！
+upgrades.shockwave.title,衝擊鎚
+properties.keeper3.shurikencooldown,手裏劍冷卻時間：{}s
+upgrades.prestige.title,聲望挑戰
+modding.prestigewhitelist,如果你認為聲望模式應該允許使用某個模組，請在 Discord 上告訴我們，我們會審核看看。要是這個模組不會破壞遊戲平衡，而且還能改善可玩性或視覺效果，那就有可能通過審核。
+upgrades.extractordoublebuild.desc,提升蠕蟲的生產效率。
+upgrades.chainsawdamage3.title,鋸片大小 3
+modding.modio.error,mod.io 錯誤
+loadout.versusmod.versusmodifiermirroredmap.desc,穹頂下方的地圖彼此互為對稱鏡像。
+actionhint.blast,爆破
+multiplayer.host.crossplay,啟用跨平台遊玩
+properties.converter.ironpercobalt,每份鈷 {} 份鐵
+upgrades.shieldovercharge.desc,使用水來讓護盾超載，使其在下一波戰鬥中能承受更多傷害。
+properties.droneyard.overchargebattledronestrength,強化戰鬥無人機：{.percent}
+options.game.showkeeperaimindicator,顯示守護者瞄準指示器
+upgrades.autocannonautonomy.title,自律系統
+properties.keeper4.holesquadduration,採礦小隊持續時間：{}s
+options.keybindings.rebinding.capture,擷取
+options.game.screenshake.shakeintensity,震動強度
+upgrades.keeper2pinballspherelifetime.desc,增加球體的飛行時間。
+upgrades.swordreflection2.title,反彈 2
+upgrades.lift.title,升降機
+assignment.circumstance,條件
+options.input,輸入設定
+properties.keeper2.spheresplit,拆分傳入球
+properties.tesla.damage,射擊傷害：{}
+options.game.events.allowtelemetry,啟用線上多人遊戲
+properties.keeper1.maxspeed,最高速度 {}
+level.tutorial.tesla.panel3content1,特斯拉穹頂用途廣泛。您需要妥善結合它所的有能力，才能獲致成功。
+level.tutorial.sworddome.reflecting.desc,運用劍刃盾牌來抵擋投射物，甚至可以反彈回去。
+options.game.bundlesnapping,允許集束的準星快速對準四個方位
+upgrades.spiresustain.title,持續射擊
+reward.rewardpermanentinventory.title,永久性資源庫存
+properties.furnace.ironduration,鐵燃燒時間 (回合)：{}
+level.gameover.assignment.badges.more,完成此任務的挑戰模式以獲得其他徽章。
+upgrades.droneyardovercharge2.title,改良超載
+multiplayer.error.joincodefailed,找不到任何大廳符合該加入代碼。
+properties.laser.movespeedwhilefiring,發射時移動速度 {.percent}
+upgrades.keeper3shurikencooldown1.title,迅速手裏劍
+upgrades.orchardduration2.desc,進一步延長水果的效期。
+options.input.controls,控制
+upgrades.droneyardovercharge3.desc,在無人機場超載後獲得更多的額外無人機。
+upgrades.blastminingimpactdetonation.desc,爆破裝藥彈在撞擊表面時會爆炸。爆炸將向衝擊方向偏移。
+upgrades.drillbotstrength3.title,強度 3
+level.gameover.clientdisconnect,中斷與主機的連線
+upgrades.swordstabexplode.desc,劍刃附著一顆炸彈，在突刺到的第一名敵人身上引爆。
+properties.keeper4.minpunchdelay,最快出拳速度：{}s
+options.audio.music,音樂
+upgrades.keeper3carrylimit3.title,載運容量 3
+upgrades.keeper4swiftpunch.desc,採礦會以更高的初始速度啟動。
+assignment.showdown.desc,這顆星球的怪物正在準備一次大規模的攻擊。
+properties.suitblaster.chargespeedpercharge,每次充能的額外充能速度：{.percent}
+loadout.versusmod.versusmodifierhardrock,堅硬岩石
+properties.keeper4.catgoblinminingspeed,貓地精挖掘速度：{.percent}
+keeperdlc.title,失落的守護者
+upgrades.drillbotduplicate.title,兄弟
+properties.mushroomfarm.drillbuffduration,挖掘強化持續時間：{} 秒
+upgrades.droneyardbattlegridlong1.desc,放出更多停留時間更長的無人機。
+level.gameover.prestige.uploading.inprocess,上傳分數中...
+upgrades.furnace.desc,安裝一個具有煙囪的熔爐。煙霧會延遲下一次的怪獸攻擊。
+leaderboard.needsOnlineServices.ps5,在選項中接受 EULA 即可查看排行榜。
+options.game.multiplayer,多人遊戲
+upgrades.shieldbattledestructionprevention.desc,"當穹頂快被摧毀時，獲得一次長時間的傷害免疫。
+使用此技能後，你的護盾要到下一場戰鬥才能充能。你需要抵擋住兩波進攻，才能再次觸發最終一搏技能。
+"
+properties.keeper2.bundlestopcenter,中心柱重力場
+upgrades.chainsawdamage2.title,鋸片大小 2
+upgrades.keeper2rotationalmining1.title,壓縮挖掘 1
+upgrades.swordlargeblade1.title,巨劍 1
+loadout.difficulty.veryeasy,普通
+level.tutorial.assessor.spheres.desc2,你的球體供應是有限的，會隨著時間的推移而自動填裝。
+level.tutorial.assessor.spheres.desc1,點按「|」即可朝著瞄準的方向發射動能球。
+upgrades.repellentdelay2.desc,進一步增加拖延下一波敵人到來的時間。
+upgrades.artillerydirecthit1.desc,改良你的迫擊砲，發射可直接命中的砲彈。
+reward.rewardpet12.title,狗狗寵物
+upgrades.keeper2movement4.desc,收集和攜帶資源時移動得更快。
+properties.sword.stabspeed,突刺速度 {.percent} 
+upgrades.artillerysplash3.title,揮發性炸藥 2
+properties.drillbot.amount,可鑽探次數：{}
+options.game.autopickupkunaicarrier,自動拾取苦無運輸器
+upgrades.stunlaserautonomy1.desc,即使你離開了控制台，眩暈雷射也會啟動。
+properties.shockwave.stunstrength,眩暈強度：{}
+level.gameover.continue,繼續
+multiplayer.host.joincodeunavailable,無法使用
+upgrades.shieldbattlelongerafterdepletion.desc,護盾耗盡後才觸發的電場爆破可持續得更久。
+level.tutorial.assessor.mining.desc,持續推動單塊岩石即可將之移除。
+upgrades.teleporterteleportresourcesback.desc,"現在傳送洞可以傳送資源回基地, 然而現在你只能把自己由基地傳送到另一邊, 你卻不能傳送回基地"
+keybindings.reset.doreset,重設我的按鍵
+upgrades.jetpackstrength1.title,負重強度 1
+level.tutorial.beastmaster.squad_1,在洞口附近按住「|」即可呼叫採礦小隊。
+loadout.prestige.pro.explanation,降低一些隨機性並為道具、補給和洞穴定義限定順序。
+level.tutorial.beastmaster.squad_3,同時只能有一支小隊在行動。
+upgrades.swordelectrified.desc,電流在利劍中傳導，使其光是與敵接觸便能造成傷害。
+level.tutorial.beastmaster.squad_2,採礦小隊會隨機開採洞口周圍的岩石。
+upgrades.drill1.title,電鑽強度 1
+loadout.start.area.move,將全部守護者移動到此處以開始！
+level.station.upgrademenu.close,關閉
+upgrades.rocketlauncherrestock.title,補充導彈
+upgrades.chainsawdamage1.desc,提升電鋸對怪獸造成的傷害。
+level.station.battle.navbar.artilleryshoot,迫擊砲
+upgrades.repellentdelay3.title,延遲 3
+upgrades.suitblasterspeed1.title,充能速度 1
+level.gameover.stats.additional,詳細統計資料
+options.audio.music.ost.mode.adaptive,適應型 (推薦)
+upgrades.furnacestrongwaterfiring.title,增強水燃料
+properties.dome.meleethorndamage,反擊傷害：{}
+upgrades.repellentbattlelongerhealthreduction.desc,加強所有可見怪獸的凋零效果。
+level.tutorial.tesla.panel3header,多功能
+versus.corruptionstunresistance.desc,怪獸將能大幅抵抗暈眩與減速效果。
+level.tutorial.assessor.spheres,動能球
+upgrades.chainsawdouble.title,雙電鋸
+upgrades.keeper4squad1.desc,召喚一支專業的貓地精礦工小隊，挖掘附近的岩石。牠們特別擅長避開資源周圍進行挖掘。
+versus.message.corruption,對手隊伍剛向你施放了一項怪獸腐化效果。
+options.keybindings.action.keeper.gadget1,配件 1
+options.keybindings.action.keeper.gadget2,配件 2
+upgrades.shieldbattlereflectspeed.title,反彈加速
+properties.monsters.additionalstartweight,額外波次重量：{}
+level.gameover.stats.damagedealt,造成傷害量
+properties.keeper2.reflectspeed,球體加速：{.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,技能的額外持續時間：{} 秒
+properties.converter.ironcobalttime,鐵轉換為鈷的時間 (回合)：{}
+upgrades.droneyardbattlegrid.desc,部署一組戰鬥無人機，防禦附近的怪獸。
+upgrades.suitblasterradius1.desc,提升爆炸範圍。
+upgrades.droneyardbattlegridquick1.title,快速無人機
+options.input.controls.keybindings.button.ps5,變更按鈕設定
+multiplayer.host.ping,伺服器 Ping: %dms
+title.navbar.singleplayer,單人遊戲
+options.video.renderhalfres.enable,半解析度成像
+level.gameover.stats.destroyedblocks,破壞的方格數量
+upgrades.converterefficientwaterlong.desc,將水的轉換變成一個耗時較長但產量很高的過程。
+level.gameover.restart,重啟本輪
+options.video.stretchmode.scaled,放大
+level.tutorial.beastmaster.mine.desc1,想要開採岩石，就持續朝著岩石推進。
+level.tutorial.beastmaster.mine.desc2,每次擊中後，採礦速度都會提高。
+upgrades.domesupplementscraprepair2.desc,恢復穹頂因廢料修復而失去的結構生命值。
+upgrades.keeper2bundle3.desc,射向中心軸的射束將停留在穹頂下方，而不是飛過去。
+leaderboard.fellowkeepers,公會排名
+upgrades.autocannon.desc,在穹頂上安裝一個強大的自動加農炮，對怪獸造成大量傷害。
+properties.orchard.battlerootcatchduration,陷阱持續時間 {}s
+upgrades.laseraimline.desc,為雷射增加一個瞄準鏡，顯示瞄準的位置。
+upgrades.teslapersistance2.title,耐久電能球 2
+upgrades.orchardovercharge2.desc,提升超載對戰鬥能力的影響。
+actionhint.teleport,傳送
+loadout.difficulty.medium.description,穹頂守護者的推薦難度。
+upgrades.swordlargeblade2.title,巨劍 2
+loadout.prestige.endless,無盡模式
+upgrades.teslanurture.title,培育電能球
+upgrades.shieldbattleelectroblast.desc,主動戰鬥技能，觸發後短期內可在穹頂周圍創造出致命的電場效應。
+options.game.blocklist.desc,"以下是你目前封鎖的玩家名單。
+封鎖後，你將不會在線上遊戲中遇到對方。
+如果改變心意，可於下方取消封鎖。
+最多可封鎖%s名玩家。"
+actionhint.cancel,取消
+upgrades.shockwavestun2.title,衝擊波眩暈 2
+upgrades.liftcapacity1.desc,升降機能攜帶更多資源。
+upgrades.domewavemeter.title,周邊敵對反應偵測儀
+level.gameover.assignment.win.title,任務完成
+gadget.slot.cellar,地下室
+options.game.ropecamerafollow,使用繩索時的鏡頭前探強度
+properties.probe.autorecharge,自動充能
+level.tutorial.repair.usecobalt,鈷可以用來修復穹頂。該功能可以在穹頂科技樹的升級項目中找到。
+level.supplementchoice.title,選擇一項補給！
+options.keybindings.action.general.right,右
+gadget.slot.keepersuit,守護者服裝
+assignment.cobaltcontribution.desc,公會請求盡快交付大量的鈷以應急切需求。
+upgrades.prestigefinish.desc,離開這個星球並回家
+loadout.mapsize.huge.description,大型地圖，可以持續玩最久。
+options.game.events,活動
+loadout.versusmod.versusmodifierrichirondeposits.desc,鐵礦脈雖小，但蘊藏豐富。
+loadout.mode.shortcycles.desc,遭遇攻擊的間隔時間更短。
+multiplayer.error.lobby.host,建立大廳失敗。
+level.tutorial.sworddome.reflecting,反射
+level.tutorial.artillery.panel3header,爆炸 & 直接命中
+assignment.rareiron.title,鐵礦短缺
+level.tutorial.assessor.carry.desc1_1,一旦資源鎖定到你身上，即使放開收集按鍵，也仍會跟著你。
+level.station.battle.navbar.slice,揮砍
+upgrades.furnacewaterfiring.title,水燃料
+upgrades.drill.desc,一個可以深入礦坑的中央鑽頭，可以選配側鑽頭。
+level.gameover.stats.additionalgadget,額外道具
+level.tutorial.tesla.panel2content1,長按「|」即可蓄力射擊。
+level.tutorial.tesla.panel2content2,只有在完全蓄力後鬆開按鍵才能進行射擊。在此之前鬆開按鍵不會有任何作用。
+upgrades.teslapersistance1.desc,電能球變得更大且更耐久，停留時間更長。
+upgrades.blastminingtriple.desc,一次產生多個炸彈，而非單個。
+properties.droneyard.battledronecount,戰鬥無人機：{}
+options.ok,確認
+loadout.versusmod.versusmodifiermanycaverns,洞穴密布地圖
+upgrades.lasermove1.desc,使雷射的移動速度提高。
+upgrades.domewavewarner.desc,當攻擊即將到達時，攻擊偵測儀會發出訊號，提醒你返回穹頂。這是適應型偵測儀，會隨著時間的推移而提高其準確度。
+upgrades.dome4.title,特斯拉穹頂
+upgrades.keeper4squad1.title,隧道小隊
+upgrades.keeper4autospawnminers.desc,每當挖出新的隧道入口時，都會自動出現一支採礦小隊。
+assignment.unpredictable.title,通訊中斷
+upgrades.blastminingblast3.desc,將炸彈升級至極限強度。
+upgrades.domewavepathtodome.title,退返路線
+level.tutorial.probe.popup_1.switch,按下「|」可發出探測脈衝。
+upgrades.teslapower1.desc,提升特斯拉射擊的威力。
+loadout.versus.modifiers.title,調整項
+properties.furnace.irondelay,鐵延遲：{} 秒
+actionhint.pickup,撿起
+demo.end.subtitle,完整的遊戲提供了大量的內容。如果您玩得開心，請考慮取得完整版。這是完整版的一些內容：
+loadout.versusmod.versusmodifierironinflation.desc,所有升級所需鐵礦量加倍，但鐵礦脈更為豐富。
+upgrades.artilleryprojectileerasure.title,投射物分散
+options.video.brightness.reset,重設
+upgrades.domesandrepair.desc,使用鈷來維修受損的穹頂。
+upgrades.swordlongblade2.title,長劍 2
+pause.restartrun,重啟本輪
+options.input.gamepad.thumbstick.ps5,搖桿
+level.tutorial.caves,洞穴
+options.input.gamepad.gamepadstickdeadzone,搖桿死區
+upgrades.keeper3shuriken2.title,迅捷手裏劍
+upgrades.condenserspeed1.desc,減少凝結水需要的時間。
+properties.monsters.fixedweight,固定波次強度：{}
+properties.versus.ironcontribution,鐵礦貢獻 {}
+multiplayer.join.title,加入多人遊戲場次
+upgrades.prestigewater.title,運送水
+upgrades.keeper3kunaibounce2.title,深層共鳴
+upgrades.swordtargetlock.title,目標鎖定
+upgrades.artillerymachinegun4.title,快速槍擊
+upgrades.mushroomfarmdrill2.title,蘑菇挖掘 2
+upgrades.stunlaser.desc,安裝一門可以自動瞄準並使怪獸眩暈的雷射炮。
+upgrades.shieldbattleinvulnerable.title,無敵
+loadout.hint.dome,選擇穹頂！
+loadout.versusmod.versusmodifierrichirondeposits,緻密鐵礦脈
+upgrades.chainsawdouble.desc,安裝另一個電鋸，以便有效保護穹頂的兩側。
+properties.lift.capacity,運輸球攜帶 {} 個資源
+reward.rewardcentralmarker.title,中心標記
+upgrades.autocannonrateoffire1.title,機槍 1
+loadout.versusmod.versusmodifierwindingmap,蜿蜒地圖
+upgrades.prospectionmetersand2.title,鈷礦指南針
+properties.lift.orbs,{} 顆運輸球
+upgrades.keeper3doublejump.desc,在空中時可再跳一次。
+upgrades.droneyardparasites3.title,寄生無人機 3
+upgrades.keeper4doublesquad.title,第二小隊
+upgrades.relichunt.title,文物蒐集
+upgrades.orchardbattlerooting.desc,在戰鬥期間啟動，可讓樹根延伸至穹頂外，纏住任何誤踏的中型怪獸。
+upgrades.prospectionmetergadget.title,房間偵測儀
+properties.sword.reflection,增加盾牌大小。
+upgrades.extractorresources1.desc,培育出能仔細工作的特殊蠕蟲，提煉更多的鐵。
+properties.dome.autohealdamagethreshold,在受到的傷害超過 {}hp 時啟動
+upgrades.keeper2rotationalmining2.desc,提升開採岩石的速度。
+properties.tesla.persistencestunstrength,電能球麻痹強度：
+level.gameover.stats.timeplayed,遊玩時數
+properties.sword.stabdamage,突刺傷害 {} 
+properties.monsters.additionalwaveweight,額外波次強度：{.percent}
+options.game.playerindicatorsinmultiplayer,在多人遊戲中顯示玩家指示器
+properties.mushroomfarm.speedbuff,移動速度強化：{}
+level.tutorial.drillbot.carry,將鑽頭哥從缸中取出，放置到礦坑內想挖掘的地方。
+modding.modio.decline,拒絕
+assignment.inversegravity.desc,這顆星球的重力是反向的。
+level.tutorial.drop.popup_2,點按「|」可放下一份，長按則可放下多份。
+upgrades.droneyardbattlegridquick1.desc,在更短的時間內放出更多無人機。
+upgrades.mushroomfarmautopickup.desc,當移動到蘑菇附近時自動食用蘑菇。
+level.tutorial.drop.popup_1,攜帶的貨物會減緩您的移動速度。
+properties.sword.retractspeed,收劍速度 {} 
+reward.rewardkeeper1skin5.title,工程師造型
+upgrades.keeper4.desc,奧術守護者，能以靈活的觸手穿梭礦坑，並指揮貓地精隨從。
+assignment.condition.deliverwater,交付 %d 份水
+loadout.difficulty.hard.description,嘛，失去穹頂的是你唄。
+upgrades.keeper4speed2.title,移動速度 2
+loadout.versusmod.versusmodifierhardrock.desc,此地圖含有較多堅硬岩層。
+properties.furnace.maxironstack,最大鐵堆疊量：{}
+upgrades.rocketlauncherdamage2.desc,進一步提升導彈的威力。
+upgrades.artilleryrotation1.desc,允許你進一步旋轉火砲。
+level.furnace.popup.fuel.add,堆疊一個 | 待燃燒。
+reward.rewardpostrunshowmonstercount.desc,顯示額外的輪後戰鬥統計資料，例如每種類型怪獸對你所成的傷害量。
+upgrades.extractordoublebuild.title,雙倍蠕蟲
+multiplayer.error.otherteamquit,由於對方隊伍的所有玩家均已離開，遊戲已結束。你的遊戲已儲存，你可以在「繼續遊戲」選單中選取「多人遊戲」來繼續遊戲。
+upgrades.blastminingproductiontime1.title,製作時間
+upgrades.chainsawdamage2.desc,提升電鋸對怪獸造成的傷害。
+multiplayer.continue.deviceselection.originalplayer,原始玩家
+upgrades.shieldbattleinvulnerable.desc,主動戰鬥技能，觸發後可讓穹頂在短期內免疫於一切傷害。
+level.gameover.unlock.drillbert,已解開鑽頭哥調整器！
+multiplayer.host.splitscreen.desc.switch,在裝備畫面中使用控制器以召喚額外的守護者。最多兩名守護者可共用同一畫面，並可與線上多人遊戲搭配使用。
+loadout.mapsize.large,大
+level.furnace.popup.explanation,將資源加進燃料堆裡。資源會逐個燃燒。
+upgrades.liftcapacity1.title,乘載量
+upgrades.shockwavebig.title,致命波動
+upgrades.extractorresources2.desc,培育出會在岩石中找到每一顆鐵粒的蠕蟲。
+level.tutorial.ninja.shuriken.desc1,連按兩下「|」即可投擲手裏劍。
+level.tutorial.ninja.shuriken.desc2,手裏劍會隨時間補充。
+upgrades.droneyarddronespeed1.title,無人機速度
+upgrades.stunlaserarea.title,範圍眩暈
+assignment.weakmining.title,挖掘問題
+options.game.events.allowtelemetry.ps5,接受 EULA
+upgrades.keeper3kunaibounce2.desc,提高每次反彈可揭露的磚塊範圍。
+assignment.projectilehell.title,投射物地獄
+options.input.controls.mouse.gamepad.ps5,切換至控制器並返回時由系統自動偵測。
+reward.rewardpermanenthealthmeter.title,永久性生命值顯示儀
+properties.game.fixedtimelimit,時間限制：{} 分鐘
+upgrades.drillbot.title,鑽頭哥
+options.video.performance,效能
+properties.furnace.waterduration,水燃燒時間 (回合)：{}
+multiplayer.join.profile,個人檔案
+upgrades.droneyardbattlegrid.title,戰鬥網格
+loadout.prestige.countdown.description,開局時擁有很高的聲望加成，然後隨著各個回合慢慢降低。
+level.tutorial.ninja.carry.desc1,點按「|」即可朝你用 %s 瞄準的方向擲出攜帶資源的苦無。
+level.gameover.miner.title,已完成礦工輪
+loadout.mapsize.medium.description,一般大小的地圖，適合標準的採礦流程。
+upgrades.assignmentsemergencycontribution2.desc,請在第 4 回合前送出這個包裹，否則此任務會失敗。
+level.gameover.unlocknewelementbutton,選擇解鎖項目
+upgrades.repellentbattlestrongerslowdown2.desc,進一步讓霧氣減緩怪獸的能力變得更強更持久。
+upgrades.orchardovercharge3.desc,提升超載對戰鬥能力的影響。
+modding.steamworkshop,開啟 Steam Workshop
+upgrades.drillbotstrength2.title,強度 2
+reward.rewardkeeper1skin5.desc,為工程師解鎖新的守護者造型。
+options.keybindings.rebinding.error.gamepad,無法將此設定為遊戲手把的輸入來源。
+properties.keeper2.actioncooldown,動作冷卻時間：{}秒
+pause.godot,使用 Godot 引擎製作
+loadout.mode.nomonsters,無怪獸
+properties.teleporter.teleportduration,傳送持續時間：{} 秒
+level.paused,暫停
+upgrades.teslaautoaim.desc,十字線獲得一個小區域，在該區域內它會自動瞄準最近的怪物。
+upgrades.domearmorpulse.desc,穹頂護甲會保留部分從攻擊中所累積的動能，最終將其以強力脈衝的形式釋放，使附近的敵人眩暈。
+upgrades.teslapower2.title,射擊威力 2
+loadout.versus.team.closed,關閉
+upgrades.stunlaserduration2.desc,眩暈雷射冷卻得更快，攻擊的持續時間也更長。
+level.station.battle.navbar.move,移動
+upgrades.repellentbattleslowdown.title,衰弱
+properties.drillbot.buffstrength,充滿能量時速度提升 {.percent}
+options.input.controls.keybindings.button.switch,變更按鈕設定
+upgrades.keeper4speed1.title,移動速度 1
+upgrades.stunlaserduration2.title,攻擊持續力 2
+modding.profile.delete,刪除檔案
+upgrades.dome1health1.desc,永久性提升穹頂的結構生命值。
+assignment.logistics.title,物流惡夢
+level.gameover.prestige.score.finalscore,你的最終分數為…
+upgrades.prestige.desc,在穹頂陷落或安全離開星球前，盡可能將資源運送回家，從而賺取聲望點數。
+properties.chainsaw.damage,每秒傷害：{}
+upgrades.autocannonshotgun2.desc,提高霰彈槍威力。
+reward.rewardthreechoicesgadget.title,三種道具優惠
+options.input.gamepad.twinstick,雙搖桿控制
+upgrades.domewavewarner.title,適應型攻擊警告器
+upgrades.mushroomfarmdrill1.desc,提升食用蘑菇後獲得的挖掘強化。
+properties.suitblaster.chargespeed,每回合充能次數：{}
+loadout.player.color,守護者顏色
+level.assignment.badges.unlock,再贏得 %d 個徽章即可解鎖。
+assignment.projectilehell.desc,這個星球上到處都是口吐投射物的飛行怪獸。
+properties.repellent.overchargebattleabilityduration,技能的額外持續時間：{.percent}
+properties.orchard.battleshieldhp,強度 {}hp
+properties.keeper2.reflectsphere,反射力場
+upgrades.probecharges.desc,為探測器增加一次使用次數。
+upgrades.resourcepackerconstant.title,包裝大師
+upgrades.droneyardbattlegridlong2.desc,放出超多停留時間超長的無人機。
+upgrades.swordreflection2.desc,進一步增加盾牌的大小。
+upgrades.orchardovercharge3.title,強效超載
+upgrades.assignmentsemergencycontribution4.desc,請在第 11 回合前送出這個包裹，否則此任務會失敗。
+upgrades.droneyardovercharge3.title,大範圍超載
+level.gameover.assignment.lose.title,任務失敗
+actionhint.pack,打包
+upgrades.stationextensionminimap.title,製圖學
+properties.tesla.orbdamage,電能球傷害：
+properties.furnace.maxwaterstack,最大水堆疊量：{}
+loadout.versusmod.versusmodifiermirroredmap,鏡像地圖
+upgrades.artilleryrotation1.title,寬幅旋轉
+upgrades.drillsidespeed2.desc,進一步加快側鑽頭的速度。
+level.tutorial.resourcepacker.popup_1,靠近資源時，按 | 將其打包成便於運輸的集束。
+properties.orchard.overchargeabilityuses,額外技能使用次數：{}
+options.input.controls.gamepadusage,遊戲控制器的使用
+options.keybindings.restoredefault,還原預設
+options.input.gamepad.switch,控制器
+upgrades.stationextensionresolution.title,高解析度顯示
+upgrades.shieldbattlelongerafterdepletion.title,耗盡加成
+telemetry.manage.ps5,拒絕 EULA
+level.gameover.stats.damagereceived,所受傷害量
+modding.modio.moddownloadfailed,下載 mod.io 模組時發生錯誤！
+loadout.versusmod.versusmodifierironinflation,鐵礦通膨
+reward.rewardpermanentwavecount.title,永久性回合計數器
+upgrades.jetpackstrength1.desc,改良噴射背包，以便攜帶更多資源。
+level.gameover.unlock.gadget,解鎖了新道具！
+upgrades.stationextension.desc,在穹頂正下方的軌道上安裝一個移動式控制台。進入控制台後，即可在礦坑內遙控你的穹頂。
+loadout.versusmod.versusmodifierpoorirondeposits.desc,鐵礦脈十分龐大，但產量較低。
+upgrades.repellentbattlestrongerslowdown2.title,強力停滯
+upgrades.converterirontocobalt.desc,能夠雙向性地鈷資源和鐵資源。
+loadout.dome,穹頂
+upgrades.orchardduration3.title,持續時間 3
+level.gameover.stats.resourcesmined,挖掘的資源數量
+options.input.gamepad.thumbstick,右操作桿
+upgrades.keeper1powerdrill.desc,獲得一款大幅改良的鑽頭，能輕易鑽穿最堅硬的岩石，甚至摧毀以往無法破壞的基岩。
+upgrades.domesecondweapon.title,武裝第二操作站
+actionhint.fire,攻擊
+versus.corruptionfastprojectiles.title,高速投射物
+level.gameover.unlock.dome,解鎖了新的穹頂！
+loadout.versus.modifiers.limit,已選擇 %d 個調整項 (最多 %d 個)。
+upgrades.swordstabfast2.title,快速突刺 2
+properties.blastmining.growthtime,生產時間 (回合)：{}
+options.keybindings.rebinding.inputprocessor,按下你想套用此動作的按鍵
+level.gameover.stats.difficulty,難度
+assignment.inversegravity.title,上下顛倒
+assignment.acidrain.desc,這顆星球上的酸雨讓任何生命都無法存活，甚至會腐蝕穹頂的裝甲。
+upgrades.keeper4doublesquad.desc,獲得另一支小隊，隨時聽候你的召喚。
+upgrades.keeper4powerfulfirstpunch.desc,對磚塊發動的第一擊會帶有驚人的力道。
+multiplayer.host.start,開設場次
+upgrades.mushroomfarmspeed2.title,蘑菇速度 2
+demo.end.more1,更多穹頂！
+demo.end.more2,觀測守護者！
+upgrades.swordreflection1.desc,增加盾牌的大小並且使其反彈能量子彈。
+demo.end.more3,還有更多道具！
+upgrades.chainsawspeed1.title,鋸片速度
+assignment.treefarm.desc,這顆星球的資源稀少，但能找到許多資源樹種子。
+demo.end.more4,強效補給！
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"設定一個數值，使長條不會在你僅觸碰而不推動搖桿的情況下閃爍。
+若推動搖桿，長條應該隨即閃爍。"
+actionhint.probe,探測器
+level.gameover.keepgadget.keeping,要保留的道具：{gadget}
+upgrades.keeper3aerialmastery.desc,下墜時操控性會提高，而且每次空中跳躍都會比前一次跳得更高。
+upgrades.drillbot.desc,領養一隻喜歡挖掘的可愛生物。將牠帶進礦區，丟到想讓牠工作的地方，牠就會自己開始挖掘。記得定時回來看看，以便在牠偷懶時把牠叫醒。
+upgrades.laserstrength4.title,威力 4
+upgrades.artillerydoublemachinegun.title,雙管射擊
+upgrades.laserbend.desc,在雷射炮上安裝一個旋轉頭，使其能在瞄準稍有偏差時自動修正。
+upgrades.teslaquickshot2.title,強力快速射擊
+properties.droneyard.battledronespawntime,無人機產生時間：{} 秒
+upgrades.prospectionmetersand2.desc,顯示最近處鈷礦的方向。
+upgrades.keeper2pinballreflect2.title,改良反彈
+loadout.secondstage.start,開始遊戲
+level.tutorial.extractor.popup_1,從控制台取出鐵蠕蟲並放置在鐵礦脈附近。這些鐵蠕蟲會附著在鐵礦上並隨著時間有效開採。
+upgrades.spirestuntrap2.desc,提高能量陷阱的效率，以捕捉更多投射物。
+loadout.versus.condition.deathmatch.desc,存活最久的隊伍獲勝。
+loadout.versusmod.versusmodifiertoughstart.desc,開局時的怪獸波次相當強大。
+level.tutorial.drillingrig.popup2,靠近側鑽頭時，長按「|」即可將其沿著鑽桿移動。
+level.tutorial.drillbot.sleeping2.switch,靠近鑽頭哥時，點按「|」即可將其喚醒。
+upgrades.teleporterteleportitems.title,傳送物品
+level.tutorial.drillingrig.popup1,你的鑽挖機配有側鑽頭，可進行水平挖掘。
+level.tutorial.ninja.drop.desc1,在地面上時，用 %s 朝下瞄準並按下「|」，即可丟下所有攜帶物品。
+upgrades.stationextension.title,地下控制台
+upgrades.keeper2pinballreflect2.desc,球在反彈時會附帶更強大的能量。
+properties.sword.stabrange,射程 {} 
+pause.disconnect.popup.ps5,你不能丟下主要的無線控制器。
+options.game.systemcursor,使用預設滑鼠游標
+upgrades.artillerygrenadefastreload.desc,顯著減少迫擊炮的裝填時間。
+upgrades.stationextensionrevealdistance1.title,近距離岩石掃描
+loadout.mode.secondweapon,第二武器已解鎖
+options.video.reducedparticles,降低粒子特效
+properties.monsters.finalwavefixedstrength,最後波次強度：{}
+versus.corruptionfastmonsters.desc,怪獸速度將永久加快。
+upgrades.spirestuntrap1.desc,擊落投射物會產生一個能量陷阱，能捕捉更多投射物。其能捕捉的數量取決於投射物的威力。
+versus.corruptionfastprojectiles.desc,怪獸投射物的飛行速度將大幅提升。
+options.input.gamepad.twinstick.switch,雙操控搖桿控制（單個 Joy-Con 禁用）
+upgrades.autocannonrateoffire2.title,機槍 2
+upgrades.chainsaw.title,電鋸
+options.input.vibration.strength,震動強度
+savegame.corrupted.title,存檔損毀
+properties.keeper1.drillstrength,電鑽強度 {}
+properties.prestige.multiplier,每波獲得 {} 倍聲望加成
+upgrades.artillerysplash4.desc,快速連續發射 4 枚高爆性砲彈，為全戰場帶來毀滅性的打擊。
+upgrades.condenserdoublestorage.desc,冷凝器在停止前能製作與存放兩個水。
+upgrades.shieldbattleactivateondepletion.desc,護盾耗盡時，自動啟動一次額外的傷害免疫技能。
+upgrades.chainsawspeed1.desc,使鋸片在兩側間移動得更快。
+upgrades.teleporterteleportduration2.title,傳送持續時間 2
+properties.orchard.overchargeabilitystrength,額外技能強度：{.percent}
+modding.modio.loginfailed,無法使用 Xbox 帳號登入 mod.io！
+upgrades.rocketlauncherrockets3.title,彈幕 3
+leaderboard.needsOnlineServices,需啟用線上服務才能使用排行榜功能。
+options.game.blocklist,封鎖名單
+upgrades.keeper4squad2.desc,增加小隊中的貓地精數量，並提高牠們的耐力。
+reward.rewardweaponsupplements.desc,發現極其強大的武器補給升級。
+upgrades.domesupplementadditionalcellar.desc,將你的地下室增加一層，為道具提供兩個額外的欄位。
+level.tutorial.assessor.bundle.desc1.switch,攜帶資源時，按下「|」可射出一束射束。
+loadout.difficult.harder,困難
+modding.close,關閉
+upgrades.keeper3rocketcarrier.title,火箭運輸器
+level.tutorial.assessor.spheres.desc1.aiming,點按「|」即可朝你用 %s 瞄準的方向發射動能球。
+level.gameover.unlock.gamemode,新遊戲模式
+upgrades.rocketlauncherrockets1.title,彈幕 1
+upgrades.autocannonspeed1.title,加速
+upgrades.spiresustain.desc,將充能時間降低至趨近於零，從而實現極其穩定的射速。
+upgrades.extractorresources1.title,勤奮蠕蟲
+multiplayer.host.splitscreen.desc.xbox,在裝備畫面中使用控制器以召喚額外的守護者。最多四名守護者可共用同一畫面，並可與線上多人遊戲搭配使用。
+level.assignment.badges,徽章
+upgrades.prestigefinish.title,離開星球
+properties.sword.slicebounceback,劍刃在邊緣是否彈跳
+properties.droneyard.transportdronecount,運輸無人機：{}
+upgrades.drilladditionalsides.title,額外側鑽頭
+upgrades.shieldbattleblastdamage.desc,提升電流爆破的傷害和每場戰鬥的使用次數。
+upgrades.extractordestruction.title,巢穴內爆
+properties.sword.electricdamage,導電劍刃傷害 {}
+properties.mushroomfarm.growthtime,生長時間 (回合)：{}
+upgrades.keeper3carrylimit1.desc,提高苦無運輸器可載運的資源數量。
+options.accessibility.fontsize,字体大小
+upgrades.keeper4punch2.title,狂熱 2
+upgrades.laser.desc,一門精準的雷射炮，可沿著穹頂外側移動。最初是為了開採衛星上的礦物而設計的。
+loadout.hint.multiplayer.playermaximum,最多 8 位玩家才能開始多人遊戲。
+upgrades.drillsides.title,側鑽頭
+upgrades.mushroomfarmautopickup.title,吃快餐
+options.input.controls.mouseusage,滑鼠的使用
+properties.tesla.reticlemaxspeed,照准速度：{}
+upgrades.swordstabshoot.desc,利劍不再需要用纜繩收回，而是在蓄能後像標槍一樣由穹頂射出。
+properties.condenser.autocollect,自動收集
+level.gameover.back,返回
+loadout.mapsize.small,小
+loadout.hint.gamemode,選擇遊戲模式！
+upgrades.swordlargeblade3.title,巨劍 3
+level.tutorial.ninja.controls,這名守護者只能使用控制器或滑鼠與鍵盤來操作。
+telemetry.explanation.ps5,"接受 EULA 即可使用線上多人遊戲功能。
+若不接受，您仍可透過分割畫面進行本地多人遊戲模式。
+
+您隨時都可以在選項中變更此設定。"
+multiplayer.techtree.keeperexclusiveupgrades,這些升級僅會套用至你的守護者。
+assignment.heavyhitters.desc,這顆星球上擠滿了擅長近距離戰鬥怪獸。
+options.input.controls.mouse.domes,為穹頂使用滑鼠
+loadout.mode.toughstart, 艱困開局
+upgrades.swordaimline.desc,安裝一個雷射瞄準鏡，協助利劍進行精準突刺。
+upgrades.assignmentssendiron.title,傳送鐵
+upgrades.domearmormelee1.title,近距離護甲 1
+assignment.showdown.title,一決勝負
+upgrades.keeper3shuriken1.desc,獲得可投擲的手裏劍，會在小範圍內爆炸，並自動補充。
+upgrades.teslatiming1.title,時間管理大師
+upgrades.stationextensionrevealdistance2.title,岩石掃描
+loadout.prestige.pro.gadgetorder,道具順序
+upgrades.prospectionmeterwater1.title,水礦距離測量儀
+properties.teleporter.teleportresources,傳送資源
+options.video.stretchmode.scaled.text,"以固定的解析度來呈現遊戲，並成比例放大以便配合您的解析度。
+畫面像素感較嚴重，尤其是在字體上，但是不會有顯示錯誤。"
+loadout.secondstage.cancel,取消
+level.station.battle.navbar.stab,突刺
+properties.keeper3.bouncesonarrange,聲納範圍 (格)：{}
+assignment.cobaltcontribution.title,鈷礦貢獻
+upgrades.keeper2pinballsplit.desc,將傳入的球體分成兩部分，然後垂直於原始方向而發射出去。
+options.input.gamepad.xbox,控制器
+upgrades.stunlaserduration1.desc,眩暈雷射炮冷卻得更快且射擊得更久。
+properties.spire.stuntrapduration,持續時間 {}s
+loadout.mapsize.medium,中
+upgrades.keeper4swiftpunch.title,迅捷打擊
+upgrades.domewavecount.title,回合計數器
+level.gadgetchoice.slot,槽：{gadget_slot}
+level.tutorial.mushroomfarm.popup_1,從蘑菇樹幹上取下菌絲孢子並放置在岩石上，這些孢子偶爾會生長成強化用蘑菇。
+options.game.languages,語言
+upgrades.autocannonshotgun2.title,霰彈槍 2
+upgrades.drillbotturnaround.title,進階調理
+level.tutorial.overcharge.popup_2,靠近並按 | 進行超載。
+level.tutorial.overcharge.popup_3,這將消耗一個 |，並且僅在你擁有足夠的庫存時才能完成。
+level.tutorial.overcharge.popup_1,你現在可以使主道具超載，藉此強化其在下一場戰鬥中的效果。
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,不再使用運輸球，升降機內的全部資源都會因反重力場的緣故而不斷向上移動。歸還球體所佔用的一部份資源。
+level.station.navbar.battle,戰鬥
+options.keybindings.rebinding.error.mouse,無法將此設定為滑鼠的輸入來源。
+options.input.gamepad.autoswitch.ps5,自動偵測喜好的遊戲控制器
+properties.lift.keeperupwardsspeed,守護者用升降機速度 {}
+loadout.keeper,守護者
+level.gameover.unlock.keeper,解鎖了新的守護者！
+options.keybindings.rebinding.inputprocessor.ps5,按下你想套用此動作的按鍵
+options.keybindings.gamepad,控制器
+upgrades.keeper4extraresource.title,勤奮的貓地精
+upgrades.shieldoverchargestrength2.title,護盾強度充能 2
+loadout.mode.domesupplements,三重補給
+upgrades.converter.desc,能夠轉換資源以幫助平衡您的資源儲存。
+assignment.minorvision.title,黑暗
+upgrades.shieldstrength1.desc,提升穹頂護盾能吸收的傷害。
+properties.stationextension.tilerevealdistance,揭露距離：{} 格
+loadout.mode.toughstart.desc,開場即面對較強的攻勢。
+upgrades.liftcarrykeeper1.desc,搭乘升降機能提升你的移動速度。
+options.input.controls.mouse.aim,使用滑鼠瞄準
+upgrades.spireprojectileslowdown.desc,尖塔持續減緩所有敵人投射物的速度。
+assignment.chosen.title,你的公會任務
+upgrades.furnacestrongwaterfiring.desc,提升燃燒水來延遲怪獸的效果。
+properties.dome.healthfractionrepair,修複了 {.percent} 總生命值
+level.tutorial.assessor.carry,重力收集
+upgrades.laserhitprojectiles.title,瓦解射線
+upgrades.teslaorbstun.title,深度效果
+reward.rewardgadgetsupplements.title,道具補給
+options.input.controls.keepersettings.individual,個別守護者設定
+upgrades.teslapower2.desc,提升特斯拉射擊的威力。
+properties.acidrain.fixeddamageperminute,每分鐘傷害：{}
+demo.end.more,還有更多：
+landing.proceed,按下任意按鈕繼續遊玩
+modding.modio.ugcterms.content2,繼續後，系統會使用你的 Xbox Live 識別碼，讓你順暢通過 mod.io 驗證。若要繼續，請閱讀並同意 mod.io 政策：
+upgrades.keeper4catgoblinamount.title,擴編育群
+modding.modio.ugcterms.content3,[i]這些條款會在系統的預設網頁瀏覽器中開啟。[/i]
+upgrades.repellentbattlestrongerslowdown1.title,停滯
+upgrades.spiresplit1.title,投射物分裂
+upgrades.suitblasterradius2.title,爆炸範圍 2
+properties.keeper4.punchstrength,出拳強度：{}
+modding.modio.ugcterms.content1,本遊戲使用 [b]mod.io[/b] 服務，讓你存取、下載和管理使用者產生內容 (UGC)。
+upgrades.versus.title,對戰
+upgrades.swordstabexplode.title,附加突刺炸彈禮包
+modding.modlist.title,已啟用模組
+options.game.kunaisnapping,允許苦無的準星快速對準四個方位
+loadout.versusmod.versusmodifiersecondweapon,第二武器已解鎖
+upgrades.teleporterteleportduration1.desc,減少傳送你需要的時間。
+options.input.controls.keybindings.button,變更按鍵設定
+upgrades.domearmor.title,穹頂護甲
+options.input.gamepad.gamepadstickdeadzone.text,"設定一個數值，使長條不會在你僅觸碰而不推動按鈕的情況下閃爍。
+若推動按鈕，長條應該隨即閃爍。"
+options.translation.community.desc,"這些語言是由社群所翻譯, 歡迎加入他們!"
+level.tutorial.beastmaster.mine,挖掘
+upgrades.keeper4speed1.desc,提高移動速度。
+properties.shield.overchargebattleabilityduration,技能的額外持續時間：{.percent}
+upgrades.shockwavedamage1.desc,提升衝擊波造成的傷害。
+network.error.offline.xbox,您與 Xbox 網路之間的連線已中斷。請確認您的網路連線狀態後再重試。
+properties.condenser.waterstorage,可存放 {} 份水
+loadout.versusmod.versusmodifierstrongmonsters.desc,怪獸更難擊殺。
+modding.title,修改
+upgrades.dome3.desc,軍用穹頂，通常能使用威力巨大的迫擊砲來對外造成破壞。配有一門防空砲，具有全面的防禦能力。
+upgrades.keeper4powerfulfirstpunch.title,第一擊
+properties.sword.brake,劍刃靈活度 {}
+level.tutorial.suitblaster.popup_1,按 | 可發射服裝爆破器，摧毀周圍一定半徑內的岩石。
+properties.stunlaser.firetime,發射持續時間：{} 秒
+level.tutorial.suitblaster.popup_2,這會隨著時間的推移自動充能。
+properties.droneyard.battleabilityuses,每場戰鬥可使用 {} 次
+upgrades.keeper4ramping1.desc,持續挖掘可逐步提升挖掘速度。停止時，慣性就會衰減。
+level.gameover.unlockpicker.title,選擇要解開的項目
+options.input.gamepad.autoswitch.switch,自動偵測喜好的遊戲控制器
+upgrades.suitblaster.desc,在你的服裝中安裝一個挖掘爆破器，可透過爆炸來摧毀附近的岩石。
+upgrades.spiresplit1.desc,命中投射物分裂成多個小投射物，對敵人造成傷害。分裂投射物的數量取決於襲來投射物的威力。
+properties.versus.additivewave,波次強度 (對手隊伍) 提升 {}
+properties.keeper3.aircontrol,空中操控性：{.percent}
+multiplayer.error.keepertaken,所選的守護者已有人選取。請換另一位守護者再試一次。
+assignment.mode.challenge,挑戰
+upgrades.keeper3shurikenstrength1.desc,提高手裏劍的爆炸威力，能破壞更大範圍內的磚塊。
+pause.invite,邀請好友
+options.accessibility.fontsize.medium,中
+upgrades.keeper2pinballdestroyadjacenttiles.desc,每當動能球摧毀一個岩磚時，垂直於衝擊點的磚塊也會遭到摧毀。
+upgrades.furnaceironfiring.title,鐵燃料
+upgrades.furnaceslowdown.desc,在煙霧中加入毒性成分，麻痺怪獸的神經系統，減緩其移動速度。
+upgrades.swordlargeblade2.desc,安裝一把巨劍。雖然速度較慢，但可以造成大量傷害。
+upgrades.blastminingblast1.desc,提升爆破的威力。
+upgrades.stationextensionrevealdistance1.desc,自動揭露控制台附近的岩石和資源。
+leaderboard.season,{season} 賽季
+multiplayer.host.crossplay.enabled,跨平台遊戲已啟用
+multiplayer.techtree.keepersharedupgrades,所有裝備此道具的守護者都會共享這些升級。
+loadout.versusmod.versusmodifierlongcycles.desc,怪獸波次間隔更長。
+upgrades.artillerydirecthit2.title,怪獸剋星 2
+upgrades.stationextensionresolution.desc,清晰獲取穹頂及其周圍環境的圖像。
+options.keybindings.action.general.use,使用
+loadout.relichunt.modifiers,單輪遊戲修改器
+assignment.heavyhitters.title,重擊者
+upgrades.furnacelastingwaterfiring.title,耐用水燃料
+properties.shield.battleblastdamage,每秒 {} 點爆破傷害
+multiplayer.error.timeout,連線逾時。
+multiplayer.join.discovering,正在搜尋遊戲場次……
+properties.condenser.growthtime,生產時間 (回合)：{}
+level.gameover.assignment.badges,你獲得了一個新徽章，可用於購買守護者公會獎勵。
+upgrades.drill1.desc,強化電鑽，挖掘得更快。
+level.corruptionchoice.title,選擇腐化效果！
+properties.artillery.grenadedamage,砲彈傷害：{}
+level.tutorial.fullscreen.continue,繼續
+options.game.spheresnapping,允許球體的準星快速對準四個方位
+options.input.gamepad.gamepadstickdeadzone.motiondetected,移動偵測:
+options.input.gamepad.icons.automatic,自動
+reward.rewardkeeper4skin3.title,馴獸師造型
+title.navbar.leaderboard,聲望
+upgrades.keeper3shurikenstrength1.title,強力手裏劍
+upgrades.spiresplit2.desc,分裂投射物速度更快，數量更多。
+upgrades.swordlargeblade1.desc,增加劍身的長度和寬度，讓其能夠造成更多傷害。
+upgrades.droneyardbattlegridlong1.title,持久無人機
+properties.stunlaser.speed,速度 {}
+upgrades.repellentbattleslowdownstun2.desc,更頻繁的使用孢子，並使怪物癱瘓的時間增加。
+upgrades.drillsidespeed1.desc,加快側鑽頭的速度。
+level.tutorial.ninja.bombs.desc1,長按「|」即可朝你用 %s 瞄準的方向發射苦無來挖掘。
+loadout.mode.maze.desc,地圖更像迷宮，會有許多岔路、死路和蜿蜒的路徑。
+upgrades.domesupplementprojectiledamagereduction2.desc,進一步提高偏轉能力以降低投射物所帶來傷害。
+level.tutorial.ninja.bombs.desc2,苦無以較斜的角度撞上牆面時會反彈。
+upgrades.domesupplementmeleedamagereduction1.desc,硬化穹頂的外殼，減少因怪獸近距離命中而帶來的傷害。投射物所造成的傷害則不受影響。
+upgrades.chainsawautonomy.title,自律系統
+options.input.gamepad.gamepadstickdeadzone.ps5,搖桿死區
+upgrades.teslapower3.desc,提升特斯拉射擊的威力。
+level.tutorial.artillery.panel1header,迫擊砲
+upgrades.keeper4punch3.title,狂熱 3
+upgrades.furnaceslowdown.title,麻痺煙霧
+upgrades.teslaspeed1.desc,提高瞄準十字線的移動速度。
+upgrades.teslaquickshot2.desc,快速射擊的威力大幅增強。
+level.tutorial.repair.findcobalt,"請試著找些鈷。鈷可以用來修復穹頂。
+鈷很稀有，而且數量有限。"
+title.navbar.newgame,新遊戲
+options.keybindings.action.dome.battle,戰鬥模式
+upgrades.keeper2pinballsplit.title,拆分球
+properties.keeper2.bundlecentralmarker,中心柱標記
+options.keybindings.gamepad.ps5,控制器
+options.video.stretchmode.rezised.text,"以原生畫面或視窗的解析度來呈現遊戲。
+畫面看起來會十分清晰，但可能會出現 1 像素寬線條形式的顯示錯誤。"
+options.audio,聲音
+upgrades.domehealthmeter.desc,顯示穹頂建築的結構生命值。
+upgrades.shieldbattlereflectshortuses.title,定時反彈
+loadout.zoom1,近
+loadout.zoom2,遠
+upgrades.orchardovercharge.title,果樹充能
+upgrades.keeperonewayteleporter.desc,獲得一部供個人使用的單向傳送器。可以在任何位置放置一個單次使用的傳送門，並隨時傳回該地。
+options.input.controls.gamepadusage.ps5,遊戲控制器的使用
+properties.orchard.battleroots,從地裡長出的樹根：{}
+upgrades.mushroomfarm.desc,在你的地下室裡培養可以在礦坑內種植的蘑菇，以便獲得速度和挖掘強化。
+keybindings.reset.title.ps5,按钮绑定重置
+multiplayer.continue.deviceselection.cancel,取消選取
+loadout.hint.selection,按下 | 選擇一個選項。
+upgrades.orchardbattleshieldsecondlayer.title,雙層藤蔓天幕
+properties.artillery.grenades,砲彈數：{}
+upgrades.drill3.title,電鑽強度 3
+assignment.weakcarry.title,後勤問題
+upgrades.shockwavestun1.title,衝擊波眩暈 1
+upgrades.domesupplementprojectiledamagereduction1.title,穹頂外殼偏轉
+properties.keeper3.maxjumps,跳躍次數：{}
+upgrades.converterefficientcobalt.desc,改良轉換以提高效率。
+properties.furnace.waterdelay,水延遲：{} 秒
+gadget.slot.keepersupplement,守護者補給
+upgrades.keeper4ramping2.title,慣性 2
+upgrades.orchardduration1.title,持續時間 1
+upgrades.domesupplementprojectiledamagereduction2.title,改良偏轉
+loadout.pet,寵物
+reward.rewarddomesupplements.desc,發現極其強大的穹頂補給升級。
+properties.prestige.score,{} 點聲望
+properties.keeper3.kunaicooldown,苦無冷卻時間：{}s
+properties.stunlaser.stunarea,眩暈範圍 {}
+upgrades.blastminingblast2.desc,進一步提升爆破的威力。
+reward.rewardrerolloffers2.title,水重擲
+upgrades.artillerysplash1.title,揮發性炸藥 1
+upgrades.drillwidetunnel.title,寬隧道
+modding.modio.ugcterms.title,使用者產生內容使用條款
+options.input.controls.keepersettings.title,守護者輸入設定
+options.keybindings.action.keeper.gravitycollect,收集
+upgrades.domearmorhealth1.desc,提升護甲的耐久性，提升穹頂的生命值。
+reward.rewardgadgetsupplements.desc,發現極其強大的道具補給升級。
+properties.laser.movespeedmod,移動速度增幅 {.percent}
+upgrades.domeresourcecounters.title,背包管理
+level.station.battle.navbar.shoot,射擊
+upgrades.jetpackstrength2.desc,改良噴射背包，以便攜帶更多資源。
+upgrades.teslapower4.title,射擊威力 4
+properties.orchard.battleabilityuses,每場戰鬥可使用 {} 次
+loadout.gadget.additional.unlock,你有一些尚未解鎖的道具。要將一件道具解鎖，請先在礦區內找到該件道具並將其安裝至穹頂上，然後贏下該輪。
+properties.laser.hitprojectiles,雷射炮可命中能量投射物
+properties.keeper2.minspeed,最低速度：{.percent}
+properties.laser.dpsmod,傷害增幅 {.percent}
+properties.prospectionmeter.scandelay,掃描延遲 {}s
+level.tutorial.artillery.panel1content2,按得越久，砲彈就飛得越遠。
+level.tutorial.artillery.panel1content1,長按「|」可使迫擊砲蓄力，接著釋放即可射擊。
+level.gameover.saveimages,儲存
+assignment.mode.regular,一般
+upgrades.teslaautoaim.title,自動開鏡
+upgrades.orchardduration1.desc,延長水果的效期。
+options.title,設定
+upgrades.probedetectchambers.desc,探測器現在也可以偵測房間。
+upgrades.dome1.desc,標準的採礦用穹頂，附有一門精準的雷射炮。
+upgrades.repellentbattlestrongerslowdown1.desc,讓霧氣減緩怪獸的能力變得更強更持久。
+upgrades.resourcepacker.desc,在你的服裝中安裝一個資源打包器，可以將多種資源打包並壓縮成一束，使其更易於運輸。
+properties.keeper4.goblinextraresourcechance,額外資源機率：{.percent}
+properties.orchard.speedbuff,移動速度強化 {}
+keybindings.reset.explanation.xbox,由於最近的更新對輸入方案進行了重大更改，你的鍵位綁定已被重置。對於由此給你帶來的不便，我們深表歉意！
+upgrades.keeper2rotationalmining2.title,壓縮挖掘 2
+upgrades.keeper3rocketcarrier.desc,將苦無運輸器替換為火箭動力版本，會沿直線飛行直到撞上目標。
+properties.blastmining.damage,傷害 {}
+options.video.renderscale,成像比例
+level.gameover.win.team.profile,選擇檔案
+options.keybindings.action.general.left,左
+properties.versus.multiplicativeewave,對手隊伍波次強度已提升 {.percent}
+level.tutorial.drillbot.sleeping1,鑽頭哥每過一段時間，或者遇到無法挖掘的牆壁時，就會開始打瞌睡。
+level.tutorial.drillbot.sleeping2,靠近時，點按「|」即可將其喚醒。
+upgrades.laserstrength4.desc,巨幅提升雷射炮的威力，但攻擊時會變得幾乎無法移動。
+upgrades.orchardovercharge2.title,改良超載
+level.tutorial.drillbot.sleeping3,在其清醒時點按「|」可使其轉向。
+modding.prestigeforbidden,使用這些模組時無法展開聲望挑戰。
+upgrades.laser.title,雷射
+upgrades.domesupplementelectrifiedsurface1.title,帶電外殼 1
+pause.quitgame,退出遊戲
+upgrades.swordlargeblade3.desc,巨大無比的劍身。威力驚人，但移動得很慢。
+upgrades.relichunt.desc,找到深埋於地底的文物並且將之帶回穹頂
+properties.shockwave.cooldown,冷卻時間：{} 秒
+upgrades.repellentdelay1.desc,增加拖延下一波敵人到來的時間。
+savegame.corrupted.desc,你的最新存檔進度已損毀，可能是在儲存時系統當機所致。已還原至先前的存檔。
+multiplayer.host.online,線上
+keybindings.reset.doreset.ps5,重設我的按鍵
+options.cancel,取消
+upgrades.keeper4catgoblindig2.title,高效挖掘
+upgrades.furnacewaterfiring.desc,在熔爐中燃燒水以進一步延遲怪獸攻擊。
+upgrades.shockwavedamage2.title,衝擊波傷害 2
+upgrades.proberange1.desc,提升探測器的範圍。
+pause.options,設定
+keeperdlc.load.missing.switch,無法載入存檔，因為其中包含無法使用的可下載內容。請確認「失落的守護者」可下載內容是否可用。
+options.keybindings.action.keeper.drop,放下
+upgrades.assignmentsemergencycontribution3.title,緊急貢獻 7
+options.game.shootbundlebeforegadgets,先發射資源射束，再使用道具
+options.video,畫面
+upgrades.blastmining.title,爆破挖掘
+modding.modio.subscriptions,顯示 Mod.IO 訂閱項目
+level.gameover.proceedtounlock,解開一個新元素
+upgrades.prospectionmeter.desc,一個可以顯示最近資源距離的儀器。
+properties.keeper2.spherereload,球體填裝時間 {}s
+options.keybindings.apply,套用
+upgrades.teslaquickshot.desc,完成蓄力射擊後，你可以透過點按射擊按鈕來進行威力較弱的單發射擊。
+level.tutorial.tesla.panel1header,照准移動
+upgrades.tesla.title,特斯拉
+properties.tesla.persistance,電能球壽命：{}s
+upgrades.repellentbattleslowdownstun1.title,癱瘓
+upgrades.probelongmarker1.title,標記記憶
+modding.modio.tokenerror,無法連線至權杖提供者！
+upgrades.stationextensionupgrades.title,遠程升級
+upgrades.prestigewater.desc,運送水，提升每次擊退一波敵人可獲得的聲望點數。
+upgrades.artillerydirecthit2.desc,提高迫擊砲彈的破壞力。
+upgrades.mushroomfarmquickgrowth.desc,蘑菇在地下室裡長得更快。
+network.error.notsignedin.ps5,請登入 PlayStation™Network 以存取線上功能
+options.input.controls.keybindings.ps5,按鈕設定
+multiplayer.error.clientcrossplaydisabled,需要啟用跨平台遊戲才能加入此大廳。
+upgrades.keeper3carrylimit2.desc,提高苦無運輸器可載運的資源數量。
+level.supplementchoice.reroll, 重骰
+upgrades.orchardbattlerootingexplosion.desc,再次觸發，即可引爆所有纏住的怪獸，對周圍造成傷害。
+upgrades.rocketlauncherrestock.desc,導彈發射井在耗盡一段時間後會補充全部導彈。
+upgrades.droneyardbattlegridquick2.title,瞬時無人機
+assignment.denseiron.title,緻密鐵礦
+options.input.controls.gamepadusage.switch,遊戲控制器的使用
+level.tutorial.ninja.bombs,苦無
+upgrades.domearmorhealth2.desc,提升護甲的耐久性，提升穹頂的生命值。
+loadout.title,裝備
+multiplayer.continue.deviceselection.team,隊伍
+properties.keeper3.kunaiweaknessagainsthardrock,苦無對硬岩的弱勢程度：{.percent}
+level.tutorial.repellent.popup_2.switch,靠近後按下「|」即可啟動。
+upgrades.chainsawdamage3.desc,提升電鋸對怪獸造成的傷害。
+level.tutorial.artillery.panel3content1,迫擊砲的砲彈具有區域效應，但直接命中所造成的傷害更大。迫擊砲的砲彈無法對穹頂造成傷害。
+level.gameover.unlock.regulargadget,解鎖了用於任務的新道具！
+options.keybindings.gamepad.switch,控制器
+options.input.gamepad.thumbstick.switch,搖桿
+upgrades.artilleryshotstun.title,震耳欲聾
+upgrades.assignments.title,公會任務
+upgrades.rocketlauncherrockets1.desc,提升你能發射的導彈數量。
+level.tutorial.assessor.bundleguide.desc1,你現在可以引導固定射束。
+level.tutorial.assessor.mining,壓縮挖掘
+level.tutorial.assessor.bundleguide.desc3,靠近這類射束，這類射束就會跟著你。
+level.gameover.win.team,隊伍 %s 獲勝
+level.tutorial.assessor.bundleguide.desc2,在未朝任何方向移動的情況下，點按「|」可放置固定射束。
+options.video.graphicsmode.window,視窗化
+upgrades.artillerymachinegun1.desc,改良你的防空砲，提升其射擊速度。另外還配備了雷射瞄準鏡，更易於瞄準。
+upgrades.droneyardovercharge1.desc,用水暫時使無人機場超載，以便在下次戰鬥中生產更多無人機。
+title.navbar.modding,修改
+assignment.treefarm.title,樹場
+level.gameover.prestige.score.personalbest,您個人最新最好的記錄!
+level.gameover.unlock.world,已解開新世界！
+assignment.chosen.todo,未選擇任務
+options.keybindings.action.dome.battleability1,戰鬥技能 1
+loadout.versusmod.versusmodifierwindingmap.desc,地圖略呈迷宮結構。
+reward.rewardweaponsupplements.title,武器補給
+upgrades.laserstrength2.title,威力 2
+upgrades.keeper2movement1.desc,改良你的重力產生器以便移動得更快。
+options.keybindings.action.dome.battleability2,戰鬥技能 2
+upgrades.domesecondweapon.desc,安裝一種新武器，由位於第二層地下室的第二操作站控制。
+upgrades.resourcepackerquickcharge.desc,提升打包能量的恢復速度。
+upgrades.laserstrength2.desc,大幅提升雷射炮的威力，但發射時移動會再變得更慢。
+upgrades.autocannonimproved.title,改良式自動加農炮
+upgrades.keeper3kunaicooldown1.desc,可以更快投擲苦無。
+upgrades.keeper2pinballsplit2.desc,拆分球將持續更久。
+upgrades.swordreflection1.title,反彈 1
+level.tutorial.ninja.drop.desc1.switch,在地面上時，用 %s 朝下瞄準並按下「|」，即可丟下所有攜帶物品。
+upgrades.suitblasterradius2.desc,提升爆炸範圍。
+options.game.dropresourcesbeforegadgets,先丟下資源，再使用道具
+options.translation.community.crowdin,Dome Keeper 在 Crowdin 的翻譯專案
+loadout.hint.playerlimitprestige,"開始遊戲
+
+由 3 名以上玩家進行聲望模式時，分數不會上傳。"
+upgrades.assignmentsemergencycontribution1.title,緊急貢獻 2
+upgrades.shockwavedamage2.desc,提升衝擊波造成的傷害。
+options.input.gamepad.autoswitch.xbox,自動偵測喜好的遊戲控制器
+loadout.versusmod.versusmodifierlittlecobalt.desc,此地圖僅含少量鈷礦礦脈。
+upgrades.keeper1.title,工程師
+level.furnace.popup.title,為熔爐加燃料
+upgrades.prospectionmeterrange2.title,範圍 2
+pause.discord,加入我們的 Discord！
+upgrades.lasermove1.title,移動速度 1
+options.input.controls.mouse.gamepad.switch,切換至控制器並返回時由系統自動偵測。
+upgrades.jetpackspeed3.title,速度 3
+upgrades.chainsawautonomy.desc,即使你離開控制台，電鋸也會保護你的穹頂。
+properties.extractor.buildcycles,蠕蟲生產 (回合)：{}
+upgrades.stunlaserstun2.desc,提高眩暈光束的威力，即使是最強大的怪獸也會受到嚴重影響。
+upgrades.teleporter.desc,雙向傳送器可連接地下室的站點與攜帶式傳送門。
+upgrades.droneyarddrones.title,運輸無人機
+level.tutorial.assessor.spheres.desc1.aiming.switch,按下「|」可朝你使用 %s 瞄準的方向射出一顆動能球。
+upgrades.liftspeed1.desc,使運輸球的移動速度提高。
+properties.prestige.provokedwavestrength,怪獸挑釁：{.percent}
+upgrades.artillery.desc,由發射大量爆炸性彈藥的大型迫擊砲和能夠快速射擊的防空砲組合而成。
+upgrades.shredgadgettocobalt.title,分解成鈷資源
+level.gameover.stats.distancetravelled,移動的距離
+loadout.mode,遊戲模式
+loadout.difficult.easier,簡單
+upgrades.domearmorhealth1.title,護甲耐久度 1
+options.game.playernamesinmultiplayer,在多人遊戲中顯示玩家名稱
+properties.sword.slicedamage,揮砍傷害 {} 
+options.keybindings.action.general,一般設定
+upgrades.keeper4punch2.desc,提高挖掘力量與最高挖掘速度。
+upgrades.keeper4catgoblinsleeptime.title,咖啡因錠
+upgrades.condenserdoublestorage.title,雙倍容量
+upgrades.drillbotbuffguidance.desc,攜帶零食時顯示朝向鑽頭哥的方向。
+loadout.versusmod.versusmodifierscatterediron.desc,鐵礦脈小且零散，但數量眾多。
+upgrades.proberange3.title,超大範圍
+upgrades.sword.desc,一把堅固的利劍，揮砍時沿著穹頂揮動的距離越遠，造成的傷害就越高。也可以發射出去突刺怪獸，同時其底部的盾牌可抵擋投射物。
+properties.rocketlauncher.rockets,火箭數：{}
+keybindings.reset.explanation,由於最近的更新對輸入方式進行了重大變更，因此系統已重置你的按鍵設定。對於因此而造成的不便，我們深表歉意！
+upgrades.shield.desc,"安裝一個能夠吸收傷害的護盾。
+自動充能。"
+multiplayer.error.lobbyfull,大廳已滿。
+upgrades.keeper3kunaibounce1.title,軌跡輔助
+loadout.team.selection,加入 %s
+level.tutorial.sworddome.slicing.desc,劍刃揮動的速度越快，傷害就越高。
+properties.drill.sidetimepertile,每格側鑽頭時間：{} 秒
+upgrades.suitblasterradius1.title,爆炸範圍 1
+upgrades.resourcepackerquickcharge.title,快速充電
+versus.corruptionmonsterdamage.desc,怪獸造成的傷害將大幅提高，包含投射物。
+properties.dome.baserepair,修複 {}hp
+loadout.team,隊伍 %s
+options.keybindings.action.general.down,下
+properties.blastmining.radius,爆炸半徑 (格)：{}
+loadout.proceed,繼續
+level.tutorial.suitblaster.popup_1.switch,按下「|」可發射服裝爆破器，摧毀自身周圍一定範圍內的岩石。
+upgrades.resourcepackercount2.title,集束擴充 2
+properties.sword.extendspeed,伸長速度 {} 
+upgrades.autocannondamage1.title,重型子彈
+properties.sword.aimline,預測線
+options.translation.community,{completion}% 完成
+properties.spire.stuntrapabsorption,傷害吸收 {.percent}
+upgrades.keeper4speed2.desc,進一步提高移動速度。
+upgrades.keeper4ramping4.title,慣性 4
+upgrades.orchard.desc,在穹頂內種一棵樹，樹上結出的水果能強化你的移動速度和挖掘的力量。
+pause.restart.popup,"確定要重新開局嗎？
+再按一次以確認。"
+multiplayer.error.versionmismatch,你的遊戲版本與主機不符。主機版本：{}
+assignment.condition.freegadget.plural,額外獲得兩個新手道具
+upgrades.artillerydirecthit1.title,怪獸剋星 1
+options.input.controls.mouse,滑鼠
+upgrades.keeper4catgoblindig1.desc,貓地精可以挖出資源，而且不會破壞磚塊。
+reward.rewardpet11.title,水鹿寵物
+upgrades.artillerymachinegun2.title,快速射擊 1
+upgrades.teslaorbs.title,電能球
+properties.keeper2.spherespeed,球體速度：{}
+properties.artillery.machinegunpenetration,子彈穿透力：{}
+level.station.upgrademenu.cost,消耗
+keeperdlc.load.missing,無法載入存檔，因為其中包含無法使用的 DLC 內容。請確認「失落的守護者」DLC 是否可用。
+upgrades.drillbotstrength1.desc,提升鑽頭哥的挖掘強度。
+properties.resourcepacker.rechargetime,充能持續時間：{} 秒
+level.converter.popup.queue.block,此轉換目前正在處理，將在 {time} 秒後完成。
+properties.keeper2.maxspeed,最高速度 {}
+level.converter.popup.conversion.to,成
+upgrades.blastminingblast2.title,爆破 2
+upgrades.suitblasterspeed1.desc,提升服裝為爆破次數充能的速度。
+options.audio.music.ost.mode.adaptive.desc,使用守護者進行遊戲時，只會播放他們各自的曲目。
+title.navbar.updates,更新資訊
+upgrades.orchardbattlerooting.title,陷阱樹根
+options.keybindings.action,行為
+upgrades.keeper4flexible3.title,靈動 3
+unlock.buy.keeperdlc,由 DLC「%s」解鎖。
+upgrades.keeper4flexible2.desc,提高挖掘力量與初始挖掘速度。
+loadout.prestige.countdown,倒數模式
+assignment.weakcarry.desc,守護者的運輸工具損壞，因此你需要依賴道具。
+upgrades.liftcarrykeeper2.title,守護者用升降機 2
+upgrades.domewavecount.desc,安裝一座計數器，顯示你已生存的回合數。
+loadout.gadget.additional,額外道具
+upgrades.prestigewatermultiplier.title,運送水
+upgrades.condenser.title,冷凝器
+loadout.prestige.pro.supplementorder,補給順序
+assignment.goaltype.delivery.failed,您的指標數是{goal}個，但您只交付了{amount}個。
+options.input.gamepad.ps5,無線控制器
+assignment.condition.duration,在 %d 個回合內完成
+options.game.hideactionhint,在穹頂外隱藏動作提示
+options.video.graphicsmode,畫面設定
+level.tutorial.assessor.carry.desc1_1.switch,一旦資源鎖定到你身上，即使放開收集鍵，也仍會跟著你。
+assignment.goaltype.relic,收復文物
+upgrades.stationextensionminimap.desc,每當你進入移動式控制台時都會顯示出礦區的小地圖。小地圖會顯示已發現的區域和一些深入岩石處的磚塊。
+assignment.ironcontribution.title,鐵礦貢獻
+properties.keeper4.speedupretention,加速保留率：{.percent}
+loadout.prestige.description,把資源送離該世界，即可在守護者之間獲得聲望。
+upgrades.keeper3.title,滲透者
+properties.shield.battleactivateondepletion,護盾耗盡時啟動技能
+upgrades.jetpackspeed2.title,速度 2
+properties.dome.maxhealth,最大生命值 {}hp
+upgrades.drillbotstrength1.title,強度 1
+properties.artillery.grenadereloadspeed,砲彈裝填速度：{}s
+properties.tesla.perfecttimingmultiplier,射擊加成：{.percent}
+upgrades.orchardbattleshieldstrong.desc,藤蔓天幕將變得更堅固。
+loadout.difficulty.easy.description,在各方面都稍微好過一些
+upgrades.drillsidespeed1.title,鑽頭速度 1
+loadout.prestige.miner,礦工
+upgrades.keeper4catgoblindig2.desc,貓地精挖掘得更快。
+upgrades.spireburst.title,連發射擊
+options.input.vibration.strength.ps5,震動強度
+upgrades.swordexplosivereflection.desc,反彈回去的投射物會在命中東西時爆炸。
+level.tutorial.drillbot.handling2.switch,在地面上時，按下「|」可使其改變方向。
+loadout.mapsize.large.description,大型地圖，可以持續玩超過一個小時。
+upgrades.artillerymachinegunhoming2.desc,使用更強大的火箭。
+upgrades.keeper3quadjump.title,多段跳
+properties.artillery.grenadesexplosionradius,砲彈爆炸範圍 {}
+upgrades.proberange2.desc,提升探測器的範圍。
+properties.drillbot.buffextraamount,額外鑽探次數：{}
+versus.corruptionbigwave.desc,下一波怪獸規模將極為龐大。
+level.tutorial.artillery.panel2content1,長按「|」以發射防空砲。
+level.tutorial.artillery.panel2content2,對飛行的敵人很有效。
+upgrades.drillwidetunnel.desc,安裝兩個額外的向下鑽頭，藉此挖出較寬闊的隧道。
+upgrades.keeper2pinballdamage4.desc,改善動能球的性能。
+level.gameover.unlock.difficulty,已解開新難度！
+loadout.prestige.fairness.headline,公平競爭
+upgrades.prestigeprovoke.desc,提升未來全部怪獸波次的強度，以獲得更多聲望。
+options.audio.volumes.soundvolume,音效
+multiplayer.continue.deviceselection.keeper,守護者
+upgrades.teslaspeed2.desc,提高瞄準十字線的移動速度。
+upgrades.artillerymachinegun2.desc,改良你的防空砲，提升其射擊速度。
+properties.spire.splitadditionalprojectiles,額外分裂投射物 {.percent}
+upgrades.artillery.title,火砲
+level.tutorial.assessor.bundle.desc1,攜帶資源時，點按「|」即可發射射束。
+properties.orchard.battleabilityduration,技能持續時間：{} 秒
+loadout.zoom,攝影機縮放
+level.tutorial.assessor.bundle.desc2,射束會朝著你瞄準的方向飛去，直到消失。
+options.keybindings.rebinding.inputprocessor.switch,按下你想套用此動作的按鍵
+properties.converter.irontoiron,1 份鐵轉換為 {} 份鐵
+options.keybindings.action.general.back,取消
+upgrades.keeper1powerdrill.title,動力鑽
+assignment.emergency.desc,公會陷入危機，需要緊急支援物資，必須及時送達！
+multiplayer.host.crossplay.disabled,跨平台遊玩已停用
+properties.upgrade.gameover,结束回合
+loadout.mode.secondweapon.desc,擁有多名守護者的隊伍開場時會解鎖第二操作站的武器。
+telemetry.allow,啟用線上服務
+options.accessibility.vignette,停用暈映效果
+options.game.tutorials,教學
+properties.dome.autorepair,自動穹頂修復
+upgrades.swordreflection3.title,反彈 3
+upgrades.drillsidepull.desc,開採的資源會沿著側鑽頭向中心移動。
+upgrades.keeper2movement4.title,最大扭矩
+upgrades.shockwavestun1.desc,提升衝擊波的眩暈能力。
+assignment.condition.freegadget.singular,額外獲得一個新手道具
+playerlist.close,關閉
+reward.rewardfreerolls2.title,額外重擲機會
+upgrades.orchardbattleshieldstrong.title,耐用天幕
+upgrades.spirecapacity.title,乘載量
+upgrades.keeper2.title,觀測者
+upgrades.keeper2movement2.title,重力移動 2
+upgrades.furnacestrongironfiring.desc,提升燃燒鐵來延遲怪獸的效果。
+upgrades.keeper2pinballdamage3.title,動能球 3
+upgrades.autocannondamage1.desc,增加子彈大小以造成更多傷害。
+loadout.versusmod.versusmodifiermanycaverns.desc,礦區擁有許多天然洞穴。
+options.game.other,其他
+upgrades.drillsidespeed2.title,鑽頭速度 2
+upgrades.mushroomfarmdrill2.desc,提升食用蘑菇後獲得的挖掘強化。
+properties.autocannon.speed,移動速度 {}
+upgrades.keeper4flexible1.desc,一種靈活的挖掘風格，一開始就有不錯的速度，但巔峰力量較低。
+title.message.close,關閉
+level.furnace.popup.fuel.stack,目前堆疊：
+upgrades.shieldstrength3.title,強度 3
+upgrades.domesupplementresurrection2.title,再來一次
+upgrades.artilleryprojectileerasure.desc,你的迫擊炮爆炸能瓦解爆炸半徑內的全部投射物。
+level.gameover.assignment.completed,恭喜！你已完成任務。守護者公會感謝你的努力。
+properties.tesla.radius,射擊半徑：{}
+properties.keeper2.bundlespeed,射束速度：{}
+keybindings.reset.show,我先看一下
+options.input.controls.gamepadusage.xbox,遊戲控制器的使用
+assignment.maze.title,迷宮
+upgrades.blastminingstickycharge.desc,炸彈會黏上最初接觸的牆壁並且炸出直線通道而非以圓形爆炸。
+properties.prestige.baseperwave,每波獲得 {} 點基礎聲望
+level.gameover.mineview,顯示礦區
+unlock.mapsize.medium,在小型地圖上贏一輪即可解鎖。
+upgrades.teslanurture.desc,透過再次射擊現有電能球來將其強化。強化後的電能球會變得更大、停留更久。
+upgrades.jetpackspeed1.desc,改良飛行器來提高移動速度。
+upgrades.domearmormelee1.desc,減少穹頂在近距離戰鬥中所遭受到的傷害。
+loadout.prestige.friend.mode,友善模式
+upgrades.domearmorhealth2.title,護甲耐久度 2
+properties.artillery.machinegundamage,子彈傷害 {}
+upgrades.swordextendlong2.title,遠程突刺 2
+upgrades.lasermove2.title,移動速度 2
+upgrades.shieldstrength2.title,強度 2
+properties.keeper3.slidecontrol,滑行操控性：{.percent}
+reward.rewardpet11.desc,為你的穹頂解鎖水鹿寵物。
+properties.tesla.nurture,電能球培育中
+properties.lift.speed,運輸球速 {}
+upgrades.lasermove2.desc,使雷射的移動速度更加提高
+loadout.mode.longtime,長回合
+options.accessibility.highlightmonsters,突出顯示怪獸
+upgrades.furnacebasedelay.desc,增強煙霧的眩目效果，提升的延遲基準。
+upgrades.doublelaser.desc,安裝第二個雷射砲台，但是會將你的火力減半。
+properties.converter.ironwatertime,鐵轉換為水的時間 (回合)：{}
+options.keybindings.rebinding.inputprocessor.xbox,按下你想套用此動作的按鍵
+title.message.title,錯誤
+upgrades.jetpackspeed4.title,速度 4
+upgrades.drill2.desc,強化電鑽，挖掘得更快。
+upgrades.extractorresources2.title,細緻蠕蟲
+unlock.buy.keeperdlc.ps5,由附加內容「%s」解鎖。
+level.tutorial.assessor.split.desc1,點按「|」可拆分傳入的球體。
+upgrades.keeper2pinballdamage1.desc,延長填裝時間，可增加動力球的威力。
+upgrades.teleporterteleportduration2.desc,減少傳送你自己所需要的時間。
+level.tutorial.assessor.split.desc2,你可以再次拆分球體，但每次拆分都會使球體變弱一點。
+options.accessibility.backgrounds,簡單背景
+assignment.weakwalls.desc,這顆星球的大氣具有腐蝕性，對你的穹頂和怪獸而言都是致命的。這會對雙方造成更多的傷害。
+multiplayer.error.disconnected,與主機的連線已中斷。
+properties.autocannon.timebetweenshots,射擊間隔 {}s
+upgrades.laserstrength1.desc,提升雷射炮的威力，但發射時移動會變慢。
+upgrades.artillerydirecthit4.desc,發射可以毀滅最大怪物的砲彈。
+upgrades.teslapersistance3.title,耐久電能球 3
+level.gameover.stats.timeplayed.unit,分
+level.tutorial.drillbot.sleeping3.switch,鑽頭哥清醒時，按下「|」可使其轉向。
+upgrades.autocannonshotgun1.desc,發射以霰彈槍模式散開的多枚投射物。
+upgrades.probe.desc,在你的衣服上裝一個探測器，觸發時會發出一道脈衝，顯示附近的資源。必須在穹頂下方的站點充能。
+upgrades.droneyardparasites.desc,放出能附身並弱化最強怪獸的無人機。怪獸隨後會受到更多傷害並持續眩暈。
+properties.stunlaser.trackingInCooldown,冷卻時追蹤目標
+upgrades.domewavemeter.desc,顯示敵對生命體下一波進攻前所剩餘的時間。
+properties.sword.stabexplosive,劍端炸彈已安裝
+loadout.gadget,主道具
+properties.stunlaser.areagrowthpermonster,依怪獸而增大的範圍 {}
+upgrades.swordfastreflection.title,反彈加速
+level.tutorial.assessor.explode.desc1.switch,按下「|」可引爆附近所有球體。
+reward.rewardkeeper3skin1.desc,為滲透者解鎖新的守護者造型。
+properties.laser.stun,麻痹強度 {}
+upgrades.resourcepackercount1.title,集束擴充 1
+reward.rewardkeepersupplements.desc,發現極其強大的守護者補給升級。
+upgrades.spirestuntrap3.desc,能量陷阱現在也可以擊暈怪獸。
+upgrades.lift.desc,安裝一部自動升降機，將開採到的資源運送到穹頂以待處理。
+upgrades.orchard.title,果樹
+pause.playerlist,玩家清單
+upgrades.keeper2bundle2.title,射束引導
+assignment.weakmining.desc,守護者的挖掘工具損壞，因此你需要依賴道具。
+upgrades.converter.title,資源轉換機
+properties.repellent.battlemonstervulnerability,對怪獸的額外傷害 {.percent}
+level.gameover.revealresources,揭露資源
+upgrades.jetpackstrength3.desc,改良噴射背包，以便攜帶更多資源。
+options.input.controls.touch.fliphud,翻轉 HUD
+properties.keeper2.bundleguide,接近引導
+upgrades.furnaceironfiring.desc,在熔爐中燃燒鐵以延長怪獸攻擊的延遲時間。
+upgrades.swordlongblade2.desc,進一步提升劍身的速度，使其在碰到邊緣時會反彈。
+options.input.controls.mouse.keepers,為守護者使用滑鼠
+loadout.mode.domesupplements.desc,取得三倍的補給，並為穹頂配備三個補給槽。
+reward.rewardautomatedweapons.title,自動武器
+versus.corruptionmonsterhealth.desc,怪獸生命值將大幅提升。
+upgrades.keeper3slidecontrol.desc,沿著牆面滑行時，操控性會提高。
+options.keybindings.action.dome.fire,攻擊
+options.keybindings.gamepad.xbox.view.xbox,視圖按鈕
+level.gameover.win.title,您拯救了穹頂
+upgrades.versusincreasewave1.title,破壞 1
+options.video.graphicsmode.borderlesswindow,無邊框視窗
+properties.artillery.rotationspeed,旋轉速度：{}
+upgrades.probe.title,探測器
+reward.rewardkeeper2skin5.desc,為觀測者解鎖新的守護者造型。
+upgrades.artillerydirecthit4.title,怪獸剋星 4
+properties.keeper4.squadcount,小隊數量 {}
+upgrades.keeper3kunaicooldown3.title,千本苦無
+upgrades.prospectionmeterrange2.desc,近一步提升資源偵測儀的可偵測範圍。
+level.gameover.unlock.mapsize,已解開新的地圖大小！
+loadout.prestige.friend.desc,以較低難度遊玩聲望模式，並僅與好友在獨立的排行榜上競爭。
+upgrades.jetpackstrength4.title,負重強度 4
+options.input.controls.virtualjoystickopacity,虛擬搖桿不透明度
+upgrades.repellentovercharge.title,驅除劑充能
+upgrades.suitblastermaxcharge.desc,提升你能在服裝中儲存的充能次數。充能次數越多，額外充能的速度就越快。
+upgrades.stationextensiontubemovement.desc,進入控制台，透過真空管迅速前往穹頂。僅在向上移動時有效。
+upgrades.domesupplementmeleedamagereduction1.title,穹頂外殼硬化
+upgrades.keeper4catgoblinsleeptime.desc,縮短貓地精打瞌睡的時間。
+upgrades.prestigespeedup.desc,縮短每波攻擊的間隔時間。
+upgrades.keeper3kunaicooldown1.title,快速投擲
+upgrades.spire.title,尖塔
+multiplayer.join.sessions,遊戲場次
+options.input.controls.keybindings,按鍵設定
+multiplayer.host.crossplay.desc.xbox,跨平台遊玩可讓你與其他平台的朋友同樂。
+upgrades.teslaorbs.desc,每次射擊都會留下一個電能球，並隨著時間的推移造成傷害、使敵人眩暈。
+upgrades.prestigeiron.desc,運送鐵，提升每次擊退一波敵人可獲得的聲望點數。
+properties.keeper2.explodespheres,爆炸球
+level.tutorial.assessor.split.desc1.switch,按下「|」可分裂傳入的球體。
+properties.artillery.machinegunhoming,制導火箭
+upgrades.spirespeedup.desc,縮短兩次射擊的間隔。
+level.tutorial.drillbot.handling1,長按「|」即可再次撿起鑽頭哥。
+keybindings.reset.doreset.switch,重設我的按鍵
+level.tutorial.drillbot.handling2,若鑽頭哥已在地上，按「|」可改變其方向。
+upgrades.artillerysplash1.desc,改良你的迫擊砲，發射具有較大爆炸半徑的砲彈。
+upgrades.shockwave.desc,在穹頂外殼上安裝兩個鎚子，製造強烈的衝擊波。必須手動觸發。
+options.game.blocklist.unblock,解除封鎖
+properties.drillbot.buffamount,精力充沛時可鑽探的次數：{}
+upgrades.teslaorbdamage.desc,電能球會隨著時間的推移傳導更多電力、造成更多傷害。
+loadout.versusmod.versusmodifierconcentratediron.desc,鐵礦脈稀少，但規模巨大。
+upgrades.keeper4squad2.title,擴編小隊
+upgrades.keeper4flexible1.title,靈動
+upgrades.swordreflection3.desc,將盾牌的尺寸最大化。
+unlock.prestige.promode,以至少 1000 點聲望分數贏一輪即可解鎖。
+loadout.mapsize.huge,巨大
+upgrades.artillerymachinegunhoming1.desc,使用可以自動修正航向以擊中怪獸的智慧型火箭來取代子彈。
+upgrades.repellentovercharge.desc,使用水來使驅除劑超載，增強驅除劑的戰鬥能力。
+loadout.prestige.pro.caveorder,洞穴順序
+upgrades.spiresplit2.title,快速分裂
+properties.laser.bend,雷射炮自動瞄準：{}°
+modding.modio.ugcterms.link1,使用條款
+upgrades.drillmagnetic.title,磁性外殼
+assignment.condition.deliveremergency,完成 %d 次緊急運送
+modding.modio.ugcterms.link2,隱私權政策
+assignment.denseiron.desc,這顆星球上的鐵特別密集，使得開採變得困難。
+level.station.upgrademenu.inventory,資源清單
+upgrades.repellentbattleslowdownstun1.desc,使用霧氣中的揮發性孢子來使怪獸眩暈，令其短時間癱瘓。
+upgrades.spirestuntrap2.title,催化劑陷阱
+properties.keeper2.explodespheresradius,爆炸半徑 (格)：{}
+loadout.prestige.cobalt,限定鈷
+upgrades.spireautonomy1.title,自律系統
+upgrades.suitblastermaxcharge.title,更多充能
+upgrades.stunlaserspeed2.desc,眩暈雷射的移動速度進一步增加，且在冷卻期間會一直追蹤怪獸。
+properties.suitblaster.maxcharge,最大充能次數：{}
+upgrades.prospectionmetergadget.desc,顯示與最近的道具或文物開關室之間的距離。
+properties.spire.rechargetime,充能時間 {}s
+assignment.monstermasses.desc,大量的低等級怪獸侵擾著這顆星球。
+telemetry.title.ps5,使用者授權合約
+properties.condenser.autoovercharge,自動超載
+assignment.rareiron.desc,這顆星球上的鐵礦太少，無法進行正常的挖掘作業。
+level.converter.popup.title,轉換資源
+upgrades.chainsaw.desc,沿著穹頂外殼安裝一個電鋸，對附近的怪獸造成傷害。
+versus.inventory.title,對手隊伍資訊
+loadout.versusmod.versusmodifiernorelics.desc,礦坑中沒有文物。
+level.gameover.stats.wavessurvived,生存的關卡數
+upgrades.stunlaserduration1.title,攻擊持續力 1
+upgrades.resourcepackercount1.desc,提升單一集束中可容納的資源數量。
+level.tutorial.teleporter.carry3.switch,按下「|」即可傳送回去。
+gadget.slot.domesurface,穹頂表面
+upgrades.converterirontocobalt.title,鈷資源轉換
+options.audio.music.ost.mode.desc,每個守護者都有自己的一系列曲目。你可以在這些曲目播放時加以變更。
+assignment.condition.deliversand,傳送%d個鈷
+options.accessibility.photosensitivity.explanation,減少閃爍。
+upgrades.keeper2bundle4.desc,資源射束移動得更快，維持在一起更久。
+upgrades.domesupplementmeleedamagereduction2.title,強效硬化
+upgrades.keeper2bundle1.title,中心標記
+upgrades.repellentbattleslowdown.desc,在戰鬥期間噴灑麻痺噴霧，減緩所有怪獸的速度。
+options.game.splitscreenfontscale,分割畫面時顯示較大的文字
+upgrades.blastminingimpactdetonation.title,撞擊式引爆
+loadout.relichunt.title,選擇場景
+upgrades.assignmentsemergencycontribution2.title,緊急貢獻 4
+upgrades.stunlaserspeed1.desc,使麻痹雷射的移動速度提高。
+upgrades.keeper2movement2.desc,改良你的重力產生器使移動速度再次加快。
+loadout.prestige.pro.customorder,自訂順序
+options.translation.community.desc.seavenplatforms,這些語言是由我們可愛的社群在 Crowdin 上協助翻譯的。
+properties.shield.battledestructionprevention,額外持續時間：{} 秒
+upgrades.spirespeedup.title,改良冷卻
+upgrades.shieldovercharge.title,護盾充能
+level.tutorial.station.popup_4.switch,接著按下「|」進入戰鬥模式並進行防守。
+pause.gamepadcontrols.drop,放下
+options.accessibility.vignette.explanation,將在礦坑深層區域的暈映效果無效
+upgrades.keeper4speed3.title,移動速度 3
+title.navbar.splitscreen,本機分割畫面
+upgrades.extractorquickextraction.title,快速蠕蟲
+pause.disconnect,中斷連線
+properties.map.ironadditionalhealth,額外鐵硬度：{}
+properties.keeper2.reflectlifetime,反射力場持續時間 {}秒
+loadout.versusmod.versusmodifiersoftrock,軟質岩石
+upgrades.repellentoverchargeduration1.title,改良超載
+upgrades.teleporterteleportitems.desc,傳送隨身攜帶的任何東西，資源和大型物體除外。
+upgrades.shieldstrength2.desc,進一步提升穹頂護盾能吸收的傷害。
+unlock.mapsize.large,在中型地圖上贏一輪即可解鎖。
+upgrades.shieldoverchargestrength2.desc,進一步提升超載後護盾所能吸收的傷害量。
+properties.drill.extensionspeed,側向擴展速度：{}
+properties.orchard.growthtime,生長時間 (回合)：{}
+upgrades.drillbotbuff1.desc,穹頂下方的巢穴裡生長著點心。把這些點心帶去給鑽頭哥，讓牠大快朵頤，牠就會變得精力充沛。
+properties.repellent.battleslowdown,怪獸緩速：{.percent}
+level.station.upgrademenu.buy,購買
+keybindings.reset.title.switch,按钮绑定重置
+title.navbar.multiplayer.join,加入多人遊戲
+multiplayer.host.crossplay.desc,跨平台遊玩可讓你與其他平台的朋友同樂，例如 PC 與主機玩家可一起遊玩。
+properties.probe.range,範圍 (格)：{}
+modding.modio.connectionfailed,無法連線至 mod.io！
+properties.dome.resurrectcharges,剩餘復活次數：{}
+upgrades.mushroomstack.title,堆疊蘑菇
+multiplayer.error.lobby.join,加入大廳失敗。
+pause.title,暫停
+level.furnace.popup.fuel.cycles,剩餘回合數：{cycles}
+level.gameover.unlock.gamemodevariant,新遊戲模式變體
+upgrades.keeper2movement3.title,重力移動 3
+upgrades.keeper3kunaicooldown2.desc,可以更快投擲苦無。
+upgrades.repellentbattledamageovertime.title,毒氣
+reward.rewardfreerolls1.title,重擲優惠
+assignment.superhardrockwithholes.title,瑞士乳酪
+modding.restartneeded,需要重新啟動遊戲才能確保模組正常運作。
+upgrades.versusshowinventory.title,物資偵察
+level.tutorial.assessor.carry.desc1,按住 | 可拉取資源，直到資源鎖定到你身上。
+level.tutorial.assessor.carry.desc2,點按「|」即可朝著瞄準的方向將發射集束。
+demo.unavailable,在試用版不可用
+assignment.harmfuliron.desc,這顆星球上的鐵具有危險的反應性，粉碎時會損害你的穹頂。
+upgrades.keeper4flexible4.title,靈動 4
+properties.dome.reducedhealth,損失的生命值：{}hp
+upgrades.keeper4catgoblinamount.desc,培育更多貓地精來協助你執行任務。
+properties.keeper2.spherebasedamage,球體基礎傷害 {}
+level.gameover.showimages,開啟
+properties.keeper4.maxpunchdelay,最慢出拳速度：{}s
+upgrades.converterironduplication.desc,將一些鐵轉換為更多的鐵。
+upgrades.liftorbless.title,重力升降機
+upgrades.artilleryshotstun.desc,迫擊炮的攻擊威力驚人，能使附近的怪獸眩暈一段時間。
+upgrades.keeper4squadsmarts.title,智慧挖掘
+options.video.graphicsmode.enablevsync,開啟垂直同步
+upgrades.repellentdelay3.desc,進一步增加拖延下一波敵人到來的時間。
+properties.spire.splitshotground,360° 分裂
+upgrades.autocannonrateoffire3.desc,達到最大射速。
+upgrades.furnacebasedelay.title,眩目煙霧
+properties.sword.stabcooldown,出劍冷卻時間 {}s 
+upgrades.resourcepacker.title,資源打包器
+properties.probe.permanentrevealrock,永久揭露岩石
+upgrades.prestigeprovoke.title,挑釁怪獸
+loadout.hint.teams,每隊至少需要一名玩家！
+upgrades.proberange1.title,中等範圍
+upgrades.condenserautocollect.desc,自動收集凝結的水，讓你不需要手動收集。
+pause.resumegame,繼續遊戲
+upgrades.drillbotbuffguidance.title,搜尋零食
+options.video.stretchmode.rezised,自動
+upgrades.shieldbattlereflectspeed.desc,反彈回去的飛彈速度增加，從而有更高機率命中敵人。
+properties.keeper2.spherebaselifetime,球體壽命：{}s
+properties.resourcepacker.packscale,縮小規模：{.percent}
+properties.laser.movespeed,移動速度 {}
+properties.probe.rechargetime,完成充能時間 (回合)：{}
+upgrades.blastminingblast1.title,爆破 1
+upgrades.liftcarrykeeper1.title,守護者用升降機 1
+loadout.versusmod.versusmodifierlongcycles,長回合
+options.keybindings.action.dome.secondary,第二技能
+upgrades.extractor.title,鐵蠕蟲
+level.tutorial.assessor.reflect.desc2,力場會將傳入的球體反彈回去，並提升它們的威力。
+options.keybindings.keyboard,鍵盤
+level.tutorial.assessor.reflect.desc1,點按「|」可切換你周圍的反彈力場。
+level.tutorial.beastmaster.move,移動
+level.gameover.automove,自動攝影機
+upgrades.keeper4punch4.title,狂熱 4
+properties.shockwave.damagemod,額外傷害：{.percent}
+upgrades.drillbotsleepless.desc,鑽頭哥要工作很久才會想睡覺。
+upgrades.keeper2pinballexplode.desc,釋放動能並引爆附近的每個球體。
+reward.rewardpermanentwavemeter.title,永久性周邊敵對反應偵測儀
+upgrades.keeper3shurikencooldown1.desc,進一步縮短手裏劍的冷卻時間。
+upgrades.droneyard.title,無人機場
+level.gameover.unlock.promode,已解開聲望專業設定！
+upgrades.swordextendlong2.desc,進一步改善突刺的力度和飛行時的精準控制能力。
+upgrades.drillbotturnaround.desc,當碰上無法破壞的牆壁，鑽頭哥會選擇轉向而非打瞌睡。
+loadout.prestige.fairness.desc,"我們很高興能看到各位充滿聲望的玩家爭奪最高分，並發展出越來越有效的策略。我們希望保持競賽的公平與樂趣，因此每個人都必須在平等的條件下競爭。
+
+請了解，如果涉嫌在遊戲中利用作弊工具或漏洞，則系統得以會將該輪遊戲標記為不予採計，甚至加以刪除。根據我們的定義，在聲望遊戲的過程中，能為玩家提供非標準遊戲手段所能帶來的有形利益者，即構成「利用」；這包括編輯或檢視存檔、過度重新載入、使用未列入允許清單的模組，或者刻意且重複利用 Bug。
+如有玩家在遊戲過程中大量利用作弊或漏洞，系統可能會永久禁止其在常規排行榜上競爭。
+
+如果不確定某些行為是否違規，請透過 Discord 或電子郵件 dome@bippinbits.com 進行詢問。如果您遭到錯誤標記，請隨時向我們申訴。
+
+祝您玩得愉快！"
+assignment.emergency.title,緊急狀態
+upgrades.droneyardbattlegridlong2.title,無人機群
+properties.repellent.battleuses,每場戰鬥可使用 {} 次
+loadout.difficulty.easy,困難
+level.tutorial.mineraltree1,"你找到了一顆礦物樹的種子。這顆種子可以長成一棵大樹，樹根會深深扎入格子中。所能產出的資源類型則取決於扎根處格子的資源類型。
+將其放在格子上即可播種。"
+options.keybindings.action.keeper.pickup,撿起
+gadget.slot.domebackside,穹頂後方
+assignment.megacreeps.desc,在這顆星球上遊蕩的，都是體型最大且實力最強的怪獸。
+options.keybindings.rebinding.error.gamepad.ps5,無法將此設定為遊戲手把的輸入來源。
+modding.profile.new,新建檔案
+upgrades.suitblasterspeed2.desc,提升服裝為爆破次數充能的速度。
+properties.domearmor.pulsedamagethreshold,脈衝傷害閾值：{}
+options.game.autopause,失去焦點時暫停遊戲
+savegame.wiped.desc,"你的所有存檔均已損毀，可能是在儲存時系統當機所致，無法恢復進度。
+請檢查是否能透過雲端儲存來還原存檔，否則你的進度將永久遺失。"
+properties.shield.maxstrength,強度 {}hp
+level.tutorial.ninja.rope.desc1,長按「|」即可朝你用 %s 瞄準的方向發射繩索。
+level.gameover.unlock.gadgetability,解鎖了新道具戰鬥能力！
+level.tutorial.ninja.rope.desc2,長按「|」即可跳躍。
+upgrades.repellent.desc,安裝混合缸，生產能驅趕怪獸的液體。啟動後會將液體噴灑到穹頂外，延遲下一波進攻的到來時間。
+modding.modio.report,檢舉模組
+properties.artillery.directhitdamage,直接命中傷害：{.percent}
+upgrades.spireprojectileslowdown.title,投射物緩速
+properties.keeper2.bundleduration,射束壽命：{}s
+upgrades.domesandrepair.title,修復
+upgrades.assignmentsemergencycontribution3.desc,請在第 7 回合前送出這個包裹，否則此任務會失敗。
+upgrades.stunlaserduration3.title,攻擊持續力 3
+properties.orchard.battleshields,護盾層數：{}
+options.video.brightness,亮度
+demo.end.misc1,具有 4 種模式變化的聲望模式競賽
+upgrades.droneyarddrones.desc,建造一部額外的無人機來運輸資源。
+demo.end.misc3,更多主要道具
+options.game,遊戲
+loadout.mode.longtime.desc,遭遇攻擊的間隔時間加倍，但攻勢會更加猛烈。
+demo.end.misc2,許多具挑戰性的任務
+demo.end.misc5,更多洞穴
+demo.end.misc4,更多地圖大小
+upgrades.orchardduration2.title,持續時間 2
+gadget.slot.domesupplement,穹頂補給
+demo.end.misc6,更多怪獸
+upgrades.keeper2rotationalmining1.desc,忽略材質硬度，以恆定的速度開採岩石。
+upgrades.droneyardbattlegridquick2.desc,飛快地放出全部無人機，讓它們在戰鬥一開始就做好準備。
+loadout.choices.comingsoon,暫無法使用，但即將推出。
+properties.keeper2.splitlifetime,拆分球壽命：{.percent}
+options.input.controls.mouse.sword,使用滑鼠來控制利劍穹頂揮砍
+level.tutorial.beastmaster.goblins.desc1,長按 | 可在牆上打出一個洞，讓你的貓地精進入礦坑。
+upgrades.drill3.desc,強化電鑽，挖掘得更快。
+upgrades.jetpackstrength3.title,負重強度 3
+upgrades.laserstrength3.title,威力 3
+level.tutorial.beastmaster.goblins.desc2,會幫忙收集洞口附近的資源。
+upgrades.domesupplementresurrection1.title,穹頂復活
+loadout.mapsize.small.description,小型地圖，適合較短的流程。
+upgrades.proberange2.title,大範圍
+reward.rewardkeeper2skin5.title,觀測者造型
+upgrades.jetpackspeed2.desc,改良飛行器來提高移動速度。
+upgrades.artilleryrotation2.desc,迫擊砲能轉動得更快。
+upgrades.domesupplementcombatrepair3.title,快速戰鬥修復
+reward.rewardkeeper4skin3.desc,為馴獸師解鎖新的守護者造型。
+multiplayer.host.splitscreen.desc.ps5,在裝備畫面中使用無線控制器以召喚額外的守護者。最多四名守護者可共用同一畫面，並可與線上多人遊戲搭配使用。
+upgrades.keeper2pinballdamage2.desc,進一步延長填裝時間，以獲得威力更強的動能球。
+level.tutorial.ninja.rope,繩索
+options.keybindings.rebinding.error.keyboard,無法將此設定為鍵盤的輸入來源。
+upgrades.domesupplementcombatrepair2.desc,強化自動修復能力，可以恢復更多的結構生命值。
+properties.dome.autohealamount,修復 {}hp
+properties.repellent.growthtime,生產時間 (回合)：{}
+properties.keeper.domefuel,增加燃料 {}
+options.accessibility.critters,關閉昆蟲效果
+level.tutorial.assessor.reflect.desc1.switch,按下「|」可切換自身周圍的反彈力場。
+upgrades.probelongmarker2.title,持久標記
+upgrades.converterefficientwater.title,進階水資源轉換
+upgrades.assignmentssendcobalt.title,傳送鈷
+properties.monsters.waveinterval,波次間隔：{} 秒
+options.keybindings.rebinding.error.gamepad.switch,無法將此設定為遊戲手把的輸入來源。
+options.input.gamepad.twinstick.ps5,左操作桿和右操作桿控制
+properties.extractor.units,生產的蠕蟲數：{}
+loadout.mode.doubleiron.desc,鐵礦床更豐富。
+telemetry.title,啟用線上多人遊戲？
+multiplayer.host.local.desc,同區域網路中的玩家可以加入。
+properties.rocketlauncher.damageperrocket,傷害：{}
+level.tutorial.assessor.spheres.desc1.switch,按下「|」可朝面對的方向射出一顆動能球。
+upgrades.spirecapacity.desc,提高充能之前可以射擊的次數。
+upgrades.doublelaser.title,雙重雷射
+options.keybindings.text,"依你的喜好重新對應鍵位。
+同一個按鍵用於不同分類的行為通常是沒有問題的 (像是使用同個按鍵移動角色和武器)。"
+properties.repellent.battleabilityduration,技能持續時間：{} 秒
+options.input.controls.keybindings.switch,按鈕設定
+options.keybindings.gamepad.xbox.menu,開始
+upgrades.shieldstrength1.title,強度 1
+properties.converter.watertoiron,1 份水可轉換為 {} 份鐵
+upgrades.stunlaserstun2.title,眩暈強度 2
+upgrades.drillbotstrength2.desc,提升鑽頭哥的挖掘強度。
+upgrades.dome1.title,穹頂・雷射
+options.keybindings.rebinding.error.gamepad.xbox,無法將此設定為遊戲手把的輸入來源。
+loadout.assignment.shop,守護者公會獎勵
+upgrades.orchardbattlerootingmore.desc,長出更多樹根，且樹根持續更久。
+options.keybindings.cancel,取消
+exhibition.level.instruction,按下任意鍵繼續遊玩！
+upgrades.converterefficientwater.desc,改良轉換以提高效率。
+upgrades.teslapower4.desc,提升特斯拉射擊的威力。
+properties.spire.splitshot,分裂投射物
+assignment.weakwalls.title,高風險
+title.navbar.quit,離開遊戲
+upgrades.autocannonrateoffire1.desc,提高射速。
+upgrades.laserstrength3.desc,巨幅提升雷射炮的威力，但發射時會變得幾乎無法移動。
+loadout.mode.automateddefense.desc,起手便擁有所有的防禦性道具和道具自律系統，但沒有主要武器。交給穹頂去搞定！
+level.gameover.prestige.score.rankunchanged,沒有在排行榜中改變
+properties.keeper2.directmininghardness,岩石硬度影響：{.percent}
+level.gameover.retry,開始新遊戲
+options.input.controls.keybindings.button.xbox,變更按鈕設定
+upgrades.keeper4autospawnminers.title,積極小隊
+modding.modio.declined,若要存取模組，請接受條款
+upgrades.repellentoverchargeduration1.desc,提升超載對戰鬥能力的影響。
+upgrades.assignmentsemergencycontribution5.title,緊急貢獻 16
+upgrades.keeper2pinballdamage2.title,動能球 2
+upgrades.teslaspeed3.desc,提高瞄準十字線的移動速度。
+upgrades.domesupplementmeleedamagereduction2.desc,進一步硬化外殼，降低近戰攻擊所帶來的傷害。
+properties.extractor.processingtime,提煉持續時間：{} 秒
+upgrades.keeper3.desc,靈巧的守護者，能利用繩索快速移動、施展高超的跳躍技巧，同時投擲強力苦無。
+assignment.acidrain.title,酸雨
+upgrades.droneyardparasites3.desc,進一步提升寄生無人機的弱化效果。
+upgrades.domesupplementelectrifiedsurface1.desc,在穹頂外殼上新增反應靈敏的帶電塗層，從而對近距離攻擊的怪獸造成傷害。
+unlock.buy.keeperdlc.switch,由附加內容「%s」解鎖。
+upgrades.keeper3shurikenstrength2.desc,進一步提高手裏劍的爆炸威力。
+upgrades.teslapower3.title,射擊威力 3
+upgrades.stationextensionrevealdistance2.desc,提升控制台附近岩石和資源的揭露距離。
+upgrades.keeper3shurikencooldown2.title,不息手裏劍
+properties.orchard.buffduration,強化持續時間 (回合)：{}
+loadout.prestige.provocation.description,挑釁怪獸以產生更強的波次並獲得更多聲望。加成每個回合都會減少，如果降到零以下，該輪就會結束。
+level.tutorial.probe.popup_1,點按「|」即可發射探測脈衝。
+level.tutorial.repellent.popup_2,靠近時，點按「|」即可將其啟動。
+modding.profile.title,選擇檔案
+level.tutorial.probe.popup_3,"這會揭露附近的一些資源。
+在充能站充能。"
+level.tutorial.repellent.popup_1,您的驅除劑已經準備好用以延遲下一波。
+upgrades.keeper4ramping2.desc,提高挖掘力量、最高速度，以及加速保留率。
+options.game.kunaicarrierbeforegadgets,先投擲苦無運輸器，再使用道具
+properties.probe.permanentrevealresources,永久揭露資源
+upgrades.keeper2bundle4.title,威力射束
+options.audio.volumes.musicvolume,音樂
+options.input.controls.useindividualsettings,使用個別守護者設定
+upgrades.keeper4squadsmarts.desc,採礦小隊會優先處理特殊磚塊和靠近資源的磚塊。
+upgrades.domesupplementscraprepair2.title,恢復
+upgrades.orchardduration3.desc,將水果的效期最大化。
+options.input.controls.touch,觸控
+level.gameover.keepgadget.none,無
+upgrades.stunlaserautonomy1.title,自律系統
+upgrades.swordexplosivereflection.title,爆炸性反彈
+upgrades.probelongmarker1.desc,改良探測器的記憶模組，使標記的顯示得更久。
+upgrades.resourcepackercharges.desc,提升你在服裝中可以持有的打包能量次數。
+level.tutorial.tesla.panel2header,射擊
+upgrades.drilladditionalsides.desc,獲得更多個側鑽頭並且功能與第一個相同。
+loadout.difficulty.veryeasy.description,依舊不簡單，但比起其他睏難的更輕鬆些
+properties.stunlaser.stunstrength,眩暈強度 {}
+properties.resourcepacker.packcount,集束大小：{}
+upgrades.keeperonewayteleporter.title,單向傳送器
+upgrades.keeper3kunaidamage4.title,苦無衝擊
+upgrades.drill4.title,電鑽強度 4
+options.game.directionsnapping,允許守護者的準星快速對準四個方位上的物件
+upgrades.artillerymachinegun3.title,快速射擊 2
+upgrades.stunlaserspeed2.title,速度 2
+properties.artillery.machinegunreloadspeed,子彈裝填速度：{}s
+options.game.screenshake,畫面震動
+upgrades.proberechargeafterbattle.desc,探測器無需充能控制台也會隨時間自動充能。釋放地下室裡的道具槽。
+upgrades.jetpackstrength2.title,負重強度 2
+loadout.versus.condition.irondelivery.title,鐵礦交付
+upgrades.teslaspeed4.desc,提高瞄準十字線的移動速度。
+level.assignment.badges.toggle,透過完成任務來獲取徽章。使用徽章購買守護者公會的獎勵。購買後，如果你不想使用該獎勵，也可以將其停用。
+loadout.versus.wincondition,獲勝條件
+upgrades.converterefficientwatershort.title,快速處理
+properties.keeper2.directminingdamage,壓縮挖掘傷害 {}
+upgrades.assignmentssendiron.desc,將鐵送交守護者公會。為了完成任務成功，您需要發送所有可用交付物資。
+upgrades.keeper3carrylimit1.title,載運容量 1
+assignment.goaltype.survive,存活
+upgrades.shield.title,護盾
+level.station.battle.navbar.stabspeedup,突刺加速
+upgrades.keeper3quadjump.desc,在空中時最多可額外跳三次。
+properties.laser.aimline,瞄準線
+properties.domearmor.pulsestunduration,脈衝眩暈持續時間：{} 秒
+level.tutorial.assessor.carry.desc2.switch,按下「|」可朝面對的方向射出集束。
+level.tutorial.ninja.carry.desc1.switch,按下「|」可朝你使用 %s 瞄準的方向，擲出攜帶資源的苦無。
+upgrades.orchardovercharge.desc,使用水為果樹充能，讓它更快的產出果實。
+upgrades.missile.abilityname,導彈
+upgrades.resourcepackercount2.desc,提升單一集束中可容納的資源數量。
+assignment.bigmapsparseresources.desc,這顆大行星上的資源稀少，且彼此相距遙遠，但岩石卻又非常脆弱。
+properties.spire.stuntrap,能量陷阱
+playerlist.block,封鎖
+level.tutorial.sworddome.stabbing.desc,延長劍刃突刺遠方的敵人.
+properties.sword.sliceacceleration,揮劍速度 {}
+loadout.team.join,加入
+assignment.weapondefect.desc,穹頂的主武器已遭摧毀，你必須透過其他手段求生。
+upgrades.repellentbattlehealthreduction.title,凋零
+loadout.versusmod.versusmodifiertoughstart,艱困開局
+title.navbar.multiplayer,多人遊戲
+keybindings.reset.title.xbox,按钮绑定重置
+upgrades.extractorquickextraction.desc,使蠕蟲進化，令其變得極度活躍，從而更快提煉鐵礦脈。
+upgrades.mushroomfarmquickgrowth.title,快速生長
+upgrades.repellentbattlehealthreduction.desc,弱化全部的怪獸，使牠們在遭受命中時受到更多的傷害。
+loadout.versusmod.versusmodifierstrongmonsters,強壯怪獸
+leaderboard.failed,無法載入排行榜。
+properties.sword.reflectprojectilesexplosive,被反彈的能量子彈具有爆炸性
+level.station.navbar.upgrades,升級
+upgrades.artillerymachinegun3.desc,改良你的防空砲。
+level.gameover.unlock.pet,已解開新寵物！
+upgrades.domesupplementelectrifiedsurface2.title,帶電外殼 2
+upgrades.keeper3shuriken2.desc,縮短手裏劍的冷卻時間，讓你能更頻繁地投擲。
+upgrades.artillerysplash2.desc,快速連續發射兩枚迫擊砲彈。
+loadout.mode.hud,HUD
+upgrades.keeper4flexible2.title,靈動 2
+upgrades.shieldbattlereflectshortuses.desc,提升反彈的頻率，但縮短其持續時間。
+upgrades.rocketlauncherdamage2.title,致命導彈
+upgrades.domesupplementscraprepair1.title,廢料修復
+upgrades.keeper2bundle3.title,重力中心
+upgrades.keeper2bundle2.desc,針對近距離落下的射束啟用方向控制
+upgrades.keeper3shurikencooldown2.desc,進一步縮短手裏劍的冷卻時間。
+upgrades.suitblaster.title,服裝爆破器
+upgrades.prestigeiron.title,運送鐵
+properties.stunlaser.cooldown,冷卻時間：{} 秒
+options.input.controls.keepersettings.desc,依預設，守護者會使用全域設定。你可以在這裡為各守護者覆寫個別設定。舉例來說，你可以為守護者或動作設定不同的快速對準選項。
+options.keybindings.action.keeper.gravityball,發射
+upgrades.liftorbs.desc,安裝一顆額外的運輸球。
+options.input.controls.mouse.gamepad,切換至遊戲手把並返回時由系統自動偵測。
+properties.probe.detectchambers,偵測房間
+landing.proceed.switch,按下任意鍵繼續遊玩
+upgrades.condenserautocollect.title,自動收集
+multiplayer.error.hostcrossplaydisabled,無法加入大廳，因為主機已停用跨平台遊戲，且使用不同的平台。
+upgrades.repellent.title,驅除劑
+loadout.team.color,隊伍顏色
+options.game.tutorials.resettutorials,重置教學
+options.accessibility.critters.explanation,停用礦坑中作為視覺效果的蠕蟲，昆蟲和蜘蛛等生物
+upgrades.prospectionmeterrange1.desc,提升資源偵測儀的可偵測範圍。
+upgrades.drillsidepull.title,礦物運輸
+options.accessibility.highlightmonsters.explanation,在怪獸周圍框出亮色外框，更便於看清。
+upgrades.keeper2bundle1.desc,在穹頂正下方顯示一個標記，指示向上發射射束的位置。
+upgrades.assignmentsemergencycontribution6.title,緊急貢獻 20
+upgrades.keeper4ramping3.title,慣性 3
+upgrades.swordblade1.desc,提升劍刃切割的力道與速度。
+upgrades.probedetectchambers.title,偵測房間
+loadout.mode.shortcycles,短回合
+upgrades.proberange3.desc,提升探測器的範圍。
+upgrades.prestigespeedup.title,縮短回合
+loadout.prestige.endless.description,沒有時間或資源限制，一輪可以持續很久。
+options.input.gamepad.gamepadstickdeadzone.text.switch,"設定一個數值，使長條不會在你僅觸碰而不推動搖桿的情況下閃爍。
+若推動搖桿，長條應該隨即閃爍。"
+upgrades.blastminingblast3.title,爆破 3
+upgrades.swordextendlong1.desc,改善突刺的力度和飛行時的導引能力。
+properties.autocannon.rateoffire,射擊速度：{.percent}
+upgrades.assignmentsemergencycontribution4.title,緊急貢獻 11
+assignment.minorvision.desc,這顆星球上的黑暗陰影會吞噬所有光線。
+options.audio.volumes,音量
+unlock.host.locked.ps5,建立遊戲的玩家未擁有附加內容「%s」。
+loadout.versusmod.versusmodifiershortcycles.desc,怪獸波次間隔更短。
+upgrades.keeper2pinballexplode2.title,改良爆炸
+multiplayer.host.local,本機
+options.video.graphicsmode.fullscreen,全螢幕
+properties.keeper3.kunaidamage,苦無傷害：{}
+options.game.screenshake.shakewhenmining,畫面於挖掘時震動
+upgrades.dome2.title,穹頂・劍
+properties.autocannon.damage,子彈傷害 {}
+loadout.mode.doubleiron,大量鐵
+upgrades.keeper4punch1.title,狂熱
+level.gameover.unlock.versus,對戰模式已解鎖！
+upgrades.artillerydoublemachinegun.desc,將防空砲的第二支槍管安裝到穹頂上。
+level.converter.popup.conversion.time,超過 {time} 回合
+options.translation.title,選擇您的語言
+loadout.prestige.pro.title,自訂設定
+multiplayer.host.title,開設多人遊戲場次
+properties.chainsaw.speed,移動速度：{}
+options.input.gamepad.thumbstick.xbox,搖桿
+upgrades.furnacelastingironfiring.title,耐用鐵燃料
+upgrades.shieldoverchargestrength1.title,護盾強度充能 1
+multiplayer.error.modsmismatched,您的模組清單與主機的不一致，無法加入。
+upgrades.laserhitprojectiles.desc,雷射擊中敵人的能源子彈時將它立即瓦解
+upgrades.probepermanentrevealtiles.desc,探測器掃描過的全部區域都會永久顯示。
+options.keybindings.action.keeper.jump,跳躍
+upgrades.repellentdelay2.title,延遲 2
+upgrades.keeper3shuriken1.title,手裏劍
+upgrades.probelongmarker2.desc,資源標記將維持多個回合。
+properties.shockwave.stunduration,眩暈持續時間：{} 秒
+level.tutorial.teleporter.teleport1.switch,靠近傳送門時，按下「|」即可傳送回去。
+options.game.alwaysshowping,始終顯示伺服器 Ping
+loadout.choices.locked,尚未解鎖。
+upgrades.prospectionmetersand1.title,鈷礦距離測量儀
+upgrades.drill2.title,電鑽強度 2
+level.gameover.findimages,另存為
+level.tutorial.resourcepacker.popup_1.switch,靠近資源時，按下「|」可將資源打包成較容易搬運的緊密包裹。
+reward.rewardpostrunshowmonstercount.title,額外戰鬥統計資料
+upgrades.drill.title,鑽挖機
+upgrades.versusincreasewave1.desc,永久提升對手隊伍的怪獸波次強度。
+upgrades.swordstabfast1.desc,更快速、冷卻更短的突刺。
+properties.sword.slicebrake,砍中敵人時速度減少量 {.percent}
+upgrades.lasermove3.desc,最高的鐳射移動速度
+upgrades.prestigewatermultiplier.desc,運送水，提升每次擊退一波敵人可獲得的聲望點數。
+upgrades.domesupplementresurrection1.desc,你的穹頂不會被摧毀，而是會完全恢復，並在一段時間內變得無敵。僅能使用一次。
+upgrades.swordextendlong3.title,遠程突刺 3
+properties.repellent.wavedelay,攻擊波延遲 (回合)：{}
+upgrades.domewavepathtodome.desc,攻擊警告器響起時，還會顯示出返回穹頂的最短路徑。
+level.tutorial.ninja.carry,苦無運輸器
+upgrades.dome4.desc,最先進的穹頂，能夠將電力發揮到前所未有的程度。
+upgrades.prospectionmeterwater2.title,水礦指南針
+multiplayer.techtree.keeperexclusivegadget,這個道具僅會套用至你的守護者。
+options.keybindings.action.dome,穹頂
+upgrades.drillbotbuff1.title,點心
+versus.corruption.desc,選擇一項腐化效果，影響攻擊對手隊伍的怪獸！
+upgrades.swordstabshoot.title,飛刀
+properties.dome.projectiledamagereduction,投射物傷害減免：{.percent}
+upgrades.drillbotbuffstrength2.desc,吃下點心後，鑽頭哥在想睡覺前能工作更久的時間。
+leaderboard.global,全球
+options.game.blocklist.unblockall,解除封鎖全部
+upgrades.swordlongblade1.title,長劍 1
+properties.orchard.drillbuff,挖掘強度提升 {}
+properties.spire.splitshotspeed,分裂射擊速度 {}
+options.keybindings.action.dome.upgrade,升級
+upgrades.teslaspeed3.title,照准速度 3
+upgrades.domehealthmeter.title,生命值顯示儀
+properties.extractor.additionalresources,額外資源：{}
+upgrades.domesupplementcombatrepair3.desc,受傷較少亦可提早觸發自動修復。
+upgrades.furnacelastingironfiring.desc,使每一塊鐵都能在熔爐中燃燒得更久。
+properties.dome.resurrectinvulnerability,復活後的無敵時間：{} 秒
+upgrades.assignmentssendwater.desc,將水送交守護者公會。為了完成任務成功，你需要送回所有可用的交付物資。
+options.game.autopickupresources,自動拾取資源
+upgrades.repellentbattledamageovertime.desc,毒氣存在時，所有怪獸每秒都會受到少量傷害。
+upgrades.artillerydirecthit3.desc,提高迫擊砲彈的破壞力。
+upgrades.domearmorprojectile1.title,投射物護甲 1
+upgrades.keeper4catgoblindig3.desc,貓地精在挖掘時會直接破壞整個磚塊。
+upgrades.stunlaserarea.desc,在目標怪獸周圍製造眩暈爆炸，擊暈附近全部的怪獸。獸物越多，範圍越大，傷害也越高。
+level.tutorial.teleporter.carry2,靠近傳送門時，長按「|」即可再次將其撿起。
+level.tutorial.teleporter.carry3,點按「|」即可將你傳送回去。
+upgrades.keeper2pinballreflect.title,反射力場
+upgrades.probepermanentrevealtiles.title,揭露岩石
+loadout.versusmod.versusmodifierfastmonsters.desc,怪獸移動速度更快。
+level.tutorial.teleporter.carry1,你可以將傳送門移動到你想要的任何地方。
+level.tutorial.pickup.popup_1.switch,按下「|」可拾取一項資源。
+options.input.gamepad.autoswitch,自動偵測喜好的遊戲手把
+options.accessibility,輔助使用
+upgrades.teslapersistance2.desc,電能球變得更大且更耐久，停留時間更長。
+properties.sword.reflectionacceleration,被反彈子彈速度 {.percent}
+upgrades.artillerygrenadefastreload.title,快速裝填
+upgrades.keeper2pinballreflect.desc,放置一個能夠反彈球體的固定式反彈力場。球體在反彈時，威力會稍微提升。
+options.keybindings.action.keeper,守護者
+upgrades.drillbotbuffstrength1.desc,點心能讓鑽頭歌充滿能量更久。
+upgrades.versussendiron.desc,將鐵礦交付給守護者公會。購買所有可用的交付升級，以擊敗對手隊伍。
+upgrades.keeper2pinballmorespheres1.desc,增加可攜帶的球體數量。
+properties.rocketlauncher.rechargetime,補充時間：{} 秒
+upgrades.domesupplementadditionalcellar.title,深層地下室
+upgrades.blastminingstickycharge.title,指向型粘性炸彈
+level.tutorial.assessor.explode.desc1,點按「|」即可引爆你附近所有的球體。
+upgrades.furnacestrongironfiring.title,增強鐵燃料
+assignment.monstermasses.title,怪獸群
+options.input.gamepad.gamepadstickdeadzone.switch,搖桿死區
+properties.stunlaser.areastunstrength,範圍眩暈效率 {.percent}
+upgrades.dome1health2.desc,永久性提升穹頂的結構生命值。
+upgrades.probepermanentrevealresources.title,揭露資源
+upgrades.swordfastreflection.desc,反彈回去的投射物飛行的速度會變快。
+properties.autocannon.shotgun,霰彈槍子彈 {}
+loadout.difficulty.medium,殘酷
+multiplayer.join.joincodeinput,輸入加入代碼
+properties.keeper4.maxspeedupatpunches,經過 {} 次出拳後達到最快速度
+properties.monstermodifiers.health,怪獸生命值：{.percent}
+loadout.versusmod.versusmodifierfastmonsters,快速怪獸
+upgrades.shieldoverchargestrength1.desc,提升超載後的護盾所能吸收的傷害量。
+properties.probe.charges,使用次數 {}
+reward.rewardthreechoicessupplement.title,三種補給優惠
+upgrades.domesupplementscraprepair1.desc,可以利用鐵來透過粗糙的方式來修復穹頂，但會減少整體結構生命值。
+level.tutorial.tesla.panel1content1,在畫面中移動準星進行瞄準。
+upgrades.shockwavebig.desc,衝擊波可造成大量傷害，甚至可以消滅一些強大的怪獸。
+multiplayer.continue.allowmultiplayererror,由於你尚未在設定中勾選「啟用線上遊戲」，因此無法繼續進行線上多人遊戲。
+loadout.hint.multiplayer.playerminimum,需要至少兩位玩家才能開始多人遊戲。
+upgrades.artillerymachinegunhoming2.title,制導火箭 2
+upgrades.repellentbattleslowdownstun2.title,強力癱瘓
+upgrades.shockwave.abilityname,衝擊波
+upgrades.jetpackspeed1.title,速度 1
+upgrades.teleporterteleportduration1.title,傳送時間
+upgrades.autocannonrateoffire3.title,機槍 3
+properties.monstermodifiers.totalrunweightmodifier,波次強度加成：{.percent}
+upgrades.swordstabfast1.title,快速突刺 1
+upgrades.swordstabfast3.title,快速突刺 3
+properties.tesla.quickshotstrength,快速射擊強度 {.percent}
+upgrades.keeper2pinballdamage3.desc,進一步延長填裝時間，以獲得威力更強的動能球。
+title.navbar.options,設定
+upgrades.domearmormelee2.desc,減少穹頂在近距離戰鬥中所遭受到的傷害。
+upgrades.shieldbattleelectroblast.title,電流爆破
+properties.spire.stuntrapradius,半徑 {}
+options.audio.volumes.ambiencevolume,環境音
+loadout.mode.drillbert.desc,起手便擁有鑽頭哥和爆破挖掘，但守護者無法升級挖掘技能。無限供應鑽頭哥。
+title.navbar.credits.close,關閉
+properties.keeper4.goblinnapduration,貓地精打瞌睡時間：{} 秒
+properties.keeper2.reflectnexthitdamage,下次命中時的額外傷害：{.percent}
+upgrades.orchardbattlerootingmore.title,樹根強化
+multiplayer.error.connection,連線失敗。
+keeperdlc.load.missing.ps5,無法載入存檔，因為其中包含無法使用的附加內容。請確認「失落的守護者」附加內容是否可用。
+level.tutorial.fruit.popup_2.switch,靠近後按下「|」即可食用。
+loadout.versusmod.versusmodifierlittlecobalt,鈷礦短缺
+reward.rewardpet12.desc,為你的穹頂解鎖狗狗寵物。
+multiplayer.host.joincodelabel,加入代碼
+upgrades.swordstabfast2.desc,突刺得更快、更頻繁。
+properties.dome.incomingdamagemodifier,受到的傷害：{.percent}
+properties.sword.stabexplosivedamage,炸彈傷害 {}
+properties.blastmining.bombs,爆破裝藥彈 {}
+properties.resourcepacker.charges,充能次數：{}
+upgrades.assignmentsemergencycontribution1.desc,請在第 2 回合前送出這個包裹，否則此任務會失敗。
+properties.artillery.machinegunbarrels,防空砲：{}
+properties.artillery.gunaimline,雷射瞄準器
+upgrades.jetpackstrength4.desc,改良噴射背包，以便攜帶更多資源。
+loadout.mode.nomonsters.desc,降落在一個沒有任何怪獸的世界。
+telemetry.eula,閱讀 EULA
+upgrades.condenserspeed1.title,製作時間 1
+upgrades.mushroomstack.desc,堆疊每個強化的持續時間，透過食用多個蘑菇獲得更持久的強化。
+upgrades.keeper2pinballexplode2.desc,增加球體爆炸的破壞力。
+versus.message.disruption,對手隊伍剛剛永久強化了你的怪獸波次。
+loadout.mode.strongmonsters.desc,怪獸造成的傷害加倍。
+upgrades.tesla.desc,向外面的世界介紹電能的美好。最好是直接「當面」介紹，而且用的是幾千伏特的電壓。
+properties.drillbot.turnaround,再碰上硬牆時轉向
+upgrades.keeper2movement3.desc,改進你的重力產生器以便以最快的速度移動。
+level.tutorial.onewayteleporter2,按 | 以放置傳送門。再次按下可傳送回去。
+upgrades.domearmormelee2.title,近距離護甲 2
+upgrades.drillbotbuffstrength2.title,牛磺酸添加物
+level.tutorial.onewayteleporter3,這會自動充能
+upgrades.keeper4extraresource.desc,你的貓地精會小心挖掘，因此有時能從磚塊採收到一份額外資源。
+upgrades.drillbotduo.desc,帶著鑽頭哥的表親 —— 鋤頭弟跟挖礦娃 —— 來幫忙挖掘。在彼此的陪伴下，即便怪獸來襲他們也不會再受到驚嚇了，反而還會繼續挖掘。
+properties.tesla.perfecttimingwindow,時窗：{}s
+loadout.mode.strongmonsters,重擊者
+level.gameover.backtomainmenu,返回主選單
+properties.keeper3.shurikenstrength,爆炸半徑 (格)：{}
+telemetry.privacy,如需進一步瞭解我們對於的資料處理方式，請參閱我們的《隱私權政策》：http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,導彈變得更致命。
+keybindings.reset.doreset.xbox,重設我的按鍵
+upgrades.keeper3carrylimit3.desc,提高苦無運輸器可載運的資源數量。
+upgrades.autocannondoublefirerate.desc,自動加農炮的發射速度更快。簡單又有效。
+upgrades.autocannon.title,自動加農炮
+upgrades.artillerymachinegunhoming1.title,制導火箭 1
+level.tutorial.assessor.carry.desc1_1.ps5,一旦資源鎖定到你身上，即使放開收集按鈕，也仍會跟著你。
+upgrades.swordlongblade1.desc,安裝更長且更靈活的劍身。
+loadout.team.players,玩家
+level.tutorial.fullscreen.back,返回
+options.keybindings.action.keeper.rope,拋繩
+upgrades.mushroomfarm.title,蘑菇農場
+loadout.prestige.title,選擇模式變體
+upgrades.prospectionmeterrange1.title,範圍 1
+upgrades.keeper3doublejump.title,二段跳
+upgrades.keeper3kunaibounce1.desc,顯示苦無預測的反彈路徑和落點。每次反彈都會在石頭中產生迴響，揭露附近的格子。
+upgrades.repellentbattlelongerhealthreduction.title,強力凋零
+loadout.versusmod.versusmodifierlittlewater,水資源短缺
+upgrades.mushroomfarmdrill1.title,蘑菇挖掘 1
+loadout.versusmod.versusmodifierscatterediron,零散鐵礦脈
+level.converter.popup.conversion.convert,轉換
+properties.droneyard.overchargebattledronecount,額外戰鬥無人機：{.percent}
+reward.rewardfreerolls1.desc,每輪遊戲可免費重擲一次道具或補給選擇。
+multiplayer.host.splitscreen,啟用本機分割畫面
+properties.converter.cobalttoiron,1 份鈷轉換為 {} 份鐵
+loadout.mode.automateddefense,自動防禦
+options.input.gamepad.gamepadstickdeadzone.xbox,搖桿死區
+level.converter.popup.explanation,選擇一項資源轉換以開始！
+upgrades.dome1health2.title,生命值 2
+upgrades.stunlaserduration3.desc,眩暈雷射冷卻得極快，攻擊的持續時間也顯著提升。
+upgrades.assignmentsemergencycontribution5.desc,請在第 16 回合前送出這個包裹，否則此任務會失敗。
+pause.gamepadcontrols.use,使用
+properties.spire.stunmonsters,擊暈怪獸
+upgrades.assignmentssendcobalt.desc,將鈷送交守護者公會。為了完成任務成功，您需要發送所有可用交付物資。
+upgrades.mushroomfarmspeed1.desc,提升食用蘑菇後獲得的速度強化。
+upgrades.keeper2pinballmorespheres1.title,球體供應
+upgrades.rocketlauncherrockets2.desc,提升你能發射的導彈數量。
+options.keybindings.gamepad.xbox.menu.xbox,選項按鈕
+upgrades.swordstabfast3.desc,突刺得更快、更頻繁。
+properties.shield.overchargestrength,超載後強度：{} 點生命值
+upgrades.droneyarddronespeed1.desc,提升運輸無人機的速度。
+upgrades.liftorbs.title,額外球體
+properties.keeper3.carrylimit,苦無運輸器容量：{}
+options.video.graphicsmode.photosensitive,光敏模式
+upgrades.keeper2pinballdamage1.title,動能球 1
+reward.rewardkeeper3skin1.title,滲透者造型
+level.tutorial.ninja.gadgetpickup.desc1,道具不會自動拾取。
+properties.converter.ironperwater,每份水 {} 份鐵
+properties.spire.capacity,充能前射擊次數 {}
+level.tutorial.ninja.gadgetpickup.desc2,按住「|」即可拾取裝置。
+loadout.versusmod.versusmodifierlittlewater.desc,此地圖僅含少量水脈。
+upgrades.drillbotstrength3.desc,提升鑽頭哥的挖掘強度。
+upgrades.spirestuntrap3.title,怪獸陷阱
+upgrades.shredgadgettocobalt.desc,將道具分解並且獲得{amount}塊鈷資源。
+upgrades.converterefficientcobalt.title,進階鈷資源轉換
+options.input.vibration.strength.switch,震動強度
+properties.sword.reflectprojectiles,反彈能量子彈
+reward.rewardfreerolls2.desc,每輪遊戲可額外免費重擲一次道具或補給選擇。
+level.tutorial.station.popup_2.switch,移動至控制台並按下「|」即可進入。
+upgrades.versus.desc,兩座穹頂、兩支隊伍彼此較勁，直到只剩下一隊為止。
+upgrades.dome2.desc,實驗性穹頂，配有一把需要熟練才能掌握、但即使是最強大的攻擊者也能輕鬆應對的利劍。
+upgrades.drillmagnetic.desc,向下鑽頭的外殼變得有磁性，可將全部開採到的資源固定住。
+assignment.harmfuliron.title,危險鐵礦
+level.tutorial.sworddome.stabbing,突刺
+options.input.gamepad.icons,圖示
+upgrades.shredgadgettoiron.desc,將道具分解並且獲得{amount}塊鐵資源。
+upgrades.assignmentsemergencycontribution6.desc,請在第 20 回合前送出這個包裹，否則此任務會失敗。
+properties.droneyard.battledroneshots,每架無人機射擊次數：{}
+level.gameover.lose.title,您失去了穹頂
+loadout.difficulty.title,難度
+properties.artillery.maxrotation,最大旋轉角度：{}°
+upgrades.shockwavestun2.desc,提升衝擊波的眩暈能力。
+unlock.host.locked,建立遊戲的玩家未擁有 DLC「%s」。
+multiplayer.host.splitscreen.desc,在裝備畫面中使用遊戲手把可產生額外的守護者，最多四名守護者共用同一畫面。可與區域網路或線上多人遊戲搭配使用。
+telemetry.explanation,"若要進行線上多人遊戲，請連線至我們的服務以尋找其他玩家並加入他們的遊戲，或在你這端開設遊戲。
+此功能為選用項目，你可以自由啟用或停用。即使使用匿名帳號，重複連線至後端仍會與 GDPR 保持關聯。
+我們不會收集你的個人資料，也不會以遙測方式追蹤你的遊戲。
+若你未啟用線上多人遊戲，仍可在同一裝置上以分割畫面或經由區域網路來進行多人遊戲。
+
+你隨時可在選項中變更此設定。"
+gadget.slot.supplement,補充
+upgrades.droneyardovercharge2.desc,無人機在無人機場超載後變得更加強大。
+level.furnace.popup.fuel.burn,每個 | 都會持續 {cycles} 個回合，並額外延遲怪獸 {seconds} 秒。
+options.input.controls.nooptions,這位守護者沒有可用的 %s 個別設定。
+upgrades.versusshowinventory.desc,監視對方穹頂時，還能查看其資源庫存。
+properties.drillbot.drillstrength,挖掘強度 {}
+upgrades.keeper1.desc,擁有優秀的挖掘技巧，是個熟練的專家。
+leaderboard.friends,好友
+gadget.slot.activegadget,第二戰鬥技能
+upgrades.keeper2.desc,老練的礦工，會使用實驗性的動能與重力技術。
+upgrades.keeper2pinballsplit2.title,改良拆分
+upgrades.keeper2movement1.title,重力移動 1
+upgrades.keeper2pinballexplode.title,爆炸球
+upgrades.keeper3kunaidamage4.desc,提高苦無的採礦能力。苦無對硬岩特別無力。
+upgrades.spireautonomy1.desc,即使你離開了控制台，依然會有一個簡單的 AI 時刻操控著尖塔。
+properties.droneyard.dronespeed,無人機速度 {}
+upgrades.teslaquickshot.title,快速射擊
+assignment.megacreeps.title,適者生存
+upgrades.shieldbattleactivateondepletion.title,耗盡時啟動
+versus.corruptionbigwave.title,致命波次
+upgrades.lasermove3.title,移動速度 3
+upgrades.swordelectrified.title,帶電刃
+upgrades.artillerymachinegun1.title,改良防空砲
+level.tutorial.beastmaster.move.desc2,只有抓住牆面時才能移動。
+options.accessibility.fontsize.small,小
+assignment.unpredictable.desc,這顆星球的大氣會干擾穹頂的偵測儀，導致無法追蹤敵人波次。
+level.tutorial.beastmaster.move.desc1,利用觸手沿著礦坑牆面移動。
+upgrades.suitblasterdirectional.desc,朝單一方向移動時，服裝爆破器會炸出一條通道。只要在啟動服裝爆破器時不移動，仍可實現徑向爆炸。
+level.tutorial.teleporter.take1,你的傳送器配備了一個站點和一個傳送門。你可以在這兩者之間傳送。
+options.audio.music.ost.mode.fixed.desc,播放以下守護者背景音樂中的曲目，無論目前使用的是哪個守護者。
+level.tutorial.teleporter.take2,將傳送門帶到你想要的地方。
+level.gameover.assignment.failed,你未能完成守護者公會的任務。
+telemetry.manage,停用線上服務
+modding.restart,重新啟動
+upgrades.orchardbattlerootingexplosion.title,獵物爆破
+level.gameover.unlock.skin,已解開新服裝！
+upgrades.jetpackspeed3.desc,改良飛行器來提高移動速度。
+upgrades.repellentoverchargeduration2.title,強效超載
+upgrades.prospectionmeterwater1.desc,顯示最近處水脈的距離。
+loadout.prestige.miner.description,在沒有怪獸的世界裡專注於最高效率的挖掘。持續 20 個回合。
+upgrades.shieldbattlereflect.desc,主動戰鬥技能，觸發後可讓穹頂在短期內反彈襲來的投射物。
+upgrades.stunlaserstun1.desc,提高眩暈光束的威力。
+multiplayer.error.gameresolved,這場比賽已經結束。
+upgrades.shieldbattlereflect.title,反彈
+options.audio.volumes.mastervolume,主音量
+upgrades.keeper2pinballdamage4.title,動能球 4
+leaderboard.loading,正在載入…
+upgrades.droneyardparasites2.title,寄生無人機 2
+playerlist.title,玩家清單
+upgrades.versusincreasewave2.desc,永久提升對手隊伍的怪獸波次強度。
+upgrades.rocketlauncher.title,導彈發射器
+upgrades.liftspeed1.title,速度
+upgrades.rocketlauncherrockets2.title,彈幕 2
+level.tutorial.blastmining.popup_1,將炸彈帶至你想清除岩石的區域。
+upgrades.keeper3slidecontrol.title,滑行控制
+properties.furnace.wavedelay,基礎延遲：{} 秒
+upgrades.mushroomfarmspeed2.desc,提升食用蘑菇後獲得的速度強化。
+upgrades.dome3.title,火砲穹頂
+properties.converter.ironirontime,鐵轉換為鐵的時間 (回合)：{}
+properties.keeper4.movespeed,移動速度：{}
+properties.stunlaser.damagepermonster,依怪獸而計算的範圍傷害 {}dps
+upgrades.stunlaser.title,麻痹雷射
+title.navbar.credits,製作團隊
+upgrades.drillbotbuffstrength1.title,營養點心
+level.tutorial.pickup.popup_1,點按「|」拾取一份資源。
+level.tutorial.pickup.popup_3,按壓以撿起多個。
+upgrades.blastminingtriple.title,三重爆破
+upgrades.prospectionmeterscandelay1.desc,提高儀器的更新頻率。
+upgrades.furnacelastingwaterfiring.desc,使每單位的水都能在熔爐中燃燒得更久。
+upgrades.versusincreasewave2.title,破壞 2
+upgrades.artillerymachinegun4.desc,安裝可以承受極高射速的槍管。
+upgrades.teslaspeed4.title,照准速度 4
+upgrades.swordextendlong3.desc,巨大的突刺強度和持續時間。
+demo.end.title,感謝您遊玩試用版！
+upgrades.stationextensiontubemovement.title,真空管旅行
+upgrades.keeper4squad3.title,滿編小隊
+upgrades.orchardbattleshield.desc,在穹頂上種植常春藤天幕，可以保護穹頂免受投射物傷害。
+properties.droneyard.battledronestrength,寄生效果：{.percent}
+options.game.kunaicarriersnapping,允許苦無運輸器的準星快速對準四個方位
+options.input.vibration.strength.xbox,震動強度
+upgrades.keeper2pinballspherelifetime.title,球體壽命
+upgrades.furnace.title,熔爐
+upgrades.shockwavedamage1.title,衝擊波傷害 1
+properties.mushroomfarm.drillbuff,挖掘強度強化：{}
+level.tutorial.station.popup_4,然後點按「|」進入戰鬥模式，抵禦怪獸的攻擊。
+level.tutorial.teleporter_2,你可以透過傳送器站點前往傳送門處，反之亦然。
+level.tutorial.station.popup_2,移動到站點處，點按「|」即可進入。
+title.navbar.continue,繼續遊戲
+actionhint.tap,點按
+level.tutorial.station.popup_1,您的穹頂正在受到襲擊!
+multiplayer.error.kicked,已被踢出多人遊戲場次。
+telemetry.allow.ps5,接受 EULA
+landing.proceed.ps5,按下任意按鈕繼續遊玩
+upgrades.condenserautoovercharge.title,自動超載
+upgrades.keeper2pinballdestroyadjacenttiles.title,連鎖撞擊
+level.converter.popup.queue,自動重複轉換
+options.keybindings.rebinding.cancel,取消
+loadout.versus.condition.deathmatch.title,最後穹頂
+upgrades.domearmorprojectile1.desc,減少穹頂在投射物攻擊中所遭受到的傷害。
+options.keybindings.action.general.move,移動
+upgrades.keeper3kunaicooldown2.title,迅捷投擲
+upgrades.artilleryrotation2.title,快速旋轉
+loadout.gadget.additional.desc,選擇一個額外道具！
+level.gameover.unlock.assignment,任務已解鎖！
+upgrades.domesupplementprojectiledamagereduction1.desc,提高穹頂外殼的偏轉能力，藉此降低投射物所帶來的傷害。近戰傷害則不受影響。
+upgrades.blastminingproductiontime1.desc,減少製作爆破裝藥彈的所需時間。
+upgrades.autocannonshotgun1.title,霰彈槍 1
+loadout.hint.loadout,完成你的裝備！
+assignment.condition.deliveriron,傳送%d個鐵
+upgrades.drillbotduo.title,勇敢的朋友
+level.tutorial.assessor.carry.desc1_1.xbox,一旦資源鎖定到你身上，即使放開收集按鈕，也仍會跟著你。
+multiplayer.error.nomods,不得安裝任何模組。
+options.input.controls.keybindings.xbox,按鈕設定
+upgrades.domearmorprojectile2.title,投射物護甲 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"設定一個數值，使長條不會在你僅觸碰而不推動搖桿的情況下閃爍。
+若推動搖桿，長條應該隨即閃爍。"
+upgrades.domesupplementcombatrepair2.title,徹底戰鬥修復
+level.gadgetchoice.title,選擇一件道具！
+properties.teleporter.slowdown,負重緩速：{.percent}
+upgrades.teslaspeed1.title,照准速度 1
+assignment.weapondefect.title,瑕疵武器
+properties.suitblaster.directionalexplosions,有向爆破
+options.translation.community.title,社群翻譯
+options.audio.music.ost.mode,背景音樂設定
+upgrades.teleporterteleportresourcesback.title,傳送資源
+upgrades.orchardbattleshield.title,藤蔓天幕
+properties.drill.sides,側鑽頭 {}
+upgrades.teslaorbstun.desc,電能球會施加更強的眩暈效果。
+upgrades.repellentoverchargeduration2.desc,提升超載對戰鬥能力的影響。
+properties.keeper2.totalspheres,球體 {}
+options.keybindings.action.general.up,上
+pause.quit.popup,"確定要退出嗎？
+再次按下即可確認。
+(遊戲進度已儲存)"
+upgrades.drillbotduplicate.desc,給鑽頭哥一個雙胞胎兄弟，鑽頭弟。
+properties.suitblaster.radius,爆炸半徑 (格)：{}
+assignment.bigmapsparseresources.title,貧瘠之地
+upgrades.converterqueue.title,自動轉換
+multiplayer.error.otherprestigeplayerquit,由於你的隊友已離開遊戲，遊戲已結束。你的遊戲已儲存，你可以在「繼續遊戲」選單中選取「多人遊戲」來繼續遊戲。
+level.tutorial.teleporter.teleport1,靠近傳送門時，點按「|」即可傳送回來。
+level.tutorial.teleporter.teleport2,你還可以傳送到其他方向。
+playerlist.report,檢舉
+upgrades.swordextendlong1.title,遠程突刺 1
+upgrades.spiresplit3.desc,分裂投射物可以從任意角度發出。
+upgrades.keeper3kunaicooldown3.desc,可以更快投擲苦無。
+exhibition.title.press.anything,按下任意鍵開始遊玩
+multiplayer.techtree.keeperexclusivesupplement,這項補給僅會套用至你的守護者。
+options.input.gamepad.twinstick.xbox,雙搖桿控制
+reward.rewarddomesupplements.title,穹頂補給
+loadout.mode.maze,迷宮
+upgrades.teleporter.title,傳送門
+properties.keeper4.holesquad,採礦小隊人數：{}
+level.tutorial.fruit.popup_1,你的果園剛長出了第一顆果實。
+upgrades.teslatiming1.desc,在特斯拉充電時施展精確射擊，造成威力更大的一擊。
+upgrades.converterefficientwaterlong.title,強效處理
+level.tutorial.fruit.popup_2,站在水果旁，點按「|」即可食用。
+unlock.buy.keeperdlc.xbox,由附加內容「%s」解鎖。
+upgrades.autocannonspeed1.desc,為加農炮齒輪塗抹潤滑油，顯著提高移動速度。
+upgrades.probepermanentrevealresources.desc,探測到的資源會永久顯示，而不僅是標記。
+properties.teleporter.teleportresourcescooldown,資源傳送冷卻時間：{} 秒
+upgrades.spire.desc,一個防禦性的尖塔，可以擊落來襲的投射物。
+reward.rewardkeepersupplements.title,守護者補給
+upgrades.condenser.desc,在穹頂下方添置一部機器，可緩慢的凝結空氣中的水。
+upgrades.spiresplit3.title,地面分裂
+properties.drillbot.plantgrowthtime,點心生長時間 (回合)：{}
+modding.modio.showdownloaded,顯示已下載的模組
+upgrades.stunlaserspeed1.title,速度 1
+upgrades.resourcepackercharges.title,打包次數
+upgrades.swordblade1.title,強化揮砍
+loadout.versus.modifiers.desc,為本局挑選同時影響你隊與對手的調整項。調整項為選用。
+options.keybindings.gamepad.xbox.view,返回
+options.accessibility.backgrounds.explanation,將各世界的背景替換為單一的明亮顏色，以減少戰鬥中的視覺雜訊。
+upgrades.dome1health1.title,生命值 1
+loadout.prestige.pro.randomorder,隨機順序
+assignment.superhardrockwithholes.desc,岩石非常緻密，但充滿了天然洞穴。
+upgrades.droneyardparasites.title,寄生無人機
+actionhint.hold,長按
+properties.spire.timebetweenshots,瞄準時間 {}s
+properties.game.cyclespeed,回合速度：{.percent}
+upgrades.artillerydirecthit3.title,怪獸剋星 3
+loadout.mode.drillbert,鑽頭哥模式
+upgrades.prestigecobalt.title,運送鈷
+upgrades.rocketlauncher.desc,瞄準怪獸並發射追蹤導彈。必須手動觸發。
+level.station.battle.navbar.exit,退出
+options.game.events.enableseasonal,啟用季節性內容
+options.audio.music.ost.mode.fixed,固定
+assignment.ironcontribution.desc,公會請求盡快交付大量的鐵以應急切需求。
+properties.laser.dps,傷害 {}
+upgrades.keeper4.title,馴獸師
+upgrades.laserbend.title,迴旋雷射炮
+unlock.host.locked.switch,建立遊戲的玩家未擁有附加內容「%s」。
+level.supplementchoice.reroll.free, (%s) 重擲
+loadout.versusmod.versusmodifierconcentratediron,集中鐵礦脈
+options.keybindings.rebinding.apply,套用
+properties.repellent.battledamageovertime,怪獸每秒受到 {} 點傷害
+upgrades.repellentdelay1.title,延遲 1
+upgrades.converterefficientwatershort.desc,使水的轉換速度大大加快。
+upgrades.domesupplementcombatrepair1.title,戰鬥修復 1
+level.tutorial.sworddome.slicing,斬劈
+properties.drillbot.scared,害怕怪物
+title.navbar.updates.close,關閉
+upgrades.condenserspeed2.desc,進一步減少凝結水需要的時間。
+upgrades.prospectionmeteriron2.desc,顯示最近處鐵礦的距離。
+upgrades.keeper3carrylimit2.title,載運容量 2
+loadout.versus.condition.irondelivery.desc,率先交付 %s 個鐵礦的隊伍獲勝。
+properties.mushroomfarm.speedbuffduration,速度強化持續時間：{} 秒
+upgrades.keeper4punch1.desc,觸手挖掘時會慢慢累積出驚人的力量，但只要改變方向，累積就會重置。
+exhibition.level.heading,您還在嗎？
+keeperdlc.load.missing.xbox,無法載入存檔，因為其中包含無法使用的附加內容。請確認「失落的守護者」附加內容是否可用。
+upgrades.domesupplementresurrection2.desc,獲得另一次復活機會。
+actionhint.release,釋放
+level.gameover.stats.monsterskilled,怪物擊殺數量
+level.gameover.timelapse,縮時
+upgrades.drill4.desc,強化電鑽，挖掘得更快。
+upgrades.prospectionmetersand1.desc,顯示最近處鈷礦的距離。
+assignment.instagip.desc,這顆星球上的怪獸異常殘暴，牠們的攻擊會對你的穹頂造成毀滅性傷害。
+landing.proceed.xbox,按下任意按鈕繼續遊玩
+upgrades.drillsides.desc,在中央鑽頭上增加一個可以根據需要而四處移動的側鑽頭。
+properties.dome.meleedamagereduction,近距離傷害減免：{.percent}
+options.keybindings.action.keeper.throw,投擲苦無
+level.station.battle.navbar.artilleryflak,機槍
+upgrades.teleporterlightweight.desc,攜帶傳送門幾乎不會使你減慢速度。
+pause.quittotitlescreen,返回主選單
+properties.sword.stabarrowhead,放大箭頭
+loadout.versus.team.open,開啟
+level.gameover.stats.mapsize,地圖大小
+upgrades.domesupplementelectrifiedsurface2.desc,提高怪獸撞擊穹頂時對牠們造成的傷害。
+upgrades.prestigecobalt.desc,運送鈷，提升每次擊退一波敵人可獲得的聲望點數。
+options.video.renderscale.reset,重設
+options.keybindings.text.xbox,"依你的喜好重新對應鍵位。
+同一個按鍵用於不同分類的行為通常是沒有問題的 (像是使用同個按鍵移動角色和武器)。"
+options.audio.music.frequency,頻率 (無音樂的回合)
+upgrades.rocketlauncherrockets3.desc,提升你能發射的導彈數量。
+options.input.controls.mouse.menus,在選單中使用滑鼠
+upgrades.artillerysplash4.title,四重砲彈
+upgrades.keeper4catgoblindig3.title,狂熱挖掘
+properties.keeper4.catgoblincount,貓地精數量：{}
+loadout.mode.hud.desc,起手便擁有全面升級的 HUD。
+upgrades.drillbotsleepless.title,基礎調理
+assignment.maze.desc,這個星球的地貌就像迷宮一樣，到處都是走廊和凹凸不平的結構。
+level.tutorial.drop.popup_2.switch,按下「|」可放下 1 個。按住可放下多個。
+upgrades.artillerysplash2.title,雙重砲彈
+loadout.select,選擇
+level.gameover.prestige.uploading.failed,上傳失敗，請再次重試
+level.assignment.badges.available,可用徽章：%d
+level.tutorial.beastmaster.goblins,貓地精
+properties.autocannon.spray,子彈噴灑 {.percent}
+upgrades.versusspycam.title,偵查攝影機
+upgrades.shredgadgettoiron.title,分解為鐵資源
+upgrades.teslapersistance3.desc,電能球變得更大且更耐久，停留時間更長。
+upgrades.suitblasterspeed2.title,充能速度 2
+properties.shield.battleuses,每場戰鬥可使用 {} 次
+properties.prospectionmeter.range,範圍 (格)：{}
+upgrades.droneyard.desc,安裝一個用於生產無人機的場地，用於運輸資源和戰鬥。
+upgrades.domearmorpulse.title,反應脈衝
+title.navbar.multiplayer.host,開設多人遊戲
+upgrades.spireburst.desc,短時間內連發，可以妥善面對齊射。
+upgrades.domearmor.desc,為你的穹頂安裝堅固的鍍層，使其更耐用。
+options.input.controls.mouse.gamepad.xbox,切換至控制器並返回時由系統自動偵測。
+unlock.difficulty.hard,在殘酷難度下贏一輪即可解鎖。
+versus.corruptionmonsterhealth.title,強壯怪獸
+properties.probe.markerretention,記號持續時間：{} 秒
+loadout.hint.gamemodecompletion,完全自訂遊戲模式！
+upgrades.suitblasterdirectional.title,有向充能
+level.station.navbar.exit,退出
+unlock.host.locked.xbox,建立遊戲的玩家未擁有附加內容「%s」。
+loadout.versusmod.versusmodifiernorelics,無文物
+upgrades.autocannondoublefirerate.title,加農炮快速攻擊
+upgrades.blastmining.desc,產生用於爆炸性挖掘的炸彈。將炸藥帶入礦坑，鬆開後即可引爆。
+upgrades.converterqueue.desc,轉換完成後，產生的資源會自動彈出，如果庫存中有足夠的資源，則會重新開始相同的轉換。
+modding.modio.fetchsubscriptionsfailed,擷取 mod.io 訂閱項目時發生錯誤！
+upgrades.orchardbattleshieldsecondlayer.desc,在天幕上再種植一層藤蔓。
+unlock.generic,贏一輪即可解鎖。
+loadout.versusmod.versusmodifiersoftrock.desc,此地圖含有較多軟質岩層。
+upgrades.assignments.desc,接受來自守護者公會的挑戰任務，證明你的實力。
+upgrades.proberecharge.title,自動充能
+assignment.instagip.title,殘暴怪獸
+upgrades.artillerysplash3.desc,改良你的迫擊砲，發射具有巨大爆炸半徑的砲彈。
+multiplayer.join.button,加入
+pause.gamepadcontrols.move,移動
+upgrades.condenserautoovercharge.desc,讓你的主要道具永久處於超載狀態而不用擔心把水用完。冷凝器在超載後，將延遲水的生產。
+multiplayer.continue.deviceselection.title,選擇您的守護者！
+upgrades.autocannonautonomy.desc,即使你離開了控制台，自動加農炮也會啟動。
+upgrades.swordaimline.title,瞄準線
+multiplayer.join.joinfromcode,加入
+properties.artillery.rotationspeedwhilemachinegun,射擊時的旋轉速度：{.percent}
+level.tutorial.artillery.panel2header,防空砲
+level.gameover.keepgadget.title,選取要保留至下一輪遊戲的道具
+upgrades.domearmorprojectile2.desc,減少穹頂在投射物攻擊中所遭受到的傷害。
+upgrades.shieldbattledestructionprevention.title,最終一搏
+upgrades.domeresourcecounters.desc,顯示目前儲存的資源量，並在戰鬥中使用鈷自動修復穹頂。
+upgrades.spirestuntrap1.title,能量陷阱
+upgrades.prospectionmeteriron2.title,鐵礦方位指南針
+loadout.mode.hyperactive,迅速而無力
+upgrades.prospectionmeterwater2.desc,顯示最近處水脈的方向。
+options.video.stretchmode,呈現模式
+level.gameover.prestige.title,已完成本次聲望挑戰
+upgrades.droneyardovercharge1.title,超載無人機場
+loadout.abort,退出
+upgrades.teslaorbdamage.title,超導性
+upgrades.proberechargeafterbattle.title,無站式探測器
+upgrades.assignmentssendwater.title,交付水
+upgrades.probecharges.title,探測器充能
+pause.gamepadcontrols.pickup,撿起
+upgrades.prospectionmeter.title,資源偵測儀
+upgrades.condenserspeed2.title,製作時間 2
+loadout.mode.hyperactive.desc,怪獸的移動速度大幅提高，但生命值較少。
+upgrades.teleporterlightweight.title,輕量傳送門
+versus.corruptionstunresistance.title,眩暈抗性
+loadout.versusmod.versusmodifierpoorirondeposits,稀薄鐵礦脈
+level.gameover.prestige.uploading.finalfailed,很抱歉，上傳新分數失敗！
+modding.currentprofile,(當前檔案)
+upgrades.versussendiron.title,交付鐵礦
+loadout.assignment.title,選擇任務
+options.keybindings.rebinding,重新套用
+upgrades.teslaspeed2.title,照准速度 2
+level.tutorial.beastmaster.hole_1,按住「|」即可在背景牆上挖洞。
+level.tutorial.beastmaster.hole_2,一隻貓地精很快就會鑽出來，將洞口接上牠們的地道網路。
+upgrades.keeper3shurikenstrength2.title,巨型手裏劍
+upgrades.versusspycam.desc,取得一座可監視對方穹頂的新站台。
+loadout.versusmod.versusmodifiershortcycles,短回合
+options.accessibility.fontsize.large,大
+reward.rewardcentralmarker.desc,以垂直線標記出礦坑的中心。
+upgrades.shieldstrength3.desc,進一步提升穹頂護盾能吸收的傷害。
+options.game.movementsnapping,允許移動方向快速對準四個方位
+upgrades.laseraimline.title,雷射準鏡
+upgrades.converterironduplication.title,鐵礦精煉
+upgrades.jetpackspeed4.desc,改良飛行器來提高移動速度。
+options.keybindings.gamepad.xbox,控制器
+upgrades.teslapower1.title,射擊威力 1
+gadget.slot.mineshaft,礦井
+keybindings.reset.title,按鍵設定重置
+upgrades.autocannonrateoffire2.desc,進一步提高射速。
+multiplayer.join.localonly,目前僅搜尋區域網路遊戲。要啟用線上多人遊戲嗎？
+upgrades.keeper3aerialmastery.title,御空而行
+upgrades.extractordestruction.desc,蠕蟲不再凋零於隧道之內，而是會鑽入岩石並使其崩塌，同時破壞周圍的一些岩石。
+properties.shield.battleabilityduration,技能持續時間：{} 秒
+upgrades.keeper4squad3.desc,增加小隊中的貓地精數量，並提高牠們的耐力。
+level.gameover.prestige.score.rankimproved,您提高了您的排行榜至{rank}
+options.game.tutorials.noneunlocked,尚未解開任何教學。
+upgrades.droneyardparasites2.desc,提升寄生無人機的效果。
+loadout.prestige.provocation,挑釁
+network.error.generic,網路錯誤。
+options.game.ropesnapping,繩索與瞄準指示器自動對齊上下左右方向
+upgrades.keeper4catgoblindig1.title,貓地精挖掘
+level.gameover.manualmove,手動攝影機
+upgrades.domesupplementcombatrepair1.desc,戰鬥中遭受到超過一定量的傷害後會自動維修一次穹頂。不消耗鈷。
+upgrades.prospectionmeterscandelay1.title,改良掃描速度
+assignment.goaltype,目標
+properties.keeper1.speedlosspercarry,載物緩速 {}
+upgrades.extractor.desc,培養附著在鐵礦脈上的攜帶式蠕蟲萃取器，這些蠕蟲會隨著時間的推移而有效地煉鐵。
+unlock.mapsize.huge,在大型地圖上贏一輪即可解鎖。
+upgrades.liftcarrykeeper2.desc,升降機可進一步加快你的速度。
+loadout.mapsize.title,地圖大小
+loadout.difficulty.hard,你自找的
+upgrades.rocketlauncherdamage1.title,改良型導彈
+versus.corruptionfastmonsters.title,迅捷怪獸
+multiplayer.host.online.desc,全球玩家均可加入。
+upgrades.keeper4speed3.desc,大幅提高移動速度。
+network.error.offline,已丟失網絡連接。請檢查您的網絡連接。
+level.tutorial.ninja.carry.desc1_1,走過資源上方即可拾取。
+upgrades.resourcepackerconstant.desc,近即時充能讓使用幾乎不受限制，同時提升集束的大小和規模。
+loadout.versusmod.versusmodifiersecondweapon.desc,擁有多名守護者的隊伍開場時會解鎖第二操作站的武器。
+assignment.logistics.desc,公會在這顆星球上發現了大量的水，並要求你負責處理物流。
+properties.shockwave.damage,傷害：{}
+pause.gamepadcontrols.back,返回

@@ -1,0 +1,125 @@
+[gd_scene load_steps=7 format=3 uid="uid://tr1mkly0tv5g"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://systems/options/SoundtrackPanel.gd" id="2"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="3"]
+[ext_resource type="FontVariation" uid="uid://g3vbmmqhudaf" path="res://gui/fonts/FontHeading.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://b5aow2qb2h3pe" path="res://gui/fontsettings/HeadingFontSettings.tres" id="5"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_e1x7e"]
+
+[node name="SoundtrackPanel" type="ColorRect"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+theme = ExtResource("1")
+color = Color(0.0705882, 0.0705882, 0.101961, 0.733333)
+script = ExtResource("2")
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="PanelContainer" type="PanelContainer" parent="CenterContainer"]
+layout_mode = 2
+theme_override_styles/panel = ExtResource("3")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "options.audio.music.ost.mode"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="Label3" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+text = "options.audio.music.ost.mode.desc"
+
+[node name="PanelContainer" type="PanelContainer" parent="CenterContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="GridContainer" type="GridContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer"]
+layout_mode = 2
+columns = 2
+
+[node name="ButtonAdaptive" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_e1x7e")
+text = "options.audio.music.ost.mode.adaptive"
+
+[node name="ButtonFixed" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_e1x7e")
+text = "options.audio.music.ost.mode.fixed"
+
+[node name="Label" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.audio.music.ost.mode.adaptive.desc"
+autowrap_mode = 3
+
+[node name="Label2" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.audio.music.ost.mode.fixed.desc"
+autowrap_mode = 3
+
+[node name="Control" type="Control" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+
+[node name="CheckKeeper1" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+text = "upgrades.keeper1.title"
+
+[node name="Control2" type="Control" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+
+[node name="CheckKeeper2" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+text = "upgrades.keeper2.title"
+
+[node name="Control3" type="Control" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+
+[node name="CheckKeeper3" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+text = "upgrades.keeper3.title"
+
+[node name="Control4" type="Control" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+
+[node name="CheckKeeper4" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer"]
+layout_mode = 2
+text = "upgrades.keeper4.title"
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.cancel"
+
+[node name="ButtonApply" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.ok"
+
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer/ButtonAdaptive" to="." method="_on_ButtonAdaptive_pressed"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer/ButtonFixed" to="." method="_on_ButtonFixed_pressed"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer/CheckKeeper1" to="." method="sound"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer/CheckKeeper2" to="." method="sound"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2/CancelButton" to="." method="_on_CancelButton_pressed"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2/ButtonApply" to="." method="_on_ButtonApply_pressed"]

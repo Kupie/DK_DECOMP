@@ -1,0 +1,501 @@
+[gd_scene load_steps=9 format=3 uid="uid://4sifsek1rg68"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://systems/options/keeper_input_settings_popup.gd" id="2"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="3"]
+[ext_resource type="FontVariation" uid="uid://g3vbmmqhudaf" path="res://gui/fonts/FontHeading.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://b5aow2qb2h3pe" path="res://gui/fontsettings/HeadingFontSettings.tres" id="5"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="6"]
+[ext_resource type="Script" path="res://systems/options/keeper_input_settings_category.gd" id="7"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_41dnl"]
+
+[node name="KeeperInputSettingsPopup" type="ColorRect"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+theme = ExtResource("1")
+color = Color(0.0705882, 0.0705882, 0.101961, 0.733333)
+script = ExtResource("2")
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="PanelContainer" type="PanelContainer" parent="CenterContainer"]
+layout_mode = 2
+theme_override_styles/panel = ExtResource("3")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="TitleLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "options.input.controls.keepersettings.title"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="DeviceTypeLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "placeholder"
+label_settings = ExtResource("6")
+horizontal_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Keeper1Button" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_41dnl")
+text = "upgrades.keeper1.title"
+
+[node name="Keeper2Button" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_41dnl")
+text = "upgrades.keeper2.title"
+
+[node name="Keeper3Button" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_41dnl")
+text = "upgrades.keeper3.title"
+
+[node name="Keeper4Button" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_41dnl")
+text = "upgrades.keeper4.title"
+
+[node name="PanelContainer" type="PanelContainer" parent="CenterContainer/PanelContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 485)
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+follow_focus = true
+horizontal_scroll_mode = 0
+
+[node name="Keeper1Category" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer" node_paths=PackedStringArray("movement_snap_box", "movement_snap_slider", "no_keeper_settings_label")]
+visible = false
+layout_mode = 2
+size_flags_horizontal = 3
+script = ExtResource("7")
+movement_snap_box = NodePath("Keeper1MovementSnappingBox")
+movement_snap_slider = NodePath("Keeper1MovementSnappingBox/SnappingBox/K1MovementSnappingSlider")
+no_keeper_settings_label = NodePath("NoKeeperSettingsLabel")
+
+[node name="Keeper1MovementSnappingBox" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper1Category"]
+layout_mode = 2
+theme_override_constants/separation = -4
+
+[node name="DirectionalSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper1Category/Keeper1MovementSnappingBox"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "options.game.movementsnapping"
+autowrap_mode = 3
+
+[node name="SnappingBox" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper1Category/Keeper1MovementSnappingBox"]
+layout_mode = 2
+
+[node name="K1MovementSnappingSlider" type="HSlider" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper1Category/Keeper1MovementSnappingBox/SnappingBox"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+max_value = 90.0
+value = 15.0
+tick_count = 7
+ticks_on_borders = true
+
+[node name="K1MovementSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper1Category/Keeper1MovementSnappingBox/SnappingBox"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+size_flags_vertical = 6
+text = "15
+"
+
+[node name="NoKeeperSettingsLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper1Category"]
+layout_mode = 2
+size_flags_vertical = 3
+text = "There are no individual mouse settings for this keeper available."
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 3
+
+[node name="Keeper2Category" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer" node_paths=PackedStringArray("use_mouse_checkbox", "use_twinstick_checkbox", "show_aim_indicator_checkbox", "drop_ressources_before_gadets", "movement_snap_box", "movement_snap_slider", "aim1_snap_slider", "aim2_snap_slider")]
+visible = false
+layout_mode = 2
+size_flags_horizontal = 3
+script = ExtResource("7")
+use_mouse_checkbox = NodePath("Keeper2UseMouseCheckbox")
+use_twinstick_checkbox = NodePath("Keeper2UseTwinstickCheckbox")
+show_aim_indicator_checkbox = NodePath("Keeper2ShowAimIndicator")
+drop_ressources_before_gadets = NodePath("Keeper2ShootBundleBeforeGadgets")
+movement_snap_box = NodePath("Keeper2MovementSnappingBox")
+movement_snap_slider = NodePath("Keeper2MovementSnappingBox/SnappingBox/K2MovementSnappingSlider")
+aim1_snap_slider = NodePath("VBoxContainer2/SnappingBox/SphereSnappingSlider")
+aim2_snap_slider = NodePath("VBoxContainer3/SnappingBox/BundleSnappingSlider")
+
+[node name="Keeper2UseMouseCheckbox" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category"]
+layout_mode = 2
+text = "options.input.controls.mouse.keepers"
+
+[node name="Keeper2UseTwinstickCheckbox" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category"]
+layout_mode = 2
+text = "options.input.gamepad.twinstick"
+
+[node name="Keeper2ShowAimIndicator" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category"]
+layout_mode = 2
+text = "options.game.showkeeperaimindicator"
+
+[node name="Keeper2ShootBundleBeforeGadgets" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category"]
+layout_mode = 2
+text = "options.game.shootbundlebeforegadgets"
+
+[node name="Keeper2MovementSnappingBox" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category"]
+layout_mode = 2
+theme_override_constants/separation = -4
+
+[node name="DirectionalSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/Keeper2MovementSnappingBox"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "options.game.movementsnapping"
+autowrap_mode = 3
+
+[node name="SnappingBox" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/Keeper2MovementSnappingBox"]
+layout_mode = 2
+
+[node name="K2MovementSnappingSlider" type="HSlider" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/Keeper2MovementSnappingBox/SnappingBox"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+max_value = 90.0
+value = 15.0
+tick_count = 7
+ticks_on_borders = true
+
+[node name="K2MovementSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/Keeper2MovementSnappingBox/SnappingBox"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+size_flags_vertical = 6
+text = "15
+"
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category"]
+layout_mode = 2
+theme_override_constants/separation = -4
+
+[node name="DirectionalSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/VBoxContainer2"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "options.game.spheresnapping"
+autowrap_mode = 3
+
+[node name="SnappingBox" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/VBoxContainer2"]
+layout_mode = 2
+
+[node name="SphereSnappingSlider" type="HSlider" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/VBoxContainer2/SnappingBox"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+max_value = 90.0
+value = 15.0
+tick_count = 7
+ticks_on_borders = true
+
+[node name="SphereSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/VBoxContainer2/SnappingBox"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+size_flags_vertical = 6
+text = "15
+"
+
+[node name="VBoxContainer3" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category"]
+layout_mode = 2
+theme_override_constants/separation = -4
+
+[node name="DirectionalSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/VBoxContainer3"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "options.game.bundlesnapping"
+autowrap_mode = 3
+
+[node name="SnappingBox" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/VBoxContainer3"]
+layout_mode = 2
+
+[node name="BundleSnappingSlider" type="HSlider" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/VBoxContainer3/SnappingBox"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+max_value = 90.0
+value = 15.0
+tick_count = 7
+ticks_on_borders = true
+
+[node name="BundleSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/VBoxContainer3/SnappingBox"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+size_flags_vertical = 6
+text = "15
+"
+
+[node name="Keeper3Category" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer" node_paths=PackedStringArray("use_twinstick_checkbox", "show_aim_indicator_checkbox", "auto_pickup_ressources", "auto_kunai_carrier_pickup", "drop_ressources_before_gadets", "aim1_snap_slider", "aim2_snap_slider", "rope_snap_slider", "rope_camera_follow_slider")]
+visible = false
+layout_mode = 2
+size_flags_horizontal = 3
+script = ExtResource("7")
+use_twinstick_checkbox = NodePath("Keeper3UseTwinstickCheckbox")
+show_aim_indicator_checkbox = NodePath("Keeper3ShowAimIndicator")
+auto_pickup_ressources = NodePath("Keeper3AutoPickup")
+auto_kunai_carrier_pickup = NodePath("Keeper3AutoKunaiCarrierPickup")
+drop_ressources_before_gadets = NodePath("Keeper3KunaiCarrierBeforeGadgets")
+aim1_snap_slider = NodePath("KunaiSnappingContainer/SnappingBox/KunaiSnappingSlider")
+aim2_snap_slider = NodePath("KunaiCarrierSnappingContainer/SnappingBox/KunaiCarrierSnappingSlider")
+rope_snap_slider = NodePath("RopeSnappingContainer/SnappingBox/RopeSnappingSlider")
+rope_camera_follow_slider = NodePath("RopeCameraFollowAhead/SnappingBox/RopeCameraFollowSlider")
+
+[node name="Keeper3UseTwinstickCheckbox" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category"]
+layout_mode = 2
+text = "options.input.gamepad.twinstick"
+
+[node name="Keeper3ShowAimIndicator" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category"]
+layout_mode = 2
+text = "options.game.showkeeperaimindicator"
+
+[node name="Keeper3AutoPickup" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category"]
+layout_mode = 2
+text = "options.game.autopickupresources"
+
+[node name="Keeper3AutoKunaiCarrierPickup" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category"]
+layout_mode = 2
+text = "options.game.autopickupkunaicarrier"
+
+[node name="Keeper3KunaiCarrierBeforeGadgets" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category"]
+layout_mode = 2
+text = "options.game.kunaicarrierbeforegadgets"
+
+[node name="KunaiSnappingContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category"]
+layout_mode = 2
+theme_override_constants/separation = -4
+
+[node name="DirectionalSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/KunaiSnappingContainer"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "options.game.kunaisnapping"
+autowrap_mode = 3
+
+[node name="SnappingBox" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/KunaiSnappingContainer"]
+layout_mode = 2
+
+[node name="KunaiSnappingSlider" type="HSlider" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/KunaiSnappingContainer/SnappingBox"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+max_value = 90.0
+value = 15.0
+tick_count = 7
+ticks_on_borders = true
+
+[node name="KunaiSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/KunaiSnappingContainer/SnappingBox"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+size_flags_vertical = 6
+text = "15
+"
+
+[node name="KunaiCarrierSnappingContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category"]
+layout_mode = 2
+theme_override_constants/separation = -4
+
+[node name="DirectionalSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/KunaiCarrierSnappingContainer"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "options.game.kunaicarriersnapping"
+autowrap_mode = 3
+
+[node name="SnappingBox" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/KunaiCarrierSnappingContainer"]
+layout_mode = 2
+
+[node name="KunaiCarrierSnappingSlider" type="HSlider" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/KunaiCarrierSnappingContainer/SnappingBox"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+max_value = 90.0
+value = 15.0
+tick_count = 7
+ticks_on_borders = true
+
+[node name="KunaiCarrierSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/KunaiCarrierSnappingContainer/SnappingBox"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+size_flags_vertical = 6
+text = "15
+"
+
+[node name="RopeSnappingContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category"]
+layout_mode = 2
+theme_override_constants/separation = -4
+
+[node name="DirectionalSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/RopeSnappingContainer"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "options.game.ropesnapping"
+autowrap_mode = 3
+
+[node name="SnappingBox" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/RopeSnappingContainer"]
+layout_mode = 2
+
+[node name="RopeSnappingSlider" type="HSlider" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/RopeSnappingContainer/SnappingBox"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+max_value = 90.0
+value = 15.0
+tick_count = 7
+ticks_on_borders = true
+
+[node name="RopeSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/RopeSnappingContainer/SnappingBox"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+size_flags_vertical = 6
+text = "15
+"
+
+[node name="RopeCameraFollowAhead" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category"]
+layout_mode = 2
+theme_override_constants/separation = -4
+
+[node name="DirectionalSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/RopeCameraFollowAhead"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "options.game.ropecamerafollow"
+autowrap_mode = 3
+
+[node name="SnappingBox" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/RopeCameraFollowAhead"]
+layout_mode = 2
+
+[node name="RopeCameraFollowSlider" type="HSlider" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/RopeCameraFollowAhead/SnappingBox"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+tick_count = 6
+ticks_on_borders = true
+
+[node name="RopeCameraFollowLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/RopeCameraFollowAhead/SnappingBox"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+size_flags_vertical = 6
+text = "15
+"
+
+[node name="Keeper4Category" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer" node_paths=PackedStringArray("drop_ressources_before_gadets", "movement_snap_box", "movement_snap_slider", "no_keeper_settings_label")]
+layout_mode = 2
+size_flags_horizontal = 3
+script = ExtResource("7")
+drop_ressources_before_gadets = NodePath("Keeper4DropRessourcesBeforeGadgets")
+movement_snap_box = NodePath("Keeper4MovementSnappingBox")
+movement_snap_slider = NodePath("Keeper4MovementSnappingBox/SnappingBox/K4MovementSnappingSlider")
+no_keeper_settings_label = NodePath("NoKeeperSettingsLabel")
+
+[node name="Keeper4DropRessourcesBeforeGadgets" type="CheckBox" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper4Category"]
+layout_mode = 2
+text = "options.game.dropresourcesbeforegadgets"
+
+[node name="Keeper4MovementSnappingBox" type="VBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper4Category"]
+layout_mode = 2
+theme_override_constants/separation = -4
+
+[node name="DirectionalSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper4Category/Keeper4MovementSnappingBox"]
+layout_mode = 2
+size_flags_vertical = 6
+text = "options.game.movementsnapping"
+autowrap_mode = 3
+
+[node name="SnappingBox" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper4Category/Keeper4MovementSnappingBox"]
+layout_mode = 2
+
+[node name="K4MovementSnappingSlider" type="HSlider" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper4Category/Keeper4MovementSnappingBox/SnappingBox"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+max_value = 90.0
+value = 15.0
+tick_count = 7
+ticks_on_borders = true
+
+[node name="K4MovementSnappingLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper4Category/Keeper4MovementSnappingBox/SnappingBox"]
+custom_minimum_size = Vector2(70, 0)
+layout_mode = 2
+size_flags_vertical = 6
+text = "15
+"
+
+[node name="NoKeeperSettingsLabel" type="Label" parent="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper4Category"]
+layout_mode = 2
+size_flags_vertical = 3
+text = "There are no individual mouse settings for this keeper available."
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 3
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="CenterContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.cancel"
+
+[node name="ResetButton" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.keybindings.restoredefault"
+
+[node name="ButtonApply" type="Button" parent="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "options.ok"
+
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer/Keeper1Button" to="." method="_on_CategoryButton_pressed" binds= ["Keeper1"]]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer/Keeper2Button" to="." method="_on_CategoryButton_pressed" binds= ["Keeper2"]]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer/Keeper3Button" to="." method="_on_CategoryButton_pressed" binds= ["Keeper3"]]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer/Keeper4Button" to="." method="_on_CategoryButton_pressed" binds= ["Keeper4"]]
+[connection signal="value_changed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper1Category/Keeper1MovementSnappingBox/SnappingBox/K1MovementSnappingSlider" to="." method="_on_SnappingSlider_value_changed" binds= ["K1MovementSnappingLabel"]]
+[connection signal="value_changed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/Keeper2MovementSnappingBox/SnappingBox/K2MovementSnappingSlider" to="." method="_on_SnappingSlider_value_changed" binds= ["K2MovementSnappingLabel"]]
+[connection signal="value_changed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/VBoxContainer2/SnappingBox/SphereSnappingSlider" to="." method="_on_SnappingSlider_value_changed" binds= ["SphereSnappingLabel"]]
+[connection signal="value_changed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper2Category/VBoxContainer3/SnappingBox/BundleSnappingSlider" to="." method="_on_SnappingSlider_value_changed" binds= ["BundleSnappingLabel"]]
+[connection signal="value_changed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/KunaiSnappingContainer/SnappingBox/KunaiSnappingSlider" to="." method="_on_SnappingSlider_value_changed" binds= ["KunaiSnappingLabel"]]
+[connection signal="value_changed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/KunaiCarrierSnappingContainer/SnappingBox/KunaiCarrierSnappingSlider" to="." method="_on_SnappingSlider_value_changed" binds= ["KunaiCarrierSnappingLabel"]]
+[connection signal="value_changed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/RopeSnappingContainer/SnappingBox/RopeSnappingSlider" to="." method="_on_SnappingSlider_value_changed" binds= ["RopeSnappingLabel"]]
+[connection signal="value_changed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper3Category/RopeCameraFollowAhead/SnappingBox/RopeCameraFollowSlider" to="." method="_on_SnappingSlider_value_changed" binds= ["RopeCameraFollowLabel", &"%"]]
+[connection signal="value_changed" from="CenterContainer/PanelContainer/VBoxContainer/PanelContainer/MarginContainer/ScrollContainer/Keeper4Category/Keeper4MovementSnappingBox/SnappingBox/K4MovementSnappingSlider" to="." method="_on_SnappingSlider_value_changed" binds= ["K4MovementSnappingLabel"]]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2/CancelButton" to="." method="_on_cancel_button_pressed"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2/ResetButton" to="." method="_on_reset_button_pressed"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/VBoxContainer/HBoxContainer2/ButtonApply" to="." method="_on_button_apply_pressed"]

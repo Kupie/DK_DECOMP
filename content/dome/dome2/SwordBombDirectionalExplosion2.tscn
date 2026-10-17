@@ -1,0 +1,62 @@
+[gd_scene load_steps=11 format=3 uid="uid://bnq62lt2gm4d5"]
+
+[ext_resource type="PackedScene" uid="uid://cjvtuk684saf1" path="res://content/shared/explosions/DirectionalExplosion2.tscn" id="1"]
+[ext_resource type="Script" path="res://content/dome/dome2/SwordBombExplosion.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://cf4711n0uomqm" path="res://content/shared/explosions/explosions-Sheet.png" id="3"]
+
+[sub_resource type="AtlasTexture" id="13"]
+atlas = ExtResource("3")
+region = Rect2(0, 104, 199, 104)
+
+[sub_resource type="AtlasTexture" id="14"]
+atlas = ExtResource("3")
+region = Rect2(199, 104, 199, 104)
+
+[sub_resource type="AtlasTexture" id="15"]
+atlas = ExtResource("3")
+region = Rect2(398, 104, 199, 104)
+
+[sub_resource type="AtlasTexture" id="16"]
+atlas = ExtResource("3")
+region = Rect2(597, 104, 199, 104)
+
+[sub_resource type="AtlasTexture" id="17"]
+atlas = ExtResource("3")
+region = Rect2(796, 104, 199, 104)
+
+[sub_resource type="AtlasTexture" id="18"]
+atlas = ExtResource("3")
+region = Rect2(995, 104, 199, 104)
+
+[sub_resource type="SpriteFrames" id="12"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("13")
+}, {
+"duration": 1.0,
+"texture": SubResource("14")
+}, {
+"duration": 1.0,
+"texture": SubResource("15")
+}, {
+"duration": 1.0,
+"texture": SubResource("16")
+}, {
+"duration": 1.0,
+"texture": SubResource("17")
+}, {
+"duration": 1.0,
+"texture": SubResource("18")
+}],
+"loop": false,
+"name": &"default",
+"speed": 10.0
+}]
+
+[node name="DirectionalExplosion2" instance=ExtResource("1")]
+script = ExtResource("2")
+
+[node name="Sprite2D" parent="." index="0"]
+sprite_frames = SubResource("12")
+frame = 0

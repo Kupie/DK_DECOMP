@@ -1,0 +1,1441 @@
+[gd_scene load_steps=7 format=3 uid="uid://btvn5du3drkoa"]
+
+[ext_resource type="Script" path="res://stages/level/Cheats.gd" id="1"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_m8p7m"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_epuqj"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_6yb6n"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_xngx4"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_4e6ap"]
+
+[node name="Cheats" type="PanelContainer" groups=["unstyled"]]
+anchor_right = 1.0
+offset_bottom = 482.0
+script = ExtResource("1")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+layout_mode = 2
+theme_override_constants/separation = 20
+
+[node name="Stats" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label" type="Label" parent="HBoxContainer/Stats"]
+layout_mode = 2
+text = "Stats"
+
+[node name="GridContainer" type="GridContainer" parent="HBoxContainer/Stats"]
+layout_mode = 2
+columns = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Dome Health"
+
+[node name="DomeHealthLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="HSeparator3" type="HSeparator" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+
+[node name="HSeparator4" type="HSeparator" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+
+[node name="Label9" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Run Weight"
+
+[node name="RunWeightLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="Label2" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Map Progression"
+
+[node name="WaveIntervalLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="Label4" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Cycle Length"
+
+[node name="CycleLengthLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="Label10" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Wave Damage"
+
+[node name="WaveDamageLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="Label3" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Wave Mod"
+
+[node name="WaveModLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="Label13" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Wave Goal"
+
+[node name="LastWaveGoal" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+clip_text = true
+
+[node name="Label12" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Last Wave"
+
+[node name="LastWaveLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="Label16" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Battle Intensity"
+
+[node name="BattleIntensityLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="HSeparator" type="HSeparator" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+
+[node name="HSeparator2" type="HSeparator" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+
+[node name="Label5" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Coord"
+
+[node name="DepthLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="Label7" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Layer"
+
+[node name="LayerLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="Label6" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Biome"
+
+[node name="BiomeLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="Label14" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Speed"
+
+[node name="SpeedLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="HSeparator5" type="HSeparator" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+
+[node name="HSeparator6" type="HSeparator" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+
+[node name="Label8" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "FPS"
+
+[node name="FPSLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="Label15" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Run Time"
+
+[node name="RunTimeLabel" type="Label" parent="HBoxContainer/Stats/GridContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(50, 0)
+layout_mode = 2
+
+[node name="RunTime-" type="Button" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "Run Time     -"
+
+[node name="RunTime+" type="Button" parent="HBoxContainer/Stats/GridContainer"]
+layout_mode = 2
+text = "+"
+
+[node name="Monsters" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label" type="Label" parent="HBoxContainer/Monsters"]
+layout_mode = 2
+text = "Monsters"
+horizontal_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="HBoxContainer/Monsters"]
+layout_mode = 2
+
+[node name="MonsterList" type="ItemList" parent="HBoxContainer/Monsters/HBoxContainer"]
+custom_minimum_size = Vector2(180, 350)
+layout_mode = 2
+focus_mode = 0
+allow_reselect = true
+max_columns = 2
+same_column_width = true
+fixed_column_width = 76
+
+[node name="Waves" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label" type="Label" parent="HBoxContainer/Waves"]
+layout_mode = 2
+text = "Waves"
+horizontal_alignment = 1
+
+[node name="DisableWavesButton" type="Button" parent="HBoxContainer/Waves"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "disable"
+
+[node name="NextWaveButton" type="Button" parent="HBoxContainer/Waves"]
+layout_mode = 2
+focus_mode = 0
+text = "Start Wave"
+
+[node name="SkipWaveButton" type="Button" parent="HBoxContainer/Waves"]
+layout_mode = 2
+focus_mode = 0
+text = "Skip Wave"
+
+[node name="KillWaveButton" type="Button" parent="HBoxContainer/Waves"]
+layout_mode = 2
+focus_mode = 0
+text = "Kill Wave"
+
+[node name="HitAllMonsters" type="Button" parent="HBoxContainer/Waves"]
+layout_mode = 2
+text = "Hit Monsters"
+
+[node name="WaveAmbienceButton" type="Button" parent="HBoxContainer/Waves"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "Ambience"
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="HBoxContainer/Waves"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/Waves/HBoxContainer2"]
+layout_mode = 2
+text = "Wave Idx: "
+
+[node name="WaveIndex" type="Label" parent="HBoxContainer/Waves/HBoxContainer2"]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="HBoxContainer/Waves"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/Waves/HBoxContainer"]
+layout_mode = 2
+text = "Wave in: "
+
+[node name="WaveCountDown" type="Label" parent="HBoxContainer/Waves/HBoxContainer"]
+layout_mode = 2
+
+[node name="HSeparator" type="HSeparator" parent="HBoxContainer/Waves"]
+layout_mode = 2
+
+[node name="Label2" type="Label" parent="HBoxContainer/Waves"]
+layout_mode = 2
+text = "Control Run"
+horizontal_alignment = 1
+
+[node name="ControlWaveIndexSlider" type="HSlider" parent="HBoxContainer/Waves"]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+focus_mode = 0
+max_value = 30.0
+tick_count = 10
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="HBoxContainer/Waves"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/Waves/HBoxContainer3"]
+layout_mode = 2
+text = "Wave Idx: "
+
+[node name="ControlWaveIndex" type="Label" parent="HBoxContainer/Waves/HBoxContainer3"]
+layout_mode = 2
+
+[node name="HBoxContainer4" type="HBoxContainer" parent="HBoxContainer/Waves"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/Waves/HBoxContainer4"]
+layout_mode = 2
+text = "Iron in inventory: "
+
+[node name="ControlIron" type="Label" parent="HBoxContainer/Waves/HBoxContainer4"]
+layout_mode = 2
+
+[node name="HBoxContainer5" type="HBoxContainer" parent="HBoxContainer/Waves"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/Waves/HBoxContainer5"]
+layout_mode = 2
+text = "Run Weight:"
+
+[node name="ControlWeight" type="Label" parent="HBoxContainer/Waves/HBoxContainer5"]
+layout_mode = 2
+
+[node name="ControlOverrideButton" type="Button" parent="HBoxContainer/Waves"]
+layout_mode = 2
+focus_mode = 0
+text = "Set Control Values"
+
+[node name="WeightOverrideResetButton" type="Button" parent="HBoxContainer/Waves"]
+layout_mode = 2
+text = "Reset Weight
+Override"
+
+[node name="OverrideStatus" type="Label" parent="HBoxContainer/Waves"]
+layout_mode = 2
+text = "(override status)"
+horizontal_alignment = 1
+
+[node name="Resources2" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label2" type="Label" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+text = "Dome"
+horizontal_alignment = 1
+
+[node name="LockHealthButton" type="Button" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "lock"
+
+[node name="0HealthButton" type="Button" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+focus_mode = 0
+text = "0% Health"
+
+[node name="1HealthButton" type="Button" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+focus_mode = 0
+text = "1% Health"
+
+[node name="50HealthButton" type="Button" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+focus_mode = 0
+text = "50% Health"
+
+[node name="100HealthButton" type="Button" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+focus_mode = 0
+text = "100% Health"
+
+[node name="HSeparator" type="HSeparator" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="RunWeightLowerButton" type="Button" parent="HBoxContainer/Resources2"]
+custom_minimum_size = Vector2(30, 0)
+layout_mode = 2
+focus_mode = 0
+text = "runweight -"
+
+[node name="RunWeightRaiseButton" type="Button" parent="HBoxContainer/Resources2"]
+custom_minimum_size = Vector2(30, 0)
+layout_mode = 2
+focus_mode = 0
+text = "runweight +"
+
+[node name="RunWeightRaiseButton2" type="Button" parent="HBoxContainer/Resources2"]
+custom_minimum_size = Vector2(30, 0)
+layout_mode = 2
+focus_mode = 0
+text = "runweight ++"
+
+[node name="HSeparator2" type="HSeparator" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="Upgrades" type="VBoxContainer" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/Resources2/Upgrades"]
+layout_mode = 2
+text = "Upgrades"
+horizontal_alignment = 1
+
+[node name="ButtonHud" type="Button" parent="HBoxContainer/Resources2/Upgrades"]
+layout_mode = 2
+focus_mode = 0
+text = "HUD"
+
+[node name="ButtonAll" type="Button" parent="HBoxContainer/Resources2/Upgrades"]
+layout_mode = 2
+focus_mode = 0
+text = "All"
+
+[node name="ButtonTempDigging" type="Button" parent="HBoxContainer/Resources2/Upgrades"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "Temp Mining"
+
+[node name="HSeparator3" type="HSeparator" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+theme_override_constants/separation = 10
+
+[node name="Label" type="Label" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+text = "Teams"
+horizontal_alignment = 1
+
+[node name="Team1" type="Button" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_pressed = true
+button_group = SubResource("ButtonGroup_m8p7m")
+text = "Team 1"
+
+[node name="Team2" type="Button" parent="HBoxContainer/Resources2"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_m8p7m")
+text = "Team 2"
+
+[node name="Resources" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label2" type="Label" parent="HBoxContainer/Resources"]
+layout_mode = 2
+text = "Resources"
+horizontal_alignment = 1
+
+[node name="AddIronButton" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "+ Iron"
+
+[node name="ClearIronButton" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "0 Iron"
+
+[node name="AddWaterButton" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "+ Water"
+
+[node name="ClearWaterButton" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "0 Water"
+
+[node name="AddSandButton" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "+ Cobalt"
+
+[node name="ClearSandButton" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "0 Cobalt"
+
+[node name="AddArtifact1Button" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "Add Gadget"
+
+[node name="AddSupplementButton2" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "Add Supplement"
+
+[node name="HSeparator2" type="HSeparator" parent="HBoxContainer/Resources"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/Resources"]
+layout_mode = 2
+text = "Spawn ..."
+horizontal_alignment = 1
+
+[node name="SpawnResourceSlider" type="HSlider" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+max_value = 20.0
+value = 4.0
+tick_count = 10
+
+[node name="SpawnIronButton" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "spawn 4 iron"
+
+[node name="SpawnWaterButton" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "spawn 4 water"
+
+[node name="SpawnSandButton" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "spawn 4 cobalt"
+
+[node name="SpawnGadget" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "gadget"
+
+[node name="SpawnRelic" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = " relic"
+
+[node name="SpawnSupplement" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "supplement"
+
+[node name="SpawnSeed" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "seed"
+
+[node name="SpawnDrone" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "drone"
+
+[node name="SpawnEgg" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "egg"
+
+[node name="SpawnCaveBomb" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "cave bomb"
+
+[node name="SpawnTreat" type="Button" parent="HBoxContainer/Resources"]
+layout_mode = 2
+focus_mode = 0
+text = "treat"
+
+[node name="UpgradesAndGadgets" type="VBoxContainer" parent="HBoxContainer"]
+visible = false
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Gadgets" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/Gadgets"]
+layout_mode = 2
+text = "Gadgets"
+horizontal_alignment = 1
+
+[node name="GadgetList" type="ItemList" parent="HBoxContainer/Gadgets"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(140, 0)
+layout_mode = 2
+focus_mode = 0
+auto_height = true
+
+[node name="UnlockAllGadgetsButton" type="Button" parent="HBoxContainer/Gadgets"]
+layout_mode = 2
+focus_mode = 0
+text = "Unlock All"
+
+[node name="Supplements" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/Supplements"]
+layout_mode = 2
+text = "Supplements"
+horizontal_alignment = 1
+
+[node name="SupplementList" type="ItemList" parent="HBoxContainer/Supplements"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(140, 0)
+layout_mode = 2
+focus_mode = 0
+auto_height = true
+
+[node name="UnlockAllSupplementsButton" type="Button" parent="HBoxContainer/Supplements"]
+layout_mode = 2
+focus_mode = 0
+text = "Unlock All"
+
+[node name="Map" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label" type="Label" parent="HBoxContainer/Map"]
+layout_mode = 2
+text = "Map"
+horizontal_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="HBoxContainer/Map"]
+layout_mode = 2
+
+[node name="VBoxLeft" type="VBoxContainer" parent="HBoxContainer/Map/HBoxContainer"]
+layout_mode = 2
+
+[node name="RevealAllTilesButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "reveal"
+
+[node name="Clear1TilesButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "clear 1 layer"
+
+[node name="Clear10TilesButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "clear 10x10"
+
+[node name="Clear20TilesButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "clear 20x20"
+
+[node name="StripMineButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "strip mine"
+
+[node name="ClearAllTilesButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "clear all tiles"
+
+[node name="RemoveAllDrops" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "remove all drops"
+
+[node name="HSeparator" type="HSeparator" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+
+[node name="SaveMapButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "save map tscn"
+
+[node name="ShowTileData" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "show TileData"
+
+[node name="StopRecordingButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "stop recording"
+
+[node name="VegetateButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+text = "vegetate"
+
+[node name="Label2" type="Label" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+text = "Vegetation"
+horizontal_alignment = 1
+
+[node name="VegetationSlider" type="HSlider" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+focus_mode = 0
+max_value = 1.0
+step = 0.05
+value = 0.5
+
+[node name="Label" type="Label" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+text = "Game Speed"
+horizontal_alignment = 1
+
+[node name="GridContainer" type="GridContainer" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+columns = 2
+
+[node name="Button05" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_epuqj")
+text = "min"
+
+[node name="Button06" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_epuqj")
+text = "half"
+
+[node name="Button1" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_epuqj")
+text = "1x"
+
+[node name="Button2" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_epuqj")
+text = "2x"
+
+[node name="Button4" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_epuqj")
+text = "4x"
+
+[node name="Button8" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_epuqj")
+text = "8x"
+
+[node name="Button9" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_epuqj")
+text = "16x"
+
+[node name="Button10" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_epuqj")
+text = "32x"
+
+[node name="Control" type="Control" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+custom_minimum_size = Vector2(0, 20)
+layout_mode = 2
+
+[node name="Label3" type="Label" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+text = "Target FPS"
+horizontal_alignment = 1
+
+[node name="GridContainer2" type="GridContainer" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft"]
+layout_mode = 2
+columns = 2
+
+[node name="TargetFPS5" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+text = "5"
+
+[node name="TargetFPS10" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+text = "10"
+
+[node name="TargetFPS15" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+text = "15"
+
+[node name="TargetFPS30" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+text = "30"
+
+[node name="TargetFPS60" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+text = "60"
+
+[node name="TargetFPS250" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+text = "250"
+
+[node name="TargetFPS0" type="Button" parent="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+text = "No Limit"
+
+[node name="VboxRight" type="VBoxContainer" parent="HBoxContainer/Map/HBoxContainer"]
+visible = false
+layout_mode = 2
+
+[node name="WeatherEnabledButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "enable weather"
+
+[node name="LightningButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "lightning"
+
+[node name="FogButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "fog"
+
+[node name="RainButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "rain"
+
+[node name="StormButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "storm"
+
+[node name="SnowButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "snow"
+
+[node name="MeteorButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "meteors"
+
+[node name="SporesButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "spores"
+
+[node name="WindstormButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+text = "wind storm"
+
+[node name="SpawnEyesButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "spawn eyes"
+
+[node name="SpawnRoachButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "spawn roach"
+
+[node name="SpawnWormButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "spawn worm"
+
+[node name="SpawnRatButton" type="Button" parent="HBoxContainer/Map/HBoxContainer/VboxRight"]
+layout_mode = 2
+focus_mode = 0
+text = "spawn rat"
+
+[node name="Speed" type="VBoxContainer" parent="HBoxContainer"]
+visible = false
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Camera3D" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label" type="Label" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+text = "Camera3D"
+
+[node name="ButtonCam1x" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+text = "6px"
+
+[node name="ButtonCam5px" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+text = "5px"
+
+[node name="ButtonCam4px" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+text = "4px (mining)"
+
+[node name="ButtonCam3x" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+text = "3px"
+
+[node name="ButtonCam266x" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+text = "2.66px"
+
+[node name="ButtonCam4x" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+text = "2px (battle)"
+
+[node name="ButtonCam6x" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+text = "1px"
+
+[node name="HSeparator" type="HSeparator" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+
+[node name="ButtonViewRange1" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_6yb6n")
+text = "View Range 1"
+
+[node name="ButtonViewRange2" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_6yb6n")
+text = "View Range 2"
+
+[node name="HSeparator2" type="HSeparator" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+
+[node name="ButtonCameraController" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "controller"
+
+[node name="ButtonToggleGUI" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "Toggle GUI"
+
+[node name="ButtonVignette" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "vignette"
+
+[node name="ButtonTeleportTop" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "reset position"
+
+[node name="ButtonRevealDistance2" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "scanner cave"
+
+[node name="ToggleCollisionDebugVis" type="Button" parent="HBoxContainer/Camera3D"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "draw collider"
+
+[node name="Vbox" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label" type="Label" parent="HBoxContainer/Vbox"]
+layout_mode = 2
+text = "World"
+
+[node name="WorldContainer" type="VBoxContainer" parent="HBoxContainer/Vbox"]
+layout_mode = 2
+
+[node name="ButtonWorld1" type="Button" parent="HBoxContainer/Vbox/WorldContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_xngx4")
+text = "1"
+
+[node name="ButtonWorld2" type="Button" parent="HBoxContainer/Vbox/WorldContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_xngx4")
+text = "2"
+
+[node name="ButtonWorld3" type="Button" parent="HBoxContainer/Vbox/WorldContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_xngx4")
+text = "3"
+
+[node name="ButtonWorld4" type="Button" parent="HBoxContainer/Vbox/WorldContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_xngx4")
+text = "4"
+
+[node name="ButtonWorld5" type="Button" parent="HBoxContainer/Vbox/WorldContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_xngx4")
+text = "5"
+
+[node name="ButtonWorld6" type="Button" parent="HBoxContainer/Vbox/WorldContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_xngx4")
+text = "6"
+
+[node name="ButtonWorld7" type="Button" parent="HBoxContainer/Vbox/WorldContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_xngx4")
+text = "7
+"
+
+[node name="Label2" type="Label" parent="HBoxContainer/Vbox"]
+layout_mode = 2
+text = "Palette"
+
+[node name="PaletteContainer" type="VBoxContainer" parent="HBoxContainer/Vbox"]
+layout_mode = 2
+
+[node name="ButtonPalette1" type="Button" parent="HBoxContainer/Vbox/PaletteContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_4e6ap")
+text = "1"
+
+[node name="ButtonPalette2" type="Button" parent="HBoxContainer/Vbox/PaletteContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_4e6ap")
+text = "2"
+
+[node name="ButtonPalette3" type="Button" parent="HBoxContainer/Vbox/PaletteContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_4e6ap")
+text = "3"
+
+[node name="ButtonPalette4" type="Button" parent="HBoxContainer/Vbox/PaletteContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_4e6ap")
+text = "4"
+
+[node name="ButtonPalette5" type="Button" parent="HBoxContainer/Vbox/PaletteContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_4e6ap")
+text = "5"
+
+[node name="ButtonPalette6" type="Button" parent="HBoxContainer/Vbox/PaletteContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_4e6ap")
+text = "6"
+
+[node name="ButtonPalette7" type="Button" parent="HBoxContainer/Vbox/PaletteContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_4e6ap")
+text = "7"
+
+[node name="Events" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label" type="Label" parent="HBoxContainer/Events"]
+layout_mode = 2
+text = "Events"
+horizontal_alignment = 1
+
+[node name="WinButton" type="Button" parent="HBoxContainer/Events"]
+visible = false
+layout_mode = 2
+focus_mode = 0
+text = "win"
+
+[node name="LoseButton" type="Button" parent="HBoxContainer/Events"]
+visible = false
+layout_mode = 2
+focus_mode = 0
+text = "lose"
+
+[node name="StartFinaleButton" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+focus_mode = 0
+text = "finale"
+
+[node name="RelicBombButton" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+focus_mode = 0
+text = "start relic bomb"
+
+[node name="LeavePlanetButton" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+focus_mode = 0
+text = "leave planet"
+
+[node name="HSeparator" type="HSeparator" parent="HBoxContainer/Events"]
+layout_mode = 2
+
+[node name="UnlockAllButton" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+focus_mode = 0
+text = "unlock all"
+
+[node name="DeleteLocalSaveButton" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+focus_mode = 0
+text = "reset progress"
+
+[node name="ResetAchievementsButton" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+focus_mode = 0
+text = "reset achievements"
+
+[node name="HSeparator2" type="HSeparator" parent="HBoxContainer/Events"]
+layout_mode = 2
+
+[node name="OrphanButton" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+focus_mode = 0
+text = "print orphans"
+
+[node name="HSeparator3" type="HSeparator" parent="HBoxContainer/Events"]
+layout_mode = 2
+
+[node name="PrestigeScoreButton" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+focus_mode = 0
+text = "+10.000 score"
+
+[node name="EnableCheatDetectionButton" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "enable cheat
+detection"
+
+[node name="HSeparator4" type="HSeparator" parent="HBoxContainer/Events"]
+layout_mode = 2
+
+[node name="OptionsUpdateWindow" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+text = "options update
+window"
+
+[node name="OptionsBorderlessTrue" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+text = "Borderless True"
+
+[node name="OptionsBorderlessFalse" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+text = "Borderless False"
+
+[node name="OptionsWindowed" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+text = "Windowed"
+
+[node name="OptionsMaximized" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+text = "Maximized"
+
+[node name="OptionsFullscreen" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+text = "Fullscreen"
+
+[node name="OptionsFullscreenExclusive" type="Button" parent="HBoxContainer/Events"]
+layout_mode = 2
+text = "Fullscreen Exclusive"
+
+[node name="SavesAndSeed" type="VBoxContainer" parent="HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Saves" type="VBoxContainer" parent="HBoxContainer/SavesAndSeed"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/SavesAndSeed/Saves"]
+layout_mode = 2
+text = "Saves"
+horizontal_alignment = 1
+
+[node name="Load0Button" type="Button" parent="HBoxContainer/SavesAndSeed/Saves"]
+layout_mode = 2
+text = "Load autosave"
+
+[node name="Slot1" type="HBoxContainer" parent="HBoxContainer/SavesAndSeed/Saves"]
+layout_mode = 2
+
+[node name="Save1Button" type="Button" parent="HBoxContainer/SavesAndSeed/Saves/Slot1"]
+layout_mode = 2
+focus_mode = 0
+text = "Save 1"
+
+[node name="Load1Button" type="Button" parent="HBoxContainer/SavesAndSeed/Saves/Slot1"]
+layout_mode = 2
+focus_mode = 0
+text = "Load 1"
+
+[node name="Slot2" type="HBoxContainer" parent="HBoxContainer/SavesAndSeed/Saves"]
+layout_mode = 2
+
+[node name="Save2Button" type="Button" parent="HBoxContainer/SavesAndSeed/Saves/Slot2"]
+layout_mode = 2
+focus_mode = 0
+text = "Save 2"
+
+[node name="Load2Button" type="Button" parent="HBoxContainer/SavesAndSeed/Saves/Slot2"]
+layout_mode = 2
+focus_mode = 0
+text = "Load 2"
+
+[node name="Slot3" type="HBoxContainer" parent="HBoxContainer/SavesAndSeed/Saves"]
+layout_mode = 2
+
+[node name="Save3Button" type="Button" parent="HBoxContainer/SavesAndSeed/Saves/Slot3"]
+layout_mode = 2
+focus_mode = 0
+text = "Save 3"
+
+[node name="Load3Button" type="Button" parent="HBoxContainer/SavesAndSeed/Saves/Slot3"]
+layout_mode = 2
+focus_mode = 0
+text = "Load 3"
+
+[node name="HSeparator" type="HSeparator" parent="HBoxContainer/SavesAndSeed"]
+layout_mode = 2
+
+[node name="Seed" type="VBoxContainer" parent="HBoxContainer/SavesAndSeed"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="HBoxContainer/SavesAndSeed/Seed"]
+layout_mode = 2
+text = "Map Seed"
+horizontal_alignment = 1
+
+[node name="SeedIDLabel" type="Label" parent="HBoxContainer/SavesAndSeed/Seed"]
+layout_mode = 2
+text = "ID:"
+horizontal_alignment = 1
+
+[node name="CopySeedIDButton" type="Button" parent="HBoxContainer/SavesAndSeed/Seed"]
+layout_mode = 2
+focus_mode = 0
+text = "Copy Seed ID"
+
+[node name="LockSeedButton" type="Button" parent="HBoxContainer/SavesAndSeed/Seed"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+text = "Lock Seed"
+
+[node name="HSeparator" type="HSeparator" parent="HBoxContainer/SavesAndSeed/Seed"]
+layout_mode = 2
+
+[node name="SeedLineEdit" type="LineEdit" parent="HBoxContainer/SavesAndSeed/Seed"]
+layout_mode = 2
+
+[node name="LoadSeedButton" type="Button" parent="HBoxContainer/SavesAndSeed/Seed"]
+layout_mode = 2
+focus_mode = 0
+text = "Load Seed"
+
+[node name="CloseButton" type="Button" parent="HBoxContainer"]
+layout_mode = 2
+focus_mode = 0
+text = "close"
+
+[connection signal="visibility_changed" from="." to="." method="_on_Cheats_visibility_changed"]
+[connection signal="pressed" from="HBoxContainer/Stats/GridContainer/RunTime-" to="." method="_on_run_time_minus_pressed"]
+[connection signal="pressed" from="HBoxContainer/Stats/GridContainer/RunTime+" to="." method="_on_run_time_plus_pressed"]
+[connection signal="item_selected" from="HBoxContainer/Monsters/HBoxContainer/MonsterList" to="." method="_on_MonsterList_item_selected"]
+[connection signal="pressed" from="HBoxContainer/Waves/DisableWavesButton" to="." method="_on_DisableWavesButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Waves/NextWaveButton" to="." method="_on_NextWaveButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Waves/SkipWaveButton" to="." method="_on_SkipWaveButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Waves/KillWaveButton" to="." method="_on_KillWaveButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Waves/HitAllMonsters" to="." method="_on_HitAllMonsters_pressed"]
+[connection signal="pressed" from="HBoxContainer/Waves/WaveAmbienceButton" to="." method="_on_WaveAmbienceButton_pressed"]
+[connection signal="value_changed" from="HBoxContainer/Waves/ControlWaveIndexSlider" to="." method="_on_ControlWaveIndexSlider_value_changed"]
+[connection signal="pressed" from="HBoxContainer/Waves/ControlOverrideButton" to="." method="_on_ControlOverrideButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Waves/WeightOverrideResetButton" to="." method="_on_WeightOverrideResetButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/LockHealthButton" to="." method="_on_LockHealthButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/0HealthButton" to="." method="_on_0HealthButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/1HealthButton" to="." method="_on_1HealthButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/50HealthButton" to="." method="_on_50HealthButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/100HealthButton" to="." method="_on_100HealthButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/RunWeightLowerButton" to="." method="_on_RunWeightLowerButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/RunWeightRaiseButton" to="." method="_on_RunWeightRaiseButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/RunWeightRaiseButton2" to="." method="_on_run_weight_raise_button_2_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/Upgrades/ButtonHud" to="." method="_on_ButtonHud_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/Upgrades/ButtonAll" to="." method="_on_ButtonAll_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/Upgrades/ButtonTempDigging" to="." method="_on_ButtonTempDigging_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/Team1" to="." method="_on_team_1_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources2/Team2" to="." method="_on_team_2_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/AddIronButton" to="." method="_on_AddIronButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/ClearIronButton" to="." method="_on_clear_iron_button_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/AddWaterButton" to="." method="_on_AddWaterButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/ClearWaterButton" to="." method="_on_clear_water_button_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/AddSandButton" to="." method="_on_AddSandButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/ClearSandButton" to="." method="_on_clear_sand_button_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/AddArtifact1Button" to="." method="_on_AddArtifact1Button_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/AddSupplementButton2" to="." method="_on_AddSupplementButton2_pressed"]
+[connection signal="value_changed" from="HBoxContainer/Resources/SpawnResourceSlider" to="." method="_on_SpawnResourceSlider_value_changed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnIronButton" to="." method="_on_SpawnIronButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnWaterButton" to="." method="_on_SpawnWaterButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnSandButton" to="." method="_on_SpawnSandButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnGadget" to="." method="_on_SpawnGadget_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnRelic" to="." method="_on_SpawnRelic_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnSupplement" to="." method="_on_SpawnSupplement_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnSeed" to="." method="_on_SpawnSeed_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnDrone" to="." method="_on_SpawnDrone_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnEgg" to="." method="_on_SpawnEgg_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnCaveBomb" to="." method="_on_spawn_cave_bomb_pressed"]
+[connection signal="pressed" from="HBoxContainer/Resources/SpawnTreat" to="." method="_on_SpawnTreat_pressed"]
+[connection signal="item_selected" from="HBoxContainer/Gadgets/GadgetList" to="." method="_on_GadgetList_item_selected"]
+[connection signal="pressed" from="HBoxContainer/Gadgets/UnlockAllGadgetsButton" to="." method="_on_UnlockAllGadgetsButton_pressed"]
+[connection signal="item_selected" from="HBoxContainer/Supplements/SupplementList" to="." method="_on_supplement_list_item_selected"]
+[connection signal="pressed" from="HBoxContainer/Supplements/UnlockAllSupplementsButton" to="." method="_on_unlock_all_supplements_button_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/RevealAllTilesButton" to="." method="_on_RevealAllTilesButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/Clear1TilesButton" to="." method="_on_Clear1TilesButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/Clear10TilesButton" to="." method="_on_Clear10TilesButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/Clear20TilesButton" to="." method="_on_Clear20TilesButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/StripMineButton" to="." method="_on_strip_mine_button_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/ClearAllTilesButton" to="." method="_on_ClearAllTilesButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/RemoveAllDrops" to="." method="_on_remove_all_drops_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/SaveMapButton" to="." method="_on_SaveMapButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/ShowTileData" to="." method="_on_ShowTileData_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/StopRecordingButton" to="." method="_on_StopRecordingButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/VegetateButton" to="." method="_on_VegetateButton_pressed"]
+[connection signal="value_changed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/VegetationSlider" to="." method="_on_VegetationSlider_value_changed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer/Button05" to="." method="_on_ButtonGameSpeed_pressed" binds= [0.1]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer/Button06" to="." method="_on_ButtonGameSpeed_pressed" binds= [0.5]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer/Button1" to="." method="_on_ButtonGameSpeed_pressed" binds= [1.0]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer/Button2" to="." method="_on_ButtonGameSpeed_pressed" binds= [2.0]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer/Button4" to="." method="_on_ButtonGameSpeed_pressed" binds= [4.0]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer/Button8" to="." method="_on_ButtonGameSpeed_pressed" binds= [8.0]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer/Button9" to="." method="_on_ButtonGameSpeed_pressed" binds= [16.0]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer/Button10" to="." method="_on_ButtonGameSpeed_pressed" binds= [32.0]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2/TargetFPS5" to="." method="setTargetFPS" binds= [5]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2/TargetFPS10" to="." method="setTargetFPS" binds= [10]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2/TargetFPS15" to="." method="setTargetFPS" binds= [15]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2/TargetFPS30" to="." method="setTargetFPS" binds= [30]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2/TargetFPS60" to="." method="setTargetFPS" binds= [60]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2/TargetFPS250" to="." method="setTargetFPS" binds= [250]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VBoxLeft/GridContainer2/TargetFPS0" to="." method="setTargetFPS" binds= [0]]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/WeatherEnabledButton" to="." method="_on_WeatherEnabledButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/LightningButton" to="." method="_on_LightningButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/FogButton" to="." method="_on_FogButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/RainButton" to="." method="_on_RainButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/StormButton" to="." method="_on_StormButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/SnowButton" to="." method="_on_SnowButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/MeteorButton" to="." method="_on_MeteorButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/SporesButton" to="." method="_on_SporesButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/WindstormButton" to="." method="_on_WindstormButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/SpawnEyesButton" to="." method="_on_SpawnEyesButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/SpawnRoachButton" to="." method="_on_SpawnRoachButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/SpawnWormButton" to="." method="_on_SpawnWormButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Map/HBoxContainer/VboxRight/SpawnRatButton" to="." method="_on_SpawnRatButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonCam1x" to="." method="_on_ButtonCam1x_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonCam5px" to="." method="_on_ButtonCam5px_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonCam4px" to="." method="_on_ButtonCam4px_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonCam3x" to="." method="_on_ButtonCam3x_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonCam266x" to="." method="_on_ButtonCam266x_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonCam4x" to="." method="_on_ButtonCam4x_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonCam6x" to="." method="_on_ButtonCam6x_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonViewRange1" to="." method="_on_ButtonViewRange1_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonViewRange2" to="." method="_on_ButtonViewRange2_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonCameraController" to="." method="_on_ButtonCameraController_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonToggleGUI" to="." method="_on_button_toggle_gui_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonVignette" to="." method="_on_ButtonVignette_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonTeleportTop" to="." method="_on_button_teleport_top_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ButtonRevealDistance2" to="." method="_on_button_reveal_distance_2_pressed"]
+[connection signal="pressed" from="HBoxContainer/Camera3D/ToggleCollisionDebugVis" to="." method="_on_toggle_collision_debug_vis_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/WinButton" to="." method="_on_WinButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/LoseButton" to="." method="_on_LoseButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/StartFinaleButton" to="." method="_on_StartFinaleButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/RelicBombButton" to="." method="_on_RelicBombButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/LeavePlanetButton" to="." method="_on_LeavePlanetButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/UnlockAllButton" to="." method="_on_UnlockAllButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/DeleteLocalSaveButton" to="." method="_on_DeleteLocalSave_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/ResetAchievementsButton" to="." method="_on_ResetAchievementsButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/OrphanButton" to="." method="_on_OrphanButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/PrestigeScoreButton" to="." method="_on_PrestigeScoreButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/EnableCheatDetectionButton" to="." method="_on_EnableCheatDetectionButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/OptionsUpdateWindow" to="." method="_on_options_update_window_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/OptionsBorderlessTrue" to="." method="_on_options_borderless_true_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/OptionsBorderlessFalse" to="." method="_on_options_borderless_false_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/OptionsWindowed" to="." method="_on_options_windowed_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/OptionsMaximized" to="." method="_on_options_maximized_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/OptionsFullscreen" to="." method="_on_options_fullscreen_pressed"]
+[connection signal="pressed" from="HBoxContainer/Events/OptionsFullscreenExclusive" to="." method="_on_options_fullscreen_exclusive_pressed"]
+[connection signal="pressed" from="HBoxContainer/SavesAndSeed/Saves/Load0Button" to="." method="_on_Load0Button_pressed"]
+[connection signal="pressed" from="HBoxContainer/SavesAndSeed/Saves/Slot1/Save1Button" to="." method="_on_Save1Button_pressed"]
+[connection signal="pressed" from="HBoxContainer/SavesAndSeed/Saves/Slot1/Load1Button" to="." method="_on_Load1Button_pressed"]
+[connection signal="pressed" from="HBoxContainer/SavesAndSeed/Saves/Slot2/Save2Button" to="." method="_on_Save2Button_pressed"]
+[connection signal="pressed" from="HBoxContainer/SavesAndSeed/Saves/Slot2/Load2Button" to="." method="_on_Load2Button_pressed"]
+[connection signal="pressed" from="HBoxContainer/SavesAndSeed/Saves/Slot3/Save3Button" to="." method="_on_Save3Button_pressed"]
+[connection signal="pressed" from="HBoxContainer/SavesAndSeed/Saves/Slot3/Load3Button" to="." method="_on_Load3Button_pressed"]
+[connection signal="pressed" from="HBoxContainer/SavesAndSeed/Seed/CopySeedIDButton" to="." method="_on_CopySeedIDButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/SavesAndSeed/Seed/LockSeedButton" to="." method="_on_LockSeedButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/SavesAndSeed/Seed/LoadSeedButton" to="." method="_on_LoadSeedButton_pressed"]
+[connection signal="pressed" from="HBoxContainer/CloseButton" to="." method="_on_CloseButton_pressed"]

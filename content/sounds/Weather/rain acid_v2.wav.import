@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://y7eyt6ivlwxn"
+path="res://.godot/imported/rain acid_v2.wav-018cf2db5bd2335b5363dc8c7d2f6c53.sample"
+
+[deps]
+
+source_file="res://content/sounds/Weather/rain acid_v2.wav"
+dest_files=["res://.godot/imported/rain acid_v2.wav-018cf2db5bd2335b5363dc8c7d2f6c53.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=48000
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=1
+edit/loop_begin=0
+edit/loop_end=259458
+compress/mode=0

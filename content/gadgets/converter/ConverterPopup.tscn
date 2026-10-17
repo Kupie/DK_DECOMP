@@ -1,0 +1,91 @@
+[gd_scene load_steps=7 format=3 uid="uid://ctfk52efrhr8j"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://content/gadgets/converter/ConverterPopup.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="3"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="4"]
+[ext_resource type="FontVariation" uid="uid://g3vbmmqhudaf" path="res://gui/fonts/FontHeading.tres" id="5"]
+[ext_resource type="LabelSettings" uid="uid://b5aow2qb2h3pe" path="res://gui/fontsettings/HeadingFontSettings.tres" id="6"]
+
+[node name="ConverterPopup" type="Control" node_paths=PackedStringArray("autoQueueCheckBox")]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource("1")
+script = ExtResource("2")
+autoQueueCheckBox = NodePath("Container/PanelContainer/MarginContainer/VBoxContainer/AutoQueueCheckBox")
+
+[node name="ColorRect" type="ColorRect" parent="." groups=["unstyled"]]
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+color = Color(0, 0, 0, 1)
+
+[node name="Tween" parent="." instance=ExtResource("3")]
+
+[node name="Container" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="PanelContainer" type="PanelContainer" parent="Container"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/panel = ExtResource("4")
+
+[node name="MarginContainer" type="MarginContainer" parent="Container/PanelContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Container/PanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="TitleLabel" type="Label" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("5")
+text = "level.converter.popup.title"
+label_settings = ExtResource("6")
+horizontal_alignment = 1
+
+[node name="ConversionsContainer" type="HBoxContainer" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="LabelPick" type="Label" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "level.converter.popup.explanation"
+horizontal_alignment = 1
+
+[node name="LabelInProgress" type="Label" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+text = "level.converter.popup.queue.block"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="AutoQueueCheckBox" type="CheckBox" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "level.converter.popup.queue"
+
+[node name="HSeparator2" type="HSeparator" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+visible = false
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="Container/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "options.keybindings.action.general.back"
+
+[connection signal="toggled" from="Container/PanelContainer/MarginContainer/VBoxContainer/AutoQueueCheckBox" to="." method="_on_auto_queue_check_box_toggled"]

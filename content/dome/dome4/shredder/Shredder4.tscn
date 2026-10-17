@@ -1,0 +1,105 @@
+[gd_scene load_steps=15 format=3 uid="uid://djubghxdh2mbh"]
+
+[ext_resource type="PackedScene" uid="uid://j8dw5to0gtsm" path="res://content/dome/shredder/Shredder.tscn" id="1"]
+[ext_resource type="Script" path="res://content/dome/dome4/shredder/Shredder4.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://vx0xi3ykfutk" path="res://content/dome/dome4/shredder/shredder-Sheet.png" id="3"]
+[ext_resource type="AudioStream" uid="uid://blvmjkuy0uyyl" path="res://content/sounds/dome4/harvester tesla.wav" id="4"]
+
+[sub_resource type="AtlasTexture" id="1"]
+atlas = ExtResource("3")
+region = Rect2(0, 0, 43, 27)
+
+[sub_resource type="AtlasTexture" id="7"]
+atlas = ExtResource("3")
+region = Rect2(0, 28, 40, 28)
+
+[sub_resource type="AtlasTexture" id="8"]
+atlas = ExtResource("3")
+region = Rect2(40, 28, 40, 28)
+
+[sub_resource type="AtlasTexture" id="9"]
+atlas = ExtResource("3")
+region = Rect2(80, 28, 40, 28)
+
+[sub_resource type="AtlasTexture" id="10"]
+atlas = ExtResource("3")
+region = Rect2(120, 28, 40, 28)
+
+[sub_resource type="AtlasTexture" id="11"]
+atlas = ExtResource("3")
+region = Rect2(160, 28, 40, 28)
+
+[sub_resource type="AtlasTexture" id="12"]
+atlas = ExtResource("3")
+region = Rect2(200, 28, 40, 28)
+
+[sub_resource type="AtlasTexture" id="13"]
+atlas = ExtResource("3")
+region = Rect2(240, 28, 40, 28)
+
+[sub_resource type="AtlasTexture" id="14"]
+atlas = ExtResource("3")
+region = Rect2(280, 28, 40, 28)
+
+[sub_resource type="SpriteFrames" id="6"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("1")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("7")
+}, {
+"duration": 1.0,
+"texture": SubResource("8")
+}, {
+"duration": 1.0,
+"texture": SubResource("9")
+}, {
+"duration": 1.0,
+"texture": SubResource("10")
+}, {
+"duration": 1.0,
+"texture": SubResource("11")
+}, {
+"duration": 1.0,
+"texture": SubResource("12")
+}, {
+"duration": 1.0,
+"texture": SubResource("13")
+}, {
+"duration": 1.0,
+"texture": SubResource("14")
+}],
+"loop": false,
+"name": &"running",
+"speed": 8.0
+}]
+
+[node name="Shredder4" instance=ExtResource("1")]
+position = Vector2(0, -4)
+script = ExtResource("2")
+
+[node name="Sprite2D" parent="." index="0"]
+position = Vector2(0, -7)
+sprite_frames = SubResource("6")
+animation = &"running"
+
+[node name="DropPickupShape" parent="." index="2"]
+position = Vector2(0, -28)
+
+[node name="ShredPoint" parent="." index="3"]
+position = Vector2(-3, -12)
+
+[node name="ShredSound" parent="ShredPoint" index="0"]
+stream = ExtResource("4")
+volume_db = -6.084
+bus = &"World"
+
+[node name="ShredLayer" parent="ShredPoint/ShredSound" index="0"]
+bus = &"World"

@@ -1,0 +1,62 @@
+[gd_scene load_steps=7 format=3 uid="uid://d4jewt7kwroop"]
+
+[ext_resource type="Script" path="res://content/weather/lightning/LightningStorm.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="2"]
+[ext_resource type="AudioStream" uid="uid://cl1wfcb7tacla" path="res://content/sounds/Weather/lightning_1.wav" id="3"]
+[ext_resource type="AudioStream" uid="uid://dnt6mmr5538ba" path="res://content/sounds/Weather/lightning_2.wav" id="4"]
+[ext_resource type="AudioStream" uid="uid://u6mqrhqtktce" path="res://content/sounds/Weather/lightning_3.wav" id="5"]
+
+[sub_resource type="AudioStreamRandomizer" id="1"]
+random_pitch = 1.2
+
+[node name="LightningStorm" type="Node2D" groups=["pauseL", "weather"]]
+position = Vector2(0, -120)
+script = ExtResource("1")
+
+[node name="StrikeTimer" type="Timer" parent="."]
+autostart = true
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer"]
+visible = false
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+
+[node name="LightningSound1" parent="." instance=ExtResource("2")]
+stream = ExtResource("3")
+bus = &"World"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 500.0
+minAudibleDistance = 160.0
+
+[node name="LightningSound2" parent="." instance=ExtResource("2")]
+stream = ExtResource("4")
+bus = &"World"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 500.0
+minAudibleDistance = 160.0
+
+[node name="LightningSound3" parent="." instance=ExtResource("2")]
+stream = ExtResource("5")
+bus = &"World"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 500.0
+minAudibleDistance = 160.0
+
+[node name="DomeStrikeSound" parent="." instance=ExtResource("2")]
+stream = SubResource("1")
+bus = &"World"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 500.0
+minAudibleDistance = 160.0
+
+[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="."]
+
+[connection signal="timeout" from="StrikeTimer" to="." method="_on_StrikeTimer_timeout"]

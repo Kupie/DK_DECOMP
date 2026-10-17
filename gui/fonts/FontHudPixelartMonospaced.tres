@@ -1,0 +1,8 @@
+[gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://cfbppd3432m0s"]
+
+[ext_resource type="FontFile" uid="uid://bebj28dsmb7jw" path="res://gui/fonts/Mononum.ttf" id="1"]
+
+[resource]
+base_font = ExtResource("1")
+spacing_top = -14
+spacing_bottom = -14

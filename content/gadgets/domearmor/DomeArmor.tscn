@@ -1,0 +1,81 @@
+[gd_scene load_steps=9 format=3 uid="uid://bagcmp1qmq523"]
+
+[ext_resource type="Script" path="res://content/gadgets/domearmor/DomeArmor.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://ccqqc5rjgjkom" path="res://systems/style/palettes/index_palette.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://c3b1ebpecrfa3" path="res://content/gadgets/domearmor/domearmor_arty_sheet.png" id="3"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="4"]
+[ext_resource type="Script" path="res://systems/network/Synchronizer.gd" id="5"]
+
+[sub_resource type="Shader" id="Shader_4vkpc"]
+code = "shader_type canvas_item;
+
+uniform sampler2D palette : source_color;
+// this was start_r (0.5 / float(32)) and start_b (0.5 / float(12))
+const vec3 start = vec3(0.5 / 32.0, 0.0, 0.5 / 12.0);
+varying flat vec4 modulate;
+
+uniform bool replace_active = false;
+uniform float amount = 1.0;
+
+void vertex() {
+    modulate = COLOR;
+}
+
+void fragment() {
+	vec4 input = texture(TEXTURE, UV);
+	
+	if (replace_active){
+		input.x += amount * 1.0/32.0;
+		input.y += floor(input.x + amount/32.0);
+	}
+	
+	vec4 output = texture(palette, vec2(start.r + input.r, start.b + input.b));
+	output.a = COLOR.a;
+	COLOR = output * modulate;
+}"
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_bmyfk"]
+shader = SubResource("Shader_4vkpc")
+shader_parameter/replace_active = false
+shader_parameter/amount = 1.0
+shader_parameter/palette = ExtResource("2")
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_oymw0"]
+shader = SubResource("Shader_4vkpc")
+shader_parameter/replace_active = false
+shader_parameter/amount = 1.0
+shader_parameter/palette = ExtResource("2")
+
+[node name="DomeArmor" type="Node2D" node_paths=PackedStringArray("synchronizer") groups=["pauseL"]]
+z_index = -15
+texture_filter = 1
+script = ExtResource("1")
+synchronizer = NodePath("Synchronizer")
+
+[node name="Sprite1" type="Sprite2D" parent="."]
+material = SubResource("ShaderMaterial_bmyfk")
+position = Vector2(0, -45)
+texture = ExtResource("3")
+hframes = 4
+vframes = 2
+
+[node name="Sprite2" type="Sprite2D" parent="."]
+z_index = 25
+material = SubResource("ShaderMaterial_oymw0")
+position = Vector2(0, -45)
+texture = ExtResource("3")
+hframes = 4
+vframes = 2
+frame = 4
+
+[node name="Tween" parent="." instance=ExtResource("4")]
+
+[node name="StunArea" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 128
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StunArea"]
+
+[node name="Synchronizer" type="Node" parent="."]
+script = ExtResource("5")
+target_connection_states = [6]

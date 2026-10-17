@@ -1,0 +1,57 @@
+[gd_scene load_steps=6 format=3 uid="uid://b42rikcu7kuru"]
+
+[ext_resource type="Script" path="res://stages/loadout/versus_modifiers_box_team_2.gd" id="1"]
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="2"]
+[ext_resource type="FontVariation" uid="uid://c5l04pe7y0aer" path="res://gui/fonts/FontLarge.tres" id="3"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://qgs4khkkhaso" path="res://gui/fontsettings/NormalFontSettings.tres" id="5"]
+
+[node name="VersusModifiersBoxTeam2" type="VBoxContainer"]
+size_flags_vertical = 3
+script = ExtResource("1")
+teamId = "team2"
+
+[node name="Label4" type="Label" parent="."]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("2")
+theme_override_fonts/font = ExtResource("3")
+theme_override_font_sizes/font_size = 36
+text = "loadout.versus.modifiers.title"
+label_settings = ExtResource("4")
+horizontal_alignment = 1
+
+[node name="Label5" type="Label" parent="."]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("2")
+theme_override_fonts/font = ExtResource("3")
+theme_override_font_sizes/font_size = 36
+text = "loadout.versus.modifiers.desc"
+label_settings = ExtResource("5")
+autowrap_mode = 2
+
+[node name="Control" type="Control" parent="."]
+custom_minimum_size = Vector2(0, 20)
+layout_mode = 2
+
+[node name="CountLabel" type="Label" parent="."]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("2")
+theme_override_fonts/font = ExtResource("3")
+theme_override_font_sizes/font_size = 36
+text = "loadout.versus.modifiers.limit"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+autowrap_mode = 2
+
+[node name="Modifiers" type="GridContainer" parent="."]
+layout_mode = 2
+columns = 4

@@ -1,0 +1,313 @@
+[gd_scene load_steps=11 format=3 uid="uid://dfufrctf1t4lh"]
+
+[ext_resource type="Theme" uid="uid://dsmrsrnw6srhh" path="res://tool/tool-theme.tres" id="1"]
+[ext_resource type="Script" path="res://tool/IndexPaletteRecolor/IndexPaletteRecolor.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://ce0dg1ry62wed" path="res://tool/IndexPaletteRecolor/palette_recolor_icon_to_palette.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://b4jbo03kc2t1w" path="res://tool/IndexPaletteRecolor/palette_recolor_icon_to_color.png" id="4"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="5"]
+[ext_resource type="Texture2D" uid="uid://daff4tw2ipany" path="res://systems/style/palettes/palette_1_1.png" id="6"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_w8nun"]
+
+[sub_resource type="StyleBoxFlat" id="3"]
+bg_color = Color(0.0745098, 0.137255, 0.0431373, 1)
+corner_radius_top_left = 8
+corner_radius_top_right = 8
+corner_radius_bottom_right = 8
+corner_radius_bottom_left = 8
+shadow_color = Color(0, 0, 0, 0.223529)
+shadow_size = 30
+shadow_offset = Vector2(0, 10)
+
+[sub_resource type="Shader" id="1"]
+code = "shader_type canvas_item;
+render_mode blend_mix;
+
+uniform sampler2D SCREEN_TEXTURE : hint_screen_texture, filter_linear_mipmap;
+uniform sampler2D palette;
+const float start_r = 0.5 / float(32);
+const float start_b = 0.5 / float(12);
+
+void fragment() {
+	vec4 input = texture(SCREEN_TEXTURE, SCREEN_UV);
+	vec4 output = texture(palette, vec2(start_r + input.r, start_b+input.b));
+	output.a = input.a;
+	COLOR.rgba = output;
+}"
+
+[sub_resource type="ShaderMaterial" id="2"]
+shader = SubResource("1")
+shader_parameter/palette = ExtResource("6")
+
+[node name="IndexPaletteRecolor" type="MarginContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1")
+theme_override_constants/margin_left = 20
+theme_override_constants/margin_top = 20
+theme_override_constants/margin_right = 20
+theme_override_constants/margin_bottom = 20
+script = ExtResource("2")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "Dome Keeper - Palette Recolor Tool"
+
+[node name="HSeparator" type="HSeparator" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="Main" type="HBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/separation = 20
+
+[node name="PanelContainer" type="PanelContainer" parent="VBoxContainer/Main"]
+custom_minimum_size = Vector2(450, 0)
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer/Main/PanelContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="VBoxContainer" type="VBoxContainer" parent="VBoxContainer/Main/PanelContainer/MarginContainer"]
+layout_mode = 2
+
+[node name="PalettePickFolderButton" type="Button" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Select Folder"
+
+[node name="Label" type="Label" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "or"
+horizontal_alignment = 1
+
+[node name="PalettePickFileButton" type="Button" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+text = "Select Files"
+
+[node name="HSeparator" type="HSeparator" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 30)
+layout_mode = 2
+
+[node name="FolderPathLabel" type="Label" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+autowrap_mode = 3
+
+[node name="Control2" type="Control" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 4)
+layout_mode = 2
+
+[node name="FilesForConversion" type="Label" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Files:"
+
+[node name="FilesToConvert" type="ItemList" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+custom_minimum_size = Vector2(0, 10)
+layout_mode = 2
+auto_height = true
+
+[node name="ClearButton" type="Button" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+text = "Clear Selection"
+
+[node name="Control" type="Control" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="ConvertGroup" type="VBoxContainer" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+
+[node name="Label3" type="Label" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+visible = false
+layout_mode = 2
+text = "Palette Row"
+horizontal_alignment = 1
+
+[node name="PaletteRowButton" type="OptionButton" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+layout_mode = 2
+
+[node name="Spacer2" type="Control" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+custom_minimum_size = Vector2(0, 20)
+layout_mode = 2
+
+[node name="OverwriteCheckBox" type="CheckBox" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+unique_name_in_owner = true
+layout_mode = 2
+button_pressed = true
+button_group = SubResource("ButtonGroup_w8nun")
+text = "Overwrite File"
+
+[node name="RecolorNameCheckBox" type="CheckBox" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+unique_name_in_owner = true
+layout_mode = 2
+button_group = SubResource("ButtonGroup_w8nun")
+text = "Save as %_recolor.png"
+
+[node name="Spacer3" type="Control" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+custom_minimum_size = Vector2(0, 20)
+layout_mode = 2
+
+[node name="ToPaletteButton" type="Button" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+unique_name_in_owner = true
+layout_mode = 2
+disabled = true
+icon = ExtResource("3")
+icon_alignment = 1
+
+[node name="ToPaletteLabel" type="Label" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Convert to Palette"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Spacer" type="Control" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+custom_minimum_size = Vector2(0, 20)
+layout_mode = 2
+
+[node name="ToImageButton" type="Button" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+unique_name_in_owner = true
+layout_mode = 2
+disabled = true
+icon = ExtResource("4")
+icon_alignment = 1
+
+[node name="ToImageLabel" type="Label" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Convert to Image"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="StateLabel" type="Label" parent="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup"]
+layout_mode = 2
+
+[node name="Success" type="PanelContainer" parent="VBoxContainer/Main/PanelContainer/MarginContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+theme_override_styles/panel = SubResource("3")
+
+[node name="Label" type="Label" parent="VBoxContainer/Main/PanelContainer/MarginContainer/Success"]
+layout_mode = 2
+theme_type_variation = &"LabelHeadline"
+theme_override_colors/font_color = Color(0.568627, 1, 0.34902, 1)
+text = "Success!"
+horizontal_alignment = 1
+
+[node name="SuccessTween" parent="VBoxContainer/Main/PanelContainer/MarginContainer/Success" instance=ExtResource("5")]
+unique_name_in_owner = true
+
+[node name="VBoxContainer" type="VBoxContainer" parent="VBoxContainer/Main"]
+texture_filter = 1
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label" type="Label" parent="VBoxContainer/Main/VBoxContainer"]
+layout_mode = 2
+text = "Images on Disk"
+
+[node name="ImagesPanel" type="PanelContainer" parent="VBoxContainer/Main/VBoxContainer"]
+self_modulate = Color(0, 0, 0, 0)
+texture_filter = 1
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Images" type="HFlowContainer" parent="VBoxContainer/Main/VBoxContainer/ImagesPanel"]
+unique_name_in_owner = true
+texture_filter = 1
+layout_mode = 2
+
+[node name="PreviewPanelTop" type="HBoxContainer" parent="VBoxContainer/Main/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="PostConversionPreviewButton" type="Button" parent="VBoxContainer/Main/VBoxContainer/PreviewPanelTop"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(220, 0)
+layout_mode = 2
+toggle_mode = true
+button_pressed = true
+text = "Palette Preview: On"
+
+[node name="PostConversionLabel" type="Label" parent="VBoxContainer/Main/VBoxContainer/PreviewPanelTop"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Post-Conversion preview with Palette 1"
+
+[node name="PreviewPanel" type="PanelContainer" parent="VBoxContainer/Main/VBoxContainer"]
+unique_name_in_owner = true
+self_modulate = Color(0, 0, 0, 1)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="PreviewImages" type="HFlowContainer" parent="VBoxContainer/Main/VBoxContainer/PreviewPanel"]
+unique_name_in_owner = true
+texture_filter = 1
+layout_mode = 2
+
+[node name="Shader" type="ColorRect" parent="VBoxContainer/Main/VBoxContainer/PreviewPanel"]
+unique_name_in_owner = true
+material = SubResource("2")
+layout_mode = 2
+mouse_filter = 2
+color = Color(1, 1, 1, 0.517647)
+
+[node name="FolderDialog" type="FileDialog" parent="."]
+msaa_2d = 3
+canvas_item_default_texture_filter = 2
+mode = 2
+title = "Open a Directory"
+initial_position = 2
+size = Vector2i(1800, 1000)
+content_scale_mode = 1
+ok_button_text = "Select Current Folder"
+file_mode = 2
+access = 2
+filters = PackedStringArray("*.png")
+show_hidden_files = true
+
+[node name="FileDialog" type="FileDialog" parent="."]
+msaa_2d = 3
+canvas_item_default_texture_filter = 2
+mode = 1
+title = "Open File(s)"
+initial_position = 2
+size = Vector2i(1800, 1040)
+content_scale_mode = 1
+ok_button_text = "Open"
+file_mode = 1
+access = 2
+filters = PackedStringArray("*.png")
+show_hidden_files = true
+
+[connection signal="pressed" from="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/PalettePickFolderButton" to="." method="_on_PalettePickFolderButton_pressed"]
+[connection signal="pressed" from="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/PalettePickFileButton" to="." method="_on_PalettePickFileButton_pressed"]
+[connection signal="pressed" from="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ClearButton" to="." method="_on_ClearButton_pressed"]
+[connection signal="item_selected" from="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup/PaletteRowButton" to="." method="_on_PaletteRowButton_item_selected"]
+[connection signal="pressed" from="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup/OverwriteCheckBox" to="." method="_on_OverwriteCheckBox_pressed"]
+[connection signal="pressed" from="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup/RecolorNameCheckBox" to="." method="_on_RecolorNameCheckBox_pressed"]
+[connection signal="pressed" from="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup/ToPaletteButton" to="." method="_on_ToPaletteButton_pressed"]
+[connection signal="pressed" from="VBoxContainer/Main/PanelContainer/MarginContainer/VBoxContainer/ConvertGroup/ToImageButton" to="." method="_on_ToImageButton_pressed"]
+[connection signal="pressed" from="VBoxContainer/Main/VBoxContainer/PreviewPanelTop/PostConversionPreviewButton" to="." method="_on_PostConversionPreviewButton_pressed"]
+[connection signal="dir_selected" from="FolderDialog" to="." method="_on_FileDialog_dir_selected"]
+[connection signal="file_selected" from="FileDialog" to="." method="_on_FileDialog_file_selected"]
+[connection signal="files_selected" from="FileDialog" to="." method="_on_FileDialog_files_selected"]

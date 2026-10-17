@@ -1,0 +1,195 @@
+[gd_scene load_steps=25 format=3 uid="uid://dg2o1ps3xsj8f"]
+
+[ext_resource type="Script" path="res://test/caves/CaveTest.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://dutjgavl8amrn" path="res://content/map/Map.tscn" id="2"]
+[ext_resource type="Script" path="res://content/map/MapData.gd" id="3"]
+[ext_resource type="TileSet" uid="uid://dcu4bgkdu10fe" path="res://content/map/tileset.tres" id="4"]
+[ext_resource type="Script" path="res://content/monster/Monsters.gd" id="5"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="6"]
+[ext_resource type="PackedScene" uid="uid://co1irxig5hyod" path="res://content/monster/WaveGenerator.tscn" id="7"]
+[ext_resource type="PackedScene" uid="uid://qxxy345jrvm5" path="res://content/sounds/monster/ambience/BattleAmbience.tscn" id="8"]
+[ext_resource type="Script" path="res://systems/camera/KeeperCamera.gd" id="9"]
+[ext_resource type="PackedScene" uid="uid://bxa2a1hcdoos7" path="res://content/keeper/keeper1/Keeper1.tscn" id="10"]
+[ext_resource type="PackedScene" uid="uid://rwepo22g03ki" path="res://content/dome/dome1/Dome1.tscn" id="11"]
+[ext_resource type="PackedScene" uid="uid://b63dsnsxqiuyh" path="res://content/hud/Hud.tscn" id="12"]
+[ext_resource type="Texture2D" uid="uid://bebi5flxkskmq" path="res://test/caves/CaveTest_screencover_noise.png" id="13"]
+[ext_resource type="PackedScene" uid="uid://f5ms8yatqn7i" path="res://content/shared/Overlay.tscn" id="14"]
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="15"]
+[ext_resource type="Script" path="res://stages/level/PauseLabel.gd" id="16"]
+[ext_resource type="PackedScene" uid="uid://btvn5du3drkoa" path="res://stages/level/Cheats.tscn" id="17"]
+[ext_resource type="Script" path="res://systems/audio/EffectHandler.gd" id="18"]
+[ext_resource type="Script" path="res://systems/audio/CurveAttenuation.gd" id="19"]
+
+[sub_resource type="Curve2D" id="31"]
+_data = {
+"points": PackedVector2Array(0, 0, 0, 0, -521, -378, 0, 0, 0, 0, -520, -505, 0, 0, 0, 0, -365, -505)
+}
+point_count = 3
+
+[sub_resource type="Curve2D" id="32"]
+_data = {
+"points": PackedVector2Array(0, 0, 0, 0, 515, -406, 0, 0, 0, 0, 514, -505, 0, 0, 0, 0, 386, -505)
+}
+point_count = 3
+
+[sub_resource type="Shader" id="36"]
+code = "shader_type canvas_item;
+
+//  noise texture (see Dissolve.material for GUI Generated one or Main.gd::_on_reseed_noise_pressed() for scripted one)
+uniform sampler2D noise_tex : source_color, repeat_enable;
+// size of burning path (0 is infinitely short)
+uniform float burn_size : hint_range(0.1, 1);
+
+// position (time) of burning
+uniform float burn_position : hint_range(-1, 1);
+
+void fragment()
+{
+	// get texture pixel color * tint
+	// thats our result without burning effect.
+	// We use COLOR as final color (we can use variable and assign it to COLOR at the end, but there is no reason to care)
+	// TEXTURE is Sprite.Texture from GODOT
+	// UV is UV from GODOT
+	// At first, COLOR is filled with tint (Sprite -> Modulate) from GODOT (and from vertex shader).
+	COLOR = texture(TEXTURE, UV) * COLOR;
+	
+	// get some noise minus our position in time (thats why burn_position is range(-1, 1))
+	float test = texture(noise_tex, UV).r - burn_position;
+	
+	// if our noise is bigger then treshold
+	if (test < burn_size) {
+		// get burn color from ramp
+
+		// override result rgb color with burn rgb color (NOT alpha!)
+		//COLOR.rgb = burn.rgb;
+		
+		// and set alpha to lower one from texture or burn.
+		// that means we keep transparent sprite (COLOR.a is lower) and transparent 'burned pathes' (burn.a is lower)
+		COLOR.a = 0.0;
+	}
+}"
+
+[sub_resource type="ShaderMaterial" id="34"]
+shader = SubResource("36")
+shader_parameter/burn_size = 0.1
+shader_parameter/burn_position = 0.538
+shader_parameter/noise_tex = ExtResource("13")
+
+[sub_resource type="Curve2D" id="35"]
+_data = {
+"points": PackedVector2Array(11.6411, 11.9557, -11.6411, -11.9557, 0, 0, -175.561, 2.20237, 175.561, -2.20237, 287, -148)
+}
+point_count = 2
+
+[node name="CaveTest" type="Node"]
+script = ExtResource("1")
+
+[node name="Map" parent="." instance=ExtResource("2")]
+
+[node name="TileData" type="Node2D" parent="."]
+z_index = 50
+position = Vector2(-12, 72)
+script = ExtResource("3")
+
+[node name="Biomes" type="TileMap" parent="TileData"]
+tile_set = ExtResource("4")
+format = 2
+
+[node name="Hardness" type="TileMap" parent="TileData"]
+tile_set = ExtResource("4")
+format = 2
+
+[node name="Resources" type="TileMap" parent="TileData"]
+modulate = Color(1, 1, 1, 0.345098)
+tile_set = ExtResource("4")
+format = 2
+
+[node name="Monsters" type="Node2D" parent="." groups=["lostL", "pauseL"]]
+process_mode = 1
+z_index = 40
+script = ExtResource("5")
+
+[node name="DiverPaths" type="Node2D" parent="Monsters"]
+
+[node name="RetreatLeft" type="Marker2D" parent="Monsters/DiverPaths"]
+position = Vector2(-520, -168)
+
+[node name="RetreatRight" type="Marker2D" parent="Monsters/DiverPaths"]
+position = Vector2(516, -182)
+
+[node name="StartLeft" type="Path2D" parent="Monsters/DiverPaths"]
+curve = SubResource("31")
+
+[node name="StartRight" type="Path2D" parent="Monsters/DiverPaths"]
+curve = SubResource("32")
+
+[node name="SpawnTween" parent="Monsters" instance=ExtResource("6")]
+
+[node name="WaveGenerator" parent="Monsters" instance=ExtResource("7")]
+
+[node name="BattleAmbience" parent="Monsters" instance=ExtResource("8")]
+
+[node name="KeeperPosition" type="Marker2D" parent="."]
+position = Vector2(-22, -35)
+
+[node name="Camera2D" type="Camera2D" parent="." groups=["cameras"]]
+position = Vector2(0, 119)
+zoom = Vector2(0.5, 0.5)
+drag_left_margin = 0.0
+drag_top_margin = 0.0
+drag_right_margin = 0.0
+drag_bottom_margin = 0.0
+script = ExtResource("9")
+
+[node name="Keeper" parent="." instance=ExtResource("10")]
+position = Vector2(1, 104)
+
+[node name="Dome" parent="." instance=ExtResource("11")]
+position = Vector2(0, -15)
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+layer = 2
+
+[node name="Hud" parent="Canvas" instance=ExtResource("12")]
+anchors_preset = 2
+anchor_top = 1.0
+anchor_right = 0.0
+grow_horizontal = 1
+grow_vertical = 0
+
+[node name="ScreenCover" type="TextureRect" parent="Canvas" groups=["unstyled"]]
+visible = false
+material = SubResource("34")
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+expand_mode = 1
+stretch_mode = 2
+
+[node name="Overlay" parent="Canvas" groups=["level_canvas_overlay"] instance=ExtResource("14")]
+
+[node name="PauseLabel" type="Label" parent="Canvas"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -57.0
+offset_right = 71.0
+offset_bottom = 32.0
+theme = ExtResource("15")
+text = "level.paused"
+script = ExtResource("16")
+
+[node name="Tween" parent="Canvas/PauseLabel" instance=ExtResource("6")]
+
+[node name="Cheats" parent="Canvas" instance=ExtResource("17")]
+visible = false
+
+[node name="EffectHandler" type="Node2D" parent="."]
+script = ExtResource("18")
+minimumWorldVolume = -20.0
+
+[node name="MineAttenuation" type="Path2D" parent="EffectHandler"]
+curve = SubResource("35")
+script = ExtResource("19")
+length = 600.0

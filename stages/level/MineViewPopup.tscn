@@ -1,0 +1,92 @@
+[gd_scene load_steps=5 format=3 uid="uid://c58i22efa3at1"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://stages/level/MineViewPopup.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://y24moy72idmu" path="res://gui/buttons/Action.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="4"]
+
+[node name="MineViewPopup" type="CenterContainer"]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -906.0
+offset_top = -49.0
+offset_right = 906.0
+grow_horizontal = 2
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="MoveContainer" type="HBoxContainer" parent="PanelContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="ActionMoveUp" parent="PanelContainer/HBoxContainer/MoveContainer" instance=ExtResource("3")]
+layout_mode = 2
+action = "ui_up"
+
+[node name="ActionMoveLeft" parent="PanelContainer/HBoxContainer/MoveContainer" instance=ExtResource("3")]
+layout_mode = 2
+action = "ui_left"
+
+[node name="ActionMoveDown" parent="PanelContainer/HBoxContainer/MoveContainer" instance=ExtResource("3")]
+layout_mode = 2
+action = "ui_down"
+
+[node name="ActionMoveRight" parent="PanelContainer/HBoxContainer/MoveContainer" instance=ExtResource("3")]
+layout_mode = 2
+action = "ui_right"
+
+[node name="LeftRightLabel" type="Label" parent="PanelContainer/HBoxContainer/MoveContainer"]
+layout_mode = 2
+text = "level.station.battle.navbar.move"
+
+[node name="VSeparator" type="VSeparator" parent="PanelContainer/HBoxContainer/MoveContainer"]
+layout_mode = 2
+
+[node name="RevealResourcesContainer" type="HBoxContainer" parent="PanelContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="ActionRevealResources" parent="PanelContainer/HBoxContainer/RevealResourcesContainer" instance=ExtResource("3")]
+layout_mode = 2
+action = "dome_ability1"
+
+[node name="RevealResourcesLabel" type="Label" parent="PanelContainer/HBoxContainer/RevealResourcesContainer"]
+layout_mode = 2
+text = "level.gameover.revealresources"
+
+[node name="VSeparator" type="VSeparator" parent="PanelContainer/HBoxContainer/RevealResourcesContainer"]
+layout_mode = 2
+
+[node name="AutoMoveContainer" type="HBoxContainer" parent="PanelContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="ActionAutoMove" parent="PanelContainer/HBoxContainer/AutoMoveContainer" instance=ExtResource("3")]
+layout_mode = 2
+action = "ui_select"
+
+[node name="AutoMoveLabel" type="Label" parent="PanelContainer/HBoxContainer/AutoMoveContainer"]
+layout_mode = 2
+text = "level.gameover.toggleautomove"
+
+[node name="VSeparator" type="VSeparator" parent="PanelContainer/HBoxContainer/AutoMoveContainer"]
+layout_mode = 2
+
+[node name="ExitContainer" type="HBoxContainer" parent="PanelContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="ActionExit" parent="PanelContainer/HBoxContainer/ExitContainer" instance=ExtResource("3")]
+layout_mode = 2
+action = "ui_cancel"
+
+[node name="ExitLabel" type="Label" parent="PanelContainer/HBoxContainer/ExitContainer"]
+layout_mode = 2
+text = "level.gameover.back"
+
+[node name="Tween" parent="." instance=ExtResource("4")]

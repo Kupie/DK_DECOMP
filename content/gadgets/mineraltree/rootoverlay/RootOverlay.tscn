@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://bhfru047l4a5s"]
+
+[ext_resource type="Texture2D" uid="uid://b7hqakqqsfefi" path="res://content/gadgets/mineraltree/wurzeltile.png" id="1"]
+[ext_resource type="Script" path="res://content/gadgets/mineraltree/rootoverlay/RootOverlay.gd" id="2"]
+
+[node name="RootOverlay" type="Sprite2D"]
+z_index = 1
+texture = ExtResource("1")
+script = ExtResource("2")

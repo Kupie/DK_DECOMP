@@ -1,0 +1,26 @@
+[gd_scene load_steps=4 format=3 uid="uid://p1i4frnvcxab"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://stages/loadout/HintContainer.gd" id="2"]
+[ext_resource type="FontVariation" uid="uid://cmphosyxqvcqp" path="res://gui/fonts/FontSmall.tres" id="3"]
+
+[node name="HintContainer" type="PanelContainer"]
+show_behind_parent = true
+offset_right = 100.0
+grow_horizontal = 2
+size_flags_horizontal = 3
+size_flags_vertical = 8
+mouse_filter = 2
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="LabelDesc" type="Label" parent="."]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme_override_fonts/font = ExtResource("3")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[connection signal="resized" from="LabelDesc" to="." method="_on_LabelDesc_resized"]

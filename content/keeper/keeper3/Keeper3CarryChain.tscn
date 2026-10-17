@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://boeqtnru070ke"]
+
+[ext_resource type="Material" uid="uid://sfxw4ihq8oxm" path="res://systems/style/materials/sprite_palette.tres" id="1"]
+[ext_resource type="Script" path="res://content/keeper/keeper3/Keeper3CarryChain.gd" id="2"]
+
+[node name="Keeper3CarryChain" type="Node2D"]
+z_index = 24
+z_as_relative = false
+material = ExtResource("1")
+script = ExtResource("2")

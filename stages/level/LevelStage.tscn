@@ -1,0 +1,191 @@
+[gd_scene load_steps=19 format=3 uid="uid://d4e2v7d25x1g2"]
+
+[ext_resource type="Script" path="res://stages/level/LevelStage.gd" id="1"]
+[ext_resource type="Script" path="res://stages/level/Viewports.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://bixqtut4porfi" path="res://systems/camera/Camera.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://5ysdfech0to4" path="res://systems/camera/ViewportContainer.tscn" id="4"]
+[ext_resource type="Shader" path="res://systems/camera/viewport_split_glow.gdshader" id="5"]
+[ext_resource type="PackedScene" uid="uid://dutjgavl8amrn" path="res://content/map/Map.tscn" id="6"]
+[ext_resource type="Shader" path="res://systems/camera/vignette/vignette.gdshader" id="7"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="8"]
+[ext_resource type="PackedScene" uid="uid://dbvepiwqgidoc" path="res://systems/camera/ViewportContainerTracker.tscn" id="9"]
+[ext_resource type="PackedScene" uid="uid://xa00w6tjyd4g" path="res://systems/audio/EffectHandler.tscn" id="10"]
+[ext_resource type="PackedScene" uid="uid://d22ing1k2ex3y" path="res://stages/level/LevelCanvas.tscn" id="11"]
+[ext_resource type="PackedScene" uid="uid://btvn5du3drkoa" path="res://stages/level/Cheats.tscn" id="12"]
+[ext_resource type="Script" path="res://stages/level/LevelKeeperSpawner.gd" id="13"]
+[ext_resource type="Script" path="res://content/gadgets/probe/ProbeSynchronizer.gd" id="14"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_7urb8"]
+resource_local_to_scene = true
+shader = ExtResource("5")
+shader_parameter/blend_left = 1.0
+shader_parameter/blend_right = 0.0
+
+[sub_resource type="RectangleShape2D" id="34"]
+size = Vector2(1511, 18.5)
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_vkl0x"]
+resource_local_to_scene = true
+shader = ExtResource("7")
+shader_parameter/zoom = Vector2(1, 1)
+shader_parameter/color_conversion = Vector3(0.8, 0.8, 0.8)
+shader_parameter/vignette_alpha = 1.0
+shader_parameter/light_cutout_offset = Vector2(0.412, 0.668)
+shader_parameter/light_cutout_scale = Vector2(0.233, 0.143)
+shader_parameter/aspect_ratio = 1.777
+shader_parameter/nmb_of_targets = 1
+shader_parameter/target_center_offsets_and_strengths = null
+shader_parameter/brightness_bias = null
+shader_parameter/brightness_bands = null
+shader_parameter/light_cutouts = null
+
+[sub_resource type="ViewportTexture" id="ViewportTexture_ghjtq"]
+viewport_path = NodePath("UISubviewportRect/SubViewport")
+
+[node name="LevelStage" type="Node" node_paths=PackedStringArray("levelKeeperSpawner", "cheats") groups=["effectL", "lostL"]]
+process_mode = 3
+script = ExtResource("1")
+levelKeeperSpawner = NodePath("LevelKeeperSpawner")
+cheats = NodePath("Canvas/Cheats")
+
+[node name="Viewports" type="VBoxContainer" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+script = ExtResource("2")
+camera_scene = ExtResource("3")
+
+[node name="Top" type="HBoxContainer" parent="Viewports"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+
+[node name="ViewportContainer" parent="Viewports/Top" instance=ExtResource("4")]
+layout_mode = 2
+size_flags_stretch_ratio = 5.0
+
+[node name="SubViewportContainer" parent="Viewports/Top/ViewportContainer" index="0"]
+material = SubResource("ShaderMaterial_7urb8")
+
+[node name="Root" type="Node2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="0"]
+
+[node name="Map" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/Root" instance=ExtResource("6")]
+
+[node name="Monsters" type="Node2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/Root"]
+z_index = 50
+y_sort_enabled = true
+
+[node name="Ground" type="StaticBody2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/Root"]
+collision_layer = 262144
+collision_mask = 0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/Root/Ground"]
+position = Vector2(0, -2.75)
+shape = SubResource("34")
+
+[node name="Vignette" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/VignetteLayer" index="0"]
+material = SubResource("ShaderMaterial_vkl0x")
+
+[node name="UISubviewportRect" parent="Viewports/Top/ViewportContainer" index="1"]
+texture = SubResource("ViewportTexture_ghjtq")
+
+[node name="Bottom" type="HBoxContainer" parent="Viewports"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+
+[node name="Tween" parent="Viewports" instance=ExtResource("8")]
+
+[node name="ViewportsTracker" type="VBoxContainer" parent="."]
+unique_name_in_owner = true
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+theme_override_constants/separation = 0
+
+[node name="Top" type="HBoxContainer" parent="ViewportsTracker"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+
+[node name="PlayerTracker1" parent="ViewportsTracker/Top" instance=ExtResource("9")]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_stretch_ratio = 5.0
+
+[node name="Bottom" type="HBoxContainer" parent="ViewportsTracker"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+
+[node name="EffectHandler" parent="." instance=ExtResource("10")]
+
+[node name="ReferenceVisibleArea" type="ReferenceRect" parent="."]
+visible = false
+offset_left = -479.0
+offset_top = -474.0
+offset_right = 480.0
+offset_bottom = 65.0
+editor_only = false
+
+[node name="Tween" parent="." instance=ExtResource("8")]
+
+[node name="StageTransitionTween" parent="." instance=ExtResource("8")]
+
+[node name="LevelCanvas" parent="." instance=ExtResource("11")]
+unique_name_in_owner = true
+layer = 2
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+layer = 3
+
+[node name="Cheats" parent="Canvas" instance=ExtResource("12")]
+
+[node name="Container" type="Control" parent="Canvas"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+
+[node name="PingInfo" type="Label" parent="Canvas/Container"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -91.0
+offset_top = -23.0
+grow_horizontal = 0
+grow_vertical = 0
+text = "0ms"
+horizontal_alignment = 2
+
+[node name="LevelKeeperSpawner" type="Node" parent="."]
+script = ExtResource("13")
+
+[node name="ProbeSynchronizer" type="Node" parent="."]
+script = ExtResource("14")
+target_connection_states = [6]
+
+[editable path="Viewports/Top/ViewportContainer"]

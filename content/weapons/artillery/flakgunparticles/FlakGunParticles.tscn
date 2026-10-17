@@ -1,0 +1,82 @@
+[gd_scene load_steps=6 format=3 uid="uid://cb8il8rjfumki"]
+
+[ext_resource type="Material" uid="uid://bb7s160bss4k8" path="res://content/weapons/artillery/flakgunparticles/flak_particles_physical_process_material.tres" id="1"]
+[ext_resource type="Texture2D" uid="uid://b20dohsv4hbi7" path="res://content/weapons/artillery/empty_shell.png" id="2"]
+[ext_resource type="Script" path="res://content/weapons/artillery/flakgunparticles/FlakGunParticles.gd" id="3"]
+
+[sub_resource type="Shader" id="Shader_rkhn2"]
+code = "shader_type canvas_item;
+render_mode blend_mix;
+
+// Particle animation uniforms
+uniform int particles_anim_h_frames;
+uniform int particles_anim_v_frames;
+uniform bool particles_anim_loop;
+
+// Palette swap uniforms
+uniform sampler2D palette : source_color;
+const vec3 start = vec3(0.5 / 32.0, 0.0, 0.5 / 12.0);
+
+// Pass modulate color from vertex to fragment
+varying flat vec4 modulate;
+
+void vertex() {
+	// Store modulate color for fragment shader
+	modulate = COLOR;
+	
+	// Particle animation logic
+	float h_frames = float(particles_anim_h_frames);
+	float v_frames = float(particles_anim_v_frames);
+	
+	VERTEX.xy /= vec2(h_frames, v_frames);
+	
+	float particle_total_frames = float(particles_anim_h_frames * particles_anim_v_frames);
+	float particle_frame = floor(INSTANCE_CUSTOM.z * float(particle_total_frames));
+	
+	if (!particles_anim_loop) {
+		particle_frame = clamp(particle_frame, 0.0, particle_total_frames - 1.0);
+	} else {
+		particle_frame = mod(particle_frame, particle_total_frames);
+	}
+	
+	UV /= vec2(h_frames, v_frames);
+	UV += vec2(mod(particle_frame, h_frames) / h_frames, floor((particle_frame + 0.5) / h_frames) / v_frames);
+}
+
+void fragment() {
+	// Sample the texture
+	vec4 input = texture(TEXTURE, UV);
+	
+	// Apply palette swap
+	vec4 output = texture(palette, vec2(start.r + input.r, start.b + input.b));
+	
+	// Preserve alpha from COLOR
+	output.a = COLOR.a;
+	
+	// Apply modulate color
+	COLOR = output * modulate;
+}
+"
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_ydu87"]
+shader = SubResource("Shader_rkhn2")
+shader_parameter/particles_anim_h_frames = 8
+shader_parameter/particles_anim_v_frames = 1
+shader_parameter/particles_anim_loop = true
+shader_parameter/palette = null
+
+[node name="FlakGunParticles" type="GPUParticles2D"]
+material = SubResource("ShaderMaterial_ydu87")
+rotation = -1.5739
+amount = 80
+process_material = ExtResource("1")
+texture = ExtResource("2")
+lifetime = 1.75
+fract_delta = false
+script = ExtResource("3")
+
+[node name="AmountCalculationDelayer" type="Timer" parent="."]
+wait_time = 0.15
+one_shot = true
+
+[connection signal="timeout" from="AmountCalculationDelayer" to="." method="_on_amount_calculation_delayer_timeout"]

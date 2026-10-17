@@ -1,0 +1,3767 @@
+[gd_scene load_steps=19 format=3 uid="uid://bixt5312ggol"]
+
+[ext_resource type="Script" path="res://stages/title/TitleStage.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://bn74jmxunqa3" path="res://stages/title/titlescreen.png" id="2"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="3"]
+[ext_resource type="FontVariation" uid="uid://dckp620uqltqk" path="res://gui/fonts/FontVeryLarge.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://cq1nq3tq5f52p" path="res://gui/fontsettings/VeryLargeFontSettings.tres" id="5"]
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="6"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="7"]
+[ext_resource type="PackedScene" uid="uid://cqehgtpgprwcl" path="res://gui/platform/gamertag/GamerTagLabel.tscn" id="8"]
+[ext_resource type="PackedScene" uid="uid://f5ms8yatqn7i" path="res://content/shared/Overlay.tscn" id="9"]
+[ext_resource type="FontVariation" uid="uid://c5l04pe7y0aer" path="res://gui/fonts/FontLarge.tres" id="10"]
+[ext_resource type="FontVariation" uid="uid://cmphosyxqvcqp" path="res://gui/fonts/FontSmall.tres" id="11"]
+[ext_resource type="LabelSettings" uid="uid://qsc7kngg06e5" path="res://gui/fontsettings/SmallFontSettings.tres" id="12"]
+[ext_resource type="Script" path="res://stages/title/PrestigeMenu.gd" id="13"]
+[ext_resource type="PackedScene" uid="uid://bgs3ojjs0dnsy" path="res://content/gamemode/prestige/leaderboard/PrestigeLeaderboard.tscn" id="14"]
+[ext_resource type="FontFile" uid="uid://cepydyx2oeodw" path="res://gui/fonts/ja/Noto Sans Mono CJK JP Regular.otf" id="15"]
+[ext_resource type="FontFile" uid="uid://djbb70k01tq85" path="res://gui/fonts/ar/Vazirmatn-Regular.ttf" id="16"]
+[ext_resource type="Script" path="res://stages/title/VideoPlayer.gd" id="17"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="18"]
+
+[node name="TitleStage" type="Node"]
+script = ExtResource("1")
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+
+[node name="TextureRect" type="TextureRect" parent="Canvas"]
+texture_filter = 2
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2")
+expand_mode = 1
+stretch_mode = 5
+
+[node name="NoStreamContainer" type="PanelContainer" parent="Canvas"]
+visible = false
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -473.0
+offset_top = -175.5
+offset_right = 473.0
+offset_bottom = 175.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_styles/panel = ExtResource("3")
+
+[node name="NoStreamLabel" type="Label" parent="Canvas/NoStreamContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "Please do not stream this playtest version, or publish videos on youtube & such.
+It's not finished, and will give a wrong impression to some viewers."
+label_settings = ExtResource("5")
+autowrap_mode = 3
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas"]
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -131.0
+offset_right = 131.0
+offset_bottom = 57.0
+theme = ExtResource("6")
+
+[node name="BuildLabel" type="Label" parent="Canvas/MarginContainer"]
+layout_mode = 2
+text = "Pre alpha Demo build"
+
+[node name="MainMenu" type="MarginContainer" parent="Canvas"]
+layout_direction = 2
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -528.0
+offset_top = -137.0
+offset_right = 528.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_vertical = 4
+theme = ExtResource("6")
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+
+[node name="Panel" type="PanelContainer" parent="Canvas/MainMenu"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource("6")
+theme_override_styles/panel = ExtResource("3")
+
+[node name="MainMenuButtons" type="HBoxContainer" parent="Canvas/MainMenu/Panel"]
+custom_minimum_size = Vector2(220, 0)
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_constants/separation = 20
+
+[node name="ContinueButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.continue"
+
+[node name="ContinueGameMenu" type="MarginContainer" parent="Canvas/MainMenu/Panel/MainMenuButtons/ContinueButton"]
+unique_name_in_owner = true
+layout_direction = 2
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -202.0
+offset_top = -376.0
+offset_right = 202.0
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_vertical = 4
+theme = ExtResource("6")
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 90
+
+[node name="Panel" type="PanelContainer" parent="Canvas/MainMenu/Panel/MainMenuButtons/ContinueButton/ContinueGameMenu"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource("6")
+theme_override_styles/panel = ExtResource("3")
+
+[node name="Vbox" type="VBoxContainer" parent="Canvas/MainMenu/Panel/MainMenuButtons/ContinueButton/ContinueGameMenu/Panel"]
+custom_minimum_size = Vector2(220, 0)
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_constants/separation = 20
+
+[node name="Label" type="Label" parent="Canvas/MainMenu/Panel/MainMenuButtons/ContinueButton/ContinueGameMenu/Panel/Vbox"]
+layout_mode = 2
+text = "title.navbar.continue"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="ContinueSingleplayerButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons/ContinueButton/ContinueGameMenu/Panel/Vbox"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.singleplayer"
+
+[node name="ContinueMultiplayerButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons/ContinueButton/ContinueGameMenu/Panel/Vbox"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.multiplayer"
+
+[node name="NewGameButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.newgame"
+
+[node name="NewGameMenu" type="MarginContainer" parent="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton"]
+unique_name_in_owner = true
+layout_direction = 2
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -182.5
+offset_top = -216.0
+offset_right = 182.5
+grow_horizontal = 2
+grow_vertical = 0
+size_flags_vertical = 4
+mouse_filter = 2
+theme = ExtResource("6")
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 90
+
+[node name="Control" type="Control" parent="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 8
+
+[node name="CenterContainer" type="CenterContainer" parent="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control"]
+layout_mode = 1
+anchors_preset = 7
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+offset_left = -203.5
+offset_top = -426.0
+offset_right = 203.5
+grow_horizontal = 2
+grow_vertical = 0
+
+[node name="Panel" type="PanelContainer" parent="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource("6")
+theme_override_styles/panel = ExtResource("3")
+
+[node name="Vbox" type="VBoxContainer" parent="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer/Panel"]
+custom_minimum_size = Vector2(220, 0)
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_constants/separation = 12
+
+[node name="Label" type="Label" parent="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer/Panel/Vbox"]
+layout_mode = 2
+text = "title.navbar.newgame"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="SingleplayerButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer/Panel/Vbox"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.singleplayer"
+
+[node name="SplitscreenButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer/Panel/Vbox"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.splitscreen"
+
+[node name="HostMultiplayerButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer/Panel/Vbox"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.multiplayer.host"
+
+[node name="JoinMultiplayerButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer/Panel/Vbox"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.multiplayer.join"
+
+[node name="UnlockEverythingButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons"]
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "Unlock Everything"
+
+[node name="OptionsButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.options"
+
+[node name="QuitButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons"]
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.quit"
+
+[node name="SendLogButton" type="Button" parent="Canvas/MainMenu/Panel/MainMenuButtons"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "[DEV] Send Log"
+
+[node name="AdditionalMenu" type="MarginContainer" parent="Canvas"]
+layout_direction = 2
+anchors_preset = 2
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -409.0
+offset_right = 329.0
+grow_vertical = 0
+size_flags_horizontal = 0
+size_flags_vertical = 4
+theme = ExtResource("6")
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+
+[node name="Panel" type="PanelContainer" parent="Canvas/AdditionalMenu"]
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_vertical = 8
+theme = ExtResource("6")
+theme_override_styles/panel = ExtResource("3")
+
+[node name="AdditionalButtons" type="VBoxContainer" parent="Canvas/AdditionalMenu/Panel"]
+custom_minimum_size = Vector2(220, 0)
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_constants/separation = 12
+
+[node name="WhatsNewButton" type="Button" parent="Canvas/AdditionalMenu/Panel/AdditionalButtons"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.updates"
+
+[node name="CreditsButton" type="Button" parent="Canvas/AdditionalMenu/Panel/AdditionalButtons"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.credits"
+
+[node name="ModdingButton" type="Button" parent="Canvas/AdditionalMenu/Panel/AdditionalButtons"]
+unique_name_in_owner = true
+visible = false
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.modding"
+
+[node name="PrestigeLeaderboardButton" type="Button" parent="Canvas/AdditionalMenu/Panel/AdditionalButtons"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(175, 0)
+layout_mode = 2
+text = "title.navbar.leaderboard"
+
+[node name="GamerTagContainer" type="MarginContainer" parent="Canvas"]
+visible = false
+z_index = 1
+layout_direction = 2
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -973.0
+offset_bottom = 172.0
+grow_horizontal = 0
+size_flags_horizontal = 0
+size_flags_vertical = 4
+theme = ExtResource("6")
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+
+[node name="Panel" type="PanelContainer" parent="Canvas/GamerTagContainer"]
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_vertical = 0
+theme = ExtResource("6")
+theme_override_styles/panel = ExtResource("3")
+
+[node name="GamerTagLabel" parent="Canvas/GamerTagContainer/Panel" instance=ExtResource("8")]
+unique_name_in_owner = true
+layout_mode = 2
+theme = ExtResource("6")
+icon_size = 60
+
+[node name="Overlay" parent="Canvas" instance=ExtResource("9")]
+
+[node name="DiscordArea" type="MarginContainer" parent="Canvas"]
+visible = false
+layout_direction = 2
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="VersionContainer" type="MarginContainer" parent="Canvas"]
+layout_direction = 2
+offset_right = 60.0
+offset_bottom = 57.0
+theme = ExtResource("6")
+
+[node name="VersionLabel" type="Label" parent="Canvas/VersionContainer"]
+layout_mode = 2
+mouse_filter = 1
+theme = ExtResource("6")
+text = "v5"
+horizontal_alignment = 2
+
+[node name="PatchNotesPanel" type="PanelContainer" parent="Canvas"]
+unique_name_in_owner = true
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -444.5
+offset_top = -393.5
+offset_right = 444.5
+offset_bottom = 393.5
+theme = ExtResource("6")
+theme_override_styles/panel = ExtResource("3")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/PatchNotesPanel"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/PatchNotesPanel/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Label185" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v5.0.8 Patch for The Lost Keepers"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label186" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "CHANGES
+- Added direction indicators for Multiplayer to show in which directions your fellow Keepers are. The indicator can be disabled in the Options. 
+- Added an option in the Infiltrator Input Settings to toggle between auto and manual pick-up of Kunai Carriers. The Infiltrator now can manually pick up Kunai Carriers using the interaction input. For that reason, Kunai Carriers get a highlight like other Carryables when in interaction range.
+- Disabled the automatic pick-up of flying Kunai Carriers. They can be caught with manual pick-up. This should prevent unintentional pick-ups, especially in Multiplayer.
+- Added an option for the Assessor, Infiltrator and Beastmaster to toggle whether resources or gadgets should be dropped first. The Engineer will still always drop the carried objects based on their distance.
+- Added an option to scale the overall Loadout and most text in a run when playing in splitscreen. It's disabled by default and can be enabled if the text is too small in splitscreen, e.g. when playing with Steam Deck on a TV.
+- Keeper Icons are now colored during the Keeper Selection screen when loading a save game or joining an active run. 
+
+BUGFIXES
+- Fixed tree seed sometimes glitching through the ground for clients.
+- Fixed issue that prevented Prestige mode from continuing with 3 or more players. 
+- Fixed infiltrator resource pickup after using the Sidedrill.
+- Fixed Kunai Carrier behavior during pause.
+- Fixed goblin holes not closing in some cases.
+- Fixed unlocks of Skins sometimes unlocking for the wrong Keeper in Multiplayer.
+- Fixed Orchard status not properly loading for clients when rejoining a run.
+- Fixed Gadgets becoming uninteractable for clients after entering the Dome Station.
+- Fixed Interactable Highlight showing for all players, when they should only show for the Beastmaster player.
+- Fixed title music sometimes playing in a run.
+- Fixed regular Keeper music playing even after the Relic has been found.
+- Fixed the mouse back button sometimes not working in the Upgrade window.
+- Fixed camera not scrolling to the dome when losing in Versus mode. 
+- Fixed 'Thorough' achievement to be completable in the loadout. 
+- Fixed pet greeting sound to play during the landing sequence."
+autowrap_mode = 3
+
+[node name="HSeparator41" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label183" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v5.0.7 Patch for The Lost Keepers"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label184" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "CHANGES
+- Prestige can now be played with more than 2 players in a casual way. Scores of Prestige Runs with 3 or more players are not uploaded. 
+- Reworked Kunai Carriers to not collide with each other anymore for better usability and performance. Also the Kunai Carrier now stays intact when the connected tile is destroyed, so that you don't have to pick up all the resources again. 
+- The Infiltrator can now pick up carryables while at max carry capacity, replacing the last carryable in the Kunai Carrier.
+- New Versus modifier 'No Relics': No relics will spawn, removing relic stealing for a less competitive Versus experience.
+- New Relic Hunt modifier 'Short Cycles': Cycles will be way shorter overall, presenting a new challenge. 
+- New Relic Hunt modifier 'Tough Start': The initial wave strength is increased, presenting a new challenge.
+- Added an option to toggle the Infiltrator's auto pickup behaviour for drops. The setting is found in the Keeper Input Options.
+
+BUGFIXES
+- Fixed kunai carrier not dissolving when entering the gravitational lift.
+- Fixed client being incorrectly marked as a cheater in Prestige Miner mode. This also caused the score not to upload for the client.
+- Fixed sessions claiming to be full if a player disconnects during landing stage. 
+- Fixed goblin holes being dug out while the game is paused.
+- Fixed parasitic drone nest being invisible when rejoining a game.
+- Fixed visual glitches with World7 background in Versus mode.
+- Fixed droneyard station clipping through artillery dome.
+- Fixed infiltrator chain stretching when gadget/supplement popup opens.
+- Fixed catgoblins and vines to be on top of the shaft gadgets to match the goblin holes.
+- Fixed resources getting stuck in the loadout when tiles were mined while the game mode changed. 
+- Fixed a crash for the host that sometimes appeared when tiles were mined while the game mode changed.
+- Fixed resources carried by gravitational lift not counting towards the achievement 'My good Mule'.
+- Fixed relic animation not triggering for the clients.
+- Fixed gadget selection not being remembered between multiple assignment runs.
+- Fixed loaded runs playing the wrong keeper's music.
+- Fixed drops falling off the map when a Beastmaster tried to take drops from another Beastmaster.
+- Fixed Kunai Carrier getting stuck at edges sometimes. "
+autowrap_mode = 3
+
+[node name="HSeparator40" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label181" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v5.0.6 Patch for The Lost Keepers"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label182" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "MAJOR
+- Improved the physics synchronization between client and host, which improves the network stability greatly. 
+- Added a ping label in the pause menu for clients to check the current ping from client to server. 
+- Reworked the Beastmaster carry and throw to be as before v5.0.5.
+- When twin-stick is enabled, the Assessor and Infiltrator will still use the current move direction for their abilities if no aim direction is given.
+
+MINOR
+- Myzel now spawns Mushrooms faster the more players are in the team to make it viable in multiplayer.
+- Catgoblins now climb down the vine not being upside down. 
+- Prevent binding Escape / Start Button to any action.
+- Packed drops now deal the proper damage when shredded in the 'Hurtful Iron' assignment. 
+- When a client drops during the landing stage, the others will still be able to continue the game and the disconnected client can re-join. 
+- Tracking damage from the Spire in the detailed statistics now.
+- Adjusted the Kunai Carrier delivery distance for shredding.
+- Some performance improvements on the Infiltrators Kunai Carrier. 
+
+BUGFIXES
+- Fixed a bug where Input was broken in a loaded multiplayer savegame after switching keepers.
+- Fixed a crash that happened when leaving to title stage while a Kunai Carrier was flying.
+- Fixed some battle abilities not loading properly when a client joins an active run.
+- Fixed tiles spawning multiple drops due to high latency.
+- Fixed projectiles being stuck on sword dome's surface after being reflected with the sword shield.
+- Fixed artillery gun shooting for other clients when exiting while keeping the shoot button pressed.
+- Fixed multiplayer boards not loading for previous seasons.
+- Fixed one-way teleporter being off when loading a savegame with an active portal.
+- Fixed clients breaking the game when they join right when the host starts the game.
+- Fixed the leaderboard for multiplayer prestige not loading properly sometimes.
+- Fixed drops getting stuck with the gravitational lift in some cases.
+- Fixed goblin entrance hole appearing even if there is no Beastmaster currently selected.
+- Fixed partially opened goblin holes closing animation.
+- Fixed the Keeper changing the color at some places in the loadout. 
+- Fixed dome ambience not playing.
+- Fixed starting camera being off. 
+- Fixed various bugs that were caused by throwing gadgets and relics into the opposing team's dome. 
+- Fixed Infiltrator run animations when playing with controller.
+- Fixed the upgrade tree showing wrong values when there are multiple predecessor branches.
+- Removed the mini dome in the background of the landing scene.
+- Fixed visual sorting for some dome elements.
+- Fixed sound of Stunlaser.
+- Fixed Infiltrator aim indicator showing while at dome station.
+- Fixed some game ending tracks not looping properly.
+- Fixed the laser dome weapon starting with the wrong animation.
+- Fixed secondary station not showing when restarting in split-screen mode. 
+- Fixed clients not being able to buy any upgrades after a lag spike. 
+- Fixed some pixel bleeding with one of the Engineer skins.
+- Fixed the music cycle option not working properly. Music now plays at the set amount of cycles.
+- Fixed Chainsaw particles and audio to play during a soft pause (e.g. when in station).
+- Fixed packed drops from the Resource Packer becoming invisible for clients.
+- Fixed clients keeper not getting removed when a gamepad controller disconnects.
+- Fixed keeper gadgets not being spawned for players that rejoin a run. 
+- Fixed upgrades not being saved when a player rejoined a restarted run. 
+- Fixed Suitblaster Tutorial showing for the whole team, not just the owning player. 
+- Fixed a crash due to interaction between the Kunai Carrier and the Ressource Packer. 
+- Fixed Suitblaster and Resource Packer charges resetting when a player rejoins a run. "
+autowrap_mode = 3
+
+[node name="HSeparator39" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label179" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v5.0.5 Patch for The Lost Keepers"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label180" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "MAJOR
+- Improved performance of catgoblins, especially for larger maps
+- Second Station now is available in multiplayer games right from the start, but with its weapon disabled. The weapon can be enabled via the same upgrade as before. This change allows multiple keepers to buy upgrades at the same time. 
+- New modifier for Versus, which enables the second station's weapon right from the start.
+- New modifier for coop Relic Hunt, which enables the second station's weapon right from the start.
+- New modifier for Relic Hunt, which enhances the monsters damage.
+- Added the option to unbind keybindings.
+- Reworked the network synchronization for Drops, which should improve the network stability greatly and fix several issues around drops in multiplayer. 
+- Improved performance for longer runs and larger maps. 
+
+MINOR
+- Updated some music tracks.
+- Catgoblins will flee the dome when it gets destroyed.
+- The Orchard Buff now also depletes while a wave is active in multiplayer. 
+- Various text adjustments.
+- Damage from Electrified Hull now is tracked in the run statistics.
+
+BUGFIXES
+- Fixed keeper selection to not be stored between game starts.
+- Fixed Underground Station revealing always Team1 resources in multiplayer.
+- Fixed resources mined by Assessors Exploding Spheres and Drillbert not tracked as mined resources in the run statistics, which was especially relevant for Prestige Miner Mode.
+- Fixed catgoblins revealing tiles that should remain hidden.
+- Fixed the interaction with the Sidedrillers when multiple players tried to interact with it at once. 
+- Fixed drones flying on the worlds surface in Versus mode. 
+- Fixed gadget and supplement dropping when using the One Way Teleporter with the Infiltrator.
+- Fixed Orchard Canopy and Shields to properly sync in loaded multiplayer savegames. 
+- Fixed the Beastmaster dropping resources in multiplayer unintentional. 
+- Fixed several interaction cases between Lift and Infitrators Kunai Carrier. 
+- Fixed Auto Repair in the 'Brutal Monsters' assignment. 
+- Fixed the timer showing false values for the Client when loading a multiplayer savegame of some Assignments like 'Iron Contribution' and  'Logistical Nightmare'.
+- Fixed Infiltrator's Rope Camera.
+- Fixed the Resource Packer upgrades not scaling as intended.
+- Fixed synchronization issues with Drillbert and other gadgets.
+- Fixed issues with continue multiplayer savegame when a peer changed the keeper selection."
+autowrap_mode = 3
+
+[node name="HSeparator38" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label173" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v5.0.4 Patch for The Lost Keepers"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label174" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "MAJOR
+- Allow clients to share their unlocked elements with the host for a combined loadout.
+- fixed balance of relic hunt and assignments. There was a bug that made the monster waves too easy in these modes. Thank you ericpenn for reporting! We rebalanced the new assignments for that, as we balanced them to the accidentally easier balance.
+- fixed prestige runs getting false marked as cheated when the 'Send Cobalt' upgrade was used. 
+- fixed one skin of beastmaster not unlockering properly when buying all normal catgoblins
+- tiny bird will now be unlockable in any normal run that has nests (containing an egg)
+
+MINOR
+- instead of the orchard buff lasting super long with multiple players in a team, the fruit grows much faster instead
+- interaction between infiltrator rope and side drill removed
+- beastmaster tentacle wobble improvements
+- Don't stop Steam users from hosting Steam or LAN games just because their Playfab connection failed. Gracefully disable crossplay on host in such scenarios. Also removed crossplay checkbox from join for Steam users as it adds friction with no benefit.
+- Infiltator's Rope Camera will now follow the keeper once it's finished pulling, preventing the keeper to get off screen.
+- Enabled punisher waves in Survival of the Fittest
+
+BUGFIXES
+- fixed infiltrator wall slide when tile below is destroyed
+- fixed most beastmaster and infiltrator music not looping correctly
+- fixed iron tiles in dense iron assignment still being super hard after being dug out by catgoblins or iron worms
+- fixed infiltrator gadget drop direction
+- fixed teleport cancelling for infiltrator and beastmaster
+- fixed gadget slot visualization in gadget selection popup not working
+- fixed icons missing from emergency guild assignment
+- fixed infiltrator carried gadget droping on drone
+- reduced how much the infiltrator throws the teleporter
+- fixed infiltrator sometimes carrying gadgets to inside the dome
+- fixed infiltrator chain inside tesla dome
+- fixed a potential crash when a keeper4 leaves during loadout
+- invisible tentacles on teleport cancel fix
+- fixed probe to take two cellar slots in multiplayer if selected twice
+- fixed damage dealt and damage received not properly displayed when finishing a saved game
+- fixed transport drones to continue collecting resources when game is over
+- fixed custom supplement order from prestige getting transferred into other game modes
+- fixed visual bug with orchard fruit not showing the correct remaining buff duration
+- fixed orchard fruit not depleting with mining when loading a saved game
+- fixed ending music suddenly stopping
+- fixed cobalt cave replenishing with loading a saved game 
+- fixed spawning redundand keepers when client continues
+- fixed some slider labels in the options to not properly update
+- fixed first iron tile in multiplayer not granting the intended iron amount
+- fixed keeper getting stuck in multiplayer when loading probe while other player picks probe supplement
+- fixed random gadgets getting spawned with save games
+- fixed portal caves sometimes not adding drops to the inventory"
+autowrap_mode = 3
+
+[node name="HSeparator35" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label177" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v5.0.3 Patch for The Lost Keepers"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label178" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "BALANCE
+- infiltrator orchard + mushroom combo nerfed
+- time based assignments down to 15% less time per player instead of 20% (multiplicative)
+- acid rain dow to 25% extra damage per player instead of 30% (multiplicative)
+
+THE LOST KEEPERS
+- correct Beastmaster 'Mining problem' challenge techtree
+- catgobling loadout error on keeper switch fix
+- infiltrator relic delivery visuals fix
+- catgoblins now collect resources from the converter
+- kunai carrier are not destroyed anymore when the resource they are attached to on another kunai carrier gets released
+- replaced three songs in the beastmaser OST. We are still improving that one a bit :)
+
+CONTROLS
+- twin stick now optional again for Infiltrator
+- focus on reroll option in gadget choice will not switch when rerolling
+- always show keybindings for all keepers, as you can also play them without owning the DLC
+
+BUGS
+- fixed assignment limitations sometimes affecting relic hunt runs 
+- fixed rare null pointer on local player disconnection
+- fixed 'gamertag' issue on rejoin
+- fixed burrowers spawned for team 2 not respecting minDistanceToDome for when they should burrow
+- fixed versus iron delivery costs on iron inflation
+- fixed permanently locking PowerCoreChamber when goblin carries water near it
+- goblins now render behind everything properly while in cellar
+- fixed shuriken cooldown happening when paused
+- increased the size of the mine in loadout to accomodate the new assignments and xbox icons in the assignment leaderboard
+- fixed infiltrator triggering supplement on enter mobile station
+- fixed infiltrator interaction with side drill after kunai carrier thrown
+- fixed beastmaster tentacle stretch on telepor
+- fixed kunai carrier auto throw when inside battle station
+
+OTHER
+- updated localization and credits
+- updated loc credits"
+autowrap_mode = 3
+
+[node name="HSeparator37" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label175" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v5.0.2 Patch for The Lost Keepers"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label176" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "BALANCE
+- removed additional hardness of tiles scaling with the amount of players
+- slightly reduced the monster modifiers on upside down assignment challenge mode
+
+THE LOST KEEPERS
+- catgoblins will now take resources out of kunai carriers
+- fixed catgoblins crashing the game in the loadout screen if summoned
+- fixed catgoblins grabbing resources at an invalid distance
+- fixed kunai carrier eventually slowing and stopping when using rocket carrier supplement
+
+CONTROLS
+- fixed some inputs only working on the first gamepad
+- fix infiltrator stuck in loadout start area if first entering a multiplayer game
+- fix infiltrator multiple gamepad trigger jumps
+- fixed beastmaster dropping carryables when using speed boost from mushroom farm, and separate impulse values for the type of drop held to pull stronger for slower carryables
+
+BUGS
+- fix running regular assignments overriding challenge assignment progress.
+- fix terrible GPU artifacts (random textures / sprite sheets) on some integrated graphics.
+- fix eggs being shredded when carried to the dome by Infiltrator (what an evil bug!)
+- kunai + sidedriller save file corruption fix
+- do not allow to remove all split-screen players
+- fix MineralTrees assignment for multiplayer
+- fixed infiltrator entering tiles during rope retraction
+- properly position orchard Vine Canopy on both teams.
+- don't show drop player button when there is only one player on a team
+- fixed crash when picking up seed after destroying its targetedTile"
+autowrap_mode = 3
+
+[node name="HSeparator36" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label169" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v5.0.1 Patch for The Lost Keepers"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label171" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "MULTIPLAYER
+- After joining a multiplayer session, the correct loadout will be loaded when going back to singleplayer.
+- Fixed that a temporary buff became permanent when rejoining a multiplayer session.
+- Fixed players spawning in the wrong dome in Versus.
+- Fix goblins spawning Beastmaster players that aren't present when a save is continued.
+- Fix client side kunai resource shredding sometimes leaving a phantom resource.
+- Fix other players not seeing your drill animation on your last hit of the tile as keeper1 - which is of course worse when you can one hit the tile.
+- New icon for the additional dome station upgrade.
+- New icons for the versus upgrades.
+- Made sabtoage upgrades less devastating, buffed speed corruptions slightly.
+
+BEASTMASTER
+- Improved catgoblin pathfinding. They should now be smarter when selecting which hole to enter the mine with. 
+- Catgoblins now have much less impact on performance.
+- Added more soundtracks for the Beastmaster.
+- Improved the mining sounds for the Beastmaster.
+- Fixed problems when carrying gadgets and relics, dropping them easily.
+- Changed the drill buff to be the intended faster speedup and improved it to shift to extra damage once a high speed is reached.
+
+INFILTRATOR
+- Fixed the Input for the Infiltrator, so that it now also is able to throw kunais even if you hold the throw action beforeaiming.
+- Fixed jump triggering twice on right trigger use.
+- Mouse and twin-stick controls are now always on. This is the intended way to play but it was possible to have a configuration in the options with which this keeper was essentially broken.
+- The Infiltrator will not pick up bundled resources that are still flying nicely.
+- Fixed interaction with the sidedriller so that it properly locks into a single row.
+- Improved the Infiltator sounds for multiplayer.
+- Fixed Infiltrator falling through the ground or being stuck in the dome wall in certain versus mode configurations.
+- Updated all mixes of the music into the final quality. 
+
+OTHER
+- Fixed the Iron Worms to properly attach to iron tiles from all directions.
+- Removed the global input settings. Input settings are now individual for each keeper. This was optional before, but allowed too much bad configurations and the defaults were not good anyway.
+- Updated the engine build on windows to prevent certain crashes during Steam instability or when exiting the game.
+- Fixed a destruction race condition that resulted in a crash on exit.
+- Fixed the autonomous weapon received from guild rewards and run modifier and also included the Buzzsaw to be affected.
+- Hide buff visuals when inside the dome.
+- Improved Engineer carry lines for the Tesla Dome.
+- Reduced shake duration on dome landing
+- The tutorial videos for the Infiltrator are now in correct order
+- Updated localization
+- Fixed vignette, especially for the darkness assignment.
+- Your camera will not shake anymore if another keeper is mining close to you."
+autowrap_mode = 3
+
+[node name="HSeparator34" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label165" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v5.0.0 The Lost Keepers"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label166" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "***NEW CONTENT***
+MULTIPLAYER
+- multiplayer is finally here! You can now play Dome Keeper with or against your friends, regardless the platform thanks to crossplay. 
+- multiplayer is available for all game modes. The difficulty dynamically scales with player count.
+- new game mode: Versus. Two teams compete against each other in a shared mine. Outperform the other team across two distinct win conditions.
+
+GUILD REWARDS
+- added two new guild rewards for everyone to unlock
+- Automated Weapons: secondary weapons are now controlled automatically
+- Additional Reroll Offers: increases the number of free rerolls available per run 
+
+OTHER
+- added individual keeper input settings. You can now configure controls separately for each keeper, allowing better adaptation to different playstyles 
+- reworked free reroll system. Instead of one free reroll per gadget or supplement, each player now has a pool of free rerolls per run. The limit can be increased via guild rewards. 
+- unfortunately we had to disable modding for now. We are working on it and will reintroduce it as soon as possible.
+- added Euskara (Basque) language support, thanks to the valiant efforts of katukinabarra
+"
+autowrap_mode = 3
+
+[node name="Label168" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "*** THE LOST KEEPERS CONTENT ***
+KEEPERS
+- added new keeper: Infiltrator. A nimble keeper moving swiftly using a rope and agile jumps, while attacking with precise and powerful kunai. Offers high mobility and strong mining capabilities. 
+- added new keeper: Beastmaster. An arcane keeper traversing the mines using tentacles, commanding catgoblin minions to assist with mining and resource handling. Introduces a more indirect and strategic playstyle.
+- each keeper comes with its own complete OST
+
+ASSIGNMENTS 
+- added 9 new guild assignments with unique challenges and rules: 
+- Minor Vision: The planet is engulfed in darkness, heavily limiting visibility. 
+- Acid Rain: Constant acidic rain damages the dome over time. 
+- Tree Farm: Very few natural resources, but resource tree seeds can be found and cultivated. 
+- Survival of the Fittest: Only the largest and strongest monsters appear. 
+- Brutal Monsters: Monster attacks deal significantly increased damage to the dome. 
+- Hazardous Iron: Iron damages the dome when processed, requiring careful resource management. 
+- Broken Comms: Enemy waves can no longer be tracked via the proximity meter. 
+- Emergency: The guild requires timed resource contributions during the run. 
+- Logistical Nightmare: Abundant water supply shifts the focus heavily onto logistics and transport. 
+
+OTHER
+- added 5 new unlockable pets to live in your dome
+- added new skins to unlock for both existing and new keepers "
+autowrap_mode = 3
+
+[node name="Label167" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "MINOR CHANGES
+- reduced upgrade costs for the Furnace
+- improved visuals for the Tesla Dome and Artillery Dome
+- Teslashot is now less restrictive about when it can fire
+- improved lighting for better performance
+- fixed the repellent ability duration indicator not disappearing after a battle ended
+- fixed some upgrades not showing correctly in prestige mode
+- improved visuals for buffed keepers
+- fixed several entities, including Drillbert, not properly respecting pause
+- fixed the vignette still showing after finishing a run
+- fixed several crashes
+- raised limits in cheat detection for prestige"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator33" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label127" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v4.2.2 Patch for A Keeper's Duty"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label128" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "CHANGES
+- implemented rolling save files. If your save file gets corrupted while writing, this means the game will fall back to the previous save and avoid losing the complete progress
+- improvements and fixes to modloader
+- fixed several bugs around side driller resource transportation"
+autowrap_mode = 3
+
+[node name="Label133" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "MINOR CHANGES
+- made loadout more resilient to remnant data from uninstalled mods
+- fixed iron worms misbehaving in some cases when handled by assessor
+- fixed lunar new year cave capturing mouse inputs, preventing keeper controls
+- fixed badly formatted separators in hint popup and added hint about exiting battle mode to loadout only
+- fixed probe supplement carrying over into next run
+- fixed condenser visuals on reload
+- fixed shredder stopped shredding after reloading run
+- stag projectiles won't have particles now, if running with option \"reduced particles\". This means much better performance on some Mac Systems when the Stag shows up."
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator27" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label162" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v4.2.1 Patch for A Keeper's Duty"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label163" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "CHANGES
+- added graphics option \"reduced particles\". This will massively improve performance for some systems that cannot run particles on the GPU, like older Mac's. This can also positively affect low end devices. Reduced particles affects mining, Assessor bundles and some monsters.
+- fixed many broken fonts, especially with diacritics. They displayed incorrectly, mixing characters from two different fonts.
+- many improvements and fixes for the modloader
+- fixed maze map not being generated correctly and probably a lot of maps being wrong to some degree
+- shredder won't slow down on last drops of large delivery
+- probe now recharges individual charges with supplement
+- added proper HUD element to repellent, now that its progress is not shown in wave timer anymore
+- fixed dome ambience not actually playing
+- added a lot of rain to world 7 and improved weather system by removing strange breaks between the same type of weather"
+autowrap_mode = 3
+
+[node name="Label164" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "MINOR CHANGES
+- reduced performance impact of some audio effects
+- fixed straight walls on Mac
+- extractor less likely to push out resources if extracting quickly
+- fixed dome collision settings that were allowing some drops to leave the demo, especially on tesla dome
+- fixed error with sword fins on loading
+- fixed several cases of resources staying asleep although the should fall down. Sleeping resources are a performance optimization and means they are not participating in physics
+- avoid stuck input when switching form gamepad to keyboard
+- slight loc improvement
+- fixed keeper becoming invisible when sitting in station while wave is starting
+- fixed seasonal chambers being generated in loadout mine
+- added workaround for steam verification issue
+- fixed loc changing twice when language is selected
+- fixed world ambience playing in mine in loadout, if never entering dome
+- droneyard now applies overcharge during battle to battle grid
+- added missing condenser sprite
+- fixed keepers not dropping drops when being removed, sometimes leading to strange situations in loadout
+- fixed orchard root explosion reporting huge damage numbers"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator32" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label159" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v4.2.0 Update for A Keeper's Duty"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label160" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "CHANGES
+- game is now not exported in DEBUG mode
+- fixed and improved many things with modding and the ModLoader
+- improved performance significantly for the light and the relic cables"
+autowrap_mode = 3
+
+[node name="Label161" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "MINOR CHANGES
+- squidley now gathers resources that are closest to the dome (transport drones always did so)
+- rocketlauncher now will restock, if getting the restock supplement during combat
+- updated loc, improved some assignment descriptions
+- fixed issue when changing locale inside loadout
+- fixed cellar gadgets overlapping after reload if stationless probe was used
+- fixed assignment map being identical if restarted after losing run
+- fixed condenser water colors for double storage
+- fixed spire supplement making its upgrade tree messy
+- shield invulnerability upon depletion does not trigger again if shield is overcharded during battle
+- added shorten cycles upgrade to provocation mode
+- cleaned leaderboards, updated bans
+- fixed wrong collision layer in assessor sphere explosion
+- improved moddability by replacing some uses of preload with load"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator31" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label156" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v4.1.0 Update for A Keeper's Duty"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label157" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "ADDITIONS, IMPROVEMENTS, CHANGES
+- a ton of bugfixes
+- improved modding and made it compatible with v4 :)
+- added restart button to pause menu
+- Anti Stall should work properly now
+- drones don't bug out when resources are unreachable
+- added overcharge tutorial
+- improved visual clarity of tesla reticle
+- massively improved performance. Also added option to render game at half resolution, which looks very similar but should run much faster.
+- brightness setting now works again
+- fixed cases of extractor and converter pushing resources out of the map
+- shredder now shreds faster when there are a lot of resources"
+autowrap_mode = 3
+
+[node name="Label158" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "BALANCE
+- Enigneer: changed Power Drill a bit. Slightly lower speedup than before, and the hardness mechanics is changed.
+- Assessor: Split has lower cooldown again. Spheres also get a global speed buff with the supplement.
+- One way Teleporter: cooldown from 20s -> 5s. It now can also teleport items, gadgets and supplements.
+- Laser: DPS increase, last stage 180 -> 210
+- Tesla: changed base damage being higher early and lower late, last stage 180 -> 155. Slightly reduced quick shot strength and orb stun strength.
+- Artillery: increased stun size of deafening blast a bit
+- Repellent: Growth time 1.5 cycles initially, going to 0.9 with upgrades.
+- Orchard: Growth time going to 0.9 cycles with upgrades. Increased buff strength and duration.
+- Droneyard: Slightly slower drones initially and slightly higher upgrade cost. Slightly fewer battle drones overall.
+- Furnace: increased wave delay, decreased how long resources last in burning.
+- Spire: added supplement that slows down monster projectiles globally by 40%
+- Chainsaw: increased damage, last stage 65 -> 80. Also fixed speed upgrade not doing anything.
+- Drillbert: buffed drill strength. Drillbert won't get scared anymore during battles, if you have the supplement.
+- Mushroom: Added upgrade to automatically consume mushrooms on flyby. Added upgrade to make mushrooms grow quicker in the dome.
+- Resource Packer: 5s longer recharge by default. Upgrades now also make the packs shrink more. Added supplement that brings cooldown to 1.5s
+- Shockwave: More expensive, slightly less damage and stun strength. Supplement cooldown addition 5s -> 8s and +1 stun strength
+- Lift: now also speeds up the keeper when going downward inside it
+- Missiles: Damage increased, last stage 200 -> 250
+- Gadget Chambers in prestige don't go quite as deep
+- Mineral Tree grows much faster"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator30" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label153" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v4.0.4 Patch for A Keeper's Duty"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label154" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "BALANCE & IMPROVEMENTS
+- added frames around icons for damage dealt statistic
+- now differentiating between tesla quick shot, orbs and normal damage in damage dealt statistic
+- anti stall is now disabled for defective weapon assignment
+- added auto cannon to list of damage dealt entries
+- auto cannon will only lead shots where appropriate and better deal with ticks"
+autowrap_mode = 3
+
+[node name="Label155" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "BUG FIXES
+- fixed mining summary popup being behind run finished popup
+- fixed tech tree popup overlaying HUD with health bar
+- fixed potential crash when having no pet selected in loadout
+- fixed battle zooming in when anti stall was triggered, even though there were still monsters around
+- fixed probe restoring charges on reloading"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator29" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label150" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v4.0.3 Patch for A Keeper's Duty"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label151" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "BALANCE & IMPROVEMENTS
+- challenge assignments are back to \"brutal\" difficulty from \"YAFI\". The impact was too high. Feedback appreciated!
+- lowered assignment difficulty on some assignments
+- lowered final wave strength for most assignments
+- fonts should generally not be blurry anymore
+- changed anti stall mechanic. Instead of restarting the wave, the countdown to the next one will begin.
+- battle grid drones will now spawn even if bought during battle
+- drones can now pick up resources from converter and are a bit hardened against drops that are at invalid positions"
+autowrap_mode = 3
+
+[node name="Label152" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "BUG FIXES
+- fixed shopping bag achievement not triggering
+- fixed repellents toxic fumes not dealing damage any more
+- fixed converter achievement not triggering when automated conversion is used
+. fixed primary weapon tech tree being available even when no primary weapon is installed in the dome
+- actually fixed converter not behaving well with 0.5 iron input
+- wave meter now properly initialises if there is a wave delay ongoing"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator28" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label147" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v4.0.2 Patch for A Keeper's Duty"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label148" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "BALANCE & IMPROVEMENTS
+- fixed many nodes not being cleaned up properly, which could lead to really bad performance over time
+- chosen difficulty is now remembered per assignment
+- converter now spits out resources more slowly, gives them an impulse and makes them float so they don't drop down into the mine
+- dome resurrection will now trigger before auto repair
+- invulnerability from dome resurrection now shows proper effect
+- improved minimap colors for resources in remote station
+- made resource teleportation via teleporter quicker
+- added resource teleportation cooldown to upgrade stats
+- made hornet pause a less long mid air, when flying towards the dome
+- improved layout of upgrade icons and numbers in damage dealt statistic
+- removed bolter from projectile hell, removed breeder from heavy hitter assignment"
+autowrap_mode = 3
+
+[node name="Label149" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "BUG FIXES
+- fixed chainsaw going missing on reload
+- fixed tesla orbs accidentally doing way too much damage
+- fixed breeder immensely lowering the difficulty of a wave by limiting how many monsters can spawn
+- fixed egg not hatching if it was not visible on screen for long enough
+- fixed modloader exception when disable_all_mods is called when transitioning to godot4
+- iron worms now account for shortened cycles in prestige
+- fixed options always showing game options instead of last shown category
+- fixed bug in cave tree seed when destroying tile it was rooting
+- fixed issue when picking up cave bomb as assessor
+- fixed resource teleportation not working for assessor bundles
+- fixed battle drone release sound playing on master bus, ignoring all sound settings
+- fixed iron worms bugging out when the tile they are attaching to is destroyed
+- fixed damage statistics not being scrollable with controller
+- fixed water from water cave not spawning at the right position
+- fixed water cave having graphical error when moving far to the sides
+- fixed crash in loadout when fighting monsters
+- fixed bug with saving probe markers
+- fixed side driller behaviour when in combat and when paused
+- fixed hornet stabbing the dome from a distance if it was stunned on the last leg of its flight
+- improved hitbox of phaser to play nicer with laser dome
+- iron worm cage won't attach to tiles if it is carried
+- improved shield position on arty dome
+- fixed relic hunt run without monsters not ending properly on relic retrieval"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator20" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label144" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v4.0.1 Patch for A Keeper's Duty"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label145" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "BALANCE & IMPROVEMENTS
+- made final wave harder again
+- rebalanced how fast monsters can spawn after each other during one wave and made it faster for high difficulties
+- battle drones now show up as damage source
+- improved stall detection
+- cascading impact will now only affect rock tiles, no resources
+- increased iron worm cost slightly, removed prolonged production time for meticulous worms
+- assessor bundles try to stay together a bit more when flying on their own
+- fixed cave seed not growing into a small tree if not visible on screen
+- water and iron cave now do not produce when game is paused. Water has up to 3 water now.
+- multiplayerloadout will auto persist meta state on changes
+- Intensive treatment upgrade of converter is now much faster
+- chosen assignment is now displayed in tech tree
+- tesla orbs stats are a fixed value instead of being a percentage of shot damage now
+- if multiple monsters are inside a tesla orb, damage is spread across all monsters but stun applies fully
+- made loadout part of the loadout mine a bit nicer
+- delivery assignments do not have repeatable upgrades now, but one big  upgrade
+- made drone speed upgrades a bit more expensive and quick drones have fewer shots
+- shockwave hammer supplement damage is now a modifier on the base damage, to avoid having a tiny hammer supplemented with great damage and low cooldown
+- halved how fast squidley would gain speed
+- small performance increase
+- improved many sounds
+- added missing icons, fixed some icon sizes, improved some icons
+- increased battle drone range
+- less health for bloater
+- added pause as an option to keybindings
+- assessor doesn't ignore the increased tile health in the dense iron assignment any more"
+autowrap_mode = 3
+
+[node name="Label146" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "BUG FIXES
+- fixed central marker not visible for assessor if bought via upgrade
+- fixed crash that could happen when using resource packe
+- larger mine area in mode config to compensate languages with long texts
+- fixed telemetry popup not having focus on a button
+- fixed exploit with manually mining tiles that are currently being mined by iron worms
+- fixed scrap repair not being purchasable
+- fixed accidentally offering to shred to 3 cobalt instead of 2, if three gadgets were offered
+- fixed iron worms not showing up correctly in timelapse
+- fixed intro music restarting when switching scenes while looping part plays
+- fixed generation of split spheres not set correctly for one of the children, resulting in cascading impact working accidentally on child spheres
+- removed old rotational mining code that was causing 4 fixed pixels on the assessor
+- fixed conversion with 0.5 iron not working correctly (should consume one iron)
+- name for fixed cobalt mode is back
+- hardened loadout against non-existant keeper skins, so it won't crash if an old skin from a mod is persisted
+- fixed shopping bag achievement triggering when using remote station
+- fixed minimap rendering resource drops wrongly
+- fixed local not switching completely when changing language in loadout stage
+- fixed cheat detection limits not fitting provocation
+- fixed unbreakable rock in loadout
+- added missing patch notes for v4.0
+- fixed bloater not actually shrinking faster if no monsters were around
+- fixed resource teleportation being audible in the whole world
+- fixed artillery station visual error on exitting station
+- packed drop will now also properly shred and shrink
+- fixed wrong message in assignments about possibly getting another badge if beating challenge mode without having played regular mode"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator26" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label142" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v4.0 A Keeper's Duty"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label143" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "*** NEW CONTENT ***
+GAME MODES
+- added Assignment game mode with 16 assignments. They come with special rules and are meant as a challenge to figure out a good strategy utilizing all the content. They also come with a challenge mode, if you really want to prove your skills. Completing assignments ears you badges from the Keeper's Guild.
+- added Keeper's Guild reward shop, where you can spend earned badges on permanent benefits. Currently there are 12 rewards to unlock. Rewards are active across all game modes, not only in the new Assignment mode.
+- added Keeper's Guild Badge rank, where you can see how mandy badges you and your friends earned
+- replaced \"Fixed Cobalt\" prestige variant with \"Provocation\". Fixed Cobalt was barely played by anyone and the same strategy as used with endless mode was ideal there. This made the mode somewhat redundant. Instead, we added a variant where you can increase how strong the monster waves are in return for more points. That should be fun!
+- implemented completely new loadout. This was necessary as the old loadout was not suited to support the new content plans, but more importantly it would not work with multiplayer. For multiplayer we needed something that supports multiple players making choices together. We can't reasonably support two different loadouts, so we opted for this one. Some things in it are better than before, but for controller or keyboard only it is probably a bit slower than the old loadout. Let us know if you encounter things that are irritating, feel unpolished or badly usable. It definitely can use some more improvements adn we closely listen to your feedback here. It will definitely stay, because we need it for multiplayer.
+
+SUPPLEMENTS
+- you might know supplements as these strong upgrades that you can get for your dome, that introduce new upgrades into the tree. We added a ton of them for this update. They can be found in supplement chambers after you unlock supplements with your guild badges. Generally they offer very strong upgrades. This is possible because they cannot be bought freely, but have to be weighed against each other.
+- added 3 keeper supplements, one for each keeper and a shared one. The shared one is the one way teleporter from the cave. That cave was removed. It is much more interesting to have as a keeper supplement, especially since it is such a strong ability.
+- added 4 weapon supplements, one for each weapon. Some are already existing upgrades retrofitted into supplements, but some are new ones.
+- added 20 gadget supplements. Same as with weapons, some already existed. For each gadget we did what made the gadget as a whole more interesting. For example, the teleporter has its resource teleportation as a supplement now. This also means that it can be much stronger, teleporting resources much faster.
+
+GADGETS
+- added a total of 11 new gadgets. For reference, so far the game only had 11 gadgets! They are in no particular order: Remote Station, Drilling Rig, Furnace, Iron Worms, Mushroom Farm, Resource Packer, Suitblaster, Buzzsaw, Dome Armor, Shockwave, Rocket Launcer. They occupy different slots and help in different areas. They also finally do away with some gadget slots only having one option, like lift or spire, meaning there was no interesting decision to be had there.
+- added a new primary gadget, the Drone Yard. It employs transport drones that help you bring back resources to the dome. For combat, it can use battle drones that fire projectiles at monsters, or parasitic drones that weaken monsters a lot.
+- rework of all existing gadgets. For some gadgets the changes are tiny, for some gadgets the changes are very big. Blast Mining is much stronger and more useful now, with new upgrades and a rework of some existing upgrades. Same for probe, just as two examples.
+
+OTHER
+- added five new monsters, posing new challenges and extending the late game difficulty
+- added a sixth world into the rotation for relic hunt and assignments. Worlds are a visual change, for variety only.
+- added 3 new caves: Iron Tree Cave, Water Cave, Portal Cave.
+- completely new map generation, more on that below
+- we ported the game to a new engine version, in preparation of multiplayer and console ports. This comes with many benefits but also with some issues. The following things are related to this:
+- support for right-to-left languages now, i.e. arabic
+- keybinding should be sensical for non QWERTY keyboard now by default
+- performance on some machines will be better, but will also be worse on others. We'll try our best to optimize when we learn there are issues, and find solutions to improve performance together.
+- font colors are now using palette colors
+
+*** BALANCE AND CHANGES ***
+GAME MODES AND RUNS
+- started season 6 of prestige
+- changed difficulty curve of prestige, so that the games would not go quite as long and to compensate the new battle abilities
+- Prestige Countdown will now end after 20 cycles always. This removes the last bit of the run that meant gaining very few points for a lot of effort.
+- added timelapse feature to the game, where you can view your run as a minimap over time
+- added detailed statistics that show you how many monsters per type you killed and what dealt damage and how much. We'll try to improve the differentiation of the damage sources a bit, right now it is a rough lense to look through.
+- changed how long cycles are. They start out about 10s longer initially and will generally be longer early, but shorter in very late stages of the game.
+- most gadgets keep working during combat now, so no lift stopping a cobalt delivery anymore. This is a big change, because suddenly it would be benefitial to stall waves, or to keep sitting in the station after a battle. Because of this, the countdown to the next wave will start even if you keep sitting in the station.
+- if a battle takes too long at too low battle intensity, new monsters will spawn. This is to prevent stalling slightly, but it also makes sense in the world. 500 other monsters would not delay their attack only because there is a single flyer still fighting the dome.
+- cobalt upgrade in prestige countdown now starts at a cost of 2 cobalt
+- raised cheat detection values to absurd values. No more false positives because you are an insanely good player.
+
+MAP GENERATION
+- maps will have much more interesting shapes now, instead of being always a similar blob 
+- biome sizes are balanced in size now, so that maps that are thin at the top do not have a huge disadvantage
+- map sizes for prestige are balanced now. Before, the number of tiles in a map could vary a lot. Now the algorithm tries to bring it close to a given size, making it more consistent.
+- totally new layout for maze maps that is crazy!
+- the maps now have natural caves inside them, basically holes inside the rock
+- the new map generation might take significantly longer than before. Let us know if it is a problem!
+- rebalanced resource generation a bit
+
+DOMES AND WEAPONS
+- all upgrade costs have been reconsidered. Generally, late game upgrades will need a bit more iron.
+- Sword Dome: 1000 hp -> 1200 hp
+- Dome Supplement: Melee Damage Reduction 20% -> 25%
+- Dome Supplement: Projectile Damage Reduction 20% -> 25%
+- Dome Supplement: Electrified Surface 8 dps -> 10 dps, 20 dps -> 24 dps
+- Dome Supplement: Thorough Combat Repair 300 hp -> 360 hp healed
+- Dome Supplement: Dome Resurrection - instead of adding more hp to the maximum hp of the dome, it makes the dome invulnerable for 20s when triggered, or 30s after upgrading.
+- Dome Supplement: Scrap Repair: 100 hp -> 75hp health reduction
+- Laser: buffed laser damage and made it slightly slower
+- Laser: added another stage to laser damage upgrades. Before maximum laser damage was 90 dps, now it is 180 dps.
+- Laser: double laser is now a weapon supplement 
+- Sword: bomb stab is now a weapon supplement. This means you can also combine javelin with bomb stab. 
+- Sword: added another upgrade to long stab. In its subtree, it now also gets the ability to speed up on button press. It also can stab for much much longer, as it never retracts automatically after dealing some damage.
+- Artillery: rotation speed 0.9 -> 1.0
+- Artillery Monster Buster: buffed mortar damage and reduced time to reload
+- Artillery Volatile Explosives: reduced time to reload
+- Artillery: switched both rotation upgrades, so you can get the fast rotation earlier
+- Artillery: added Deafening Blast supplement, which stuns all close monsters whenever you fire the mortar
+- Tesla: removed perfect timing. This is now its weapon supplement.
+- Tesla: buffed damage significantly from 30 -> 40, 45 -> 70, 60 -> 110, 80 -> 180. This is only possible due to removing perfect timing from the regular tree.
+
+KEEPERS
+- Engineer: Added power drill supplement, making drilling faster and enabling drilling through previously indestructible bedrock.
+- Buffed Engineer drill strength: 6 -> 7, 14 -> 18, 34 -> 42, 62 -> 98, 240% -> 300%.
+- Assessor: Added sphere supplement that destroys neighboring tile for every tile a sphere destroys.
+- Slight increase in late stage iron cost for both keepers, slightly more increase for assessor
+- Buffed Assessor repetable sphere damage: 240% -> 250%
+- slightly buffed Assessor bundle duration: 25s -> 30s, 40s -> 45s
+- rebalanced assessor battle abilities. Reflection is a bit better, the other two slightly longer cooldown with split spheres lasting longer.
+- added one way teleporter as keeper supplement
+
+PRIMARY GADGETS
+- Upgrade costs are all rebalanced. Battle abilities now each cost one cobalt instead of water.
+- Changed overcharge mechanic: it now only affects battle abilities. The effect it had before was too convoluted and difficult to understand and predict, with too many special cases. All upgrades for overcharge have changed.
+- Shield Electro Blast: the time bonus for using it after the shield depleted is a bit lower, but now you get a second use for it in one battle. Big buff!
+- Orchard: you can get another use of a battle ability if you overcharge
+- Orchard: Root explosion does less damage now, always 100 damage
+- Orchard: the buff starts slightly weaker, but the upgrades improving it make it much stronger than before
+- Added Drone Yard
+
+GADGETS
+- Reworked gadget slots a bit. The keeper suit is now a proper slot for gadgets, and only one gadget can go into it. This means you cannot have the probe and the prospection meter at the same time, for example.
+- Upgrade costs are all rebalanced, with late stage upgrades costing more iron.
+- Added Remote Station and supplement
+- Added Drilling Rig and supplement
+- Added Furnace and supplement
+- Added Iron Worms and supplement
+- Added Mushroom Farm and supplement
+- Added Resource Packer
+- Added Suitblaster and supplement
+- Added Buzzsaw and supplement
+- Added Dome Armor and supplement
+- Added Shockwave and supplement
+- Added Rocket Launcer and supplement
+- Stun Laser: Reduced cooldown a lot and fire time a bit
+- Stun Laser: stun strength 5.5 -> 6.0
+- Stun Laser: area stun is now a supplement
+- Auto Cannon: time between shots 2.5s -> 2.0s
+- Auto Cannon: Machine Gun time between shots 2.0s -> 1.5s, 1.2s -> 1.0s, 0.75s -> 0.5s, 0.45s -> 0.25s 
+- Auto Cannon: Shotgun time between shots 3.0s -> 2.5s, 4.0s -> 3.3s
+- Auto Cannon: added supplement that nearly doubles the rate of fire 
+- Blast Mining: slightly increased radius and decreased production time
+- Blast Mining: added third stage of explosion radius upgrade
+- Blast Mining: added supplement that grants you three mines instead of one in each production cycle. There was an upgrade like this before, but it would grant you three small mines. Now you can get three big mines, so a big buff :)
+- Blast Mining: impact detonation now moves the center of the explosion into the direction of the impact. This makes blast mining way more useful. 
+- Blast Mining: improved behaviour when impact detonation is triggerd. There were many strange cases before, like it not exploding when it would fall on resources.
+- Probe: reworked the whole tech tree and added a path that immediately completely reveals the rock, instead of placing markers
+- Probe: added supplement that makes the probe recharge automatically and removes the station from the cellar, freeing that slot
+- Teleporter: added two small upgrades
+- Teleporter: made resource teleportation a supplement and buffed it.
+- Lift: starts out with more orbs that go faster
+- Lift: buffed orb speed and capacity upgrades, as well as keeper speed upgrade
+- Lift: added supplement that removes the orbs and lets all resources float upwards automatically
+- Condenser: Auto overcharge primary gadget is now a supplement
+- Prospection Meter: added supplement that reveals chambers and has much higher range
+- Drillbert: buffed drill strength
+- Drillbert: added a supplement that adds two more drillberts
+- Converter: rebalanced all conversions
+- Converter: iron duplication is now a supplement
+- Converter: added an upgrad with which you can queue conversions, so that conversion that do not take long do not suffer from you being at the dome rarely.
+- Converter: added two different upgrades on how to improve water conversion
+- Squidley, the resource tansporting squid from a cave, now gets faster the more resources it brought back to the dome
+- gadgets like the auto cannon now lead their shots, making them much better at hitting moving (flying) targets
+
+MONSTERS
+- added Hornet
+- added Breeder
+- added Phaser
+- added Bloater
+- added Tormentor
+- Driller changes: 800 hp -> 1400 hp, 32 dps -> 40 dps, weight 200 -> 350, minimum run weight 350 -> 850. Because the new monsters fill up some space on the difficulty curve, driller is now a proper late game monster.
+- Bolter: 135 hp -> 150 hp, weight 80 -> 100, minimum run weight 200 -> 250. Effectively becomes slightly more late game.
+- Scarab: 1150 hp -> 1200 hp´, damage 20 -> 25, weight 450 -> 600, minimum run weight 900 -> 1200, fires about twice as many projectiles. Becomes a very late game monster and should keep posing a threat even with all the new combat gadgets. "
+autowrap_mode = 3
+
+[node name="HSeparator25" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label139" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v3.2 Lunar New Year"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label140" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "- added dragon cave with new pet
+- added lanterns to dome during lunar new year. As always, you can disable seasonal content in the options if you don't like it."
+autowrap_mode = 3
+
+[node name="Label141" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- resurrect will now trigger before auto heal
+- assessor reflector can sometimes let spheres through if too close to a wall. This works better now, but can still happen (try to not spawn the sphere within the reflector)."
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator24" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label136" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v3.1.3 Merry Christmouse Hotfix #2"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label137" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "- added mine view to prestige mode
+- fixed long standing bug with external gamepads on steamdeck and with gamepads being detected twice. You need to activate \"automatic detection of preferred gamepad\" then. Up until now, on some controllers the sticks of the other gamepad would still create input events, messing with the directional control. This is now fixed and should work properly.
+- fixed chinese languages having a wrong name in the language selection (referring to the letters instead of the language)
+- fixed slots in caves and supplement chamber that take one resource actually also adding this resource to the inventory"
+autowrap_mode = 3
+
+[node name="Label138" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- fixed artillery moving to the side when exiting while using mouse
+- fixed custom cursor sometimes showing even if turned off
+- fixed auto cannon shooting too low when aiming at worm"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator23" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label129" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v3.1.2 Merry Christmouse Hotfix #1"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label134" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "- fixed d-pad not working for aiming
+- fixed some gamepads not working in menus anymore
+- twin stick is now disabled by default and also set to disabled for every player, as a lot of people had difficulties with it. If you want to play with twin stick, you have to activate it again. Sorry for the invonvenience!"
+autowrap_mode = 3
+
+[node name="Label135" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- fixed the battle popup also showing mouse key hint if mouse was not enabled in battle, but enabled in menus"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator22" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label130" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v3.1 Merry Christmouse"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label131" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "- added support for mouse controls, configurable and re-bindable via Options
+- added twin stick support for gamepad
+- added various christmas parts, including
+	- new unloackable pet and assessor skin (find a gift chamber and win the run to unlock them)
+	- new themed title music
+	- snow weather happening across all maps
+	- drillbert skin
+	(as always you can turn all this off via options by disabling seasonal content)"
+autowrap_mode = 3
+
+[node name="Label132" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- added sounds for pets when you return to dome
+- improved snow weather effect
+- assessor spheres now also play resource-dependent sounds
+- assessor bundle moves twice as fast is using bundle guidance
+- made some parts of the game easier to mod by making dictionaries variables instead of constants"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator21" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label76" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "Patch v3.0.3"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label110" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("11")
+text = "- language select now shows each language name in its own language instead of english
+- we don't want to make political statements of any kind, Dome is supposed to be a simple and fun game. With using flags we automatically make some statement though, so we removed them.
+- added an explanation about exploits and cheats to prestige pro mode
+- cleared list of people barred from competing on the regular leaderboards, as they might have been banned because they used exploits, without us clearly clarifying what was acceptable and what wasn't
+- fixed auto repair not triggering during final wave in relic hunt
+- fixed shield's \"last stand\" not preventing relic bomb from starting"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator2" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label124" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "Patches v3.0.1 + v3.0.2"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label125" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "- tesla: increased base damage of shots
+- tesla: removed the last perfect timing upgrade and moved it back a bit to make room for quickshot 2
+- tesla: added a second quickshot upgrade that increases the damage it deals
+- tesla: slowdown of reticle will now only happen when nearly fully charged
+- artillery: slightly reduced grenade damage
+- artillery: slightly less damage on direct hit when firing multiple shells"
+autowrap_mode = 3
+
+[node name="Label126" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- fixed a very deep layer being indestructible despite looking like normal dirt
+- fixed prospection meter not detecting power core chamber or relic switch chambers
+- made orchard roots explode in short succession after each other instead of all together
+- fixed electro orbs not doing damage while keeper is outside of dome
+- better font for vietnamese
+- fix small visual error of tesla dome in loadout stage
+- no points will be deducted in prestige, even if the multiplier reaches a negative value
+- removed small arc effects from the reticle after auto aim is bought
+- limiting maximum size of tesla dome's electro orbs
+- added custom supplement order for prestige pro mode
+- vignette will show up later the deeper the map is
+- whitelisted two mods for prestige
+- reduced spire's targetting time from 0.5s to 0.2s (reload time is unaffected)"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator19" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label104" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v3.0 Double Dome"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label122" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "NEW CONTENT
+- added artillery dome
+- added tesla dome
+- added custom sprites for all primary gadgets per dome
+- replaced cobalt branches in dome tech trees with a new system, the dome supplements
+- added a new chamber type, the power core chambers. Retrieve the core inside to receive a supplement.
+- added 6 dome supplements
+- added run modifier that lets you get 3 dome supplements instead of only one
+- added \"mine view\", where you can watch the mine you dug out after finishing a run and even show the resources you missed
+- added run modifier that lets you play completely without monsters
+- added classic \"Dome Romantik\" palette (orange, blue, purple)
+- started season 5 of prestige
+
+IMPROVEMENTS
+- improved how orchard shields are spaced across domes, adapting better to different dome shapes and sizes
+- orchard root explosion won't remove other roots anymore
+- improved orchard shield destruction effect
+- prospection meter does not target rooted resources anymore
+- auto cannon and stun laser won't target burrowed monsters anymore
+- teleport won't trigger if you or the moveable portal are still inside the dome
+- improved visuals of the shield battle ability \"electro blast\" 
+- gamepad auto switch option now also works for steam deck, resolving some issues of inputs being unresponsive
+- improved positions where domes are shot at
+- relic switches can now be activated immediately after uncovering, no need to wait for the animation
+- stingray is back to the old animation, does not look squished anymore
+- assessor can now collect again when in cellar
+- changed gadget chamber placement to be less predictable
+- updated localisation
+- improved some sound effects
+- changed run modifier \"double iron\" to simply increase the iron in the underground by 50% and no increase in upgrade cost
+
+BALANCE
+- cycle time: increases slightly slower the larger the dug out mine is
+- orchard: halved how quickly moving uses up the orchard buff
+- orchard: increased initial buff strength and decreased growth time
+- orchard: slightly buffed orchard shield hp (120->130)
+- shield: very slightly decreased max strength (6.6%)
+- scarab: slightly increased health
+- repair: depends slightly less on dome health
+- auto repair: is not a standalone upgrade anymore but instead comes for free with the inventory upgrade
+- engineer: buffed drill strength of the last drill upgrade
+- engineer: slightly buffed the speed upgrades
+- engineer: slightly buffed the second carry strength upgrade
+- assessor: buffed the sphere base damage to be a more viable mining option, especially in the deeper layers
+- assessor: slightly buffed the upgrades for minimum speed when carrying or collecting
+- assessor: slightly decreased effectiveness of contact mining, with the last stage being weaker and rock hardness still having a small impact. It was faster than the engineer in deeper layers, but really spheres should be the main mining tool for the assessor.
+- assessor: slightly changed costs of some upgrades, 2 iron more or less
+
+FIXES
+- fixed stag shooting too much if hit by sword and stunned while walking
+- fixed some resources not getting revealed initially when picking up scanner from cave
+- fixed vignette not showing up for cobalt bomb, if you disable the vignette in the mine
+- fixed all worlds showing up in some cases, irrespective of unlocked ones"
+autowrap_mode = 3
+
+[node name="HSeparator18" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label117" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.6.1 + v2.6.2"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label118" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "- fixed crash if drillbert mode was selected
+- fixed issue where difficulty for prestige was taken from last relic hunt run, unless friendly mode was used
+- fixed \\\"shorten cycles\\\" of Prestige mode also applying to how fast monsters spawn after each other
+- improved mod support
+- added missing translations
+- whitelisted some mods for prestige
+- fixed bug where duplicate upgrades would appear if mods overwrote an upgrade 
+- fixed achievement about digging out the whole map not triggering correctly
+- removed some false positives in the cheat detection for prestige countdown"
+autowrap_mode = 3
+
+[node name="HSeparator17" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label120" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.6 Mod Support"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label121" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "- added mod support via Steam Workshop
+- added \"Friendly Mode\" to Prestige. It is prestige on a lower difficulty, where you can beat your own scores and those of your steam friends
+- improved visuals for relic hunt cables and hopefully solved all missing cable bugs
+- added themed cursor, which can be turned off in the options
+- improved  teleporter animation
+- improved assessor icons"
+autowrap_mode = 3
+
+[node name="Label119" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- fixed some issues around monster movement, especially around driller not slowing down or stopping on repellent skills. Behaviour can be slightly different than before.
+- restructured title stage menu to make space for modding (and multiplayer eventually)
+- fixed Assessor spheres very rarely not pausing correctly
+- reverted bad sword dome shield battery graphics (will get new sprites eventually)
+- fixed assessor sphere explosion also running when paused
+- raised upper limit of maximum monsters per wave to 400 from 100
+- refactored the \"shorten cycles\" upgrade from Prestige, as it had various bugs and exploits
+- fixed wither ability of repellent making monsters permanently weaker if reloading while it is active
+- game will now save automatically only after a wave is beaten, not both before and after a wave
+- improved cheat detection, especially with false positives
+- fixed assessor explosions having no sound upon reload
+- fixed assessor explosions not pausing properly when game is paused"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator16" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label114" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.5.2 Engineer Booster Pack"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label115" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "- added brightness slider and accessibility option to remove vignette effect when deep in the mine
+- fixed cheat detection marking some legit runs as cheated
+- fixed Assessor bug on Intel 620 graphic cards, where a lot of elements went invisible
+- improved bundle decay effect, so it gets clearer when it runs out
+- changed Pioneer Pack to Engineer Booster Pack with two new songs
+- updated localisation. Thank you very much everyone who helped on crowdin, it's great work!"
+autowrap_mode = 3
+
+[node name="Label116" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator15" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label111" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.5 Re-Assessment"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label112" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "ASSESSOR
+Got a complete reworke to make it more fun and remove a lot of friction from controls.
+- spheres are now shot by hitting the shoot key while moving into a direction, instead of holding it and aiming in a direction. This makes shooting feel much more fluent.
+- picking up items is now consistent in controls, being bound on the use key by default (as \"using\" often means \"picking up\" with gadgets and caves). The controls are automatically reset to this default, so please change as you like (but note that you should keep use and collect on the same key, ideally). 
+- bundle is now the default mode of shooting resources. Ability to shoot single resources is gone. While it was fun, it was too unreliable and slightly redundant. To shoot a bundle, just move in a direction and press the shoot key.
+- rotational mining is gone. Instead you now push against the rock to remove it. Has the same gameplay, but you don't need a sphere to mine and it's less tedious.
+- Assessor now has the option of 3 sphere  abilities: reflect, split and explode
+-- reflection is now a stationary field that can be placed, instead of being an ability you have to time perfectly. While the old way was fun too, it didn't stay fun if you kept reflecting spheres for 2 hours.
+-- added sphere explosion ability, which lets spheres in your vicinity explode, removing a lot of rocks around them
+-- reflect, split and explode each got one improvement upgrade
+- rebalanced reload times, with a repeatable upgrade to get more spheres and a repeatable upgrade to extend the sphere lifetimes
+- added a free pet and skin, in addition to the Assessor Gear Pack (which has a pet and a skin)
+- added 3 achievements for the new skills, updated older ones
+
+PRESTIGE
+- started season 4
+- added \"Pro Mode\". It's a prestige modifier aimed for the keepers competing for the highest scores. Until now they had to restart their runs often until they had their desired gadget and cave combination. To avoid this unproductive repetition, you can now choose an order of caves and gadgets when starting a run in pro mode. Pro Mode unlocks when getting the achievement of winning prestige with 1000 score points.
+- all highscores can now seen on the title screen. The panel can be hidden if it bothers you.
+- added upgrade to lower time until the next wave, to get rid of joyless waiting after you mined the whole map. Everything is sped up, including converter, mineral tree and shield.
+
+GADGETS
+- reduced blast mining upgrade cost, increased last stage blast radius and lowered initial production time
+- teleporter will now just stabilize instead of trying to float back to the position it was dropped at
+- drillbert mode can now be unlocked as a regular run modifier
+- mineral tree from seed cave has changed root mechanics, which especially impacts prestige. Previously it was the best to build a very sophisticated setup of connected cobalt for the tree to grow in. This was a ton of work and quite RNG dependent, which was no fun. Now the tree only grows roots within a radius of 3.5 tiles (fraction is important for diagonals) and can only grow one cobalt in total.
+- mineral tree now drops resources that are not picked up after a cycle. This way it can also work with lift or resource teleporter, and generally needs less attention.
+
+OTHER
+- added catalan, estonian, slovakian, hebrew and fillipino as community translated languages (incomplete right now - if you want to help translate dome into your language, check out the link in the language selection panel in the options). Please reach out if the fonts are not great, we need some help with it (ideally with a suggestion for two fonts, one being monospaced and the other not). Thank you everyone who helped translate it! We will have support for arabic, once we can upgrade the engine from Godot 3 to Godot 4 this year.
+- added button to show all relevant previous  tutorials in the pause menu
+- rebalanced  cobalt distribution across all maps. Previously it was pretty much equally spaced out, but now it gets more sparse the deeper you go, to compensate how your mining ability gets more powerful.
+- added different sky backgrounds per world when landing
+- achievements are now checked upon startup, so if you have something unlocked/completed but are missing the achievement, it should automatically pop up on startup
+- reworked relic bomb animation (old skull is back)
+- improved handling of laser with gamepad. It should responds more direct to stick movements now.
+"
+autowrap_mode = 3
+
+[node name="Label113" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "FIXES & SMALL THINGS
+- fixed teleporter looking deactivated after keeper teleports
+- sword does not try to reflect rocks anymore
+- driller is reachable by longest swords again
+- improved shield hud visuals, with ability duration not hiding shield state
+- very slightly changed timing on when scarab switches phases
+- improved some UI sounds
+- improved shield hud visuals, with ability duration not hiding shield state"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator14" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label109" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.4.3 April Fools"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label77" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "- run modifiers for relic hunt will now unlock one by one. Each time you win relic hunt and have two or less new things unlocked, a run modifier will unlock too
+- double iron mode now gives a bit more iron and also more water
+- fixed countdown variant in prestige not always being unlocked by default properly"
+autowrap_mode = 3
+
+[node name="Label108" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "FIXES
+- fixed shield staying visible when selecting shield in loadout stage and then switching to another gadget"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator13" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label105" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.4 Springloaded Gadgets"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label106" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "GADGETS
+- added a defensive gadget called \"Spire\", which can deal well with monster projectiles
+- added an offensive gadget called \"Autocannon\", which behaves like the stun laser but is all about dealing damage
+- added a mining gadget called \"Prospection Meter\", which displays the distance to the nearest resources
+- probe can now detect caves and chambers
+- all primary gadgets got rebalanced, especially their battle abilities
+-- Orchard shield and roots now persist between waves
+-- Shield got more hp and reflection and electro blast got big buffs
+-- Repellent wither now does not flat out reduce HP from all monsters, but makes monsters take much more damage while it lasts
+- Drillbert and Drilliam are now much better at drilling and the upgrade branch changed slightly
+- added an upgrade for Drillbert which shows you the direction to Drillbert, when carrying a treat
+- Drillbert is now scared when monsters come instead of going to sleep, to better show the difference between the two states
+- added slot visualisaton for gadgets, so that you can see where each gadget goes upfront. You usually can only use one gadget per slot (so no stun laser and auto cannon together)
+- added an upgrade to the Teleporter, to be able to teleport with a lot of carryables (like blast mines or Drillbert treats)
+- rebalanced converter upgrades and conversions to offer more useful options
+- reworked and improved the stun laser with a lot of new upgrades. Removed the damage option as this is now Autocannons job.
+- lift orbs now always cost 1 water and 1 iron, and never increase in cost
+
+PRESTIGE & RELIC HUNT
+- added two new run modifiers, 'HUD' and 'Automation'
+- countdown is now the default mode for prestige. The old standard mode is now called \"endless\".
+- changed prestige difficulty to not take collected resources or gadgets into account at all
+- rebalanced relic hunt difficulty slightly, so amount of collected resources factors in less
+- cobalt upgrades now increase in cost in prestige countdown, so that it won't stretch the run for too long
+
+SWORD DOME
+- added additional stab damage to most of sword blade upgrades, so upgrading the blade has a stronger positive impact on the stab
+- improved Javelin visuals and feel
+- increased Javelin damage
+- buffed impact recurperation
+- increased slice damage for all blade upgrades
+- increased base health and additional health points from upgrades
+
+QUALITY OF LIFE
+- domes now have an auto heal upgrade, that will heal the dome if it is about to be destroyed but you still have cobalt
+- domes now have a wave warner upgrade, that will let you know when it's about time to head back to the dome because a wave approaches.
+- domes now have an upgrade that shows you the shortest way back to the dome. The shortest might not always be the fastest, but you can't get lost this way.
+- added telemetry, which helps us balance the game and focus on the things that will improve it the most. Telemetry means capturing some ingame events and sending then to us, so we can understand better how you play. For example, we can see how often each upgrade is bought, and thus can buff upgrades that are rarely used.
+- added option to manually choose gamepad icons in menu (xbox, playstation, nintendo). Controllers are often detected as generic devices, so your operating system cannot detect that it is a ps4 controller, for example - and thus not automatically pick the right icons."
+autowrap_mode = 3
+
+[node name="Label107" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "FIXES
+- to avoid unwanted relic bomb triggers in relic hunt, it will will only launch when hp reaches zero, and won't trigger if auto repair can still happen
+- fixed enemies staying stunned for the whole duration of repellents slowdown abilities, after going into full stun once
+- fixed scarab sometimes surviving the relic bomb like a badass
+- fixed worm rock not properly being removed after being blocked with sword
+- fixed key hints for use key binding always showing E, irrespective of actual binding
+- fixed some glyphs not updating to changed keybindings without reloading the game
+- fixed numbers in tech tree being unpleasantly offset for languages with non-western fonts
+- added more stats to the leaderboard submission to help with cheat detection
+- fixed scanner cave not revealing first biome
+- gadget drop will not get resources stuck anymore, if you deliver it to the dome with a lot of resources
+- fixed gadget chamber not opening after reload, if game wass saved while it wass opening
+- fixed big tick not properly playing its explosion sound, when hitting the dome
+- fixed drillbert treat turning invisible when drilliam is unlocked
+- orchard shield now dissolves when dome is destroyed
+- invulnerable monsters will not be affected by any stun or damage ability (caused various issues like big ticks being invulnerable because they were stunned underground by repellents paralysis)
+- for shield, fixed additionaly battle ability duration not being added after overcharging but depleting the overcharge part of the shield
+- fixed shield gadget reflection ability not catching some projectiles reliably
+- fixed beast animation getting messed up when stunned while jumping onto the dome
+- critter worms will now vanish if their tile is destroyed
+- tree seeds will also grow if they were about to root on a tile that then gets destroyed
+- probe impulse and marker now properly react to game pause and are persisted in savegame
+- fixed the big input icon in the pause menu not immediately switching, if input method was changed
+- drillbert treat will now better catch up with drillbert, if he's speeding past it
+- fixed language select panel in some locales never setting focus to language buttons, being unable to switch the language without the mouse
+- fixed repeatable upgrades not marking resource cost as red, when it would be too expensive
+- fixed save getting broken if saving after sword dome impact recurperation triggered
+- fixed gadget choice popup sometimes staying outside of screen, if multiple gadgets are brought to the dome simultaneously
+- fixed pet duplicating on reload when one hatched from an egg and one was brought with you
+- triggers can now be properly bound to actions
+- fixed faulty animation of diver when it hits the dome while the dome is invulnerable
+- fixed sword pad still reflecting projectiles after dome got destroyed
+- fixed shield hud not updating battle ability display when wave ends
+
+MINOR CHANGES
+- slightly better carry capability of engineers first carry upgrade
+- Orchard now shows additional battle ability use from overcharge in HUD too
+- reduced driller damage by 20%
+- slightly reduced lasers stun capability
+- last health upgrade of laser dome increases health less, but is also cheaper"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator12" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label103" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.3.1"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label78" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- fixed monsters not getting hit by laser, if there is a projectile between monster and laser
+- fixed destroyed projectiles still catching the laser, allowing projectiles behind it to pass through
+- scarab won't flash white when invulnerable and hit
+- javelin now vanishes if its damage potential is used up
+- fixed squidley getting stuck when trying to carry off a resource that is in the lift, but pushed onto an impassable ceiling"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator11" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label100" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.3"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label101" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "- fixed crash when switching between some audio devices
+- nerfed stag
+    - 1000hp -> 800hp
+    - 10 dmg air projectile -> 8 dmg air projectile
+    - 100 dmg ground projectile -> 80 dmg ground projectile
+- nerfed scarab
+    - 1200hp -> 1000hp
+    - 40 dmg -> 25 dmg
+	    - only goes invincible once 
+- fixed gadget duplication exploit via saving and reloading in the right moment
+- tree seed won't grow on indestructible tiles anymore
+- fixed orchard shield not actually protecting from stag and scarab projectiles
+- orchard shield now also blocks worm rocks
+- buffed sword fast stab damage across all upgrades
+- increased sword dome health by 25%
+- changed how Javelin works. The sword now reappears immediately after shooting, and you are never blocked from moving the pad after shooting, but you can't control the Javelin anymore. To keep the timing, the charging does take slightly longer. To improve feedback on charging being finished, it charges not linear and ends with a sound and animation.
+- halfed the cost increase of buying lift orbs repeatably"
+autowrap_mode = 3
+
+[node name="Label102" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- fixed rare crash when reloading save and the squidley cave has been found
+- fixed stag and scarab projectiles not getting reflected by sword dome
+- increased damage and size of explosion of projectiles that got reflected by sword dome
+- fixed scarab getting stuck outside of screen
+- improved the timing of the scarab losing its arms
+- fixed stun laser sometimes not targetting stag
+- fixed stun laser sometimes wobbling in place instead of targetting an enemy"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator10" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label97" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.2 - Hard Pressed"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label98" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "- added two very strong, late game monsters: the stag and the scarab
+- added a new prestige mode variation named \"Miner\", where you dig for 20 cycles without monsters
+- added a new world that is exclusive to prestige
+- added seasons to leaderboard. We had so many changes to balance already, and with the new monsters we start season 2. Season 1 scores are still visible in the leaderboard an via steam."
+autowrap_mode = 3
+
+[node name="Label99" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- improved map generation, so that resource distribution is closer to what it was before the last change especially for prestige mode
+- fixed rat animation when he's stuck in a corner
+- stingray will now fly at lower heights, to differentiate more from flyer
+- improved stingray death sound
+- showing friends highscores in prestige by default, but remembering your last choice.
+- increased driller size back to what it was meant to be originally"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator9" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label94" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.1 - Caves & Critters"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label95" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "- added 4 new caves
+- added critters, small creatures roaming the mines. They can be disabled via options.
+- shield can now be overcharged during battle
+- changed how double laser affects movement speed and damage
+- improved Assessor movement
+- smaller Assessor rebalances: spheres reload a bit faster, some upgrades are a bit cheaper, re-arranged some upgrades to access sphere split earlier. Deeper changes will come in a later update, thank you for all the feedback!"
+autowrap_mode = 3
+
+[node name="Label96" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- improved all icons for Assessor
+- translated thousands of words across many languages
+- fixed dome sometimes being destroyed before invulnerability on shield depletion was able to take effect
+- shield hud now also shows overcharge status and ability duration
+- fixed last bomb upgrade for sword long stab not having an effect
+- divers will now spawn again
+- fixed butterflies only coming from the left side
+- improved all monster energy projectile sprites
+- game never switches to mouse and keyboard controls, when playing on Steam Deck
+- fixed wave timer not running initially when reloading game
+- fixed squids pathfinding getting confused when scanner cave was used"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator8" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label91" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v2.0 - Assessor"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label92" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "- added the Assessor, a new keeper based around control of gravity. Also comes with a completely new OST and 4 Achievements.
+- added a new monster, the Stingray. It's a lowest tier flying monster, bringing a bit of variety early on, replacing the flyer in some worlds.
+- improved sprites for Rockman
+- buffed orchard:
+Root explosion deals a fixed, high amount of damage.
+Fruit buff upgrades are much cheaper.
+Shield last for much longer and is a bit cheaper.
+- more community translated languages now available
+- reworked sword impact recurperation and added visual effect for when it's active. It will now activate during the battle, as soon as the damage threshold is reached.
+- added alternative tooltips for other controller types than xbox. Automatic detection should work for PS4 and Switch Pro controller."
+autowrap_mode = 3
+
+[node name="Label93" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- improved sprites for keepers ins loadout screen
+- added option to set how often music plays
+- improved colors of orchard fruit in HUD, for better readability towards the end
+- improved animations for unlockable screen
+- improved some worm and sword sounds
+- wave counter and inventory now cost 1 water"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator7" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label88" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v1.5 - Halloween"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label89" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "- added a pet, new cave and decorations for Halloween. Only available until the 13th November, but unlock permanently if you get it now. You can disable seasonal content via options, if you prefer \"vanilla\".
+- fixed pet and egg not saving properly
+- improved many sounds
+- gamepad bindings now also got alternative key bindings and axis can also be bound (stick or trigger)
+- laser strength 3 and double laser are not mutually exclusive anymore"
+autowrap_mode = 3
+
+[node name="Label90" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- pet's don't duplicate on reload anymore
+- skin unlocks are now also listed when showing what was unlocked this run
+- fixed keeper slowing down when moving stick and then pressing and releasing dpad in the same direction
+- fixed prestige maps just stopping at a fixed depth, instead of fading out naturally
+- fixed double iron modifier not being remembered to be selected previously
+- fixed lift not going through the middle of indestructible parts where there was no border tile
+- added animation for sword dome in loadout screen. Also added dummy monster to show the sword impact better.
+- shield reflection stage 2 from 2s to 3s
+- sword fast stab 2 does adds 20 instead of 10 damage to the stab
+- sword stab cooldown change for bomb upgrade goes from +3s to +1s
+- sword stab last bomb upgrade now has 3 charges instead of 2
+- sword javelin upgrade adds 40 damage instead of 50
+- orchard roots now spawns 6 and 12 roots, instead of 4 and 8. Additionally, it lasts for 12s and 24s, intead of 10s and 20s. This is only a small step, orchard needs some more serious buffs or additions.
+- removed empty drillbert upgrade"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator6" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label85" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v1.4"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label86" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "- added option to detect used gamepad automatically. If you got problems with a gamepad, try changing this setting.
+- fixed some tiles being indestructible, that should not be. Affected resources in border tiles, but also unreachable chambers.
+- lift can now pass through indestructible terrain, so should be viable on all maps
+- fixed laser sound playing permanently in some cases"
+autowrap_mode = 3
+
+[node name="Label87" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- repeatable drill upgrade of the engineer is now much stronger, going from a 50% to a 120% increase
+- fixed long probe marker retention being overwritten if purchasing an upgrade with shorter retention
+- reduced probe auto recharge time from 0.8 to 0.5 cycles 
+- disabled HDR, so there should not be any effect on monitor brightness anymore
+- orchard root now pauses properly
+- exploit of reloading the game to \"roll\" higher yields from tiles should not work anymore
+- fixed a \"fixed cobalt\" run causing that no cobalt would spawn in next run
+- reduced amount of very hard and very soft rock a bit (effectively lowered the increase from last patch to 50%)
+- fixed all \"fixed cobalt\" runs markes as cheated, if the cobalt multiplier was bought
+- removed some false positives from the cheat detection"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator5" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label82" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v1.3"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label83" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "- fixed cheat detection having a lot of false positives. Old highscores might be gone now, as they falsely got flagged as cheated.
+- added \"double iron\" run modifier
+- automatically switching to larger font sizes, when playing on steam deck
+- fixed big ticks going into a state of being stunned and invincible, when caught in an orchard root while burrowing
+- fixed stun laser trying to rotate underneath the dome
+- fixed maze and long cycle modifier being incomptible
+- memory upgrade of probe is now not exclusive to the other higher tier upgrades"
+autowrap_mode = 3
+
+[node name="Label84" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- changed condenser code slightly, possible fixing an issue with it stopping production
+- possibly fixed teleporter teleporting to the same place where it started
+- pet will now not wildly jump positions if out of sight
+- controller vibration will now only happen if controller is actually used
+- fixed orchard and repellent charging up in the initial grace period, where no monsters spawn
+- reduced number of monsters that can be on screen at the same time, more so for hardest difficulty
+- punishers are much more effective now, and won't trigger when not intended
+- fixed controller not vibrating, if any given vibration would go over 100%
+- focus continue button in main menu, if it is available
+- increased the density spread, so more tiles belong to the extreme hardness stages
+- increased difference between hardness 2 and 3, raised hardness 5 a bit and lowered progression between biomes slightly
+- fixed map being cut off when zoomed out in 16:10
+- changed font for hungarian
+- prestige scores of 0 won't be uploaded anymore
+- fixed mode button not switching correctly to the button left of it, for some languages
+- reduced drillbert drill upgrade costs a bit"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator4" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label79" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v1.2"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label80" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "- Added accessibility option to always highlight monsters with an outline
+- Orchard fruit buff cannot be stacked anymore, but repeated use will refresh the buff
+- Added missing sword dome tutorial popup
+- Allowing bind of pick up and drop to the same key again, as in the Dome Romantik prototype
+- Added huge map for relic hunt
+- Showing up to 3 unlocks now, instead of 2 at most
+- Improved controller detection, which might solve issues with some models being unresponsive
+- Added information on which rule in the cheat detection was triggered, allowing us to improve it in the next patch, after seeing what causes the false positives
+- Lift now starts with an additional orb, and more orbs cost 1 water instead of 2
+- Teleporter won't teleport resources during battle anymore"
+autowrap_mode = 3
+
+[node name="Label81" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- Fixed repair indicator on health bar sometimes staying visible after closing the tech tree
+- Fixed vibration setting from options not being applied
+- Fixed keeper not moving if exiting the station with an already rotated joystick
+- Fixed keeper being stuck in pickup mode if the station was entered holding the pickup key and use and pickup being bound to the same button
+- Fixed one instance of the cheat detection triggering erroneously
+- Fixed some small errors in the savegames
+- Fixed issue where final battle music was playing after the wave was over, overlapping the win music
+- Fixed condenser, converter, and drillbert achievements not counting properly, if the game was saved and reloaded
+- Improved blue underground biome color to be more distinct from grey
+- Rendering all percentage values without digits after the decimal point in the upgrade tree
+- Improved rock texture for medium rock hardness
+- Fixed unlock potentially getting lost if immediately exiting the game upon unlock
+- Selected gadget in keep gadget popup is now animated, for better visibility
+- Fixed button focus in loadout stage not jumping from gadget to mode as expected
+- Reduced condenser production delay on overcharge from 0.75 to 0.5 cycles"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator3" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label73" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "v1.1"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="Label74" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "- fixed issues where reloadng a savegame would crash related to shield and mineral tree. If you still experience that, please send us the crashing savegame, so we can debug it.
+- added controller vibration, strength adjustable in the options
+- added font for leaderboard that supports non latin characters in player names
+- improved cheat detection for leaderboards
+- fixed UI not being responsive to joystick anymore, if alternative key mapping was applied"
+autowrap_mode = 3
+
+[node name="Label75" type="Label" parent="Canvas/PatchNotesPanel/VBoxContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("11")
+text = "- fixed newly unlocked pet or map size not persisting immediately
+- fixed keeping a gadget not working when the run was started with a kept gadget
+- changed run modifiers to be checkboxes instead of buttons
+- improved sounds for beast and ticks
+- fixed snow being misplaced in world 3
+- fixed raw fury splash screen for 21:9 aspect ratio"
+label_settings = ExtResource("12")
+autowrap_mode = 3
+
+[node name="HSeparator" type="HSeparator" parent="Canvas/PatchNotesPanel/VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="Canvas/PatchNotesPanel/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 0
+text = "title.navbar.updates.close"
+
+[node name="PrestigePanel" type="PanelContainer" parent="Canvas"]
+unique_name_in_owner = true
+visible = false
+layout_direction = 2
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -664.5
+offset_top = -465.5
+offset_right = 672.5
+offset_bottom = 465.5
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_vertical = 4
+theme = ExtResource("6")
+theme_override_styles/panel = ExtResource("3")
+script = ExtResource("13")
+
+[node name="Box" type="VBoxContainer" parent="Canvas/PrestigePanel"]
+layout_mode = 2
+theme_override_constants/separation = 20
+
+[node name="PrestigeLeaderboard" parent="Canvas/PrestigePanel/Box" instance=ExtResource("14")]
+custom_minimum_size = Vector2(500, 905)
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="Canvas/PrestigePanel/Box"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 0
+text = "title.navbar.credits.close"
+
+[node name="CreditsPanel" type="PanelContainer" parent="Canvas"]
+unique_name_in_owner = true
+visible = false
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -484.5
+offset_top = -490.0
+offset_right = 484.5
+offset_bottom = 490.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("6")
+theme_override_styles/panel = ExtResource("3")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/CreditsPanel"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="ScrollContainer" type="ScrollContainer" parent="Canvas/CreditsPanel/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+horizontal_scroll_mode = 0
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_constants/separation = 10
+
+[node name="MarginContainer3" type="MarginContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label30" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/MarginContainer3"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "Made by Bippinbits"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="GridContainer" type="GridContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 150)
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/v_separation = 1
+
+[node name="Label23" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "René Habermann"
+horizontal_alignment = 1
+
+[node name="Label24" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Anne Hecker"
+horizontal_alignment = 1
+
+[node name="Label25" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Raffaele Picca"
+horizontal_alignment = 1
+
+[node name="Label26" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Luca Martinelli"
+horizontal_alignment = 1
+
+[node name="Label27" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Ron Kaiser"
+horizontal_alignment = 1
+
+[node name="Label28" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Christian Brandt von Fackh"
+horizontal_alignment = 1
+
+[node name="MarginContainer4" type="MarginContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label30" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/MarginContainer4"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "with help from these fine people"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="GridContainer3" type="GridContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/v_separation = 24
+columns = 2
+
+[node name="Label31" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Music"
+horizontal_alignment = 1
+
+[node name="Label27" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Cameron Paxton"
+
+[node name="Label37" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Sound Design"
+horizontal_alignment = 1
+
+[node name="Label36" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Martin Kvale"
+
+[node name="Label33" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Additional Pixel Art"
+horizontal_alignment = 1
+
+[node name="Label25" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Brandon Schenk (penusbmic)
+Davis Hill
+Fabian Delgado (Luucky_NANA)"
+
+[node name="Label26" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Additional Programming"
+horizontal_alignment = 1
+
+[node name="Label29" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "John Watson"
+
+[node name="Label35" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Art Consulting"
+horizontal_alignment = 1
+
+[node name="Label38" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Thomas Feichtmeir"
+
+[node name="Label34" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Icons"
+horizontal_alignment = 1
+
+[node name="Label28" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "UnfuneralOD
+Thomas Feichtmeir
+Paul
+Lux
+SalvaPixel"
+
+[node name="Label39" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Cover Art"
+horizontal_alignment = 1
+
+[node name="Label40" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Russ Gray"
+
+[node name="Label41" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Interns"
+horizontal_alignment = 1
+
+[node name="Label42" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Steffen Schmidt
+Fio Leukert
+Annika Jung
+Emilia Baron"
+
+[node name="Label43" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Various"
+horizontal_alignment = 1
+
+[node name="Label44" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Fio Leukert
+Robert-Jan Zandvoort"
+
+[node name="Label45" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Cat Sound Design"
+horizontal_alignment = 1
+
+[node name="Label46" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Oda Tilset"
+
+[node name="MultiplayerSeparator" type="HSeparator" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="MultiplayerLabel" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "Multiplayer Update"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="GridContainer5" type="GridContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/v_separation = 24
+columns = 2
+
+[node name="Title1" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer5"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Lead Developer"
+horizontal_alignment = 1
+
+[node name="Name1" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer5"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Chris Ridenour"
+
+[node name="Title2" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer5"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Developer"
+horizontal_alignment = 1
+
+[node name="Name2" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer5"]
+layout_mode = 2
+size_flags_horizontal = 2
+text = "Austin Huebner
+Jakub Grzesik"
+
+[node name="HSeparator" type="HSeparator" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label30" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/MarginContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "Published by RAW FURY"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+
+[node name="GridContainer2" type="GridContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+columns = 3
+
+[node name="Label" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer2"]
+layout_mode = 2
+text = "Jónas Antonsson
+Gordon Van Dyke
+David Martinez
+Daniel Jonsson
+Roland Smedberg
+Liam O’Neill
+Mia Sun
+Kjartan Freyr Jónsson
+Naseer Alkhouri
+Gerinda Meijerink
+Rachel Tiu
+Rasmus Liljenberg
+Johan Toresson
+Solveig Samuelsdottir
+Jeanette Bauer
+Timothy Busby
+Cristian Caileanu
+Mea Nilimaa
+Loke Wallmo
+Vladimir Kovač
+Tomislav Gojević
+Domagoj Šalković
+Angelica Norgren
+Erika Karlberg
+Susie McBeth
+Ivan Gabriel Juricic
+Nicole De Bernardi
+Dimitrije Dokic
+Sven Farszky
+Garnett Lee"
+
+[node name="Label2" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer2"]
+layout_mode = 2
+text = "Matejka Ivančić
+Ivan Krešimir Imbrija
+Carly Shields
+Juliette Auverny-Bennetot
+Íris Stefánsdóttir
+Tonči Jukić
+Zeke Lugmair
+Jacob Kroon
+Dario Zubović
+Ivan Gradečak
+Ana Balentović
+Elena Christensen
+Mai Dinh
+Marcus Herbertsson
+Paul Wilson
+Elisabeth Bergqvist
+Borna Cmrečnjak
+Izet Seferagić
+Scott Roberts
+Filip Zachrisson Hansen
+Domagoj Alagić
+Matt Edwards
+Hanja Grgičević
+Matija Mladiček
+Aron Thompson
+Michael Grass
+Andrew Terrett
+Dino Tarvainen
+Gemma Garner
+Sarah Gonidec
+Linda Johansen"
+
+[node name="Label3" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/GridContainer2"]
+layout_mode = 2
+text = "Fiona Martin
+Iris Andresdottir
+Ida Czerwonka
+Juraj Kraskovic
+Dubravko Jurina
+Morten Larssen
+Jocce Marklund
+Grgur Žučko
+Liam Sigrell
+Alan Kertz
+Kristina Petrač
+Sara Divjak
+Claire Sharkey
+Dino Milačić
+Deana Banic-Krizaj
+Alessandro Cossidente
+Valentina Cindrić
+Mery Stancu
+Pontus Rundqvist
+Cecilia Asp
+Jordan Tayler
+Mariela Gonzales
+Ana Sundji
+Michaela Woods
+Ivica Jezernik
+Daniel Stewart
+Tina Nilsson
+Michele di Nardo
+Matko Pavlić
+Mylene Lourdel"
+
+[node name="ModingHSeparator2" type="HSeparator" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="ModingTitleLabel" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "Modding"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="ModingDescLabel" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "The ModLoader we use is made with passion by KANA, Darkly77, Ste, and otDan, based on the brilliant work done for Delta-V-Modding,
+with additional code contributions by Dami, Blade67, Ategon, and boardengineer.
+
+Huge thanks to them for making modding a reality and all the support in getting us there!"
+autowrap_mode = 3
+
+[node name="PortingHSeparator" type="HSeparator" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+
+[node name="PortingTitleLabel" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "Consoles Port"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="PortingHBoxContainer" type="HBoxContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label31" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PortingHBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "Seaven Studio
+
+Pascal Féard
+Sylvain Dupont
+Diane Landais
+Olivier Penot"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label33" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PortingHBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "Pastagames
+
+Antonin Jouany
+Paolo Baerlocher"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="HSeparator4" type="HSeparator" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="MarginContainer2" type="MarginContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Label31" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/MarginContainer2"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "Playtest"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label34" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Special thanks to our beautiful playtest community!"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label31" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "5CH4773NF3U3R
+aegon1
+Æugh
+AlchySol
+Alexander
+Alpha
+AndriiD
+AnnO
+apoisonedgift
+ash
+Auto
+axerity
+Bartholomew The 4th
+Basilisk
+bawavasu
+Ben
+beta
+Big Chungo
+BigBadaboom
+Bisch
+blackcoffeerider
+blazouf
+bluedrake121
+boba325
+bocchai
+Bootr
+BOSS
+CaptainNuge
+Captmoomoo
+Catgame
+Celestial_itus
+cranberry
+cranberry sword
+Cryen
+Cryorus
+Cyantist
+Cynthia7979
+d3dc
+Dadik2580
+DageileHobel
+Damglador
+dang
+DarkerThrawn
+Darkstrong
+DB_alfa
+Decycle
+DeFroze
+demonyga
+DeusVoltz
+Dome dwarf
+domepotato
+dreanki
+Droideka
+Dzieciak
+Eclipse
+Ember
+EnigmaUprising
+Eric Decker
+Faityy
+FalseSenseOfSelf
+Flop
+Frosty
+G4M3ZL4Y3R
+Geo
+GhostXi
+Gigimooshi2
+Graph_Zahl
+Greenmage
+grimm
+Grimonition
+Grumman
+hackysack
+Halee!
+Handsome Toast
+Happy Log
+Heinrich
+hello_world
+Hogu
+Honey-Beeb
+Hurpix
+Hypersloths
+hypurrtext
+IgnisTeine
+Iro
+Isador
+iulian
+Izuna Neko
+jaaaco
+jealfredo
+Joe
+JoKingSpace
+Jonicas Alt 1
+joshiii03
+JTxic
+Jukebox Legend
+Jynxed
+Kamikaze
+Kao
+KDShadow
+KillDay
+konomiyu
+Kopie
+Krautkopf89
+Kurbis
+Lady Scylla
+Leo
+leowitchhh
+LiesLiesLies
+Light3D-DelaBlue
+Lion of WISE isles"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 0
+
+[node name="Label33" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/HBoxContainer2/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "LoganDark
+Lumi
+Manuel
+Märtren
+maxbk7
+MazeAsh
+merope
+MillieMM
+Mirał
+Mixedasparagus
+Moon Called Charon
+Mr_DomeTest
+Mulpi
+myakhie
+Nakul
+Night/Clouds
+ninja5511
+Nodens
+Noremac3113
+Nothing To See here
+Nurp
+nyan
+Nyoshi
+NyxyN
+Nонбук
+Old Man Bryan
+OliWhail
+Omni Adachi
+OpenJaguar560
+Ovocny
+PAG_Pt4h
+palex00
+Panzerkampfwagen VI königstiger
+parchmentEngineer
+pawelkk8125
+Peanut Juice
+P-G of JC, SPG, & PB
+Pingal
+PinkPlasma6083
+Pizzaboy
+plebbie davie
+pomf
+powergeeks
+Psychodata
+Puff
+Questsle
+Quetsle
+Raphmine
+rasok
+ReaCt
+RiamuYui
+robertEK
+Rubjeee
+Ruri
+Saice
+Samwich
+scubapenguin
+sebseb
+Sgt Sauris
+sharpie
+Shock321
+Sin Marama
+SirRaffley
+sjig
+Sleepy Goat
+Sleepyguy15
+Sleepyheadstyle
+SleepyTime
+Slimey10608
+smudge
+SnadBox_Gal
+Sniper Noob
+SOB
+SockTheSock
+Starliht
+starrylamb
+STAY6FEET
+Ste
+steamdwarfjr
+Sydney
+T1_vz
+Taha
+Tejastar
+TextualMold9830
+the walking dead
+TheBiggestDisappointment
+TheCuteFoxxy
+therpderp
+TreasureBloke
+Tricky
+tuxle
+u/nubatpython
+Unique_Name2
+Vanra
+Varnim
+vava
+WanderingShadow
+WhiteAndBlack
+Wobble Cat
+WolfMeryX
+YellowSkrub
+Yog_
+Zephryn
+Zer()
+Zerronyx
+ziggy2shoes
+zimny11
+Кей"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label34" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/HBoxContainer2/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_fonts/font = ExtResource("15")
+text = "이끼 낀 금화
+明年的月亮真圆亮"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="MarginContainer5" type="MarginContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="Label31" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/MarginContainer5"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_fonts/font = ExtResource("10")
+text = "Translation"
+label_settings = ExtResource("7")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Label33" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Dome Keeper was translated both by professionals and by volunteers on the crowdin platform. Thank you to everyone who is working on improving the translation!
+
+Special thanks to these great people who translated large amounts of one language alone, or even the full language."
+autowrap_mode = 3
+
+[node name="PanelContainer" type="PanelContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="GridContainer4" type="GridContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_constants/h_separation = 40
+theme_override_constants/v_separation = 8
+columns = 2
+
+[node name="Label" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Basque/Euskara"
+vertical_alignment = 1
+
+[node name="Label2" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Beñat Ramos Elorza"
+
+[node name="Label3" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Japanese"
+vertical_alignment = 1
+
+[node name="Label4" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Eriko Hayashi"
+
+[node name="Label5" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Bulgarian"
+vertical_alignment = 1
+
+[node name="Label6" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "100daysummer"
+
+[node name="Label7" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Korean"
+vertical_alignment = 1
+
+[node name="Label8" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "BADA"
+
+[node name="Label13" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Polish"
+vertical_alignment = 1
+
+[node name="Label14" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Kamil Grudzień "
+
+[node name="Label9" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Romanian"
+vertical_alignment = 1
+
+[node name="Label10" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Ovidiu Vladu
+Andrei Olenic"
+
+[node name="Label11" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Italian"
+vertical_alignment = 1
+
+[node name="Label12" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Andrea Russo, KrakenITA"
+
+[node name="Label15" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Vietnamese"
+vertical_alignment = 1
+
+[node name="Label16" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Hoàng Đình Long, Liber"
+
+[node name="Label17" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Indonesian"
+vertical_alignment = 1
+
+[node name="Label18" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Rama"
+
+[node name="Label19" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Arabic"
+vertical_alignment = 1
+
+[node name="Label20" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "ABDOU 11, Amjad Halabi"
+
+[node name="Label21" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Czech"
+vertical_alignment = 1
+
+[node name="Label22" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "T1_vz"
+
+[node name="Label23" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Catalan"
+vertical_alignment = 1
+
+[node name="Label24" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Xavier Muntada Samà"
+
+[node name="Label25" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Ukrainian"
+vertical_alignment = 1
+
+[node name="Label26" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Damglador, hopotion"
+
+[node name="Label27" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Hungarian"
+vertical_alignment = 1
+
+[node name="Label28" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Gergely Fábián, Peter Boskovitz"
+
+[node name="Label29" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+text = "Thai"
+vertical_alignment = 1
+
+[node name="Label30" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/PanelContainer/MarginContainer/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "KEVINz KLAUZ"
+
+[node name="Label35" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "
+Thank you to all the community translators on crowdin."
+autowrap_mode = 3
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="LabelTranslators1" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "_Vilser_
+100daysummer
+1up-German
+1up-Translations
+ABDOU 11
+adverts.for.me.please
+Aiontes
+Aleksey Petrov
+Alessandra Prado
+Alex Motor
+AlexWayfer
+amaitre
+Amihai Ben-Arush
+Amjad Halabi
+anbysasyke
+Andrea B.
+Andrea Russo
+Andrei Olenic
+aneschepens
+Ángel Belinchón Calleja
+AnnaKunle
+Annie-Choi
+Anrea Russo
+ArielZ
+Arnau Frago
+arneschepens
+attica
+Aya Setembru
+b_biosca
+BADA IM
+Bansku
+Bart Klofik
+beru
+berupon
+bettercallsoren
+Bjørn Erik Hoel
+Bkr Ayoub
+Blazouf
+Blueberry
+Buğra Berk İNCİ
+Çağan Kudal
+cgeick
+Chevy Hor
+Christophe Andral
+Clares
+Claudia Hahn
+Clément Raynaud
+crabdemlastina
+Crusader_Dragon
+Cryen
+Damglador
+Daniel Catarino
+Daniel Roos
+David Pires
+Dawenime games
+Dayton Reyes
+dearwilhk85
+Dennis Seine
+DerpedGuyInSuit
+detjacob
+Diana Brubeck
+Dinh Long Hoang
+Dorota Pawlak
+dyy_trans
+dyy_TW-trans
+eltonreislopes
+emink
+emrej
+Endurance7259
+Enes Sönmez
+ensar1212
+Ercg678
+Erdem Ugurluol
+Eriko Hayashi
+esn
+esperança perelló massutí
+EthanTC
+ExSuraL
+Farmakis2000
+Félix_29 Moor
+felixmoor2005
+Fernanda Pamplona
+Gabriel Francesch
+Geoffrey Merran
+Gergely Fábián
+Gilma
+Gökhan Dogru
+Göktuğ K
+Govt. Knives
+green.esps
+Gudruun
+Guido Belluomo
+Handsome Toast
+Hatred_eyes
+hell2814
+hello_world
+HillockTranslations
+HispaniceTranslations
+Hoàng Đình Long
+Hoang Nguyen
+Hoàng Phi Long Ngô
+hoangnd
+hopotion
+HoriZonT
+Huong Nguyen Thi Quynh
+Hynek Palatin
+iHoriZonT
+iulian
+IuliaNN
+Jildiko
+Jivchik
+k03
+Kaldyris
+Kamil Grudzień
+kao.vamp
+Karol Klein
+Karolína Hrádková
+Kasca
+Beñat Ramos Elorza
+Kawatt
+Kbph
+kdrpksy
+KEVINz KLAUZ
+Konrad Gislerud
+Kopie
+KrakenITA"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/separation = 0
+
+[node name="LabelTranslators2" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/HBoxContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "Kurikal
+leckel
+leliTooo
+LiafAml
+Liangzgz
+Liber
+likeababy
+Locsmith_PL
+Lukas Wolter
+luthfiismail
+M. Gagah Reforman
+Mak Wisarut
+Marcellinus Ferdinand Suciadi
+MariaAguilera
+Martin Horst
+Masaru Funahashi
+Matteo Ciaprini
+Max Sidney
+Max Sollinger
+Maxim Phoenix
+MercTrans
+Michael Jonathan
+michal hajducik
+Miguel Anzola
+Mika Tuomaala
+Miki_RawFury
+mingTRD
+Minh Đăng
+Mipsu
+MixDev
+Muhammet Emin Balcıoğlu
+Nantes
+Natalia Murrieta Lagos
+Nipekola
+Norep
+OHelena
+Oleg Hoffmann
+ondrej_pisa
+Ordab
+pau
+PeanutJuice
+Peter Boskovitz
+Peter Mydliar
+petkermihail
+PieBit
+pirey0
+Polish Localisation
+PrinceNorris
+qa8516
+qloc-generic
+qloc-lhierro
+qloc-pavila
+qloc-sbouchebka
+qloc-sordas
+qloc-tbenedetto
+Rafael Oliveira
+rafaelbrewer
+Raffaele Brevetti
+Rama
+Raquel Antiñolo
+rasok
+rawfury_loke
+razou
+RedJimi
+RGouveia
+Ricky_Aconost
+rIjmI'
+rkwd
+roger119
+Roi Tutka
+rusana
+Sabishii Chii
+Samuel L.
+Saruboy
+SeasonChannel32
+SeasonChannel3322
+Sebastian Jasiński
+sentynell
+Sergei Korniyenko
+Sessito
+ShadowLeviathanLord
+Shortyss
+SK MelonGreen
+skilz
+skorpnok
+SkyTNT
+Solfrid
+starcat
+stevenfu58
+SvetlanaV
+T Bjerg
+T. Jeremy K.
+T1_vz
+tatianatrad
+Tayfun Sazak
+thegamerrubjee
+TheJamWar
+theOneEmployee
+ThiLelito
+tinehaurum
+TLovasz
+Tom Arne Fredriksen
+Tomáš Němeček
+tomerglick2
+Tommaso Gambassi
+Translated Translator
+Tung Pham
+Umuthoper
+Velkei Bogat
+vi_kto_vobshe
+Víctor
+Villacorte Anderson
+Vilser
+Vlad Hutsulenko
+Xavier Muntada Samà
+ycotey
+Yehonatan Affias
+Yindr
+Your_Belle
+Zaid Wisam
+Zay
+Zayria
+Zormein
+Павел
+Сергій Кажан"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="LabelTranslators3" type="Label" parent="Canvas/CreditsPanel/VBoxContainer/ScrollContainer/MarginContainer/VBoxContainer/HBoxContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_fonts/font = ExtResource("16")
+text = "بدر الحربي "
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="HSeparator" type="HSeparator" parent="Canvas/CreditsPanel/VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="Canvas/CreditsPanel/VBoxContainer"]
+custom_minimum_size = Vector2(200, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 0
+text = "title.navbar.credits.close"
+
+[node name="VideoStreamPlayer" type="VideoStreamPlayer" parent="Canvas"]
+visible = false
+layout_direction = 2
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+script = ExtResource("17")
+
+[node name="MarginContainer" type="MarginContainer" parent="Canvas/VideoStreamPlayer"]
+layout_mode = 0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -57.0
+theme = ExtResource("6")
+
+[node name="Label" type="Label" parent="Canvas/VideoStreamPlayer/MarginContainer"]
+layout_mode = 2
+text = "press anything to play"
+
+[node name="Tween" parent="Canvas/VideoStreamPlayer" instance=ExtResource("18")]
+
+[node name="Tween" parent="." instance=ExtResource("18")]
+
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/ContinueButton" to="." method="_on_ContinueButton_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/ContinueButton/ContinueGameMenu/Panel/Vbox/ContinueSingleplayerButton" to="." method="_on_continue_singleplayer_button_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/ContinueButton/ContinueGameMenu/Panel/Vbox/ContinueMultiplayerButton" to="." method="_on_continue_multiplayer_button_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton" to="." method="_on_new_game_button_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer/Panel/Vbox/SingleplayerButton" to="." method="_on_singleplayer_button_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer/Panel/Vbox/SplitscreenButton" to="." method="_on_splitscreen_button_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer/Panel/Vbox/HostMultiplayerButton" to="." method="_on_host_multiplayer_button_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/NewGameButton/NewGameMenu/Control/CenterContainer/Panel/Vbox/JoinMultiplayerButton" to="." method="_on_join_multiplayer_button_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/UnlockEverythingButton" to="." method="_on_UnlockEverythingButton_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/OptionsButton" to="." method="_on_OptionsButton_pressed"]
+[connection signal="pressed" from="Canvas/MainMenu/Panel/MainMenuButtons/QuitButton" to="." method="_on_QuitButton_pressed"]
+[connection signal="pressed" from="Canvas/AdditionalMenu/Panel/AdditionalButtons/WhatsNewButton" to="." method="_on_WhatsNewButton_pressed"]
+[connection signal="pressed" from="Canvas/AdditionalMenu/Panel/AdditionalButtons/CreditsButton" to="." method="_on_CreditsButton_pressed"]
+[connection signal="pressed" from="Canvas/AdditionalMenu/Panel/AdditionalButtons/ModdingButton" to="." method="_on_ModdingButton_pressed"]
+[connection signal="pressed" from="Canvas/AdditionalMenu/Panel/AdditionalButtons/PrestigeLeaderboardButton" to="." method="_on_prestige_leaderboard_button_pressed"]
+[connection signal="pressed" from="Canvas/PatchNotesPanel/VBoxContainer/CancelButton" to="." method="_on_ClosePatchNotesButton_pressed"]
+[connection signal="pressed" from="Canvas/PrestigePanel/Box/CancelButton" to="." method="_on_CloseCreditsButton_pressed"]
+[connection signal="pressed" from="Canvas/CreditsPanel/VBoxContainer/CancelButton" to="." method="_on_CloseCreditsButton_pressed"]
+[connection signal="finished" from="Canvas/VideoStreamPlayer" to="Canvas/VideoStreamPlayer" method="_on_VideoPlayer_finished"]

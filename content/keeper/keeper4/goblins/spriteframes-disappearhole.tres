@@ -1,0 +1,170 @@
+[gd_resource type="SpriteFrames" load_steps=24 format=3 uid="uid://ct0tafigtho84"]
+
+[ext_resource type="Texture2D" uid="uid://yogotae6msp3" path="res://content/keeper/keeper4/catgoblin_hole_sheet.png" id="1"]
+
+[sub_resource type="AtlasTexture" id="close_0"]
+atlas = ExtResource("1")
+region = Rect2(220, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="close_1"]
+atlas = ExtResource("1")
+region = Rect2(198, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="close_2"]
+atlas = ExtResource("1")
+region = Rect2(176, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="close_3"]
+atlas = ExtResource("1")
+region = Rect2(154, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="close_4"]
+atlas = ExtResource("1")
+region = Rect2(132, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="close_5"]
+atlas = ExtResource("1")
+region = Rect2(110, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="close_6"]
+atlas = ExtResource("1")
+region = Rect2(88, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="close_7"]
+atlas = ExtResource("1")
+region = Rect2(66, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="close_8"]
+atlas = ExtResource("1")
+region = Rect2(44, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="close_9"]
+atlas = ExtResource("1")
+region = Rect2(22, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="close_10"]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_0"]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_1"]
+atlas = ExtResource("1")
+region = Rect2(22, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_2"]
+atlas = ExtResource("1")
+region = Rect2(44, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_3"]
+atlas = ExtResource("1")
+region = Rect2(66, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_4"]
+atlas = ExtResource("1")
+region = Rect2(88, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_5"]
+atlas = ExtResource("1")
+region = Rect2(110, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_6"]
+atlas = ExtResource("1")
+region = Rect2(132, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_7"]
+atlas = ExtResource("1")
+region = Rect2(154, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_8"]
+atlas = ExtResource("1")
+region = Rect2(176, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_9"]
+atlas = ExtResource("1")
+region = Rect2(198, 0, 22, 20)
+
+[sub_resource type="AtlasTexture" id="open_10"]
+atlas = ExtResource("1")
+region = Rect2(220, 0, 22, 20)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("close_0")
+}, {
+"duration": 1.0,
+"texture": SubResource("close_1")
+}, {
+"duration": 1.0,
+"texture": SubResource("close_2")
+}, {
+"duration": 1.0,
+"texture": SubResource("close_3")
+}, {
+"duration": 1.0,
+"texture": SubResource("close_4")
+}, {
+"duration": 1.0,
+"texture": SubResource("close_5")
+}, {
+"duration": 1.0,
+"texture": SubResource("close_6")
+}, {
+"duration": 1.0,
+"texture": SubResource("close_7")
+}, {
+"duration": 1.0,
+"texture": SubResource("close_8")
+}, {
+"duration": 1.0,
+"texture": SubResource("close_9")
+}, {
+"duration": 1.0,
+"texture": SubResource("close_10")
+}],
+"loop": false,
+"name": &"close",
+"speed": 30.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("open_0")
+}, {
+"duration": 1.0,
+"texture": SubResource("open_1")
+}, {
+"duration": 1.0,
+"texture": SubResource("open_2")
+}, {
+"duration": 1.0,
+"texture": SubResource("open_3")
+}, {
+"duration": 1.0,
+"texture": SubResource("open_4")
+}, {
+"duration": 1.0,
+"texture": SubResource("open_5")
+}, {
+"duration": 1.0,
+"texture": SubResource("open_6")
+}, {
+"duration": 1.0,
+"texture": SubResource("open_7")
+}, {
+"duration": 1.0,
+"texture": SubResource("open_8")
+}, {
+"duration": 1.0,
+"texture": SubResource("open_9")
+}, {
+"duration": 1.0,
+"texture": SubResource("open_10")
+}],
+"loop": false,
+"name": &"open",
+"speed": 30.0
+}]

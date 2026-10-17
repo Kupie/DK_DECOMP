@@ -1,0 +1,49 @@
+[gd_scene load_steps=8 format=3 uid="uid://c8r127gjppes4"]
+
+[ext_resource type="Script" path="res://content/monster/Monsters.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="2"]
+[ext_resource type="PackedScene" uid="uid://co1irxig5hyod" path="res://content/monster/WaveGenerator.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://qxxy345jrvm5" path="res://content/sounds/monster/ambience/BattleAmbience.tscn" id="4"]
+[ext_resource type="Script" path="res://content/monster/MonsterSynchronizer.gd" id="5"]
+
+[sub_resource type="Curve2D" id="32"]
+_data = {
+"points": PackedVector2Array(0, 0, 0, 0, -521, -378, 0, 0, 0, 0, -520, -505, 0, 0, 0, 0, -365, -505)
+}
+point_count = 3
+
+[sub_resource type="Curve2D" id="33"]
+_data = {
+"points": PackedVector2Array(0, 0, 0, 0, 515, -406, 0, 0, 0, 0, 514, -505, 0, 0, 0, 0, 386, -505)
+}
+point_count = 3
+
+[node name="MonsterManager" type="Node2D" node_paths=PackedStringArray("monsterSynchronizer") groups=["lostL", "monster-manager", "pauseL"]]
+process_mode = 1
+z_index = 40
+script = ExtResource("1")
+monsterSynchronizer = NodePath("MonsterSynchronizer")
+
+[node name="DiverPaths" type="Node2D" parent="."]
+
+[node name="RetreatLeft" type="Marker2D" parent="DiverPaths"]
+position = Vector2(-520, -168)
+
+[node name="RetreatRight" type="Marker2D" parent="DiverPaths"]
+position = Vector2(516, -182)
+
+[node name="StartLeft" type="Path2D" parent="DiverPaths"]
+curve = SubResource("32")
+
+[node name="StartRight" type="Path2D" parent="DiverPaths"]
+curve = SubResource("33")
+
+[node name="SpawnTween" parent="." instance=ExtResource("2")]
+
+[node name="WaveGenerator" parent="." instance=ExtResource("3")]
+
+[node name="BattleAmbience" parent="." instance=ExtResource("4")]
+
+[node name="MonsterSynchronizer" type="Node" parent="."]
+script = ExtResource("5")
+target_connection_states = [6]

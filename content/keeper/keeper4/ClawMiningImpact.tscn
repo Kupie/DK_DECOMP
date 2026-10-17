@@ -1,0 +1,75 @@
+[gd_scene load_steps=11 format=3 uid="uid://bawnmp3bya4km"]
+
+[ext_resource type="Script" path="res://content/keeper/keeper4/ClawMiningImpact.gd" id="1"]
+[ext_resource type="Shader" path="res://content/weapons/tesla/physics_sparks_particleshader.gdshader" id="2"]
+[ext_resource type="Script" path="res://content/keeper/keeper2/CustomStyle_ChangeModulate.gd" id="3"]
+[ext_resource type="Material" uid="uid://sfxw4ihq8oxm" path="res://systems/style/materials/sprite_palette.tres" id="4"]
+[ext_resource type="Texture2D" uid="uid://b87a8urufx8m1" path="res://content/keeper/keeper4/mining_impact_glow_s.png" id="5"]
+
+[sub_resource type="Gradient" id="Gradient_0y2lb"]
+offsets = PackedFloat32Array(0.590116, 1)
+colors = PackedColorArray(1, 1, 1, 1, 1, 1, 1, 0)
+
+[sub_resource type="GradientTexture2D" id="156"]
+gradient = SubResource("Gradient_0y2lb")
+width = 256
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_tkgxf"]
+shader = ExtResource("2")
+shader_parameter/emission_sphere_radius = 0.1
+shader_parameter/lifetime_randomness = 0.8
+shader_parameter/direction = Vector3(1, 0, 0)
+shader_parameter/spread = 20.0
+shader_parameter/scale = 0.6
+shader_parameter/air_drag = 1.0
+shader_parameter/mass = 0.04
+shader_parameter/mass_random = 0.7
+shader_parameter/scale_min = 0.1
+shader_parameter/scale_max = 0.15
+shader_parameter/initial_linear_velocity = 1500.0
+shader_parameter/initial_linear_velocity_random = 0.25
+shader_parameter/color_value = Color(1, 1, 1, 1)
+shader_parameter/scale_speed_mod = Vector3(1.113, 1.316, 0)
+shader_parameter/scale_speed_mod_min = 0.3
+shader_parameter/scale_speed_mod_max = 4.0
+shader_parameter/gravity = Vector3(0, 100, 0)
+shader_parameter/color_ramp = SubResource("156")
+
+[sub_resource type="Gradient" id="157"]
+interpolation_mode = 2
+offsets = PackedFloat32Array(0.909884, 1)
+colors = PackedColorArray(1, 1, 1, 1, 1, 1, 1, 0)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_l4gn2"]
+gradient = SubResource("157")
+width = 8
+height = 32
+fill = 1
+fill_from = Vector2(0.5, 0.5)
+fill_to = Vector2(0.5, 0)
+
+[node name="ClawMiningImpact" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Sparks" type="GPUParticles2D" parent="."]
+editor_description = "fine_tuned"
+rotation = -3.14159
+scale = Vector2(0.5, 0.5)
+emitting = false
+amount = 5
+process_material = SubResource("ShaderMaterial_tkgxf")
+texture = SubResource("GradientTexture2D_l4gn2")
+lifetime = 0.5
+one_shot = true
+explosiveness = 1.0
+visibility_rect = Rect2(-1000, -1000, 2000, 2000)
+local_coords = true
+script = ExtResource("3")
+self_init = true
+styleColor = Color(0.137255, 0.819608, 0.137255, 1)
+
+[node name="LightNode" type="Sprite2D" parent="."]
+unique_name_in_owner = true
+z_index = 10
+material = ExtResource("4")
+texture = ExtResource("5")

@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://bbgb227c3dedi"]
+
+[ext_resource type="PackedScene" uid="uid://tecqwktyx4sx" path="res://stages/landing/LandingStage.tscn" id="1"]
+[ext_resource type="Script" path="res://stages/landing/ClientLandingStage.gd" id="2"]
+
+[node name="LandingSequence" instance=ExtResource("1")]
+script = ExtResource("2")

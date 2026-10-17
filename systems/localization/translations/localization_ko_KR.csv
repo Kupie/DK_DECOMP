@@ -1,0 +1,2206 @@
+﻿key,ko_KR
+upgrades.teslapersistance1.title,지속 구체 1
+upgrades.keeper4ramping1.title,가속도
+upgrades.stationextensionupgrades.desc,이동형 스테이션에서 원거리로 업그레이드를 구매합니다.
+upgrades.sword.title,검
+upgrades.autocannonimproved.desc,포의 모든 요소를 개선시킵니다.
+upgrades.laserstrength1.title,동력 1
+properties.monstermodifiers.timebetweenwavesmodifier,주기 길이 {.percent}
+level.gameover.unlock.modifiers,새로운 게임 변칙 해금!
+keybindings.reset.explanation.ps5,최근 업데이트로 인해 생긴 입력 방식의 큰 변화로 인해 귀하의 버튼이 초기화되었습니다. 불편에 사과드립니다!
+reward.rewardrerolloffers2.desc,물을 사용하여 도구 또는 보조 장비 선택지를 새로 받을 수 있습니다.
+upgrades.proberecharge.desc,탐지기가 시간의 흐름에 따라 천천히 재충전됩니다.
+versus.corruptionmonsterdamage.title,치명적인 괴물
+loadout.start.area.press,| 버튼을 눌러 게임을 시작합니다!
+upgrades.shieldbattleblastdamage.title,치명적 폭발
+properties.monstermodifiers.move_speed,괴물 이동 속도 {.percent}
+upgrades.mushroomfarmspeed1.title,버섯 속도 1
+upgrades.chainsawdamage1.title,톱 크기 1
+properties.orchard.battlerootexplosion,폭발 피해량 {}
+level.tutorial.assessor.bundleguide.desc2,부동형 번들을 배치하려면 아무 방향 키도 누르지 않고 | 버튼을 누르세요.
+upgrades.swordtargetlock.desc,"찌를 때, 검이 자동으로 첫 번째 적에게 목표를 고정합니다."
+reward.rewardautomatedweapons.desc,보조 무기를 자동화합니다.
+options.input.gamepad,게임패드
+playerlist.profile,프로필 보기
+upgrades.stunlaserstun1.title,기절력 1
+properties.condenser.overchargedelay,생산 지연 (주기) {}
+exhibition.level.description,메인 메뉴로 돌아가기까지...
+keybindings.reset.explanation.switch,최근 업데이트로 인해 생긴 입력 방식의 큰 변화로 인해 귀하의 버튼이 초기화되었습니다. 불편에 사과드립니다!
+upgrades.shockwave.title,충격파 망치
+properties.keeper3.shurikencooldown,수리검 쿨타임 {}초
+title.navbar.leaderboard,위신
+modding.prestigewhitelist,"위신 모드를 플레이하기 위해 화이트리스트에 넣어야 할 모드가 있다면, Discord 채널에 말씀해주세요. 밸런스를 해치지 않는 모드에 한해 추가할 것입니다. 하지만 추가될 수 있는 모드 종류는 더 나은 접근성 및 스킨에 한해서 입니다."
+upgrades.extractordoublebuild.desc,벌레의 생산을 증가시킵니다.
+upgrades.chainsawdamage3.title,톱 크기 3
+modding.modio.error,mod.io 에러
+loadout.versusmod.versusmodifiermirroredmap.desc,돔 아래의 맵이 거울처럼 반대편과 똑같은 형태입니다.
+actionhint.blast,폭발
+multiplayer.host.crossplay,크로스플레이 활성화
+properties.converter.ironpercobalt,코발트 1개당 철 {} 개
+upgrades.shieldovercharge.desc,"물을 이용해 수동으로 방어막을 과충전하고, 다음 웨이브 때 더 큰 피해를 흡수할 수 있게 합니다."
+properties.droneyard.overchargebattledronestrength,전투 드론 강화율 {.percent}
+options.game.showkeeperaimindicator,키퍼 조준 표시기 보이기
+upgrades.autocannonautonomy.title,자율화
+properties.keeper4.holesquadduration,채굴 부대 지속시간 {}초
+options.keybindings.rebinding.capture,재설정
+options.game.screenshake.shakeintensity,흔들림 강도
+upgrades.keeper2pinballspherelifetime.desc,키네틱 구체가 날아가는 시간을 증가시킵니다.
+upgrades.swordreflection2.title,반사 2
+upgrades.lift.title,기중기
+assignment.circumstance,환경
+options.input,입력
+properties.keeper2.spheresplit,다가오는 분할 구체
+properties.tesla.damage,사격 피해량 {}
+options.game.events.allowtelemetry,온라인 멀티플레이 활성화
+properties.keeper1.maxspeed,최대 속도 {}
+level.tutorial.tesla.panel3content1,테슬라 돔은 다재다능합니다. 제대로 사용하려면 모든 능력을 조합해 활용해야 합니다.
+level.tutorial.sworddome.reflecting.desc,쉴드를 사용하여 투사체를 멈추거나 반사할 수 있습니다.
+options.game.bundlesnapping,번들 조준을 기본 방향으로 스냅
+upgrades.spiresustain.title,지속 사격
+reward.rewardpermanentinventory.title,기본적인 인벤토리
+properties.furnace.ironduration,철 소각 시간 (주기) {}
+level.gameover.assignment.badges.more,이 임무의 도전 모드를 완료하면 또 다른 배지를 획득할 수 있습니다.
+upgrades.droneyardovercharge2.title,개선된 과충전
+multiplayer.error.joincodefailed,주어진 코드로 대기실을 찾을 수 없습니다.
+properties.laser.movespeedwhilefiring,사격 시 속도 {.percent}
+upgrades.keeper3shurikencooldown1.title,찰나 수리검
+upgrades.orchardduration2.desc,과일의 이로운 효과가 더 강해지고 더더욱 오래 지속됩니다.
+options.input.controls,조작
+upgrades.droneyardovercharge3.desc,드론 배치장이 과충전될 시 더 많은 추가 드론을 생산합니다.
+upgrades.blastminingimpactdetonation.desc,폭발성 차저는 표면에 충돌 시 즉시 폭발하며 충격을 받은 쪽으로 폭발 범위가 어느정도 쏠리게 됩니다.
+upgrades.shieldstrength3.title,방어력 3
+level.gameover.clientdisconnect,주최자로부터 연결 해제
+upgrades.swordstabexplode.desc,"검에 폭탄을 달아, 검이 찌르는 첫 번째 적에게 폭발을 일으킵니다."
+properties.keeper4.minpunchdelay,최고 펀치 속도 {}초
+options.audio.music,음악
+upgrades.keeper3carrylimit3.title,운반 수용력 3
+upgrades.keeper4swiftpunch.desc,채광 시작 속도가 빨라집니다.
+assignment.showdown.desc,이 행성의 괴물들이 한 번의 커다란 공격을 준비 중입니다.
+properties.suitblaster.chargespeedpercharge,차지당 추가 충전 속도 {.percent}
+loadout.versusmod.versusmodifierhardrock,단단한 바위
+properties.keeper4.catgoblinminingspeed,냥고블린 채굴 속도 {.percent}
+keeperdlc.title,잊힌 키퍼들
+upgrades.drillbotduplicate.title,형제
+properties.mushroomfarm.drillbuffduration,채굴 버프 지속시간 {}초
+upgrades.droneyardbattlegridlong1.desc,전장에 더 오래 머무르는 드론을 더 출동시킵니다.
+level.gameover.prestige.uploading.inprocess,점수 업로드 중...
+upgrades.furnace.desc,굴뚝이 달린 용광로를 설치합니다. 흘러나오는 연기가 다음 괴물 공격을 지연시킵니다.
+leaderboard.needsOnlineServices.ps5,설정에서 EULA에 동의하면 리더보드를 확인할 수 있습니다.
+options.game.multiplayer,멀티플레이
+upgrades.shieldbattledestructionprevention.desc,"돔이 파괴될 것 같을 때, 긴 무적 시간을 얻습니다.
+이후, 방어막이 다음 전투 때 충전되지 않습니다. 최후의 보루는 웨이브가 2번 지나야 다시 발동할 수 있습니다."
+properties.keeper2.bundlestopcenter,중심 기둥 중력장
+upgrades.chainsawdamage2.title,톱 크기 2
+upgrades.keeper2rotationalmining1.title,압축 채굴 1
+upgrades.swordlargeblade1.title,중검 1
+assignment.mode.regular,일반
+level.tutorial.assessor.spheres.desc2,구체 보급은 제한적이며 시간의 흐름에 따라 자동적으로 재충전됩니다.
+level.tutorial.assessor.spheres.desc1,| 버튼을 눌러 바라보는 방향으로 키네틱 구체를 발사합니다.
+upgrades.repellentdelay2.desc,다음 괴물들의 웨이브 지연을 더 증가시킵니다.
+upgrades.artillerydirecthit1.desc,박격포를 직격탄에 특화된 포탄으로 개선시킵니다.
+reward.rewardpet12.title,개 애완동물
+upgrades.keeper2movement4.desc,자원을 모으고 운반할 때 더 빠르게 움직입니다.
+properties.sword.stabspeed,찌르기 속도 {.percent}
+upgrades.artillerysplash3.title,휘발성 폭탄 2
+properties.drillbot.amount,채굴량 {}회
+options.game.autopickupkunaicarrier,쿠나이 캐리어 자동 들기
+upgrades.stunlaserautonomy1.desc,제어 스테이션 내에 있지 않더라도 기절 레이저가 활성화됩니다.
+properties.laser.stun,기절력 {}
+loadout.proceed,진행
+multiplayer.host.joincodeunavailable,이용 불가
+upgrades.shieldbattlelongerafterdepletion.desc,방어막이 고갈된 후 폭발이 발동될 시 폭발이 더 오래 지속됩니다.
+level.tutorial.assessor.mining.desc,"돌 하나를 없애기 위해선, 계속 밀어야 합니다."
+upgrades.teleporterteleportresourcesback.desc,포탈이 주변 자원을 자동으로 빨아들여 돔으로 순간이동시킵니다.
+keybindings.reset.doreset.ps5,내 버튼 설정 초기화
+upgrades.jetpackstrength1.title,운반력 1
+level.tutorial.beastmaster.squad_1,구멍 주변에서 | 버튼을 유지해 채광 부대를 소환합니다.
+loadout.prestige.pro.explanation,"일부 무작위성을 줄이고 도구, 보조 장비, 동굴의 고정된 순서를 정의합니다."
+level.tutorial.beastmaster.squad_3,채광 부대는 한번에 하나만 활성화 가능합니다.
+upgrades.swordelectrified.desc,"전류가 검신에 흘러, 닿을 시 피해를 입힙니다."
+level.tutorial.beastmaster.squad_2,채광 부대는 구멍 주변의 바위를 무작위로 채굴합니다.
+upgrades.drill1.title,채굴력 1
+loadout.start.area.move,키퍼가 전부 여기 모이면 시작합니다!
+level.station.upgrademenu.close,닫기
+upgrades.rocketlauncherrestock.title,미사일 재충전
+upgrades.chainsawdamage1.desc,회전 톱이 괴물들에게 가하는 피해량을 증가시킵니다.
+level.station.battle.navbar.artilleryshoot,박격포
+upgrades.repellentdelay3.title,지연 3
+upgrades.suitblasterspeed1.title,충전 속도 1
+level.gameover.stats.additional,상세한 통계
+options.audio.music.ost.mode.adaptive,적응형 (추천)
+upgrades.furnacestrongwaterfiring.title,향상된 물 연료
+properties.dome.meleethorndamage,반환된 피해 {}
+upgrades.repellentbattlelongerhealthreduction.desc,보이는 모든 괴물의 약화 효과를 강화합니다.
+level.tutorial.tesla.panel3header,다양한 능력
+versus.corruptionstunresistance.desc,괴물들의 기절 혹은 둔화 저항력이 크게 높아집니다.
+level.tutorial.assessor.spheres,키네틱 구체
+upgrades.chainsawdouble.title,이중 회전 톱
+upgrades.keeper4squad1.desc,근방 바위를 채굴하는 특화된 냥고블린 광부 소대를 소환합니다. 주변 자원을 파내는 특별한 재주가 있습니다.
+versus.message.corruption,상대 팀에서 막 당신 측으로 괴물 오염을 보냈습니다.
+options.keybindings.action.keeper.gadget1,도구 1
+options.keybindings.action.keeper.gadget2,도구 2
+upgrades.shieldbattlereflectspeed.title,반사 가속화
+properties.monsters.additionalstartweight,추가 웨이브 중량 {}
+level.gameover.stats.damagedealt,가한 피해량
+properties.keeper2.reflectspeed,구체 속도 강화 {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,추가 능력 지속시간 {}초
+properties.converter.ironcobalttime,철을 코발트로 변환하는 시간 (주기) {}
+upgrades.droneyardbattlegrid.desc,근방의 괴물들로부터 보호를 제공하는 전투 드론 편대를 배치합니다.
+upgrades.suitblasterradius1.desc,폭발 반경을 증가시킵니다.
+upgrades.droneyardbattlegridquick1.title,빠른 드론
+options.input.controls.keybindings.button.ps5,버튼 설정 변경
+multiplayer.host.ping,서버 핑: %dms
+title.navbar.singleplayer,싱글플레이
+options.video.renderhalfres.enable,해상도 절반 렌더링
+level.gameover.stats.destroyedblocks,파괴한 블록
+upgrades.converterefficientwaterlong.desc,물 변환 과정이 길어지지만 생산량이 더 많아집니다.
+level.gameover.restart,게임 재시작
+options.video.stretchmode.scaled,배율 조정
+level.tutorial.beastmaster.mine.desc1,돌을 채굴하려면 계속 해당 방향으로 밀어내세요.
+level.tutorial.beastmaster.mine.desc2,채굴 속도는 매번 적중할 때마다 증가합니다.
+upgrades.domesupplementscraprepair2.desc,고철 수리로 인해 잃은 돔의 체력을 복구합니다.
+upgrades.keeper2bundle3.desc,"중심축을 향해 발사된 번들이 축을 지나가는 대신, 돔 바로 아래 지점에서 멈춥니다."
+leaderboard.fellowkeepers,길드 랭킹
+upgrades.autocannon.desc,돔에 자동으로 작동하는 강력한 포를 설치해 괴물들에게 큰 피해를 줍니다.
+properties.orchard.battlerootcatchduration,함정 지속시간 {}초
+upgrades.laseraimline.desc,"레이저에 조준기를 달아, 어디를 조준하는지 보여줍니다."
+upgrades.teslapersistance2.title,지속 구체 2
+upgrades.orchardovercharge2.desc,과충전이 전투 능력에 미치는 영향을 증가시킵니다.
+actionhint.teleport,텔레포트
+loadout.difficulty.medium.description,Dome Keeper가 의도한 난이도입니다.
+upgrades.swordlargeblade2.title,중검 2
+loadout.prestige.endless,무한
+upgrades.teslanurture.title,성장형 전격 구체
+upgrades.shieldbattleelectroblast.desc,활성화 가능한 전투 능력을 얻습니다. 돔 주변을 짧은 시간 동안 치명적인 지역으로 만듭니다.
+options.game.blocklist.desc,"차단한 유저들의 목록입니다.
+차단한 유저는 향후 온라인 게임에서 함께 플레이 할 수 없습니다.
+차단한 유저에 대해 마음이 바뀌었다면, 아래에서 차단을 해제하세요.
+최대 %s명의 유저를 차단 가능합니다."
+actionhint.cancel,취소
+upgrades.shockwavestun2.title,충격파 기절 2
+upgrades.liftcapacity1.desc,구체가 더 많은 자원을 싣게 합니다.
+upgrades.domewavemeter.title,적대 생물 근접 감지기
+level.gameover.assignment.win.title,임무 완료
+gadget.slot.cellar,저장고
+options.game.ropecamerafollow,밧줄 사용 시 카메라 전방 주시 강도
+properties.probe.autorecharge,자동 재충전
+level.tutorial.repair.usecobalt,코발트로 돔을 수리할 수 있습니다. 돔 테크 트리에서 업그레이드를 살펴보세요.
+level.supplementchoice.title,보조 장비를 선택하세요!
+options.keybindings.action.general.right,오른쪽
+gadget.slot.keepersuit,키퍼 수트
+assignment.cobaltcontribution.desc,길드에서 코발트가 긴급히 필요하므로 많은 양을 서둘러 제공해 달라고 요청했습니다.
+upgrades.prestigefinish.desc,행성을 떠나 고향으로 돌아갑니다.
+loadout.mapsize.huge.description,긴 게임을 위한 거대한 맵입니다.
+options.game.events,이벤트
+loadout.versusmod.versusmodifierrichirondeposits.desc,철 매장지가 작아지지만 산출량이 많아집니다.
+loadout.mode.shortcycles.desc,웨이브 간 시간 간격이 감소합니다.
+multiplayer.error.lobby.host,로비 주최에 실패했습니다.
+level.tutorial.sworddome.reflecting,반사
+level.tutorial.artillery.panel3header,폭발 & 직격타
+assignment.rareiron.title,철 부족
+level.tutorial.assessor.carry.desc1_1,"물체가 잡히면, 수집 키를 놓아도 따라갑니다."
+level.station.battle.navbar.slice,베기
+upgrades.furnacewaterfiring.title,물 연료
+upgrades.drill.desc,"광산 깊은 곳으로 내려가는 중앙 드릴로, 선택적으로 부가 드릴을 추가할 수 있습니다."
+level.gameover.stats.additionalgadget,추가 도구
+level.tutorial.tesla.panel2content1,|를 길게 눌러 사격을 충전합니다.
+level.tutorial.tesla.panel2content2,사격하려면 완전히 충전된 뒤에만 버튼을 놓아 발사하세요. 그전에 놓으면 아무 일도 일어나지 않습니다.
+upgrades.teslapersistance1.desc,전격 구체가 더 커지고 더 오래 지속됩니다.
+upgrades.blastminingtriple.desc,한 번에 하나가 아니라 여러 개의 폭발성 차지를 생성합니다.
+properties.droneyard.battledronecount,전투 드론 {}
+options.ok,확인
+loadout.versusmod.versusmodifiermanycaverns,동굴 지도
+upgrades.lasermove1.desc,레이저가 더 빠르게 움직입니다.
+upgrades.domewavewarner.desc,웨이브가 다가와 돔으로 돌아가야 할 때가 되면 웨이브 경고기가 신호를 줍니다. 적응형 경고기는 시간의 흐름에 따라 정확도가 상승합니다.
+upgrades.dome4.title,테슬라 돔
+upgrades.keeper4squad1.title,터널 소대
+upgrades.keeper4autospawnminers.desc,새로운 터널 입구를 파면 광부 분대가 즉시 자동으로 나타납니다.
+assignment.unpredictable.title,통신 고장
+upgrades.blastminingblast3.desc,폭발성 차지를 극한의 위력으로 업그레이드합니다.
+upgrades.domewavepathtodome.title,탈출구
+level.tutorial.probe.popup_1,| 버튼을 눌러 탐지기 파를 발산합니다.
+upgrades.teslapower1.desc,테슬라의 사격력을 증가시킵니다.
+loadout.versus.modifiers.title,변칙
+properties.furnace.irondelay,철로 인한 지연 {}초
+actionhint.pickup,집기
+demo.end.subtitle,정식판에서는 다양한 콘텐츠를 제공합니다. 재밌으셨다면 정식판 구매를 고려해주세요. 아래는 제공하는 콘텐츠입니다.
+loadout.versusmod.versusmodifierironinflation.desc,"모든 업그레이드에 철이 2배로 필요하게 되지만, 철 매장량이 더 많아집니다."
+properties.spire.splitshot,투사체 분산
+options.video.brightness.reset,초기화
+upgrades.domesandrepair.desc,코발트로 돔을 수리합니다.
+upgrades.swordlongblade2.title,장검 2
+pause.restartrun,게임 재시작
+options.input.gamepad.thumbstick.ps5,스틱
+level.tutorial.caves,동굴
+options.input.gamepad.gamepadstickdeadzone,아날로그 스틱 데드존
+upgrades.keeper3shuriken2.title,빠른 수리검
+upgrades.condenserspeed1.desc,물을 1개 응결시키는 데 필요한 시간을 줄입니다.
+properties.monsters.fixedweight,고정된 웨이브 강도 {}
+properties.versus.ironcontribution,철 기부 {}
+multiplayer.join.title,멀티플레이 세션 접속
+upgrades.prestigewater.title,물 전송
+upgrades.keeper3kunaibounce2.title,심층 공명
+upgrades.swordtargetlock.title,목표 고정
+upgrades.artillerymachinegun4.title,속사포
+upgrades.mushroomfarmdrill2.title,버섯 채굴 2
+upgrades.stunlaser.desc,자동으로 적들을 추적하고 기절시키는 레이저를 설치합니다.
+upgrades.shieldbattleinvulnerable.title,무적
+loadout.hint.dome,돔을 선택하세요!
+loadout.versusmod.versusmodifierrichirondeposits,밀집 철 매장지
+upgrades.chainsawdouble.desc,추가로 회전 톱을 설치해 돔의 양면을 효과적으로 보호합니다.
+properties.lift.capacity,구체가 {}개의 자원을 실을 수 있음
+reward.rewardcentralmarker.title,중심 마커
+upgrades.autocannonrateoffire1.title,기관총 1
+loadout.versusmod.versusmodifierwindingmap,구불구불한 지도
+upgrades.prospectionmetersand2.title,코발트 나침반
+properties.keeper2.totalspheres,구체 {}개
+upgrades.keeper3doublejump.desc,공중에서 한 번 더 점프할 수 있습니다.
+upgrades.droneyardparasites3.title,기생형 드론 3
+upgrades.keeper4doublesquad.title,후속대
+upgrades.relichunt.title,유물 사냥
+upgrades.orchardbattlerooting.desc,"전투 중 활성화하면 돔 밖에 뿌리가 자라며, 그 위를 밟는 중형 괴물을 가둡니다."
+upgrades.prospectionmetergadget.title,고성능 계측기
+properties.sword.reflection,방어막 패드 크기 증가
+upgrades.extractorresources1.desc,세심하게 일하면서 철을 더 추출하는 특별한 벌레를 기릅니다.
+properties.dome.autohealdamagethreshold,{}hp 이상의 피해를 입었을 때 활성화
+upgrades.keeper2rotationalmining2.desc,채광 속도를 증가시킵니다.
+properties.tesla.persistencestunstrength,전격 구체 기절 강도 {}
+level.gameover.stats.timeplayed,플레이 시간
+properties.sword.stabdamage,찌르기 피해량 {}
+properties.monsters.additionalwaveweight,추가 웨이브 강도 {.percent}
+options.game.playerindicatorsinmultiplayer,멀티플레이에서 플레이어 이름 표시
+properties.mushroomfarm.speedbuff,이동 속도 버프 {}
+level.tutorial.drillbot.carry,탱크에서 드릴버트를 데려다가 채광이 필요한 광산에 놓으세요.
+modding.modio.decline,비동의
+assignment.inversegravity.desc,행성의 중력이 역전된 상태입니다.
+level.tutorial.drop.popup_2,| 버튼을 눌러 떨어뜨리세요. 유지 시 더 많이 떨어뜨립니다.
+upgrades.droneyardbattlegridquick1.desc,더 많은 드론을 더 빠르게 연속적으로 출동시킵니다.
+upgrades.mushroomfarmautopickup.desc,버섯 근처로 이동할 시 자동으로 소모합니다.
+level.tutorial.drop.popup_1,싣고 다니는 자원 때문에 속도가 느려집니다.
+properties.sword.retractspeed,회수 속도 {}
+reward.rewardkeeper1skin5.title,엔지니어 스킨
+upgrades.keeper4.desc,"재빠른 촉수로 광산을 누비는 신비한 키퍼로, 냥고블린 수하들에게 명령을 내립니다."
+assignment.condition.deliverwater,물 %d개 배송
+loadout.difficulty.hard.description,내 돔이 부서지는 건 아니니까요.
+upgrades.keeper4speed2.title,이동 속도 2
+loadout.versusmod.versusmodifierhardrock.desc,지도의 바위가 더 단단해집니다.
+properties.furnace.maxironstack,최대 철 보유량 {}
+upgrades.rocketlauncherdamage2.desc,미사일을 더욱 더 개선시킵니다.
+upgrades.artilleryrotation1.desc,대포를 더 넓은 각도로 회전시킬 수 있게 합니다.
+level.furnace.popup.fuel.add,태울 | 하나를 더미에 추가하세요.
+reward.rewardpostrunshowmonstercount.desc,각 괴물 유형별로 받은 피해량 등 전투 통계를 추가적으로 표시합니다
+upgrades.extractordoublebuild.title,벌레 두 배
+multiplayer.error.otherteamquit,다른 팀의 모든 플레이어들이 떠나 게임이 끝났습니다. 게임이 저장되었으며 메뉴에서 멀티플레이를 선택해 게임을 이어 할 수 있습니다.
+upgrades.blastminingproductiontime1.title,생산 시간
+upgrades.chainsawdamage2.desc,회전 톱이 괴물들에게 가하는 피해량을 증가시킵니다.
+multiplayer.continue.deviceselection.originalplayer,오리지널 플레이어
+upgrades.shieldbattleinvulnerable.desc,돔을 짧은 시간 동안 무적 상태로 만드는 전투 능력을 발동합니다.
+level.gameover.unlock.drillbert,드릴버트 변칙 해금!
+multiplayer.host.splitscreen.desc.switch,로드아웃에서 컨트롤러를 사용해 추가 키퍼를 소환합니다. 최대 두 명의 키퍼가 한 화면을 공유할 수 있습니다. 온라인 멀티플레이와 병행할 수 있습니다.
+loadout.mapsize.large,대형
+level.furnace.popup.explanation,연료 더미에 자원을 추가하세요. 자원은 하나씩 태워집니다.
+upgrades.liftcapacity1.title,용량
+upgrades.shockwavebig.title,치명적 파동
+upgrades.extractorresources2.desc,암석 내에 있는 마지막 철 입자까지 다 찾아내는 벌레를 기릅니다.
+level.tutorial.ninja.shuriken.desc1,| 버튼을 두 번 탭 해 수리검을 투척합니다.
+level.tutorial.ninja.shuriken.desc2,수리검은 시간이 지나면 자동으로 보충됩니다.
+upgrades.droneyarddronespeed1.title,드론 속도
+upgrades.stunlaserarea.title,범위 기절
+assignment.weakmining.title,채굴 문제
+options.game.events.allowtelemetry.ps5,EULA 동의
+upgrades.keeper3kunaibounce2.desc,튕길 때마다 밝혀지는 타일의 범위를 증가시킵니다.
+assignment.projectilehell.title,탄막 지옥
+options.input.controls.mouse.gamepad.ps5,컨트롤러로 전환 후 복구가 자동으로 탐지되었습니다.
+reward.rewardpermanenthealthmeter.title,기본적인 체력 수치
+properties.game.fixedtimelimit,시간 제한: {} 분
+upgrades.drillbot.title,드릴버트
+options.video.performance,성능
+properties.furnace.waterduration,물 소각 시간 (주기) {}
+level.gameover.win.team.profile,프로필
+upgrades.droneyardbattlegrid.title,전투 편대
+loadout.prestige.countdown.description,20주기 동안 가능한 한 많은 위신을 획득하세요. 위신 배수는 20에서 시작하며 주기마다 1씩 감소합니다.
+level.tutorial.ninja.carry.desc1,| 버튼을 눌러 %s을(를) 사용해 조준하는 방향으로 자원을 실은 쿠나이를 투척합니다.
+level.gameover.miner.title,광부 게임 완료
+loadout.mapsize.medium.description,적절한 채광 세션을 위한 평범한 크기입니다.
+upgrades.assignmentsemergencycontribution2.desc,이 패키지를 4번째 웨이브가 끝나기 전까지 보내지 않으면 이 임무는 실패합니다.
+level.gameover.unlocknewelementbutton,해금할 것을 선택하세요
+upgrades.repellentbattlestrongerslowdown2.desc,안개가 괴물들을 훨씬 더 많이 감속시키고 훨씬 더 오래 지속됩니다.
+upgrades.orchardovercharge3.desc,과충전이 전투 능력에 미치는 영향을 증가시킵니다.
+modding.steamworkshop,Steam 창작마당 열기
+upgrades.shieldstrength2.title,방어력 2
+reward.rewardkeeper1skin5.desc,엔지니어의 새로운 키퍼 스킨을 하나 해금합니다.
+options.keybindings.rebinding.error.gamepad.ps5,해당 입력을 컨트롤러 입력키로 설정할 수 없습니다.
+properties.keeper2.actioncooldown,행동 쿨타임 {}초
+pause.godot,Godot로 제작
+loadout.mode.nomonsters,괴물 없음
+properties.teleporter.teleportduration,텔레포트 지속시간 {}초
+level.paused,일시 정지
+upgrades.teslaautoaim.desc,십자선에 작은 구역이 생겨 가장 가까이에 있는 괴물을 자동으로 조준하게 합니다.
+upgrades.domearmorpulse.desc,돔의 장갑에 공격을 받으면 강력한 파동을 발사해 근방의 적들을 기절시키는 키네틱 에너지를 부여합니다.
+upgrades.teslapower2.title,전력 강화 2
+modding.close,닫기
+upgrades.stunlaserduration2.desc,기절 레이저의 냉각 속도가 더 빨라지고 발사 지속 시간이 늘어납니다.
+level.station.battle.navbar.move,이동
+upgrades.repellentbattleslowdown.title,쇠약화
+properties.drillbot.buffstrength,속도 강화 {.percent}
+options.input.controls.keybindings.button.switch,버튼 설정 변경
+upgrades.keeper4speed1.title,이동 속도 1
+upgrades.stunlaserduration2.title,사격 스태미너 2
+modding.profile.delete,프로필 지우기
+upgrades.dome1health1.desc,영구적으로 돔의 구조적 체력을 증강합니다.
+assignment.logistics.title,운송 재앙
+level.gameover.prestige.score.finalscore,최종 점수는...
+upgrades.prestige.desc,"최대한 많은 자원을 전송해 키퍼 길드에서 위신을 획득하고, 너무 늦기 전에 행성을 떠나세요!"
+properties.chainsaw.damage,초당 피해량 {}
+upgrades.autocannonshotgun2.desc,산탄총의 위력을 증가시킵니다.
+reward.rewardthreechoicesgadget.title,3가지 도구 제안
+options.input.gamepad.twinstick,스틱 조작
+upgrades.domewavewarner.title,적응형 웨이브 경고기
+upgrades.mushroomfarmdrill1.desc,버섯을 소모해 획득하는 채굴 버프가 증가합니다.
+properties.suitblaster.chargespeed,주기당 차지 충전량 {}
+loadout.player.color,키퍼 색상
+level.assignment.badges.unlock,%d개의 배지를 더 획득하여 해금하세요.
+assignment.projectilehell.desc,행성이 날아다니며 투사체를 내뱉는 괴물들로 들끓습니다.
+properties.repellent.overchargebattleabilityduration,추가 능력 지속시간 {.percent}
+properties.orchard.battleshieldhp,방어력 {}hp
+properties.keeper2.reflectsphere,반사장
+upgrades.probecharges.desc,탐지기에 충전기를 하나 더 추가합니다.
+upgrades.resourcepackerconstant.title,숙달된 포장
+upgrades.droneyardbattlegridlong2.desc,전장에 더 오래 머무르는 드론을 더욱 많이 출동시킵니다.
+upgrades.swordreflection2.desc,방어막 패드가 더 커집니다.
+upgrades.orchardovercharge3.title,강력한 과충전
+upgrades.assignmentsemergencycontribution4.desc,이 패키지를 11번째 웨이브가 끝나기 전까지 보내지 않으면 이 임무는 실패합니다.
+upgrades.droneyardovercharge3.title,확장된 과충전
+level.gameover.assignment.lose.title,임무 실패
+actionhint.pack,포장
+upgrades.stationextensionminimap.title,지도 제작
+properties.tesla.orbdamage,전격 구체 피해량 {}
+properties.furnace.maxwaterstack,최대 물 보유량 {}
+loadout.versusmod.versusmodifiermirroredmap,거울 세계
+upgrades.artilleryrotation1.title,넓은 회전
+upgrades.drillsidespeed2.desc,부가 드릴의 속도를 더 증가시킵니다.
+level.tutorial.resourcepacker.popup_1,자원에 가까이 가면 |키를 눌러 자원을 압축된 번들로 만들어 운반하기 쉽게 합니다.
+properties.orchard.overchargeabilityuses,추가 능력 사용 {}
+options.input.controls.gamepadusage.ps5,컨트롤러 사용
+options.keybindings.restoredefault,기본값 복구
+options.input.gamepad.switch,컨트롤러
+upgrades.stationextensionresolution.title,고화질 디스플레이
+upgrades.shieldbattlelongerafterdepletion.title,고갈 부스트
+telemetry.manage.ps5,EULA 비동의
+level.gameover.stats.damagereceived,받은 피해
+modding.modio.moddownloadfailed,mod.io 모드 다운로드 에러!
+loadout.versusmod.versusmodifierironinflation,철 인플레이션
+reward.rewardpermanentwavecount.title,기본적인 주기 카운터
+upgrades.jetpackstrength1.desc,제트팩을 강화해 더 많은 자원을 옮깁니다.
+level.gameover.unlock.gadget,새 도구
+upgrades.stationextension.desc,돔 바로 아래의 레일을 따라 움직이는 이동형 스테이션을 얻습니다. 스테이션에 들어가 광산 안에서 돔을 원격으로 조종할 수 있습니다.
+loadout.versusmod.versusmodifierpoorirondeposits.desc,철 매장지가 매우 커지지만 산출량이 적어집니다.
+upgrades.repellentbattlestrongerslowdown2.title,강력 정체화
+upgrades.converterirontocobalt.desc,"코발트를 철로, 역으로도 변환 가능하게 해줍니다."
+loadout.dome,돔
+upgrades.orchardduration3.title,과일 3
+level.gameover.stats.resourcesmined,채굴한 자원
+options.input.gamepad.thumbstick,아날로그 스틱
+upgrades.keeper1powerdrill.desc,가장 단단한 바위도 쉽게 뚫을 수 있는 대폭 개선된 드릴을 얻습니다. 심지어 이전에는 파괴할 수 없었던 기반암도 파괴할 수 있습니다!
+upgrades.domesecondweapon.title,두 번째 스테이션 무기화
+actionhint.fire,발사
+versus.corruptionfastprojectiles.title,빠른 투사체
+level.gameover.unlock.dome,새 돔
+loadout.versus.modifiers.limit,변칙 %d / %d개 선택됨.
+upgrades.swordstabfast2.title,빠른 찌르기 2
+properties.blastmining.growthtime,생산 시간 (주기) {}
+options.keybindings.rebinding.inputprocessor.ps5,해당 액션에 사용할 새로운 버튼을 입력해 주세요...
+level.gameover.stats.difficulty,난이도
+assignment.inversegravity.title,상하 전환
+assignment.acidrain.desc,행성의 산성 비는 어떤 생명도 살아갈 수 없게 하며 돔의 장갑마저 뚫습니다.
+upgrades.keeper4doublesquad.desc,부르면 언제든 일할 준비가 되어 있는 부대를 하나 더 얻습니다.
+upgrades.keeper4powerfulfirstpunch.desc,타일을 처음 공격할 때 엄청난 힘으로 가격합니다.
+multiplayer.host.start,세션 주최
+upgrades.mushroomfarmspeed2.title,버섯 속도 2
+demo.end.more1,더 많은 돔
+demo.end.more2,어세서 키퍼!
+upgrades.swordreflection1.desc,방어막 패드 크기를 증가시켜 에너지 투사체를 반사하게 합니다.
+demo.end.more3,더 많은 도구!
+upgrades.chainsawspeed1.title,톱 속도
+assignment.treefarm.desc,"행성의 자원은 적지만, 자원 나무 씨앗을 많이 찾을 수 있습니다."
+demo.end.more4,강력한 보조 장비!
+options.input.gamepad.gamepadstickdeadzone.text,"게임패드 스틱을 건드리기만 하고 밀지는 않을 때, 바가 깜빡거리지 않도록 값을 설정합니다.
+스틱을 밀 경우, 바가 깜빡거립니다."
+actionhint.probe,탐지기
+level.gameover.keepgadget.keeping,가져갈 도구: {gadget}
+upgrades.keeper3aerialmastery.desc,허공에서 추락 시 제어력이 상승하며 허공에서 점프할 때마다 전보다 더 높게 상승합니다.
+upgrades.drillbot.desc,채굴을 좋아하는 사랑스런 생물을 기릅니다. 광산에 데리고 가 원하는 곳에 놓으면 됩니다. 잠에 들 시 깨워서 일을 다시 하도록 하면 됩니다.
+upgrades.laserstrength4.title,동력 4
+upgrades.artillerydoublemachinegun.title,더블 배럴
+upgrades.laserbend.desc,"레이저에 회전식 헤드를 설치해, 부정확한 조준을 자동으로 보정하게 합니다."
+upgrades.teslaquickshot2.title,강력한 속사!
+properties.droneyard.battledronespawntime,드론 소환 시간 {}초
+upgrades.prospectionmetersand2.desc,가장 가까운 코발트 매장지의 방향을 표시합니다.
+upgrades.keeper2pinballreflect2.title,향상된 반사
+loadout.secondstage.start,게임 시작
+level.tutorial.extractor.popup_1,"스테이션에서 철 벌레를 가져와 철 덩어리 근처에 떨어뜨리면, 철 벌레는 철에 붙어 시간이 지나면서 효율적으로 채굴합니다."
+upgrades.spirestuntrap2.desc,"에너지 함정의 효율을 증가시키고, 더 많은 투사체를 방어하게 합니다."
+loadout.versus.condition.deathmatch.desc,가장 오래 살아남는 팀이 승리합니다.
+loadout.versusmod.versusmodifiertoughstart.desc,처음부터 꽤나 어려운 괴물들이 웨이브에 등장합니다.
+level.tutorial.drillingrig.popup2,측면 드릴에 가까이 가면 |키를 길게 눌러 드릴 축을 따라 이동시킬 수 있습니다.
+level.tutorial.drillbot.sleeping2,"근처에서, | 버튼을 눌러 깨웁니다."
+upgrades.teleporterteleportitems.title,물건 텔레포트
+level.tutorial.drillingrig.popup1,당신의 채굴 장비에는 수평으로 채굴하는 측면 드릴이 장착되어 있습니다.
+level.tutorial.ninja.drop.desc1,바닥에서 %s을(를) 사용해 아래를 조준 후 | 버튼을 눌러 집고 있는 모든 물건을 떨어뜨립니다.
+upgrades.stationextension.title,지하 스테이션
+upgrades.keeper2pinballreflect2.desc,구체가 반사될 때 더 강해집니다.
+properties.sword.stabrange,범위 {}
+pause.disconnect.popup.ps5,메인 무선 컨트롤러의 연결을 해제할 수 없습니다.
+options.game.systemcursor,기본 마우스 커서 사용
+upgrades.artillerygrenadefastreload.desc,박격포의 재장전 시간을 비약적으로 감소시킵니다.
+upgrades.stationextensionrevealdistance1.title,근접 바위 스캔
+loadout.mode.secondweapon,두 번째 무기 해금
+options.video.reducedparticles,입자 효과 감소
+properties.monsters.finalwavefixedstrength,최종 웨이브 강도 {}
+versus.corruptionfastmonsters.desc,괴물들이 영구적으로 더 빨라집니다.
+upgrades.spirestuntrap1.desc,"투사체를 명중 시 에너지 함정을 만들어내, 더 많은 투사체를 방어합니다. 방어하는 투사체의 양은 날아오는 투사체의 강도에 따라 달라집니다."
+versus.corruptionfastprojectiles.desc,괴물들의 투사체가 더 빠르게 날아갑니다.
+options.input.gamepad.twinstick.switch,스틱 조작 (단일 Joy-Con 사용 시 비활성화)
+upgrades.autocannonrateoffire2.title,기관총 2
+upgrades.chainsaw.title,회전 톱
+options.input.vibration.strength,진동 세기
+savegame.corrupted.title,오류 저장 파일
+properties.drillbot.drillstrength,채굴력 {}
+properties.prestige.multiplier,웨이브당 위신 배수 {}
+upgrades.artillerysplash4.desc,네 발의 고폭발성 포탄을 연속적으로 발사해 전장 전체에 파괴를 일으킵니다.
+upgrades.condenserdoublestorage.desc,응결기가 생산을 멈추기 전까지 물을 두 개까지 생산해 보관합니다.
+upgrades.shieldbattleactivateondepletion.desc,방어막이 고갈될 시 무적이 자동으로 한 번 더 발동합니다.
+upgrades.chainsawspeed1.desc,회전 톱이 더 빠르게 오갈 수 있게 속도를 증가시킵니다.
+upgrades.teleporterteleportduration2.title,텔레포트 지속시간 2
+properties.orchard.overchargeabilitystrength,추가 능력 사용량 {.percent}
+modding.modio.loginfailed,Xbox 계정으로 mod.io에 연결 실패!
+upgrades.rocketlauncherrockets3.title,일제 발사 3
+leaderboard.needsOnlineServices,리더보드를 확인하려면 온라인 서비스가 활성화 되어야 합니다.
+options.game.blocklist,차단한 유저 목록
+upgrades.keeper4squad2.desc,냥고블린 부대원의 수와 그 인내력을 증가시킵니다.
+reward.rewardweaponsupplements.desc,무장을 위한 매우 강력한 보조 장비 업그레이드를 발견합니다.
+upgrades.domesupplementadditionalcellar.desc,저장고에 한 층을 추가해 도구를 넣을 공간을 추가로 두 개 얻습니다.
+level.tutorial.assessor.bundle.desc1,"자원을 운반하는 동안 | 버튼을 눌러, 번들을 발사합니다."
+loadout.difficult.harder,어려움
+playerlist.close,닫기
+upgrades.keeper3rocketcarrier.title,로켓 캐리어
+level.tutorial.assessor.spheres.desc1.aiming,| 버튼을 눌러 %s을(를) 사용해 조준하는 방향으로 키네틱 구체를 발사합니다.
+level.gameover.unlock.gamemode,새 게임 모드
+upgrades.rocketlauncherrockets1.title,일제 발사 1
+upgrades.autocannonspeed1.title,속도 증가
+upgrades.spiresustain.desc,"재충전 시간을 거의 0으로 만들어, 굉장히 빠른 사격을 가능하게 합니다."
+upgrades.extractorresources1.title,근면한 벌레
+multiplayer.host.splitscreen.desc.xbox,로드아웃에서 컨트롤러를 사용해 추가 키퍼를 소환합니다. 최대 네 명의 키퍼가 한 화면을 공유할 수 있습니다. 온라인 멀티플레이와 병행할 수 있습니다.
+level.assignment.badges,배지
+upgrades.prestigefinish.title,행성 떠나기
+properties.sword.slicebounceback,모서리에 닿을 시 검 튕김
+properties.droneyard.transportdronecount,운송 드론 {}
+upgrades.drilladditionalsides.title,추가 부가 드릴
+upgrades.shieldbattleblastdamage.desc,전격 폭발의 피해량과 전투당 사용 횟수를 증가시킵니다.
+upgrades.extractordestruction.title,벌레집 폭발
+properties.sword.electricdamage,검 피해에 전격 피해 추가 {}
+properties.mushroomfarm.growthtime,성장 시간 (주기) {}
+upgrades.keeper3carrylimit1.desc,쿠나이 캐리어에 담을 수 있는 자원의 수를 증가시킵니다.
+options.accessibility.fontsize,글꼴 크기
+upgrades.keeper4punch2.title,광란 2
+upgrades.laser.desc,돔을 따라 움직이는 정밀 레이저입니다. 본래 소행성 채굴용입니다.
+loadout.hint.multiplayer.playermaximum,멀티플레이 게임을 시작하려면 8명 이하의 플레이어가 필요합니다.
+upgrades.drillsides.title,부가 드릴
+upgrades.mushroomfarmautopickup.title,빠른 한 입
+options.input.controls.mouseusage,마우스 사용
+properties.tesla.reticlemaxspeed,십자선 속도 {}
+upgrades.swordstabshoot.desc,"케이블로 회수되는 대신, 검이 충전된 뒤 돔에서 자벨린처럼 발사됩니다."
+properties.condenser.autocollect,자동 수집
+level.gameover.back,뒤로
+loadout.mapsize.small,소형
+loadout.hint.gamemode,게임 모드를 선택하세요!
+upgrades.swordlargeblade3.title,중검 3
+level.tutorial.ninja.controls,이 키퍼는 컨트롤러나 키보드/마우스로만 플레이 가능합니다.
+telemetry.explanation.ps5,"EULA에 동의할 시 온라인 멀티플레이에 접근할 수 있습니다.
+동의하지 않더라도 분할 화면을 사용한 로컬 멀티플레이는 사용 가능합니다.
+
+언제든 설정에서 이 내용을 변경할 수 있습니다."
+multiplayer.techtree.keeperexclusiveupgrades,해당 업그레이드는 당신의 키퍼에게만 적용됩니다.
+assignment.heavyhitters.desc,행성이 근접 공격을 하는 괴물들로 들끓습니다.
+options.input.controls.mouse.domes,돔 조작에 마우스 사용
+loadout.mode.toughstart, 힘든 시작
+upgrades.swordaimline.desc,레이저 사이트를 달아 검으로 찌르기 위해 조준합니다.
+loadout.versus.condition.irondelivery.title,철 배송
+upgrades.domearmormelee1.title,근접 장갑 1
+assignment.showdown.title,결전
+upgrades.keeper3shuriken1.desc,작은 범위에 폭발을 일으키고 자동적으로 보충되는 투척 가능한 수리검을 얻습니다.
+upgrades.teslatiming1.title,완벽한 타이밍
+upgrades.stationextensionrevealdistance2.title,바위 스캔
+loadout.prestige.pro.gadgetorder,도구 순서
+upgrades.prospectionmeterwater1.title,수원 계측기
+properties.teleporter.teleportresources,자원 텔레포트
+options.video.stretchmode.scaled.text,"게임을 고정된 해상도로 렌더링하고 해상도에 맞게 늘립니다.
+특히 폰트 같은 경우가 화소화 될 수 있지만, 시각적인 에러는 나타나지 않습니다."
+loadout.abort,취소
+level.station.battle.navbar.stab,찌르기
+properties.keeper3.bouncesonarrange,음파 범위 (타일) {}
+assignment.cobaltcontribution.title,코발트 기부
+upgrades.keeper2pinballsplit.desc,들어오는 구체를 두 개로 분할하여 기존 방향으로부터 수직으로 발사합니다.
+options.input.gamepad.xbox,컨트롤러
+upgrades.stunlaserduration1.desc,기절 레이저의 쿨타임이 빨라지며 더 오랫동안 발사됩니다.
+properties.spire.stuntrapduration,지속시간 {}초
+loadout.mapsize.medium,중형
+upgrades.keeper4swiftpunch.title,재빠른 채광
+upgrades.domewavecount.title,주기 카운터
+level.gadgetchoice.slot,슬롯: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,"버섯 줄기에서 미젤 포자를 가져와 바위에 떨어뜨리면, 버프 버섯으로 자라나게 됩니다."
+options.game.languages,언어
+upgrades.autocannonshotgun2.title,산탄총 2
+upgrades.drillbotturnaround.title,상급 훈련
+level.tutorial.overcharge.popup_2,근처로 이동한 후 | 버튼을 눌러 과충전합니다.
+level.tutorial.overcharge.popup_3,이는 | 자원을 하나 소모하며 자원이 있는 경우에만 사용 가능합니다.
+level.tutorial.overcharge.popup_1,이제 기본 도구를 과충전해 다음 전투에서 강화시켜 사용할 수 있습니다.
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,"기중기 구체를 사용하지 않고, 기중기 내부의 모든 자원은 역중력장에 의해 위로 계속 상승합니다. 구체에 소모된 자원을 부분적으로 돌려줍니다."
+level.station.navbar.battle,전투
+options.keybindings.rebinding.error.mouse,해당 입력을 마우스 입력키로 설정할 수 없습니다.
+options.input.gamepad.autoswitch.ps5,선호하는 컨트롤러 자동 탐지
+properties.lift.keeperupwardsspeed,키퍼 기중기 속도 {}
+loadout.keeper,키퍼
+level.gameover.unlock.keeper,새 키퍼
+options.keybindings.rebinding.inputprocessor,해당 액션에 사용할 새로운 키를 입력해 주세요...
+options.keybindings.gamepad.ps5,컨트롤러
+upgrades.keeper4extraresource.title,근면한 냥고블린
+upgrades.shieldoverchargestrength2.title,방어력 과충전 2
+loadout.mode.domesupplements,삼중 보조 장비
+upgrades.converter.desc,자원을 변환 시킬 수 있습니다. 자원을 균형 있게 유지할 수 있게 됩니다.
+assignment.minorvision.title,어둠
+upgrades.shieldstrength1.desc,돔의 방어막이 흡수할 수 있는 방어력이 증가합니다.
+properties.stationextension.tilerevealdistance,공개 거리 {}타일
+loadout.mode.toughstart.desc,웨이브 적들이 더 강해진 상태로 시작합니다.
+upgrades.liftcarrykeeper1.desc,기중기 안에서 움직이는 속도가 빨라집니다.
+options.input.controls.mouse.aim,조준에 마우스 사용
+upgrades.spireprojectileslowdown.desc,첨탑이 지속적으로 모든 적들의 투사체를 감속시킵니다.
+assignment.chosen.title,당신의 길드 임무
+upgrades.furnacestrongwaterfiring.desc,물을 가열해 괴물들의 공격을 지연시키는 효과를 증가시킵니다.
+properties.dome.healthfractionrepair,총 hp 중 {.percent} 수리
+level.tutorial.assessor.carry,중력 수집
+upgrades.laserhitprojectiles.title,투사체 융해
+upgrades.teslaorbstun.title,충격 효과
+reward.rewardgadgetsupplements.title,도구 보조 장비
+options.input.controls.keepersettings.individual,개인 키퍼 설정
+upgrades.teslapower2.desc,테슬라의 사격력을 증가시킵니다.
+properties.acidrain.fixeddamageperminute,분당 피해량 {}
+demo.end.more,거기다...
+landing.proceed,아무 버튼이나 눌러 계속
+modding.modio.ugcterms.content2,"계속할 시, 귀하의 Xbox Live ID는 mod.io에 실시간 인증에 사용됩니다. 진행을 위해 mod.io 약관을 읽고 동의하셔야 합니다."
+upgrades.keeper4catgoblinamount.title,더 많은 번식
+modding.modio.ugcterms.content3,[i]해당 약관은 귀하의 시스템 내 기본 웹 브라우저로 확인 가능합니다.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,정체화
+upgrades.spiresplit1.title,투사체 분열
+upgrades.suitblasterradius2.title,폭발 반경 2
+properties.keeper4.punchstrength,펀치력 {}
+modding.modio.ugcterms.content1,"본 게임에서는 유저 생성 콘텐츠 (UGC) 접근, 다운로드, 관리를 위해 [b]mod.io[/b] 서비스를 사용합니다."
+upgrades.versus.title,대결
+upgrades.swordstabexplode.title,폭탄 찌르기
+modding.modlist.title,활성화된 모드
+options.game.kunaisnapping,쿠나이 조준을 기본 방향으로 스냅
+loadout.versusmod.versusmodifiersecondweapon,두 번째 무기 해금
+upgrades.teleporterteleportduration1.desc,플레이어 텔레포트에 걸리는 시간이 감소합니다.
+options.input.controls.keybindings.button,키 설정 변경
+upgrades.domearmor.title,돔 장갑
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"게임패드 스틱을 건드리기만 하고 밀지는 않을 때, 바가 깜빡거리지 않도록 값을 설정합니다.
+스틱을 밀 경우, 바가 깜빡거립니다."
+options.translation.community.desc,해당 언어들은 커뮤니티에서 번역되는 것입니다. 원하시면 참여해보세요!
+level.tutorial.beastmaster.mine,채광
+upgrades.keeper4speed1.desc,이동 속도를 증가시킵니다.
+properties.shield.overchargebattleabilityduration,추가 능력 지속시간 {.percent}
+upgrades.shockwavedamage1.desc,충격파가 가하는 피해량을 증가시킵니다.
+network.error.offline.xbox,Xbox 네트워크 연결이 끊어졌습니다. 네트워크 연결을 확인하고 다시 시도해 주세요.
+properties.condenser.waterstorage,물 {}개 저장
+loadout.versusmod.versusmodifierstrongmonsters.desc,괴물들을 죽이기 더 어려워집니다.
+modding.title,모드
+upgrades.dome3.desc,강력한 화력을 사용해 폭격을 가하는 데 사용되는 군용 돔입니다. 방어 능력이 갖춰진 대공포가 함께 제공됩니다.
+upgrades.keeper4powerfulfirstpunch.title,선제 공격
+properties.sword.brake,검 민첩성 {}
+level.tutorial.suitblaster.popup_1,| 키를 누르면 수트 블래스터를 발사해 주변의 바위를 파괴합니다.
+properties.stunlaser.firetime,사격 시간 {}초
+level.tutorial.suitblaster.popup_2,자동으로 시간이 지남에 따라 재충전됩니다.
+properties.droneyard.battleabilityuses,전투 시 사용 가능 횟수 {}회
+upgrades.keeper4ramping1.desc,계속 채광 할 시 채광 속도가 점점 커집니다. 가속도는 멈추면 줄어듭니다.
+level.gameover.unlockpicker.title,해금할 것을 선택하세요
+options.input.gamepad.autoswitch.switch,선호하는 컨트롤러 자동 탐지
+upgrades.suitblaster.desc,폭발로 주변의 암석을 파괴하는 채광형 블래스터를 수트에 설치합니다.
+upgrades.spiresplit1.desc,"투사체에 명중 시 여러 개의 소형 투사체로 분산되어, 적들에게 피해를 가합니다. 분열되는 양은 날아오는 투사체의 강도에 따라 달라집니다."
+properties.versus.additivewave,웨이브 난이도 증가 (상대 팀) {}
+properties.keeper3.aircontrol,공중 제어력 {.percent}
+multiplayer.error.keepertaken,선택한 키퍼는 이미 사용 중입니다. 다른 키퍼를 골라주세요.
+assignment.mode.challenge,도전
+upgrades.keeper3shurikenstrength1.desc,"수리검의 폭발력을 강화하며, 더 넓은 범위로 타일을 파괴합니다."
+pause.invite,친구 초대
+options.accessibility.fontsize.medium,중형
+upgrades.keeper2pinballdestroyadjacenttiles.desc,"키네틱 구체가 바위 타일을 파괴할 때마다, 영향을 받는 수직 바위 타일들도 함께 파괴됩니다"
+upgrades.furnaceironfiring.title,철 연료
+upgrades.furnaceslowdown.desc,매연에 독성 요소를 넣어 괴물들의 신경계를 마비시키고 이동 속도를 감소시킵니다.
+upgrades.swordlargeblade2.desc,"거대한 검을 설치합니다. 느리지만, 큰 피해를 입힙니다."
+upgrades.blastminingblast1.desc,폭발력을 증가시킵니다.
+upgrades.stationextensionrevealdistance1.desc,스테이션에 가까이 있는 바위와 자원이 자동으로 드러납니다.
+leaderboard.season,시즌 {season}
+multiplayer.host.crossplay.enabled,크로스 플레이 활성화
+multiplayer.techtree.keepersharedupgrades,해당 업그레이드는 이 도구를 가진 키퍼 모두에게 공유됩니다.
+loadout.versusmod.versusmodifierlongcycles.desc,괴물 웨이브 간의 간격이 더 길어집니다.
+upgrades.artillerydirecthit2.title,괴물 파괴자 2
+upgrades.stationextensionresolution.desc,돔과 주변의 이미지가 더 선명해집니다.
+options.keybindings.action.general.use,사용
+loadout.relichunt.modifiers,게임 변칙
+assignment.heavyhitters.title,강타자
+upgrades.furnacelastingwaterfiring.title,오래가는 물 연료
+properties.shield.battleblastdamage,초당 전격 피해량 {}
+multiplayer.error.timeout,연결이 타임아웃 되었습니다.
+multiplayer.join.discovering,세션 탐색 중...
+properties.condenser.growthtime,생산 시간 (주기) {}
+level.gameover.assignment.badges,키퍼 길드 보상을 위해 사용할 수 있는 새로운 배지를 획득했습니다.
+upgrades.drill1.desc,드릴의 채굴력을 강화해 빠르게 합니다.
+level.corruptionchoice.title,오염을 선택하세요!
+properties.artillery.grenadedamage,포격 피해 {}
+level.gameover.continue,계속
+options.game.spheresnapping,구체 조준을 기본 방향으로 스냅
+options.input.gamepad.gamepadstickdeadzone.motiondetected,움직임 감지됨:
+options.input.gamepad.icons.automatic,자동
+reward.rewardkeeper4skin3.title,비스트마스터 스킨
+upgrades.prestige.title,위신
+upgrades.keeper3shurikenstrength1.title,강력 수리검
+upgrades.spiresplit2.desc,분산 투사체가 더 빨라지고 많아집니다.
+upgrades.swordlargeblade1.desc,"검신을 넓고 길게 만들어, 더 큰 피해를 입힙니다."
+upgrades.droneyardbattlegridlong1.title,장기 지속 드론
+properties.stunlaser.speed,속도 {}
+upgrades.repellentbattleslowdownstun2.desc,포자를 더 자주 사용해 괴물들을 더 오래 기절시킵니다.
+upgrades.drillsidespeed1.desc,부가 드릴의 속도를 증가시킵니다.
+level.tutorial.ninja.bombs.desc1,| 버튼을 유지해 %s을(를) 사용해 조준하는 방향으로 쿠나이를 던져 채광합니다.
+loadout.mode.maze.desc,"지도가 미로 같으며, 다양한 통로에 막힌 곳과 뒤틀린 곳이 가득합니다."
+upgrades.domesupplementprojectiledamagereduction2.desc,선체 반탄력을 더 증가시켜 투사체로부터 입는 피해량을 더 줄입니다.
+level.tutorial.ninja.bombs.desc2,쿠나이는 벽에 급한 각도로 부딪히면 튕겨 나갑니다.
+upgrades.domesupplementmeleedamagereduction1.desc,돔의 선체를 강화해 괴물들의 근접 공격으로부터 받는 피해를 줄여줍니다. 투사체 공격에는 효과가 없습니다.
+upgrades.chainsawautonomy.title,자율화
+options.input.gamepad.gamepadstickdeadzone.ps5,아날로그 스틱 데드존
+upgrades.teslapower3.desc,테슬라의 사격력을 증가시킵니다.
+level.tutorial.artillery.panel1header,박격포
+upgrades.keeper4punch3.title,광란 3
+upgrades.furnaceslowdown.title,마비시키는 매연
+upgrades.teslaspeed1.desc,조준 십자선이 더 빠르게 움직입니다.
+upgrades.teslaquickshot2.desc,빠른 사격 모드가 훨씬 강력해집니다!
+level.tutorial.repair.findcobalt,"코발트를 찾아보세요. 코발트로 돔을 수리할 수 있습니다.
+코발트는 귀하며 한정되어 있습니다."
+title.navbar.newgame,새 게임
+options.keybindings.action.dome.battle,전투 모드
+upgrades.keeper2pinballsplit.title,분할 구체
+properties.keeper2.bundlecentralmarker,중심 기둥 마커
+options.keybindings.gamepad.switch,컨트롤러
+options.video.stretchmode.rezised.text,"게임을 전체 화면 혹은 창 화면 해상도로 렌더링합니다.
+게임이 날카로워 보이게 되지만, 1픽셀 너비의 선 같은 시각적 에러가 나타날 수 있습니다."
+options.audio,음향
+upgrades.domehealthmeter.desc,돔의 구조적 체력을 표시합니다.
+upgrades.shieldbattlereflectshortuses.title,정기적 반사
+loadout.zoom1,가까이
+loadout.zoom2,멀리
+upgrades.orchardovercharge.title,과수원 과충전
+upgrades.keeperonewayteleporter.desc,"개인용 단방향 텔레포터를 얻습니다. 1회용 포탈을 원하는 곳에 배치하고, 언제든 그 포탈로 되돌아갈 수 있습니다."
+options.input.controls.gamepadusage.switch,컨트롤러 사용
+properties.orchard.battleroots,땅에 내린 뿌리 {}
+upgrades.mushroomfarm.desc,광산에 심을 수 있는 버섯을 저장고에서 길러 속도와 채굴력 버프를 획득합니다.
+keybindings.reset.title.ps5,버튼 초기화
+multiplayer.continue.deviceselection.cancel,선택 취소
+loadout.hint.selection,|를 눌러 설정을 선택하세요.
+upgrades.orchardbattleshieldsecondlayer.title,무성한 캐노피
+properties.artillery.grenades,포격 {}
+upgrades.drill3.title,채굴력 3
+assignment.weakcarry.title,수송 문제
+upgrades.shockwavestun1.title,충격파 기절 1
+upgrades.domesupplementprojectiledamagereduction1.title,돔 선체 반탄력
+properties.keeper3.maxjumps,점프 {}회
+upgrades.converterefficientcobalt.desc,변환이 보다 효율적으로 개선됩니다.
+properties.furnace.waterdelay,물로 인한 지연 {}초
+gadget.slot.keepersupplement,키퍼 보조 장비
+upgrades.keeper4ramping2.title,가속도 2
+upgrades.orchardduration1.title,과일 1
+upgrades.domesupplementprojectiledamagereduction2.title,향상된 반탄력
+loadout.pet,애완동물
+reward.rewarddomesupplements.desc,돔을 위한 매우 강력한 보조 장비 업그레이드를 발견합니다.
+properties.prestige.score,{} 위신
+properties.keeper3.kunaicooldown,쿠나이 쿨타임 {}초
+properties.stunlaser.stunarea,기절 범위 {}
+upgrades.blastminingblast2.desc,폭발력을 더 증가시킵니다.
+reward.rewardrerolloffers2.title,물 쓰고 한번 더!
+upgrades.artillerysplash1.title,휘발성 폭탄 1
+upgrades.drillwidetunnel.title,넓은 터널
+modding.modio.ugcterms.title,유저 생성 콘텐츠 이용 약관
+options.input.controls.keepersettings.title,키퍼 입력 설정
+options.keybindings.action.keeper.gravitycollect,수집
+upgrades.domearmorhealth1.desc,장갑의 내구도를 증가시켜 돔에 추가 체력을 제공합니다.
+reward.rewardgadgetsupplements.desc,도구를 위한 매우 강력한 보조 장비 업그레이드를 발견합니다.
+properties.laser.movespeedmod,이동 속도 보정 {.percent}
+upgrades.domeresourcecounters.title,소지품 관리
+level.station.battle.navbar.shoot,사격
+upgrades.jetpackstrength2.desc,제트팩을 강화해 더 많은 자원을 옮깁니다.
+upgrades.teslapower4.title,전력 강화 4
+properties.orchard.battleabilityuses,전투 시 사용 가능 횟수 {}회
+loadout.gadget.additional.unlock,"아직 해금하지 않은 도구가 있습니다. 도구를 해금하려면, 광산에서 도구를 찾고 돔에 설치한 후 어떤 행성에서든 승리해야 합니다."
+properties.laser.hitprojectiles,레이저가 에너지 투사체 명중 시
+properties.keeper2.minspeed,최소 속도 {.percent}
+properties.laser.dpsmod,피해 보정 {.percent}
+properties.prospectionmeter.scandelay,스캔 지연 {}초
+level.tutorial.artillery.panel1content2,오래 누를수록 포탄이 더 멀리 날아갑니다.
+level.tutorial.artillery.panel1content1,"|를 길게 눌러 박격포를 충전한 다음, 버튼을 떼어 발사합니다."
+level.gameover.saveimages,저장
+loadout.difficulty.veryeasy,일반
+upgrades.teslaautoaim.title,자동 조준
+upgrades.orchardduration1.desc,과일의 이로운 효과가 더 강해지고 오래 지속됩니다.
+options.title,설정
+upgrades.probedetectchambers.desc,탐지기가 도구실 같은 방 또한 탐지합니다.
+upgrades.dome1.desc,기본 채광형 돔. 정밀한 레이저로 무장했습니다.
+upgrades.repellentbattlestrongerslowdown1.desc,안개가 괴물들을 더 많이 감속시키고 더 오래 지속됩니다.
+upgrades.resourcepacker.desc,여러 자원을 포장하고 압축해 운송을 쉽게 만들어주는 자원 포장기를 수트에 설치합니다.
+properties.keeper4.goblinextraresourcechance,추가 자원 획득 확률 {.percent}
+properties.orchard.speedbuff,이동 속도 버프 {}
+keybindings.reset.explanation.xbox,최근 업데이트로 인해 생긴 입력 방식의 큰 변화로 인해 귀하의 버튼이 초기화되었습니다. 불편에 사과드립니다!
+upgrades.keeper2rotationalmining2.title,압축 채굴 2
+upgrades.keeper3rocketcarrier.desc,쿠나이 캐리어를 로켓 동력 버전으로 바꿔 일직선으로 날아가게 합니다.
+properties.blastmining.damage,피해량 {}
+options.video.renderscale,해상도 조정
+modding.profile.title,프로필 선택
+options.keybindings.action.general.left,왼쪽
+properties.versus.multiplicativeewave,웨이브 난이도 증가 (상대 팀) {.percent}
+level.tutorial.drillbot.sleeping1,"드릴버트는 한동안 채굴을 한 후, 혹은 채굴할 수 없는 벽을 만났을 경우 잠이 듭니다."
+level.tutorial.drillbot.sleeping2.switch,"근처에서, | 버튼을 눌러 깨웁니다."
+upgrades.laserstrength4.desc,"레이저의 동력이 막대하게 증강하지만, 사격 중 거의 움직일 수 없게 됩니다."
+upgrades.orchardovercharge2.title,개선된 과충전
+level.tutorial.drillbot.sleeping3,깨어있는 동안에 | 버튼을 눌러 회전시킬 수 있습니다.
+modding.prestigeforbidden,해당 모드로는 위신 모드를 진행할 수 없습니다.
+upgrades.laser.title,레이저
+upgrades.domesupplementelectrifiedsurface1.title,전자기장 선체 1
+pause.quitgame,게임 종료
+upgrades.swordlargeblade3.desc,괴물 같은 검입니다. 굉장히 강력하지만 이동 속도가 느립니다.
+upgrades.relichunt.desc,깊이 묻혀있는 유물을 찾아 키퍼 길드로 가져오세요.
+properties.shockwave.cooldown,쿨타임 {}초
+upgrades.repellentdelay1.desc,다음 괴물들의 웨이브 지연을 증가시킵니다.
+savegame.corrupted.desc,마지막 저장 파일에 오류가 있습니다. 저장 중 시스템 충돌이 원인일 수 있습니다. 이전 저장 파일로 되돌아갑니다.
+multiplayer.host.online,온라인
+keybindings.reset.doreset.switch,내 버튼 설정 초기화
+loadout.secondstage.cancel,취소
+upgrades.keeper4catgoblindig2.title,효율적 채굴
+upgrades.furnacewaterfiring.desc,용광로에서 물을 태워 괴물 공격을 추가로 더 지연시킵니다.
+upgrades.shockwavedamage2.title,충격파 피해량 2
+upgrades.proberange1.desc,탐지기의 탐지 범위를 증가시킵니다.
+pause.options,설정
+keeperdlc.load.missing.switch,이용 불가능한 다운로드 가능 콘텐츠가 있어 저장 파일을 불러올 수 없습니다. '잊힌 키퍼들' 다운로드 가능 콘텐츠를 이용할 수 있는지 확인해 주세요.
+options.keybindings.action.keeper.drop,떨어뜨리기
+upgrades.assignmentsemergencycontribution3.title,긴급 기부 7
+options.game.shootbundlebeforegadgets,도구보다 자원 번들 우선 발사
+options.video,비디오
+upgrades.blastmining.title,폭발성 채광
+modding.modio.subscriptions,Mod.IO 구독 표시
+level.gameover.proceedtounlock,새 요소를 해금합니다
+upgrades.prospectionmeter.desc,가장 가까운 자원과의 거리를 보여주는 계측기입니다.
+properties.keeper2.spherereload,구체 재장전 {}초
+options.keybindings.apply,적용
+upgrades.teslaquickshot.desc,"충전 사격을 발사한 후, 발사 버튼을 탭해 약한 1회 사격을 할 수 있습니다."
+level.tutorial.tesla.panel1header,십자선 이동
+upgrades.tesla.title,테슬라
+properties.tesla.persistance,전격 구체 수명 {}초
+upgrades.repellentbattleslowdownstun1.title,마비화
+upgrades.probelongmarker1.title,마커 기억력
+modding.modio.tokenerror,토큰 프로바이더 연결 실패!
+upgrades.stationextensionupgrades.title,원거리 업그레이드
+upgrades.prestigewater.desc,물을 전송합니다. 웨이브가 끝날 때마다 얻는 위신 점수량을 증가시킵니다.
+upgrades.artillerydirecthit2.desc,박격포탄의 파괴력을 증가시킵니다.
+upgrades.mushroomfarmquickgrowth.desc,저장고에서 버섯이 더 빠르게 성장합니다.
+network.error.notsignedin.ps5,온라인 기능을 이용하려면 PlayStation™Network에 로그인하세요
+options.input.controls.keybindings.ps5,버튼
+multiplayer.error.clientcrossplaydisabled,이 대기실에 들어가려면 크로스 플레이를 활성화해야 합니다.
+upgrades.keeper3carrylimit2.desc,쿠나이 캐리어에 담을 수 있는 자원의 수를 증가시킵니다.
+level.supplementchoice.reroll, 한번 더!
+upgrades.orchardbattlerootingexplosion.desc,"갇힌 괴물들을 폭파하여, 주변에 피해를 줍니다."
+upgrades.rocketlauncherrestock.desc,미사일 사일로가 텅 비면 일정 시간이 지난 후 모든 미사일을 다시 재충전합니다.
+upgrades.droneyardbattlegridquick2.title,즉시 출동 드론
+assignment.denseiron.title,밀도 높은 철
+options.input.controls.gamepadusage.xbox,컨트롤러 사용
+level.tutorial.ninja.bombs,쿠나이
+upgrades.domearmorhealth2.desc,방어막의 내구도를 증가시켜 돔에 추가 체력을 제공합니다.
+loadout.title,로드아웃
+multiplayer.continue.deviceselection.team,팀
+properties.keeper3.kunaiweaknessagainsthardrock,단단한 바위 상대로 쿠나이 피해 감소량 {.percent}
+level.tutorial.repellent.popup_2,"근처에서, | 버튼을 눌러 활성화합니다."
+upgrades.chainsawdamage3.desc,회전 톱이 괴물들에게 가하는 피해량을 증가시킵니다.
+level.tutorial.artillery.panel3content1,박격포는 광역 효과가 있지만 직격탄이 더 많은 피해를 줍니다. 돔에는 피해를 주지 못합니다.
+level.gameover.unlock.regulargadget,임무를 위한 새로운 도구가 해금되었습니다!
+options.keybindings.gamepad.xbox,컨트롤러
+options.input.gamepad.thumbstick.switch,스틱
+upgrades.artilleryshotstun.title,귀청이 울리는 폭발
+upgrades.assignments.title,길드 임무
+upgrades.rocketlauncherrockets1.desc,발사 가능한 미사일의 수를 늘립니다.
+level.tutorial.assessor.bundleguide.desc1,이제 부동형 번들을 이동시킬 수 있습니다.
+level.tutorial.assessor.mining,압축 채굴
+level.tutorial.assessor.bundleguide.desc3,"가까이 있을 경우, 번들이 따라옵니다."
+level.gameover.win.team,%s 팀 승리
+level.tutorial.assessor.bundleguide.desc2.switch,부동형 번들을 배치하려면 아무 방향 키도 누르지 않고 | 버튼을 누르세요.
+options.video.graphicsmode.window,창 모드
+upgrades.artillerymachinegun1.desc,대공포가 더 빠르게 발사되도록 개선시킵니다. 조준을 위한 레이저도 제공됩니다.
+upgrades.droneyardovercharge1.desc,물로 드론 배치장을 일시적으로 강화시켜 다음 전투에서 더 많은 드론을 생성하게 합니다.
+title.navbar.modding,모드
+assignment.treefarm.title,나무 농장
+level.gameover.prestige.score.personalbest,새로운 개인 최고 점수!
+level.gameover.unlock.world,새 행성 해금!
+assignment.chosen.todo,임무 선택되지 않음
+options.keybindings.action.dome.battleability1,전투 능력 1
+loadout.versusmod.versusmodifierwindingmap.desc,지도가 살짝 미로같습니다.
+reward.rewardweaponsupplements.title,무기 보조 장비
+upgrades.laserstrength2.title,동력 2
+upgrades.keeper2movement1.desc,중력 발전기를 강화해 더 빠르게 움직입니다.
+options.keybindings.action.dome.battleability2,전투 능력 2
+upgrades.domesecondweapon.desc,저장고 2층에 있는 두 번째 스테이션에서 조종하는 신규 무기를 설치합니다.
+upgrades.resourcepackerquickcharge.desc,포장 차지의 재생 속도를 증가시킵니다.
+upgrades.laserstrength2.desc,"레이저의 동력을 크게 증강하지만, 사격 중 레이저의 이동 속도가 감소합니다."
+upgrades.autocannonimproved.title,개선된 자동 포
+upgrades.keeper3kunaicooldown1.desc,쿠나이를 더 빠르게 투척합니다.
+upgrades.keeper2pinballsplit2.desc,분할 키네틱 구체가 더 오래 유지됩니다.
+upgrades.swordreflection1.title,반사 1
+level.tutorial.ninja.drop.desc1.switch,바닥에서 %s을(를) 사용해 아래를 조준 후 | 버튼을 눌러 집고 있는 모든 물건을 떨어뜨립니다.
+upgrades.suitblasterradius2.desc,폭발 반경을 증가시킵니다.
+options.game.dropresourcesbeforegadgets,도구보다 자원 우선 떨어뜨리기
+options.translation.community.crowdin,Crowdin에서 진행 중인 Dome Keeper 번역 프로젝트
+loadout.hint.playerlimitprestige,"게임 시작
+
+3인 이상 상태에서 위신 모드를 플레이할 시 점수는 업로드되지 않습니다."
+upgrades.assignmentsemergencycontribution1.title,긴급 기부 2
+upgrades.shockwavedamage2.desc,충격파가 가하는 피해량을 증가시킵니다.
+options.input.gamepad.autoswitch.xbox,선호하는 컨트롤러 자동 탐지
+loadout.versusmod.versusmodifierlittlecobalt.desc,지도에 코발트 매장지가 최소한으로 감소합니다.
+upgrades.keeper1.title,엔지니어
+level.furnace.popup.title,용광로 연료 공급
+upgrades.prospectionmeterrange2.title,범위 2
+pause.discord,Discord에 합류하세요
+upgrades.lasermove1.title,이동 속도 1
+options.input.controls.mouse.gamepad.switch,컨트롤러로 전환 후 복구가 자동으로 탐지되었습니다.
+upgrades.jetpackspeed3.title,속도 3
+upgrades.chainsawautonomy.desc,제어 스테이션 내에 있지 않더라도 회전 톱이 돔을 보호합니다.
+properties.extractor.buildcycles,벌레 생산 (주기) {}
+upgrades.stunlaserstun2.desc,"기절 레이저의 힘을 증가시키며, 아무리 강한 적들이라고 해도 큰 영향을 끼칩니다."
+upgrades.teleporter.desc,양방향의 텔레포터로 이동식 포탈과 스테이션을 연결합니다.
+upgrades.droneyarddrones.title,운송 드론
+level.tutorial.assessor.spheres.desc1.aiming.switch,| 버튼을 눌러 %s을(를) 사용해 조준하는 방향으로 키네틱 구체를 발사합니다.
+upgrades.liftspeed1.desc,구체가 더 빠르게 움직입니다.
+properties.prestige.provokedwavestrength,괴물 도발도 {.percent}
+upgrades.artillery.desc,대규모 폭발탄을 발사하는 대형 박격포와 빠르게 사격하는 대공포의 조합입니다.
+upgrades.shredgadgettocobalt.title,코발트로 재활용
+level.gameover.stats.distancetravelled,이동한 거리
+loadout.mode,게임 모드
+loadout.difficult.easier,쉬움
+upgrades.domearmorhealth1.title,장갑 내구도 1
+options.game.playernamesinmultiplayer,멀티플레이에서 플레이어 이름 표시
+properties.sword.slicedamage,절삭 피해 {}
+options.keybindings.action.general,일반
+upgrades.keeper4punch2.desc,채광력과 최대 채광 속도를 증가시킵니다.
+upgrades.keeper4catgoblinsleeptime.title,카페인 알약
+upgrades.condenserdoublestorage.title,창고 두 배
+upgrades.drillbotbuffguidance.desc,간식을 들고 있을 때 드릴버트가 있는 방향을 보여줍니다.
+loadout.versusmod.versusmodifierscatterediron.desc,"철 매장지가 작고 분산되었지만, 많아집니다."
+upgrades.proberange3.title,초장거리
+upgrades.sword.desc,튼튼한 검. 빠르게 움직일수록 더 큰 피해를 입힙니다. 발사시켜 적들을 찌를 수 있고 투사체를 막을 수 있는 방어막 패드가 있습니다.
+properties.rocketlauncher.rockets,로켓 {}
+keybindings.reset.explanation,최근 업데이트로 인해 생긴 입력 방식의 큰 변화로 인해 귀하의 키 설정이 초기화 되었습니다. 불편에 사과드립니다!
+upgrades.shield.desc,피해를 흡수할 수 있는 방어막을 설치합니다. 자동으로 재충전 됩니다.
+multiplayer.error.lobbyfull,대기실이 가득 찼습니다.
+upgrades.keeper3kunaibounce1.title,궤도 보조
+loadout.team.selection,%s 합류
+level.tutorial.sworddome.slicing.desc,"검을 빠르게 휘두를수록, 피해량도 높아집니다."
+properties.drill.sidetimepertile,측면 드릴의 타일당 시간 {}초
+upgrades.suitblasterradius1.title,폭발 반경 1
+upgrades.resourcepackerquickcharge.title,빠른 차지
+versus.corruptionmonsterdamage.desc,"괴물들이 투사체를 포함, 가하는 피해량이 상승합니다."
+properties.dome.autohealamount,{}hp 수리
+loadout.team,%s 팀
+options.keybindings.action.general.down,아래
+properties.blastmining.radius,폭발 반경 (타일) {}
+level.tutorial.fullscreen.continue,계속
+level.tutorial.suitblaster.popup_1.switch,| 버튼을 누르면 수트 블래스터를 발사해 주변의 바위를 파괴합니다.
+upgrades.resourcepackercount2.title,번들 크기 2
+properties.sword.extendspeed,연장 속도 {}
+upgrades.autocannondamage1.title,중탄
+properties.sword.aimline,조준 예측
+options.translation.community,{completion}% 완료
+properties.spire.stuntrapabsorption,피해 흡수 {.percent}
+upgrades.keeper4speed2.desc,이동 속도를 더 증가시킵니다.
+upgrades.keeper4ramping4.title,가속도 4
+upgrades.orchard.desc,돔 내에서 자라는 나무를 심어 그 과실로 이동 속도와 채광력을 증가시킵니다.
+pause.restart.popup,"정말로 게임을 재시작 하시겠습니까?
+진행하시려면 다시 눌러주세요."
+multiplayer.error.versionmismatch,게임 버전이 주최자와 일치하지 않습니다. 주최자 버전: {}
+assignment.condition.freegadget.plural,2개의 시작 도구를 추가
+upgrades.artillerydirecthit1.title,괴물 파괴자 1
+options.input.controls.mouse,마우스
+upgrades.keeper4catgoblindig1.desc,냥고블린이 타일을 파괴하지 않고 자원을 캐낼 수 있게 됩니다.
+reward.rewardpet11.title,고라니 애완동물
+upgrades.artillerymachinegun2.title,속사 1
+upgrades.teslaorbs.title,전격 구체
+properties.keeper2.spherespeed,구체 속도 {}
+properties.artillery.machinegunpenetration,탄환 관통 {}
+level.station.upgrademenu.cost,비용
+keeperdlc.load.missing,이용 불가능한 dlc 콘텐츠가 있어 저장 파일을 불러올 수 없습니다. '잊힌 키퍼들' dlc가 이용 가능한지 확인해주세요.
+upgrades.drillbotstrength1.desc,드릴버트의 채굴력을 증가시킵니다.
+properties.resourcepacker.rechargetime,재충전 시간 {}초
+level.converter.popup.queue.block,변환이 현재 진행 중이며 {time}초 뒤에 완료됩니다.
+properties.keeper2.maxspeed,최대 속도 {}
+level.converter.popup.conversion.to,에서
+upgrades.blastminingblast2.title,폭발력 2
+upgrades.suitblasterspeed1.desc,수트가 블래스터를 충전하는 속도를 증가시킵니다.
+options.audio.music.ost.mode.adaptive.desc,"키퍼로 플레이 할 때, 주어진 트랙만 재생 됩니다."
+title.navbar.updates,업데이트
+upgrades.orchardbattlerooting.title,덫 뿌리
+options.keybindings.action,액션
+upgrades.keeper4flexible3.title,기민함 3
+unlock.buy.keeperdlc,'%s' DLC로 해금됨.
+upgrades.keeper4flexible2.desc,채광력과 초기 채광 속도를 증가시킵니다.
+loadout.prestige.countdown,카운트다운
+assignment.weakcarry.desc,"키퍼의 운송 도구는 업그레이드할 수 없으므로, 운송에는 도구에 의존해야 합니다."
+upgrades.liftcarrykeeper2.title,키퍼 기중기 2
+upgrades.domewavecount.desc,카운터를 설치해 얼마나 많은 웨이브를 살아남았는지 표시합니다.
+loadout.gadget.additional,추가 도구
+upgrades.prestigewatermultiplier.title,물 전송
+upgrades.condenser.title,응결기
+loadout.prestige.pro.supplementorder,보조 장비 순서
+assignment.goaltype.delivery.failed,"당신의 목표는 {goal} 이었지만, {amount} 만 제공했습니다."
+options.input.gamepad.ps5,무선 컨트롤러
+assignment.condition.duration,%d 주기 내에 완료
+options.game.hideactionhint,돔 밖에서 액션 힌트 숨기기
+options.video.graphicsmode,그래픽 모드
+level.tutorial.assessor.carry.desc1_1.ps5,"물체가 잡히면, 수집 버튼을 놓아도 따라갑니다."
+assignment.goaltype.relic,유물 회수
+upgrades.stationextensionminimap.desc,모바일 스테이션에 들어갈 때마다 광산의 미니맵을 표시합니다. 미니맵에는 발견된 구역과 암석 깊숙이 있는 일부 타일이 표시됩니다.
+assignment.ironcontribution.title,철 기부
+properties.keeper4.speedupretention,가속 유지력 {.percent}
+loadout.prestige.description,행성 밖으로 자원을 보내 키퍼 길드에서 위신을 얻으세요.
+upgrades.keeper3.title,잠입자
+properties.shield.battleactivateondepletion,방어막 고갈 시 능력 활성화
+upgrades.jetpackspeed2.title,속도 2
+properties.dome.maxhealth,최대 체력 {}hp
+upgrades.drillbotstrength1.title,채굴력 1
+properties.artillery.grenadereloadspeed,포격 재장전 시간 {}초
+properties.tesla.perfecttimingmultiplier,사격 배수 {.percent}
+upgrades.orchardbattleshieldstrong.desc,덩굴 캐노피가 더 튼튼해집니다.
+loadout.difficulty.easy.description,다양한 면에서 더 자비롭습니다.
+upgrades.drillsidespeed1.title,채굴 속도 1
+loadout.prestige.miner,광부
+upgrades.keeper4catgoblindig2.desc,냥고블린이 더 빠르게 채굴합니다.
+upgrades.spireburst.title,집중 사격
+options.input.vibration.strength.ps5,진동 세기
+upgrades.swordexplosivereflection.desc,반사된 투사체가 명중할 경우 폭발합니다.
+level.tutorial.drillbot.handling2,드릴버트가 땅 위에 있을 때 | 버튼을 눌러 방향을 전환시킵니다.
+loadout.mapsize.large.description,한 시간 이상 지속되는 세션을 위한 대형 지도입니다.
+upgrades.artillerymachinegunhoming2.desc,더 강력한 로켓을 사용합니다.
+upgrades.keeper3quadjump.title,다단 점프
+properties.artillery.grenadesexplosionradius,포격 폭발 반경 {}
+upgrades.proberange2.desc,탐지기의 탐지 범위를 증가시킵니다.
+properties.drillbot.buffextraamount,추가 채굴량 {}회
+versus.corruptionbigwave.desc,다음 괴물 웨이브 규모가 거대해집니다.
+level.tutorial.artillery.panel2content1,|를 길게 눌러 대공포를 발사합니다.
+level.tutorial.artillery.panel2content2,비행하는 적을 상대할 때 좋습니다.
+upgrades.drillwidetunnel.desc,하향식 드릴을 추가로 두 개 더 설치해 넓은 터널을 만듭니다.
+upgrades.keeper2pinballdamage4.desc,키네틱 구체를 강화합니다.
+level.gameover.unlock.difficulty,새 난이도 해금!
+loadout.prestige.fairness.headline,공정한 경쟁
+upgrades.prestigeprovoke.desc,향후 공격해올 괴물들의 힘을 증가시켜 위신을 추가로 획득합니다.
+options.audio.volumes.soundvolume,소리
+multiplayer.continue.deviceselection.keeper,키퍼
+upgrades.teslaspeed2.desc,조준 십자선이 더 빠르게 움직입니다.
+upgrades.artillerymachinegun2.desc,대공포가 더 빠르게 발사되도록 개선시킵니다.
+properties.spire.splitadditionalprojectiles,추가 투사체 분산 확률 {.percent}
+upgrades.artillery.title,대포
+level.tutorial.assessor.bundle.desc1.switch,"자원을 운반하는 동안 | 버튼을 눌러, 번들을 발사합니다."
+properties.orchard.battleabilityduration,능력 지속시간 {}초
+loadout.zoom,카메라 배율
+level.tutorial.assessor.bundle.desc2,대상은 소멸될 때까지 지정한 방향으로 날아갑니다.
+options.keybindings.rebinding.inputprocessor.switch,해당 액션에 사용할 새로운 버튼을 입력해 주세요...
+properties.converter.irontoiron,1 철을 {} 철로 변환
+options.cancel,취소
+upgrades.keeper1powerdrill.title,강력한 드릴!
+assignment.emergency.desc,길드가 위험에 빠져 급하게 기부를 필요로 합니다. 시간 제한 내에 보내세요!
+multiplayer.host.crossplay.disabled,크로스 플레이 비활성화
+properties.upgrade.gameover,게임 종료
+loadout.mode.secondweapon.desc,키퍼가 둘 이상인 팀은 두 번째 스테이션의 무기가 해금된 채로 시작합니다.
+telemetry.allow,온라인 서비스 활성화
+options.accessibility.vignette,비네트 비활성화
+options.game.tutorials,튜토리얼
+properties.dome.autorepair,자동 돔 수리
+upgrades.swordreflection3.title,반사 3
+upgrades.drillsidepull.desc,채광된 광물들이 부가 드릴을 따라 중앙을 향해 움직입니다.
+upgrades.keeper2movement4.title,최대 회전력
+upgrades.shockwavestun1.desc,충격파가 기절시키는 시간을 증가시킵니다.
+assignment.condition.freegadget.singular,1개의 시작 도구를 추가
+title.message.close,닫기
+reward.rewardfreerolls2.title,추가 제안 새로고침
+upgrades.orchardbattleshieldstrong.title,질긴 캐노피
+upgrades.spirecapacity.title,용량
+upgrades.keeper2.title,어세서
+upgrades.keeper2movement2.title,중력 이동 2
+upgrades.furnacestrongironfiring.desc,철을 태워 괴물들의 공격을 지연시키는 효과를 증가시킵니다.
+upgrades.keeper2pinballdamage3.title,키네틱 구체 3
+upgrades.autocannondamage1.desc,더 많은 피해를 주기 위해 탄약의 크기를 증가시킵니다.
+loadout.versusmod.versusmodifiermanycaverns.desc,광산에 자연 동굴이 많아집니다.
+options.game.other,기타
+upgrades.drillsidespeed2.title,채굴 속도 2
+upgrades.mushroomfarmdrill2.desc,버섯을 소모해 획득하는 채굴 버프가 증가합니다.
+properties.autocannon.speed,이동 속도 {}
+upgrades.keeper4flexible1.desc,"적당한 속도로 시작하는 유연한 채광 방식이지만, 최대 채광력이 낮습니다."
+title.navbar.credits.close,닫기
+level.furnace.popup.fuel.stack,현재 더미
+upgrades.drillbotstrength3.title,채굴력 3
+upgrades.domesupplementresurrection2.title,한 번 더
+upgrades.artilleryprojectileerasure.desc,박격포의 폭발이 폭발 범위 내의 모든 투사체를 소멸시킵니다.
+level.gameover.assignment.completed,축하합니다! 임무를 성공적으로 마쳤습니다. 키퍼 길드가 당신의 노력을 인정합니다!
+properties.tesla.radius,사격 반경 {}
+properties.keeper2.bundlespeed,번들 속도 {}
+keybindings.reset.show,일단은 한번 둘러보기
+options.input.controls.gamepadusage,게임패드 사용
+assignment.maze.title,미로
+upgrades.blastminingstickycharge.desc,차지는 처음 닿는 벽에 붙어 원형 폭발 대신 터널을 뚫습니다.
+properties.prestige.baseperwave,웨이브당 기본 위신 {}
+level.gameover.mineview,광산 보이기
+unlock.mapsize.medium,작은 맵에서 승리하여 해금하세요.
+upgrades.teslanurture.desc,남아있는 전격 구체를 다시 쏘아 강화시킵니다. 그러면 구체의 크기가 더 커지며 더 오래 잔류합니다.
+upgrades.jetpackspeed1.desc,제트팩을 강화해 더 빠르게 움직입니다.
+upgrades.domearmormelee1.desc,돔이 근접 공격으로 인해 입는 피해량을 감소시킵니다.
+loadout.prestige.friend.mode,친선 모드
+upgrades.domearmorhealth2.title,장갑 내구도 2
+properties.artillery.machinegundamage,탄약 피해량 {}
+upgrades.swordextendlong2.title,찌르기 연장 2
+upgrades.lasermove2.title,이동 속도 2
+upgrades.drill2.title,채굴력 2
+properties.keeper3.slidecontrol,슬라이딩 제어력 {.percent}
+reward.rewardpet11.desc,돔에서 애완동물로 고라니를 해금합니다.
+properties.tesla.nurture,구체 성장
+properties.lift.speed,구체 속도 {}
+upgrades.lasermove2.desc,레이저가 더 빠르게 움직입니다.
+loadout.mode.longtime,긴 주기
+options.accessibility.highlightmonsters,괴물 강조
+upgrades.furnacebasedelay.desc,매연의 현혹 효과를 증가시켜 기본 지연 시간이 증가합니다.
+upgrades.doublelaser.desc,"두 번째 레이저 터렛을 설치하지만, 화력이 둘로 나뉩니다."
+properties.converter.ironwatertime,철을 물로 변환하는 시간 (주기) {}
+options.keybindings.rebinding.inputprocessor.xbox,해당 액션에 사용할 새로운 버튼을 입력해 주세요...
+title.message.title,알림
+upgrades.jetpackspeed4.title,속도 4
+upgrades.drill2.desc,드릴의 채굴력을 강화해 빠르게 합니다.
+upgrades.extractorresources2.title,꼼꼼한 벌레
+unlock.buy.keeperdlc.ps5,'%s' 애드온으로 해금됨
+level.tutorial.assessor.split.desc1,| 버튼을 눌러 들어오는 구체를 분할합니다.
+upgrades.keeper2pinballdamage1.desc,키네틱 구체의 힘을 증가시키는 대신 재장전 시간이 증가합니다.
+upgrades.teleporterteleportduration2.desc,플레이어 텔레포트에 걸리는 시간이 감소합니다.
+level.tutorial.assessor.split.desc2,"구체를 다시 한 번 분할할 수 있지만, 그렇게 할 시 구체가 약해집니다."
+options.accessibility.backgrounds,배경 단순화
+assignment.weakwalls.desc,"행성의 부식성 대기가 돔과 괴물 양측에게 치명적이어서, 둘 모두 더 많은 피해를 입습니다."
+multiplayer.error.disconnected,주최자로부터 연결이 해제되었습니다.
+properties.autocannon.timebetweenshots,사격 간 시간 {}초
+upgrades.laserstrength1.desc,"레이저의 동력을 증강하지만, 사격 중 레이저의 이동 속도가 감소합니다."
+upgrades.artillerydirecthit4.desc,거대한 괴물도 쓰러뜨리는 포탄으로 교체합니다.
+upgrades.teslapersistance3.title,지속 구체 3
+level.gameover.stats.timeplayed.unit,분
+level.tutorial.drillbot.sleeping3.switch,깨어있는 동안에 | 버튼을 눌러 회전시킬 수 있습니다.
+upgrades.autocannonshotgun1.desc,산탄총처럼 퍼지는 다중 탄약을 발사합니다.
+upgrades.probe.desc,수트에 탐지기를 설치해 주변의 자원을 드러내는 전파를 보냅니다. 돔 아래에 있는 스테이션에서 재충전해야 합니다.
+upgrades.droneyardparasites.desc,탐색 후 가장 강한 적에게 달라붙어 약화시키는 드론을 풀어놓습니다. 드론이 달라붙은 괴물들은 피해를 더 입으며 연달아 기절합니다.
+properties.stunlaser.trackingInCooldown,쿨타임 동안 대상 추적
+upgrades.domewavemeter.desc,다음 괴물들의 공격 오기 전까지의 시간을 표시합니다.
+properties.sword.stabexplosive,끝에 폭탄 달림
+loadout.gadget,기본 도구
+properties.stunlaser.areagrowthpermonster,괴물당 지역 성장 {}
+upgrades.swordfastreflection.title,반사 가속화
+level.tutorial.assessor.explode.desc1,| 버튼을 눌러 주변의 모든 구체를 폭파시킵니다.
+reward.rewardkeeper3skin1.desc,잠입자의 새로운 키퍼 스킨을 하나 해금합니다.
+properties.shockwave.stunstrength,기절력 {}
+upgrades.resourcepackercount1.title,번들 크기 1
+reward.rewardkeepersupplements.desc,키퍼를 위한 매우 강력한 보조 장비 업그레이드를 발견합니다.
+upgrades.spirestuntrap3.desc,에너지 함정이 괴물들을 기절시킵니다.
+upgrades.lift.desc,채굴한 자원을 돔으로 끌어올려 처리하는 자동 기중기를 설치합니다.
+upgrades.orchard.title,과수원
+pause.playerlist,플레이어 목록
+upgrades.keeper2bundle2.title,번들 안내
+assignment.weakmining.desc,"키퍼의 채굴 도구를 업그레이드할 수 없으므로, 채굴에는 도구에 의존해야 합니다."
+upgrades.converter.title,자원 변환기
+properties.repellent.battlemonstervulnerability,괴물에 추가 피해량 {.percent}
+level.gameover.revealresources,자원 공개
+upgrades.jetpackstrength4.desc,제트팩을 강화해 운반할 수 있는 자원의 수를 최대화합니다.
+options.input.controls.touch.fliphud,HUD 반전
+properties.keeper2.bundleguide,근접도 안내
+upgrades.furnaceironfiring.desc,용광로에서 철을 태워 괴물 공격을 더 지연시킵니다.
+upgrades.swordlongblade2.desc,"검의 속도를 더 증가시켜, 검이 땅에 닿으면 튕겨 나오게 합니다."
+options.input.controls.mouse.keepers,키퍼 조작에 마우스 사용
+loadout.mode.domesupplements.desc,보조 장비를 세 배로 획득하고 돔에 장착할 슬롯 세 개를 얻습니다.
+reward.rewardautomatedweapons.title,무기 자동화
+versus.corruptionmonsterhealth.desc,괴물들의 체력이 더 많아집니다.
+upgrades.keeper3slidecontrol.desc,벽을 타고 다닐 때 더 개선된 제어력을 얻습니다.
+options.keybindings.action.dome.fire,발사
+options.keybindings.gamepad.xbox.view.xbox,보기 버튼
+level.gameover.win.title,돔을 지켜냈습니다
+upgrades.versusincreasewave1.title,사보타주 1
+options.video.graphicsmode.borderlesswindow,경계 없는 창 모드
+properties.artillery.rotationspeed,회전 속도 {}
+upgrades.probe.title,탐지기
+reward.rewardkeeper2skin5.desc,어세서의 새로운 키퍼 스킨을 하나 해금합니다.
+upgrades.artillerydirecthit4.title,괴물 파괴자 4
+properties.keeper4.squadcount,부대 수 {}
+upgrades.keeper3kunaicooldown3.title,만천화우
+upgrades.prospectionmeterrange2.desc,계측기의 탐지 범위를 더 증가시킵니다.
+level.gameover.unlock.mapsize,새 지도 크기 해금!
+loadout.prestige.friend.desc,더 낮은 난이도에서 친구와만 경쟁하는 위신 모드를 플레이 합니다.
+upgrades.jetpackstrength4.title,운반력 4
+options.input.controls.virtualjoystickopacity,가상 조이스틱 투명도
+upgrades.repellentovercharge.title,퇴치제 과충전
+upgrades.suitblastermaxcharge.desc,수트에 저장할 수 있는 충전량을 증가시킵니다. 준비된 충전량이 많을 수록 추가 충전 속도가 더 빨라집니다.
+upgrades.stationextensiontubemovement.desc,스테이션의 진공 튜브로 들어가서 돔으로 빠르게 이동합니다. 돔으로만 갈 수 있습니다.
+upgrades.domesupplementmeleedamagereduction1.title,돔 선체 강화
+upgrades.keeper4catgoblinsleeptime.desc,냥고블린들의 낮잠 시간을 줄여줍니다.
+upgrades.prestigespeedup.desc,웨이브 사이의 간격을 감소시킵니다.
+upgrades.keeper3kunaicooldown1.title,빠른 투척
+upgrades.spire.title,첨탑
+multiplayer.join.sessions,세션
+options.input.controls.keybindings,키 설정
+multiplayer.host.crossplay.desc.xbox,크로스플레이는 다른 플랫폼의 친구들과 플레이 할 수 있게 해줍니다.
+upgrades.teslaorbs.desc,사격을 할 때마다 적들에게 피해를 주고 기절시키는 전격 구체가 남습니다.
+upgrades.prestigeiron.desc,철을 전송합니다. 웨이브가 끝날 때마다 얻는 위신 점수량을 증가시킵니다.
+properties.keeper2.explodespheres,폭발성 구체
+level.tutorial.assessor.split.desc1.switch,| 버튼을 눌러 들어오는 구체를 분할합니다.
+properties.artillery.machinegunhoming,유도 로켓
+upgrades.spirespeedup.desc,사격 사이의 간격을 감소시킵니다.
+level.tutorial.drillbot.handling1,| 버튼을 유지해 드릴버트를 다시 집습니다.
+keybindings.reset.doreset.xbox,내 버튼 설정 초기화
+level.tutorial.drillbot.handling2.switch,드릴버트가 땅 위에 있을 때 | 버튼을 눌러 방향을 전환시킵니다.
+upgrades.artillerysplash1.desc,박격포의 포탄을 폭발의 반경이 넓은 포탄으로 개선시킵니다.
+upgrades.shockwave.desc,돔의 지붕에 두 개의 망치를 설치해 강력한 충격파를 만들어냅니다. 수동으로 작동시켜야 합니다.
+options.game.blocklist.unblock,차단 해제
+properties.drillbot.buffamount,채굴량 강화 {}회
+upgrades.teslaorbdamage.desc,"구체가 더 많은 전력을 전도하며, 시간의 흐름에 따라 더 많은 피해를 가합니다."
+loadout.versusmod.versusmodifierconcentratediron.desc,철 매장지가 드물지만 규모가 매우 커집니다.
+upgrades.keeper4squad2.title,터널 중대
+upgrades.keeper4flexible1.title,기민함
+upgrades.swordreflection3.desc,방어막 패드 크기가 최대화됩니다.
+unlock.prestige.promode,위신 점수 1000 이상으로 승리하여 해금하세요.
+loadout.mapsize.huge,거대형
+upgrades.artillerymachinegunhoming1.desc,탄약을 자동으로 경로를 추적해 괴물들을 명중시키는 스마트 로켓으로 교체합니다.
+upgrades.repellentovercharge.desc,물로 퇴치제를 과충전하여 방물제의 전투 능력을 향상시킵니다.
+loadout.prestige.pro.caveorder,동굴 순서
+upgrades.spiresplit2.title,빠른 분열
+properties.laser.bend,레이저 자동 조준 {}°
+modding.modio.ugcterms.link1,이용 약관
+upgrades.drillmagnetic.title,자성 케이스
+assignment.condition.deliveremergency,긴급 배송 %d회 완료
+modding.modio.ugcterms.link2,개인정보 정책
+assignment.denseiron.desc,이 행성의 철은 특히 밀도가 높아 채굴하기 어렵습니다.
+level.station.upgrademenu.inventory,소지품
+upgrades.repellentbattleslowdownstun1.desc,휘발성의 포자를 안개에 사용해 괴물들을 짧은 시간 동안 기절시킵니다.
+upgrades.spirestuntrap2.title,촉매 함정
+properties.keeper2.explodespheresradius,폭발 반경 (타일) {}
+loadout.prestige.cobalt,한정된 코발트
+upgrades.spireautonomy1.title,자율화
+upgrades.suitblastermaxcharge.title,추가 충전량
+upgrades.stunlaserspeed2.desc,기절 레이저가 더 빠르게 움직이고 쿨타임 중에도 괴물들을 추적합니다.
+properties.suitblaster.maxcharge,최대 차지 충전량 {}
+upgrades.prospectionmetergadget.desc,가장 가까운 방까지의 거리를 표시하고 탐지 범위를 크게 향상시킵니다.
+properties.spire.rechargetime,재충전 시간 {}초
+assignment.monstermasses.desc,행성에 엄청난 수의 낮은 등급의 괴물들이 모여있습니다.
+telemetry.title.ps5,최종 사용자 라이선스 계약
+properties.condenser.autoovercharge,과충전 자동화
+assignment.rareiron.desc,평범하게 채굴을 하기엔 행성에 철 함유량이 너무 적습니다.
+level.converter.popup.title,자원 변환
+upgrades.chainsaw.desc,돔 지붕에 회전 톱을 설치하여 가까이 붙는 괴물들에게 피해를 가합니다.
+versus.inventory.title,상대 팀 정보
+loadout.versusmod.versusmodifiernorelics.desc,광산에 유물이 없어집니다.
+level.gameover.stats.wavessurvived,생존한 웨이브
+upgrades.stunlaserduration1.title,사격 스태미너 1
+upgrades.resourcepackercount1.desc,번들 하나에 포장될 수 있는 자원량을 증가시킵니다.
+level.tutorial.teleporter.carry3,| 버튼을 누르면 되돌아갑니다.
+gadget.slot.domesurface,돔 표면
+upgrades.converterirontocobalt.title,코발트 변환
+options.audio.music.ost.mode.desc,모든 키퍼에게는 각자의 사운드트랙이 있습니다. 언제 이 사운드트랙을 재생할지 변경 가능합니다.
+assignment.condition.deliversand,코발트 %d개 배송
+options.accessibility.photosensitivity.explanation,빛의 깜박임을 줄입니다.
+upgrades.keeper2bundle4.desc,자원 번들이 더 빠르고 더 오래 유지됩니다.
+upgrades.domesupplementmeleedamagereduction2.title,강력한 강화
+upgrades.keeper2bundle1.title,중심 마커
+upgrades.repellentbattleslowdown.desc,전투 중 감각을 마비시키는 안개를 살포해 모든 괴물을 감속시킵니다.
+options.game.splitscreenfontscale,분할 화면에서 더 큰 텍스트 표시
+upgrades.blastminingimpactdetonation.title,충격성 폭발
+loadout.relichunt.title,시나리오를 선택하세요
+upgrades.assignmentsemergencycontribution2.title,긴급 기부 4
+upgrades.stunlaserspeed1.desc,기절 레이저가 더 빠르게 움직입니다.
+upgrades.keeper2movement2.desc,중력 발전기를 강화해 훨씬 더 빠르게 움직입니다.
+loadout.prestige.pro.customorder,커스텀 순서
+options.translation.community.desc.seavenplatforms,이 언어들은 Crowdin의 애정이 담긴 커뮤니티에 의해 번역되었습니다.
+properties.shield.battledestructionprevention,추가 지속시간 {}초
+upgrades.spirespeedup.title,냉각 개선
+upgrades.shieldovercharge.title,방어막 과충전
+level.tutorial.station.popup_4,그리고 | 버튼을 눌러 전투 모드로 들어가 방어하세요.
+pause.gamepadcontrols.drop,떨어뜨리기
+options.accessibility.vignette.explanation,광산 심층부에 들어갈 수록 어두워지게 하는 비네트 효과를 비활성화 합니다.
+upgrades.keeper4speed3.title,이동 속도 3
+title.navbar.splitscreen,로컬 분할 화면
+upgrades.extractorquickextraction.title,빠른 벌레
+pause.disconnect,연결 해제
+properties.map.ironadditionalhealth,추가 철 강도 {}
+properties.keeper2.reflectlifetime,반사장 수명 {}초
+loadout.versusmod.versusmodifiersoftrock,무른 바위
+upgrades.repellentoverchargeduration1.title,개선된 과충전
+upgrades.teleporterteleportitems.desc,자원 및 대형 물체를 제외한 물건들을 플레이어와 함께 텔레포트 시킵니다.
+upgrades.shieldstrength2.desc,돔의 방어막이 흡수 가능한 방어력이 더 증가합니다.
+unlock.mapsize.large,중형 맵에서 승리하여 해금하세요.
+upgrades.shieldoverchargestrength2.desc,과충전 시 돔의 방어막이 흡수할 수 있는 방어력이 더 증가합니다.
+properties.drill.extensionspeed,부가 드릴 연장 속도 {}
+properties.orchard.growthtime,성장 시간 (주기) {}
+upgrades.drillbotbuff1.desc,간식은 돔 아래 둥지에서 자라납니다. 드릴버트에게 가져다주면 행복하게 먹어치우고 다시 기운을 차리게 됩니다.
+properties.repellent.battleslowdown,괴물 감속 {.percent}
+level.station.upgrademenu.buy,구매
+keybindings.reset.title.switch,버튼 초기화
+title.navbar.multiplayer.join,멀티플레이 접속
+multiplayer.host.crossplay.desc,크로스플레이는 다른 플랫폼의 친구들과 플레이 할 수 있게 해줍니다. 예를 들어 PC와 콘솔 플레이어가 함께 플레이할 수 있습니다.
+properties.probe.range,범위 (타일) {}
+modding.modio.connectionfailed,mod.io에 연결 실패!
+properties.dome.resurrectcharges,남은 부활 횟수 {}
+upgrades.mushroomstack.title,버섯 중첩
+multiplayer.error.lobby.join,로비 접속에 실패했습니다.
+pause.title,일시 정지
+level.furnace.popup.fuel.cycles,남은 주기: {cycles}
+level.gameover.unlock.gamemodevariant,새 게임 모드 변종
+upgrades.keeper2movement3.title,중력 이동 3
+upgrades.keeper3kunaicooldown2.desc,쿠나이를 더 빠르게 투척합니다.
+upgrades.repellentbattledamageovertime.title,독성 매연
+reward.rewardfreerolls1.title,제안 새로고침
+assignment.superhardrockwithholes.title,스위스산 치즈
+modding.restartneeded,모드가 올바르게 작동하게 하려면 게임을 재시작 해야합니다.
+upgrades.versusshowinventory.title,소지품 스파이
+level.tutorial.assessor.carry.desc1,잡힐 때까지 | 버튼을 누르고 있으면 자원을 당겨옵니다.
+level.tutorial.assessor.carry.desc2,| 버튼을 눌러 바라보는 방향을 향해 물체를 번들로 발사합니다.
+demo.unavailable,데모에서 이용 불가
+assignment.harmfuliron.desc,"행성의 철은 위험할 정도로 반응성이 높아, 분쇄할 때 돔에 피해를 입힙니다."
+upgrades.keeper4flexible4.title,기민함 4
+properties.dome.reducedhealth,잃은 체력 {}hp
+upgrades.keeper4catgoblinamount.desc,임무를 도와줄 냥고블린을 더 많이 길러냅니다.
+properties.keeper2.spherebasedamage,구체 기본 피해 {}
+level.gameover.showimages,열기
+properties.keeper4.maxpunchdelay,최저 펀치 속도 {}초
+upgrades.converterironduplication.desc,철을 변환하여 더 많은 철로 만들어냅니다.
+upgrades.liftorbless.title,중력 기중기
+upgrades.artilleryshotstun.desc,박격포 발사가 너무 강력해 근방의 괴물들이 일정 시간 동안 기절합니다.
+upgrades.keeper4squadsmarts.title,지능적 채굴
+options.video.graphicsmode.enablevsync,수직 동기화 활성화
+upgrades.repellentdelay3.desc,다음 괴물들의 웨이브 지연을 더 증가시킵니다.
+properties.spire.splitshotground,360도 분열
+upgrades.autocannonrateoffire3.desc,사격 속도를 최대로 증가시킵니다.
+upgrades.furnacebasedelay.title,현혹하는 매연
+properties.sword.stabcooldown,연장 쿨타임 {}초
+upgrades.resourcepacker.title,자원 포장기
+properties.probe.permanentrevealrock,영구적인 암석 공개
+upgrades.prestigeprovoke.title,괴물 도발
+loadout.hint.teams,각 팀에는 최소한 한 명의 플레이어가 필요합니다!
+upgrades.proberange1.title,중거리
+upgrades.condenserautocollect.desc,"물 수집을 자동화해, 수동으로 들고 올 필요가 없게 합니다."
+title.navbar.continue,계속
+upgrades.drillbotbuffguidance.title,추적형 간식
+options.video.stretchmode.rezised,화면 조정
+upgrades.shieldbattlereflectspeed.desc,"반사된 투사체가 더 빠른 속도로 날아가며, 공격자를 반격할 확률이 높아집니다."
+properties.keeper2.spherebaselifetime,구체 수명 {}초
+properties.resourcepacker.packscale,크기 줄이기 {.percent}
+properties.chainsaw.speed,이동 속도 {}
+properties.probe.rechargetime,완전 재충전 시간 (주기) {}
+upgrades.blastminingblast1.title,폭발력 1
+upgrades.liftcarrykeeper1.title,키퍼 기중기 1
+loadout.versusmod.versusmodifierlongcycles,긴 주기
+options.keybindings.action.dome.secondary,부가 능력
+upgrades.extractor.title,철벌레
+level.tutorial.assessor.reflect.desc2,"들어오는 구체를 반사하며, 동시에 강화합니다."
+options.keybindings.keyboard,키보드
+level.tutorial.assessor.reflect.desc1,| 버튼을 눌러 주변에 반사장을 토글합니다.
+level.tutorial.beastmaster.move,이동
+level.gameover.automove,자동 카메라
+upgrades.keeper4punch4.title,광란 4
+properties.shockwave.damagemod,추가 피해량 {.percent}
+upgrades.drillbotsleepless.desc,드릴버트가 자기 전까지 더 오랫동안 일하게 됩니다.
+upgrades.keeper2pinballexplode.desc,키네틱 에너지를 방출하여 주변의 모든 구체를 폭발시킵니다.
+reward.rewardpermanentwavemeter.title,기본적인 적대 생물 근접 감지기
+upgrades.keeper3shurikencooldown1.desc,수리검의 쿨타임을 보다 더 감소시킵니다.
+upgrades.droneyard.title,드론 배치장
+level.gameover.unlock.promode,위신 프로 설정 해금!
+upgrades.swordextendlong2.desc,"찌르기 위력이 더욱 향상되고, 비행 중 더 정밀하게 제어할 수 있습니다."
+upgrades.drillbotturnaround.desc,"파괴할 수 없는 벽을 만났을 때, 드릴버트는 낮잠을 자는 대신 몸을 돌려 일을 계속합니다."
+loadout.prestige.fairness.desc,"저희는 위신 플레이어들이 최고점과 더 나은 전략을 놓고 경쟁하는 모습을 보는 게 즐겁습니다. 공정하고 재미있는 경쟁을 유지하기를 바라며, 그러기 위해선 모두가 동등한 관계에서 플레이 하는 것이 중요합니다.
+
+귀하께서 치트 도구를 사용하거나 부당한 기술을 사용할 시 귀하의 게임이 인정되지 않거나 삭제될 수 있음을 이해해주시길 바랍니다.
+저희가 정의하는 부당한 기술이란 일반적인 게임 플레이로는 이용할 수 없는 방식으로 위신 게임에서 실질적인 이득을 취하는 것을 의미합니다. 여기엔 저장 파일 수정 및 확인, 과도한 불러오기 반복, 화이트리스트에 올라오지 않은 모드 및 의도적이며 반복된 버그 사용이 포함됩니다.
+귀하의 게임에서 상당한 양의 치트 혹은 부당한 기술 사용이 나타날 경우 일반 리더보드에서의 경쟁이 영구적으로 금지될 수 있습니다.
+
+특정한 무언가가 허용되는지 안 되는지에 대해서 확신할 수 없으시다면 저희 Discord 혹은 dome@bippinbits.com으로 이메일을 보내주세요. 잘못 신고된 경우 언제든 저희에게 이의를 제기하실 수 있습니다.
+
+즐거운 게임 되세요!"
+assignment.emergency.title,긴급상황
+upgrades.droneyardbattlegridlong2.title,드론 무리
+properties.repellent.battleuses,전투 시 사용 가능 횟수 {}회
+loadout.difficulty.easy,어려움
+level.tutorial.mineraltree1,"미네랄 나무씨를 찾았습니다. 이 씨앗은 타일에 뿌리를 뻗는 나무로 성장할 수 있습니다. 자신이 뿌리를 내린 곳의 자원을 열매로 맺습니다.
+필요한 자원이 있는 곳에 씨를 심어보세요."
+options.keybindings.action.keeper.pickup,집기
+gadget.slot.domebackside,돔 뒤편
+assignment.megacreeps.desc,이 행성엔 가장 크고 강력한 괴물들만 돌아다닙니다.
+options.keybindings.rebinding.error.gamepad.switch,해당 입력을 컨트롤러 입력키로 설정할 수 없습니다.
+modding.profile.new,새 프로필
+upgrades.suitblasterspeed2.desc,수트가 블래스터를 충전하는 속도를 증가시킵니다.
+properties.domearmor.pulsedamagethreshold,펄스 피해 임계값 {}
+options.game.autopause,다른 작업 시 일시정지
+savegame.wiped.desc,"모든 저장 파일에 오류가 있습니다. 저장 중 시스템 충돌이 원인일 수 있습니다. 진행도를 복구할 수 없습니다.
+클라우드 저장소에서 저장 파일을 복원할 수 있는지 확인하세요. 그렇지 않으면 진행도는 영구적으로 소실됩니다."
+properties.shield.maxstrength,방어력 {}hp
+level.tutorial.ninja.rope.desc1,| 버튼을 유지해 %s을(를) 사용해 조준하는 방향으로 밧줄을 발사합니다.
+level.gameover.unlock.gadgetability,새 도구 전투 능력
+level.tutorial.ninja.rope.desc2,| 버튼을 유지해 점프합니다.
+upgrades.repellent.desc,"괴물들을 쫓는 액체를 생산하는 탱크를 설치합니다. 활성화 시 돔의 밖에 살포해, 다음 공격자들의 웨이브를 지연시킵니다."
+modding.modio.report,모드 신고
+properties.artillery.directhitdamage,직격타 피해량 {.percent}
+upgrades.spireprojectileslowdown.title,투사체 감속
+properties.keeper2.bundleduration,번들 수명 {}초
+upgrades.domesandrepair.title,코발트 수리
+upgrades.assignmentsemergencycontribution3.desc,이 패키지를 7번째 웨이브가 끝나기 전까지 보내지 않으면 이 임무는 실패합니다.
+upgrades.stunlaserduration3.title,사격 스태미너 3
+properties.orchard.battleshields,방어막 층 {}
+options.video.brightness,밝기
+demo.end.misc1,4개의 모드 바리에이션이 있는 경쟁형 위신 모드
+upgrades.droneyarddrones.desc,자원을 운송하는 드론을 추가로 한 기 생성합니다.
+demo.end.misc3,더 많은 기본 도구
+options.game,게임
+loadout.mode.longtime.desc,"웨이브 사이의 시간이 두 배로 길어지지만, 웨이브는 더 강력해집니다."
+demo.end.misc2,다양하고 도전적인 임무
+demo.end.misc5,더 많은 동굴
+demo.end.misc4,더 다양한 지도 크기
+upgrades.orchardduration2.title,과일 2
+gadget.slot.domesupplement,돔 보조 장비
+demo.end.misc6,더 많은 괴물
+upgrades.keeper2rotationalmining1.desc,자원의 경도를 무시하고 일정한 속도로 채광을 할 수 있게 합니다.
+upgrades.droneyardbattlegridquick2.desc,"모든 드론을 매우 빠르게 출동시키며, 전투 시작 때부터 준비가 되어있게 합니다."
+loadout.choices.comingsoon,"아직은 불가능하지만, 곧 추가됩니다."
+properties.keeper2.splitlifetime,분할 구체 수명 {.percent}
+options.input.controls.mouse.sword,마우스를 사용해 검 돔 베기 조작
+level.tutorial.beastmaster.goblins.desc1,| 버튼을 길게 눌러 뒷벽에 구멍을 내면 냥고블린들이 광산에 들어올 수 있습니다.
+upgrades.drill3.desc,드릴의 채굴력을 강화해 빠르게 합니다.
+upgrades.jetpackstrength3.title,운반력 3
+upgrades.laserstrength3.title,동력 3
+level.tutorial.beastmaster.goblins.desc2,냥고블린은 구멍 근처의 자원을 수집합니다.
+upgrades.domesupplementresurrection1.title,돔 부활
+loadout.mapsize.small.description,짧은 세션을 위한 소형 지도입니다.
+upgrades.proberange2.title,장거리
+reward.rewardkeeper2skin5.title,어세서 스킨
+upgrades.jetpackspeed2.desc,제트팩을 강화해 더 빠르게 움직입니다.
+upgrades.artilleryrotation2.desc,박격포를 더 빠르게 회전시킵니다.
+upgrades.domesupplementcombatrepair3.title,빠른 전투 수리
+reward.rewardkeeper4skin3.desc,비스트마스터의 새로운 키퍼 스킨을 하나 해금합니다.
+multiplayer.host.splitscreen.desc.ps5,로드아웃 화면에서 무선 컨트롤러를 사용하면 키퍼를 추가로 소환할 수 있습니다. 최대 4명의 키퍼가 한 화면을 공유할 수 있습니다. 온라인 멀티플레이와 함께 플레이할 수 있습니다.
+upgrades.keeper2pinballdamage2.desc,더 강한 키네틱 구체를 사용하는 대신 재장전 시간이 더 증가합니다.
+level.tutorial.ninja.rope,밧줄
+options.keybindings.rebinding.error.keyboard,해당 입력을 키보드 입력키로 설정할 수 없습니다.
+upgrades.domesupplementcombatrepair2.desc,"자동 수리가 더 강력해지며, 더 많은 체력을 회복합니다."
+properties.dome.baserepair,{}hp 수리
+properties.repellent.growthtime,생산 시간 (주기) {}
+properties.keeper.domefuel,연료 추가 {}
+options.accessibility.critters,지하 생물 비활성화
+level.tutorial.assessor.reflect.desc1.switch,| 버튼을 눌러 주변에 반사장을 토글합니다.
+upgrades.probelongmarker2.title,지속성 마커
+upgrades.converterefficientwater.title,능률적 물 변환
+upgrades.assignmentssendcobalt.title,코발트 배송
+properties.monsters.waveinterval,웨이브 간 시간 {}초
+options.keybindings.rebinding.error.gamepad,해당 입력을 게임패드 입력키로 설정할 수 없습니다.
+options.input.gamepad.twinstick.ps5,왼쪽 및 오른쪽 스틱 조작
+properties.extractor.units,생산된 벌레 {}
+loadout.mode.doubleiron.desc,철 매장지가 더 풍부해집니다.
+telemetry.title,온라인 멀티플레이를 활성화할까요?
+multiplayer.host.local.desc,로컬 네트워크 내 플레이어들이 접속 가능합니다.
+properties.laser.dps,피해량 {}
+level.tutorial.assessor.spheres.desc1.switch,| 버튼을 눌러 바라보는 방향으로 키네틱 구체를 발사합니다.
+upgrades.spirecapacity.desc,재충전이 필요하기 전까지 발사 가능한 탄의 수를 증가시킵니다.
+upgrades.doublelaser.title,이중 레이저
+options.keybindings.text,"취향에 맞게 버튼을 설정합니다.
+다른 분야에 같은 키를 배정하더라도 일반적으로는 문제가 발생하지 않습니다 (예를 들어 이동 키와 돔 무기 이동 키를 같게 할 경우)."
+properties.repellent.battleabilityduration,능력 지속시간 {}초
+options.input.controls.keybindings.switch,버튼
+options.keybindings.gamepad.xbox.menu,시작
+upgrades.shieldstrength1.title,방어력 1
+properties.converter.watertoiron,1 물을 {} 철로 변환
+upgrades.stunlaserstun2.title,기절력 2
+upgrades.drillbotstrength2.desc,드릴버트의 채굴력을 증가시킵니다.
+upgrades.dome1.title,레이저 돔
+options.keybindings.rebinding.error.gamepad.xbox,해당 입력을 컨트롤러 입력키로 설정할 수 없습니다.
+loadout.assignment.shop,키퍼 길드 보상
+upgrades.orchardbattlerootingmore.desc,더 많은 뿌리가 더 오랫동안 유지됩니다.
+options.keybindings.action.general.back,취소
+exhibition.level.instruction,아무거나 눌러 게임을 계속하세요!
+upgrades.converterefficientwater.desc,변환이 보다 효율적으로 개선됩니다.
+upgrades.teslapower4.desc,테슬라의 사격력을 증가시킵니다.
+upgrades.artilleryprojectileerasure.title,투사체 분산
+assignment.weakwalls.title,고위험
+title.navbar.quit,데스크톱으로 돌아가기
+upgrades.autocannonrateoffire1.desc,사격 속도를 증가시킵니다.
+upgrades.laserstrength3.desc,레이저의 동력을 한층 더 증강합니다.
+loadout.mode.automateddefense.desc,"모든 방어 도구 및 자율화 도구를 가지고 시작하지만, 주 무기가 없습니다. 돔이 알아서 하게 하세요!"
+level.gameover.prestige.score.rankunchanged,랭크에 변동은 없습니다.
+properties.keeper2.directmininghardness,암석 경도 영향 {.percent}
+level.gameover.retry,새 게임 시작
+options.input.controls.keybindings.button.xbox,버튼 설정 변경
+upgrades.keeper4autospawnminers.title,자발 지원 부대
+modding.modio.declined,모드 접근을 위해 약관을 수락해 주세요
+upgrades.repellentoverchargeduration1.desc,과충전이 전투 능력에 미치는 영향을 증가시킵니다.
+upgrades.assignmentsemergencycontribution5.title,긴급 기부 16
+upgrades.keeper2pinballdamage2.title,키네틱 구체 2
+upgrades.teslaspeed3.desc,조준 십자선이 더 빠르게 움직입니다.
+upgrades.domesupplementmeleedamagereduction2.desc,보다 더 선체를 강화해 근접 공격으로부터 받는 피해를 더 줄여줍니다.
+properties.extractor.processingtime,추출 시간 {}초
+upgrades.keeper3.desc,"밧줄과 숙련된 점프로 키퍼가 빠르게 움직이며, 폭발성 쿠나이를 던져 채광합니다."
+assignment.acidrain.title,산성 비
+upgrades.droneyardparasites3.desc,기생형 드론의 약화 효과를 더 증가시킵니다.
+upgrades.domesupplementelectrifiedsurface1.desc,반응형 전자기장을 돔의 선체에 추가해 근접 공격을 하는 괴물들에게 피해를 줍니다.
+unlock.buy.keeperdlc.switch,'%s' 애드온으로 해금됨
+upgrades.keeper3shurikenstrength2.desc,수리검의 폭발력을 보다 더 강화합니다.
+upgrades.teslapower3.title,전력 강화 3
+upgrades.stationextensionrevealdistance2.desc,스테이션 주변에 드러나는 바위와 자원의 스캔 범위를 증가시킵니다.
+upgrades.keeper3shurikencooldown2.title,무한 수리검
+properties.orchard.buffduration,버프 지속시간 (주기) {}
+loadout.prestige.provocation.description,"더 강력한 웨이브와 더 많은 위신을 얻기 위해 괴물들을 도발합니다. 매 주기마다 도발 배수는 줄어들며, 0 미만으로 떨어지면 게임이 끝납니다."
+level.tutorial.probe.popup_1.switch,| 버튼을 눌러 탐지기 파를 발산합니다.
+level.tutorial.repellent.popup_2.switch,"근처에서, | 버튼을 눌러 활성화합니다."
+multiplayer.join.profile,프로필
+level.tutorial.probe.popup_3,"주변의 자원을 드러냅니다.
+스테이션에서 재충전할 수 있습니다."
+level.tutorial.repellent.popup_1,퇴치제가 다음 웨이브를 지연시킬 준비가 되었습니다.
+upgrades.keeper4ramping2.desc,"채광력, 최대 속도, 가속도 유지력을 상승시킵니다."
+options.game.kunaicarrierbeforegadgets,도구보다 쿠나이 우선 투척
+properties.probe.permanentrevealresources,영구적인 자원 공개
+upgrades.keeper2bundle4.title,강력한 번들
+options.audio.volumes.musicvolume,음악
+options.input.controls.useindividualsettings,개인 키퍼 설정 사용
+upgrades.keeper4squadsmarts.desc,채굴 부대가 특수 타일과 자원 근처의 타일을 우선적으로 채굴합니다.
+upgrades.domesupplementscraprepair2.title,복구
+upgrades.orchardduration3.desc,과일의 지속시간을 최대화합니다.
+options.input.controls.touch,터치
+level.gameover.keepgadget.none,없음
+upgrades.stunlaserautonomy1.title,자율화
+upgrades.swordexplosivereflection.title,폭발성 반사
+upgrades.probelongmarker1.desc,"탐지기의 기억 모듈을 개선해, 마커가 더 오래 지속되게 합니다."
+upgrades.resourcepackercharges.desc,수트 안에 보관할 수 있는 포장 차지의 수를 증가시킵니다.
+level.tutorial.tesla.panel2header,사격
+upgrades.drilladditionalsides.desc,기본 드릴과 동일한 기능을 가진 측면 드릴을 추가로 얻습니다.
+loadout.difficulty.veryeasy.description,"쉽지는 않지만, 다른 난이도보단 여유 있습니다."
+properties.stunlaser.stunstrength,기절력 {}
+properties.resourcepacker.packcount,번들 크기 {}
+upgrades.keeperonewayteleporter.title,단방향 텔레포터
+upgrades.keeper3kunaidamage4.title,쿠나이 충격력
+upgrades.drill4.title,채굴력 4
+options.game.directionsnapping,키퍼 조준을 기본 방향으로 스냅
+upgrades.artillerymachinegun3.title,속사 2
+upgrades.stunlaserspeed2.title,속도 2
+properties.artillery.machinegunreloadspeed,탄환 재장전 속도 {}초
+options.game.screenshake,화면 흔들림
+upgrades.proberechargeafterbattle.desc,탐지기가 시간의 흐름에 따라 자동으로 충전되며 충전 스테이션이 필요 없어집니다. 저장고의 도구 슬롯에 여유가 생깁니다.
+upgrades.jetpackstrength2.title,운반력 2
+upgrades.assignmentssendiron.title,철 배송
+upgrades.teslaspeed4.desc,조준 십자선이 더 빠르게 움직입니다.
+level.assignment.badges.toggle,임무를 완료하여 배지를 획득하세요. 배지를 사용하여 키퍼 길드 보상을 구매할 수 있습니다. 구매한 보상은 원할 때 비활성화하여 보상 없이 게임을 플레이할 수 있습니다
+loadout.versus.wincondition,승리 조건
+upgrades.converterefficientwatershort.title,빠른 작업
+properties.keeper2.directminingdamage,압축 채굴 피해량 {}
+upgrades.assignmentssendiron.desc,철을 키퍼 길드에 전달하세요. 임무를 성공적으로 완수하려면 전달해야 할 모든 자원을 전달해야 합니다.
+upgrades.keeper3carrylimit1.title,운반 수용력 1
+assignment.goaltype.survive,생존
+upgrades.shield.title,방어막
+level.station.battle.navbar.stabspeedup,찌르기 속도 증가
+upgrades.keeper3quadjump.desc,공중에서 추가로 3번까지 점프할 수 있습니다.
+properties.laser.aimline,조준선
+properties.domearmor.pulsestunduration,펄스 기절 지속시간 {}초
+level.tutorial.assessor.carry.desc2.switch,| 버튼을 눌러 바라보는 방향을 향해 물체를 번들로 발사합니다.
+level.tutorial.ninja.carry.desc1.switch,| 버튼을 눌러 %s을(를) 사용해 조준하는 방향으로 자원을 실은 쿠나이를 투척합니다.
+upgrades.orchardovercharge.desc,"물을 이용해 과수원을 과충전하고, 과수원의 전투 능력을 향상시킵니다."
+upgrades.missile.abilityname,미사일
+upgrades.resourcepackercount2.desc,번들 하나에 포장될 수 있는 자원량을 증가시킵니다.
+assignment.bigmapsparseresources.desc,"이 거대한 행성에는 자원이 드물고 서로 멀리 떨어져 있지만, 암반은 매우 약합니다."
+properties.spire.stuntrap,에너지 함정
+playerlist.block,차단
+level.tutorial.sworddome.stabbing.desc,검을 발사해 멀리 있는 적을 찌릅니다.
+properties.sword.sliceacceleration,검 속도 {}
+loadout.team.join,접속
+assignment.weapondefect.desc,돔의 주 무기가 파괴되었습니다. 다른 수단으로 생존해야 합니다.
+upgrades.repellentbattlehealthreduction.title,약화
+loadout.versusmod.versusmodifiertoughstart,힘든 시작
+title.navbar.multiplayer,멀티플레이
+keybindings.reset.title.xbox,버튼 초기화
+upgrades.extractorquickextraction.desc,벌레를 활동 과잉으로 진화시켜 철 군집을 더 빠르게 추출해내게 합니다.
+upgrades.mushroomfarmquickgrowth.title,빠른 성장
+upgrades.repellentbattlehealthreduction.desc,"모든 괴물들을 약화하며, 괴물들을 공격 시 더 많은 피해를 입게 합니다."
+loadout.versusmod.versusmodifierstrongmonsters,건강한 괴물
+leaderboard.failed,리더보드를 불러오는 데 실패했습니다.
+properties.sword.reflectprojectilesexplosive,반사된 에너지 투사체가 폭발성으로 변함
+level.station.navbar.upgrades,업그레이드
+upgrades.artillerymachinegun3.desc,대공포를 개선시킵니다.
+level.gameover.unlock.pet,새 애완동물 해금!
+upgrades.domesupplementelectrifiedsurface2.title,전자기장 선체 2
+upgrades.keeper3shuriken2.desc,수리검의 쿨타임을 감소시켜 더 자주 투척 가능하게 합니다.
+upgrades.artillerysplash2.desc,빠르게 연속으로 두 발의 박격포를 발사합니다.
+loadout.mode.hud,HUD
+upgrades.keeper4flexible2.title,기민함 2
+upgrades.shieldbattlereflectshortuses.desc,더 자주 반사합니다.
+upgrades.rocketlauncherdamage2.title,치명적인 미사일
+upgrades.domesupplementscraprepair1.title,고철 수리
+upgrades.keeper2bundle3.title,중력 중심점
+upgrades.keeper2bundle2.desc,근거리에서 떨어뜨린 번들의 방향을 제어할 수 있습니다.
+upgrades.keeper3shurikencooldown2.desc,수리검의 쿨타임을 보다 더 감소시킵니다.
+upgrades.suitblaster.title,수트 블래스터
+upgrades.prestigeiron.title,철 전송
+properties.stunlaser.cooldown,쿨타임 {}초
+options.input.controls.keepersettings.desc,키퍼는 기본적으로 공용 설정을 사용합니다. 이곳에서 키퍼당 개인 설정을 덮어씌울 수 있습니다. 예를 들어 키퍼마다 스냅 혹은 액션을 다르게 설정할 수 있습니다.
+options.keybindings.action.keeper.gravityball,사격
+upgrades.liftorbs.desc,기중기 구체를 하나 더 설치합니다.
+options.input.controls.mouse.gamepad,게임패드로 전환 후 복구가 자동으로 탐지 되었습니다.
+properties.probe.detectchambers,방 탐색
+landing.proceed.ps5,아무 버튼이나 눌러 계속
+upgrades.condenserautocollect.title,자동 수집
+multiplayer.error.hostcrossplaydisabled,"주최자가 다른 플랫폼을 이용 중이고, 크로스 플레이를 비활성화하여 대기실에 들어갈 수 없습니다."
+upgrades.repellent.title,퇴치제
+loadout.team.color,팀 색상
+options.game.tutorials.resettutorials,튜토리얼 초기화
+options.accessibility.critters.explanation,"시각적 효과를 위해 광산에서 소환되는 벌레, 지렁이나 거미 같은 생물이 나타나지 않게 합니다."
+upgrades.prospectionmeterrange1.desc,탐사 계측기의 탐사 범위를 증가시킵니다.
+upgrades.drillsidepull.title,광물 운송
+options.accessibility.highlightmonsters.explanation,가시성을 위해 괴물 주위에 윤곽선을 보여줍니다.
+upgrades.keeper2bundle1.desc,돔 바로 아래에 마커를 표시하여 번들을 쏠 위치를 알려줍니다.
+upgrades.assignmentsemergencycontribution6.title,긴급 기부 20
+upgrades.keeper4ramping3.title,가속도 3
+upgrades.swordblade1.desc,검의 절삭력과 이동 속도를 증가시킵니다.
+upgrades.probedetectchambers.title,방 탐색
+loadout.mode.shortcycles,짧은 주기
+upgrades.proberange3.desc,탐지기의 탐지 범위를 증가시킵니다.
+loadout.versusmod.versusmodifiershortcycles,짧은 주기
+loadout.prestige.endless.description,매우 긴 게임으로 시간 및 자원에 제한이 없습니다.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"게임패드 스틱을 건드리기만 하고 밀지는 않을 때, 바가 깜빡거리지 않도록 값을 설정합니다.
+스틱을 밀 경우, 바가 깜빡거립니다."
+upgrades.blastminingblast3.title,폭발력 3
+upgrades.swordextendlong1.desc,찌르기 위력과 비행 중 유도 능력이 향상됩니다.
+properties.autocannon.rateoffire,사격률 {.percent}
+upgrades.assignmentsemergencycontribution4.title,긴급 기부 11
+assignment.minorvision.desc,행성의 그림자가 모든 빛을 삼킵니다.
+options.audio.volumes,볼륨
+unlock.host.locked.ps5,주최자가 '%s' 애드온을 보유하고 있지 않습니다.
+loadout.versusmod.versusmodifiershortcycles.desc,괴물 웨이브 간의 간격이 더 짧아집니다.
+upgrades.keeper2pinballexplode2.title,향상된 폭발
+multiplayer.host.local,로컬
+options.video.graphicsmode.fullscreen,전체화면
+properties.keeper3.kunaidamage,쿠나이 피해량 {}
+options.game.screenshake.shakewhenmining,채광 시 흔들림
+upgrades.dome2.title,검 돔
+properties.autocannon.damage,탄약 피해량 {}
+loadout.mode.doubleiron,풍부한 철
+upgrades.keeper4punch1.title,광란
+level.gameover.unlock.versus,대결 모드 해금!
+upgrades.artillerydoublemachinegun.desc,돔의 대공포에 두 번째 총열을 추가합니다.
+level.converter.popup.conversion.time,{time}주기에 걸쳐
+options.translation.title,언어를 선택하세요
+loadout.prestige.pro.title,사용자 지정 설정
+multiplayer.host.title,멀티플레이 세션 주최
+properties.keeper4.movespeed,이동 속도 {}
+options.input.gamepad.thumbstick.xbox,스틱
+upgrades.furnacelastingironfiring.title,오래가는 철 연료
+upgrades.shieldoverchargestrength1.title,방어력 과충전 1
+multiplayer.error.modsmismatched,모드 목록이 주최자와 일치하지 않습니다. 들어갈 수 없습니다.
+upgrades.laserhitprojectiles.desc,에너지 투사체를 레이저로 맞출 시 즉시 융해시킵니다.
+upgrades.probepermanentrevealtiles.desc,탐지기가 탐사하는 모든 지역은 영구적으로 공개됩니다.
+options.keybindings.action.keeper.jump,점프
+upgrades.repellentdelay2.title,지연 2
+upgrades.keeper3shuriken1.title,수리검
+upgrades.probelongmarker2.desc,자원 마커가 몇 주기 동안 지속됩니다.
+properties.shockwave.stunduration,기절 지속시간 {}초
+level.tutorial.teleporter.teleport1,"포탈 근처에 있다면, | 버튼을 눌러 다시 텔레포트 합니다."
+options.game.alwaysshowping,항상 서버 핑 표시
+loadout.choices.locked,아직 해금되지 않음.
+upgrades.prospectionmetersand1.title,코발트 계측기
+upgrades.drillbotstrength2.title,채굴력 2
+level.gameover.findimages,저장 위치:
+level.tutorial.resourcepacker.popup_1.switch,자원에 가까이 가면 |버튼을 눌러 자원을 압축된 번들로 만들어 운반하기 쉽게 합니다.
+reward.rewardpostrunshowmonstercount.title,추가 전투 통계
+upgrades.drill.title,굴착기
+upgrades.versusincreasewave1.desc,상대 팀의 괴물 웨이브의 난이도를 영구적으로 증가시킵니다.
+upgrades.swordstabfast1.desc,더 빠르고 자주 찌를 수 있게 됩니다.
+properties.sword.slicebrake,절삭 시 속도 감속 {.percent}
+upgrades.lasermove3.desc,레이저의 이동 속도를 최대화합니다.
+upgrades.prestigewatermultiplier.desc,물을 전송합니다. 웨이브가 끝날 때마다 얻는 위신 점수량을 증가시킵니다.
+upgrades.domesupplementresurrection1.desc,"파괴되는 대신, 돔이 완전히 수리되며 일정 시간 동안 무적이 됩니다. 한 번만 작동합니다."
+upgrades.swordextendlong3.title,찌르기 연장 3
+properties.repellent.wavedelay,웨이브 지연 (주기) {}
+upgrades.domewavepathtodome.desc,"웨이브 경고기가 울리면, 돔으로 돌아가는 최단 경로를 보여줍니다."
+level.tutorial.ninja.carry,쿠나이 캐리어
+upgrades.dome4.desc,첨단 돔으로 전례 없을 정도의 강력한 전력을 이용합니다.
+upgrades.prospectionmeterwater2.title,물 나침반
+multiplayer.techtree.keeperexclusivegadget,이 도구는 당신의 키퍼에게만 적용됩니다.
+options.keybindings.action.dome,돔
+upgrades.drillbotbuff1.title,간식
+versus.corruption.desc,상대 팀을 공격할 괴물들에 영향을 줄 오염을 선택하세요!
+upgrades.swordstabshoot.title,자벨린
+properties.dome.projectiledamagereduction,투사체 피해량 감소 {.percent}
+upgrades.drillbotbuffstrength2.desc,"간식을 먹인 후, 드릴버트는 자기 전 더 오랫동안 일합니다."
+leaderboard.global,글로벌
+options.game.blocklist.unblockall,모두 차단 해제
+upgrades.swordlongblade1.title,장검 1
+properties.mushroomfarm.drillbuff,채굴력 버프 {}
+properties.spire.splitshotspeed,분열탄 속도 {}
+options.keybindings.action.dome.upgrade,업그레이드
+upgrades.teslaspeed3.title,십자선 속도 3
+upgrades.domehealthmeter.title,체력 수치
+properties.extractor.additionalresources,추가 자원 {}
+upgrades.domesupplementcombatrepair3.desc,더 적은 피해를 입은 후 자동 수리가 더 일찍 발동됩니다.
+upgrades.furnacelastingironfiring.desc,용광로에서 철 하나를 연료로 더 오래 사용할 수 있습니다.
+properties.dome.resurrectinvulnerability,부활 후 무적 {}초
+upgrades.assignmentssendwater.desc,물을 키퍼 길드에 전달하세요. 임무를 성공적으로 완수하려면 전달해야 할 모든 자원을 전달해야 합니다.
+options.game.autopickupresources,자동으로 자원 들기
+upgrades.repellentbattledamageovertime.desc,독성 매연이 지속되는 동안 모든 괴물이 매초 약간의 피해를 입습니다.
+upgrades.artillerydirecthit3.desc,박격포탄의 파괴력을 증가시킵니다.
+upgrades.domearmorprojectile1.title,투사체 장갑 1
+upgrades.keeper4catgoblindig3.desc,냥고블린이 채굴하며 타일을 완전히 파괴합니다.
+upgrades.stunlaserarea.desc,대상 괴물 주변을 기절시키는 폭발을 생성해 근방의 모든 괴물을 기절시킵니다. 구역 내 괴물이 많이 있을 수록 구역의 크기는 커지고 더 많은 피해를 입힙니다.
+level.tutorial.teleporter.carry2,포털 가까이에서 | 버튼을 길게 눌러 다시 집으세요.
+level.tutorial.teleporter.carry3.switch,| 버튼을 누르면 되돌아갑니다.
+upgrades.keeper2pinballreflect.title,반사장
+upgrades.probepermanentrevealtiles.title,암석 공개
+loadout.versusmod.versusmodifierfastmonsters.desc,괴물이 더 빠르게 움직입니다.
+level.tutorial.teleporter.carry1,원하는 곳에 포탈을 놓을 수 있습니다.
+level.tutorial.pickup.popup_1,| 버튼을 눌러 자원을 들어 올리세요.
+options.input.gamepad.autoswitch,선호하는 게임패드 자동 탐지
+options.accessibility,접근성
+upgrades.teslapersistance2.desc,전격 구체가 더 커지고 더 오래 지속됩니다.
+properties.sword.reflectionacceleration,반사된 투사체 속도 {.percent}
+upgrades.artillerygrenadefastreload.title,빠른 재장전
+upgrades.keeper2pinballreflect.desc,키네틱 구체를 반사하는 정지형 반사장을 배치합니다. 구체가 반사될 때 살짝 강화됩니다.
+options.keybindings.action.keeper,키퍼
+upgrades.drillbotbuffstrength1.desc,간식이 드릴버트의 기운을 더 오랫동안 북돋습니다.
+upgrades.versussendiron.desc,철을 키퍼 길드에 전달하세요. 상대 팀에게서 승리하기 위해 보낼 수 있는 모든 걸 보내세요.
+upgrades.keeper2pinballmorespheres1.desc,들 수 있는 키네틱 구체의 수를 증가시킵니다.
+properties.rocketlauncher.rechargetime,재충전에 필요한 시간 {}초
+upgrades.domesupplementadditionalcellar.title,심층 저장고
+upgrades.blastminingstickycharge.title,점착 방향성 차지
+level.tutorial.assessor.explode.desc1.switch,| 버튼을 눌러 주변의 모든 구체를 폭파시킵니다.
+upgrades.furnacestrongironfiring.title,향상된 철 연료
+assignment.monstermasses.title,괴물 무리
+options.input.gamepad.gamepadstickdeadzone.switch,아날로그 스틱 데드존
+properties.stunlaser.areastunstrength,범위 기절 효율 {.percent}
+upgrades.dome1health2.desc,영구적으로 돔의 구조적 체력을 증강합니다.
+upgrades.probepermanentrevealresources.title,자원 공개
+upgrades.swordfastreflection.desc,반사된 투사체가 더 빠르게 반사됩니다.
+properties.autocannon.shotgun,산탄총 탄약 {}
+loadout.difficulty.medium,잔혹
+multiplayer.join.joincodeinput,접속 코드 입력
+properties.keeper4.maxspeedupatpunches,펀치 {}회 후 최대 속도
+properties.monstermodifiers.health,괴물 체력 {.percent}
+loadout.versusmod.versusmodifierfastmonsters,빠른 괴물
+upgrades.shieldoverchargestrength1.desc,과충전 시 돔의 방어막이 흡수할 수 있는 방어력이 증가합니다.
+properties.probe.charges,{}회 차지
+reward.rewardthreechoicessupplement.title,3가지 보조 장비 제안
+upgrades.domesupplementscraprepair1.desc,철을 사용해 거친 방법으로 돔을 수리합니다. 전반적인 체력이 감소합니다.
+level.tutorial.tesla.panel1content1,화면 위 십자선을 이동시켜 조준합니다.
+upgrades.shockwavebig.desc,충격파가 일부 더 강한 괴물들도 쓰러뜨릴 수 있도록 큰 피해를 가합니다.
+multiplayer.continue.allowmultiplayererror,설정에서 온라인 플레이 활성화에 체크하지 않았기에 온라인 멀티플레이를 계속 할 수 없습니다.
+loadout.hint.multiplayer.playerminimum,멀티플레이 게임을 시작하려면 최소 두 명의 플레이어가 필요합니다.
+upgrades.artillerymachinegunhoming2.title,유도 로켓 2
+upgrades.repellentbattleslowdownstun2.title,강력 마비화
+upgrades.shockwave.abilityname,충격파
+upgrades.jetpackspeed1.title,속도 1
+upgrades.teleporterteleportduration1.title,텔레포트 지속시간 1
+upgrades.autocannonrateoffire3.title,기관총 3
+properties.monstermodifiers.totalrunweightmodifier,웨이브 강도 배수 {.percent}
+upgrades.swordstabfast1.title,빠른 찌르기 1
+upgrades.swordstabfast3.title,빠른 찌르기 3
+properties.tesla.quickshotstrength,빠른 사격 강도 {.percent}
+upgrades.keeper2pinballdamage3.desc,더 강한 키네틱 구체를 사용하는 대신 재장전 시간이 더 증가합니다.
+title.navbar.options,설정
+upgrades.domearmormelee2.desc,돔이 근접 공격으로 인해 입는 피해량을 감소시킵니다.
+upgrades.shieldbattleelectroblast.title,전격 폭발
+properties.spire.stuntrapradius,반경 {}
+options.audio.volumes.ambiencevolume,앰비언스
+loadout.mode.drillbert.desc,"드릴버트와 폭발성 채광을 가지고 시작하지만, 키퍼가 채굴 기술을 업그레이드할 수 없습니다. 드릴버트는 무제한으로 공급됩니다."
+loadout.versus.team.closed,닫힘
+properties.keeper4.goblinnapduration,냥고블린 낮잠 지속시간 {}초
+properties.keeper2.reflectnexthitdamage,다음 명중 시 추가 피해량 {.percent}
+upgrades.orchardbattlerootingmore.title,뿌리 강화
+multiplayer.error.connection,접속에 실패했습니다.
+keeperdlc.load.missing.ps5,이용 불가능한 애드온 콘텐츠가 있어 저장 파일을 불러올 수 없습니다. '잊힌 키퍼들' 애드온이 이용 가능한지 확인해주세요.
+level.tutorial.fruit.popup_2,"옆에서, | 버튼을 눌러 소모합니다."
+loadout.versusmod.versusmodifierlittlecobalt,코발트 부족
+reward.rewardpet12.desc,돔에서 애완동물로 개를 해금합니다.
+multiplayer.host.joincodelabel,접속 코드
+upgrades.swordstabfast2.desc,더 빠르고 더 자주 찌를 수 있게 됩니다.
+properties.dome.incomingdamagemodifier,받은 피해량 {.percent}
+properties.sword.stabexplosivedamage,폭탄 피해 {}
+properties.blastmining.bombs,폭발성 차지 {}
+properties.resourcepacker.charges,차지 {}
+upgrades.assignmentsemergencycontribution1.desc,이 패키지를 2번째 웨이브가 끝나기 전까지 보내지 않으면 이 임무는 실패합니다.
+properties.artillery.machinegunbarrels,대공포 {}
+properties.artillery.gunaimline,레이저 사이트
+upgrades.jetpackstrength3.desc,제트팩을 강화해 더 많은 자원을 옮깁니다.
+loadout.mode.nomonsters.desc,아무런 괴물이 없는 곳에 착륙합니다.
+telemetry.eula,EULA 읽기
+upgrades.condenserspeed1.title,생산 속도 1
+upgrades.mushroomstack.desc,버섯을 다량으로 소모해 각 버프의 지속시간을 누적해 더 오랫동안 버프를 유지합니다.
+upgrades.keeper2pinballexplode2.desc,키네틱 구체에서 만들어지는 폭발 크기를 증가시킵니다.
+versus.message.disruption,상대 팀이 막 영구적으로 아군의 괴물 웨이브를 강화했습니다.
+loadout.mode.strongmonsters.desc,괴물들이 두 배의 피해를 가합니다.
+upgrades.tesla.desc,경이로운 전력을 적들에게 소개해줍니다. 얼굴에 발사하면 더 좋습니다. 수천 볼트를 발사합니다.
+properties.drillbot.turnaround,단단한 벽을 만날 시 회전
+upgrades.keeper2movement3.desc,중력 발전기를 강화해 최고 속도로 빠르게 움직입니다.
+level.tutorial.onewayteleporter2,|키를 눌러 포탈을 설치합니다. 다시 눌러 포탈로 텔레포트합니다.
+upgrades.domearmormelee2.title,근접 장갑 2
+upgrades.drillbotbuffstrength2.title,타우린 추가
+level.tutorial.onewayteleporter3,자동으로 재충전됩니다.
+upgrades.keeper4extraresource.desc,조심스럽게 땅을 파는 냥고블린들이 간혹 타일에서 추가 자원을 획득합니다.
+upgrades.drillbotduo.desc,드릴버트의 사촌인 디고리와 미네르바를 데려와 채광을 돕게 합니다. 친척들과 함께 있어 괴물 웨이브 동안 겁에 질리지 않고 계속 채굴합니다.
+properties.tesla.perfecttimingwindow,시간대 {}초
+loadout.mode.strongmonsters,강타자
+pause.quittotitlescreen,메인메뉴로 복귀
+properties.keeper3.shurikenstrength,폭발 반경 (타일) {}
+telemetry.privacy,데이터 사용에 대한 더 많은 정보는 다음의 개인정보 정책에서 확인하실 수 있습니다: http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,미사일이 더 치명적으로 변합니다.
+keybindings.reset.doreset,내 키 설정 초기화
+upgrades.keeper3carrylimit3.desc,쿠나이 캐리어에 담을 수 있는 자원의 수를 증가시킵니다.
+upgrades.autocannondoublefirerate.desc,속사포는 더 빠르게 발사합니다. 단순하고 효과적입니다.
+upgrades.autocannon.title,자동 포
+upgrades.artillerymachinegunhoming1.title,유도 로켓 1
+level.tutorial.assessor.carry.desc1_1.switch,"물체가 잡히면, 수집 버튼을 놓아도 따라갑니다."
+upgrades.swordlongblade1.desc,길고 더 빠른 검을 설치합니다.
+loadout.team.players,플레이어
+level.tutorial.fullscreen.back,뒤로
+options.keybindings.action.keeper.rope,투척 밧줄
+upgrades.mushroomfarm.title,버섯 농장
+loadout.prestige.title,위신 바리에이션을 선택해 주세요
+upgrades.prospectionmeterrange1.title,범위 1
+upgrades.keeper3doublejump.title,이단 점프
+upgrades.keeper3kunaibounce1.desc,"쿠나이의 예상 튕김 경로와 착지점을 표시합니다. 쿠나이가 튕길 때마다 암석에 공명하여, 근방의 타일을 밝힙니다."
+upgrades.repellentbattlelongerhealthreduction.title,강력한 약화
+loadout.versusmod.versusmodifierlittlewater,물 부족
+upgrades.mushroomfarmdrill1.title,버섯 채굴 1
+loadout.versusmod.versusmodifierscatterediron,산개 철
+level.converter.popup.conversion.convert,변환
+properties.droneyard.overchargebattledronecount,추가 전투 드론 {.percent}
+reward.rewardfreerolls1.desc,게임당 도구 또는 보조 장비 선택지를 무료로 한 번 새로 받을 수 있습니다.
+multiplayer.host.splitscreen,로컬 분할 화면 활성화
+properties.converter.cobalttoiron,1 코발트를 {} 철로 변환
+loadout.mode.automateddefense,방어 자동화
+options.input.gamepad.gamepadstickdeadzone.xbox,아날로그 스틱 데드존
+level.converter.popup.explanation,변환을 시작할 자원을 선택하세요!
+upgrades.dome1health2.title,체력 2
+upgrades.stunlaserduration3.desc,"기절 레이저의 냉각 속도가 매우 빨라지고, 발사 지속 시간이 크게 늘어납니다."
+upgrades.assignmentsemergencycontribution5.desc,이 패키지를 16번째 웨이브가 끝나기 전까지 보내지 않으면 이 임무는 실패합니다.
+pause.gamepadcontrols.use,사용
+properties.spire.stunmonsters,괴물 기절
+upgrades.assignmentssendcobalt.desc,코발트를 키퍼 길드에 전달하세요. 임무를 성공적으로 완수하려면 전달해야 할 모든 자원을 전달해야 합니다.
+upgrades.mushroomfarmspeed1.desc,버섯을 소모해 획득하는 속도 버프가 증가합니다.
+upgrades.keeper2pinballmorespheres1.title,구체 보급
+upgrades.rocketlauncherrockets2.desc,발사 가능한 미사일의 수를 늘립니다.
+options.keybindings.gamepad.xbox.menu.xbox,메뉴 버튼
+upgrades.swordstabfast3.desc,더 빠르고 더 자주 찌를 수 있게 됩니다.
+properties.shield.overchargestrength,과충전 체력 {}hp
+upgrades.droneyarddronespeed1.desc,운송 드론의 속도를 증가시킵니다.
+upgrades.liftorbs.title,추가 구체
+properties.keeper3.carrylimit,쿠나이 캐리어 수용량 {}
+options.video.graphicsmode.photosensitive,광과민성 모드
+upgrades.keeper2pinballdamage1.title,키네틱 구체 1
+reward.rewardkeeper3skin1.title,잠입자 스킨
+level.tutorial.ninja.gadgetpickup.desc1,도구는 자동으로 집을 수 없습니다.
+properties.converter.ironperwater,물 1단위당 {} 철
+properties.spire.capacity,재충전하기 전 사격량 {}
+level.tutorial.ninja.gadgetpickup.desc2,| 버튼을 유지해 도구를 집어듭니다.
+loadout.versusmod.versusmodifierlittlewater.desc,지도에 물 매장지가 최소한으로 감소합니다.
+upgrades.drillbotstrength3.desc,드릴버트의 채굴력을 증가시킵니다.
+upgrades.spirestuntrap3.title,괴물 함정
+upgrades.shredgadgettocobalt.desc,도구를 재활용해 코발트를 {amount}개 획득합니다.
+upgrades.converterefficientcobalt.title,능률적 코발트 변환
+options.input.vibration.strength.switch,진동 세기
+properties.sword.reflectprojectiles,에너지 투사체 반사
+reward.rewardfreerolls2.desc,추가로 게임당 도구 또는 보조 장비 선택지를 무료로 한 번 새로 받을 수 있습니다.
+level.tutorial.station.popup_2,스테이션으로 이동해 | 버튼을 눌러 들어갑니다.
+upgrades.versus.desc,"두 개의 돔, 두 개의 팀. 한 쪽이 남을 때까지 서로 경쟁해보세요."
+upgrades.dome2.desc,숙련도가 필요한 강력한 검이 달린 실험적인 돔입니다. 아무리 강한 적이라도 쉽게 처리할 수 있습니다.
+upgrades.drillmagnetic.desc,하향식 드릴의 케이스가 자성을 띄며 채굴된 모든 자원을 제자리에 고정시킵니다.
+assignment.harmfuliron.title,위험한 철
+level.tutorial.sworddome.stabbing,찌르기
+options.input.gamepad.icons,아이콘
+upgrades.shredgadgettoiron.desc,도구를 재활용해 철을 {amount}개 획득합니다.
+upgrades.assignmentsemergencycontribution6.desc,이 패키지를 20번째 웨이브가 끝나기 전까지 보내지 않으면 이 임무는 실패합니다.
+properties.droneyard.battledroneshots,드론 하나당 사격량 {}
+level.gameover.lose.title,돔이 파괴되었습니다
+loadout.difficulty.title,난이도
+properties.artillery.maxrotation,최대 회전 각도 {}°
+upgrades.shockwavestun2.desc,충격파가 기절시키는 시간을 증가시킵니다.
+unlock.host.locked,주최자가 '%s' DLC를 보유하고 있지 않습니다.
+multiplayer.host.splitscreen.desc,로드아웃에서 게임패드를 사용해 추가 키퍼를 소환합니다. 최대 네 명의 키퍼가 한 화면을 공유 가능합니다. 로컬 네트워크 및 온라인 멀티플레이와 병행 가능합니다.
+telemetry.explanation,"온라인 멀티플레이에서는 서비스에 접속해야 하며, 다른 플레이어 및 게임을 탐색하고, 혹은 게임을 주최할 수 있습니다.
+이는 선택사항이며 언제든 활성화/비활성화가 가능합니다. 익명 계정을 통한 반복적인 백엔드 연결 또한 GDPR의 규정 준수 사항으로 간주합니다.
+우리는 귀하의 개인정보를 수집하지 않으며 또한 플레이 기록을 추적하는 텔레메트리도 사용하지 않습니다.
+온라인 멀티플레이를 활성화하고 싶지 않다고 해도, 한 기기에서 분할 화면으로, 또는 로컬 네트워크에서 멀티플레이를 즐길 수 있습니다.
+
+본 사항은 설정에서 언제든 변경 가능합니다."
+gadget.slot.supplement,보조 장비
+upgrades.droneyardovercharge2.desc,드론 배치장이 과충전된 후 드론들이 더 강해집니다.
+level.furnace.popup.fuel.burn,각 | 자원은 {cycles}주기 동안 지속되며 추가로 {seconds}초 동안 괴물들을 지연시킵니다.
+options.input.controls.nooptions,이 키퍼용으로 사용 가능한 개인 %s 설정이 제공되지 않습니다.
+upgrades.versusshowinventory.desc,상대 팀의 돔을 염탐할 때 소지품을 볼 수 있게 해줍니다.
+properties.keeper1.drillstrength,채굴력 {}
+upgrades.keeper1.desc,"숙련된, 훌륭한 채광 기술을 가진 능률적인 전문가입니다."
+leaderboard.friends,친구
+gadget.slot.activegadget,보조 전투능력
+upgrades.keeper2.desc,실험적인 키네틱 에너지와 중력 기술을 사용하는 독특한 광부입니다.
+upgrades.keeper2pinballsplit2.title,강화된 분할
+upgrades.keeper2movement1.title,중력 이동 1
+upgrades.keeper2pinballexplode.title,폭발성 구체
+upgrades.keeper3kunaidamage4.desc,쿠나이의 채광 능력이 상승합니다. 쿠나이는 단단한 바위를 상대로 할 때 유달리 약합니다.
+upgrades.spireautonomy1.desc,당신이 제어 스테이션 안에 없어도 단순 AI가 첨탑을 조종합니다.
+properties.droneyard.dronespeed,드론 속도 {}
+upgrades.teslaquickshot.title,빠른 사격
+assignment.megacreeps.title,적자생존
+upgrades.shieldbattleactivateondepletion.title,고갈 시 발동
+versus.corruptionbigwave.title,킬러 웨이브
+upgrades.lasermove3.title,이동 속도 3
+upgrades.swordelectrified.title,검신 전기화
+upgrades.artillerymachinegun1.title,향상된 대공포
+level.tutorial.beastmaster.move.desc2,무언가를 붙잡아야만 이동이 가능합니다.
+options.accessibility.fontsize.small,소형
+assignment.unpredictable.desc,행성의 대기가 돔의 근접 감지기를 방해해 적 웨이브를 추적할 수 없게 합니다.
+level.tutorial.beastmaster.move.desc1,촉수를 사용해 광산을 누비며 이동할 수 있습니다.
+upgrades.suitblasterdirectional.desc,특정 방향으로 움직이고 있을 시 수트 블래스터가 폭발로 긴 터널을 뚫습니다. 수트 블래스터 작동 중 움직이지 않으면 여전히 방사형 폭발을 사용할 수 있습니다.
+level.tutorial.teleporter.take1,텔레포터는 스테이션과 포탈을 포함합니다. 둘 사이를 오갈 수 있습니다.
+options.audio.music.ost.mode.fixed.desc,"현재 플레이 하는 키퍼에 관계 없이, 다음의 키퍼 사운드트랙을 재생합니다."
+level.tutorial.teleporter.take2,포탈을 집어 원하는 곳에 놓으세요.
+level.gameover.assignment.failed,키퍼 길드 임무에 실패했습니다.
+telemetry.manage,온라인 서비스 비활성화
+modding.restart,재시작
+upgrades.orchardbattlerootingexplosion.title,희생자 폭발
+level.gameover.unlock.skin,새 수트 해금!
+upgrades.jetpackspeed3.desc,제트팩을 강화해 더 빠르게 움직입니다.
+upgrades.repellentoverchargeduration2.title,강력한 과충전
+upgrades.prospectionmeterwater1.desc,가장 가까운 물 매장지와의 거리를 표시합니다.
+loadout.prestige.miner.description,괴물이 존재하지 않는 세계에서 최대의 효율로 채광에 집중해보세요. 주기 20번.
+upgrades.shieldbattlereflect.desc,다가오는 투사체를 짧은 시간 동안 반사하는 전투 능력을 활성화합니다.
+upgrades.stunlaserstun1.desc,기절 레이저의 힘을 증가시킵니다.
+multiplayer.error.gameresolved,이미 종료된 매치입니다.
+upgrades.shieldbattlereflect.title,반사
+options.audio.volumes.mastervolume,마스터
+upgrades.keeper2pinballdamage4.title,키네틱 구체 4
+leaderboard.loading,불러오는 중...
+upgrades.droneyardparasites2.title,기생형 드론 2
+playerlist.title,플레이어 목록
+upgrades.versusincreasewave2.desc,상대 팀의 괴물 웨이브의 난이도를 영구적으로 증가시킵니다.
+upgrades.rocketlauncher.title,미사일 발사기
+upgrades.liftspeed1.title,속도
+upgrades.rocketlauncherrockets2.title,일제 발사 2
+level.tutorial.blastmining.popup_1,폭발 차지를 가지고 암석을 치울 곳에 떨어뜨리세요.
+upgrades.keeper3slidecontrol.title,슬라이딩 제어
+properties.furnace.wavedelay,기본 지연 {}초
+upgrades.mushroomfarmspeed2.desc,버섯을 소모해 획득하는 속도 버프가 증가합니다.
+upgrades.dome3.title,대포 돔
+properties.converter.ironirontime,철을 철로 변환하는 시간 (주기) {}
+properties.laser.movespeed,이동 속도 {}
+properties.stunlaser.damagepermonster,괴물당 지역 피해량 {}dps
+upgrades.stunlaser.title,기절 레이저
+title.navbar.credits,제작진
+upgrades.drillbotbuffstrength1.title,영양가 넘치는 간식
+level.tutorial.pickup.popup_1.switch,| 버튼을 눌러 자원을 들어 올리세요.
+level.tutorial.pickup.popup_3,유지 시 더 많은 자원을 들어 올립니다.
+upgrades.blastminingtriple.title,삼중 충전
+upgrades.prospectionmeterscandelay1.desc,탐지 업데이트 속도를 증가시킵니다.
+upgrades.furnacelastingwaterfiring.desc,용광로에서 물 하나를 연료로 더 오래 사용할 수 있습니다.
+upgrades.versusincreasewave2.title,사보타주 2
+upgrades.artillerymachinegun4.desc,극한의 발사속도를 버틸 수 있는 총열을 설치합니다.
+upgrades.teslaspeed4.title,십자선 속도 4
+upgrades.swordextendlong3.desc,관통력과 지속시간이 크게 증가합니다.
+demo.end.title,데모를 플레이 해주셔서 감사합니다!
+upgrades.stationextensiontubemovement.title,진공 튜브 이동
+upgrades.keeper4squad3.title,터널 대대
+upgrades.orchardbattleshield.desc,돔 위에 덩굴을 자라게 하여 투사체로부터 돔을 보호합니다.
+properties.droneyard.battledronestrength,기생 약화 효과 {.percent}
+options.game.kunaicarriersnapping,쿠나이 캐리어 조준을 기본 방향으로 스냅
+options.input.vibration.strength.xbox,진동 세기
+upgrades.keeper2pinballspherelifetime.title,구체 수명
+upgrades.furnace.title,용광로
+upgrades.shockwavedamage1.title,충격파 피해량 1
+properties.orchard.drillbuff,채굴력 버프 {}
+level.tutorial.station.popup_4.switch,그리고 | 버튼을 눌러 전투 모드로 들어가 방어하세요.
+level.tutorial.teleporter_2,"텔레포터 스테이션을 사용해 포탈로 텔레포트하고, 그 반대도 가능합니다."
+level.tutorial.station.popup_2.switch,스테이션으로 이동해 | 버튼을 눌러 들어갑니다.
+pause.resumegame,게임 재개
+actionhint.tap,탭
+level.tutorial.station.popup_1,돔이 공격받고 있습니다!
+multiplayer.error.kicked,멀티플레이 세션에서 추방되었습니다.
+telemetry.allow.ps5,EULA 동의
+landing.proceed.switch,아무 버튼이나 눌러 계속
+upgrades.condenserautoovercharge.title,자동 과충전
+upgrades.keeper2pinballdestroyadjacenttiles.title,쏟아지는 충격
+level.converter.popup.queue,자동으로 변환 반복
+options.keybindings.cancel,취소
+loadout.versus.condition.deathmatch.title,최후의 돔 보루
+upgrades.domearmorprojectile1.desc,돔이 원거리 공격으로 인해 입는 피해량을 감소시킵니다.
+options.keybindings.action.general.move,이동
+upgrades.keeper3kunaicooldown2.title,찰나 투척
+upgrades.artilleryrotation2.title,빠른 회전
+loadout.gadget.additional.desc,추가 도구를 선택하세요!
+level.gameover.unlock.assignment,임무 해금!
+upgrades.domesupplementprojectiledamagereduction1.desc,돔의 선체 반탄력을 증가시켜 투사체로부터 입는 피해량을 줄입니다. 근접 공격은 영향받지 않습니다.
+upgrades.blastminingproductiontime1.desc,폭발성 차지 생산에 필요한 시간을 감소시켜 줍니다.
+upgrades.autocannonshotgun1.title,산탄총 1
+loadout.hint.loadout,로드아웃을 마무리 하세요!
+assignment.condition.deliveriron,철 %d개 배송
+upgrades.drillbotduo.title,용감한 친구
+level.tutorial.assessor.carry.desc1_1.xbox,"물체가 잡히면, 수집 버튼을 놓아도 따라갑니다."
+multiplayer.error.nomods,모드가 없어야 합니다.
+options.input.controls.keybindings.xbox,버튼
+upgrades.domearmorprojectile2.title,투사체 장갑 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"게임패드 스틱을 건드리기만 하고 밀지는 않을 때, 바가 깜빡거리지 않도록 값을 설정합니다.
+스틱을 밀 경우, 바가 깜빡거립니다."
+upgrades.domesupplementcombatrepair2.title,철저한 전투 수리
+level.gadgetchoice.title,도구를 집으세요!
+properties.teleporter.slowdown,짐으로 인한 감속 {.percent}
+upgrades.teslaspeed1.title,십자선 속도 1
+assignment.weapondefect.title,고장난 무기
+properties.suitblaster.directionalexplosions,방향성 폭발
+options.translation.community.title,커뮤니티 번역
+options.audio.music.ost.mode,사운드트랙 설정
+upgrades.teleporterteleportresourcesback.title,자원 텔레포트
+upgrades.orchardbattleshield.title,덩굴 캐노피
+properties.drill.sides,측면 드릴 {}
+upgrades.teslaorbstun.desc,전격 구체의 기절 효과가 훨씬 강해집니다.
+upgrades.repellentoverchargeduration2.desc,과충전이 전투 능력에 미치는 영향을 증가시킵니다.
+properties.lift.orbs,구체 {}개
+options.keybindings.action.general.up,위
+pause.quit.popup,"정말로 종료하시겠습니까?
+그러려면 다시 한 번 누르세요.
+(진행 과정이 저장됩니다.)"
+upgrades.drillbotduplicate.desc,"드릴버트가 일란성 쌍둥이인, 드릴리암을 얻습니다."
+properties.suitblaster.radius,폭발 반경 (타일) {}
+assignment.bigmapsparseresources.title,불모지
+upgrades.converterqueue.title,변환 자동화
+multiplayer.error.otherprestigeplayerquit,팀원이 게임을 떠나 게임이 끝났습니다. 게임이 저장되었으며 메뉴에서 멀티플레이를 선택해 게임을 이어 할 수 있습니다.
+level.tutorial.teleporter.teleport1.switch,"포탈 근처에 있다면, | 버튼을 눌러 다시 텔레포트 합니다."
+level.tutorial.teleporter.teleport2,반대 방향으로도 텔레포트할 수 있습니다.
+playerlist.report,신고
+upgrades.swordextendlong1.title,찌르기 연장 1
+upgrades.spiresplit3.desc,분산 투사체가 사방으로 퍼집니다.
+upgrades.keeper3kunaicooldown3.desc,쿠나이를 더 빠르게 투척합니다.
+exhibition.title.press.anything,아무 버튼을 눌러 시작
+multiplayer.techtree.keeperexclusivesupplement,이 보조 장비는 당신의 키퍼에게만 적용됩니다.
+options.input.gamepad.twinstick.xbox,스틱 조작
+reward.rewarddomesupplements.title,돔 보조 장비
+loadout.mode.maze,미로
+upgrades.teleporter.title,텔레포터
+properties.keeper4.holesquad,채굴 부대 규모 {}
+level.tutorial.fruit.popup_1,과수원이 첫 번째 과일을 맺었습니다.
+upgrades.teslatiming1.desc,테슬라가 충전 되자마자 사격해 더 강력한 피해를 줍니다.
+upgrades.converterefficientwaterlong.title,집중된 작업
+level.tutorial.fruit.popup_2.switch,"옆에서, | 버튼을 눌러 소모합니다."
+unlock.buy.keeperdlc.xbox,'%s' 애드온으로 해금됨
+upgrades.autocannonspeed1.desc,대포 기어에 기름칠을 해 이동 속도를 비약적으로 늘립니다.
+upgrades.probepermanentrevealresources.desc,핑으로 지정된 자원이 마커로 식별되는 것에 그치지 않고 영구적으로 공개됩니다.
+properties.teleporter.teleportresourcescooldown,자원 텔레포트 쿨타임 {}초
+upgrades.spire.desc,방어형 첨탑으로 날아오는 투사체를 쏘아 쓰러뜨립니다.
+reward.rewardkeepersupplements.title,키퍼 보조 장비
+upgrades.condenser.desc,돔 아래에 응결을 통해 물을 생산하는 기계를 추가합니다.
+upgrades.spiresplit3.title,지상 분열
+properties.drillbot.plantgrowthtime,간식 성장 시간 (주기) {}
+modding.modio.showdownloaded,다운로드한 모드 표시
+upgrades.stunlaserspeed1.title,속도 1
+upgrades.resourcepackercharges.title,번들 차지
+upgrades.swordblade1.title,절삭력 증가
+loadout.versus.modifiers.desc,아군 팀과 상대 팀 모두에 영향을 끼칠 변칙을 선택합니다. 변칙은 선택사항입니다.
+options.keybindings.gamepad.xbox.view,뒤로
+options.accessibility.backgrounds.explanation,전투 중 시각적 노이즈를 줄이기 위해 월드의 배경을 밝은 단색으로 교체합니다.
+upgrades.dome1health1.title,체력 1
+loadout.prestige.pro.randomorder,무작위 순서
+assignment.superhardrockwithholes.desc,암반이 극도로 밀도가 높지만 자연적으로 형성된 동굴이 많습니다.
+upgrades.droneyardparasites.title,기생형 드론
+actionhint.hold,유지
+properties.spire.timebetweenshots,겨냥 시간 {}초
+properties.game.cyclespeed,주기 속도 {.percent}
+upgrades.artillerydirecthit3.title,괴물 파괴자 3
+loadout.mode.drillbert,드릴버트 모드
+upgrades.prestigecobalt.title,코발트 전송
+upgrades.rocketlauncher.desc,괴물을 향해 대상을 탐색하는 미사일을 발사합니다. 수동으로 작동시켜야 합니다.
+level.station.battle.navbar.exit,나가기
+options.game.events.enableseasonal,시즌 컨텐츠 활성화
+options.audio.music.ost.mode.fixed,고정
+assignment.ironcontribution.desc,길드에서 철이 긴급히 필요하므로 많은 양을 서둘러 제공해 달라고 요청했습니다.
+properties.rocketlauncher.damageperrocket,피해량 {}
+upgrades.keeper4.title,비스트마스터
+upgrades.laserbend.title,회전식 머리 레이저
+unlock.host.locked.switch,주최자가 '%s' 애드온을 보유하고 있지 않습니다.
+level.supplementchoice.reroll.free, (%s) 새로고침
+loadout.versusmod.versusmodifierconcentratediron,집중된 철
+options.keybindings.rebinding.apply,적용
+properties.repellent.battledamageovertime,괴물이 초 당 받는 피해 {}
+upgrades.repellentdelay1.title,지연 1
+upgrades.converterefficientwatershort.desc,물 변환이 더 빠르게 만들어집니다.
+upgrades.domesupplementcombatrepair1.title,전투 수리
+level.tutorial.sworddome.slicing,베기
+properties.drillbot.scared,괴물로 인해 겁에 질림
+title.navbar.updates.close,닫기
+upgrades.condenserspeed2.desc,물을 1개 응결시키는 데 필요한 시간을 더욱 줄입니다.
+upgrades.prospectionmeteriron2.desc,가장 가까운 철 매장지의 방향을 표시합니다.
+upgrades.keeper3carrylimit2.title,운반 수용력 2
+loadout.versus.condition.irondelivery.desc,철을 %s 만큼 먼저 배송하는 팀이 승리합니다.
+properties.mushroomfarm.speedbuffduration,속도 버프 지속시간 {}초
+upgrades.keeper4punch1.desc,"촉수를 이용한 채광이 점차적으로 엄청난 힘을 축적하지만, 방향을 전환할 시 초기화됩니다."
+exhibition.level.heading,아직 거기 있나요?
+keeperdlc.load.missing.xbox,이용 불가능한 애드온 콘텐츠가 있어 저장 파일을 불러올 수 없습니다. '잊힌 키퍼들' 애드온이 이용 가능한지 확인해주세요.
+upgrades.domesupplementresurrection2.desc,부활을 한 번 더 부여합니다.
+actionhint.release,놓기
+level.gameover.stats.monsterskilled,죽인 괴물
+level.gameover.timelapse,타임랩스
+upgrades.drill4.desc,드릴의 채굴력을 강화해 빠르게 합니다.
+upgrades.prospectionmetersand1.desc,가장 가까운 코발트 매장지와의 거리를 표시합니다.
+assignment.instagip.desc,"행성의 괴물들이 부자연스럽게 잔혹하며, 돔에 엄청난 피해를 가합니다."
+landing.proceed.xbox,아무 버튼이나 눌러 계속
+upgrades.drillsides.desc,필요에 따라 사방으로 이동할 수 있는 부가 드릴을 중앙 드릴에 추가합니다.
+properties.dome.meleedamagereduction,근접 피해량 감소 {.percent}
+options.keybindings.action.keeper.throw,쿠나이 투척
+level.station.battle.navbar.artilleryflak,기관총
+upgrades.teleporterlightweight.desc,포탈을 들고 다녀도 이동 속도가 거의 느려지지 않습니다.
+level.gameover.backtomainmenu,메인 메뉴로 복귀
+properties.sword.stabarrowhead,탄두 크기 증가
+loadout.versus.team.open,열림
+level.gameover.stats.mapsize,지도 크기
+upgrades.domesupplementelectrifiedsurface2.desc,돔을 공격할 때 괴물들이 입는 피해량을 증가시킵니다.
+upgrades.prestigecobalt.desc,코발트를 전송합니다. 웨이브가 끝날 때마다 얻는 위신 점수량을 증가시킵니다.
+options.video.renderscale.reset,초기화
+options.keybindings.text.xbox,"취향에 맞게 버튼을 설정합니다.
+다른 분야에 같은 버튼을 배정하더라도 일반적으로는 문제가 발생하지 않습니다 (예를 들어 이동 버튼과 돔 무기 이동 버튼을 같게 할 경우)."
+options.audio.music.frequency,빈도수 (음악 없는 주기)
+upgrades.rocketlauncherrockets3.desc,발사 가능한 미사일의 수를 늘립니다.
+options.input.controls.mouse.menus,메뉴에서 마우스 사용
+upgrades.artillerysplash4.title,쿼드라플 셸
+upgrades.keeper4catgoblindig3.title,광란의 채굴
+properties.keeper4.catgoblincount,냥고블린 수 {}
+loadout.mode.hud.desc,HUD를 최대로 업그레이드 한 채로 시작합니다.
+upgrades.drillbotsleepless.title,기본 훈련
+assignment.maze.desc,이 행성은 통로와 불규칙한 지형으로 가득한 미로 같은 구조입니다.
+level.tutorial.drop.popup_2.switch,| 버튼을 눌러 떨어뜨리세요. 유지 시 더 많이 떨어뜨립니다.
+upgrades.artillerysplash2.title,더블 셸
+loadout.select,선택
+level.gameover.prestige.uploading.failed,"업로드 실패, 다시 시도 중..."
+level.assignment.badges.available,남은 배지: %d
+level.tutorial.beastmaster.goblins,냥고블린
+properties.autocannon.spray,탄약 산개도 {.percent}
+upgrades.versusspycam.title,스파이 캠
+upgrades.shredgadgettoiron.title,철로 재활용
+upgrades.teslapersistance3.desc,전격 구체가 더 커지고 더 오래 지속됩니다.
+upgrades.suitblasterspeed2.title,충전 속도 2
+properties.shield.battleuses,전투 시 사용 가능 횟수 {}회
+properties.prospectionmeter.range,범위 (타일) {}
+upgrades.droneyard.desc,자원 운송과 전투에서 사용되는 드론을 생산하기 위한 배치장을 설치합니다.
+upgrades.domearmorpulse.title,반응형 파동
+title.navbar.multiplayer.host,멀티플레이 주최
+upgrades.spireburst.desc,짧게 연사하여 일제 사격에 효과적으로 대응합니다.
+upgrades.domearmor.desc,돔에 튼튼한 방어막을 설치해 내구성을 높입니다.
+options.input.controls.mouse.gamepad.xbox,컨트롤러로 전환 후 복구가 자동으로 탐지되었습니다.
+unlock.difficulty.hard,잔혹한 난이도에서 승리하여 해금하세요.
+versus.corruptionmonsterhealth.title,건강한 괴물
+properties.probe.markerretention,마커 유지 {}초
+loadout.hint.gamemodecompletion,게임 모드를 전체적으로 설정하세요!
+upgrades.suitblasterdirectional.title,방향성 차지
+options.keybindings.rebinding.cancel,취소
+unlock.host.locked.xbox,주최자가 '%s' 애드온을 보유하고 있지 않습니다.
+loadout.versusmod.versusmodifiernorelics,유물 없음
+upgrades.autocannondoublefirerate.title,속사포
+upgrades.blastmining.desc,폭발로 채광을 할 수 있는 폭발 차지를 생산합니다. 광산에 들고 다니며 놓을 시 폭발합니다.
+upgrades.converterqueue.desc,변환이 끝났을 시 소지품에 자원이 충분하다면 생성된 자원이 자동으로 추출되고 같은 변환을 자동으로 다시 실행합니다.
+modding.modio.fetchsubscriptionsfailed,mod.io 구독 불러오기 에러!
+upgrades.orchardbattleshieldsecondlayer.desc,캐노피에 덩굴 층을 하나 더 추가합니다
+unlock.generic,승리하여 해금하세요.
+loadout.versusmod.versusmodifiersoftrock.desc,지도의 바위가 더 약해집니다.
+upgrades.assignments.desc,키퍼 길드의 어려운 임무를 수락해 당신의 능력을 증명합니다.
+upgrades.proberecharge.title,자동 재충전
+assignment.instagip.title,잔혹한 괴물들
+upgrades.artillerysplash3.desc,박격포의 포탄을 폭발의 반경이 아주 넓은 포탄으로 개선시킵니다.
+multiplayer.join.button,접속
+pause.gamepadcontrols.move,이동
+upgrades.condenserautoovercharge.desc,"주요 도구를 영구적으로 과충전 상태로 만들어, 물을 소모하지 않게 합니다. 과충전 후엔 응결기의 물 생산이 지연됩니다."
+multiplayer.continue.deviceselection.title,키퍼를 선택하세요!
+upgrades.autocannonautonomy.desc,제어 스테이션 내에 있지 않더라도 자동 포가 활성화됩니다.
+upgrades.swordaimline.title,조준선
+multiplayer.join.joinfromcode,접속
+properties.artillery.rotationspeedwhilemachinegun,사격 중 회전 속도 {.percent}
+level.tutorial.artillery.panel2header,대공포
+level.gameover.keepgadget.title,다음 게임에 가져갈 도구를 선택하세요
+upgrades.domearmorprojectile2.desc,돔이 원거리 공격으로 인해 입는 피해량을 감소시킵니다.
+upgrades.shieldbattledestructionprevention.title,최후의 보루
+upgrades.domeresourcecounters.desc,현재 저장된 자원의 양을 표시하며 전투 중에 코발트를 사용하여 자동으로 돔을 수리합니다.
+upgrades.spirestuntrap1.title,에너지 함정
+upgrades.prospectionmeteriron2.title,철 나침반
+loadout.mode.hyperactive,빠르고 약함
+upgrades.prospectionmeterwater2.desc,가장 가까운 물 매장지의 방향을 표시합니다.
+options.video.stretchmode,신축 모드
+level.gameover.prestige.title,위신 게임 완료
+upgrades.droneyardovercharge1.title,드론 배치장 과충전
+level.station.navbar.exit,나가기
+upgrades.teslaorbdamage.title,초전도성
+upgrades.proberechargeafterbattle.title,자동 충전 탐지기
+upgrades.assignmentssendwater.title,물 배송
+upgrades.probecharges.title,탐지기 충전기
+pause.gamepadcontrols.pickup,집기
+upgrades.prospectionmeter.title,탐사 계측기
+upgrades.condenserspeed2.title,생산 속도 2
+loadout.mode.hyperactive.desc,"괴물들이 빠르지만, 체력이 더 적습니다."
+upgrades.teleporterlightweight.title,경량 포탈
+versus.corruptionstunresistance.title,기절 저항력
+loadout.versusmod.versusmodifierpoorirondeposits,분산 철 매장지
+level.gameover.prestige.uploading.finalfailed,새로운 점수 업로드에 실패했습니다. 죄송합니다!
+modding.currentprofile,(현재 프로필)
+upgrades.versussendiron.title,철 배송
+loadout.assignment.title,임무를 선택하세요
+options.keybindings.rebinding,키 재설정
+upgrades.teslaspeed2.title,십자선 속도 2
+level.tutorial.beastmaster.hole_1,| 버튼을 유지해 뒷벽에 구멍을 파낼 수 있습니다.
+level.tutorial.beastmaster.hole_2,"그러면 냥고블린이 나타나, 구멍을 터널과 잇습니다."
+upgrades.keeper3shurikenstrength2.title,거대 수리검
+upgrades.versusspycam.desc, 상대 팀의 돔을 관찰할 수 있는 새로운 스테이션을 받습니다.
+upgrades.prestigespeedup.title,짧은 주기
+options.accessibility.fontsize.large,대형
+reward.rewardcentralmarker.desc,광산의 중앙을 수직선으로 표시합니다.
+upgrades.shieldstrength3.desc,돔의 방어막이 흡수 가능한 방어력이 더 증가합니다.
+options.game.movementsnapping,이동을 기본 방향으로 스냅
+upgrades.laseraimline.title,레이저 사이트
+upgrades.converterironduplication.title,철 제련
+upgrades.jetpackspeed4.desc,제트팩을 강화해 더 빠르게 움직입니다.
+options.keybindings.gamepad,게임패드
+upgrades.teslapower1.title,전력 강화 1
+gadget.slot.mineshaft,수직 갱도
+keybindings.reset.title,키 설정 초기화
+upgrades.autocannonrateoffire2.desc,사격 속도를 더 증가시킵니다.
+multiplayer.join.localonly,로컬 게임만 탐색 중입니다. 온라인 멀티플레이를 활성화 하시겠습니까?
+upgrades.keeper3aerialmastery.title,공중 숙련
+upgrades.extractordestruction.desc,"벌레들이 굴 속에서 기력을 다하는 대신, 자신이 판 바위를 무너뜨리고 주변의 바위도 일부 파괴합니다"
+properties.shield.battleabilityduration,능력 지속시간 {}초
+upgrades.keeper4squad3.desc,냥고블린 부대원의 수와 그 인내력을 증가시킵니다.
+level.gameover.prestige.score.rankimproved,랭크가 {rank}등으로 상승했습니다.
+options.game.tutorials.noneunlocked,해제된 튜토리얼이 없습니다.
+upgrades.droneyardparasites2.desc,기생형 드론의 효율을 증가시킵니다.
+loadout.prestige.provocation,도발
+network.error.generic,네트워크 오류
+options.game.ropesnapping,밧줄 및 조준 표시를 기본 방향으로 스냅
+upgrades.keeper4catgoblindig1.title,냥고블린 채굴
+level.gameover.manualmove,수동 카메라
+upgrades.domesupplementcombatrepair1.desc,전투 중 돔이 일정량 이상의 피해를 받으면 자동으로 한 번 수리합니다. 코발트를 소모하지 않습니다.
+upgrades.prospectionmeterscandelay1.title,스캔 속도 개선
+assignment.goaltype,목표
+properties.keeper1.speedlosspercarry,운반으로 인한 감속 {}
+upgrades.extractor.desc,철 군집에 부착되어 시간이 지나면 철을 추출해내는 휴대용 추출 벌레를 기릅니다.
+unlock.mapsize.huge,대형 맵에서 승리하여 해금하세요.
+upgrades.liftcarrykeeper2.desc,기중기 안에서 이동하는 키퍼의 속도가 더욱 빨라집니다.
+loadout.mapsize.title,지도 크기
+loadout.difficulty.hard,자처한 겁니다
+upgrades.rocketlauncherdamage1.title,개선된 미사일
+versus.corruptionfastmonsters.title,빠른 괴물
+multiplayer.host.online.desc,전세계의 플레이어들이 접속 가능합니다.
+upgrades.keeper4speed3.desc,이동 속도를 크게 증가시킵니다.
+network.error.offline,네트워크 연결이 끊어졌습니다. 네트워크 연결을 확인해주세요.
+level.tutorial.ninja.carry.desc1_1,자원 위로 걸어가면 자동으로 자원을 집습니다.
+upgrades.resourcepackerconstant.desc,"거의 즉시 재충전해 무제한에 가깝게 사용이 가능하며, 또한 번들의 크기 조정을 개선합니다."
+loadout.versusmod.versusmodifiersecondweapon.desc,키퍼가 둘 이상인 팀은 두 번째 스테이션의 무기가 해금된 채로 시작합니다.
+assignment.logistics.desc,길드는 해당 행성에서 풍부한 물을 발견했으며 당신에게 물류 관리를 요청했습니다.
+properties.shockwave.damage,피해량 {}
+pause.gamepadcontrols.back,뒤로

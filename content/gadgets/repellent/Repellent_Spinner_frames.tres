@@ -1,0 +1,74 @@
+[gd_resource type="SpriteFrames" load_steps=11 format=3 uid="uid://bpb08mjtjhf3f"]
+
+[ext_resource type="Texture2D" uid="uid://d06ottgedjcl4" path="res://content/gadgets/repellent/dreher-Sheet+gif.png" id="1"]
+
+[sub_resource type="AtlasTexture" id="110"]
+atlas = ExtResource("1")
+region = Rect2(0, 0, 5, 3)
+
+[sub_resource type="AtlasTexture" id="111"]
+atlas = ExtResource("1")
+region = Rect2(5, 0, 5, 3)
+
+[sub_resource type="AtlasTexture" id="112"]
+atlas = ExtResource("1")
+region = Rect2(10, 0, 5, 3)
+
+[sub_resource type="AtlasTexture" id="113"]
+atlas = ExtResource("1")
+region = Rect2(15, 0, 5, 3)
+
+[sub_resource type="AtlasTexture" id="114"]
+atlas = ExtResource("1")
+region = Rect2(20, 0, 5, 3)
+
+[sub_resource type="AtlasTexture" id="115"]
+atlas = ExtResource("1")
+region = Rect2(25, 0, 5, 3)
+
+[sub_resource type="AtlasTexture" id="116"]
+atlas = ExtResource("1")
+region = Rect2(30, 0, 5, 3)
+
+[sub_resource type="AtlasTexture" id="117"]
+atlas = ExtResource("1")
+region = Rect2(35, 0, 5, 3)
+
+[sub_resource type="AtlasTexture" id="118"]
+atlas = ExtResource("1")
+region = Rect2(40, 0, 5, 3)
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("110")
+}, {
+"duration": 1.0,
+"texture": SubResource("111")
+}, {
+"duration": 1.0,
+"texture": SubResource("112")
+}, {
+"duration": 1.0,
+"texture": SubResource("113")
+}, {
+"duration": 1.0,
+"texture": SubResource("114")
+}, {
+"duration": 1.0,
+"texture": SubResource("115")
+}, {
+"duration": 1.0,
+"texture": SubResource("116")
+}, {
+"duration": 1.0,
+"texture": SubResource("117")
+}, {
+"duration": 1.0,
+"texture": SubResource("118")
+}],
+"loop": true,
+"name": &"default",
+"speed": 10.0
+}]

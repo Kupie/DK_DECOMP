@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://xkcic08bpkfl"]
+
+[ext_resource type="Script" path="res://systems/tutorials/TutorialManager.gd" id="1"]
+
+[node name="TutorialManager" type="Control" groups=["tutorial-manager"]]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1")

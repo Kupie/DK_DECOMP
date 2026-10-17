@@ -1,0 +1,97 @@
+[gd_scene load_steps=2 format=3 uid="uid://d4brkx6xeqw5y"]
+
+[ext_resource type="Script" path="res://gui/panels/numpad_panel/numpad_panel.gd" id="1"]
+
+[node name="NumPadPanel" type="PopupPanel"]
+process_priority = -100
+mode = 4
+size = Vector2i(300, 300)
+visible = true
+always_on_top = true
+script = ExtResource("1")
+
+[node name="ButtonContainer" type="GridContainer" parent="."]
+offset_left = 4.0
+offset_top = 4.0
+offset_right = 296.0
+offset_bottom = 296.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+columns = 3
+
+[node name="BtnDigit1" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "1"
+
+[node name="BtnDigit2" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "2"
+
+[node name="BtnDigit3" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "3"
+
+[node name="BtnDigit4" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "4"
+
+[node name="BtnDigit5" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "5"
+
+[node name="BtnDigit6" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "6"
+
+[node name="BtnDigit7" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "7"
+
+[node name="BtnDigit8" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "8"
+
+[node name="BtnDigit9" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "9"
+
+[node name="Button_cancel" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "<"
+
+[node name="BtnDigit0" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "0
+"
+
+[node name="Button_accept" type="Button" parent="ButtonContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "OK"
+
+[connection signal="focus_exited" from="." to="." method="_on_focus_exited"]
+[connection signal="popup_hide" from="." to="." method="_on_popup_hide"]
+[connection signal="window_input" from="." to="." method="_on_window_input"]

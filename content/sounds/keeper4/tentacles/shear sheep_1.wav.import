@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://t76woshy0hh0"
+path="res://.godot/imported/shear sheep_1.wav-a0631c51b25fcd7e27493741fe0317bc.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper4/tentacles/shear sheep_1.wav"
+dest_files=["res://.godot/imported/shear sheep_1.wav-a0631c51b25fcd7e27493741fe0317bc.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=1
+edit/loop_begin=0
+edit/loop_end=128030
+compress/mode=0

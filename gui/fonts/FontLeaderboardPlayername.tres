@@ -1,0 +1,14 @@
+[gd_resource type="FontVariation" load_steps=7 format=3 uid="uid://bqoy5ypm7ruwd"]
+
+[ext_resource type="FontFile" uid="uid://da5sm0wftl5or" path="res://gui/fonts/Kollektif.ttf" id="1"]
+[ext_resource type="FontFile" uid="uid://cx3xyt3fi43i" path="res://gui/fonts/NotoSans-Regular.ttf" id="2"]
+[ext_resource type="FontFile" uid="uid://bcc1pxnuv4ehk" path="res://gui/fonts/ja/Makinas-4-Flat.otf" id="3"]
+[ext_resource type="FontFile" uid="uid://c1ekknwukffsp" path="res://gui/fonts/traditional chinese/NotoSansTC-Regular.otf" id="4"]
+[ext_resource type="FontFile" uid="uid://baq8nqi1mvtoa" path="res://gui/fonts/korean/NotoSansKR-Regular.otf" id="5"]
+[ext_resource type="FontFile" uid="uid://d0htcuqp38k1x" path="res://gui/fonts/simplified chinese/NotoSansSC-Regular.otf" id="6"]
+
+[resource]
+fallbacks = [ExtResource("2"), ExtResource("3"), ExtResource("4"), ExtResource("5"), ExtResource("6")]
+base_font = ExtResource("1")
+spacing_glyph = 1
+spacing_space = 1

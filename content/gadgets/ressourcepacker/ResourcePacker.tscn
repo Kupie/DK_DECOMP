@@ -1,0 +1,38 @@
+[gd_scene load_steps=8 format=3 uid="uid://blni31ook853a"]
+
+[ext_resource type="Script" path="res://content/gadgets/ressourcepacker/ResourcePacker.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="2"]
+[ext_resource type="AudioStream" uid="uid://vu28pl8u6gk0" path="res://content/sounds/Locations/ResourcePacker/op1swappn_10.wav" id="3"]
+[ext_resource type="AudioStream" uid="uid://d0ne552q7u4tk" path="res://content/sounds/Locations/ResourcePacker/whool_loop_15.wav" id="4"]
+[ext_resource type="AudioStream" uid="uid://crayq1yfniwhq" path="res://content/sounds/keeper1/ResourceAttach.wav" id="5"]
+[ext_resource type="AudioStream" uid="uid://b0egfjp1qulrw" path="res://content/sounds/Locations/ResourcePacker/packed.wav" id="6"]
+[ext_resource type="Script" path="res://systems/network/Synchronizer.gd" id="7"]
+
+[node name="ResourcePacker" type="Node2D" node_paths=PackedStringArray("synchronizer") groups=["saveable", "special1"]]
+script = ExtResource("1")
+synchronizer = NodePath("Synchronizer")
+
+[node name="PackingSound" parent="." instance=ExtResource("2")]
+stream = ExtResource("3")
+volume_db = -3.962
+pitch_scale = 1.32
+bus = &"Sounds"
+
+[node name="PackingSound2" parent="PackingSound" instance=ExtResource("2")]
+stream = ExtResource("4")
+volume_db = -8.419
+bus = &"Sounds"
+
+[node name="ResourcePackerReadySound" parent="." instance=ExtResource("2")]
+stream = ExtResource("5")
+pitch_scale = 1.65
+bus = &"Sounds"
+
+[node name="PackCompleteSound" parent="." instance=ExtResource("2")]
+stream = ExtResource("6")
+volume_db = -8.914
+bus = &"Sounds"
+
+[node name="Synchronizer" type="Node" parent="."]
+script = ExtResource("7")
+target_connection_states = [6]

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://deapaq4roimnv"
+path="res://.godot/imported/create bomb finish.wav-4aa11076728b6ba7e067196d3ef2b996.sample"
+
+[deps]
+
+source_file="res://content/sounds/keeper3/create bomb finish.wav"
+dest_files=["res://.godot/imported/create bomb finish.wav-4aa11076728b6ba7e067196d3ef2b996.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=48000
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=0
+compress/mode=0

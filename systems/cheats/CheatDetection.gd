@@ -1,0 +1,421 @@
+extends Node
+
+var isRunning: = false
+var lastScore: int
+var lastCycle: int
+var expectedNextRuntime: float
+var prestigeWavesCounted: int
+
+var scoreJump: = false
+var timeJump: = false
+
+const confirmedCheaters: = [
+	"76561198807107975", 
+	"76561198088904517", 
+	"76561198410265944", 
+	"76561199132692012", 
+	"76561198362618416", 
+	"76561198873482869", 
+	"76561198098569190", 
+	"76561199467392169", 
+	"76561199000775267", 
+	"76561198431509873", 
+	"76561197969071319", 
+	"76561198140515506", 
+	"76561197972386185", 
+	"76561199252426505", 
+	"76561198034938499", 
+	"76561198081446322", 
+	"76561198286358493", 
+	"76561199193381301", 
+	"76561198043743375", 
+	"76561197990623482", 
+	"76561198980916319", 
+	"76561198004685853", 
+	"76561199193381301", 
+	"76561199011200262", 
+	"76561199137762190", 
+	"76561199031667318", 
+	"76561199241948681", 
+	"76561198120086048", 
+	"76561198856530118", 
+	"76561198089559982", 
+	"76561198155538955", 
+	"76561199010418192", 
+	"76561198040937783", 
+	"76561198868977579", 
+	"76561198439777225", 
+	"76561199203591644", 
+	"76561198024614997", 
+	"76561198208542656", 
+	"76561198350001973", 
+	"76561198315564075", 
+	"76561198054857851", 
+	"76561197991627253", 
+	"76561198046159470", 
+	"76561198126457689", 
+	"76561198896870052", 
+	"76561198081280355", 
+	"76561198433393940", 
+	"76561198320817494", 
+	"76561198420261120", 
+	"76561198013217299", 
+	"76561199190108026", 
+	"76561198959676461", 
+	"76561198138570053", 
+	"76561198883121426", 
+	"76561198443809776", 
+	"76561198168937789", 
+	"76561198801381068", 
+	"76561198856977134", 
+	"76561198067146401", 
+	"76561199176263436", 
+	"76561198043329313", 
+	"76561198189878261", 
+	"76561198045862478", 
+	"76561198074416270", 
+	"76561198028652652", 
+	"76561198094269236", 
+	"76561199394830630", 
+	"76561198368399069", 
+	"76561199254766115", 
+	"76561198929155492", 
+	"76561198417652137", 
+	"76561198876408122", 
+	"76561198133161700", 
+	"76561198262118746", 
+	"76561198401178248", 
+	"76561198822962183", 
+	"76561198241060176", 
+	"76561198191284933", 
+	"76561199194066031", 
+	"76561198974682894", 
+	"76561198174623425", 
+	"76561198425674837", 
+	"76561198430932298", 
+	"76561198196496898", 
+	"76561199045540192", 
+	"76561198220104595", 
+	"76561198171419339", 
+	"76561198007519270", 
+	"76561198037057781", 
+	"76561198338731299", 
+	"76561198009389392", 
+	"76561198055469830", 
+	"76561198442660764", 
+	"76561198107831267", 
+	"76561198147299961", 
+	"76561198081258574", 
+	"76561198128330763", 
+	"76561198043943149", 
+	"76561198859542184", 
+	"76561198933346889", 
+	"76561199118632351", 
+	"76561198843737387", 
+	"76561198105936869", 
+	"76561198029416299", 
+	"76561198416228550", 
+	"76561198087869790", 
+	"76561198389091862", 
+	"76561198037106268", 
+	"76561198396461834", 
+	"76561199010131701", 
+	"76561198345877349", 
+	"76561198303918965", 
+	"76561198427385082", 
+	"76561198028819698", 
+	"76561198156315316", 
+	"76561198020176053", 
+	"76561199049928680", 
+	"76561198821193234", 
+	"76561198393559127", 
+	"76561198332461709", 
+	"76561199061985578", 
+	"76561198859883374", 
+	"76561198318460851", 
+	"76561198982462462", 
+	"76561198421215079", 
+	"76561199479945970", 
+	"76561197995213442", 
+	"76561198280688184", 
+	"76561199091906945", 
+	"76561198132273370", 
+	"76561199377125931", 
+	"76561199195955416", 
+	"76561198095088358", 
+	"76561198325955272", 
+	"76561198103131144", 
+	"76561198086896771", 
+	"76561198416506616", 
+	"76561198182325094", 
+	"76561199085245003", 
+	"76561197970539992", 
+	"76561198919786663", 
+	"76561198282569332", 
+	"76561199000404055", 
+	"76561198128685885", 
+	"76561198323201385", 
+	"76561198006496958", 
+	"76561199379259097", 
+	"76561199347618674", 
+	"76561199112611604", 
+	"76561198148420191", 
+	"76561198086764224", 
+	"76561199131054770", 
+	"76561198163103705", 
+	"76561198310024285", 
+	"76561197997249520", 
+	"76561198419188759", 
+	"76561199480349095", 
+	"76561198854060387", 
+	"76561198150596931", 
+	"76561198976771088", 
+	"76561198913299121", 
+	"76561199118142240", 
+	"76561198294978007", 
+	"76561198398696174", 
+	"76561198165624643", 
+	"76561198867727551", 
+	"76561198810911393", 
+	"76561198216350729", 
+	"76561199277001159", 
+	"76561198858001515", 
+	"76561198279134479", 
+	"76561198870596162", 
+	"76561198031002762", 
+	"76561199081463344", 
+	"76561198439677660", 
+	"76561198193355970", 
+	"76561198206574556", 
+	"76561198094879138", 
+	"76561198339549464", 
+	"76561198378053600", 
+	"76561198342704179", 
+	"76561198053469900", 
+	"76561198852638978", 
+	"76561199522841737", 
+	"76561198015652815", 
+	"76561198112373967", 
+	"76561198040340987", 
+	"76561198071888276", 
+	"76561198873329872", 
+	"76561198998746227", 
+	"76561198078128293", 
+	"76561199014944773", 
+	"76561197987000603", 
+	"76561199212091370", 
+	"76561198048994906", 
+	"76561198062965725", 
+	"76561198195918127", 
+	"76561198006155259", 
+	"76561198983358485", 
+	"76561198032988968", 
+	"76561198957588359", 
+	"76561198054106390", 
+	"76561198929916885", 
+	"76561197971804944", 
+	"76561198405567963", 
+	"76561197992749007", 
+	"76561198019739783", 
+	"76561198363742387", 
+	"76561198079510059", 
+	"76561198310358534", 
+	"76561198431965644", 
+	"76561198287826216", 
+	"76561198114981744", 
+	"76561199116659152", 
+	"76561198927429558", 
+	"76561199222048681", 
+	"76561198161071810", 
+	"76561199226425865", 
+	"76561199413670472", 
+	"76561197960963277", 
+	"76561198167498116", 
+	"76561198109739019", 
+	"76561199085123117", 
+	"76561198051781627", 
+	"76561199300677944", 
+	"76561198410264471", 
+	"76561198942130039", 
+	"76561198024313919", 
+	"76561198254553170", 
+	"76561198176285421", 
+	"76561198120590788", 
+	"76561198000995629", 
+	"76561199112152842", 
+	]
+
+const trustedPlayers: = [
+	"76561198280747650", 
+	"76561198007708792", 
+	"76561199340989581", 
+	"76561198119102563", 
+	"76561198108620242", 
+	"76561198009262048", 
+	"76561198063400160", 
+	"76561198360432058", 
+	"76561198057216592", 
+	"76561198161823868", 
+	"76561198026943549", 
+	"76561198163168399", 
+	"76561198081177842", 
+	"76561198297367913", 
+	"76561198076730061", 
+	"76561198004777009", 
+	"76561198120867663", 
+	"76561198260013620", 
+	"76561198040965057", 
+	"76561198434464471", 
+	"76561197989918100", 
+	"76561199026331533", 
+	"76561198407385105", 
+	"76561198111958427", 
+	"76561198043321424", 
+	"76561198036199815", 
+	"76561198051423164", 
+	]
+
+func start():
+	if not isRunning:
+		Data.listen(self, "team1.monsters.cycle", true)
+
+	isRunning = true
+	lastScore = Data.of("team1.prestige.score")
+	scoreJump = false
+	timeJump = false
+
+	lastCycle = Data.of("team1.monsters.cycle")
+	prestigeWavesCounted = lastCycle
+	expectedNextRuntime = GameWorld.runTime + Data.ofOr("team1.monsters.wavecooldown", GameWorld.getTimeBetweenWaves("team1"))
+
+func stop() -> int:
+	if Level.difficulty("team1") < 0:
+
+		return 0
+
+	if isRunning:
+		Data.unlisten(self, "team1.monsters.cycle")
+	isRunning = false
+
+	if not GameWorld.runCheatDetection:
+		return 0
+
+	var currentScore = Data.of("team1.prestige.score")
+	var multiplier = Data.of("team1.prestige.multiplier")
+	var baseperwave = Data.of("team1.prestige.baseperwave")
+	if lastScore != currentScore and lastScore * 2 != currentScore:
+		scoreJump = true
+
+	var cheatHash: = 0
+
+	if scoreJump:
+		cheatHash += 1
+
+
+
+	var cycleCount = Data.of("team1.monsters.cycle")
+	if prestigeWavesCounted != cycleCount:
+		cheatHash += 4
+
+	var sentCobalt = Data.of("team1.prestige.sentcobalt")
+	var modeVariant = Level.loadout.modeConfig.get(CONST.MODE_CONFIG_PRESTIGE_VARIANT, "")
+	var totalSand = Data.of("inventory.totalsand")
+	if sentCobalt > totalSand:
+		cheatHash += 16
+
+	if cycleCount > 0 and GameWorld.isUpgradeLimitAvailable("team1.hostile"):
+		var timePerBattle = Data.of("team1.monsters.wavePresentTime") / float(cycleCount)
+		if timePerBattle < 2.0 + 1.5 * sqrt(cycleCount):
+			cheatHash += 32
+
+	if GameWorld.devModeActivated:
+		cheatHash += 64
+
+	match modeVariant:
+		CONST.MODE_PRESTIGE_MINER:
+			if currentScore > 30000\
+			or cycleCount != 20\
+			or multiplier > 80\
+			or baseperwave > 60:
+				cheatHash += 128
+			if currentScore < 1500:
+				cheatHash -= 100000
+		CONST.MODE_PRESTIGE_COUNTDOWN:
+			if currentScore > 100000\
+			or cycleCount > 20\
+			or multiplier > 30\
+			or multiplier < -3\
+			or baseperwave > 75:
+				cheatHash += 128
+			if currentScore < 4000:
+				cheatHash -= 100000
+		CONST.MODE_PRESTIGE_PROVOCATION:
+			if currentScore > 400000\
+			or cycleCount > 80\
+			or multiplier > 200\
+			or baseperwave > 1000:
+				cheatHash += 128
+			if currentScore < 10000:
+				cheatHash -= 100000
+		CONST.MODE_PRESTIGE_ENDLESS:
+			if currentScore >= 1500000\
+			or cycleCount > 130\
+			or multiplier > 140\
+			or baseperwave > 100:
+				cheatHash += 128
+			if currentScore < 50000:
+				cheatHash -= 100000
+
+
+	var timerPerWave = Data.of("team1.monsters.gameTimeWithoutDelay") / float(Data.of("team1.monsters.cycle"))
+	match modeVariant:
+		CONST.MODE_PRESTIGE_MINER:
+			if timerPerWave > 2.0 * 60:
+				cheatHash += 256
+		CONST.MODE_PRESTIGE_COUNTDOWN:
+			if timerPerWave > 2.0 * 60:
+				cheatHash += 256
+		CONST.MODE_PRESTIGE_PROVOCATION:
+			if timerPerWave > 3.5 * 60:
+				cheatHash += 256
+		CONST.MODE_PRESTIGE_ENDLESS:
+			if timerPerWave > 3.5 * 60:
+				cheatHash += 256
+
+	if int(GameWorld.runStats.get("team1.waves_stalled", 0)) > 10:
+		cheatHash += 512
+	if int(GameWorld.runStats.get("team1.wave_stall_time", 0)) > 60 * 5:
+		cheatHash += 1024
+	if int(GameWorld.runStats.get("team1.spawn_escalation", 0)) > 20:
+		cheatHash += 2048
+
+	if trustedPlayers.has(Platform.get_username()) or trustedPlayers.has(Platform.get_user_id()):
+		if cheatHash > 0:
+			Logger.error("trusted player erroneously marked as cheater", "CheatDetection.stop", {"username": Platform.get_username(), "cheatHash": cheatHash})
+		cheatHash = 0
+	elif confirmedCheaters.has(Platform.get_username()) or confirmedCheaters.has(Platform.get_user_id()):
+		cheatHash += 4096
+
+	return cheatHash
+
+func resetIfRunning():
+	if isRunning:
+		start()
+
+func propertyChanged(property: String, oldValue, newValue):
+	match property:
+
+		"team1.monsters.cycle":
+			if GameWorld.runTime < expectedNextRuntime - 10.0:
+				timeJump = true
+			expectedNextRuntime = GameWorld.runTime + Data.ofOr("team1.monsters.wavecooldown", GameWorld.getTimeBetweenWaves("team1"))
+
+func registerPrestige(base: int, multiplier: int, newScore: int):
+
+
+
+
+
+
+	lastScore = newScore
+	prestigeWavesCounted += 1

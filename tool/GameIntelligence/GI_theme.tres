@@ -1,0 +1,92 @@
+[gd_resource type="Theme" load_steps=21 format=3]
+
+[ext_resource type="FontFile" path="res://tool/GameIntelligence/GIFontNormal.tres" id="1"]
+[ext_resource type="StyleBox" uid="uid://dvxqv22h1idaw" path="res://gui/buttons/button_disabled.tres" id="2"]
+[ext_resource type="StyleBox" uid="uid://diynbvqq1luh1" path="res://gui/buttons/button_focus.tres" id="3"]
+[ext_resource type="StyleBox" uid="uid://8bmm57af74sg" path="res://gui/buttons/button_hover.tres" id="4"]
+[ext_resource type="StyleBox" uid="uid://7pojmevq1h0t" path="res://gui/buttons/button_normal.tres" id="5"]
+[ext_resource type="StyleBox" uid="uid://d00df54i15xkq" path="res://gui/buttons/button_pressed.tres" id="6"]
+[ext_resource type="Texture2D" uid="uid://b85h057l3vfs6" path="res://gui/buttons/checkbox_checked.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://8fe7wbgci7hy" path="res://gui/buttons/checkbox_normal.png" id="8"]
+[ext_resource type="StyleBox" uid="uid://ddd1q8snrcwua" path="res://gui/sliders/slider_hor.tres" id="9"]
+[ext_resource type="StyleBox" uid="uid://7503j35drxb1" path="res://gui/sliders/slider_hor_highlight.tres" id="10"]
+[ext_resource type="StyleBox" uid="uid://bohhoc8c03wkc" path="res://gui/sliders/bar_hor.tres" id="11"]
+[ext_resource type="StyleBox" uid="uid://yu1idcv8571v" path="res://gui/seperator.tres" id="12"]
+[ext_resource type="Texture2D" uid="uid://u4tjaua0c5qi" path="res://gui/sliders/grabber_normal.png" id="13"]
+[ext_resource type="Texture2D" uid="uid://cehbcjxdhhhtu" path="res://gui/sliders/grabber.png" id="14"]
+[ext_resource type="Texture2D" uid="uid://crs3ypdn7b0ak" path="res://gui/sliders/tick.png" id="15"]
+[ext_resource type="StyleBox" uid="uid://c2oq6kke3j53y" path="res://gui/sliders/slider_fill.tres" id="16"]
+[ext_resource type="StyleBox" uid="uid://crg71mjoghnmw" path="res://gui/sliders/slider_fill_highlight.tres" id="17"]
+[ext_resource type="StyleBox" uid="uid://b7aqee6fmdyw6" path="res://gui/panels/panel_inside.tres" id="18"]
+[ext_resource type="StyleBox" uid="uid://bdmhd1nskw73p" path="res://gui/sliders/slider_ver.tres" id="19"]
+[ext_resource type="StyleBox" uid="uid://bypmuck7dfyve" path="res://gui/sliders/slider_ver_highlight.tres" id="20"]
+
+[resource]
+default_font = ExtResource("1")
+Button/colors/font_color = Color(0.313726, 0.568627, 0.470588, 1)
+Button/colors/font_color_disabled = Color(0.9, 0.9, 0.9, 0.2)
+Button/colors/font_color_hover = Color(1, 0.831373, 0.639216, 1)
+Button/colors/font_color_pressed = Color(1, 1, 1, 1)
+Button/constants/hseparation = 2
+Button/fonts/font = ExtResource("1")
+Button/styles/disabled = ExtResource("2")
+Button/styles/focus = ExtResource("3")
+Button/styles/hover = ExtResource("4")
+Button/styles/normal = ExtResource("5")
+Button/styles/pressed = ExtResource("6")
+CheckBox/icons/checked = ExtResource("7")
+CheckBox/icons/unchecked = ExtResource("8")
+GridContainer/constants/hseparation = 16
+GridContainer/constants/vseparation = 4
+HBoxContainer/constants/separation = 16
+HScrollBar/icons/decrement = null
+HScrollBar/icons/decrement_highlight = null
+HScrollBar/icons/increment = null
+HScrollBar/icons/increment_highlight = null
+HScrollBar/styles/grabber = ExtResource("9")
+HScrollBar/styles/grabber_highlight = ExtResource("10")
+HScrollBar/styles/grabber_pressed = ExtResource("10")
+HScrollBar/styles/scroll = ExtResource("11")
+HScrollBar/styles/scroll_focus = null
+HSeparator/constants/separation = 24
+HSeparator/styles/separator = ExtResource("12")
+HSlider/icons/grabber = ExtResource("13")
+HSlider/icons/grabber_highlight = ExtResource("14")
+HSlider/icons/tick = ExtResource("15")
+HSlider/styles/grabber_area = ExtResource("16")
+HSlider/styles/grabber_area_highlight = ExtResource("17")
+HSlider/styles/slider = ExtResource("11")
+Label/colors/font_color = Color(1, 0.92549, 0.839216, 1)
+Label/colors/font_color_shadow = Color(0, 0, 0, 0)
+Label/colors/font_outline_modulate = Color(1, 1, 1, 1)
+Label/constants/line_spacing = 3
+Label/constants/shadow_as_outline = 0
+Label/constants/shadow_offset_x = 1
+Label/constants/shadow_offset_y = 1
+Label/fonts/font = ExtResource("1")
+Label/styles/normal = null
+MarginContainer/constants/margin_bottom = 16
+MarginContainer/constants/margin_left = 16
+MarginContainer/constants/margin_right = 16
+MarginContainer/constants/margin_top = 16
+PanelContainer/styles/panel = ExtResource("18")
+PopupMenu/icons/checked = ExtResource("7")
+PopupMenu/icons/radio_checked = ExtResource("7")
+PopupMenu/icons/radio_unchecked = ExtResource("8")
+PopupMenu/icons/unchecked = ExtResource("8")
+PopupMenu/styles/hover = ExtResource("3")
+PopupMenu/styles/panel = ExtResource("5")
+PopupMenu/styles/separator = ExtResource("12")
+RichTextLabel/colors/default_color = Color(1, 0.92549, 0.839216, 1)
+VBoxContainer/constants/separation = 4
+VScrollBar/icons/decrement = null
+VScrollBar/icons/decrement_highlight = null
+VScrollBar/icons/increment = null
+VScrollBar/icons/increment_highlight = null
+VScrollBar/styles/grabber = ExtResource("19")
+VScrollBar/styles/grabber_highlight = ExtResource("20")
+VScrollBar/styles/grabber_pressed = ExtResource("20")
+VScrollBar/styles/scroll = ExtResource("11")
+VScrollBar/styles/scroll_focus = null
+VSeparator/constants/separation = 24
+VSeparator/styles/separator = ExtResource("12")

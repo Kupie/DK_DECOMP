@@ -1,0 +1,204 @@
+[gd_scene load_steps=12 format=3 uid="uid://mugaxo3vhu1g"]
+
+[ext_resource type="Script" path="res://content/gadgets/prospectionMeter/ProspectionMeter.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://cpml2ureodb34" path="res://content/gadgets/prospectionMeter/background.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://djoy6voi70xo6" path="res://content/icons/icon_iron.png" id="3"]
+[ext_resource type="Script" path="res://content/gadgets/prospectionMeter/ResourceMeter.gd" id="4"]
+[ext_resource type="Texture2D" uid="uid://cf7rbauo1pthf" path="res://content/gadgets/prospectionMeter/front.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://b6jc1mfc22tag" path="res://content/icons/icon_water.png" id="6"]
+[ext_resource type="Texture2D" uid="uid://dydoifbl5v1ww" path="res://content/icons/icon_sand.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://dhbsxgvf0ks7k" path="res://content/icons/icon_chamber.png" id="8"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="9"]
+[ext_resource type="AudioStream" uid="uid://dgf1je468xeck" path="res://content/sounds/op1_ield_48 copy.wav" id="10"]
+[ext_resource type="AudioStream" uid="uid://bn651pxw50snx" path="res://content/sounds/op1_ield_4.wav" id="11"]
+
+[node name="ProspectionMeterHud" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = 4.0
+offset_bottom = 2.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1")
+element_size = Vector2(4, 2)
+layoutWeights = Vector2(1, 3)
+layoutPriority = 10
+
+[node name="Iron1" type="TextureRect" parent="."]
+texture_filter = 1
+layout_mode = 0
+offset_left = 10.0
+offset_top = 3.0
+offset_right = 23.0
+offset_bottom = 7.0
+texture = ExtResource("2")
+stretch_mode = 2
+
+[node name="TextureRect1" type="TextureRect" parent="Iron1"]
+texture_filter = 1
+layout_mode = 0
+offset_left = -8.0
+offset_top = -1.24878
+offset_right = 16.0
+offset_bottom = 22.7512
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("3")
+stretch_mode = 2
+
+[node name="IronMeter" type="ColorRect" parent="Iron1"]
+layout_mode = 0
+offset_right = 13.0
+offset_bottom = 4.0
+color = Color(1, 0.666667, 0.368627, 1)
+script = ExtResource("4")
+
+[node name="Foreground" type="TextureRect" parent="Iron1"]
+texture_filter = 1
+layout_mode = 0
+offset_left = 0.25
+offset_right = 13.25
+offset_bottom = 4.0
+texture = ExtResource("5")
+stretch_mode = 2
+
+[node name="Water1" type="TextureRect" parent="."]
+texture_filter = 1
+layout_mode = 0
+offset_left = 10.0
+offset_top = 10.0
+offset_right = 23.0
+offset_bottom = 14.0
+texture = ExtResource("2")
+stretch_mode = 2
+
+[node name="TextureRect2" type="TextureRect" parent="Water1"]
+texture_filter = 1
+layout_mode = 0
+offset_left = -7.75
+offset_top = -0.748802
+offset_right = 16.25
+offset_bottom = 23.2512
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("6")
+stretch_mode = 2
+
+[node name="WaterMeter" type="ColorRect" parent="Water1"]
+layout_mode = 0
+offset_right = 13.0
+offset_bottom = 4.0
+color = Color(1, 0.666667, 0.368627, 1)
+script = ExtResource("4")
+
+[node name="Foreground" type="TextureRect" parent="Water1"]
+texture_filter = 1
+layout_mode = 0
+offset_right = 13.0
+offset_bottom = 4.0
+texture = ExtResource("5")
+stretch_mode = 2
+
+[node name="Sand1" type="TextureRect" parent="."]
+texture_filter = 1
+layout_mode = 0
+offset_left = 10.0
+offset_top = 17.0
+offset_right = 23.0
+offset_bottom = 21.0
+texture = ExtResource("2")
+stretch_mode = 2
+
+[node name="TextureRect3" type="TextureRect" parent="Sand1"]
+texture_filter = 1
+layout_mode = 0
+offset_left = -8.0
+offset_top = -1.4988
+offset_right = 16.0
+offset_bottom = 22.5012
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("7")
+stretch_mode = 2
+
+[node name="SandMeter" type="ColorRect" parent="Sand1"]
+layout_mode = 0
+offset_right = 13.0
+offset_bottom = 4.0
+color = Color(1, 0.666667, 0.368627, 1)
+script = ExtResource("4")
+
+[node name="Foreground" type="TextureRect" parent="Sand1"]
+texture_filter = 1
+layout_mode = 0
+offset_left = 0.25
+offset_right = 13.25
+offset_bottom = 4.0
+texture = ExtResource("5")
+stretch_mode = 2
+
+[node name="Gadget" type="TextureRect" parent="."]
+texture_filter = 1
+layout_mode = 0
+offset_left = 10.0
+offset_top = 24.0
+offset_right = 23.0
+offset_bottom = 28.0
+texture = ExtResource("2")
+stretch_mode = 2
+
+[node name="TextureRect3" type="TextureRect" parent="Gadget"]
+texture_filter = 1
+layout_mode = 0
+offset_left = -8.0
+offset_top = -1.4988
+offset_right = 16.0
+offset_bottom = 22.5012
+scale = Vector2(0.25, 0.25)
+texture = ExtResource("8")
+stretch_mode = 2
+
+[node name="GadgetMeter" type="ColorRect" parent="Gadget"]
+layout_mode = 0
+offset_right = 13.0
+offset_bottom = 4.0
+color = Color(1, 0.666667, 0.368627, 1)
+script = ExtResource("4")
+
+[node name="Foreground" type="TextureRect" parent="Gadget"]
+texture_filter = 1
+layout_mode = 0
+offset_left = 0.25
+offset_right = 13.25
+offset_bottom = 4.0
+texture = ExtResource("5")
+stretch_mode = 2
+
+[node name="DetectSound" parent="." instance=ExtResource("9")]
+stream = ExtResource("10")
+volume_db = -12.0
+pitch_scale = 1.6
+bus = &"Sounds"
+maxAudibleDistance = 0
+
+[node name="DetectChamberSound" parent="." instance=ExtResource("9")]
+stream = ExtResource("11")
+volume_db = -10.4
+pitch_scale = 2.13
+bus = &"Sounds"
+maxAudibleDistance = 0
+
+[node name="DetectIronSound" parent="." instance=ExtResource("9")]
+volume_db = -11.361
+pitch_scale = 1.2
+bus = &"Sounds"
+maxAudibleDistance = 0
+
+[node name="DetectWaterSound" parent="." instance=ExtResource("9")]
+pitch_scale = 1.45
+bus = &"Sounds"
+maxAudibleDistance = 0
+
+[node name="DetectCoboltSound" parent="." instance=ExtResource("9")]
+pitch_scale = 1.82
+bus = &"Sounds"
+maxAudibleDistance = 0

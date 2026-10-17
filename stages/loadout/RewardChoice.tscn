@@ -1,0 +1,257 @@
+[gd_scene load_steps=29 format=3 uid="uid://cabyoltora0s5"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="StyleBox" uid="uid://d0e6hxlj6ehem" path="res://gui/panels/panel_inside_dark.tres" id="2"]
+[ext_resource type="Script" path="res://stages/loadout/RewardChoice.gd" id="3"]
+[ext_resource type="PackedScene" uid="uid://02emll07tpim" path="res://content/shared/Usable.tscn" id="4"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="5"]
+[ext_resource type="Texture2D" uid="uid://b6g0mx6jboumy" path="res://content/icons/badge1.png" id="6"]
+[ext_resource type="FontVariation" uid="uid://cmphosyxqvcqp" path="res://gui/fonts/FontSmall.tres" id="7"]
+[ext_resource type="LabelSettings" uid="uid://qsc7kngg06e5" path="res://gui/fontsettings/SmallFontSettings.tres" id="8"]
+[ext_resource type="Texture2D" uid="uid://bci1reg7lsn5n" path="res://content/caves/halloweencave/spookyguys.png" id="9"]
+[ext_resource type="StyleBox" uid="uid://dn7txqk3w8m3g" path="res://gui/buttons/button_focus_expand_beyond_parent.tres" id="10"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="11"]
+[ext_resource type="Material" uid="uid://ooltj4cifkjq" path="res://systems/style/materials/palette_swap_unmodulated.tres" id="12"]
+[ext_resource type="Texture2D" uid="uid://crxcie5jow43x" path="res://content/icons/badge_missing.png" id="13"]
+[ext_resource type="Texture2D" uid="uid://b85h057l3vfs6" path="res://gui/buttons/checkbox_checked.png" id="14"]
+[ext_resource type="Shader" path="res://content/weapons/tesla/physics_sparks_particleshader.gdshader" id="15"]
+[ext_resource type="Script" path="res://content/keeper/keeper2/CustomStyle_ChangeModulate.gd" id="16"]
+[ext_resource type="Shader" path="res://content/gadgets/shield/reflect_glow.gdshader" id="17"]
+[ext_resource type="Texture2D" uid="uid://depbd3wcbrgw5" path="res://content/gadgets/shield/forcefieldglow.png" id="18"]
+
+[sub_resource type="Curve2D" id="Curve2D_1qu8d"]
+_data = {
+"points": PackedVector2Array(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+}
+point_count = 5
+
+[sub_resource type="Gradient" id="Gradient_4k872"]
+offsets = PackedFloat32Array(0.590116, 1)
+colors = PackedColorArray(1, 1, 1, 1, 1, 1, 1, 0)
+
+[sub_resource type="GradientTexture2D" id="142"]
+gradient = SubResource("Gradient_4k872")
+width = 256
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_rht5n"]
+shader = ExtResource("15")
+shader_parameter/emission_sphere_radius = 0.2
+shader_parameter/lifetime_randomness = 0.8
+shader_parameter/direction = Vector3(1, 0, 0)
+shader_parameter/spread = 180.0
+shader_parameter/scale = 0.18
+shader_parameter/air_drag = 1.0
+shader_parameter/mass = 0.05
+shader_parameter/mass_random = 0.7
+shader_parameter/scale_min = 0.1
+shader_parameter/scale_max = 0.15
+shader_parameter/initial_linear_velocity = 1500.0
+shader_parameter/initial_linear_velocity_random = 0.6
+shader_parameter/color_value = Color(1, 1, 1, 1)
+shader_parameter/scale_speed_mod = Vector3(0, 1, 0)
+shader_parameter/scale_speed_mod_min = 0.3
+shader_parameter/scale_speed_mod_max = 4.0
+shader_parameter/gravity = Vector3(0, 200, 0)
+shader_parameter/color_ramp = SubResource("142")
+
+[sub_resource type="Gradient" id="143"]
+interpolation_mode = 2
+offsets = PackedFloat32Array(0.909884, 1)
+colors = PackedColorArray(1, 1, 1, 1, 1, 1, 1, 0)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_f6rcu"]
+gradient = SubResource("143")
+width = 8
+height = 32
+fill = 1
+fill_from = Vector2(0.5, 0.5)
+fill_to = Vector2(0.5, 0)
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_8li6p"]
+bg_color = Color(0.407843, 0.423529, 0.862745, 1)
+border_width_left = 10
+border_width_top = 10
+border_width_right = 10
+border_width_bottom = 10
+border_color = Color(0.407843, 0.423529, 0.862745, 0)
+border_blend = true
+corner_radius_top_left = 10
+corner_radius_top_right = 10
+corner_radius_bottom_right = 10
+corner_radius_bottom_left = 10
+corner_detail = 1
+expand_margin_left = 20.0
+expand_margin_top = 20.0
+expand_margin_right = 20.0
+expand_margin_bottom = 20.0
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_oh17n"]
+shader = ExtResource("17")
+
+[sub_resource type="Curve" id="Curve_r34ea"]
+_data = [Vector2(0, 0.490909), 0.0, 0.0, 0, 0, Vector2(0.5, 1), 0.0, 0.0, 0, 0, Vector2(1, 0.490909), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="Gradient" id="Gradient_dpat4"]
+offsets = PackedFloat32Array(0, 0.142373, 0.501695, 0.840678, 1)
+colors = PackedColorArray(1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0)
+
+[node name="RewardChoice" type="PanelContainer" groups=["reward-choice"]]
+texture_filter = 1
+custom_minimum_size = Vector2(300, 135)
+offset_right = 24.0
+offset_bottom = 24.0
+size_flags_horizontal = 3
+theme = ExtResource("1")
+theme_override_styles/panel = ExtResource("2")
+script = ExtResource("3")
+toggleable = true
+disabledAlpha = 0.7
+
+[node name="Usable" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+position = Vector2(62, 103)
+modulateOnFocus = NodePath(".")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+theme_override_constants/margin_left = 4
+theme_override_constants/margin_top = 4
+theme_override_constants/margin_right = 4
+theme_override_constants/margin_bottom = 4
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="CostContainer" type="PanelContainer" parent="MarginContainer/HBoxContainer"]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+size_flags_vertical = 0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/HBoxContainer/CostContainer"]
+layout_mode = 2
+theme_override_constants/separation = 7
+
+[node name="CostLabel" type="Label" parent="MarginContainer/HBoxContainer/CostContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "1"
+label_settings = ExtResource("5")
+vertical_alignment = 1
+
+[node name="TextureRect" type="TextureRect" parent="MarginContainer/HBoxContainer/CostContainer/HBoxContainer"]
+layout_mode = 2
+texture = ExtResource("6")
+stretch_mode = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+alignment = 1
+
+[node name="LabelTitle" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+text = "TITLE"
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="LabelDesc" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme_override_fonts/font = ExtResource("7")
+label_settings = ExtResource("8")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="Icon" type="TextureRect" parent="MarginContainer/HBoxContainer" groups=["unstyled"]]
+unique_name_in_owner = true
+texture_filter = 1
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+mouse_filter = 2
+texture = ExtResource("9")
+stretch_mode = 4
+
+[node name="SelectedPanel" type="Panel" parent="."]
+layout_mode = 2
+mouse_filter = 2
+theme_override_styles/panel = ExtResource("10")
+
+[node name="Tween" parent="." instance=ExtResource("11")]
+
+[node name="LockIcon" type="TextureRect" parent="."]
+visible = false
+material = ExtResource("12")
+custom_minimum_size = Vector2(36, 36)
+layout_mode = 2
+size_flags_horizontal = 0
+size_flags_vertical = 0
+texture = ExtResource("13")
+expand_mode = 4
+stretch_mode = 5
+
+[node name="CheckIcon" type="TextureRect" parent="."]
+unique_name_in_owner = true
+visible = false
+material = ExtResource("12")
+custom_minimum_size = Vector2(32, 24)
+layout_mode = 2
+size_flags_horizontal = 0
+size_flags_vertical = 0
+texture = ExtResource("14")
+stretch_mode = 5
+
+[node name="Path2D" type="Path2D" parent="."]
+curve = SubResource("Curve2D_1qu8d")
+
+[node name="PathFollow2D" type="PathFollow2D" parent="Path2D"]
+
+[node name="Sparks" type="GPUParticles2D" parent="Path2D/PathFollow2D"]
+editor_description = "fine_tuned"
+z_index = 10
+emitting = false
+amount = 300
+process_material = SubResource("ShaderMaterial_rht5n")
+texture = SubResource("GradientTexture2D_f6rcu")
+lifetime = 1.8
+script = ExtResource("16")
+self_init = true
+styleColor = Color(0.470588, 1, 0, 1)
+
+[node name="Panel" type="Panel" parent="."]
+visible = false
+modulate = Color(1, 1, 1, 0)
+layout_mode = 2
+mouse_filter = 2
+theme_override_styles/panel = SubResource("StyleBoxFlat_8li6p")
+
+[node name="Glow" type="Line2D" parent="."]
+visible = false
+modulate = Color(1, 1, 1, 0)
+material = SubResource("ShaderMaterial_oh17n")
+position = Vector2(-1, 3)
+points = PackedVector2Array(302, -4, 1, -4, 1, 88, 303, 89, 0, 0)
+width = 32.0
+width_curve = SubResource("Curve_r34ea")
+gradient = SubResource("Gradient_dpat4")
+texture = ExtResource("18")
+texture_mode = 1
+joint_mode = 1
+
+[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="."]
+
+[connection signal="gui_input" from="." to="." method="_on_LoadoutChoice_gui_input"]
+[connection signal="mouse_entered" from="." to="." method="_on_LoadoutChoice_mouse_entered"]
+[connection signal="mouse_exited" from="." to="." method="_on_LoadoutChoice_mouse_exited"]
+[connection signal="screen_entered" from="VisibleOnScreenNotifier2D" to="." method="_on_visible_on_screen_notifier_2d_screen_entered"]
+[connection signal="screen_exited" from="VisibleOnScreenNotifier2D" to="." method="_on_visible_on_screen_notifier_2d_screen_exited"]

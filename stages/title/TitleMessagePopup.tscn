@@ -1,0 +1,60 @@
+[gd_scene load_steps=7 format=3 uid="uid://cnajx084t1jpk"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="2"]
+[ext_resource type="Script" path="res://stages/title/TitleMessagePopup.gd" id="3"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="4"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="5"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_rek80"]
+content_margin_bottom = 20.0
+
+[node name="TitleMessagePopup" type="PanelContainer" node_paths=PackedStringArray("message_label", "additional_message_label", "close_button")]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -474.5
+offset_top = -224.5
+offset_right = 474.5
+offset_bottom = 5.5
+theme = ExtResource("1")
+theme_override_styles/panel = ExtResource("2")
+script = ExtResource("3")
+message_label = NodePath("VBoxContainer/MessageDescriptionLabel")
+additional_message_label = NodePath("VBoxContainer/AdditionalMessageLabel")
+close_button = NodePath("VBoxContainer/HBoxContainer/CancelButton")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="TitleLabel" type="Label" parent="VBoxContainer"]
+custom_minimum_size = Vector2(885, 0)
+layout_mode = 2
+text = "title.message.title"
+label_settings = ExtResource("4")
+autowrap_mode = 3
+
+[node name="MessageDescriptionLabel" type="Label" parent="VBoxContainer"]
+custom_minimum_size = Vector2(885, 0)
+layout_mode = 2
+autowrap_mode = 3
+
+[node name="AdditionalMessageLabel" type="Label" parent="VBoxContainer"]
+visible = false
+custom_minimum_size = Vector2(885, 0)
+layout_mode = 2
+theme_override_styles/normal = SubResource("StyleBoxEmpty_rek80")
+autowrap_mode = 3
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="CancelButton" type="Button" parent="VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "title.message.close"
+
+[node name="Tween" parent="." instance=ExtResource("5")]
+
+[connection signal="pressed" from="VBoxContainer/HBoxContainer/CancelButton" to="." method="_on_close_pressed"]

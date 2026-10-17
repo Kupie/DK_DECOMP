@@ -1,0 +1,107 @@
+[gd_scene load_steps=7 format=3 uid="uid://ck3uofm242f5u"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://systems/modding/ModEntry.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://5j01u20627sd" path="res://content/icons/prestige.png" id="3"]
+[ext_resource type="LabelSettings" uid="uid://cbc22q86m71lr" path="res://gui/fontsettings/NormalFontSettingsHighlighted.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://qsc7kngg06e5" path="res://gui/fontsettings/SmallFontSettings.tres" id="5"]
+[ext_resource type="LabelSettings" uid="uid://qgs4khkkhaso" path="res://gui/fontsettings/NormalFontSettings.tres" id="6"]
+
+[node name="Container" type="PanelContainer"]
+clip_contents = true
+custom_minimum_size = Vector2(900, 120)
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 4
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 4
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+theme_override_constants/separation = -5
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 0
+
+[node name="prestige_icon" type="TextureRect" parent="MarginContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(50, 30)
+layout_mode = 2
+texture = ExtResource("3")
+expand_mode = 4
+stretch_mode = 4
+
+[node name="title" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "extremelyverylongtitle 1.0.41"
+label_settings = ExtResource("4")
+
+[node name="Control" type="Control" parent="MarginContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="authors" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+theme_override_colors/font_color = Color(0.713518, 0.713518, 0.713518, 1)
+theme_override_font_sizes/font_size = 20
+text = "author_name, author_name2, author_name3"
+autowrap_mode = 3
+
+[node name="errors" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.287307, 0.225237, 1)
+theme_override_font_sizes/font_size = 20
+text = "errors"
+autowrap_mode = 2
+
+[node name="warnings" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.737255, 0, 1)
+theme_override_font_sizes/font_size = 20
+text = "warnings"
+autowrap_mode = 2
+
+[node name="description" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_font_sizes/font_size = 20
+text = "description"
+label_settings = ExtResource("5")
+vertical_alignment = 2
+autowrap_mode = 2
+
+[node name="Control" type="VBoxContainer" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 0
+
+[node name="version" type="Label" parent="MarginContainer/HBoxContainer/Control"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "4.0.1"
+label_settings = ExtResource("6")
+horizontal_alignment = 2
+
+[node name="Control" type="Control" parent="MarginContainer/HBoxContainer/Control"]
+layout_mode = 2
+size_flags_vertical = 3
+
+[node name="is_active" type="CheckBox" parent="MarginContainer/HBoxContainer/Control"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 8

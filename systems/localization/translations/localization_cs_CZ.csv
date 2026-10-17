@@ -1,0 +1,2206 @@
+﻿key,cs_CZ
+upgrades.teslapersistance1.title,Přetrvávající koule 1
+upgrades.keeper4ramping1.title,Setrvačnost
+upgrades.stationextensionupgrades.desc,Pořizujte vylepšení v pohodlí svého dolu.
+upgrades.sword.title,Meč
+upgrades.autocannonimproved.desc,Zlepší veškeré vlastnosti kanónu.
+upgrades.laserstrength1.title,Výkon 1
+properties.monstermodifiers.timebetweenwavesmodifier,Délka cyklu: {.percent}
+level.gameover.unlock.modifiers,Odemknul se nový modifikátor světa!
+keybindings.reset.explanation,"Vaše nastavení klávesnice bylo resetováno z důvodu nedávné aktualizace, která výrazně změnila schéma ovládání. Omlouváme se za způsobené nepříjemnosti!"
+reward.rewardrerolloffers2.desc,Plaťte vodou pro opakovatelnou výměnu výběru ze zařízení nebo z doplňků.
+upgrades.proberecharge.desc,Sonda se bude pomalu sama dobíjet.
+versus.corruptionmonsterdamage.title,Silná monstra
+loadout.start.area.press,Zmáčkněte|pro zahájení hry!
+upgrades.shieldbattleblastdamage.title,Smrtící výboj
+properties.monstermodifiers.move_speed,Rychlost pohybu monster: {.percent}
+upgrades.mushroomfarmspeed1.title,Posílení pohybu 1
+upgrades.chainsawdamage1.title,Velikost kotouče 1
+properties.orchard.battlerootexplosion,Poškození výbuchem: {}
+level.tutorial.assessor.bundleguide.desc2.switch,Press|without pressing a direction to place a stationary bundle.
+upgrades.swordtargetlock.desc,"Když meč bodne, automaticky se zaměří na první příšeru v hledáčku."
+reward.rewardautomatedweapons.desc,Automatizuje vaše sekundární zbraně.
+options.input.gamepad,Ovladač
+playerlist.profile,Nastavit profil
+upgrades.stunlaserstun1.title,Síla omráčení 1
+properties.condenser.overchargedelay,Zdržení výroby (v cyklech): {}
+exhibition.level.description,Návrat do hlavní nabídky za ...
+keybindings.reset.explanation.ps5,"Vaše nastavení klávesnice bylo resetováno z důvodu nedávné aktualizace, která výrazně změnila schéma ovládání. Omlouváme se za způsobené nepříjemnosti!"
+upgrades.shockwave.title,Rázová kladiva
+properties.keeper3.shurikencooldown,Doba obnovení šurikenu: {} s
+title.navbar.leaderboard,Prestiž
+modding.prestigewhitelist,"Pokud máte mód, který by měl být povolen pro užití v Prestige, napište nám na Discord a my jej zkontrolujeme. Povolené módy nemění rovnováhu hru, ale místo toho zlepšují dostupnost nebo přidávají kosmetické změny."
+upgrades.extractordoublebuild.desc,Zlepšete produkci červů.
+upgrades.chainsawdamage3.title,Velikost kotouče 3
+modding.modio.error,Error mod.io
+loadout.versusmod.versusmodifiermirroredmap.desc,"Mapy pod dómy jsou identické, zrcadlové kopije."
+actionhint.blast,Odpálit
+multiplayer.host.crossplay,Povolit Crossplay
+properties.converter.ironpercobalt,{} kusů železa se změní na 1 kobalt
+upgrades.shieldovercharge.desc,"Pomocí vody ručně nabij štít, aby v příští vlně absorboval větší poškození."
+properties.droneyard.overchargebattledronestrength,Posílení bojových dronů: {.percent}
+options.game.showkeeperaimindicator,Zobrazit indikátor zamíření Keepera
+upgrades.autocannonautonomy.title,Autonomie
+properties.keeper4.holesquadduration,Doba výdrže těžební čety: {} s
+options.keybindings.rebinding.capture,Záznam
+options.game.screenshake.shakeintensity,Síla třesení
+upgrades.keeper2pinballspherelifetime.desc,"Navýší dobu, při které kinetické koule létají."
+upgrades.swordreflection2.title,Odražení 2
+upgrades.lift.title,Výtah
+assignment.circumstance,Podmínky
+options.input,Vstup
+properties.keeper2.spheresplit,Rozpul blížící se koule
+properties.tesla.damage,Poškození výstřelem: {}
+options.game.events.allowtelemetry,Povolit online hru pro více hráčů
+properties.keeper1.maxspeed,Nejvyšší rychlost: {}
+level.tutorial.tesla.panel3content1,"Teslův dóm je multifunkční. Abyste s ním byli úspěšní, potřebujete využít všechny jeho dovednosti."
+level.tutorial.sworddome.reflecting.desc,Pomocí záštity meče můžeš zastavovat střely a dokonce je i odrážet.
+options.game.bundlesnapping,Přichytit míření svazku na kardinální směry
+upgrades.spiresustain.title,Vytrvalost
+reward.rewardpermanentinventory.title,Trvalý ukazatel inventáře
+properties.furnace.ironduration,Doba pálení železa (v cyklech): {}
+level.gameover.assignment.badges.more,Splňte náročnou verzi úlohy pro získání dalšího odznaku.
+upgrades.droneyardovercharge2.title,Zlepšené nabití
+multiplayer.error.joincodefailed,Nebylo nalezeno žádné lobby s uvedeným kódem.
+properties.laser.movespeedwhilefiring,Rychlost při střelbě: {.percent}
+upgrades.keeper3shurikencooldown1.title,Rychlý šuriken
+upgrades.orchardduration2.desc,Účinky ovoce trvají ještě déle.
+options.input.controls,Ovládání
+upgrades.droneyardovercharge3.desc,Vypustí ještě více dronů po nabití depa.
+upgrades.blastminingimpactdetonation.desc,Těžební nálože se detonujou při kontaktu s povrchem. Výbuch bude posunut směrem k místu dotyku.
+upgrades.drillbotstrength3.title,Síla 3
+level.gameover.clientdisconnect,Odpojit se
+upgrades.swordstabexplode.desc,"Meč má na sobě bombu, která vybouchne u prvního nepřítele, kterého meč bodne."
+properties.keeper4.minpunchdelay,Nejvyšší rychlost úderů: {} s
+options.audio.music,Hudba
+upgrades.keeper3carrylimit3.title,Nosný limit 3
+upgrades.keeper4swiftpunch.desc,Těžba začne na vyšších rychlostech.
+assignment.showdown.desc,Monstra na této planetě se chystají k jedinému masivnímu útoku.
+properties.suitblaster.chargespeedpercharge,Urychlení přípravy za každou připravenou nálož: {.percent}
+loadout.versusmod.versusmodifierhardrock,Tvrdé kameny
+properties.keeper4.catgoblinminingspeed,{.percent} rychlost skřítočičí těžby
+keeperdlc.title,Ztracení strážci
+upgrades.drillbotduplicate.title,Sourozenec
+properties.mushroomfarm.drillbuffduration,Doba trvání posílení těžby: {} s
+upgrades.droneyardbattlegridlong1.desc,"Vypustí více dronů, kteří vydrží být kolem po delší dobu."
+level.gameover.prestige.uploading.inprocess,aktualizuji skóre ...
+upgrades.furnace.desc,Nainstaluje pec s komínem. Kouř bude oddalovat vlny monster.
+leaderboard.needsOnlineServices.ps5,Příjměte licenční smlouvu s koncovým uživatelem v nastavení pro zpřístupnění žebříčku.
+options.game.multiplayer,Hra pro více hráčů
+upgrades.shieldbattledestructionprevention.desc,"Získáš delší nezranitelnost, když bude hrozit, že se dóm zničí.
+Poté se ti štít na další bitvu nenabije. Poslední bitvu lze opět spustit až po 2 dokončených vlnách.
+"
+properties.keeper2.bundlestopcenter,Gravitační pole středového sloupu
+upgrades.chainsawdamage2.title,Velikost kotouče 2
+upgrades.keeper2rotationalmining1.title,Kompresní těžba 1
+upgrades.swordlargeblade1.title,Těžká čepel 1
+loadout.difficulty.veryeasy,Normální
+level.tutorial.assessor.spheres.desc2,Vaše zásoba koulí je omezená a automaticky se obnovuje v průběhu času.
+level.tutorial.assessor.spheres.desc1,Zmáčkněte|pro vystřelení kinetické koule ve směru míření.
+upgrades.repellentdelay2.desc,Ještě víc prodlouží zdržení příští vlny příšer.
+upgrades.artillerydirecthit1.desc,Upravuje minomet pro palbu střel specializovaných na přímé zásahy.
+reward.rewardpet12.title,Pejsek
+upgrades.keeper2movement4.desc,Pohybujte se výrazně rychleji během sbírání a přenášení surovin.
+properties.sword.stabspeed,Rychlost bodnutí: {.percent} 
+upgrades.artillerysplash3.title,Těkavé výbušniny 2
+properties.drillbot.amount,Potřebné údery vrtákem: {}
+options.game.autopickupkunaicarrier,Automatically pick up Kunai Carrier
+upgrades.stunlaserautonomy1.desc,Omračovací laser se aktivuje i během vaší nepřítomnosti.
+properties.laser.stun,Síla omráčení: {}
+level.gameover.continue,Pokračovat
+multiplayer.host.joincodeunavailable,Není k dispozici
+upgrades.shieldbattlelongerafterdepletion.desc,"Výboj bude trvat déle, pokud se spustí po vyčerpání štítu."
+level.tutorial.assessor.mining.desc,Pro odstranění jednoho kamene stačí posouvat strážce proti danému kusu kamene.
+upgrades.teleporterteleportresourcesback.desc,"Portál nyní teleportuje suroviny, ale už nemůže teleportovat tebe. Můžeš se stále teleportovat z dómu do portálu."
+keybindings.reset.doreset.ps5,Resetovat přiřazení tlačítek
+upgrades.jetpackstrength1.title,Nosná kapacita 1
+level.tutorial.beastmaster.squad_1,Podržte| blízko tunelu pro povolání těžební čety.
+loadout.prestige.pro.explanation,"Snižte náhodnost určením přesného pořadí zařízení, doplňků a jeskyní."
+level.tutorial.beastmaster.squad_3,Pouze jedna četa může být aktivní v jeden okamžik.
+upgrades.swordelectrified.desc,"Do čepele se pustí elektrický proud, který při dotyku způsobí poškození."
+level.tutorial.beastmaster.squad_2,Četa bude náhodně těžit kameny v blízkosti tunelu.
+upgrades.drill1.title,Síla vrtáku 1
+loadout.start.area.move,Přemistěte všechny strážce sem pro start!
+level.station.upgrademenu.close,Zavřít
+upgrades.rocketlauncherrestock.title,Doplnění raket
+upgrades.chainsawdamage2.desc,"Zvýší množství poškození, které kotoučová pila uděluje monstrům."
+level.station.battle.navbar.artilleryshoot,Minomet
+upgrades.repellentdelay3.title,Zdržení 3
+upgrades.suitblasterspeed1.title,Rychlost přípravy 1
+level.gameover.stats.additional,Detailní statistiky
+options.audio.music.ost.mode.adaptive,Adaptivní (doporučeno)
+upgrades.furnacestrongwaterfiring.title,Lepší odpařování vody
+properties.dome.meleethorndamage,Vrácené poškození: {}
+upgrades.repellentbattlelongerhealthreduction.desc,Strengthen the withering of all visible monsters.
+level.tutorial.tesla.panel3header,Mnoho dovedností
+versus.corruptionstunresistance.desc,Monstra budou převážně odolná vůči omráčovacím a zpomalovacím prostředkům.
+level.tutorial.assessor.spheres,Kinetické koule
+upgrades.chainsawdouble.title,Druhá kotoučová pila
+upgrades.keeper4squad1.desc,Povolejte četu skřítoček specializovaných na výkopy blízkých kamenů. Mají čich na hledání surovin.
+versus.message.corruption,Soupeřící tým upravil monstra útočící na váš dóm.
+options.keybindings.action.keeper.gadget1,Zařízení 1
+options.keybindings.action.keeper.gadget2,Zařízení 2
+upgrades.shieldbattlereflectspeed.title,Urychlené odražení
+properties.monsters.additionalstartweight,Dodatečná hodnota vlny: {}
+level.gameover.stats.damagedealt,Poškození uděleno
+properties.keeper2.reflectspeed,Urychlení koulí: {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,Dodatečná délka schopností: {} s.
+properties.converter.ironcobalttime,Doba konverze mezi kobaltem a železem (v cyklech): {}
+upgrades.droneyardbattlegrid.desc,"Vypustí formaci bojových dronů, aby bránily dóm před blízkými monstry."
+upgrades.suitblasterradius1.desc,Zvýší rozsah výbuchu.
+upgrades.droneyardbattlegridquick1.title,Rychlejší výsadek
+options.input.controls.keybindings.button.ps5,Změnit přiřazení tlačítek
+multiplayer.host.ping,Server Ping: %dms
+title.navbar.singleplayer,Hra pro jednoho hráče
+options.video.renderhalfres.enable,Vykreslit v polovičním rozlišení
+level.gameover.stats.destroyedblocks,Zničené bloky
+upgrades.converterefficientwaterlong.desc,"Konverze mezi vodou a železem bude delši, ale s většími výnosy."
+pause.restartrun,Začít znovu
+options.video.stretchmode.scaled,V měřítku
+level.tutorial.beastmaster.mine.desc1,"Jděte proti kameni, abyste ho vytěžili."
+level.tutorial.beastmaster.mine.desc2,Vaše rychlost těžby se zrychluje s každým úderem.
+upgrades.domesupplementscraprepair2.desc,Obnovte strukturní výdrž dómu stracenou během provádění provizorních oprav.
+upgrades.keeper2bundle3.desc,"Svazky poslané ke středu se zastaví přímo ve sloupu pod vstupem do dómu, místo toho aby pokračovaly dále."
+leaderboard.fellowkeepers,Hodnocení v klanu
+upgrades.autocannon.desc,"Nainstaluje na dóm silný automatický kanón, který je schopen způsobit monstrům velké poškození."
+properties.orchard.battlerootcatchduration,Trvání pasti: {} s
+upgrades.laseraimline.desc,"Přidá k laseru zaměřovač, který ukazuje, kam míří."
+upgrades.teslapersistance2.title,Přetrvávající koule 2
+upgrades.orchardovercharge3.desc,Navýší účinek nabití na bojových schopnostech.
+actionhint.teleport,Teleportovat
+loadout.difficulty.medium.description,Zamýšlená obtížnost hry Dome Keeper.
+upgrades.swordlargeblade2.title,Těžká čepel 2
+loadout.prestige.endless,Donekonečna
+properties.tesla.nurture,Nabíjení elektrických koulí
+upgrades.shieldbattleelectroblast.desc,"Spusť aktivní bojovou schopnost, která kolem tvého dómu na krátkou chvíli vytvoří smrtící plošný efekt."
+options.game.blocklist.desc,"List of users you have blocked.
+You won't be able to play with any blocked user in future online games.
+If you change your mind about a blocked user, unblock it below.
+You can block up to %s users."
+actionhint.cancel,Zrušit
+upgrades.shockwavestun2.title,Omráčení rázovou vlnou 2
+upgrades.liftcapacity1.desc,Zdviže unesou více surovin.
+upgrades.domewavemeter.title,Ukazatel blízkosti nepřátel
+level.gameover.assignment.win.title,ÚLOHA SPLNĚNA
+gadget.slot.cellar,Sklepení
+options.game.ropecamerafollow,Síla posunu kamery při použití lana
+upgrades.proberecharge.title,Automatické dobíjení
+level.tutorial.repair.usecobalt,Pomocí kobaltu můžeš opravovat dóm. Je to vylepšení v technologickém stromě dómu.
+level.supplementchoice.title,SEBER DOPNĚK!
+options.keybindings.action.general.right,Vpravo
+gadget.slot.keepersuit,Strážcův oblek
+assignment.cobaltcontribution.desc,Klan nutně potřebuje kobalt a žádá vás o rychlé dodání velkého množství.
+upgrades.prestigefinish.desc,Odleť z této planety a vrať se domů.
+loadout.mapsize.huge.description,Obrovská mapa pro ty nejdelší mise.
+options.game.events,Události
+loadout.versusmod.versusmodifierrichirondeposits.desc,"Ložiska železa jsou malá, ale mají vyšší výnosy."
+loadout.mode.shortcycles.desc,You have less time between waves.
+multiplayer.error.lobby.host,Založení hry se nezdařilo.
+level.tutorial.sworddome.reflecting,Odražení
+level.tutorial.artillery.panel3header,Výbuchy a přímé zásahy
+assignment.rareiron.title,Nedostatky železa
+level.tutorial.assessor.carry.desc1_1,"Jakmile jsou k tobě pevně připoutané, budou tě následovat, i když pustíš klávesu sběru."
+level.station.battle.navbar.slice,Sekání
+upgrades.furnacewaterfiring.title,Odpařování vody
+upgrades.drill.desc,Centrální vrták na tvorbu hlubokých šachet. Lze pořídit postranní vrtáky.
+level.gameover.stats.additionalgadget,Dodatečné zařízení
+level.tutorial.tesla.panel2content1,Držte|pro nabití střely.
+level.tutorial.tesla.panel2content2,"Abyste mohli vystřelit, musíte tlačítko pro výstřel pustit, když je střela nabitá. Pokud pustíte tlačítko pro výstřel dříve, než bude střela nabitá, nic se nestane."
+upgrades.teslapersistance3.desc,Elektrické koule jsou velké a zůstávají po dlouhou dobu.
+upgrades.blastminingtriple.desc,Vyrábí několik těžebních náloží naráz místo jedné.
+properties.droneyard.battledronecount,Bojové drony: {}
+options.ok,OK
+loadout.versusmod.versusmodifiermanycaverns,Jeskynní mapa
+upgrades.lasermove1.desc,Laser se pohybuje rychleji.
+upgrades.domewavewarner.desc,Adaptivní ukazatel vln bude signalizovat nastávající útoky na Dóm. Přesnost ukazatele se bude časem zlepšovat.
+upgrades.dome4.title,Teslův Dóm
+upgrades.keeper4squad1.title,Těžební četa
+upgrades.keeper4autospawnminers.desc,"Když je vytvořený nový tunel, těžební četa z ní sama vyskočí a dá se hned do práce."
+assignment.unpredictable.title,Bez signálu
+upgrades.blastminingblast3.desc,Dodává těžebním náložím extrémní sílu.
+upgrades.domewavepathtodome.title,Odejít z trasy
+level.tutorial.probe.popup_1.switch,Press | to emit a probe pulse.
+upgrades.teslapower4.desc,Přidá výstřelu na síle.
+loadout.versus.modifiers.title,Modifikátory
+properties.furnace.irondelay,Oddálení železem: {} s
+actionhint.pickup,Sebrat
+demo.end.subtitle,"Plná verze hry nabízí spoustu dalšího obsahu. Pokud vás hraní demoverze bavilo, zvažte prosím zakoupení plné verze hry. Zde je ukázka toho, co plná hra nabízí:"
+loadout.versusmod.versusmodifierironinflation.desc,"Všechna vylepšení vyžadují dvakrát více železa, ale naleziště jsou výnosnější."
+upgrades.artilleryprojectileerasure.title,Ničení projektilů
+options.video.brightness.reset,Resetovat
+upgrades.domesandrepair.desc,Oprav poškození svého dómu pomocí kobaltu.
+upgrades.swordlongblade2.title,Dlouhá čepel 2
+level.gameover.restart,Spustit znovu
+,
+level.tutorial.caves,Jeskyně
+options.input.gamepad.gamepadstickdeadzone,Mrtvá zóna Joysticku
+upgrades.keeper3shuriken2.title,Svižný šuriken
+upgrades.condenserspeed1.desc,Snižuje čas potřebný ke kondenzaci jedné jednotky vody.
+properties.monsters.fixedweight,Fixní síla vlny: {}
+properties.versus.ironcontribution,Příspěvky železa: {}
+multiplayer.join.title,Přidejte se do hry pro více hráčů
+upgrades.prestigewater.title,Odeslat vodu
+upgrades.keeper3kunaibounce2.title,Deep Resonance
+upgrades.swordtargetlock.title,Zaměření cíle
+upgrades.artillerymachinegun4.title,Rychlopalebná zbraň
+upgrades.mushroomfarmdrill2.title,Posílení těžby 2
+upgrades.stunlaser.desc,"Nainstaluje laser, který automaticky zaměří a omráčí malé příšery."
+upgrades.shieldbattleinvulnerable.title,Nezranitelnost
+loadout.hint.dome,Vyberte si dóm!
+loadout.versusmod.versusmodifierrichirondeposits,Koncentrovaná ložiska železa
+upgrades.chainsawdouble.desc,"Nainstaluje další kotoučovou pilu, aby spolu s první bránily dóm na obou stranách efektivněji."
+properties.lift.capacity,Nosnost zdviží: {}
+reward.rewardcentralmarker.title,Označení středu
+upgrades.autocannonrateoffire1.title,Samopal 1
+loadout.versusmod.versusmodifierwindingmap,Matoucí mapa
+upgrades.prospectionmetersand2.title,Kobaltový kompas
+properties.lift.orbs,Zdviže: {}
+upgrades.keeper3doublejump.desc,Budete moci skočit znovu ve vzduchu.
+upgrades.droneyardparasites3.title,Parazitičtí dronové 3
+upgrades.keeper4doublesquad.title,Druhá četa
+upgrades.relichunt.title,Lov relikvií
+upgrades.orchardbattlerooting.desc,"Po aktivaci v bitvě vyrostou kolem dómu kořeny, které lapí středně velké příšery, jež na ně šlápnou."
+upgrades.prospectionmetergadget.title,Vysokovýkonný detektor
+properties.sword.reflection,Větší záštita
+upgrades.extractorresources1.desc,"Vyšlechtěte červy, co budou pracovat pečlivěji, aby vytáhli z ložisek více železa."
+properties.dome.autohealdamagethreshold,Aktivace po obdržení poškození většího než {} hp
+upgrades.keeper2rotationalmining2.desc,Zlepšete rychlost těžby kamene.
+properties.tesla.persistencestunstrength,Omráčení elektrickými koulemi: {}
+level.gameover.stats.timeplayed,Čas hry
+properties.sword.stabdamage,Poškození bodnutím: {} 
+properties.monsters.additionalwaveweight,Dodatečná síla vlny: {.percent}
+options.game.playerindicatorsinmultiplayer,Show Player Indicators in Multiplayer
+properties.mushroomfarm.speedbuff,Posílení pohybu: {}
+level.tutorial.drillbot.carry,"Vezmi Vrtáčka z nádrže a umísti ho do dolu, kde by měl kopat."
+modding.modio.decline,Decline
+assignment.inversegravity.desc,Planeta má převrácenou gravitaci.
+level.tutorial.drop.popup_2,Stiskem | jednu pustíš. Podržením jich pustíš víc.
+upgrades.droneyardbattlegridquick1.desc,Vypouští více dronů rychleji po sobě.
+upgrades.mushroomfarmautopickup.desc,"Budete automatiky sbírat posilovací houby, které budou dostatečně blízko."
+level.tutorial.drop.popup_1,Nesené suroviny tě zpomalují.
+properties.sword.retractspeed,Rychlost přitažení: {} 
+reward.rewardkeeper1skin5.title,Vzhled technika
+upgrades.keeper4.desc,"Strážce ovládající málo známé umění ovládání skřítoček, který se pohybuje v dolech pomocí chapadel."
+assignment.condition.deliverwater,Dodat %d vody
+loadout.difficulty.hard.description,Je to koneckonců tvůj dóm.
+upgrades.keeper4speed2.title,Rychlost pohybu 2
+loadout.versusmod.versusmodifierhardrock.desc,Mapa má více tvrdších kamenů.
+properties.furnace.maxironstack,Maximální zásoba železa: {}
+upgrades.rocketlauncherdamage2.desc,Ještě více zlepší rakety.
+upgrades.artilleryrotation1.desc,Umožňuje minometu se pohybovat ve větším náklonu.
+level.furnace.popup.fuel.add,Doplňte 1|do zásoby.
+reward.rewardpostrunshowmonstercount.desc,"Zobrazí dodatečné informace o bitvě po skončení hry, například množství obdrženého poškození od každého typu monstra."
+upgrades.extractordoublebuild.title,Dva červi
+multiplayer.error.otherteamquit,"Hra byla ukončena, protože všichni hráči opustili druhý tým. Vaše hra byla uložena a můžete pokračovat výběrem hry pro více hráčů z nabídky pokračovat."
+upgrades.blastminingproductiontime1.title,Výrobní doba
+upgrades.chainsawdamage3.desc,"Navýší množství poškození, které kotoučová pila uděluje monstrům."
+multiplayer.continue.deviceselection.originalplayer,Původní hráč
+upgrades.shieldbattleinvulnerable.desc,"Spusť aktivní bojovou schopnost, díky které bude tvůj dóm na krátkou chvíli nezranitelný."
+level.gameover.unlock.drillbert,Odemknul se Vrtáčkový modifikátor!
+multiplayer.host.splitscreen.desc.ps5,Zmáčkněte tlačítka herního ovladače během příprav pro založení nové herní postavy. Až čtyři hráči mohou hrát na jedné obrazovce. Lze kombinovat s online hrou.
+loadout.mapsize.large,Větší
+level.furnace.popup.explanation,Dodejte suroviny do zásoby. Suroviny v zásobě budou užity jedna po druhé.
+upgrades.liftcapacity1.title,Kapacita
+upgrades.shockwavebig.title,Smrtonosná vlna
+upgrades.extractorresources2.desc,"Vyšlechtěte červy, co vytáhnou z ložisek každý kousek železa, co jen mohou."
+level.tutorial.ninja.shuriken.desc1,Dvojtým zmáčknutím| vrhnete šuriken.
+level.tutorial.ninja.shuriken.desc2,Šuriken se doplňuje v průběhu času.
+upgrades.droneyarddronespeed1.title,Rychlejší droni
+upgrades.stunlaserarea.title,Plošné omráčení
+assignment.weakmining.title,Problém s těžbou
+options.game.events.allowtelemetry.ps5,Příjmout smlouvu
+upgrades.keeper3kunaibounce2.desc,Increase the range of tiles revealed with each bounce.
+assignment.projectilehell.title,Projektilové peklo
+options.input.controls.mouse.gamepad.ps5,Přepnutí na ovladač a zpět je rozpoznáno automaticky
+reward.rewardpermanenthealthmeter.title,Trvalý ukazatel stavu
+properties.game.fixedtimelimit,Časový limit: {} minut
+upgrades.drillbot.title,Vrtáček
+options.video.performance,Výkonnost
+properties.furnace.waterduration,Doba odpařování vody (v cyklech): {}
+level.gameover.win.team.profile,Profil
+upgrades.droneyardbattlegrid.title,Bojová soustava
+loadout.prestige.countdown.description,Násobič prestiže začíná na vysoké hodnotě a s každým cyklem se snižuje.
+level.tutorial.ninja.carry.desc1,Hit| to throw a kunai carrying resources in the direction you are aiming with your %s.
+level.gameover.miner.title,TĚŽEBNÍ HRA SKONČILA
+loadout.mapsize.medium.description,Průměrně velká mapa pro pořádnou těžbu.
+upgrades.assignmentsemergencycontribution2.desc,"Zašlete tuto zásilku než skončí čtvrtá vlna, jinak selžete v této úloze."
+level.gameover.unlocknewelementbutton,Vyzvedni si odemčený předmět
+upgrades.repellentbattlestrongerslowdown1.desc,Mlha zpomalí příšery ještě víc a vydrží déle.
+upgrades.orchardovercharge2.desc,Zvýší účinek nabití na bojových schopnostech.
+modding.steamworkshop,Otevřít Steam Workshop
+upgrades.drillbotstrength2.title,Síla 2
+reward.rewardkeeper1skin5.desc,Odemkne nový vzhled pro technika.
+options.keybindings.rebinding.error.gamepad.ps5,Nelze nastavit jako vstup bezdrátového ovladače.
+properties.keeper2.actioncooldown,Doba dobíjení schopnosti: {} s
+pause.godot,Vyrobeno díky Godot
+loadout.mode.nomonsters,Žádná monstera
+properties.teleporter.teleportduration,Rychlost teleportu: {} s.
+level.paused,Pozastaveno
+upgrades.teslaautoaim.desc,Zaměřovač se bude moci ve své blízkosti automaticky zaměřit na nejbližší monstrum.
+upgrades.domearmorpulse.desc,"Pancíř uchovává část kinetické energie z příchozích útoku, kterou nakonec vypustí v podobě pulzu. Tento pulz omráčí blízké nepřátele."
+upgrades.teslapower2.title,Síla výstřelu 2
+modding.close,Zavřít
+upgrades.stunlaserduration2.desc,Omračovací laser se přebíjí ještě rychleji a má prodlouženou dobu střelby.
+level.station.battle.navbar.move,Pohyb
+upgrades.repellentbattleslowdown.title,Ochromení
+properties.drillbot.buffstrength,Zrychlení po získání energie: {.percent}
+options.input.controls.keybindings.button.switch,Změnit přiřazení tlačítek
+upgrades.keeper4speed1.title,Rychlost pohybu 1
+upgrades.stunlaserduration2.title,Palebná výdrž 2
+modding.profile.delete,Smazat profil
+upgrades.dome1health1.desc,Permanentně zvýší strukturální zdraví tvého dómu.
+assignment.logistics.title,Logistická noční můra
+level.gameover.prestige.score.finalscore,Vaše finální skóre je...
+upgrades.prestige.desc,"Získávej body tím, že pošleš domů co možná nejvíc surovin, než tvůj dóm padne nebo než bezpečně opustíš planetu."
+properties.chainsaw.damage,Poškození za sekundu: {}
+upgrades.autocannonshotgun2.desc,Zvýší sílu brokovnice.
+reward.rewardthreechoicesgadget.title,Nabídka tří zařízení
+options.input.gamepad.twinstick,Dvoupáčkové ovládání
+upgrades.domewavewarner.title,Adaptivní Varování před Vlnami
+upgrades.mushroomfarmdrill2.desc,Vylepší těžební posílení získané po konzumaci hub.
+properties.suitblaster.chargespeed,Počet náloží na cyklus: {}
+loadout.player.color,Barva strážce
+level.assignment.badges.unlock,Získejte dalších %d od odznaků pro odemknutí.
+assignment.projectilehell.desc,"Tahle planeta je zamořená poletujícími, projektily vrhajícími monstry."
+properties.repellent.overchargebattleabilityduration,Dodatečná délka schopností: {.percent}
+properties.orchard.battleshieldhp,Výdrž: {} zdraví
+properties.keeper2.reflectsphere,Odrazné pole
+upgrades.probecharges.desc,Dodá sondě další pulz.
+upgrades.resourcepackerconstant.title,Mistrovské svazování
+upgrades.droneyardbattlegridlong2.desc,"Vypustí mnohem více dronů, kteří vydrží být kolem po hodně dlouhou dobu."
+upgrades.swordreflection2.desc,Ještě větší záštita.
+upgrades.orchardovercharge3.title,Silné nabití
+upgrades.assignmentsemergencycontribution4.desc,"Zašlete tuto zásilku než skončí jedenáctá vlna, jinak selžete v této úloze."
+upgrades.droneyardovercharge3.title,Rozsáhlé nabití
+level.gameover.assignment.lose.title,ÚLOHA NESPLNĚNA
+actionhint.pack,Svázat
+upgrades.stationextensionminimap.title,Mapování
+properties.tesla.orbdamage,Poškození elektrickými koulemi: {}
+properties.furnace.maxwaterstack,Maximální zásoba vody: {}
+loadout.versusmod.versusmodifiermirroredmap,Shodné mapy
+upgrades.artilleryrotation1.title,Větší náklon
+upgrades.drillsidespeed2.desc,Navýší výkonnost postranních vrtáků.
+level.tutorial.resourcepacker.popup_1,"Když jste blízko surovin, zmáčkněte | pro utvoření kompaktního svazku surovin, který se lépe přepravuje."
+properties.orchard.overchargeabilityuses,Dodatečné použití schopností: {}
+options.input.controls.gamepadusage.ps5,Využití ovladače
+options.keybindings.restoredefault,Obnovit výchozí
+options.input.gamepad.ps5,Ovladač
+upgrades.stationextensionresolution.title,Obraz s vysokým rozlišením
+upgrades.shieldbattlelongerafterdepletion.title,Bonus za vyčerpání
+telemetry.manage.ps5,Odmítnout smlouvu
+level.gameover.stats.damagereceived,Poškození obdrženo
+modding.modio.moddownloadfailed,Error downloading mod.io mod!
+loadout.versusmod.versusmodifierironinflation,Inflace železa
+reward.rewardpermanentwavecount.title,Trvalé počítadlo cyklů
+upgrades.jetpackstrength1.desc,"Vylepší jetpack, aby unesl více surovin."
+level.gameover.unlock.gadget,Nové zařízení
+upgrades.stationextension.desc,Získejte mobilní stanici pohybující se samostatně po kolejnici v podzemí. Stanice umožňuje dálkové ovládání obranných zařízení.
+loadout.versusmod.versusmodifierpoorirondeposits.desc,"Ložiska železa jsou velká, ale mají menší výnosy."
+upgrades.repellentbattlestrongerslowdown2.title,Silná stagnace
+upgrades.converterirontocobalt.desc,Umožňuje konvertovat kobalt na železo a naopak.
+loadout.dome,DÓM
+upgrades.orchardduration3.title,Délka účinku 3
+level.gameover.stats.resourcesmined,Vytěžené suroviny
+options.input.gamepad.thumbstick,Thumbstick
+upgrades.keeper1powerdrill.desc,"Získejte vysokovýkonný vrták, který se dokáže snadno provrtat nejtvrdšími horninami. Dokáže se i provrtat dříve neprorazitelným skalním podložím!"
+upgrades.domesecondweapon.title,Weaponize Second Station
+actionhint.fire,Vystřelit
+versus.corruptionfastprojectiles.title,Rychlé projektily
+level.gameover.unlock.dome,Nový dóm
+loadout.versus.modifiers.limit,%d z %d modifikátorů vybráno.
+upgrades.swordstabfast2.title,Rychlé bodnutí 2
+properties.blastmining.growthtime,Doba výroby (v cyklech): {}
+options.keybindings.rebinding.inputprocessor.ps5,Stiskněte nové tlačítko pro tuto akci…
+level.gameover.stats.difficulty,Obtížnost
+assignment.inversegravity.title,Vzhůru nohama
+assignment.acidrain.desc,Kyselé deště zabraňují existenci jakéhokoliv života na této planetě. Dokonce se zvládne prožírat pláštěm dómu!
+upgrades.keeper4doublesquad.desc,Získejte další četu připravenou na váš povel.
+upgrades.keeper4powerfulfirstpunch.desc,První úder do bloku bude mít nadměrnou sílu.
+multiplayer.host.start,Založit hru
+upgrades.mushroomfarmspeed2.title,Posílení pohybu 2
+demo.end.more1,Další dómy!
+demo.end.more2,Znalce jako dalšího strážce!
+upgrades.swordreflection1.desc,"Zvýší velikost záštity, která navíc odráží energetické projektily."
+demo.end.more3,Mnoho dalších zařízení!
+upgrades.chainsawspeed1.title,Rychlost pohybu
+assignment.treefarm.desc,"Tato planeta má málo surovin, ale zato má hodně surovinových stromů."
+demo.end.more4,Silné doplňky!
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"Nastavte hodnotu tak, aby se ukazatel nechvěl, když se páček pouze dotknete a nebudete na ně tlačit.
+Pokud na páčku zatlačíte, ukazatel by se měl chvět při pohybu páčky."
+actionhint.probe,Sonda
+level.gameover.keepgadget.keeping,"Zařízení, které si ponecháš: {gadget}"
+upgrades.keeper3aerialmastery.desc,Získáte zvýšené ovládání volného pádu. Navíc každý další skok ve vzduchu vás vymrští výše než ten předchozí.
+upgrades.drillbot.desc,"Adoptuj rozkošného tvora, který rád kope. Dones ho do dolu a nech ho na místě, kde chceš, aby pracoval. Když v práci usne, zaleť za ním a probuď ho."
+upgrades.laserstrength4.title,Výkon 4
+upgrades.artillerydoublemachinegun.title,Dvojtá hlaveň
+upgrades.laserbend.desc,"Nainstaluje na laser otočnou hlavici, která automaticky opraví zaměření, pokud se přiblíží k cíli."
+upgrades.teslaquickshot2.title,Nabité rychlé výstřely
+properties.droneyard.battledronespawntime,Doba vypuštění: {}s
+upgrades.prospectionmetersand2.desc,Zobrazuje směr k nejbližším nalezištím kobaltu.
+upgrades.keeper2pinballreflect2.title,Zlepšené odrážení
+loadout.secondstage.start,Začít misi
+level.tutorial.extractor.popup_1,"Vezměte železomilné červy ze stanice do šachty, a pusťte je v blízkosti ložiska železa. Ti se k němu přichytí a efektivně z něj vytěží železo v průběhu času."
+upgrades.spirestuntrap2.desc,Zlepší efektivitu pastí pro zachycení většího množství projektilů.
+loadout.versus.condition.deathmatch.desc,"Tým, který přežije nejdéle, vyhrává."
+loadout.versusmod.versusmodifiertoughstart.desc,Vlny monster začínají silněji než běžně.
+level.tutorial.drillingrig.popup2,"Když jste v blízkosti postranních vrtáků, můžete podržet tlačítko | pro jejich přemístění."
+level.tutorial.drillbot.sleeping2.switch,"When close to Drillbert, press | to wake it."
+upgrades.teleporterteleportitems.title,Teleportace předmětů
+level.tutorial.drillingrig.popup1,Vaše vrtná souprava má postranní vrtáky pro horizontální těžbu.
+level.tutorial.ninja.drop.desc1,Hit| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.stationextension.title,Podzemní stanice
+upgrades.keeper2pinballreflect2.desc,Koule obdrží při odrazu silnější posílení.
+properties.sword.stabrange,Dosah: {} 
+pause.disconnect.popup.ps5,Nemůžete odejít s hlavním bezdrátovým ovladačem.
+options.game.systemcursor,Použít výchozí kurzor
+upgrades.artillerygrenadefastreload.desc,Výrazně sníží dobu nabíjení minometu.
+upgrades.stationextensionrevealdistance1.title,Skenování blízkého kamene
+loadout.mode.secondweapon,Second Weapon Unlocked
+options.video.reducedparticles,Snížení částicových efektů
+properties.monsters.finalwavefixedstrength,Síla poslední vlny: {}
+versus.corruptionfastmonsters.desc,Monstra budou natrvalo rychlejší.
+upgrades.spirestuntrap1.desc,"Sestřelení projektilu způsobí vytvoření energetické pasti, která zachytí další projektily. Kolik toho je past schopna zachytit se odvíjí od destrukčního potenciálu sestřeleného projektilu."
+versus.corruptionfastprojectiles.desc,Projektily monster poletí o dost rychleji.
+options.input.gamepad.twinstick.switch,Twin-Stick Controls (Disabled for single Joy-Con)
+upgrades.autocannonrateoffire2.title,Samopal 2
+upgrades.chainsaw.title,Kotoučová pila
+options.input.vibration.strength,Síla vibrací
+savegame.corrupted.title,Poškozený uložený soubor
+properties.drillbot.drillstrength,Síla vrtáku: {}
+properties.prestige.multiplier,Násobič prestiže za vlnu: {}
+upgrades.artillerysplash4.desc,Přináší devastaci napříč bitevním polem střelbou čtyř po sobě jdoucích vysoce výbušných střel.
+upgrades.condenserdoublestorage.desc,"Kondenzátor bude produkovat a ukládat dvě jednotky vody, než přestane pracovat."
+upgrades.shieldbattleactivateondepletion.desc,"Nezranitelnost se automaticky aktivuje ještě jednou poté, co se štít vyčerpá."
+upgrades.chainsawspeed1.desc,Pohyb kotoučové pily ze strany na stranu bude urychlen.
+upgrades.teleporterteleportduration2.title,Rychlost teleportu 2
+properties.orchard.overchargeabilitystrength,Dodatečná síla schopností: {.percent}
+modding.modio.loginfailed,Login to mod.io with Xbox account failed!
+upgrades.rocketlauncherrockets3.title,Zásoba 3
+leaderboard.needsOnlineServices,Žebříčky vyžadují povolení online služeb.
+options.game.blocklist,Blocked User List
+upgrades.keeper4squad2.desc,Zvýší počet skřítoček v četě spolu s jejich výdrží.
+reward.rewardweaponsupplements.desc,Objevte velmi silná doplňková vylepšení pro vaše zbraně.
+upgrades.domesupplementadditionalcellar.desc,"Přidá dodatečné patro sklepení, poskytující prostor pro další 2 zařízení."
+level.tutorial.assessor.bundle.desc1.switch,Press|while carrying resources to shoot a bundle.
+loadout.difficult.harder,obtížnější
+playerlist.close,Zavřít
+upgrades.keeper3rocketcarrier.title,Raketový nosný nůž
+level.tutorial.assessor.spheres.desc1.aiming,Hit| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+level.gameover.unlock.gamemode,Nový herní režim
+upgrades.rocketlauncherrockets1.title,Zásoba 1
+upgrades.autocannonspeed1.title,Urychlení
+upgrades.spiresustain.desc,Drasticky sníží dobu přebíjení pro dlouhodobě efektivní obranu před projektily.
+upgrades.extractorresources1.title,Pečliví červi
+multiplayer.host.splitscreen.desc.switch,Zmáčkněte tlačítka herního ovladače během příprav pro založení nové herní postavy. Až čtyři hráči mohou hrát na jedné obrazovce. Lze kombinovat s online hrou.
+level.assignment.badges,Odznaky
+upgrades.prestigefinish.title,Opustit planetu
+properties.sword.slicebounceback,Meč se odráží od země
+properties.droneyard.transportdronecount,Nákladní drony: {}
+upgrades.drilladditionalsides.title,Dodatečné postranní vrtáky
+upgrades.shieldbattleblastdamage.desc,Zvýší poškození elektrickéhým výbojem a počet jeho užití.
+upgrades.extractordestruction.title,Zhroucení ložisek
+properties.sword.electricdamage,Poškození elektrifikovanou čepelí: {}
+properties.mushroomfarm.growthtime,Doba růstu (v cyklech): {}
+upgrades.keeper3carrylimit1.desc,"Zvýší počet surovin, který je schopen nosný vrhací nůž unést."
+options.accessibility.fontsize,Font Size
+upgrades.keeper4punch2.title,Běsnění 2
+upgrades.laser.desc,"Přesný laser, který se pohybuje kolem dómu. Původně byl navržen pro těžbu na asteroidech."
+loadout.hint.multiplayer.playermaximum,K zahájení hry více hráčů potřebuješ 8 a méně hráčů.
+upgrades.drillsides.title,Postranní vrták
+upgrades.mushroomfarmautopickup.title,Jednohoubky
+options.input.controls.mouseusage,Nastavení myši
+properties.tesla.reticlemaxspeed,Rychlost zaměřovače: {}
+upgrades.swordstabshoot.desc,"Než aby se meč stáhl pomocí kabelu, vystřelí se z dómu jako oštěp."
+properties.condenser.autocollect,Automatický sběr
+level.gameover.back,Zpět
+loadout.mapsize.small,Menší
+loadout.hint.gamemode,Vyberte si herní režim!
+upgrades.swordlargeblade3.title,Těžká čepel 3
+level.tutorial.ninja.controls,Tento strážce je hratelný pouze s ovladačem nebo s klávesnicí a myší.
+telemetry.explanation.ps5,"Příjměte naši licenční smlouvu s koncovým uživatelem pro zpřístupnění online hry pro více hráčů.
+Když jí nepříjmete, budete stále moci hrát místní hru pro více hráčů v režimu rozdělené obrazovky.
+
+Volbu můžete kdykoliv změnit v nastavení."
+multiplayer.techtree.keeperexclusiveupgrades,Tato vylepšení se vztahují pouze na vašeho strážce.
+assignment.heavyhitters.desc,Na této planetě se to jen hemží monstry bojujícími z blízka.
+options.input.controls.mouse.domes,Použít myš pro Dómy
+loadout.mode.toughstart, Tough Start
+upgrades.swordaimline.desc,Přidá laserový zaměřovač pro bodání mečem.
+upgrades.assignmentssendiron.title,Dodat železo
+upgrades.domearmormelee1.title,Protinárazový pancíř 1
+assignment.showdown.title,Velké utkání
+upgrades.keeper3shuriken1.desc,"Získáte šuriken, který při dopadu utvoří malý výbuch. Automaticky se doplňuje v průběhu času."
+upgrades.teslatiming1.title,Načasování
+upgrades.proberange1.title,Větší dosah
+loadout.prestige.pro.gadgetorder,Pořadí zařízení
+upgrades.prospectionmeterwater1.title,Ukazatel vody
+properties.teleporter.teleportresources,Teleportace surovin
+options.video.stretchmode.scaled.text,"Vykresluje hru v pevném rozlišení a škáluje ji podle vašeho rozlišení.
+Můžou být patrné pixely, zejména v písmech, ale neobjevují se vizuální chyby."
+loadout.abort,Zrušit
+level.station.battle.navbar.stab,Bodnutí
+properties.keeper3.bouncesonarrange,Dosah sonarového efektu (v blocích): {}
+assignment.cobaltcontribution.title,Příspěvky kobaltu
+upgrades.keeper2pinballsplit.desc,"Rozpůlí příchozí kinetické koule, přičemž je pošle opačnými směry kolmo vůči jejich původní trajektorii."
+options.input.gamepad.switch,Ovladač
+upgrades.stunlaserduration1.desc,Omračovací laser se přebíjí rychleji a střílí déle.
+properties.spire.stuntrapduration,Doba trvání: {} s
+loadout.mapsize.medium,Střední
+upgrades.keeper4swiftpunch.title,Svižné údery
+upgrades.domewavecount.title,Počítadlo cyklů
+level.gadgetchoice.slot,Slot: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,"Vezměte houbové spóry do dolů, a pusťte je na kámen. Jednou za čas z kamenů s podhoubím vyroste posilovací houba."
+options.game.languages,Jazyky
+upgrades.autocannonshotgun2.title,Brokovnice 2
+upgrades.drillbotturnaround.title,Pokročilá výchova
+level.tutorial.overcharge.popup_2,"Přibližte se, a zmáčkněte | pro nabití."
+level.tutorial.overcharge.popup_3,Zpotřebuje to 1 | a může být nabito pouze pokud na to budete mít.
+level.tutorial.overcharge.popup_1,"Nyní můžete nabít své primární zařízení, čímž posílíte schopnosti zařízení do další bitvy."
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,Namísto využívání zdviží k přepravě surovin bude výtah využívat převrácené gravitační pole ke stálé přepravě surovin. Část surovin utracených za zdvižích se navrátí zpět.
+level.station.navbar.battle,Boj
+options.keybindings.rebinding.error.mouse,Nelze nastavit jako vstup myši.
+options.input.gamepad.autoswitch,Automatická detekce preferovaného ovladače
+properties.lift.keeperupwardsspeed,Rychlost osobního výtahu: {}
+loadout.keeper,STRÁŽCE
+level.gameover.unlock.keeper,Nový strážce
+options.keybindings.rebinding.inputprocessor,Stiskněte novou klavesu pro tuto akci …
+options.input.gamepad.xbox,Ovladač
+upgrades.keeper4extraresource.title,Pečlivé skřítočky
+upgrades.shieldoverchargestrength2.title,Síla nabitého štítu 2
+loadout.mode.domesupplements,Třikrát více doplňků
+upgrades.converter.desc,Dokáže konvertovat suroviny a pomoct ti tak vyvažovat inventář.
+assignment.minorvision.title,Temnota
+upgrades.shieldstrength1.desc,"Zvýší množství poškození, které štít dómu dokáže absorbovat."
+properties.stationextension.tilerevealdistance,Dosah skenování (v polích): {}
+loadout.mode.toughstart.desc,Start with stronger waves.
+upgrades.liftcarrykeeper1.desc,"Výtah tě zrychlí, když se v něm budeš pohybovat."
+options.input.controls.mouse.aim,Použít myš pro míření
+upgrades.spireprojectileslowdown.desc,Věž budě neustále zpomalovat nepřátelské projektily.
+assignment.chosen.title,Vaše klanové úlohy
+upgrades.furnacestrongwaterfiring.desc,Zvýší efektivitu odpařování vody pro větší oddálení příchodu monster.
+properties.dome.healthfractionrepair,Opraví {.percent} celkového zdraví
+level.tutorial.assessor.carry,Sebrání gravitací
+upgrades.laserhitprojectiles.title,Rozpouštění projektilů
+upgrades.teslaorbstun.title,Hluboký dopad
+reward.rewardgadgetsupplements.title,Doplňky zařízení
+options.input.controls.keepersettings.individual,Nastavení jednotlivých strážců
+upgrades.teslapower2.desc,Vylepší sílu výstřelu.
+properties.acidrain.fixeddamageperminute,Poškození za minutu: {}
+demo.end.more,A mnoho dalšího:
+landing.proceed,Stiskni cokoliv a pokračuj
+modding.modio.ugcterms.content2,"By continuing, your Xbox Live identifier will be used to seamlessly authenticate you with mod.io. To proceed, you must read and agree to the mod.io policies:"
+upgrades.keeper4catgoblinamount.title,Rozšíření smečky
+modding.modio.ugcterms.content3,[i]These conditions will open in your system's default web browser.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,Stagnace
+properties.spire.splitshot,Rozštěpení projektilů
+upgrades.suitblasterradius2.title,Rozsah 2
+properties.keeper4.punchstrength,Síla úderu: {}
+modding.modio.ugcterms.content1,"To access, download, and manage user-generated content (UGC), this game uses the [b]mod.io[/b] service."
+upgrades.versus.title,Souboj
+upgrades.swordstabexplode.title,Výbušné bodnutí
+modding.modlist.title,Povolit mody
+options.game.kunaisnapping,Přichytit míření vrhacích nožů na kardinální směry
+loadout.versusmod.versusmodifiersecondweapon,Second Weapon Unlocked
+upgrades.teleporterteleportduration1.desc,Osobní teleport trvá kratší dobu.
+options.input.controls.keybindings.button,Změnit přiřazení kláves
+upgrades.domearmor.title,Pancíř
+options.input.gamepad.gamepadstickdeadzone.text,"Nastav hodnotu tak, aby se ukazatel nechvěl, když se páček pouze dotkneš a nebudeš na ně tlačit.
+Pokud na páčku zatlačíš, ukazatel by se měl chvět při pohybu páčky."
+options.translation.community.desc,"Tyto jazyky jsou přeloženy naší skvělou komunitou. Přidejte se k nim, chcete-li!"
+level.tutorial.beastmaster.mine,Těžba
+upgrades.keeper4speed1.desc,Zvýší rychlost pohybu.
+properties.shield.overchargebattleabilityduration,Dodatečná délka schopností: {.percent}
+upgrades.shockwavedamage2.desc,"Znovu zvýší míru poškození, které rázové vlny dělají."
+network.error.offline.xbox,Připojení k síti Xbox bylo ztraceno. Zkontrolujte prosím připojení k internetu a zkuste to znovu.
+properties.condenser.waterstorage,Kapacita skladiště vody: {}
+loadout.versusmod.versusmodifierstrongmonsters.desc,Zabití monster je náročnější.
+title.navbar.modding,Mody
+upgrades.dome3.desc,Vojenský dóm schopný způsobit devastaci pomocí nesmírně účinného minometu. Pro zajištění plné obranyschopnosti je také vybaven protivzdušným dělem.
+upgrades.keeper4powerfulfirstpunch.title,První úder
+properties.sword.brake,Obratnost meče: {}
+level.tutorial.suitblaster.popup_1,"Stisknutím | odpálí váš oblek nálož, která zničí okolní kameny."
+properties.stunlaser.firetime,Doba střelby: {} s.
+level.tutorial.suitblaster.popup_2,Oblek průběžně připravuje nové nálože.
+properties.droneyard.battleabilityuses,Použití za bitvu: {}
+upgrades.keeper4ramping1.desc,"Nepřetržitou těžbou budete nabírat rychlost těžby. O tuto rychlost příjdete, když přestanete těžit."
+level.gameover.unlockpicker.title,VYZVEDNI SI ODEMČENÝ PŘEDMĚT
+options.input.gamepad.autoswitch.ps5,Automatická detekce preferovaného ovladače
+upgrades.suitblaster.desc,Dá strážci výbušný oblek určený k odpalování okolních kamenů.
+upgrades.spiresplit1.desc,"Sestřelené projektily se rozštěpí na několik šrapnelů, které mohou způsobit poškození nepřátelům. Na kolik šrapnelů se sestřelený projektil rozštěpí se odvíjí od jeho destrukčního potenciálu."
+properties.versus.additivewave,Zvýšení síly vln (protivníkův tým): {}
+properties.keeper3.aircontrol,{.percent} kontrola pádu
+multiplayer.error.keepertaken,Vybraného strážce již někdo používá. Zkus jiného.
+assignment.mode.challenge,Náročná
+upgrades.keeper3shurikenstrength1.desc,"Zvýší výbušnost šurikenu, čímž zvýší rozsah jeho výbuchu."
+pause.invite,Pozvat přítele
+options.accessibility.fontsize.medium,Střední
+upgrades.keeper2pinballdestroyadjacenttiles.desc,"Když kinetická koule zničí blok kamene, bloky na stranách zničeného kamene kolmých vůči straně dopadu, budou taktéž zničeny."
+upgrades.furnaceironfiring.title,Pálení železa
+upgrades.furnaceslowdown.desc,"Dodá do dýmu toxickou součást napadající nervový systém monster, což vede k jejich zpomalení pohybu během boje."
+upgrades.swordlargeblade2.desc,"Nainstaluje masivní čepel. Je pomalejší, ale působí těžké poškození."
+upgrades.blastminingblast1.desc,Zvyšuje sílu výbuchu.
+upgrades.stationextensionrevealdistance1.desc,Kameny a ložiska v blízkosti stanice budou odhaleny.
+leaderboard.season,Sezóna: {season}
+multiplayer.host.crossplay.enabled,Crossplay povolen
+multiplayer.techtree.keepersharedupgrades,"Tato vylepšení jsou sdílená s ostatními strážci, co vlastní toto zařízení."
+loadout.versusmod.versusmodifierlongcycles.desc,Doba mezi vlnami monster je prodloužena.
+upgrades.artillerydirecthit2.title,Ničitel monster 2
+upgrades.stationextensionresolution.desc,Získejte lepší přehled o okolí vašeho dómu.
+options.keybindings.action.general.use,Použít
+loadout.relichunt.modifiers,Herní modifikátory
+assignment.heavyhitters.title,Udělovači ran
+upgrades.furnacelastingwaterfiring.title,Dlouhodobé odpařování vody
+properties.shield.battleblastdamage,Poškození výbojem za sekundu: {}
+multiplayer.error.timeout,Připojení vypršelo.
+multiplayer.join.discovering,Hledání relací...
+properties.condenser.growthtime,Doba výroby (v cyklech): {}
+level.gameover.assignment.badges,Získali jste odznak k útratě na odměny Klanu Strážců.
+upgrades.drill1.desc,"Posílí vrták, aby vrtal rychleji."
+level.corruptionchoice.title,VYBERTE ÚPRAVU!
+properties.artillery.grenadedamage,Poškození střelami: {}
+loadout.proceed,Pokračovat
+options.game.spheresnapping,Přichytit míření koulí na kardinální směry
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Byl zaznamenán pohyb:
+options.input.gamepad.icons.automatic,Automaticky
+reward.rewardkeeper4skin3.title,Vzhled krotitele
+upgrades.prestige.title,Prestiž
+upgrades.keeper3shurikenstrength1.title,Silný šuriken
+upgrades.spiresplit2.desc,Šrapnely jsou rychlejší a při rozštěpení jich vznikne více.
+upgrades.swordlargeblade1.desc,"Prodlouží a rozšíří čepel, takže způsobí vyšší poškození."
+upgrades.droneyardbattlegridlong1.title,Dlouho trvající droni
+properties.stunlaser.speed,Rychlost: {}
+upgrades.repellentbattleslowdownstun2.desc,Použije spory častěji a omráčí příšery na delší dobu.
+upgrades.drillsidespeed1.desc,Zvýší výkonnost postranních vrtáků.
+level.tutorial.ninja.bombs.desc1,Hold| to shoot kunai for mining in the direction you are aiming with your %s.
+loadout.mode.maze.desc,"Mapa má tvar bludiště s mnoha odnožemi, slepými uličkami a zákoutími."
+upgrades.domesupplementprojectiledamagereduction2.desc,Dále zlepšuje odrazné schopnosti pro větší snížení poškození projektily.
+level.tutorial.ninja.bombs.desc2,"Vrhací nože se odrazí od povrchu, když ho trefí pod nízkým úhlem."
+upgrades.domesupplementmeleedamagereduction1.desc,Vyztužte plášť dómu pro snížení poškození od útoku na blízko. Poškození způsobeno projektily je nepozměněno.
+upgrades.chainsawautonomy.title,Autonomie
+options.input.gamepad.gamepadstickdeadzone.ps5,Mrtvá zóna Joysticku
+upgrades.teslapower3.desc,Dodá výstřelu na síle.
+level.tutorial.artillery.panel1header,Minomet
+upgrades.keeper4punch3.title,Běsnění 3
+upgrades.furnaceslowdown.title,Uspávací dým
+upgrades.teslaspeed1.desc,Zaměřovač se pohybuje rychleji.
+upgrades.teslaquickshot2.desc,Rychlé výstřely jsou podstatně silnější.
+level.tutorial.repair.findcobalt,"Zkus najít kobalt. Díky němu můžeš opravovat dóm.
+Je vzácný a jeho zásoby jsou omezené."
+title.navbar.newgame,Nová hra
+options.keybindings.action.dome.battle,Boj
+upgrades.keeper2pinballsplit.title,Rozdělení koulí
+properties.keeper2.bundlecentralmarker,Označení středového sloupce
+options.keybindings.gamepad,Ovladač
+options.video.stretchmode.rezised.text,"Zobrazuje hru v přirozeném rozlišení obrazovky nebo okna.
+Obraz bude ostrý, ale mohou se objevit vizuální chyby v podobě čar o šířce 1 pixelu."
+options.audio,Zvuk
+upgrades.domehealthmeter.desc,Zobrazuje strukturální zdraví dómu.
+upgrades.shieldbattlereflectshortuses.title,Časované odražení
+loadout.zoom1,Blízké
+loadout.zoom2,Daleké
+upgrades.orchardovercharge.title,Nabitý strom
+upgrades.keeperonewayteleporter.desc,"Získejte osobní jednosměrný teleportér. Umístěte jednorázový výstup kamkoliv na mapu, a kdykoliv se k němu přemístěte."
+options.input.controls.gamepadusage.switch,Využití ovladače
+properties.orchard.battleroots,Vyrostlé kořeny na zemi: {}
+upgrades.mushroomfarm.desc,"Pěstujte houby ve svém sklepení, které se mohou zasadit v dolech , aby vám dodávaly posílení rychlosti pohybu a těžby."
+keybindings.reset.doreset.switch,Resetovat přiřazení tlačítek
+multiplayer.continue.deviceselection.cancel,Zrušit výběr
+loadout.hint.selection,Zmáčkněte|pro vybrání možnosti.
+upgrades.orchardbattleshieldsecondlayer.title,Dvojtá vrstva
+properties.artillery.grenades,Střely: {}
+upgrades.drill3.title,Síla vrtáku 3
+assignment.weakcarry.title,Logistický problém
+upgrades.shockwavestun1.title,Omráčení rázovou vlnou 1
+upgrades.domesupplementprojectiledamagereduction1.title,Odrazný povrch dómu
+properties.keeper3.maxjumps,Počet skoků: {}
+upgrades.converterefficientcobalt.desc,Zvýší efektivitu konverze mezi kobaltem a železem.
+properties.furnace.waterdelay,Oddálení vodou: {} s
+gadget.slot.keepersupplement,Doplněk strážce
+upgrades.keeper4ramping2.title,Setrvačnost 2
+upgrades.orchardduration1.title,Délka účinku 1
+upgrades.domesupplementprojectiledamagereduction2.title,Zlepšená odraznost
+loadout.pet,Mazlíček
+reward.rewarddomesupplements.desc,Objevte velmi silná doplňková vylepšení pro vaše dómy.
+properties.prestige.score,Prestiž: {}
+properties.keeper3.kunaicooldown,Doba obnovení vrhacího nože: {} s
+properties.stunlaser.stunarea,Oblast omráčení: {}
+upgrades.blastminingblast2.desc,Ještě víc zvyšuje sílu výbuchu.
+reward.rewardrerolloffers2.title,Výměna pomocí vody
+upgrades.artillerysplash1.title,Těkavé výbušniny 1
+upgrades.drillwidetunnel.title,Široká šachta
+modding.modio.ugcterms.title,User Generated Content Terms of Use
+options.input.controls.keepersettings.title,Nastavení vstupů strážce
+options.keybindings.action.keeper.gravitycollect,Posbírat
+upgrades.domearmorhealth1.desc,"Zvýší výdrž pancíře, čímž dodá dómu více strukturálního zdraví."
+reward.rewardgadgetsupplements.desc,Objevte velmi silná doplňková vylepšení pro vaše zařízení.
+properties.laser.movespeedmod,Modifikátor rychlosti pohybu: {.percent}
+upgrades.domeresourcecounters.title,Správa inventáře
+level.station.battle.navbar.shoot,Střelba
+upgrades.jetpackstrength2.desc,"Vylepší jetpack, aby unesl více surovin."
+upgrades.teslapower4.title,Síla výstřelu 4
+properties.orchard.battleabilityuses,Použití za bitvu: {}
+loadout.gadget.additional.unlock,"Jsou zařízení, které jste ještě neodemknuli. Abyste je odemknuli, najděte je nejprve ve hře, nainstalujte si je, a nakonec vyhrajte."
+properties.laser.hitprojectiles,laser zasahuje energetické projektily
+properties.keeper2.minspeed,Minimální rychlost: {.percent}
+properties.laser.dpsmod,Modifikátor poškození: {.percent}
+properties.prospectionmeter.scandelay,Aktualizační interval: {} s
+level.tutorial.artillery.panel1content2,"Čím déle budete nabíjet sílu minometu, tím dále pak střela poletí."
+level.tutorial.artillery.panel1content1,Držte|pro nabití minometu. Pro výstřel pak tlačítko pusťte.
+level.gameover.saveimages,Uložit
+assignment.mode.regular,Běžná
+upgrades.teslaautoaim.title,Automatické míření
+upgrades.orchardduration1.desc,Účinky ovoce trvají déle.
+options.title,NASTAVENÍ
+upgrades.probedetectchambers.desc,"Sonda je schopna detekovat komory na zařízení, spínače a podobně."
+upgrades.dome1.desc,Standardní těžební dóm vybavený přesným laserem.
+upgrades.repellentbattlestrongerslowdown2.desc,Mlha zpomalí příšery ještě víc a vydrží déle.
+upgrades.resourcepacker.desc,"Nainstaluje do obleku kompaktor, který po aktivaci utvoří kompaktní svazek ze surovin v blízkosti pro jejich snadnější přepravu."
+properties.keeper4.goblinextraresourcechance,{.percent} šance na získání dodatečné suroviny
+properties.orchard.speedbuff,Posílení pohybu: {}
+keybindings.reset.explanation.switch,"Vaše nastavení klávesnice bylo resetováno z důvodu nedávné aktualizace, která výrazně změnila schéma ovládání. Omlouváme se za způsobené nepříjemnosti!"
+upgrades.keeper2rotationalmining2.title,Kompresní těžba 2
+upgrades.keeper3rocketcarrier.desc,"Vyměňte obyčejné nosné vrhací nože za raketově poháněné, které poletí v přímém směru až do zabodnutí."
+properties.blastmining.damage,Poškození: {}
+options.video.renderscale,Měřítko vykreslování
+modding.profile.title,Vybrat profil
+options.keybindings.action.general.left,Vlevo
+properties.versus.multiplicativeewave,Zvýšení síly vln (protivníkův tým): {.percent}
+level.tutorial.drillbot.sleeping1,"Vrtáček po chvíli usne. Také si zdřímne, když narazí na zeď, kterou nedokáže provrtat."
+level.tutorial.drillbot.sleeping2,Jdi k němu a stiskem | ho vzbuď.
+upgrades.laserstrength4.desc,"Obrovsky ti zlepší laser, ale během střelby se bude sotva pohybovat."
+upgrades.orchardovercharge2.title,Zlepšené nabití
+level.tutorial.drillbot.sleeping3,"Když je vzhůru, stisknutím | ho převrátíš."
+modding.prestigeforbidden,S těmito mody nemůžete spustit režim Prestige.
+upgrades.laser.title,Laser
+upgrades.domesupplementelectrifiedsurface1.title,Elektrifikovaný povrch 1
+pause.quitgame,Konec hry
+upgrades.swordlargeblade3.desc,"Olbřímí čepel. Velmi silná, ale pomalá."
+upgrades.relichunt.desc,Najdi hluboko zakopanou relikvii a pošli ji zpět do svého dómu.
+properties.stunlaser.cooldown,Přebíjecí doba: {} s.
+upgrades.repellentdelay1.desc,Prodlouží zdržení příští vlny příšer.
+savegame.corrupted.desc,"Váš poslední uložený soubor je poškozený, pravděpodobně kvůli systémovému zhroucení během ukládání. Probíhá návrat k dřívěji uloženému souboru."
+multiplayer.host.online,Online
+keybindings.reset.doreset.xbox,Resetovat přiřazení tlačítek
+loadout.secondstage.cancel,Zrušit
+upgrades.keeper4catgoblindig2.title,Efektivní vykopávání
+upgrades.furnacewaterfiring.desc,Můžete odpařovat vodu pro dodatečnou dobu oddálení útoku monster.
+upgrades.shockwavedamage2.title,Poškození rázovou vlnou 2
+upgrades.proberange1.desc,Zvětší dosah pulzu.
+pause.options,Nastavení
+keeperdlc.load.missing.switch,"Cannot load save, it contains unavailable downloadable content. Please ensure 'The Lost Keepers' downloadable content is available."
+actionhint.release,Pustit
+upgrades.assignmentsemergencycontribution3.title,Nouzový příspěvek 7
+options.game.shootbundlebeforegadgets,Shoot the Resource Bundle before Gadgets
+options.video,Grafika
+upgrades.blastmining.title,Těžební nálože
+modding.modio.subscriptions,Show Mod.IO Subscriptions
+level.gameover.proceedtounlock,Odemkni si nový prvek
+upgrades.prospectionmeter.desc,Detektor ukazuje vzdálenost k nejbližším surovinám.
+properties.keeper2.spherereload,Nabíjení koule: {} s
+options.keybindings.apply,Použít
+upgrades.teslaquickshot.desc,"Po plně nabitém výstřelu budete mít připravený ještě jeden slabší rychlý výstřel, který můžete aktivovat kliknutím tlačítka pro výstřel."
+level.tutorial.tesla.panel1header,Pohybování zaměřovačem
+upgrades.tesla.title,Tesla
+properties.tesla.persistance,Životnost elektrických koulí: {} s
+upgrades.repellentbattleslowdownstun1.title,Paralýza
+upgrades.probelongmarker1.title,Paměť na značení
+modding.modio.tokenerror,Connection to token provider failed!
+upgrades.stationextensionupgrades.title,Dálková vylepšení
+upgrades.prestigewater.desc,"Zaslání vody. To navýší počet bodů prestiže, co získáte po každé vlně."
+upgrades.artillerydirecthit2.desc,Zvyšuje ničivý potenciál střel minometu.
+upgrades.mushroomfarmquickgrowth.desc,Houby ve sklepení rostou rychleji.
+network.error.notsignedin.ps5,Sign in to PlayStation™Network to access online features
+options.input.controls.keybindings.ps5,Přiřazení tlačítek
+multiplayer.error.clientcrossplaydisabled,Připojení k tomuto lobby vyžaduje povolení crossplay.
+upgrades.keeper3carrylimit2.desc,"Zvýší počet surovin, který je schopen nosný vrhací nůž unést."
+level.supplementchoice.reroll, Vyměnit
+upgrades.orchardbattlerootingexplosion.desc,Po opětovné aktivaci všechny lapené příšery vybouchnou a způsobí poškození kolem sebe.
+upgrades.rocketlauncherrestock.desc,Raketové silo bude pomalu nahrazovat odpálené rakety v průběhu boje.
+upgrades.droneyardbattlegridquick2.title,Instantní výsadek
+assignment.denseiron.title,Pevné železo
+options.input.controls.gamepadusage.xbox,Využití ovladače
+level.tutorial.ninja.bombs,Vrhací nůž
+upgrades.domearmorhealth2.desc,"Navýší výdrž pancíře, čímž dodá dómu další strukturální zdraví."
+loadout.title,Výbava
+multiplayer.continue.deviceselection.team,Tým
+properties.keeper3.kunaiweaknessagainsthardrock,{.percent} oslabení síly vrhacího nože vůči tvrdým kamenům
+level.tutorial.repellent.popup_2.switch,"When close to it, press | to activate it."
+upgrades.chainsawdamage1.desc,"Zvětší množství poškození, které kotoučová pila uděluje monstrům."
+level.tutorial.artillery.panel3content1,"Střely z minometu jsou výbušné, ale přímé zásahy udělují větší poškození. Dóm je imunní vůči vlastním útokům."
+level.gameover.unlock.regulargadget,Odemklo se nové zařízení pro úlohy!
+options.keybindings.gamepad.ps5,Ovladač
+,
+upgrades.artilleryshotstun.title,Omračující palba
+upgrades.assignments.title,Klanová úloha
+upgrades.rocketlauncherrockets3.desc,Naýší počet raket připravených k odpálení.
+level.tutorial.assessor.bundleguide.desc1,Nyní můžete navádět nepohyblivé svazky.
+level.tutorial.assessor.mining,Kompresní těžba
+level.tutorial.assessor.bundleguide.desc3,"Bude vás následovat, dokud jste v jeho blízkosti."
+level.gameover.win.team,TÝM %s VYHRÁL
+level.tutorial.assessor.bundleguide.desc2,"Zmáčkněte|, aniž byste někam mířili, pro umístění nepohyblivého svazku."
+options.video.graphicsmode.window,Okno
+upgrades.artillerymachinegun1.desc,Zlepší rychlost palby protiletecké zbraně. Taktéž jí nainstaluje laserový zaměřovač!
+upgrades.droneyardovercharge1.desc,Dočasně nabíjte depo vodou pro produkci většího množství dronů v příští bitvě.
+modding.title,MODY
+assignment.treefarm.title,Sady
+level.gameover.prestige.score.personalbest,Tvůj nový osobní rekord!
+level.gameover.unlock.world,Odemykáš nový svět!
+assignment.chosen.todo,Není vybraná úloha
+options.keybindings.action.dome.battleability1,Bojová schopnost 1
+loadout.versusmod.versusmodifierwindingmap.desc,Mapa má lehký nádech labyrintu.
+reward.rewardweaponsupplements.title,Zbraňové doplňky
+upgrades.laserstrength2.title,Výkon 2
+upgrades.keeper2movement1.desc,"Vylepšení tvého generátoru gravitace, ať jsi rychlejší."
+options.keybindings.action.dome.battleability2,Bojová schopnost 2
+upgrades.domesecondweapon.desc,Install a new weapon that is controlled by the second station located in the second cellar layer.
+upgrades.resourcepackerquickcharge.desc,Zvýší rychlost nabíjení kompaktoru.
+upgrades.laserstrength2.desc,"Výrazně ti vylepší laser, ale během střelby se bude pohybovat ještě pomaleji."
+upgrades.autocannonimproved.title,Zlepšený automatický kanón
+upgrades.keeper3kunaicooldown1.desc,Budete moci vrhat nože rychleji.
+upgrades.keeper2pinballsplit2.desc,Zlepšuje celkovou životnost rozpůlených kinetických koulí.
+upgrades.swordreflection1.title,Odražení 1
+level.tutorial.ninja.drop.desc1.switch,Press| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.suitblasterradius2.desc,Navýší rozsah výbuchu.
+options.game.dropresourcesbeforegadgets,Drop Resources before Gadgets
+options.translation.community.crowdin,Překlad hry Dome Keeper na platformě Crowdin
+loadout.hint.playerlimitprestige,"Start Run
+
+Scores are not uploaded when playing Prestige with 3+ players."
+upgrades.assignmentsemergencycontribution1.title,Nouzový příspěvek 2
+upgrades.shockwavedamage1.desc,"Zvýší míru poškození, které rázové vlny dělají."
+options.input.gamepad.autoswitch.switch,Automatická detekce preferovaného ovladače
+loadout.versusmod.versusmodifierlittlecobalt.desc,Mapa obshuje minimum nalezišť kobaltu.
+upgrades.keeper1.title,Technik
+level.furnace.popup.title,Naplňte pec
+upgrades.prospectionmeterrange2.title,Dosah 2
+pause.discord,Přidej se na náš Discord
+upgrades.lasermove1.title,Rychlost pohybu 1
+options.input.controls.mouse.gamepad.switch,Přepnutí na ovladač a zpět je rozpoznáno automaticky
+upgrades.jetpackspeed3.title,Rychlost 3
+upgrades.chainsawautonomy.desc,Kotoučová pila bude aktivně bránít dóm i během vaší nepřítomnosti.
+properties.extractor.buildcycles,Doba produkce červů (v cyklech): {}
+upgrades.stunlaserstun2.desc,"Navýší sílu omráčení laserem dostatečně na to, aby to mělo větší účinek i na nejsilnější monstra."
+upgrades.teleporter.desc,"Obousměrný teleportér, který propojuje přenosný portál se stanicí ve sklepení."
+upgrades.droneyarddrones.title,Nákladní drony
+level.tutorial.assessor.spheres.desc1.aiming.switch,Press| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+upgrades.liftspeed1.desc,Zdviže se pohybují rychleji.
+properties.prestige.provokedwavestrength,Provokace monster: {.percent}
+upgrades.artillery.desc,Kombinace velkého minometu střílejícího masivní výbušné střely a rychlopalné protiletecké zbraně.
+upgrades.shredgadgettocobalt.title,Rozdrtit na kobalt
+level.gameover.stats.distancetravelled,Uražená vzdálenost
+loadout.mode,Herní režim
+loadout.difficult.easier,jednodušší
+upgrades.domearmorhealth1.title,Výdrž pancíře 1
+options.game.playernamesinmultiplayer,Zobrazovat jména hráčů ve hře pro více hráčů
+properties.sword.slicedamage,Sečné poškození: {} 
+options.keybindings.action.general,Obecné
+upgrades.keeper4punch2.desc,Zvýší sílu úderu a maximální rychlost těžby.
+upgrades.keeper4catgoblinsleeptime.title,Kofeinové pilulky
+upgrades.condenserdoublestorage.title,Dvojnásobné skladiště
+upgrades.drillbotbuffguidance.desc,Při přenosu pamlsku se zobrazí směr k Vrtáčkovi.
+loadout.versusmod.versusmodifierscatterediron.desc,"Ložiska železa jsou malá a roztroušená, ale je jich větší počet."
+upgrades.proberange3.title,Dalekonosný pulz
+upgrades.sword.desc,"Odolný meč, který způsobí tím větší poškození, čím větším obloukem sekne kolem dómu. Můžeš ho vystřelit a probodnout tak příšery a také má záštitu, která blokuje projektily."
+properties.rocketlauncher.rockets,Rakety: {}
+keybindings.reset.explanation.xbox,"Vaše nastavení klávesnice bylo resetováno z důvodu nedávné aktualizace, která výrazně změnila schéma ovládání. Omlouváme se za způsobené nepříjemnosti!"
+upgrades.shield.desc,"Nainstaluje štít, který pohltí část poškození. Dobíjí se automaticky."
+multiplayer.error.lobbyfull,Lobby je plné.
+upgrades.keeper3kunaibounce1.title,Asistence trajektorie
+loadout.team.selection,Přidat se k %s
+level.tutorial.sworddome.slicing.desc,"Čím rychleji meč máchne, tím vyšší sečné poškození způsobí."
+properties.drill.sidetimepertile,Doba jednoho vrtu postranních vrtáků: {} s
+upgrades.suitblasterradius1.title,Rozsah 1
+upgrades.artillerygrenadefastreload.title,Rychlé nabíjení
+versus.corruptionmonsterdamage.desc,"Útoky monster jsou silnější, včetně projektilových."
+properties.dome.baserepair,Oprava: {} b.
+loadout.team,Tým %s
+options.keybindings.action.general.down,Dolů
+properties.suitblaster.radius,Rozsah výbuchu (v polích): {}
+level.tutorial.fullscreen.continue,pokračovat
+level.tutorial.suitblaster.popup_1.switch,"Press | to fire the suit blaster, destroying rock in a radius around you."
+upgrades.resourcepackercount2.title,Velikost svazků 2
+properties.sword.extendspeed,Rychlost vystřeleného meče: {} 
+upgrades.autocannondamage1.title,Těžký kalibr
+properties.sword.aimline,Předpověď míření
+options.translation.community,Dokončeno z {completion} %
+properties.spire.stuntrapabsorption,Zachytitelné poškození: {.percent}
+upgrades.keeper4speed2.desc,Navýší rychlost pohybu.
+upgrades.keeper4ramping4.title,Setrvačnost 4
+upgrades.orchard.desc,"Zasadí v dómu strom, který plodí ovoce posilující tvůj pohyb a těžební sílu."
+pause.restart.popup,"Jste si jisti, že chcete začít znovu?
+Znovu zmáčkněte pro potvrzení."
+multiplayer.error.versionmismatch,Verze tvé hry se neshoduje s verzí hostitele. Verze hostitele: {}
+assignment.condition.freegadget.plural,Dvě dodatečná zařízení ke startu
+upgrades.artillerydirecthit1.title,Ničitel monster 1
+options.input.controls.mouse,Myš
+upgrades.keeper4catgoblindig1.desc,"Skřítočky budou vykopávat suroviny z bloků, aniž by je zničily."
+reward.rewardpet11.title,Vodní jelen
+upgrades.artillerymachinegun2.title,Rychlá palba 1
+upgrades.teslaorbs.title,Elektrická koule
+properties.keeper2.spherespeed,Rychlost koulí: {}
+properties.artillery.machinegunpenetration,Průbojnost nábojů: {}
+level.station.upgrademenu.cost,Cena
+keeperdlc.load.missing,"Cannot load save, it contains unavailable dlc content. Please ensure 'The Lost Keepers' dlc is available."
+upgrades.drillbotstrength1.desc,Zvyšuje těžební sílu Vrtáčka.
+properties.resourcepacker.rechargetime,Doba nabíjení: {}
+level.converter.popup.queue.block,"Právě probíhá konverze, která skončí za tuto dobu (v sekundách): {time}"
+properties.keeper2.maxspeed,Nejvyšší rychlost: {}
+level.converter.popup.conversion.to,na
+upgrades.blastminingblast2.title,Výbuch 2
+upgrades.suitblasterspeed2.desc,Navyšuje rychlost přípravy náloží.
+options.audio.music.ost.mode.adaptive.desc,Přehrávat se budou pouze skladby náležící k vybranému strážci.
+title.navbar.updates,Aktualizace
+upgrades.orchardbattlerooting.title,Kořeny
+options.keybindings.action,Akce
+upgrades.keeper4flexible3.title,Obratnost 3
+unlock.buy.keeperdlc,Odemknutelné rozšířením „%s“
+upgrades.keeper4flexible2.desc,Zvýší sílu úderu a počáteční rychlost těžby.
+loadout.prestige.countdown,Odpočet
+assignment.weakcarry.desc,Strážcovo přepravní zařízení je poškozené. Musíte se spolehnout na ostatní zařízení.
+upgrades.liftcarrykeeper2.title,Osobní výtah 2
+upgrades.domewavecount.desc,"Nainstaluj si počitadlo, které ti ukáže, kolik vln se ti podařilo přežít."
+loadout.gadget.additional,Dodatečné zařízení
+upgrades.prestigewatermultiplier.title,Poslat vodu
+upgrades.condenser.title,Kondenzátor
+loadout.prestige.pro.supplementorder,Pořadí doplňků
+assignment.goaltype.delivery.failed,"Vaším cílem bylo doručit '{goal}', ale zasláno bylo jen {amount}."
+options.keybindings.gamepad.switch,Ovladač
+assignment.condition.duration,Zakončete hru během %d cyklů
+options.game.hideactionhint,Skrýt nápovědu vně dómu
+options.video.graphicsmode,Režim okna
+level.tutorial.assessor.carry.desc1_1.ps5,"Jakmile jsou k tobě pevně připoutané, budou tě následovat, i když pustíš tlačítko sběru."
+assignment.goaltype.relic,Získejte relikvii
+upgrades.stationextensionminimap.desc,Zobrazí minimapu dolu při vstupu do stanice. Na minimapě jsou zobrazené objevené oblasti a některé kameny hluboko pod povrchem.
+assignment.ironcontribution.title,Příspěvky železa
+properties.keeper4.speedupretention,{.percent} udržení rychlosti
+loadout.prestige.description,Zašlete suroviny z planety pro získání prestiže v Klanu Strážců.
+upgrades.keeper3.title,Infiltrátor
+properties.shield.battleactivateondepletion,Aktivace schopnosti po vyčerpání štítu
+upgrades.jetpackspeed2.title,Rychlost 2
+properties.dome.maxhealth,Počet životů: {} hp
+upgrades.drillbotstrength1.title,Síla 1
+properties.artillery.grenadereloadspeed,Rychlost nabíjení střel: {} s
+properties.tesla.perfecttimingmultiplier,Násobič poškození: {.percent}
+upgrades.orchardbattleshieldstrong.desc,Ochranné větve budou pevnější.
+loadout.difficulty.easy.description,Hra je v mnoha ohledech shovívavější.
+upgrades.drillsidespeed1.title,Rychlost vrtání 1
+loadout.prestige.miner,Horník
+upgrades.keeper4catgoblindig2.desc,Skřítočky kopou rychleji.
+upgrades.spireburst.title,Zásobníkový systém
+options.input.vibration.strength.ps5,Síla vibrací
+upgrades.swordexplosivereflection.desc,"Odražené projektily vybouchnou, když do něčeho narazí."
+level.tutorial.drillbot.handling2.switch,Press | to make it change direction while on the ground.
+loadout.mapsize.large.description,Velká mapa pro hru na víc než hodinu.
+upgrades.artillerymachinegunhoming2.desc,Bude využívat silnější rakety.
+upgrades.keeper3quadjump.title,Vícenásobný skok
+properties.artillery.grenadesexplosionradius,Rozsah výbuchu: {}
+upgrades.proberange3.desc,Navýší dosah pulzu.
+properties.drillbot.buffextraamount,Dodatečné potřebné údery vrtákem: {}
+versus.corruptionbigwave.desc,Příští vlna monster bude obrovská.
+level.tutorial.artillery.panel2content1,Držte|pro palbu z protiletecké zbraně.
+level.tutorial.artillery.panel2content2,Je výborná proti létajícím nepřátelům.
+upgrades.drillwidetunnel.desc,"Namontuje dva dodatečné centrální vrtáky, aby vytvořily širší šachtu."
+upgrades.keeper2pinballdamage4.desc,Dále zlepšuje kinetické koule.
+level.gameover.unlock.difficulty,Odemykáš novou obtížnost!
+loadout.prestige.fairness.headline,Férové soutěžení
+upgrades.prestigeprovoke.desc,Zvýšit sílu všech budoucích vln pro získání více přestiže.
+options.audio.volumes.soundvolume,Zvuky
+multiplayer.continue.deviceselection.keeper,Strážce
+upgrades.teslaspeed4.desc,Zaměřovač se pohybuje daleko rychleji.
+upgrades.artillerymachinegun2.desc,Vylepší rychlost palby protiletecké zbraně.
+properties.spire.splitadditionalprojectiles,Dodatečné šrapnely: {.percent}
+upgrades.artillery.title,Artilerie
+level.tutorial.assessor.bundle.desc1,"Zmáčkněte|, když přenášíte suroviny pro jejich poslání ve svazku."
+properties.repellent.battleabilityduration,Délka schopnosti: {} s.
+loadout.zoom,Přiblížení kamery
+level.tutorial.assessor.bundle.desc2,"Bude pokračovat v nasměrovaném letu, dokud se nerozpadne."
+options.keybindings.rebinding.inputprocessor.switch,Stiskněte nové tlačítko pro tuto akci…
+properties.converter.irontoiron,1 železo se změní na {} kusů železa
+options.cancel,Zrušit
+upgrades.keeper1powerdrill.title,Vysokovýkonný vrták
+assignment.emergency.desc,"Klan Strážců je v ohrožení a potřebuje nouzové zásilky, hned!"
+multiplayer.host.crossplay.disabled,Crossplay zakázán
+properties.upgrade.gameover,Ukončit misi
+loadout.mode.secondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+telemetry.allow,Povolit online služby
+options.accessibility.vignette,Nezobrazovat efekt ztmavnutí
+options.game.tutorials,Výuka
+properties.dome.autorepair,Automatizované opravy dómu
+upgrades.swordreflection3.title,Odražení 3
+upgrades.drillsidepull.desc,Vytěžené suroviny se budou pohybovat podél postranních vrtáků ke středu.
+upgrades.keeper2movement4.title,Plný tah
+upgrades.shockwavestun2.desc,"Znovu zvýší míru omráčení, které rázové vlny způsobují."
+assignment.condition.freegadget.singular,Jedno dodatečné zařízení ke startu
+title.message.close,Zavřít
+reward.rewardfreerolls2.title,Dodatečná výměna zdarma
+upgrades.orchardbattleshieldstrong.title,Pevné větve
+upgrades.spirecapacity.title,Kapacita
+upgrades.keeper2.title,Znalec
+upgrades.keeper2movement2.title,Gravitační pohyb 2
+upgrades.furnacestrongironfiring.desc,Zvýší efektivitu pálení železa pro větší oddálení příchodu monster.
+upgrades.keeper2pinballdamage3.title,Kinetické koule 3
+upgrades.autocannondamage1.desc,Zvětší náboje pro navýšení poškození.
+loadout.versusmod.versusmodifiermanycaverns.desc,Mapa má mnoho přirozených jeskyní.
+options.game.other,Ostatní
+upgrades.drillsidespeed2.title,Rychlost vrtání 2
+upgrades.mushroomfarmdrill1.desc,Zlepší těžební posílení získané po konzumaci hub.
+properties.artillery.rotationspeed,Rychlost pohybu: {}
+upgrades.keeper4flexible1.desc,Flexibilní styl těžby začínající na středních rychlostech za cenu nízké maximalní rychlosti.
+title.navbar.credits.close,Zavřít
+level.furnace.popup.fuel.stack,Aktuální zásoba:
+upgrades.shieldstrength3.title,Síla 3
+upgrades.domesupplementresurrection2.title,Ještě jedna šance
+upgrades.artilleryprojectileerasure.desc,Výbuchy střel z minometu zničí všechny projektily nacházející se v dosahu.
+level.gameover.assignment.completed,Gratulujeme! Úspěšně jste splnili úlohu. Klan Strážců oceňuje vaši snahu.
+properties.tesla.radius,Rozsah výstřelu: {}
+properties.keeper2.bundlespeed,Rychlost svazku: {}
+keybindings.reset.show,Nejprve se na to podívám
+options.input.controls.gamepadusage,Nastavení ovladače
+assignment.maze.title,Bludiště
+upgrades.blastminingstickycharge.desc,"Nálože se přisajou k první stěně, které se dotknou, a namísto kruhového výbuchu vytvoří tunel."
+properties.prestige.baseperwave,Základní prestiž za vlnu: {}
+level.gameover.mineview,Ukázat důl
+unlock.mapsize.medium,Vyhrajte na malé mapě pro odemknutí.
+upgrades.teslanurture.desc,Posilte existující elektrickou kouli opětovným výstřelem do ní. Elektická koule se tak zvětší a zvýší se jí zrvanlivost.
+upgrades.jetpackspeed1.desc,"Vylepší jetpack, aby se pohyboval rychleji."
+upgrades.domearmormelee2.desc,Dále snižuje množství poškození obdržené od útoků na blízko.
+loadout.prestige.friend.mode,Přívětivý režim
+upgrades.domearmorhealth2.title,Výdrž pancíře 2
+properties.artillery.machinegundamage,Poškození nábojemi: {}
+upgrades.swordextendlong2.title,Dlouhé bodnutí 2
+upgrades.lasermove2.title,Rychlost pohybu 2
+upgrades.shieldstrength2.title,Síla 2
+properties.keeper3.slidecontrol,{.percent} kontrola sjezdu
+reward.rewardpet11.desc,Odemkne vodního jelena jako mazlíčka do dómu.
+upgrades.teslanurture.title,Nabíjení elektrických koulí
+properties.lift.speed,Rychlost zdviží: {}
+upgrades.lasermove2.desc,Laser se pohybuje ještě rychleji.
+loadout.mode.longtime,Dlouhé cykly
+options.accessibility.highlightmonsters,Zvýraznit příšery
+upgrades.furnacebasedelay.desc,Zesílí omámení kouřem pro větší základní oddálení vlny.
+upgrades.doublelaser.desc,"Nainstaluje druhou laserovou věž, ale palebná síla se mezi ně rozdělí."
+properties.converter.ironwatertime,Doba konverze mezi vodou a železem (v cyklech): {}
+options.keybindings.rebinding.inputprocessor.xbox,Stiskněte nové tlačítko pro tuto akci…
+title.message.title,Oznámení
+upgrades.jetpackspeed4.title,Rychlost 4
+upgrades.drill2.desc,"Posílí vrták, aby vrtal rychleji."
+upgrades.extractorresources2.title,Precizní červi
+unlock.buy.keeperdlc.ps5,Odemknutelné rozšířením „%s“
+level.tutorial.assessor.split.desc1,Zmáčkněte|pro rozpůlení příchozích koulí.
+upgrades.keeper2pinballdamage1.desc,Navyšuje čas obnovy pro zlepšení síly kinetických koulí.
+upgrades.teleporterteleportduration2.desc,Osobní teleportace je ještě rychlejší.
+level.tutorial.assessor.split.desc2,"Můžete rozpůlit koule znovu, ale s každým rozpůlením se stávají slabšími."
+options.accessibility.backgrounds,Prostá pozadí
+assignment.weakwalls.desc,"Korozivní atmosféra této planety je nebezpečná pro dóm, ale i monstra, protože obě strany obdržují zvýšené množství poškození."
+multiplayer.error.disconnected,Odpojeno od hostitele hry.
+properties.autocannon.timebetweenshots,Interval mezi výstřely: {} s
+upgrades.laserstrength1.desc,"Vylepší ti laser, ale během střelby se bude pohybovat pomaleji."
+upgrades.artillerydirecthit4.desc,Střílí střely specializované na likvidaci i těch největších monster.
+upgrades.teslapersistance3.title,Přetrvávající koule 3
+level.gameover.stats.timeplayed.unit,m
+level.tutorial.drillbot.sleeping3.switch,You can make it turn around by pressing | when it's awake.
+upgrades.autocannonshotgun1.desc,Střílí více projektilů naráz s rozptylem.
+upgrades.probe.desc,"Přidá ti ke skafandru sondu, která po spuštění vyšle pulz, jenž odhalí okolní suroviny. Musí se dobíjet na stanici pod dómem."
+upgrades.droneyardparasites.desc,"Vypouští drony, kteří se přichytí na nejsilnější monstrum k nalezení a oslabí ho. Monstrum bude pravidelně omráčeno a z útoků obdrží větší zranění."
+properties.stunlaser.trackingInCooldown,Sledování cíle během přebíjení
+upgrades.domewavemeter.desc,Zobrazuje čas do další vlny útoku nepřátelských forem života.
+properties.sword.stabexplosive,Bomba na hrotu
+loadout.gadget,Primární zařízení
+properties.stunlaser.areagrowthpermonster,Rozšíření oblasti za každé monstrum: {}
+upgrades.swordfastreflection.title,Urychlené odražení
+level.tutorial.assessor.explode.desc1.switch,Press|to explode all spheres in your vicinity.
+reward.rewardkeeper3skin1.desc,Odemkne nový vzhled pro infiltrátora.
+properties.shockwave.stunstrength,Síla omráčení: {}
+upgrades.resourcepackercount1.title,Velikost svazků 1
+reward.rewardkeepersupplements.desc,Objevte velmi silná doplňková vylepšení pro vaše strážce.
+upgrades.spirestuntrap3.desc,Energetické pasti mohou omráčit monstra.
+upgrades.lift.desc,"Nainstaluje automatický výtah, který vyveze vytěžené suroviny ke zpracování do dómu."
+upgrades.orchard.title,Strom
+pause.playerlist,Seznam hráčů
+upgrades.keeper2bundle2.title,Navádění svazků
+assignment.weakmining.desc,Strážcovo těžební zařízení je poškozené. Musíte se spolehnout na ostatní zařízení.
+upgrades.converter.title,Konvertor surovin
+properties.repellent.battlemonstervulnerability,Dodatečné poškození monstrům: {.percent}
+level.gameover.revealresources,Odhalení surovin
+upgrades.jetpackstrength3.desc,"Vylepší jetpack, aby unesl více surovin."
+options.input.controls.touch.fliphud,Flip HUD
+properties.keeper2.bundleguide,Blízkostní navádění
+upgrades.furnaceironfiring.desc,Můžete pálit železo pro prodloužení doby oddálení útoku monster.
+upgrades.swordlongblade2.desc,"Dále zvýší rychlost čepele a navíc se bude odrážet, když narazí do země."
+options.input.controls.mouse.keepers,Použít myš pro Strážce
+loadout.mode.domesupplements.desc,Nalezněte třikrát více doplňků pro váš dóm.
+reward.rewardautomatedweapons.title,Automatizované zbraně
+versus.corruptionmonsterhealth.desc,Příšery budou mít o dost více zdraví.
+upgrades.keeper3slidecontrol.desc,Získáze zvýšenou kontrolu nad sjížděním po stěnách.
+options.keybindings.action.dome.fire,Útok
+options.keybindings.gamepad.xbox.view.xbox,Tlačítko View
+level.gameover.win.title,TVŮJ DÓM JE ZACHRÁNĚN
+upgrades.versusincreasewave1.title,Malá sabotáž
+options.video.graphicsmode.borderlesswindow,Okno bez okrajů
+properties.autocannon.speed,Rychlost pohybu: {}
+upgrades.probe.title,Sonda
+reward.rewardkeeper2skin5.desc,Odemkne nový vzhled pro znalce.
+upgrades.artillerydirecthit4.title,Ničitel monster 4
+properties.keeper4.squadcount,Počet těžebních čet: {}
+upgrades.keeper3kunaicooldown3.title,Tisícero vrhacích nožů
+upgrades.prospectionmeterrange2.desc,Dále zvyšuje detektoru dosah hledání.
+level.gameover.unlock.mapsize,Odemykáš novou velikost mapy!
+loadout.prestige.friend.desc,Hrajte prestižní režim s nižší obtížností a soutěžte se svými přáteli o místo na soukromém žebříčku.
+upgrades.jetpackstrength4.title,Nosná kapacita 4
+options.input.controls.virtualjoystickopacity,Virtual Joystick Opacity
+upgrades.repellentovercharge.title,Nabitý repelent
+upgrades.suitblastermaxcharge.desc,"Zvýší počet výbušných náloží, co může oblek mít připravených. Čím více náloží je připravených, tím rychleji se další bude připravovat."
+upgrades.stationextensiontubemovement.desc,Vstupte do stanice a rychle se přemistěte do dómu pomocí vakuového tubusu. Funguje jen pro pohyb vzhůru.
+upgrades.domesupplementmeleedamagereduction1.title,Vyztužení Obalu Dómu
+upgrades.keeper4catgoblinsleeptime.desc,"Sníží dobu, po kterou skřítočky odpočívají."
+upgrades.prestigespeedup.desc,Zkrátit čas mezi vlnami.
+upgrades.keeper3kunaicooldown1.title,Rychlé vrhání
+upgrades.spire.title,Věž
+multiplayer.join.sessions,Relace
+options.input.controls.keybindings,Přiřazení kláves
+multiplayer.host.crossplay.desc.xbox,Crossplay vám umožňuje hrát s přáteli na jiných platformách.
+upgrades.teslaorbs.desc,"Každý výstřel po sobě zanechá elektrickou kouli, která omračuje nepřátele a uděluje jim poškození v průběhu času."
+upgrades.prestigeiron.desc,"Zaslání železa. To navýší počet bodů prestiže, co získáte po každé vlně."
+upgrades.keeper2pinballexplode.title,Výbušné koule
+level.tutorial.assessor.split.desc1.switch,Press|to split an incoming sphere.
+properties.artillery.machinegunhoming,Pronásledovací rakety
+upgrades.spirespeedup.desc,Sníží interval mezi střelami.
+level.tutorial.drillbot.handling1,Podržením | Vrtáčka opět zvedneš.
+keybindings.reset.title.ps5,Resetovat přiřazení tlačítek
+level.tutorial.drillbot.handling2,"Stiskem | ho donutíš změnit směr, pokud bude na zemi."
+upgrades.artillerysplash1.desc,Upravuje minomet pro palbu střel s větším rozsahem výbuchu.
+upgrades.shockwave.desc,"Nainstaluje dvě kladiva na dóm, které budou na povel tvořit rázové vlny. Rázové vlny omračují monstra."
+options.game.blocklist.unblock,Unblock
+properties.drillbot.buffamount,Potřebné údery vrtákem po získání energie: {}
+upgrades.teslaorbdamage.desc,"Elektrické koule vedou mnohem více elektřiny, což vede k navýšení jejich poškození."
+loadout.versusmod.versusmodifierconcentratediron.desc,"Ložisek železa je méně, za to jsou ložiska velká."
+upgrades.keeper4squad2.title,Velká četa
+upgrades.keeper4flexible1.title,Obratnost
+upgrades.swordreflection3.desc,Maximální velikost záštity.
+unlock.prestige.promode,Vyhrajte v prestiži s minimálním skórem 1000 pro odemknutí.
+loadout.mapsize.huge,Obří
+upgrades.artillerymachinegunhoming1.desc,"Nahradí náboje raketami, které si automaticky upraví trasu letu, aby zasáhly monstra."
+upgrades.repellentovercharge.desc,"Použíjte vodu pro nabití repelentu, čímž se zlepší jeho bojové schopnosti."
+loadout.prestige.pro.caveorder,Pořadí jeskyní
+upgrades.spiresplit2.title,Lepší rozštěpení
+properties.laser.bend,laser automaticky zaměřuje {} °
+modding.modio.ugcterms.link1,Terms of Use
+upgrades.drillmagnetic.title,Magnetický kryt
+assignment.condition.deliveremergency,Splňte %d nouzových zásilek
+modding.modio.ugcterms.link2,Privacy Policy
+assignment.denseiron.desc,"Železo na této planetě je obzvláště pevné, což komplikuje jeho těžbu."
+level.station.upgrademenu.inventory,Inventář
+upgrades.repellentbattleslowdownstun1.desc,Nestabilní spory v mlze omráčí příšery a nakrátko je zastaví.
+upgrades.spirestuntrap2.title,Posilněné pasti
+properties.blastmining.radius,Dosah výbuchu (v polích): {}
+loadout.prestige.cobalt,Fixní kobalt
+upgrades.spireautonomy1.title,Autonomie
+upgrades.suitblastermaxcharge.title,Další nálož
+upgrades.stunlaserspeed2.desc,Omračovací laser se pohybuje ještě rychleji a během přebíjení stále sleduje příšery.
+properties.suitblaster.maxcharge,Maximální kapacita: {}
+upgrades.prospectionmetergadget.desc,Zobrazuje vzdálenost k nejbližší komoře a výrazně zvyšuje dosah hledání.
+properties.spire.rechargetime,Doba přebíjení: {} s
+assignment.monstermasses.desc,Tato planeta je přeplněná velkým množstvím slabších monster.
+telemetry.title.ps5,Licenční smlouva s koncovým uživatelem
+properties.condenser.autoovercharge,Automatické nabití
+assignment.rareiron.desc,Na planetě je příliš málo železa pro běžnou těžební operaci.
+level.converter.popup.title,Konvertuj suroviny
+upgrades.chainsaw.desc,"Nainstaluje kotoučovou pilu, která se bude pohybovat po dómu ze strany na stranu, aby poškodila blízká monstra."
+versus.inventory.title,O soupeřícím týmu
+loadout.versusmod.versusmodifiernorelics.desc,The mine has no relics.
+level.gameover.stats.wavessurvived,Přežité vlny
+upgrades.stunlaserduration1.title,Palebná výdrž 1
+upgrades.resourcepackercount2.desc,"Navýší maximální počet surovin, co může být v jednom svazku."
+level.tutorial.teleporter.carry3.switch,"If you press |, you will teleport back."
+gadget.slot.domesurface,Povrch dómu
+upgrades.converterirontocobalt.title,Kobaltová konverze
+options.audio.music.ost.mode.desc,"Ke každému strážci patří vlastní sada skladeb. Můžete upravit, kdy se tyto skladby přehrají."
+assignment.condition.deliversand,Doručte %d kobaltu
+options.accessibility.photosensitivity.explanation,Omezuje blikání světel.
+upgrades.keeper2bundle4.desc,Suroviny se ve svazcích pohybují rychleji a vydrží pospolu déle.
+upgrades.domesupplementmeleedamagereduction2.title,Intenzivní Vyztužení
+upgrades.keeper2bundle1.title,Označení středu
+upgrades.repellentbattleslowdown.desc,"Rozpráší během bitvy ochromující mlhu, která zpomalí všechny příšery."
+options.game.splitscreenfontscale,Show larger Text in Splitscreen
+upgrades.blastminingimpactdetonation.title,Nárazové odpálení
+loadout.relichunt.title,Vyberte scénář
+upgrades.assignmentsemergencycontribution2.title,Nouzový příspěvek 4
+upgrades.stunlaserspeed1.desc,Omračovací laser se pohybuje rychleji.
+upgrades.keeper2movement2.desc,Zlepšete svůj gravitační generátor pro ještě rychlejší pohyb.
+loadout.prestige.pro.customorder,Vlastní pořadí
+options.translation.community.desc.seavenplatforms,Tyto jazyky jsou přeloženy naší skvělou komunitou na Crowdinu.
+properties.shield.battledestructionprevention,Dodatečná délka: {} s.
+upgrades.spirespeedup.title,Zlepšené chlazení
+upgrades.shieldovercharge.title,Nabitý štít
+level.tutorial.station.popup_4.switch,Then press | to enter battle mode and defend.
+options.keybindings.action.keeper.drop,Upustit
+options.accessibility.vignette.explanation,"Nezobrazovat efekt ztmavnutí, který nastává v hlubších úrovních dolu."
+upgrades.keeper4speed3.title,Rychlost pohybu 3
+title.navbar.splitscreen,Místní rozdělení obrazovky
+upgrades.extractorquickextraction.title,Rychlí červi
+pause.disconnect,Odpojit
+properties.map.ironadditionalhealth,Dodatečná tvrdost železných ložisek: {}
+properties.keeper2.reflectlifetime,Životnost odrazného pole: {} s
+loadout.versusmod.versusmodifiersoftrock,Měkké kameny
+upgrades.repellentoverchargeduration1.title,Zlepšené nabití
+upgrades.teleporterteleportitems.desc,"Teleportujte se spolu s malými předměty, co nejsou suroviny."
+upgrades.shieldstrength2.desc,"Dále zvýší množství poškození, které štít dokáže absorbovat."
+unlock.mapsize.large,Vyhrajte na středně velké mapě pro odemknutí.
+upgrades.shieldoverchargestrength2.desc,"Dále zvýší množství poškození, které nabitý štít dokáže absorbovat."
+properties.drill.extensionspeed,Rychlost vysunutí do stran: {}
+properties.orchard.growthtime,Doba růstu (v cyklech): {}
+upgrades.drillbotbuff1.desc,"Pamlsky rostou v hnízdě pod dómem. Zanes je Vrtáčkovi, který je s chutí sní a získá energii."
+properties.repellent.battleslowdown,Zpomalení příšer: {.percent}
+level.station.upgrademenu.buy,Koupit
+keybindings.reset.title.switch,Resetovat přiřazení tlačítek
+title.navbar.multiplayer.join,Připojit se do hry
+multiplayer.host.crossplay.desc,"Crossplay vám umožňuje hrát s přáteli na jiných platformách. Například, hráči na počítačích a konzolích mohou hrát společně."
+properties.probe.range,Dosah (v polích): {}
+modding.modio.connectionfailed,Connection to mod.io failed!
+properties.dome.resurrectcharges,Zbývající vzkříšení: {}
+upgrades.mushroomstack.title,Prodlužování posílení
+multiplayer.error.lobby.join,Připojení do lobby se nezdařilo.
+pause.title,POZASTAVENÍ
+level.furnace.popup.fuel.cycles,Zbývající cykly: {cycles}
+level.gameover.unlock.gamemodevariant,Nová varianta herního režimu
+upgrades.keeper2movement3.title,Gravitační pohyb 3
+upgrades.keeper3kunaicooldown2.desc,Budete moci vrhat nože rychleji.
+upgrades.repellentbattledamageovertime.title,Toxické výpary
+reward.rewardfreerolls1.title,Výměna zdarma
+assignment.superhardrockwithholes.title,Švícarský sýr
+modding.restartneeded,"Aby mody fungovaly správně, je potřeba restartovat hru."
+upgrades.versusshowinventory.title,Inventářní štěnice
+level.tutorial.assessor.carry.desc1,"Podržením|přitáhneš suroviny tak, aby se k tobě pevně připoutaly."
+level.tutorial.assessor.carry.desc2,Zmáčkněte|pro poslání svazku surovin ve směru míření.
+demo.unavailable,Nedostupné v demoverzi
+assignment.harmfuliron.desc,"Železo na této planetě je natolik reaktivní, že při rozdrcení poškozuje dóm."
+upgrades.keeper4flexible4.title,Obratnost 4
+properties.dome.reducedhealth,Ztracené životy: {} hp
+upgrades.keeper4catgoblinamount.desc,Získejte další skřítočky.
+properties.keeper2.spherebasedamage,Základní poškození koulí: {}
+level.gameover.showimages,Otevřít
+properties.keeper4.maxpunchdelay,Nejnižší rychlost úderů: {} s
+upgrades.converterironduplication.desc,Konvertuje železo na mnohem více železa.
+upgrades.liftorbless.title,Gravitační výtah
+upgrades.artilleryshotstun.desc,"Palba z minometu je natolik silná, že omračuje monstra nacházející se v blízkosti výstřelu."
+upgrades.keeper4squadsmarts.title,Chytré kopání
+options.video.graphicsmode.enablevsync,Zapnout VSync
+upgrades.repellentdelay3.desc,Ještě víc prodlouží zdržení příští vlny příšer.
+properties.spire.splitshotground,360° rozštěpení
+upgrades.autocannonrateoffire3.desc,Maximalizuje rychlost střelby.
+upgrades.furnacebasedelay.title,Omamující dým
+properties.sword.stabcooldown,Prodloužení přebíjecí doby: {} s. 
+upgrades.resourcepacker.title,Kompaktor
+properties.probe.permanentrevealrock,Permanentně odhalí kameny
+upgrades.prestigeprovoke.title,Vyprovokovat monstra
+loadout.hint.teams,Každý tým potřebuje alespoň jednoho hráče!
+upgrades.stationextensionrevealdistance2.title,Větší dosah
+upgrades.condenserautocollect.desc,"Automaticky sbírá vodu, takže ji nemusíš sbírat ručně."
+pause.resumegame,Pokračovat
+upgrades.drillbotbuffguidance.title,Hledáček
+options.video.stretchmode.rezised,Automatický
+upgrades.shieldbattlereflectspeed.desc,"Odražené projektily letí zpět větší rychlostí, čímž zvýší šanci na vrácení střely zpět střelci."
+properties.keeper2.spherebaselifetime,Životnost koule: {} s
+properties.resourcepacker.packscale,Měřítko zmenšení: {.percent}
+properties.chainsaw.speed,Rychlost pohybu: {}
+properties.probe.rechargetime,Doba nabíjení (v cyklech): {}
+upgrades.blastminingblast1.title,Výbuch 1
+upgrades.liftcarrykeeper1.title,Osobní výtah 1
+loadout.versusmod.versusmodifierlongcycles,Dlouhé cykly
+options.keybindings.action.dome.secondary,Vedlejší schopnost
+upgrades.extractor.title,Železomilní červi
+level.tutorial.assessor.reflect.desc2,Příchozí koule se budou odrážet. Odraz je zároveň posílí.
+options.keybindings.keyboard,Klávesnice
+level.tutorial.assessor.reflect.desc1,Zmáčkněte|pro spuštění odrazného pole kolem sebe.
+level.tutorial.beastmaster.move,Pohyb
+level.gameover.automove,Automatické prohlížení
+upgrades.keeper4punch4.title,Běsnění 4
+properties.shockwave.damagemod,Dodatečné poškození: {.percent}
+upgrades.drillbotsleepless.desc,"Vrtáček bude pracovat mnohem déle, než usne."
+upgrades.keeper2pinballexplode.desc,Odpalte všechny kinetické koule ve vaší blízkosti pro vypuštění jejich uchované kinetické energie.
+reward.rewardpermanentwavemeter.title,Trvalý ukazatel blízkosti nepřátel
+upgrades.keeper3shurikencooldown1.desc,Zkrátí dobu doplnění šurikenu.
+upgrades.droneyard.title,Depo
+level.gameover.unlock.promode,Odemklo se profesionální prestižní nastavení!
+upgrades.swordextendlong2.desc,Ještě vyšší síla bodnutí a přesnější ovládání za letu.
+upgrades.drillbotturnaround.desc,"Když Vrtáček narazí na nezničitelnou zeď, otočí se namísto toho, aby si zdříml."
+loadout.prestige.fairness.desc,"Rádi vás, prestižní hráče, vidíme soutěžit o co nejvyšší skóre a objevovat lepší strategie. Rádi bychom udrželi tuto férovou a zábavnou soutěž, a proto je podstatné, aby všichni hráli podle stejných pravidel.
+
+Prosíme, abyste pochopili, že vaše hry mohou bít označeny jako nepřípustné, nebo budou smazány, pokud budou vypadat, jako by se při nich používaly nástroje na podvádění a exploity.
+Jako exploit definujeme cokoliv, co dá hráči velkou výhodu v prestižních hrách, aniž by to bylo dosažitelné při bežném zamýšleném herním průběhu. To zahrnuje například úpravy a prohlížení uložených herních souborů, nepřiměřené restartování, užití nepovolených modifikací, nebo zneužívání chyb ve hře.
+Váš přístup do běžného soutěžního žebříčku může být trvale zablokován, pokud vaše hry budou vypadat, jako by se v nich výrazně užívaly nástroje na podvádění nebo exploity.
+
+Pokud si nejste jistí, zda je něco povolené, tak se můžete na nás obrátit na našem Discordu, nebo můžete napsat e-mail na dome@bippinbits.com. Vždy můžete podat odvolání, pokud jste byli mylně označeni.
+
+Přejeme vám hodně štěstí a zábavy!"
+assignment.emergency.title,Stav nouze
+upgrades.droneyardbattlegridlong2.title,Houf dronů
+properties.repellent.battleuses,Použití za bitvu: {}
+loadout.difficulty.easy,Vysoká
+level.tutorial.mineraltree1,"Právě se ti podařilo najít semínko minerálového stromu. Může z něj vyrůst strom, který se zakoření do polí. Strom pak poskytuje suroviny s ohledem na pole, ve kterých zakoření. Semínko zasadíš položením na pole."
+options.keybindings.action.keeper.pickup,Sebrat
+gadget.slot.domebackside,Pozadí dómu
+assignment.megacreeps.desc,Tuto planetu obývají jen ty největší a nejsilnější mostra.
+options.keybindings.rebinding.error.gamepad,Nelze nastavit jako vstup ovladače.
+modding.profile.new,Nový profil
+upgrades.suitblasterspeed1.desc,Zvyšuje rychlost přípravy náloží.
+properties.domearmor.pulsedamagethreshold,Hranice spuštění pulzu: {}
+options.game.autopause,Pozastavit hru na pozadí
+savegame.wiped.desc,"Veškeré vaše uložené soubory jsou poškozené, pravděpodobně kvůli systémovému zhroucení během ukládání. Program není schopen obnovit postup.
+Zkuste obnovit poslední zálohy z virtuálního úložiště. Jinak je naneštěstí váš postup trvale ztracen."
+properties.shield.maxstrength,Výdrž: {} zdraví
+level.tutorial.ninja.rope.desc1,Hold| to shoot your rope in the direction you are aiming with your %s.
+level.gameover.unlock.gadgetability,Nová bojová schopnost zařízení
+level.tutorial.ninja.rope.desc2,Stiskněte| pro výskok.
+upgrades.repellent.desc,"Nainstaluje nádrž, která vyrábí tekutinu, jež odpuzuje příšery. Po aktivaci ji rozprášíš kolem dómu a zpozdíš příští vlnu útočníků."
+modding.modio.report,Report Mod
+properties.artillery.directhitdamage,Poškození přímým zásahem: {.percent}
+upgrades.spireprojectileslowdown.title,Zpomalení projektilů
+properties.keeper2.bundleduration,Životnost svazku: {} s
+upgrades.domesandrepair.title,Oprava kobaltem
+upgrades.assignmentsemergencycontribution3.desc,"Zašlete tuto zásilku než skončí sedmá vlna, jinak selžete v této úloze."
+upgrades.stunlaserduration3.title,Palebná výdrž 3
+properties.orchard.battleshields,Vrstvy štítu: {}
+options.video.brightness,Jas
+demo.end.misc1,Kempetetivní režim hry prestiž se čtyřmi variantami
+upgrades.droneyarddrones.desc,Vyrobí další nákladní drony.
+demo.end.misc3,Více primárních zařízení
+options.game,Hra
+loadout.mode.longtime.desc,"Mezi vlnami budeš mít dvakrát tolik času, ale vlny budou silnější."
+demo.end.misc2,Mnoho výzev
+demo.end.misc5,Další jeskyně
+demo.end.misc4,Více velikostí mapy
+upgrades.orchardduration2.title,Délka účinku 2
+reward.rewarddomesupplements.title,Doplňky dómu
+demo.end.misc6,Více monster
+upgrades.keeper2rotationalmining1.desc,Ignorujte tvrdost kamene a těžte stálou rycholstí.
+upgrades.droneyardbattlegridquick2.desc,"Velmi rychle vypouští všechny drony, aby byly připravené na začátku bitvy."
+loadout.choices.comingsoon,"Zatím není k dispozici, ale brzy bude."
+properties.keeper2.splitlifetime,Životnost rozpůlených koulí: {.percent}
+options.input.controls.mouse.sword,Použít myš pro ovládání mečového Dómu
+level.tutorial.beastmaster.goblins.desc1,Držte| pro utvoření díry pro skřítočky na zadní stěně dolu.
+upgrades.drill3.desc,"Posílí vrták, aby vrtal rychleji."
+upgrades.jetpackstrength3.title,Nosná kapacita 3
+upgrades.laserstrength3.title,Výkon 3
+level.tutorial.beastmaster.goblins.desc2,Skřítočky vám pomohou se sběrem surovin okolo tunelů.
+upgrades.domesupplementresurrection1.title,Vzkříšení dómu
+loadout.mapsize.small.description,Malá mapa pro kratší hru.
+upgrades.proberange2.title,Velký dosah
+reward.rewardkeeper2skin5.title,Vzhled znalce
+upgrades.jetpackspeed2.desc,"Vylepší jetpack, aby se pohyboval rychleji."
+upgrades.artilleryrotation2.desc,Pohybujte s minometem rychleji.
+upgrades.domesupplementcombatrepair3.title,Rychlé polní opravy
+reward.rewardkeeper4skin3.desc,Odemkne nový vzhled pro krotitele.
+multiplayer.host.splitscreen.desc.xbox,Zmáčkněte tlačítka herního ovladače během příprav pro založení nové herní postavy. Až čtyři hráči mohou hrát na jedné obrazovce. Lze kombinovat s online hrou.
+upgrades.keeper2pinballdamage3.desc,Znovu navyšuje čas obnovy pro ještě silnější kinetické koule.
+level.tutorial.ninja.rope,Lano
+options.keybindings.rebinding.error.keyboard,Nelze nastavit jako vstup klávesnice.
+upgrades.domesupplementcombatrepair2.desc,Automatické opravy jsou silnější. Díky tomu se obnoví více zdraví.
+properties.dome.autohealamount,Oprava {} hp
+properties.repellent.growthtime,Doba výroby (v cyklech): {}
+properties.keeper.domefuel,Dodání paliva: {}
+options.accessibility.critters,Nezobrazovat zvířátka
+level.tutorial.assessor.reflect.desc1.switch,Press|to toggle a reflective field around you.
+upgrades.probelongmarker2.title,Dlouhodobé značení
+upgrades.converterefficientwater.title,Efektivní konverze vody
+upgrades.assignmentssendcobalt.title,Dodat kobalt
+properties.monsters.waveinterval,Čas mezi vlnami: {} s
+options.keybindings.rebinding.error.gamepad.switch,Nelze nastavit jako vstup ovladače.
+options.input.gamepad.twinstick.ps5,Dvoupáčkové ovládání
+properties.extractor.units,Počet vyprodukovaných červů: {}
+loadout.mode.doubleiron.desc,Ložiska železa jsou mnohem bohatší.
+telemetry.title,Povolit online hru pro více hráčů?
+multiplayer.host.local.desc,Hráči ve vaší lokální síti se mohou připojit.
+properties.laser.dps,Poškození: {}
+level.tutorial.assessor.spheres.desc1.switch,Press| to shoot a kinetic sphere in the direction in which you are facing.
+upgrades.spirecapacity.desc,Zvýší počet střel v zásobníku.
+upgrades.doublelaser.title,Dvojitý laser
+options.keybindings.text,"Upravte si přiřazení ovládání podle sebe.
+Klávesy z různých sekcí se obvykle mohou bez problémů překrývat (například můžete používat stejnou klávesu pro pohyb strážce a zbraně dómu)."
+properties.orchard.battleabilityduration,Délka schopnosti: {} s
+options.input.controls.keybindings.switch,Přiřazení tlačítek
+options.keybindings.gamepad.xbox.menu,Start
+upgrades.shieldstrength1.title,Síla 1
+properties.converter.watertoiron,1 voda se změní na {} kusů železa
+upgrades.stunlaserstun2.title,Síla omráčení 2
+upgrades.drillbotstrength2.desc,Zvyšuje těžební sílu Vrtáčka.
+upgrades.dome1.title,Laserový dóm
+options.keybindings.rebinding.error.gamepad.xbox,Nelze nastavit jako vstup ovladače.
+loadout.assignment.shop,Odměny Klanu Strážců
+upgrades.orchardbattlerootingmore.desc,Kořenů bude víc a vydrží déle.
+options.keybindings.action.general.back,Zrušit
+exhibition.level.instruction,Stiskni cokoliv a pokračuj ve hře
+upgrades.converterefficientwater.desc,Zvýší efektivitu konverze mezi vodou a železem.
+upgrades.teslapower1.desc,Zlepší sílu výstřelu.
+upgrades.spiresplit1.title,Rozštěpení projektilů
+assignment.weakwalls.title,Vysoce riskantní
+title.navbar.quit,Zpět na plochu
+upgrades.autocannonrateoffire1.desc,Zvýší rychlost střelby.
+upgrades.laserstrength3.desc,Zlepší ti laser ještě více.
+loadout.mode.automateddefense.desc,"Začněte se všemy obrannými zařízeními a s odemknutou autonomií, ale bez hlavní zbraně. Nechte obranu pro jednou na svém dómu."
+level.gameover.prestige.score.rankunchanged,Žádná změna na žebříčku.
+properties.keeper2.directmininghardness,Ovlivnění zvrdostí kamene: {.percent}
+level.gameover.retry,Začít další misi
+options.input.controls.keybindings.button.xbox,Změnit přiřazení tlačítek
+upgrades.keeper4autospawnminers.title,Horlivá četa
+modding.modio.declined,Please accept conditions if you want to access mods
+upgrades.repellentoverchargeduration2.desc,Navýší účinek nabití na bojových schopnostech.
+upgrades.assignmentsemergencycontribution5.title,Nouzový příspěvek 16
+upgrades.keeper2pinballdamage2.title,Kinetické koule 2
+upgrades.teslaspeed2.desc,Zaměřovač se pohybuje ještě rychleji.
+upgrades.domesupplementmeleedamagereduction2.desc,Vylepšete vyztužení pláště dómu pro ještě lepší odolnost proti poškození od útoku na blízko.
+properties.extractor.processingtime,Doba extrakce: {} s
+upgrades.keeper3.desc,"Hbitý strážce, který se svižně pohybuje díky svému lanu a svých odrazů. Těží výbušnými vrhacími noži."
+assignment.acidrain.title,Kyselý déšť
+upgrades.droneyardparasites3.desc,Dále zlepšuje účinnost oslabení parazitickými drony.
+upgrades.domesupplementelectrifiedsurface1.desc,"Přidává dómu elektrifikovaný plášť, který ubližuje monstrům útočícím na blízko."
+unlock.buy.keeperdlc.switch,Odemknutelné rozšířením „%s“
+upgrades.keeper3shurikenstrength2.desc,Zesílí výbušnost šurikenu ještě více.
+upgrades.teslapower3.title,Síla výstřelu 3
+upgrades.stationextensionrevealdistance2.desc,Zvyšuje dosah skenu stanice.
+upgrades.keeper3shurikencooldown2.title,Nepřetržitý šuriken
+properties.orchard.buffduration,Doba trvání posílení (v cyklech): {}
+loadout.prestige.provocation.description,"Vyprovokujte monstra k utvoření silnějších vln pro zisk většího množství prestiže. Násobič se snižuje každý cyklus. Končíte, když se násobič dostane pod nulu."
+level.tutorial.probe.popup_1,Stiskem | vydá sonda puls.
+level.tutorial.repellent.popup_2,Jdi k němu a stiskem | ho aktivuj.
+multiplayer.join.profile,Profil
+level.tutorial.probe.popup_3,"Odhalí okolní suroviny.
+Nabiješ ji na stanici."
+level.tutorial.repellent.popup_1,Tvůj repelent je připraven zdržet další vlnu.
+upgrades.keeper4ramping2.desc,"Zvýší sílu úderu, maximální rychlost těžby a dobu setrvání nabrané rychlosti těžby."
+options.game.kunaicarrierbeforegadgets,Throw Kunai Carrier before Gadgets
+properties.probe.permanentrevealresources,Permanentně odhalí suroviny
+upgrades.keeper2bundle4.title,Silné svazky
+options.audio.volumes.musicvolume,Hudba
+options.input.controls.useindividualsettings,Použít nastavení jednotlivých strážců
+upgrades.keeper4squadsmarts.desc,Těžební čety upřednostňují speciální bloky a bloky blízké u surovin.
+upgrades.domesupplementscraprepair2.title,Obnova
+upgrades.orchardduration3.desc,Maximální délka účinků ovoce.
+options.input.controls.touch,Touch
+level.gameover.keepgadget.none,Žádné
+upgrades.stunlaserautonomy1.title,Autonomie
+upgrades.swordexplosivereflection.title,Výbušné odražení
+upgrades.probelongmarker1.desc,"Zlepší paměť sondy, aby mohla ukazovat značení mnohem déle."
+upgrades.resourcepackercharges.desc,Zvýší maximální počet nabití kompaktoru.
+level.tutorial.tesla.panel2header,Střelba
+upgrades.drilladditionalsides.desc,"Získejte další postranní vrtáky se stejnými vlastnostmi, co má původní."
+loadout.difficulty.veryeasy.description,"Pořád není snadná, ale je klidnější než ostatní úrovně obtížnosti."
+properties.stunlaser.stunstrength,Síla omráčení: {}
+properties.resourcepacker.packcount,Velikost svazků: {}
+upgrades.keeperonewayteleporter.title,Jednosměrný teleportér
+upgrades.keeper3kunaidamage4.title,Síla vrhacího nože
+upgrades.drill4.title,Síla vrtáku 4
+options.game.directionsnapping,Přichytit Keeperovo zamíření na kardinální směry
+upgrades.artillerymachinegun3.title,Rychlá palba 2
+upgrades.stunlaserspeed2.title,Rychlost 2
+properties.artillery.machinegunreloadspeed,Interval střelby nábojů: {} s
+options.game.screenshake,Třesení obrazovky
+upgrades.proberechargeafterbattle.desc,"Sonda se bude v půběhu času sama dobíjet, což dělá stanici zbytečnou. Kvůli tomu se stanice odstraní, aby zbytečně nezabírala místo."
+upgrades.jetpackstrength2.title,Nosná kapacita 2
+loadout.versus.condition.irondelivery.title,Dodávky železa
+upgrades.teslaspeed3.desc,Zaměřovač se pohybuje ještě větší rychlostí.
+level.assignment.badges.toggle,"Získávejte odznaky plněním úloh. Pomocí odznaků pak můžete koupit odměny Klanu Strážců. Odměny se dají po nákupu kdykoliv vypnout, když je nebudete chtít využít."
+loadout.versus.wincondition,Podmínky výhry
+upgrades.converterefficientwatershort.title,Svižný proces
+properties.keeper2.directminingdamage,Poškození kompresní těžbou: {}
+upgrades.assignmentssendiron.desc,Dodejte železo Klanu Strážců. Pro úspěšné dokončení úkolu je třeba zaslat všechny dostupné dodávky.
+upgrades.keeper3carrylimit1.title,Nosný limit 1
+assignment.goaltype.survive,Přežíjte
+upgrades.shield.title,Štít
+level.station.battle.navbar.stabspeedup,Urychlit bodnutí
+upgrades.keeper3quadjump.desc,Budete moci provést až tři další skoky ve vzduchu.
+properties.laser.aimline,Zaměřovač
+properties.domearmor.pulsestunduration,Doba omráčení pulzem: {} s
+level.tutorial.assessor.carry.desc2.switch,Press|to shoot them as a bundle in the direction in which you are facing.
+level.tutorial.ninja.carry.desc1.switch,Press| to throw a kunai carrying resources in the direction you are aiming with your %s.
+upgrades.orchardovercharge.desc,"Nabij strom pomocí vody, takže bude rychleji produkovat ovoce."
+upgrades.missile.abilityname,Raketa
+upgrades.resourcepackercount1.desc,"Zvýší maximální počet surovin, co může být v jednom svazku."
+assignment.bigmapsparseresources.desc,Zdroje jsou vzácné a velmi rozprostřené na této velké planetě. Na druhou stranu se na planetě nevyskytují tvrdé kameny.
+properties.spire.stuntrap,Energetické pasti
+playerlist.block,Block
+level.tutorial.sworddome.stabbing.desc,Prodluž meč a bodej vzdálené nepřátele.
+properties.sword.sliceacceleration,Rychlost meče: {}
+loadout.team.join,Přidat se
+assignment.weapondefect.desc,"Hlavní zbraň vašeho dómu je nefunkční, takže se musíte bránit jinými způsoby."
+upgrades.repellentbattlehealthreduction.title,Oslabení
+loadout.versusmod.versusmodifiertoughstart,Těžký začátek
+title.navbar.multiplayer,Hra pro více hráčů
+keybindings.reset.title.xbox,Resetovat přiřazení tlačítek
+upgrades.extractorquickextraction.desc,"Červi se vyvinou hyperaktivní, díky čemuž budou vybírat železo z ložisek rychleji."
+upgrades.mushroomfarmquickgrowth.title,Rychlý růst
+upgrades.repellentbattlehealthreduction.desc,"Oslabte všechna monstra, aby byla náchylnější na poškození."
+loadout.versusmod.versusmodifierstrongmonsters,Odolnější monstra
+leaderboard.failed,Nepodařilo se načíst žebříček.
+properties.sword.reflectprojectilesexplosive,Odrážené energetické projektily jsou výbušné
+level.station.navbar.upgrades,Vylepšení
+upgrades.artillerymachinegun3.desc,Zlepší protileteckou zbraň.
+level.gameover.unlock.pet,Odemykáš nového mazlíčka!
+upgrades.domesupplementelectrifiedsurface2.title,Elektrifikovaný povrch 2
+upgrades.keeper3shuriken2.desc,"Sníží dobu doplnění šurikenu, což umožní jeho častější vrhání."
+upgrades.artillerysplash2.desc,Vystřelí dvě po sobě jdoucí minometné střely.
+loadout.mode.hud,Informační panel
+upgrades.keeper4flexible2.title,Obratnost 2
+upgrades.shieldbattlereflectshortuses.desc,Po krátkou chvíli bude odrážení častější.
+upgrades.rocketlauncherdamage2.title,Smrtonosné rakety
+upgrades.domesupplementscraprepair1.title,Provizorní opravy
+upgrades.keeper2bundle3.title,Středové gravitační pole
+upgrades.keeper2bundle2.desc,"Umožňuje kontrolu pohybu blízkých svazků, které byly puštěny na místě."
+upgrades.keeper3shurikencooldown2.desc,Zkrátí dobu doplnění šurikenu.
+upgrades.suitblaster.title,Výbušný oblek
+upgrades.prestigeiron.title,Odeslat Železo
+properties.shockwave.cooldown,Dobíjecí doba: {} s
+options.input.controls.keepersettings.desc,Strážci používají ze základu globální nastavení. Ty můžete přepsat individuálním nastavením strážců. Například můžete chtít odlišné nastavení přichycování v závislosti na používaném strážci a prováděné akci.
+options.keybindings.action.keeper.gravityball,Vystřelit
+upgrades.liftorbs.desc,Nainstaluje dodatečnou výtahovou zdviž.
+options.input.controls.mouse.gamepad,Přepnutí na ovladač a zpět je rozpoznáno automaticky.
+properties.probe.detectchambers,Detekuje Komory
+landing.proceed.ps5,Stiskni cokoliv a pokračuj
+upgrades.condenserautocollect.title,Automatický sběr
+multiplayer.error.hostcrossplaydisabled,"K lobby se nelze připojit, protože hostitel má zakázaný crossplay a nachází se na jiné platformě."
+upgrades.repellent.title,Repelent
+loadout.team.color,Barva týmu
+options.game.tutorials.resettutorials,Resetovat výuku
+options.accessibility.critters.explanation,"Nezobrazovat červy, brouky a pavouky, kteří se objevují v dole jako vizuální efekt."
+upgrades.prospectionmeterrange1.desc,Zvyšuje detektoru dosah hledání.
+upgrades.drillsidepull.title,Transport nerostů
+options.accessibility.highlightmonsters.explanation,Vykreslení světlého obrysu kolem příšer kvůli lepší viditelnosti.
+upgrades.keeper2bundle1.desc,"Zobrazí linku vedoucí přímo dolů od vstupu do dómu, která indikuje, kam posílat suroviny."
+upgrades.assignmentsemergencycontribution6.title,Nouzový příspěvek 20
+upgrades.keeper4ramping3.title,Setrvačnost 3
+upgrades.swordblade1.desc,Vylepší sílu seku a rychlost meče.
+upgrades.probedetectchambers.title,Detekce komor
+loadout.mode.shortcycles,Krátké cykly
+upgrades.proberange2.desc,Zvýší dosah pulzu.
+upgrades.prestigespeedup.title,Zkrátit cykly
+loadout.prestige.endless.description,Žádné časové nebo surovinové omezení pro velmi dlouhé hry.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"Nastavte hodnotu tak, aby se ukazatel nechvěl, když se páček pouze dotknete a nebudete na ně tlačit.
+Pokud na páčku zatlačíte, ukazatel by se měl chvět při pohybu páčky."
+upgrades.blastminingblast3.title,Výbuch 3
+upgrades.swordextendlong1.desc,Vylepšená síla bodnutí a možnost navádět meč za letu.
+properties.autocannon.rateoffire,Rychlost střelby: {.percent}
+upgrades.assignmentsemergencycontribution4.title,Nouzový příspěvek 11
+assignment.minorvision.desc,Temné stíny obklopují celou tuhle planetu.
+options.audio.volumes,Hlasitost
+unlock.host.locked,Hostitel nevlastní rozšíření „%s.“
+loadout.versusmod.versusmodifiershortcycles.desc,Doba mezi vlnami monster je zkrácena.
+upgrades.keeper2pinballexplode2.title,Zlepšené výbuchy
+multiplayer.host.local,Lokální
+options.video.graphicsmode.fullscreen,Celá obrazovka
+properties.keeper3.kunaidamage,Poškození vrhacími noži: {}
+options.game.screenshake.shakewhenmining,Třesení při těžbě
+upgrades.dome2.title,Mečový dóm
+properties.autocannon.damage,Poškození nábojemi: {}
+loadout.mode.doubleiron,Masy železa
+upgrades.keeper4punch1.title,Běsnění
+level.gameover.unlock.versus,Odemknul se režim hry Souboj!
+upgrades.artillerydoublemachinegun.desc,Nainstaluje protiletecké zbrani druhou hlaveň.
+level.converter.popup.conversion.time,během {time} cyklů
+options.translation.title,VYBERTE SVŮJ JAZYK
+loadout.prestige.pro.title,Vlastní nastavení
+multiplayer.host.title,Založit hru pro více hráčů
+properties.keeper4.movespeed,Rychlost pohybu: {}
+,
+upgrades.furnacelastingironfiring.title,Dlouhodobé pálení železa
+upgrades.shieldoverchargestrength1.title,Síla nabitého štítu 1
+multiplayer.error.modsmismatched,Máš jiný seznam modů než hostitel. Nemůžeš se připojit.
+upgrades.laserhitprojectiles.desc,"Když laser zasáhne energetické projektily, okamžitě je rozpustí."
+upgrades.probepermanentrevealtiles.desc,Veškerá pole skenovaná sondou jsou permanentně odhalena.
+options.keybindings.action.keeper.jump,Skočit
+upgrades.repellentdelay2.title,Zdržení 2
+upgrades.keeper3shuriken1.title,Šuriken
+upgrades.probelongmarker2.desc,Značení surovin vydrží po několik cyklů.
+properties.shockwave.stunduration,Doba omráčení: {} s
+level.tutorial.teleporter.teleport1.switch,"When close to the portal, press | to teleport back."
+options.game.alwaysshowping,Always show Server Ping
+loadout.choices.locked,Ještě neodemčeno
+upgrades.prospectionmetersand1.title,Ukazatel kobaltu
+upgrades.drill2.title,Síla vrtáku 2
+level.gameover.findimages,Uložit do
+level.tutorial.resourcepacker.popup_1.switch,"When close to resources, press | to pack them into a compact bundle that is easier to transport."
+reward.rewardpostrunshowmonstercount.title,Dodatečné statistiky bitvy
+upgrades.drill.title,Vrtná souprava
+upgrades.versusincreasewave1.desc,Trvale zvyšte sílu vln soupeřů.
+upgrades.swordstabfast1.desc,Rychlejší a častější bodání.
+properties.sword.slicebrake,Ztráta rychlosti po seku: {.percent}
+upgrades.lasermove3.desc,Maximální rychlost pohybu laseru.
+upgrades.prestigewatermultiplier.desc,"Zaslání vody. To navýší počet bodů prestiže, co získáte po každé vlně."
+upgrades.domesupplementresurrection1.desc,"Namísto zničení se dóm zcela opraví, a stane se dočasně nezranitelným. Aktivuje se pouze jedenkrát za hru."
+upgrades.swordextendlong3.title,Dlouhé bodnutí 3
+properties.repellent.wavedelay,Oddálení vlny (v ciklech): {}
+upgrades.domewavepathtodome.desc,"Když budete varování před přicházející vlnou, zobrazí se nejkratší cesta zpět do vašeho dómu."
+level.tutorial.ninja.carry,Nosný vrhací nůž
+upgrades.dome4.desc,"Nejmodernější dóm, který ovládá sílu elektřiny na nikdy dříve nespatřené úrovni."
+upgrades.prospectionmeterwater2.title,Vodní kompas
+multiplayer.techtree.keeperexclusivegadget,Toto zeřízení se vztahuje pouze k vašemu strážci.
+options.keybindings.action.dome,Dóm
+upgrades.drillbotbuff1.title,Pamlsky
+versus.corruption.desc,"Vyber úpravu, která ovlivní monstra útočící na protivníky!"
+upgrades.swordstabshoot.title,Oštěp
+properties.dome.projectiledamagereduction,Snížení poškození projektily: {.percent}
+upgrades.drillbotbuffstrength2.desc,"Když Vrtáček dostane pamlsek, bude pracovat mnohem déle, než usne."
+leaderboard.global,Globální
+options.game.blocklist.unblockall,Unblock all
+upgrades.swordlongblade1.title,Dlouhá čepel 1
+properties.mushroomfarm.drillbuff,Posílení těžby: {}
+properties.spire.splitshotspeed,Rychlost šrapnelů: {}
+options.keybindings.action.dome.upgrade,Vylepšení
+upgrades.teslaspeed3.title,Rychlost zaměřovače 3
+upgrades.domehealthmeter.title,Ukazatel stavu
+properties.extractor.additionalresources,Dodatečné suroviny: {}
+upgrades.domesupplementcombatrepair3.desc,Automatické opravy se budou spouštět po obdržení menšího množství poškození.
+upgrades.furnacelastingironfiring.desc,Železo se bude pálit v peci déle.
+properties.dome.resurrectinvulnerability,Nezranitelnost po vzkříšení: {} s
+upgrades.assignmentssendwater.desc,Dodejte vodu Klanu Strážců. Pro úspěšné dokončení úkolu je třeba zaslat všechny dostupné dodávky.
+options.game.autopickupresources,Automatically pick up Resources
+upgrades.repellentbattledamageovertime.desc,"Dokud toxické výpary vydrží, všechny příšery utrpí s každou sekundou drobné poškození."
+upgrades.artillerydirecthit3.desc,Navyšuje ničivý potenciál střel minometu.
+upgrades.domearmorprojectile1.title,Protiprojektilový pancíř 1
+upgrades.keeper4catgoblindig3.desc,Skřítočky budou ničit bloky během výkopů.
+upgrades.stunlaserarea.desc,"Vytvoří olast působení oračovacího efektu kolem zasaženého monstra, které se rozpíná a působí větší poškození s každým dalším monstrem v oblasti."
+level.tutorial.teleporter.carry2,"Podržením | portál opět seber, až budeš u něj."
+level.tutorial.teleporter.carry3,Stiskem | se teleportuješ zpátky.
+upgrades.keeper2pinballreflect.title,Odrazné pole
+upgrades.probepermanentrevealtiles.title,Odhalení kamene
+loadout.versusmod.versusmodifierfastmonsters.desc,Monstra se pohybují rychleji.
+level.tutorial.teleporter.carry1,"Portál můžeš přesunout, kam budeš chtít."
+level.tutorial.pickup.popup_1.switch,Press | to pick up a resource.
+options.input.gamepad.autoswitch.xbox,Automatická detekce preferovaného ovladače
+options.accessibility,Usnadnění přístupu
+upgrades.teslapersistance1.desc,Elektrické koule jsou větší a zůstávají po delší dobu.
+properties.sword.reflectionacceleration,Rychlost odraženého projektilu: {.percent}
+upgrades.resourcepackerquickcharge.title,Rychlé nabíjení
+upgrades.keeper2pinballreflect.desc,"Umístěte odrazné pole, které bude odrážet kinetické koule. Koule při odrazu obdrží mírné posílení."
+options.keybindings.action.keeper,Strážce
+upgrades.drillbotbuffstrength1.desc,Pamlsky dodají Vrtáčkovi energii na delší dobu.
+upgrades.versussendiron.desc,"Dodejte železo Klanu Strážců. Vyšlete všechny zásilky, abyste vyhráli nad soupeři."
+upgrades.keeper2pinballmorespheres1.desc,Navýší maximální počet kinetických koulí v zásobě.
+properties.rocketlauncher.rechargetime,Doba doplnění: {} s
+upgrades.domesupplementadditionalcellar.title,Hluboké sklepení
+upgrades.blastminingstickycharge.title,Přísavné směrové nálože
+level.tutorial.assessor.explode.desc1,Zmáčkněte|pro detonování všech koulí nacházejících se ve vaší blízkosti.
+upgrades.furnacestrongironfiring.title,Lepší pálení železa
+assignment.monstermasses.title,Masy monster
+options.input.gamepad.gamepadstickdeadzone.switch,Mrtvá zóna Joysticku
+properties.stunlaser.areastunstrength,Efektivita oblasti omráčení: {.percent}
+upgrades.dome1health2.desc,Permanentně zvýší strukturální zdraví tvého dómu.
+upgrades.probepermanentrevealresources.title,Odhalení surovin
+upgrades.swordfastreflection.desc,Odražené projektily letí zpět rychleji.
+properties.autocannon.shotgun,Brokovnicové projektily: {}
+loadout.difficulty.medium,Brutální
+multiplayer.join.joincodeinput,Zadejte přístupový kód
+properties.keeper4.maxspeedupatpunches,Nevyšší rychlost po {} úderech
+properties.monstermodifiers.health,Zdraví monster: {.percent}
+loadout.versusmod.versusmodifierfastmonsters,Rychlé monstra
+upgrades.shieldoverchargestrength1.desc,"Zvýší množství poškození, které nabitý štít dokáže absorbovat."
+properties.probe.charges,Pulzy: {}
+reward.rewardthreechoicessupplement.title,Výběr ze tří doplňků
+upgrades.domesupplementscraprepair1.desc,"Umožňuje provizorní opravy pomocí železa, ale snižuje při tom celkové strukturální zdraví."
+level.tutorial.tesla.panel1content1,Pohybuj zaměřovačem po obrazovce pro zamíření nepřítele.
+upgrades.shockwavebig.desc,"Rázová vlna bude způsobovat velké množství poškození, které může zničit i některá silnější monstra."
+multiplayer.continue.allowmultiplayererror,"Nelze pokračovat v online hře více hráčů, jelikož nemáte povoleno hraní online v nastavení."
+loadout.hint.multiplayer.playerminimum,K zahájení hry více hráčů potřebuješ alespoň dva hráče.
+upgrades.artillerymachinegunhoming2.title,Naváděné rakety 2
+upgrades.repellentbattleslowdownstun2.title,Silná paralýza
+upgrades.shockwave.abilityname,Rázová vlna
+upgrades.jetpackspeed1.title,Rychlost 1
+upgrades.teleporterteleportduration1.title,Rychlost teleportu 1
+upgrades.autocannonrateoffire3.title,Samopal 3
+properties.monstermodifiers.totalrunweightmodifier,Násobič síly vlny: {.percent}
+upgrades.swordstabfast1.title,Rychlé bodnutí 1
+upgrades.swordstabfast3.title,Rychlé bodnutí 3
+properties.tesla.quickshotstrength,Síla rychlého výstřelu: {.percent}
+upgrades.keeper2pinballdamage2.desc,Dále navyšuje čas obnovy pro více silnější kinetické koule.
+title.navbar.options,Nastavení
+upgrades.domearmormelee1.desc,Sníží množství poškození obdržené od útoků na blízko.
+upgrades.shieldbattleelectroblast.title,Elektrický výboj
+properties.spire.stuntrapradius,Dosah: {}
+options.audio.volumes.ambiencevolume,Ambientní zvuky okolí
+loadout.mode.drillbert.desc,"Začnete s Vrtáčkem a těžebními náložemi, jelikož nebudete disponovat těžebními vylepšeními. Kdo by ale nechtěl neomezené množství Vrtáčků..."
+loadout.versus.team.closed,zavřený
+properties.keeper4.goblinnapduration,Doba odpočinku skřítoček: {} s
+properties.keeper2.reflectnexthitdamage,Dodatečné poškození pro příští zásah: {.percent}
+upgrades.orchardbattlerootingmore.title,Silné kořeny
+multiplayer.error.connection,Spojení se nezdařilo.
+keeperdlc.load.missing.ps5,"Cannot load save, it contains unavailable add-on content. Please ensure 'The Lost Keepers' add-on is available."
+level.tutorial.fruit.popup_2.switch,"When next to it, press | to consume it."
+loadout.versusmod.versusmodifierlittlecobalt,Nedostatek kobaltu
+reward.rewardpet12.desc,Odemkne pejska jako mazlíčka do dómu.
+multiplayer.host.joincodelabel,Přístupový kód
+upgrades.swordstabfast2.desc,Ještě rychlejší a častější bodání.
+properties.dome.incomingdamagemodifier,Obdržené poškození: {.percent}
+properties.sword.stabexplosivedamage,Poškození bombou: {}
+properties.blastmining.bombs,Těžební nálože: {}
+properties.resourcepacker.charges,Počet nabití: {}
+upgrades.assignmentsemergencycontribution1.desc,"Zašlete tuto zásilku než skončí druhá vlna, jinak selžete v této úloze."
+properties.artillery.machinegunbarrels,Protiletecké zbraně: {}
+properties.artillery.gunaimline,Laserový zaměřovač
+upgrades.jetpackstrength4.desc,"Vylepší jetpack, aby unesl více surovin."
+loadout.mode.nomonsters.desc,Přistaňte na planetu bez monster.
+telemetry.eula,Přečíst si smlouvu
+upgrades.condenserspeed1.title,Výrobní rychlost 1
+upgrades.mushroomstack.desc,Prodlužujte dobu trvání posílení konzumací několika hub po sobě.
+upgrades.keeper2pinballexplode2.desc,Zvyšuje rozsah exploze kinetických koulí.
+versus.message.disruption,Soupeřící tým natrvalo zesílil vlny monster útočící na váš dóm.
+loadout.mode.strongmonsters.desc,Monsters will deal double damage.
+upgrades.tesla.desc,"Odhalte zázraky elektřiny čomukoliv, co je tam venku. Ideálně jejich tvářím. Pomocí několika tisícovek voltů."
+properties.drillbot.turnaround,"Otočí se, když narazí na pevnou zeď"
+upgrades.keeper2movement3.desc,Zlepšete svůj gravitační generátor pro dosažení nejvyšší rychlosti pohybu.
+level.tutorial.onewayteleporter2,Zmáčkněte|pro umístění výstupu. Opětovné zmáčknutí vás k němu přemístí.
+upgrades.domearmormelee2.title,Protinárazový pancíř 2
+upgrades.drillbotbuffstrength2.title,Přídavek taurinu
+level.tutorial.onewayteleporter3,Obnovuje se automaticky.
+upgrades.keeper4extraresource.desc,Skřítočky občas získají více surovin díky pečlivějším výkopům.
+upgrades.drillbotduo.desc,"Přiberte Vrtáčkovy příbuzné Kopáčka a Těžilku na pomoc s těžbou. Navíc, když budou takhle pospolu, tak se ani nebudou bát monster."
+properties.tesla.perfecttimingwindow,Časové okno: {}s
+loadout.mode.strongmonsters,Udělovači ran
+pause.quittotitlescreen,Odejít na úvodní obrazovku
+properties.keeper2.explodespheresradius,Dosah výbuchu (v polích): {}
+telemetry.privacy,"Více informací o tom, jak nakládáme s daty, naleznete v našich Zásadách ochrany osobních údajů http://rawfury.com/privacy-policy/"
+upgrades.rocketlauncherdamage1.desc,Rakety budou více devastující.
+keybindings.reset.doreset,Resetovat přiřazení kláves
+upgrades.keeper3carrylimit3.desc,"Zvýší počet surovin, který je schopen nosný vrhací nůž unést."
+upgrades.autocannondoublefirerate.desc,"Automatický kanón střílí o dost rychleji. Prosté, ale efektivní."
+upgrades.autocannon.title,Automatický kanón
+upgrades.artillerymachinegunhoming1.title,Naváděné rakety 1
+level.tutorial.assessor.carry.desc1_1.switch,"Jakmile jsou k tobě pevně připoutané, budou tě následovat, i když pustíš tlačítko sběru."
+upgrades.swordlongblade1.desc,Nainstaluje delší a rychlejší čepel.
+loadout.team.players,Hráči
+options.keybindings.gamepad.xbox.view,Zpět
+options.keybindings.action.keeper.rope,Vrhnout lano
+upgrades.mushroomfarm.title,Houbová farma
+loadout.prestige.title,Vyber si variantu režimu
+upgrades.prospectionmeterrange1.title,Dosah 1
+upgrades.keeper3doublejump.title,Dvojitý skok
+upgrades.keeper3kunaibounce1.desc,"Display the Kunai's predicted bounce path and landing point. Each bounce reverberates through the stone, revealing nearby tiles."
+upgrades.repellentbattlelongerhealthreduction.title,Silné oslabení
+loadout.versusmod.versusmodifierlittlewater,Nedostatek vody
+upgrades.mushroomfarmdrill1.title,Posílení těžby 1
+loadout.versusmod.versusmodifierscatterediron,Roztroušené železo
+level.converter.popup.conversion.convert,konvertovat
+properties.droneyard.overchargebattledronecount,Dodateční bojoví droni: {.percent}
+reward.rewardfreerolls1.desc,Jedna výměna zdarma pro výběr ze zařízení nebo z doplňků na jedné misi.
+multiplayer.host.splitscreen,Povolit místní split screen
+properties.converter.cobalttoiron,1 kobalt se změní na {} kusů železa
+loadout.mode.automateddefense,Automatizovaná obrana
+options.input.gamepad.gamepadstickdeadzone.xbox,Mrtvá zóna Joysticku
+level.converter.popup.explanation,Vyber si konverzi suroviny a začni!
+upgrades.dome1health2.title,Zdraví 2
+upgrades.stunlaserduration3.desc,Omračovací laser se přebíjí velmi rychle a má výrazně prodlouženou dobu střelby.
+upgrades.assignmentsemergencycontribution5.desc,"Zašlete tuto zásilku než skončí šestnáctá vlna, jinak selžete v této úloze."
+options.keybindings.rebinding.apply,Použít
+properties.spire.stunmonsters,Omráčení monster
+upgrades.assignmentssendcobalt.desc,Dodejte kobalt Klanu Strážců. Pro úspěšné dokončení úkolu je třeba zaslat všechny dostupné dodávky.
+upgrades.mushroomfarmspeed2.desc,Vylepší pohybové posílení získané po konzumaci hub.
+upgrades.keeper2pinballmorespheres1.title,Zásoba koulí
+upgrades.rocketlauncherrockets1.desc,Zvětší počet raket připravených k odpálení.
+options.keybindings.gamepad.xbox.menu.xbox,Tlačítka Menu
+upgrades.swordstabfast3.desc,Bodej ještě rychleji a častěji.
+properties.shield.overchargestrength,Síla nabití: {} zdraví
+upgrades.droneyarddronespeed1.desc,Zvyšuje rychlost nákladních dronů.
+upgrades.liftorbs.title,Dodatečné zdviže
+properties.keeper3.carrylimit,Kapacita nosného nože: {}
+options.video.graphicsmode.photosensitive,Fotosenzitivní režim
+upgrades.keeper2pinballdamage1.title,Kinetické koule 1
+reward.rewardkeeper3skin1.title,Vzhled infiltrátora
+level.tutorial.ninja.gadgetpickup.desc1,Zařízení nejsou automaticky sbírána.
+properties.converter.ironperwater,{} kusů železa se změní na 1 vodu
+properties.spire.capacity,Kapacita zásobníku: {}
+level.tutorial.ninja.gadgetpickup.desc2,Podržte| pro sebrání zařízení.
+loadout.versusmod.versusmodifierlittlewater.desc,Mapa obshuje minimum nalezišť vody.
+upgrades.drillbotstrength3.desc,Zvyšuje těžební sílu Vrtáčka.
+upgrades.spirestuntrap3.title,Past na monstra
+upgrades.shredgadgettocobalt.desc,Rozdrtí zařízení na kobalt: {amount}.
+upgrades.converterefficientcobalt.title,Efektivní konverze kobaltu
+options.input.vibration.strength.switch,Síla vibrací
+properties.sword.reflectprojectiles,Odráží energetické projektily
+reward.rewardfreerolls2.desc,Jedna další výměna zdarma pro výběr ze zařízení nebo z doplňků na jedné misi.
+level.tutorial.station.popup_2.switch,Move to the station and press | to enter it.
+upgrades.versus.desc,"Dva dómy, dva týmy, které bojují proti sobě, dokud jen jeden z nich nezůstane."
+upgrades.dome2.desc,"Experimentální dóm bráněn mečem, který vyžaduje mistrovské zkušenosti ale zato dokáže dominovat i nejsilnějším útočníkům."
+upgrades.drillmagnetic.desc,"Kryt centrálního vrtáku se stane magnetickým, díky čemuž bude udržovat suroviny na místě."
+assignment.harmfuliron.title,Nebezpečné železo
+level.tutorial.sworddome.stabbing,Bodnutí
+options.input.gamepad.icons,Ikony
+upgrades.shredgadgettoiron.desc,Rozdrtí zařízení na železo: {amount}.
+upgrades.assignmentsemergencycontribution6.desc,"Zašlete tuto zásilku než skončí dvacátá vlna, jinak selžete v této úloze."
+properties.droneyard.battledroneshots,Náboje v dronech: {}
+level.gameover.lose.title,DÓM JE ZTRACEN
+loadout.difficulty.title,Obtížnost
+properties.artillery.maxrotation,Maximální náklon: {} °
+upgrades.shockwavestun1.desc,"Zvýší míru omráčení, které rázové vlny způsobují."
+unlock.host.locked.ps5,Hostitel nevlastní rozšíření „%s.“
+multiplayer.host.splitscreen.desc,Zmáčkněte tlačítka herního ovladače během příprav pro založení nové herní postavy. Až čtyři hráči mohou hrát na jedné obrazovce. Lze kombinovat s hrou v místní síti nebo online hrou.
+telemetry.explanation,"Pro hraní online hry pro více hráčů se připojte k našim službám, abyste objevili další hráče, připojovali se k jejich hrám, a nebo je sami zakládali.
+Toto je volitelné a kdykoliv svou volbu můžete povolit nebo odmítnout. Opakované připojování k backendu, a to i s anonymním účtem, podléhá GDPR.
+Nesbíráme vaše osobní údaje ani telemetrické údaje vašich her.
+I když nepovolíte online hry pro více hráčů, stále budete moci hrát s dalšími hráči na jednom zařízení, nebo pomocí připojení přes místní síť.
+
+Volbu můžete kdykoliv změnit v nastavení."
+gadget.slot.supplement,Dopněk
+upgrades.droneyardovercharge2.desc,Droni jsou silnější po nabití depa.
+level.furnace.popup.fuel.burn,1|postačí na {cycles} cyklů a oddálí vlnu monster o {seconds} sekund.
+options.input.controls.nooptions,Nejsou žádná individuální nastavení %s pro tohoto strážce.
+upgrades.versusshowinventory.desc,Umožňuje vám vidět inventář soupeře během pozorování jejich dómu.
+properties.keeper1.drillstrength,Síla vrtáku: {}
+upgrades.keeper1.desc,Zkušený a efektivní profesionál s vynikajícími těžebními schopnostmi.
+leaderboard.friends,Přátelé
+gadget.slot.activegadget,Vedlejší bojová schopnost
+upgrades.keeper2.desc,"Sofistikovaný horník, který využívá experimentální technologie ovládání kinetické energie a gravitační síly."
+upgrades.keeper2pinballsplit2.title,Zlepšené rozdělení
+upgrades.keeper2movement1.title,Gravitační pohyb 1
+properties.keeper2.explodespheres,Detonuj koule
+upgrades.keeper3kunaidamage4.desc,Zvíší těžební sílu vrhacích nožů. Vrhací nože jsou obzvláště slabé vůči tvrdým kamenům.
+upgrades.spireautonomy1.desc,Jednoduchá umělá inteligence bude ovládat věž během vaší nepřítomnosti.
+properties.droneyard.dronespeed,Rychlost dronů: {}
+upgrades.teslaquickshot.title,Rychlý výstřel
+assignment.megacreeps.title,Přežije nejsilnější
+upgrades.shieldbattleactivateondepletion.title,Aktivace po vyčerpání
+versus.corruptionbigwave.title,Zabijácká vlna
+upgrades.lasermove3.title,Rychlost pohybu 3
+upgrades.swordelectrified.title,Elektrifikovaná čepel
+upgrades.artillerymachinegun1.title,Zlepšená protiletecká zbraň
+level.tutorial.beastmaster.move.desc2,"Můžete se pohybovat jen tam, kde se chapadla mají čeho chytit."
+options.accessibility.fontsize.small,Menší
+assignment.unpredictable.desc,Atmosféra planety narušuje veškeré signály. Tím zabraňuje i radaru sledovat příchozí vlny monster.
+level.tutorial.beastmaster.move.desc1,Použíjte chapadla pro pohyb dolem.
+upgrades.suitblasterdirectional.desc,Při pohybu bude oblek odpalovat směrované nálože ve směru pohybu. Pro odpálení běžné nálože zůstaňte na místě.
+level.tutorial.teleporter.take1,"Tvůj teleportér se skládá ze stanice a portálu, mezi kterými se můžeš teleportovat."
+options.audio.music.ost.mode.fixed.desc,"Přehraje následující skladby, bez ohledu na to, za kterého strážce právě hrajete."
+level.tutorial.teleporter.take2,Vezmi portál a umísti ho na libovolné místo.
+level.gameover.assignment.failed,Selhali jste s plněním úlohy Klanu Strážců.
+telemetry.manage,Zakázat online služby
+modding.restart,Restartovat
+upgrades.orchardbattlerootingexplosion.title,Výbušná kořist
+level.gameover.unlock.skin,Odemknul se nový oblek!
+upgrades.jetpackspeed3.desc,"Vylepší jetpack, aby se pohyboval rychleji."
+upgrades.repellentoverchargeduration2.title,Silné nabití
+upgrades.prospectionmeterwater1.desc,Zobrazuje vzdálenost k nejbližším nalezištím vody.
+loadout.prestige.miner.description,Soustřeďte se na co nejefektivnější těžbu na planetě bez monster. Máte na to 20 cyklů.
+upgrades.shieldbattlereflect.desc,"Spusť aktivní bojovou schopnost, která bude krátkou chvíli odrážet nepřátelské projektily."
+upgrades.stunlaserstun1.desc,Zvyšuje sílu omráčení laserem.
+multiplayer.error.gameresolved,Tahle hra již skončila.
+upgrades.shieldbattlereflect.title,Odražení
+options.audio.volumes.mastervolume,Celková hlasitost
+upgrades.keeper2pinballdamage4.title,Kinetické koule 4
+leaderboard.loading,Načítání...
+upgrades.droneyardparasites2.title,Parazitičtí dronové 2
+playerlist.title,Seznam hráčů
+upgrades.versusincreasewave2.desc,Trvale zvyšte sílu vln soupeřů.
+upgrades.rocketlauncher.title,Raketové silo
+upgrades.liftspeed1.title,Rychlost
+upgrades.rocketlauncherrockets2.title,Zásoba 2
+level.tutorial.blastmining.popup_1,"Vezmi nálož a polož ji tam, kde chceš odklidit kameny."
+upgrades.keeper3slidecontrol.title,Kontrolovaný sjezd
+properties.furnace.wavedelay,Základní oddálení: {} s
+upgrades.mushroomfarmspeed1.desc,Zlepší pohybové posílení získané po konzumaci hub.
+upgrades.dome3.title,Dělostřelecký Dóm
+properties.converter.ironirontime,Doba množení železa (v cyklech): {}
+properties.laser.movespeed,Rychlost pohybu: {}
+properties.stunlaser.damagepermonster,Oblastní poškození za každé monstrum: {} dps
+upgrades.stunlaser.title,Omračovací laser
+title.navbar.credits,Autoři
+upgrades.drillbotbuffstrength1.title,Výživné pamlsky
+level.tutorial.pickup.popup_1,Stiskem | zvedni surovinu.
+level.tutorial.pickup.popup_3,Podržením jich zvedneš víc.
+upgrades.blastminingtriple.title,Trojité nálože
+upgrades.prospectionmeterscandelay1.desc,Zkracuje interval aktualizace ukazatelů.
+upgrades.furnacelastingwaterfiring.desc,Voda se bude odpařovat v peci déle.
+upgrades.versusincreasewave2.title,Velká sabotáž
+upgrades.artillerymachinegun4.desc,"Nainstaluje zpevněnou hlaveň, která je schopna vydržet extrémní rychlost palby."
+upgrades.teslaspeed4.title,Rychlost zaměřovače 4
+upgrades.swordextendlong3.desc,Obrovská síla bodnutí a doba trvání.
+demo.end.title,"Děkujeme, že jste si zahráli demoverzi!"
+upgrades.stationextensiontubemovement.title,Vakuový tubus
+upgrades.keeper4squad3.title,Obrovská četa
+upgrades.orchardbattleshield.desc,"Nechte vyrůst ochranné větve na svém dómu, co vás budou chránit před projektily."
+properties.droneyard.battledronestrength,Parazitický efekt: {.percent}
+options.game.kunaicarriersnapping,Přichytit míření nosných vrhacích nožů na kardinální směry
+options.input.vibration.strength.xbox,Síla vibrací
+upgrades.keeper2pinballspherelifetime.title,Životnost koulí
+upgrades.furnace.title,Pec
+upgrades.shockwavedamage1.title,Poškození rázovou vlnou 1
+properties.orchard.drillbuff,Posílení těžby: {}
+level.tutorial.station.popup_4,Pak stiskem | spusť bojový režim a braň se.
+level.tutorial.teleporter_2,Pomocí teleportéru se teleportuj k portálu a naopak.
+level.tutorial.station.popup_2,Přesuň se na stanici a stiskem | do ní vejdi.
+title.navbar.continue,Pokračovat
+actionhint.tap,Klepnout
+level.tutorial.station.popup_1,Příšery útočí na tvůj dóm!
+multiplayer.error.kicked,Vyhozen z relace hry pro více hráčů.
+telemetry.allow.ps5,Příjmout smlouvu
+landing.proceed.switch,Stiskni cokoliv a pokračuj
+upgrades.condenserautoovercharge.title,Automatické nabití
+upgrades.keeper2pinballdestroyadjacenttiles.title,Kaskádový efekt
+level.converter.popup.queue,Automatické opakování konverze
+options.keybindings.cancel,Zrušit
+loadout.versus.condition.deathmatch.title,Poslední stojící dóm
+upgrades.domearmorprojectile1.desc,Sníží množství poškození obdržené od projektilů.
+options.keybindings.action.general.move,Pohyb
+upgrades.keeper3kunaicooldown2.title,Rychlejší vrhání
+upgrades.artilleryrotation2.title,Rychlejší pohyb
+loadout.gadget.additional.desc,Vyberte dodatečné zařízení!
+level.gameover.unlock.assignment,Odemkly se úlohy!
+upgrades.domesupplementprojectiledamagereduction1.desc,Zlepšuje odraznost povrchu dómu pro snížení poškození projektily. Neovlivňuje poškození útoky na blízko.
+upgrades.blastminingproductiontime1.desc,Snižuje čas potřebný k vytvoření nálože.
+upgrades.autocannonshotgun1.title,Brokovnice 1
+loadout.hint.loadout,Dokončete svou výbavu!
+assignment.condition.deliveriron,Doručte %d řeleza
+upgrades.drillbotduo.title,Zdatní kamarádi
+level.tutorial.assessor.carry.desc1_1.xbox,"Jakmile jsou k tobě pevně připoutané, budou tě následovat, i když pustíš tlačítko sběru."
+multiplayer.error.nomods,Neinstaluj žádné mody.
+options.input.controls.keybindings.xbox,Přiřazení tlačítek
+upgrades.domearmorprojectile2.title,Protiprojektilový pancíř 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"Nastavte hodnotu tak, aby se ukazatel nechvěl, když se páček pouze dotknete a nebudete na ně tlačit.
+Pokud na páčku zatlačíte, ukazatel by se měl chvět při pohybu páčky."
+upgrades.domesupplementcombatrepair2.title,Důkladnější polní opravy
+level.gadgetchoice.title,SEBER ZAŘÍZENÍ!
+properties.teleporter.slowdown,Zpomalení při přenosu: {.percent}
+upgrades.teslaspeed1.title,Rychlost zaměřovače 1
+assignment.weapondefect.title,Poškozená zbraň
+properties.suitblaster.directionalexplosions,Směrované nálože
+options.translation.community.title,Komunitní překlady
+options.audio.music.ost.mode,Nastavení soundtracku
+upgrades.teleporterteleportresourcesback.title,Teleportace surovin
+upgrades.orchardbattleshield.title,Ochranné větve
+properties.drill.sides,Počet postranních vrtáků: {}
+upgrades.teslaorbstun.desc,Elektrické koule mají o dost silnější omračovací efekt.
+upgrades.repellentoverchargeduration1.desc,Zvýší účinek nabití na bojových schopnostech.
+properties.keeper2.totalspheres,Koule: {}
+options.keybindings.action.general.up,Nahoru
+pause.quit.popup,"Opravdu chceš skončit?
+Hru ukončíš opětovným stisknutím.
+(Postup se ti uloží.)"
+upgrades.drillbotduplicate.desc,Vrtáček dostane dvojče Vrtílka.
+properties.keeper3.shurikenstrength,Dosah výbuchu (v polích): {}
+assignment.bigmapsparseresources.title,Pustina
+upgrades.converterqueue.title,Automatizované konverze
+multiplayer.error.otherprestigeplayerquit,"Hra byla ukončena, protože váš spoluhráč odešel. Vaše hra byla uložena a můžete pokračovat výběrem hry pro více hráčů z nabídky pokračovat."
+level.tutorial.teleporter.teleport1,Po přiblížení k portálu se stisknutím | teleportuješ zpátky.
+level.tutorial.teleporter.teleport2,Teleportovat se můžeš i opačným směrem.
+playerlist.report,Nahlásit
+upgrades.swordextendlong1.title,Dlouhé bodnutí 1
+upgrades.spiresplit3.desc,Šrapnely mohou letět všemi směry.
+upgrades.keeper3kunaicooldown3.desc,Budete moci vrhat nože rychleji.
+exhibition.title.press.anything,Stiskni cokoliv
+multiplayer.techtree.keeperexclusivesupplement,Tento doplněk se vztahuje pouze k vašemu strážci.
+options.input.gamepad.twinstick.xbox,Dvoupáčkové ovládání
+gadget.slot.domesupplement,Doplněk dómu
+loadout.mode.maze,Bludiště
+upgrades.teleporter.title,Teleportér
+properties.keeper4.holesquad,Velikost těžební čety: {}
+level.tutorial.fruit.popup_1,Právě ti dozrálo první urychlovací ovoce.
+upgrades.teslatiming1.desc,Výstřel bude silnější v momentě završení nabíjení.
+upgrades.converterefficientwaterlong.title,Intenzivní proces
+level.tutorial.fruit.popup_2,Jdi k němu a stiskem | ho sněz.
+unlock.buy.keeperdlc.xbox,Odemknutelné rozšířením „%s“
+upgrades.autocannonspeed1.desc,Naolejuje ozubená kola kanónu pro výrazné navýšení rychlosti pohybu.
+upgrades.probepermanentrevealresources.desc,Nalezené suroviny budou permanentně odhaleny.
+properties.teleporter.teleportresourcescooldown,Interval teleportování surovin: {} s
+upgrades.spire.desc,Obranná věž sestřelující příchozí projektily.
+reward.rewardkeepersupplements.title,Doplňky strážců
+upgrades.condenser.desc,"Přidá pod dóm stroj, který pomalu produkuje vodu díky kondenzaci."
+upgrades.spiresplit3.title,Rovnoměrné rozštěpení
+properties.drillbot.plantgrowthtime,Doba růstu pamlsku (v cyklech): {}
+modding.modio.showdownloaded,Show Downloaded Mods
+upgrades.stunlaserspeed1.title,Rychlost 1
+upgrades.resourcepackercharges.title,Počet nabití
+upgrades.swordblade1.title,Vylepšení seku
+loadout.versus.modifiers.desc,"Vyberte si modifikátory pro tuto hru, které ovlivní oba týmy. Modifikátory jsou volitelné."
+level.tutorial.fullscreen.back,zpět
+options.accessibility.backgrounds.explanation,"Nahradí pozadí jednotlivých světů za jedinou jasnou barvu, pro snížení vizuálního hluku během boje."
+upgrades.dome1health1.title,Zdraví 1
+loadout.prestige.pro.randomorder,Náhodné pořadí
+assignment.superhardrockwithholes.desc,"Kámen je zde velmi tvrdý, ale plný jeskyní."
+upgrades.droneyardparasites.title,Parazitičtí dronové
+actionhint.hold,Držet
+properties.spire.timebetweenshots,Zaměřovací doba: {} s
+properties.game.cyclespeed,Rychlost cyklu: {.percent}
+upgrades.artillerydirecthit3.title,Ničitel monster 3
+loadout.mode.drillbert,Vrtáčkův důl
+upgrades.prestigecobalt.title,Odeslat kobalt
+upgrades.rocketlauncher.desc,Na povel vypálí proti monstrům pronásledovací raketu.
+level.station.battle.navbar.exit,Odejít
+options.game.events.enableseasonal,Povolit sezónní obsah
+options.audio.music.ost.mode.fixed,Fixní
+assignment.ironcontribution.desc,Klan nutně potřebuje železo a žádá vás o rychlé dodání velkého množství.
+properties.rocketlauncher.damageperrocket,Poškození: {}
+upgrades.keeper4.title,Krotitel
+upgrades.laserbend.title,Otočná hlavice laseru
+unlock.host.locked.switch,Hostitel nevlastní rozšíření „%s.“
+level.supplementchoice.reroll.free, (%s) Vyměnit
+loadout.versusmod.versusmodifierconcentratediron,Akumulované železo
+pause.gamepadcontrols.use,Použít
+properties.repellent.battledamageovertime,Poškození příšer za sekundu: {}
+upgrades.repellentdelay1.title,Zdržení 1
+upgrades.converterefficientwatershort.desc,Konverze mezi vodou a železem bude mnohem rychlejší.
+upgrades.domesupplementcombatrepair1.title,Polní opravy
+level.tutorial.sworddome.slicing,Sekání
+properties.drillbot.scared,Vystrašen z monster
+title.navbar.updates.close,Zavřít
+upgrades.condenserspeed2.desc,Dále snižuje čas potřebný ke kondenzaci jedné jednotky vody.
+upgrades.prospectionmeteriron2.desc,Zobrazuje vzdálenost k nejbližším nalezištím železa.
+upgrades.keeper3carrylimit2.title,Nosný limit 2
+loadout.versus.condition.irondelivery.desc,"Tým, který jako první doručí %s železa, vyhrává."
+properties.mushroomfarm.speedbuffduration,Doba trvání posílení pohybu: {} s
+upgrades.keeper4punch1.desc,"Při těžbě budou vaše chapadla postupně nabírat sílu do obrovských rozměrů, ale při změně směru budou muset začít znovu."
+exhibition.level.heading,Jsi tam ještě?
+keeperdlc.load.missing.xbox,"Cannot load save, it contains unavailable add-on content. Please ensure 'The Lost Keepers' add-on is available."
+upgrades.domesupplementresurrection2.desc,Získejte dodatečné vzkříšení.
+pause.gamepadcontrols.drop,Pustit
+level.gameover.stats.monsterskilled,Zabité příšery
+level.gameover.timelapse,Časosběr
+upgrades.drill4.desc,"Posílí vrták, aby vrtal rychleji."
+upgrades.prospectionmetersand1.desc,Zobrazuje vzdálenost k nejbližším nalezištím kobaltu.
+assignment.instagip.desc,Monstra na této planetě jsou nepřirozeně brutální. Jejich útoky způsobují devastující poškození dómům.
+landing.proceed.xbox,Stiskni cokoliv a pokračuj
+upgrades.drillsides.desc,"Umístí na centrální vrták postranní vrtáky, které lze dle potřeby přenístit."
+properties.dome.meleedamagereduction,Snížení kontaktního poškození: {.percent}
+options.keybindings.action.keeper.throw,Vrhnout nůž
+level.station.battle.navbar.artilleryflak,Palná zbraň
+upgrades.teleporterlightweight.desc,Přenášení portálu vás bude sotva zpomalovat.
+level.gameover.backtomainmenu,Zpět do hlavní nabídky
+properties.sword.stabarrowhead,Větší velikost hrotu
+loadout.versus.team.open,otevřený
+level.gameover.stats.mapsize,Velikost mapy
+upgrades.domesupplementelectrifiedsurface2.desc,"Zvyšuje množství poškození, které monstra obdrží, když udeří do dómu."
+upgrades.prestigecobalt.desc,"Zaslání kobaltu. To navýší počet bodů prestiže, co získáte po každé vlně."
+options.video.renderscale.reset,Resetovat
+options.keybindings.text.xbox,"Upravte si přiřazení ovládání podle sebe.
+Tlačítka z různých sekcí se obvykle mohou bez problémů překrývat (například můžete používat stejné tlačítko pro pohyb strážce a zbraně dómu)."
+options.audio.music.frequency,Frekvence (cykly bez hudby)
+upgrades.rocketlauncherrockets2.desc,Zvýší počet raket připravených k odpálení.
+options.input.controls.mouse.menus,Použít myš v menu
+upgrades.artillerysplash4.title,Čtverná střelba
+upgrades.keeper4catgoblindig3.title,Zběsilé kopání
+properties.keeper4.catgoblincount,Počet skřítoček: {}
+loadout.mode.hud.desc,Začněte s plně vylepšeným informačním panelem.
+upgrades.drillbotsleepless.title,Základní výchova
+assignment.maze.desc,Podloží planety připomína bludiště. Je plné chodeb a nerovných struktur.
+level.tutorial.drop.popup_2.switch,Press | to drop one. Hold to drop many.
+upgrades.artillerysplash2.title,Dvojtá střelba
+loadout.select,Vyberte
+level.gameover.prestige.uploading.failed,"aktualizace se nezdařila, zkusím to znovu"
+level.assignment.badges.available,Dostupné odznaky: %d
+level.tutorial.beastmaster.goblins,Skřítočky
+properties.autocannon.spray,Rozptyl: {.percent}
+upgrades.versusspycam.title,Kamerová štěnice
+upgrades.shredgadgettoiron.title,Rozdrtit na železo
+upgrades.teslapersistance2.desc,Elektrické koule jsou ještě větší a zůstávají po ještě delší dobu.
+upgrades.suitblasterspeed2.title,Rychlost přípravy 2
+properties.shield.battleuses,Použití za bitvu: {}
+properties.prospectionmeter.range,Dosah (v polích): {}
+upgrades.droneyard.desc,Nainstaluj depo vyrábějící nákladní a bojové drony.
+upgrades.domearmorpulse.title,Reakční pulz
+title.navbar.multiplayer.host,Založit hru
+upgrades.spireburst.desc,"Věž si utvoří zásobníkový systém, což jí umožní několikrát vystřelit než bude muset přebít."
+upgrades.domearmor.desc,"Nainstaluje na dóm robustní pláty pancířování, které tak zvýší odolnost dómu."
+options.input.controls.mouse.gamepad.xbox,Přepnutí na ovladač a zpět je rozpoznáno automaticky
+unlock.difficulty.hard,Vyhrajte na brutální obtížnosti pro odemknutí.
+versus.corruptionmonsterhealth.title,Odolnější monstra
+properties.probe.markerretention,Trvání značky: {} s.
+loadout.hint.gamemodecompletion,Upravte si herní režim!
+upgrades.suitblasterdirectional.title,Směrované nálože
+options.keybindings.rebinding.cancel,Zrušit
+unlock.host.locked.xbox,Hostitel nevlastní rozšíření „%s.“
+loadout.versusmod.versusmodifiernorelics,No Relics
+upgrades.autocannondoublefirerate.title,Rychlopalebný kanón
+upgrades.blastmining.desc,Vyrábí nálože pro odpalování kamene. Přeneste je do štoly a pusťe je pro spuštění detonace.
+upgrades.converterqueue.desc,"Po dokončení konverze se vygenerované suroviny vysunou z konvertoru, zatím co konvertor spustí novou konverzi stejného druhu, jakého byla ta předchozí. Tohle bude provádět vždy, když budou dostupné potřebné suroviny, dokud není automatizovaná konverze vypnutá."
+modding.modio.fetchsubscriptionsfailed,Error fetching mod.io subscriptions!
+upgrades.orchardbattleshieldsecondlayer.desc,Nechte vyrůst druhou vrstvu ochranných větví.
+unlock.generic,Odemknutelné po výhře.
+loadout.versusmod.versusmodifiersoftrock.desc,Mapa má více měkkých kamenů.
+upgrades.assignments.desc,Přijměte složitou úlohu od Klanu Strážců a dokažte tak svou zdatnost.
+properties.probe.autorecharge,Automatizované dobíjení
+assignment.instagip.title,Brutální monstra
+upgrades.artillerysplash3.desc,Upravuje minomet pro palbu střel s velkým rozsahem výbuchu.
+multiplayer.join.joinfromcode,Přidat se
+pause.gamepadcontrols.move,Pohyb
+upgrades.condenserautoovercharge.desc,"Tvoje primární zařízení bude permanentně nabité, aniž by spotřebovávalo vodu. Výroba kondenzované vody bude po nabití pozdržena."
+multiplayer.continue.deviceselection.title,Vyber si strážce!
+upgrades.autocannonautonomy.desc,Automatický kanón se aktivuje i během vaší nepřítomnosti.
+upgrades.swordaimline.title,Zaměřovač
+multiplayer.join.button,Připojit se
+properties.artillery.rotationspeedwhilemachinegun,Rychlost pohybu při střelbě: {.percent}
+level.tutorial.artillery.panel2header,Protiletecká zbraň
+level.gameover.keepgadget.title,"Vyber si zařízení, které si chceš ponechat do příští mise"
+upgrades.domearmorprojectile2.desc,Dále snižuje množství poškození obdržené od projektilů.
+upgrades.shieldbattledestructionprevention.title,Poslední bitva
+upgrades.domeresourcecounters.desc,Zobrazí aktuální množství uložených surovin a automaticky opravuje dóm pod útokem pomocí skladovaného kobaltu.
+upgrades.spirestuntrap1.title,Energetická past
+upgrades.prospectionmeteriron2.title,Ukazatel železa
+loadout.mode.hyperactive,Rychle a slabě
+upgrades.prospectionmeterwater2.desc,Zobrazuje směr k nejbližším nalezištím vody.
+options.video.stretchmode,Režim roztažení
+level.gameover.prestige.title,PRESTIŽNÍ MISE SKONČILA
+upgrades.droneyardovercharge1.title,Nabité depo
+level.station.navbar.exit,Odejít
+upgrades.teslaorbdamage.title,Supravodivost
+upgrades.proberechargeafterbattle.title,Bezstaniční sonda
+upgrades.assignmentssendwater.title,Dodat vodu
+upgrades.probecharges.title,Další pulz
+pause.gamepadcontrols.pickup,Sebrat
+upgrades.prospectionmeter.title,Detektor
+upgrades.condenserspeed2.title,Výrobní rychlost 2
+loadout.mode.hyperactive.desc,"Příšery se pohybují mnohem rychleji, ale mají méně zdraví."
+upgrades.teleporterlightweight.title,Odlehčený portál
+versus.corruptionstunresistance.title,Odolnost vůči omráčení
+loadout.versusmod.versusmodifierpoorirondeposits,Rozsáhlá ložiska železa
+level.gameover.prestige.uploading.finalfailed,"aktualizace nového skóre se nezdařila, promiň!"
+modding.currentprofile,(Aktuální profil)
+upgrades.versussendiron.title,Dodat železo
+loadout.assignment.title,Vyberte si úlohu
+options.keybindings.rebinding,Přeřazení
+upgrades.teslaspeed2.title,Rychlost zaměřovače 2
+level.tutorial.beastmaster.hole_1,Držte| pro utvoření díry na zadní stěně dolu.
+level.tutorial.beastmaster.hole_2,"Skřítočky se brzo oběví, aby díru propojily se svým tunelovým systémem."
+upgrades.keeper3shurikenstrength2.title,Obrovský šuriken
+upgrades.versusspycam.desc,"Získejte novou stanici, která vám umožňuje nahlédnout do soupeřova dómu."
+loadout.versusmod.versusmodifiershortcycles,Krátké cykly
+options.accessibility.fontsize.large,Větší
+reward.rewardcentralmarker.desc,Označí střed dolu pomocí vertikální čáry.
+upgrades.shieldstrength3.desc,"Dále zvýší množství poškození, které štít dokáže absorbovat."
+options.game.movementsnapping,Přichytit pohyb na kardinální směry
+upgrades.laseraimline.title,Laserový zaměřovač
+upgrades.converterironduplication.title,Množení železa
+upgrades.jetpackspeed4.desc,"Vylepší jetpack, aby se pohyboval rychleji."
+options.keybindings.gamepad.xbox,Ovladač
+upgrades.teslapower1.title,Síla výstřelu 1
+gadget.slot.mineshaft,Centrální šachta
+keybindings.reset.title,Resetovat Nastavení Kláves
+upgrades.autocannonrateoffire2.desc,Znovu zvýší rychlost střelby.
+multiplayer.join.localonly,Hledají se pouze místní hry. Povolit online hry pro více hráčů?
+upgrades.keeper3aerialmastery.title,Mistr vzduchu
+upgrades.extractordestruction.desc,"Namísto zanechání zbytků kamene z ložisek železa, se po dokončení extrakce díky červím tunelům zhroutí. Při tom se zhroutí i některé okolní kameny."
+properties.shield.battleabilityduration,Délka schopnosti: {} s.
+upgrades.keeper4squad3.desc,Zvýší počet skřítoček v četě spolu s jejich výdrží.
+level.gameover.prestige.score.rankimproved,Tvé postavení na žebříčku se zlepšilo na {rank}.
+options.game.tutorials.noneunlocked,Nebyla odemčena žádná výuka.
+upgrades.droneyardparasites2.desc,Posílí efektivitu parazitických dronů.
+loadout.prestige.provocation,Provokace
+network.error.generic,Chyba sítě.
+options.game.ropesnapping,Přichytit míření lana na kardinální směry
+upgrades.keeper4catgoblindig1.title,Skřítočičí výkopy
+level.gameover.manualmove,Manuální prohlížení
+upgrades.domesupplementcombatrepair1.desc,Automaticky opravuje dóm v průběhu boje po obdržení určitého množství poškození. Nevyžaduje kobalt.
+upgrades.prospectionmeterscandelay1.title,Zlepšené hledání
+assignment.goaltype,Cíl
+properties.keeper1.speedlosspercarry,Zpomalení při nošení: {}
+upgrades.extractor.desc,"Pěstujte si extrakční červy, co se přichytí k ložisku železa, aby z něj vytáhli co největší množství v průběhu času."
+unlock.mapsize.huge,Vyhrajte na velké mapě pro odemknutí.
+upgrades.liftcarrykeeper2.desc,Výtah urychlí tvůj pohyb ještě více.
+loadout.mapsize.title,Velikost mapy
+loadout.difficulty.hard,Jak chceš
+upgrades.rocketlauncherdamage1.title,Vylepšené rakety
+versus.corruptionfastmonsters.title,Svižná monstra
+multiplayer.host.online.desc,Hráči z celého světa se mohou připojit.
+upgrades.keeper4speed3.desc,Výrazně navýší rychlost pohybu.
+network.error.offline,Připojení k síti bylo ztraceno. Zkontrolujte prosím připojení k síti.
+level.tutorial.ninja.carry.desc1_1,"Suroviny budou samy sebrány, když přes ně půjdete."
+upgrades.resourcepackerconstant.desc,"Téměř instantní dobití dělá užívání kompaktoru skoro neomezené. Jako bonus se zvýší maximální množství surovin ve svazku, spolu s úpravou zmenšení surovin ve svazku."
+loadout.versusmod.versusmodifiersecondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+assignment.logistics.desc,Klan Strážcú nalezl přebytkové množství vody na této planetě a dává vám za úkol vyřešit přepravu.
+properties.shockwave.damage,Poškození: {}
+pause.gamepadcontrols.back,Zpět

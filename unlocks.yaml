@@ -1,0 +1,67 @@
+keepers:
+  - keeper1
+  - keeper2
+
+keeper-skins:
+  - keeper1-skin1
+  - keeper1-skin2
+  - keeper1-skin3
+  - keeper2-skin1
+  - keeper2-skin2
+
+pets:
+  - pet1
+  - pet2
+  - pet3
+  - pet4
+  - pet5
+  - pet6
+
+domes:
+  - dome1
+  - dome2
+  - dome3
+  - dome4
+
+gadgets:
+  - repellent
+  - repellent-battle2
+  - repellent-battle3
+  - orchard
+  - orchard-battle2
+  - shield
+  - shield-battle2
+  - shield-battle3
+
+worlds:
+  - world1
+  - world2
+  - world3
+  - world4
+  - world5
+
+game-modes:
+  - relichunt
+  - prestige
+  - prestige-cobalt
+  - prestige-countdown
+  - prestige-endless
+  - prestige-miner
+  - prestige-pro
+
+map-sizes:
+  - medium
+  - large
+  - huge
+
+difficulties:
+  - yafi
+
+run-modifiers:
+  - hyperactive
+  - longtime
+  - maze
+  - doubleiron
+  - automateddefense
+  - hud
+  - drillbert

@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://d3gm6kfh4rajs"]
+
+[ext_resource type="Script" path="res://content/keeper/KeeperLight.gd" id="1"]
+[ext_resource type="Script" path="res://content/shared/LightLineOfSight.gd" id="2"]
+
+[node name="Light3D" type="Node2D" node_paths=PackedStringArray("big_light")]
+position = Vector2(0, -2)
+script = ExtResource("1")
+big_light = NodePath("LightBig")
+
+[node name="LightBig" type="Node2D" parent="."]
+script = ExtResource("2")
+light_name = "keeper_big"
+light_color = Color(0.12549, 0.568627, 0.156863, 0.627451)
+light_inner_color = Color(0.12549, 0.568627, 0.156863, 1)
+light_inner_enabled = true
+light_size = 36.0
+can_sleep = false
+light_flicker_strength = 1.0

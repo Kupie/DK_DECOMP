@@ -1,0 +1,2204 @@
+﻿key,it_IT
+upgrades.teslapersistance1.title,Sfere Persistenti 1
+upgrades.keeper4ramping1.title,Slancio
+upgrades.stationextensionupgrades.desc,Acquista gli aggiornamenti a distanza nella stazione mobile.
+upgrades.sword.title,Spada
+upgrades.autocannonimproved.desc,Migliora tutti gli aspetti del cannone.
+upgrades.drillbotstrength1.title,Potenza 1
+properties.monstermodifiers.timebetweenwavesmodifier,Lunghezza ciclo {.percent}
+level.gameover.unlock.modifiers,Nuovo modificatore di partita sbloccato!
+keybindings.reset.explanation.ps5,Le tue assegnazioni di pulsanti sono state ripristinate a causa di un recente aggiornamento che ha apportato modifiche significative allo schema di input. Ci spiace per l'inconvenienza!
+reward.rewardrerolloffers2.desc,Spendi acqua per cambiare più volte gadget o supplementi da scegliere.
+upgrades.proberecharge.desc,La sonda si ricaricherà lentamente nel tempo.
+versus.corruptionmonsterdamage.title,Mostri letali
+loadout.start.area.press,Premi|per iniziare la partita!
+upgrades.shieldbattleblastdamage.title,Esplosione Letale
+properties.monstermodifiers.move_speed,Velocità Movimento Mostri {.percent}
+upgrades.mushroomfarmspeed1.title,Velocità funghi 1
+upgrades.chainsawdamage1.title,Dimensione sega 1
+properties.orchard.battlerootexplosion,Danno esplosione {}
+level.tutorial.assessor.bundleguide.desc2,Premi|senza premere una direzione per piazzare un pacchetto stazionario.
+upgrades.swordtargetlock.desc,"Quando è estesa, la spada automaticamente prende di mira il primo nemico nel suo raggio."
+reward.rewardautomatedweapons.desc,Automatizza le tue armi secondarie.
+options.input.gamepad,Controller
+playerlist.profile,Vedi profilo
+upgrades.stunlaserstun1.title,Forza Stordimento 1
+properties.condenser.overchargedelay,Ritardo di produzione (cicli) {}
+exhibition.level.description,Ritorno al menu principale tra...
+keybindings.reset.explanation.switch,Le tue assegnazioni di pulsanti sono state ripristinate a causa di un recente aggiornamento che ha apportato modifiche significative allo schema di input. Ci spiace per l'inconvenienza!
+upgrades.shockwave.title,Martello a onde d'urto
+properties.keeper3.shurikencooldown,Ricarica Shuriken {}s
+title.navbar.leaderboard,Prestigio
+modding.prestigewhitelist,"Se hai una mod che secondo te dovrebbe essere permessa in un'ascensione, scrivicelo su Discord e ci daremo un'occhiata. Verranno soltanto accettate mod che non rendono il gioco sbilanciato, come ad esempio miglioramenti all'accessibilità o esclusivamente cosmetiche."
+upgrades.extractordoublebuild.desc,Migliora la produzione dei vermi.
+upgrades.chainsawdamage3.title,Dimensione sega 3
+modding.modio.error,Errore di mod.io
+loadout.versusmod.versusmodifiermirroredmap.desc,Le mappe sotto le cupole sono copie identiche specchiate l'una dell'altra.
+actionhint.blast,Esplosione
+multiplayer.host.crossplay,Attiva crossplay
+properties.converter.ironpercobalt,{} Ferro per Cobalto
+upgrades.shieldovercharge.desc,Usa l'acqua per sovraccaricare manualmente il tuo scudo in modo che assorba più danno la prossima ondata.
+properties.droneyard.overchargebattledronestrength,Rafforza i droni da battaglia {.percent}
+options.game.showkeeperaimindicator,Mostra l'Indicatore di Mira del Guardiano
+upgrades.autocannonautonomy.title,Autonomia
+properties.keeper4.holesquadduration,Durata della squadra di scavo {}
+options.keybindings.rebinding.capture,Registra
+options.game.screenshake.shakeintensity,Intensità vibrazione
+upgrades.keeper2pinballspherelifetime.desc,Aumenta il tempo di volo delle sfere.
+upgrades.swordreflection2.title,Deflessione 2
+upgrades.lift.title,Ascensore
+assignment.circumstance,Condizioni
+options.input,Comandi
+properties.keeper2.spheresplit,Dividi le Sfere in Arrivo
+properties.tesla.damage,Danno Colpo {}
+options.game.events.allowtelemetry,Abilita il multigiocatore online
+properties.keeper1.maxspeed,Velocità Massima {}
+level.tutorial.tesla.panel3content1,La cupola tesla è versatile. È necessario combinare tutte le sue capacità per avere successo.
+level.tutorial.sworddome.reflecting.desc,Usa lo scudo della spada per bloccare o deflettere i proiettili.
+options.game.bundlesnapping,Blocca la mira del pacchetto nelle direzioni cardinali
+upgrades.spiresustain.title,Fuoco continuo
+reward.rewardpermanentinventory.title,Inventario Permanente
+properties.furnace.ironduration,Tempo di combustione del ferro (cicli) {}
+level.gameover.assignment.badges.more,Completa la modalità di sfida di questo incarico per guadagnare un'altra medaglia.
+upgrades.droneyardovercharge2.title,Sovraccarico migliorato
+multiplayer.error.joincodefailed,Non è stata trovata alcuna lobby con il codice di adesione specificato.
+properties.laser.movespeedwhilefiring,Velocità mentre si Spara {.percent}
+upgrades.keeper3shurikencooldown1.title,Shuriken Rapido
+upgrades.orchardduration2.desc,Gli effetti del frutto durano molto più a lungo.
+options.input.controls,Controlli
+upgrades.droneyardovercharge3.desc,Ottieni ancora più droni aggiuntivi dopo aver sovraccaricato la fabbrica.
+upgrades.blastminingimpactdetonation.desc,La carica esplosiva detonerà nel momento che impatterà una superficie. L'esplosione sarà spostata nella direzione dell'impatto.
+upgrades.shieldstrength3.title,Robustezza 3
+level.gameover.clientdisconnect,Disconnetti dall'host
+upgrades.swordstabexplode.desc,"La spada è munita di una bomba, che esplode sul primo nemico con cui viene a contatto."
+properties.keeper4.minpunchdelay,Pugno più veloce {} s
+options.audio.music,Musica
+upgrades.keeper3carrylimit3.title,Capacità di Carico 3
+upgrades.keeper4swiftpunch.desc,Lo scavo inizia a una velocità iniziale più elevata.
+assignment.showdown.desc,I mostri su questo pianeta si stanno preparando per un singolo attacco massiccio.
+properties.suitblaster.chargespeedpercharge,Velocità di ricarica aggiuntiva per carica {.percent}
+loadout.versusmod.versusmodifierhardrock,Roccia dura
+properties.keeper4.catgoblinminingspeed,Velocità di scavo dei Catgoblin {.percent}
+keeperdlc.title,I Guardiani Perduti
+upgrades.drillbotduplicate.title,Gemello
+properties.mushroomfarm.drillbuffduration,Durata bonus scavo {}s
+upgrades.droneyardbattlegridlong1.desc,Rilascia più droni che rimarranno in circolazione più a lungo.
+level.gameover.prestige.uploading.inprocess,caricamento punteggio in corso...
+upgrades.furnace.desc,Installa una fornace con un camino. Il suo fumo ritarda il prossimo attacco dei mostri.
+leaderboard.needsOnlineServices.ps5,Accetta l'EULA nelle opzioni per visualizzare le classifiche.
+options.game.multiplayer,Multigiocatore
+upgrades.shieldbattledestructionprevention.desc,"Ottieni un lungo periodo d'invulnerabilità, quando la tua cupola sta per essere distrutta.
+Dopodiché, il tuo scudo non si caricherà per la prossima battaglia. Può essere riutilizzata dopo aver completato due ondate.
+"
+properties.keeper2.bundlestopcenter,Colonna Gravitazionale
+upgrades.chainsawdamage2.title,Dimensione sega 2
+upgrades.keeper2rotationalmining1.title,Estrazione a compressione 1
+upgrades.swordlargeblade1.title,Lama Pesante 1
+loadout.difficulty.veryeasy,Normale
+level.tutorial.assessor.spheres.desc2,La tua scorta di sfere è limitata e si ricarica automaticamente nel tempo.
+level.tutorial.assessor.spheres.desc1,Premi| per sparare una sfera cinetica nella direzione in cui miri.
+upgrades.repellentdelay2.desc,Incrementa ulteriormente il tempo prima della prossima ondata di mostri.
+upgrades.artillerydirecthit1.desc,Migliora il mortaio per sparare poriettili specializzati in colpi diretti.
+reward.rewardpet12.title,Mascotte cane
+upgrades.keeper2movement4.desc,Muoviti molto più velocemente durante la raccolta e il trasporto delle risorse.
+properties.sword.stabspeed,Velocità di estensione {.percent} 
+upgrades.artillerysplash3.title,Esplosivi Volatili 2
+properties.drillbot.amount,{} colpi
+options.game.autopickupkunaicarrier,Prendi automaticamente il Trasportatore Kunai
+upgrades.stunlaserautonomy1.desc,La torretta stordente si attiva anche mentre non sei dentro la stazione di controllo.
+properties.shockwave.stunstrength,Forza stordimento {}
+loadout.proceed,Inizia
+multiplayer.host.joincodeunavailable,Non disponibile
+upgrades.shieldbattlelongerafterdepletion.desc,Se la barriera viene attivata quando lo scudo è scarico durerà più a lungo.
+level.tutorial.assessor.mining.desc,"Per rimuovere una singola roccia, continua a spingere contro di essa."
+upgrades.teleporterteleportresourcesback.desc,"Il portale ora teletrasporta le risorse, ma non può più riportarti indietro. Puoi ancora teletrasportarti dalla cupola al portale."
+keybindings.reset.doreset,Ripristina i miei comandi
+upgrades.jetpackstrength1.title,Capacità di trasporto 1
+level.tutorial.beastmaster.squad_1,Tieni premuto| vicino a un varco per chiamare una squadra di minatori.
+loadout.prestige.pro.explanation,"Riduci un po' la casualità e definisci un ordine fisso per gadget, supplementi e grotte."
+level.tutorial.beastmaster.squad_3,Può essere attiva una sola squadra alla volta.
+upgrades.swordelectrified.desc,"Una corrente elettrica attraversa la spada, facendole infliggere danno al contatto."
+level.tutorial.beastmaster.squad_2,Scaveranno casualmente la roccia intorno al varco.
+upgrades.drill1.title,Motore Trivella 1
+loadout.start.area.move,Sposta qui tutti i guardiani per iniziare!
+level.station.upgrademenu.close,Chiudi
+upgrades.rocketlauncherrestock.title,Rifornimento dei Missili
+upgrades.chainsawdamage1.desc,Aumenta il danno che la sega circolare infligge ai mostri.
+level.station.battle.navbar.artilleryshoot,Mortaio
+upgrades.repellentdelay3.title,Ritardo Ondata 3
+upgrades.suitblasterspeed1.title,Velocità di ricarica 1
+level.gameover.stats.additional,Statistiche dettagliate
+options.audio.music.ost.mode.adaptive,Dinamico (consigliato)
+upgrades.furnacestrongwaterfiring.title,Carburante ad acqua migliorato
+properties.dome.meleethorndamage,Danno di Ritorno {}
+upgrades.repellentbattlelongerhealthreduction.desc,Potenzia l'avvizzimento di tutti i mostri visibili.
+level.tutorial.tesla.panel3header,Molte Abilità
+versus.corruptionstunresistance.desc,I mostri saranno in gran parte resistenti allo stordimento e al rallentamento.
+level.tutorial.assessor.spheres,Sfere cinetiche
+upgrades.chainsawdouble.title,Sega circolare doppia
+upgrades.keeper4squad1.desc,Evoca una squadra specializzata di Catgoblin minatori per scavare la roccia vicina. Hanno un talento per scavare intorno alle risorse.
+versus.message.corruption,L'altra squadra ha appena inviato una corruzione di mostri contro di te.
+options.keybindings.action.keeper.gadget1,Gadget 1
+options.keybindings.action.keeper.gadget2,Gadget 2
+upgrades.swordfastreflection.title,Deflessione Accellerata
+properties.monsters.additionalstartweight,Forza d'onda aggiuntiva {}
+level.gameover.stats.damagedealt,Danno inflitto
+properties.keeper2.reflectspeed,Accelerazione sfera +{.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,Bonus durata abilità +{}s
+properties.converter.ironcobalttime,Tempo di conversione da Ferro a Cobalto (Cicli) {}
+upgrades.droneyardbattlegrid.desc,Schiera una formazione di droni da battaglia per difenderti dai mostri vicini.
+upgrades.suitblasterradius1.desc,Aumenta il raggio di esplosione.
+upgrades.droneyardbattlegridquick1.title,Droni rapidi
+options.input.controls.keybindings.button.ps5,Modifica Pulsanti
+multiplayer.host.ping,Ping del server: %dms
+title.navbar.singleplayer,Giocatore singolo
+options.video.renderhalfres.enable,Renderizza a Metà Risoluzione
+level.gameover.stats.destroyedblocks,Blocchi distrutti
+upgrades.converterefficientwaterlong.desc,Cambiare la conversione dell'acqua in un lungo processo con grandi rese.
+pause.restartrun,Riavvia Partita
+options.video.stretchmode.scaled,Scalata
+level.tutorial.beastmaster.mine.desc1,"Per scavare la roccia, continua a spingere contro di essa."
+level.tutorial.beastmaster.mine.desc2,La velocità di scavo aumenta a ogni colpo.
+upgrades.domesupplementscraprepair2.desc,Ripristina la salute strutturale persa dalla cupola effettuando riparazioni con dei rottami.
+upgrades.keeper2bundle3.desc,"I pacchetti lanciati verso l'asse centrale si fermeranno lì, direttamente sotto la cupola, invece di volare oltre."
+leaderboard.fellowkeepers,Classifica Gilda
+upgrades.autocannon.desc,Installa un potente cannone automatico sulla tua cupola che fa molti danni ai mostri.
+properties.orchard.battlerootcatchduration,Durata Trappola {}s
+upgrades.laseraimline.desc,"Aggiunge un mirino laser, mostrando la traiettoria del colpo."
+upgrades.teslapersistance2.title,Sfere Persistenti 2
+upgrades.orchardovercharge2.desc,Aumenta l'impatto del sovraccarico sulle abilità di battaglia.
+actionhint.teleport,Teletrasporto
+loadout.difficulty.medium.description,La difficoltà per cui è stato pensato il gioco.
+upgrades.swordlargeblade2.title,Lama Pesante 2
+loadout.prestige.endless,Infinito
+upgrades.teslanurture.title,Sovraccarico
+upgrades.shieldbattleelectroblast.desc,Attiva questa abilità di combattimento per creare una zona letale intorno alla tua cupola per poco tempo.
+options.game.blocklist.desc,"Questa è la lista dei giocatori che hai bloccato.
+Non li incontrerai nelle future partite online.
+Se cambi idea, puoi sbloccarli qui sotto.
+Puoi bloccare fino a %s giocatori."
+level.gameover.back,Indietro
+upgrades.shockwavestun2.title,Onda d'urto stordente 2
+upgrades.liftcapacity1.desc,Le sfere possono trasportare più risorse.
+upgrades.domewavemeter.title,Sensore di prossimità
+level.gameover.assignment.win.title,ASSEGNAMENTO COMPLETATO
+gadget.slot.cellar,Scantinato
+options.game.ropecamerafollow,Intensità anticipo visuale camera durante uso della corda
+upgrades.proberecharge.title,Ricarica Automatica
+level.tutorial.repair.usecobalt,Puoi usare il cobalto per riparare la cupola. È un potenziamento nell'albero tecnologico della cupola.
+level.supplementchoice.title,SCEGLI UN SUPPLEMENTO!
+options.keybindings.action.general.right,Destra
+gadget.slot.keepersuit,Tuta del guardiano
+assignment.cobaltcontribution.desc,La gilda ha urgentemente bisogno di cobalto e ne richiede una grande quantità da consegnare rapidamente.
+upgrades.prestigefinish.desc,Abbandona questo pianeta e torna a casa.
+loadout.mapsize.huge.description,Una mappa enorme per le partite più longeve.
+options.game.events,Eventi
+loadout.versusmod.versusmodifierrichirondeposits.desc,I depositi di ferro sono piccoli ma molto ricchi.
+loadout.mode.shortcycles.desc,Hai meno tempo tra le ondate.
+multiplayer.error.lobby.host,Impossibile ospitare la lobby.
+level.tutorial.sworddome.reflecting,Deflessione
+level.tutorial.artillery.panel3header,Esplosioni & Colpi Diretti
+assignment.rareiron.title,Carenza di ferro
+level.tutorial.assessor.carry.desc1_1,"Una volta agganciate, ti seguiranno anche se lasci il tasto di raccolta."
+level.station.battle.navbar.slice,Fendi
+upgrades.furnacewaterfiring.title,Carburante ad acqua
+upgrades.drill.desc,"Una trivella centrale per scavare in profondità nella miniera, con una trivella laterale opzionale."
+level.gameover.stats.additionalgadget,Gadget aggiuntivo
+level.tutorial.tesla.panel2content1,Tieni premuto|carica un colpo.
+level.tutorial.tesla.panel2content2,"Per sparare un colpo, rilascia il pulsante solo dopo che la ricarica si è completata. Se lo farai troppo presto non otterrai nulla."
+upgrades.teslapersistance1.desc,Le sfere elettriche sono più grandi e durano più a lungo.
+upgrades.blastminingtriple.desc,Produce più cariche esplosive contemporaneamente invece di una sola.
+properties.droneyard.battledronecount,Droni da battaglia {}
+options.ok,Ok
+loadout.versusmod.versusmodifiermanycaverns,Mappa cavernosa
+upgrades.lasermove1.desc,Il laser si sposta più velocemente.
+upgrades.domewavewarner.desc,L'avviso dell'orda segnalerà quando è il momento di tornare alla cupola a causa dell'arrivo di un'orda. È adattivo e migliorerà la precisione col tempo.
+upgrades.dome4.title,Cupola Tesla
+upgrades.keeper4squad1.title,Squadra delle gallerie
+upgrades.keeper4autospawnminers.desc,"Ogni volta che viene scavato un nuovo ingresso di galleria, una squadra di minatori emergerà automaticamente."
+assignment.unpredictable.title,Comandi rotti
+upgrades.blastminingblast3.desc,Migliora le cariche esplosive all'estrema Potenza.
+upgrades.domewavepathtodome.title,Via d'uscita
+level.tutorial.probe.popup_1.switch,Premi | per emettere un impulso dalla sonda.
+upgrades.teslapower1.desc,Potenzia il colpo del cannone Tesla.
+loadout.versus.modifiers.title,Modificatori
+properties.furnace.irondelay,Ritardo del ferro {}s
+actionhint.pickup,Raccogli
+demo.end.subtitle,"La versione completa offre una quantità enorme di contenuti. Se ti stai divertendo, valuta l'acquisto della versione completa. Ecco una parte di ciò che include:"
+loadout.versusmod.versusmodifierironinflation.desc,"Tutti i potenziamenti richiedono il doppio del ferro, ma i depositi di ferro sono più ricchi."
+upgrades.artilleryprojectileerasure.title,Dispersione proiettili
+options.video.brightness.reset,Ripristina
+upgrades.domesandrepair.desc,Permette di riparare la cupola più volte usando il cobalto.
+upgrades.swordlongblade2.title,Lama Lunga 2
+level.gameover.restart,Riavvia partita
+options.input.gamepad.thumbstick,Levetta
+level.tutorial.caves,Caverne
+options.input.gamepad.gamepadstickdeadzone.ps5,Zona Morta della Levetta
+upgrades.keeper3shuriken2.title,Shuriken rapidi
+upgrades.condenserspeed1.desc,Riduce il tempo necessario per condensare un'unità d'acqua.
+properties.monsters.fixedweight,Forza dell'ondata fissa {}
+properties.versus.ironcontribution,Contributo di ferro {}
+multiplayer.join.title,Partecipa a una sessione multigiocatore
+upgrades.prestigewater.title,Spedisci acqua
+upgrades.keeper3kunaibounce2.title,Risonanza Profonda
+upgrades.swordtargetlock.title,Aggancio Bersaglio
+upgrades.artillerymachinegun4.title,Torretta Ultrarapida
+upgrades.mushroomfarmdrill2.title,Funghi minatori 2
+upgrades.stunlaser.desc,Installa un laser che mira automaticamente e stordisce i mostri.
+upgrades.shieldbattleinvulnerable.title,Invulnerabilità
+loadout.hint.dome,Scegli una cupola!
+loadout.versusmod.versusmodifierrichirondeposits,Deposti di ferro densi
+upgrades.chainsawdouble.desc,Installa un'altra sega circolare per difendere efficacemente entrambi i lati della cupola.
+properties.lift.capacity,Le sfere portano {} risorse
+upgrades.keeper2bundle1.title,Indicatore centrale
+upgrades.autocannonrateoffire1.title,Mitragliatrice 1
+loadout.versusmod.versusmodifierwindingmap,Mappa tortuosa
+upgrades.prospectionmetersand2.title,Rivelatore di cobalto
+properties.lift.orbs,{} sfere
+upgrades.keeper3doublejump.desc,Salta di nuovo mentre sei a mezz'aria.
+upgrades.droneyardparasites3.title,Droni parassiti 3
+upgrades.keeper4doublesquad.title,Seconda squadra
+upgrades.relichunt.title,Caccia alla reliquia
+upgrades.orchardbattlerooting.desc,Attivala in battaglia per far crescere delle radici fuori dalla cupola che intrappoleranno qualsiasi mostro di media grandezza con cui avranno contatto.
+upgrades.prospectionmetergadget.title,Scanner Antri
+properties.sword.reflection,Grandezza Scudo aumentata
+upgrades.extractorresources1.desc,Alleva vermi speciali che lavorano con attenzione ed estraggono più ferro.
+properties.dome.autohealdamagethreshold,Si attiva dopo aver preso più di {} danni
+upgrades.keeper2rotationalmining2.desc,Migliora la velocità di estrazione delle rocce.
+properties.tesla.persistencestunstrength,Forza Stordimento Sfera Elettrica {}
+level.gameover.stats.timeplayed,Tempo di gioco
+properties.sword.stabdamage,Danno da estensione {} 
+properties.monsters.additionalwaveweight,Forza ondata aggiuntiva{.percent}
+options.game.playerindicatorsinmultiplayer,Mostra gli indicatori dei giocatori nel multigiocatore
+properties.mushroomfarm.speedbuff,Bonus velocità di movimento {}
+level.tutorial.drillbot.carry,Prendi Drillberto dalla cisterna e posizionalo nella miniera in cui deve scavare.
+modding.modio.decline,Rifiuta
+assignment.inversegravity.desc,Il pianeta ha la gravità invertita.
+level.tutorial.drop.popup_2,Premi | per lasciarne una. Tieni premuto per lasciarne molte.
+upgrades.droneyardbattlegridquick1.desc,Rilascia più droni in successione molto più rapida.
+upgrades.mushroomfarmautopickup.desc,Consuma automaticamente funghi quando ti muovi vicino a loro.
+level.tutorial.drop.popup_1,Trasportare le risorse ti rallenta.
+properties.sword.retractspeed,Velocità di Ritrazione {} 
+reward.rewardkeeper1skin5.title,Skin da Ingegnere
+upgrades.keeper4.desc,"Guardiano arcano che attraversa le miniere con agili tentacoli, comandando servitori catgoblin."
+assignment.condition.deliverwater,Fornisci %d acqua
+loadout.difficulty.hard.description,"Beh, tanto è la tua di cupola."
+upgrades.lasermove2.title,Velocità di rotazione 2
+loadout.versusmod.versusmodifierhardrock.desc,La mappa contiene più roccia dura.
+properties.furnace.maxironstack,Ferro Max {}
+upgrades.rocketlauncherdamage2.desc,Migliora ancora di più i missili.
+upgrades.artilleryrotation1.desc,L'artiglieria può muoversi con un angolo più ampio.
+level.furnace.popup.fuel.add,Accumula un'unità di|da bruciare.
+reward.rewardpostrunshowmonstercount.desc,Mostra ulteriori statistiche di battaglia alla fine di una partita. Per esempio quanti danni hai ricevuto da ogni tipo di mostro.
+upgrades.extractordoublebuild.title,Verme doppio
+multiplayer.error.otherteamquit,La partita è terminata perché tutti i giocatori hanno abbandonato l'altra squadra. La partita è stata salvata e puoi continuare selezionando multigiocatore nel menu continua.
+upgrades.blastminingproductiontime1.title,Tempo Di Produzione
+upgrades.chainsawdamage2.desc,Aumenta il danno che la sega circolare infligge ai mostri.
+multiplayer.continue.deviceselection.originalplayer,Giocatore originale
+upgrades.shieldbattleinvulnerable.desc,Attiva questa abilità di combattimento per rendere la tua cupola invulnerabile per poco tempo.
+level.gameover.unlock.drillbert,Modificatore Drillberto sbloccato!
+multiplayer.host.splitscreen.desc.switch,Usa i controller nell'equipaggiamento per far comparire altri guardiani. Fino a due guardiani possono condividere lo stesso schermo. Può essere combinato con il multiplayer online.
+loadout.mapsize.large,Grande
+level.furnace.popup.explanation,Aggiungi risorse all'accumulo di carburante. Le risorse vengono bruciate una dopo l'altra.
+upgrades.liftcapacity1.title,Capienza
+upgrades.shockwavebig.title,Onda mortale
+upgrades.extractorresources2.desc,Alleva vermi che troveranno ogni singola particella di ferro all'interno della roccia.
+level.tutorial.ninja.shuriken.desc1,Tocca due volte| per lanciare uno shuriken.
+level.tutorial.ninja.shuriken.desc2,Gli shuriken si ricaricano nel tempo.
+upgrades.droneyarddronespeed1.title,Velocità drone
+upgrades.stunlaserarea.title,Stordimento ad area
+assignment.weakmining.title,Problema minerario
+options.game.events.allowtelemetry.ps5,Accetta EULA
+upgrades.keeper3kunaibounce2.desc,Aumenta il raggio delle caselle rivelate a ogni rimbalzo.
+assignment.projectilehell.title,Inferno di proiettili
+options.input.controls.mouse.gamepad.ps5,Il cambio di Controller viene rilevato automaticamente.
+reward.rewardpermanenthealthmeter.title,Misuratore Permanente Integrità
+properties.game.fixedtimelimit,Tempo limite: {} minuti
+upgrades.drillbot.title,Drillberto
+options.video.performance,Prestazioni
+properties.furnace.waterduration,Tempo di ebollizione dell'acqua (cicli) {}
+level.gameover.win.team.profile,Profilo
+upgrades.droneyardbattlegrid.title,Griglia di Battaglia
+loadout.prestige.countdown.description,Il moltiplicatore di punti ascensione inizia alto e diminuisce a ogni ciclo.
+level.tutorial.ninja.carry.desc1,Premi| per lanciare un kunai che trasporta risorse nella direzione in cui stai mirando tramite %s.
+level.gameover.miner.title,PARTITA MINATORE FINITA
+loadout.mapsize.medium.description,Una mappa di medie dimensioni per un'escursione mineraria classica.
+upgrades.assignmentsemergencycontribution2.desc,Invia questo pacchetto entro il 4° turno o fallisci questo incarico.
+level.gameover.unlocknewelementbutton,Scegli la tua ricompensa
+upgrades.repellentbattlestrongerslowdown2.desc,La nebbia rallenta ancora di più i mostri ed ha una durata maggiore.
+upgrades.orchardovercharge3.desc,Aumenta l'impatto del sovraccarico sulle abilità di battaglia.
+modding.steamworkshop,Apri il Workshop di Steam
+upgrades.shieldstrength2.title,Robustezza 2
+reward.rewardkeeper1skin5.desc,Sblocca una nuova skin da guardiano per l'Ingegnere.
+options.keybindings.rebinding.error.gamepad.ps5,Non è possibile impostare questo pulsante come input da gamepad.
+properties.keeper2.actioncooldown,Ricarica azione {}s
+pause.godot,Creato con Godot
+loadout.mode.nomonsters,Nessun Mostro
+properties.teleporter.teleportduration,Durata teletrasporto {}s
+level.paused,In pausa
+upgrades.teslaautoaim.desc,Il reticolo ottiene una piccola area all'interno della quale mirerà automaticamente al mostro più vicino.
+upgrades.domearmorpulse.desc,"L'armatura della cupola trattiene una parte dell'energia cinetica dagli attacchi ricevuti, rilasciandola infine in forti impulsi che stordiscono i nemici vicini."
+upgrades.teslapower2.title,Potenza di Fuoco 2
+modding.close,Chiudi
+upgrades.stunlaserduration2.desc,Il laser stordente si raffredda più velocemente e ha una durata di fuoco maggiore.
+level.station.battle.navbar.move,Muovi
+upgrades.repellentbattleslowdown.title,Nebbia Debilitante
+properties.drillbot.buffstrength,Velocità da energizzato +{.percent}
+options.input.controls.keybindings.button.switch,Modifica Pulsanti
+upgrades.lasermove1.title,Velocità di rotazione 1
+upgrades.stunlaserduration2.title,Resistenza al Fuoco 2
+modding.profile.delete,Cancella Profilo
+upgrades.dome1health1.desc,Aumenta permanentemente l'integrità della cupola.
+assignment.logistics.title,Incubo logistico
+level.gameover.prestige.score.finalscore,Il tuo punteggio finale è...
+upgrades.prestige.desc,"Ottieni reputazione della Gilda dei Guardiani mandandogli più risorse possibili, ma lascia il pianeta prima di essere sopraffatto!"
+properties.chainsaw.damage,Danno al secondo {}
+upgrades.autocannonshotgun2.desc,Aumenta la potenza del fucile a pompa.
+reward.rewardthreechoicesgadget.title,Offerta tre gadget
+options.input.gamepad.twinstick,Controlli delle Levette
+upgrades.domewavewarner.title,Avviso adattivo dell'orda
+upgrades.mushroomfarmdrill1.desc,Migliora il bonus di scavo ottenuto consumando funghi.
+properties.suitblaster.chargespeed,Cariche per ciclo {}
+loadout.player.color,Colore guardiano
+level.assignment.badges.unlock,Guadagna altre %d medaglie per sbloccare.
+assignment.projectilehell.desc,Il pianeta è infestato da mostri volanti che sparano proiettili.
+properties.shield.overchargebattleabilityduration,Bonus durata abilità +{.percent}
+properties.orchard.battleshieldhp,Forza {}pv
+properties.keeper2.reflectsphere,Scudo Riflettente
+upgrades.probecharges.desc,Aggiungi un'altra carica alla sonda.
+upgrades.resourcepackerconstant.title,Imballaggio Supremo
+upgrades.droneyardbattlegridlong2.desc,Rilascia molti altri droni che rimarranno in circolazione per molto tempo.
+upgrades.swordreflection2.desc,Aumenta ulteriormente lo scudo.
+upgrades.orchardovercharge3.title,Sovraccarico intenso
+upgrades.assignmentsemergencycontribution4.desc,Invia questo pacchetto entro l'11° turno o fallisci questo incarico.
+upgrades.droneyardovercharge3.title,Sovraccarico esteso
+level.gameover.assignment.lose.title,ASSEGNAMENTO FALLITO
+actionhint.pack,Pacchetto
+upgrades.stationextensionminimap.title,Cartografia
+properties.tesla.orbdamage,Danno Sfera Elettrica {}
+properties.furnace.maxwaterstack,Max Acqua {}
+loadout.versusmod.versusmodifiermirroredmap,Mappa specchiata
+upgrades.artilleryrotation1.title,Rotazione Ampia
+upgrades.drillsidespeed2.desc,Accelera ancora di più le trivelle laterali.
+level.tutorial.resourcepacker.popup_1,"Quando delle risorse sono vicine, premi | per imballarle in un pacchetto compatto più facile da trasportare."
+properties.orchard.overchargeabilityuses,Usi di abilità aggiuntivi {}
+options.input.controls.gamepadusage,Utilizzo Controller
+options.keybindings.restoredefault,Ripristina predefiniti
+options.input.gamepad.switch,Controller
+upgrades.stationextensionresolution.title,Schermo ad alta risoluzione
+upgrades.shieldbattlelongerafterdepletion.title,Generatore D'Emergenza
+telemetry.manage.ps5,Rifiuta EULA
+level.gameover.stats.damagereceived,Danno ricevuto
+modding.modio.moddownloadfailed,Errore nel download della mod da mod.io!
+loadout.versusmod.versusmodifierironinflation,Inflazione di ferro
+reward.rewardpermanentwavecount.title,Contatore cicli permanente
+upgrades.jetpackstrength1.desc,Migliora il jetpack per trasportare più risorse.
+level.gameover.unlock.gadget,Nuovo gadget
+upgrades.stationextension.desc,"Ottieni una stazione mobile, che corre su un binario direttamente sotto la cupola. Entra nella stazione per controllare a distanza la tua cupola dall'interno della miniera."
+loadout.versusmod.versusmodifierpoorirondeposits.desc,I depositi di ferro sono molto estesi ma con una resa inferiore.
+upgrades.repellentbattlestrongerslowdown2.title,Forte Stagnazione
+upgrades.converterirontocobalt.desc,Permette la conversione dal cobalto al ferro e viceversa.
+loadout.dome,CUPOLA
+upgrades.orchardduration3.title,Durata 3
+level.gameover.stats.resourcesmined,Risorse estratte
+options.input.gamepad.thumbstick.ps5,Levetta
+upgrades.keeper1powerdrill.desc,"Ottieni una trivella notevolmente migliorata che può facilmente trapanare attraverso la roccia più dura, anche distruggendo rocce prima indistruttibili."
+upgrades.domesecondweapon.title,Arma la seconda stazione
+actionhint.fire,Fuoco
+versus.corruptionfastprojectiles.title,Proiettili veloci
+level.gameover.unlock.dome,Nuova cupola
+loadout.versus.modifiers.limit,%d modificatori scelti su %d.
+upgrades.swordstabfast2.title,Estensione rapida 2
+properties.blastmining.growthtime,Tempo di produzione (cicli) {}
+options.keybindings.rebinding.inputprocessor,Premi un tasto…
+level.gameover.stats.difficulty,Difficoltà
+assignment.inversegravity.title,Sottosopra
+assignment.acidrain.desc,La pioggia acida del pianeta previene ogni forma di vita e addirittura apre un varco nelle fortificazioni della cupola
+upgrades.keeper4doublesquad.desc,"Ottieni un'altra squadra, pronta a lavorare ogni volta che la chiami."
+upgrades.keeper4powerfulfirstpunch.desc,Il primo colpo contro una casella viene sferrato con forza eccezionale.
+multiplayer.host.start,Ospita una sessione
+upgrades.mushroomfarmspeed2.title,Velocità funghi 2
+demo.end.more1,Altre cupole!
+demo.end.more2,Il guardiano Studioso!
+upgrades.swordreflection1.desc,Aumenta la dimensione dello scudo permettendogli anche di deflettere i proiettili.
+demo.end.more3,Molti altri gadget!
+upgrades.chainsawspeed1.title,Velocità sega
+assignment.treefarm.desc,"Le risorse del pianeta sono poche, ma è possibile trovare molti semi dell'Albero delle risorse."
+demo.end.more4,Supplementi potenti!
+options.input.gamepad.gamepadstickdeadzone.text,"Imposta il valore in modo tale che il rettangolo non tremi se tocchi lievemente la levetta del controller.
+Se spingi la levetta del tutto, il rettangolo dovrebbe tremare."
+actionhint.probe,Sonda
+level.gameover.keepgadget.keeping,Gadget da tenere: {gadget}
+upgrades.keeper3aerialmastery.desc,Ottieni maggiore controllo durante la caduta e ogni salto a mezz'aria ti lancia più in alto del precedente.
+upgrades.drillbot.desc,Adotta un'adorabile creatura che ama scavare. Portalo nelle miniere e lascialo dove vuoi farlo lavorare. Controllalo per svegliarlo quando lo sorprendi a dormire sul lavoro.
+upgrades.laserstrength4.title,Potenza 4
+upgrades.artillerydoublemachinegun.title,Doppia Canna
+upgrades.laserbend.desc,Installa una testa rotante al laser che corregge automaticamente la tua mira quando sfiori un bersaglio.
+upgrades.teslaquickshot2.title,Colpo rapido potenziato
+properties.droneyard.battledronespawntime,Tempo di generazione dei droni {}s
+upgrades.prospectionmetersand2.desc,Visualizza la direzione dei depositi di cobalto più vicini.
+upgrades.keeper2pinballreflect2.title,Deflessione migliorata
+loadout.secondstage.start,Inizia partita
+level.tutorial.extractor.popup_1,Recupera i vermi di ferro dalla stazione e lasciali cadere vicino a un ammasso di ferro. Si attaccheranno al ferro e lo estrarranno in modo efficiente nel tempo.
+upgrades.spirestuntrap2.desc,"Migliora l'efficienza della Trappola Energetica, catturando più proiettili."
+loadout.versus.condition.deathmatch.desc,La squadra che sopravvive più a lungo vince.
+loadout.versusmod.versusmodifiertoughstart.desc,Le ondate di mostri iniziano già piuttosto forti.
+level.tutorial.drillingrig.popup2,"Quando sei in prossimità di una trivella laterale, tieni premuto | per spostarla lungo l'albero della trivella."
+level.tutorial.drillbot.sleeping2.switch,"Quando sei vicino a Drillberto, premi | per svegliarlo."
+upgrades.teleporterteleportitems.title,Teletrasporto Oggetti
+level.tutorial.drillingrig.popup1,"Il tuo impianto di perforazione ha una trivella laterale, che può scavare in orizzontale."
+level.tutorial.ninja.drop.desc1,Premi | mentre sei a terra e mira verso il basso col %s per lasciare cadere tutti gli oggetti trasportati.
+upgrades.stationextension.title,Stazione sotterranea
+upgrades.keeper2pinballreflect2.desc,Le sfere si potenziano ancora di più quando vengono riflesse.
+properties.sword.stabrange,Raggio {} 
+pause.disconnect.popup.ps5,Non puoi lasciare il Controller wireless principale.
+options.game.systemcursor,Usa il cursore predefinito del mouse
+upgrades.artillerygrenadefastreload.desc,Riduce il tempo di ricarica del tuo mortaio in modo significativo.
+upgrades.stationextensionrevealdistance1.title,Scansione rocciosa di prossimità
+loadout.mode.secondweapon,Seconda arma sbloccata
+options.video.reducedparticles,Effetti particellari ridotti
+properties.monsters.finalwavefixedstrength,Forza dell'Ondata Finale {}
+versus.corruptionfastmonsters.desc,I mostri saranno permanentemente più veloci.
+upgrades.spirestuntrap1.desc,"Intercettare un proiettile genera una trappola di energia, che catturerà altri proiettili. Il numero di proiettili generati dipende dalla potenza del proiettile in arrivo."
+versus.corruptionfastprojectiles.desc,I proiettili dei mostri voleranno molto più velocemente.
+options.input.gamepad.twinstick.switch,Comandi a due levette (disattivati con un singolo Joy-Con)
+upgrades.autocannonrateoffire2.title,Mitragliatrice 2
+upgrades.chainsaw.title,Sega circolare
+options.input.vibration.strength.ps5,Intensità Vibrazione
+savegame.corrupted.title,File di salvataggio corrotto
+properties.drillbot.drillstrength,Potenza Trivella {}
+properties.prestige.multiplier,Moltiplicatore Punti Ascensione per Ondata {}
+upgrades.artillerysplash4.desc,Porta la devastazione su tutto il campo di battaglia sparando 4 proiettili altamente esplosivi in rapida successione.
+upgrades.condenserdoublestorage.desc,Il condensatore produce e immagazzina due unità d'acqua prima di spegnersi.
+upgrades.shieldbattleactivateondepletion.desc,L'invulnerabilità si attiva automaticamente un'ulteriore volta quando gli scudi cedono.
+upgrades.chainsawspeed1.desc,La sega circolare si muove più velocemente tra entrambi i lati.
+upgrades.teleporterteleportduration2.title,Durata teletrasporto 2
+properties.orchard.overchargeabilitystrength,Forza abilità aggiuntiva {.percent}
+modding.modio.loginfailed,Accesso a mod.io con account Xbox non riuscito!
+upgrades.rocketlauncherrockets3.title,Raffica 3
+leaderboard.needsOnlineServices,Leaderboards richiede che i servizi online siano abilitati.
+options.game.blocklist,Lista bloccati
+upgrades.keeper4squad2.desc,Aumenta il numero di Catgoblin nella squadra e la loro resistenza.
+reward.rewardweaponsupplements.desc,Scopri supplementi estremamente forti per la tua arma.
+upgrades.domesupplementadditionalcellar.desc,"Aggiungi un altro piano al tuo scantinato, fornendo due posti aggiuntivi per i gadget."
+level.tutorial.assessor.bundle.desc1,"Per raggruppare le risorse, premi|mentre le trasporti."
+loadout.difficult.harder,più difficile
+playerlist.close,Chiudi
+upgrades.keeper3rocketcarrier.title,Trasportatore Missili
+level.tutorial.assessor.spheres.desc1.aiming,Premi| per sparare una sfera cinetica nella direzione in cui miri tramite %s.
+level.gameover.unlock.gamemode,Nuova modalità
+upgrades.rocketlauncherrockets1.title,Raffica 1
+upgrades.autocannonspeed1.title,Accelerazione
+upgrades.spiresustain.desc,"Porta il tempo di ricarica praticamente a zero, permettendo degli spari continui."
+upgrades.extractorresources1.title,Vermi diligenti
+multiplayer.host.splitscreen.desc.xbox,Usa i controller nell'equipaggiamento per far comparire altri guardiani. Fino a quattro guardiani possono condividere lo stesso schermo. Compatibile con multigiocatore online.
+level.assignment.badges,Medaglie
+upgrades.prestigefinish.title,Abbandona il pianeta
+properties.sword.slicebounceback,Rimbalzo sugli angoli
+properties.droneyard.transportdronecount,Droni da trasporto {}
+upgrades.drilladditionalsides.title,Trivella laterale aggiuntiva
+upgrades.shieldbattleblastdamage.desc,Aumenta il danno e gli utilizzi per battaglia della barriera elettrica.
+upgrades.extractordestruction.title,Implosione della tana
+properties.sword.electricdamage,Danno Spada Elettrica {}
+properties.mushroomfarm.growthtime,Tempo di crescita (cicli) {}
+upgrades.keeper3carrylimit1.desc,Aumenta il numero di risorse che puoi portare con te con il trasportatore Kunai.
+options.accessibility.fontsize,Dimensione carattere
+upgrades.keeper4punch2.title,Frenesia 2
+upgrades.laser.desc,Un laser preciso che si muove insieme alla tua cupola. Originariamente ideato per lo scavo di asteroidi.
+loadout.hint.multiplayer.playermaximum,Devono esserci al massimo 8 giocatori per avviare una partita multigiocatore.
+upgrades.drillsides.title,Trivella laterale
+upgrades.mushroomfarmautopickup.title,Morso Rapido
+options.input.controls.mouseusage,Utilizzo del Mouse
+properties.tesla.reticlemaxspeed,Velocità Reticolo {}
+upgrades.swordstabshoot.desc,La spada viene caricata e lanciata dalla cupola come un giavellotto invece di estendersi con un cavo.
+properties.condenser.autocollect,Raccolta automatica
+loadout.abort,Indietro
+loadout.mapsize.small,Piccola
+loadout.hint.gamemode,Scegli una modalità di gioco!
+upgrades.swordlargeblade3.title,Lama Pesante 3
+level.tutorial.ninja.controls,Questo guardiano può essere giocato solo con controller oppure con mouse e tastiera.
+telemetry.explanation.ps5,"Accetta il nostro EULA (End-User License Agreement - Contratto di Licenza per l'Utente Finale) per accedere al multiplayer online. In caso contrario, puoi comunque giocare in multiplayer locale in modalità schermo condiviso. Puoi modificare questa impostazione in qualsiasi momento nelle opzioni."
+multiplayer.techtree.keeperexclusiveupgrades,Queste migliorie si applicano solo al tuo guardiano.
+assignment.heavyhitters.desc,Il pianeta brulica di mostri da mischia.
+options.input.controls.mouse.domes,Usa il Mouse per le Cupole
+loadout.mode.toughstart, Inizio difficile
+upgrades.swordaimline.desc,Aggiunge un mirino laser che mostra la traiettoria della spada.
+upgrades.assignmentssendiron.title,Consegna il Ferro
+upgrades.domearmormelee1.title,Armatura da mischia 1
+assignment.showdown.title,Resa dei conti
+upgrades.keeper3shuriken1.desc,Ottieni uno Shuriken lanciabile che esplode in una piccola area e si ricarica automaticamente.
+upgrades.teslatiming1.title,Tempismo perfetto
+upgrades.stationextensionrevealdistance2.title,Scansione rocciosa
+loadout.prestige.pro.gadgetorder,Ordine gadget
+upgrades.prospectionmeterwater1.title,Indicatore idrico
+properties.teleporter.teleportresources,Teletrasporto risorse
+options.video.stretchmode.scaled.text,"Renderizza il gioco ad una risoluzione fissa scalandola alla tua.
+L'immagine potrebbe essere sfocata, specialmente nei testi, ma senza errori grafici."
+actionhint.cancel,Annulla
+level.station.battle.navbar.stab,Estendi
+properties.keeper3.bouncesonarrange,Raggio Sonar (tiles) {}
+assignment.cobaltcontribution.title,Contributo di cobalto
+upgrades.keeper2pinballsplit.desc,"Le sfere in arrivo saranno scisse in due, lanciandole in modo perpendicolare alla direzione originale."
+options.input.gamepad.xbox,Controller
+upgrades.stunlaserduration1.desc,La torretta si ricarica più velocemente e spara per più tempo.
+properties.spire.stuntrapduration,Durata {}s
+loadout.mapsize.medium,Media
+upgrades.keeper4swiftpunch.title,Colpi rapidi
+upgrades.domewavecount.title,Contatore cicli
+level.gadgetchoice.slot,Slot: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,Recupera le spore di micelio dal tronco del fungo e lasciale cadere su una roccia. Occasionalmente faranno crescere un fungo bonus.
+options.game.languages,Lingua
+upgrades.autocannonshotgun2.title,Fucile a Pompa 2
+upgrades.drillbotturnaround.title,Addestramento Avanzato
+level.tutorial.overcharge.popup_2,Avvicinartsi ad esso e premere | per sovraccaricare.
+level.tutorial.overcharge.popup_3,Questo consumerà un | e può essere usato solo se hai abbastanza.
+level.tutorial.overcharge.popup_1,"Ora puoi sovraccaricare il tuo gadget primario, questo lo renderà più forte per la prossima battaglia."
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,"Invece di utilizzare sfere, tutte le risorse all'interno dell'ascensore vengono continuamente spostate verso l'alto da un campo gravitazionale inverso. Rimborsa parzialmente le risorse spese per le sfere."
+level.station.navbar.battle,Battaglia
+options.keybindings.rebinding.error.mouse,Non è possibile impostare questo tasto come input da mouse.
+options.input.gamepad.autoswitch.ps5,Rilevamento Automatico del Controller Preferito
+properties.lift.keeperupwardsspeed,Velocità dell'ascensore {}
+loadout.keeper,GUARDIANO
+level.gameover.unlock.keeper,Nuovo Guardiano
+options.keybindings.rebinding.inputprocessor.xbox,Premi un tasto…
+options.keybindings.gamepad,Controller
+upgrades.keeper4extraresource.title,Catgoblin diligenti
+upgrades.shieldoverchargestrength2.title,Bonus Resistenza Scudo 2
+loadout.mode.domesupplements,Tripli Supplementi
+upgrades.converter.desc,"Permette di convertire le risorse, aiutandoti a bilanciare l'inventario."
+assignment.minorvision.title,Buio
+upgrades.shieldstrength1.desc,Aumenta il danno che può assorbire lo scudo della cupola.
+properties.stationextension.tilerevealdistance,Rivela a distanza {} caselle
+loadout.mode.toughstart.desc,Inizia con ondate più forti.
+upgrades.liftcarrykeeper1.desc,Sei più veloce quando ti muovi nell'ascensore.
+options.input.controls.mouse.aim,Usa mouse per mirare
+upgrades.spireprojectileslowdown.desc,La spira rallenta in maniera continua tutti i proiettili nemici.
+assignment.chosen.title,Il tuo incarico della gilda
+upgrades.furnacestrongwaterfiring.desc,Aumenta l'efficacia dell'ebollizione di acqua nel ritardare i mostri.
+properties.dome.healthfractionrepair,Ripara il {.percent} della vita massima
+level.tutorial.assessor.carry,Raccolta gravitazionale
+upgrades.laserhitprojectiles.title,Laser antiproiettile
+upgrades.teslaorbstun.title,Effetto Profondità
+reward.rewardgadgetsupplements.title,Supplementi Gadget
+options.input.controls.keepersettings.individual,Impostazioni individuali del guardiano
+upgrades.teslapower2.desc,Potenzia il colpo del cannone Tesla.
+properties.acidrain.fixeddamageperminute,Danni al minuto {}
+demo.end.more,E molto di più:
+landing.proceed.switch,Premi un pulsante qualsiasi per continuare
+modding.modio.ugcterms.content2,"Continuando, il tuo identificativo Xbox Live verrà utilizzato per autenticarti automaticamente su mod.io. Per procedere, devi leggere e accettare le informative di mod.io:"
+upgrades.keeper4catgoblinamount.title,Nidiata ampliata
+modding.modio.ugcterms.content3,[i]Queste condizioni si apriranno nel browser web predefinito del tuo sistema.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,Stagnazione
+upgrades.spiresplit1.title,Scissione
+upgrades.suitblasterradius2.title,Raggio di esplosione 2
+properties.keeper4.punchstrength,Forza del pugno {}
+modding.modio.ugcterms.content1,"Per accedere ai contenuti generati dagli utenti (UGC, user-generated content), scaricarli e gestirli, questo gioco utilizza il servizio [b]mod.io[/b]."
+upgrades.versus.title,Contro
+upgrades.swordstabexplode.title,Estensione esplosiva
+modding.modlist.title,Mod abilitate
+options.game.kunaisnapping,Blocca la mira del kunai nelle direzioni cardinali
+loadout.versusmod.versusmodifiersecondweapon,Seconda arma sbloccata
+upgrades.teleporterteleportduration1.desc,Teletrasportarsi richiederà meno tempo.
+options.input.controls.keybindings.button,Modifica Comandi
+upgrades.domearmor.title,Armatura della cupola
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"Imposta il valore in modo tale che il rettangolo non tremi se tocchi lievemente la levetta del controller.
+Se spingi la levetta del tutto, il rettangolo dovrebbe tremare."
+options.translation.community.desc,Queste lingue sono tradotte dalla nostra bellissima community. Unisciti a loro se vuoi!
+level.tutorial.beastmaster.mine,Scavo
+upgrades.keeper4speed1.desc,Aumenta la velocità di movimento.
+properties.repellent.overchargebattleabilityduration,Maggiore durata dell'abilità {.percent}
+upgrades.shockwavedamage1.desc,Aumenta il danno inflitto dall'onda d'urto.
+network.error.offline.xbox,La connessione alla rete Xbox è stata interrotta. Controlla la tua connessione a internet e riprova.
+properties.condenser.waterstorage,Contiene {} unità d'acqua
+loadout.versusmod.versusmodifierstrongmonsters.desc,I mostri sono più difficili da uccidere.
+title.navbar.modding,Modding
+upgrades.dome3.desc,Cupola militare comunemente usata per scatenare la devastazione utilizzando un mortaio immensamente potente. Viene fornito con una pistola antiaerea per la piena capacità difensiva.
+upgrades.keeper4powerfulfirstpunch.title,Primo colpo
+properties.sword.brake,Agilità Spada {}
+level.tutorial.suitblaster.popup_1,"Premi | per sparare dal blaster della tuta, distruggendo rocce intorno a te entro un certo raggio."
+properties.stunlaser.firetime,Durata laser {}s
+level.tutorial.suitblaster.popup_2,Si ricarica automaticamente col tempo.
+properties.droneyard.battleabilityuses,Utilizzi per battaglia {}
+upgrades.keeper4ramping1.desc,Accumula velocità di scavo continuando a scavare. Lo slancio diminuisce quando ti fermi.
+level.gameover.unlockpicker.title,SCEGLI LA TUA RICOMPENSA
+options.input.gamepad.autoswitch.switch,Rilevamento Automatico del Controller Preferito
+upgrades.suitblaster.desc,Installa una pistola esplosiva nella tua tuta che può distruggere le rocce intorno a te.
+upgrades.spiresplit1.desc,"I proiettili colpiti si dividono in multipli più piccoli, infliggendo danni ai nemici. Il numero di proiettili dipende dalla potenza del colpo in arrivo."
+properties.versus.additivewave,Aumento della forza dell'ondata (altra squadra) {}
+properties.keeper3.aircontrol,Controllo aereo {.percent}
+multiplayer.error.keepertaken,Il guardiano selezionato è già stato scelto. Prova con un altro guardiano.
+assignment.mode.challenge,Sfida
+upgrades.keeper3shurikenstrength1.desc,"Aumenta la potenza esplosiva degli Shuriken, distruggendo le caselle in un'area più ampia."
+pause.invite,Invita amici
+options.accessibility.fontsize.medium,Media
+upgrades.keeper2pinballdestroyadjacenttiles.desc,"Ogni volta che una sfera cinetica distrugge un blocco roccioso, vengono distrutte anche quelli perpendicolari all'impatto."
+upgrades.furnaceironfiring.title,Combustibile di ferro
+upgrades.furnaceslowdown.desc,"Aggiungi una componente tossica ai fumi, paralizzando il sistema nervoso dei mostri e rallentandone i movimenti."
+upgrades.swordlargeblade2.desc,"Scambia la tua lama con una massiccia. È più lenta, ma infligge molti danni."
+upgrades.blastminingblast1.desc,Aumenta l'intensità dell'esplosione.
+upgrades.stationextensionrevealdistance1.desc,Le rocce e le risorse vicine alla stazione vengono rivelate automaticamente.
+leaderboard.season,Stagione {season}
+multiplayer.host.crossplay.enabled,Crossplay attivato
+multiplayer.techtree.keepersharedupgrades,Queste migliorie sono condivise per tutti i guardiani che usano questo gadget.
+loadout.versusmod.versusmodifierlongcycles.desc,Il tempo tra le ondate di mostri è più lungo.
+upgrades.artillerydirecthit2.title,Polverizza Mostri 2
+upgrades.stationextensionresolution.desc,Ottieni un'immagine più nitida della cupola e dei suoi dintorni.
+options.keybindings.action.general.use,Usa
+loadout.relichunt.modifiers,Applica modificatori
+assignment.heavyhitters.title,Picchiatori aggressivi
+upgrades.furnacelastingwaterfiring.title,Carburante ad acqua efficace
+properties.shield.battleblastdamage,{} Danni Barriera al secondo
+multiplayer.error.timeout,La connessione è scaduta.
+multiplayer.join.discovering,Ricerca di sessioni in corso...
+properties.condenser.growthtime,Tempo di produzione (cicli) {}
+level.gameover.assignment.badges,Hai guadagnato una nuova medaglia da spendere nelle ricompense della Gilda dei Guardiani.
+upgrades.drill1.desc,Potenzia la trivella permettendo di scavare più velocemente.
+level.corruptionchoice.title,SCEGLI UNA CORRUZIONE!
+properties.artillery.grenadedamage,Danno Proiettile {}
+level.gameover.continue,Continua
+options.game.spheresnapping,Blocca la mira della sfera nelle direzioni cardinali
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Input rilevato:
+options.input.gamepad.icons.automatic,Automatiche
+reward.rewardkeeper4skin3.title,Skin da Dominatore delle Bestie
+upgrades.prestige.title,Prestigio
+upgrades.keeper3shurikenstrength1.title,Shuriken forte
+upgrades.spiresplit2.desc,I proiettili divisi sono più veloci e in maggior quantità.
+upgrades.swordlargeblade1.desc,"Allarga e allunga la lama, aumentando i danni inflitti."
+upgrades.droneyardbattlegridlong1.title,Droni longevi
+properties.stunlaser.speed,Velocità {}
+upgrades.repellentbattleslowdownstun2.desc,Usa le spore più frequentemente e stordisce i mostri più a lungo.
+upgrades.drillsidespeed1.desc,Accelera le trivelle laterali.
+level.tutorial.ninja.bombs.desc1,Tieni premuto| per lanciare kunai da scavo nella direzione in cui stai mirando tramite %s.
+loadout.mode.maze.desc,"La mappa è labirintica, con diramazioni, svolte e vicoli ciechi."
+upgrades.domesupplementprojectiledamagereduction2.desc,Aumenta ulteriormente la riflessione per ricevere meno danni dai proiettili.
+level.tutorial.ninja.bombs.desc2,I Kunai rimbalzeranno quando colpiscono una parete con un angolo ripido.
+upgrades.domesupplementmeleedamagereduction1.desc,Rafforza lo scafo della cupola per subire meno danni dai colpi corpo a corpo dei mostri. Il danno da proiettile non viene influenzato.
+upgrades.chainsawautonomy.title,Autonomia
+options.input.gamepad.gamepadstickdeadzone,Zona Morta Levetta
+upgrades.teslapower3.desc,Potenzia il colpo del cannone Tesla.
+level.tutorial.artillery.panel1header,Mortaio
+upgrades.keeper4punch3.title,Frenesia 3
+upgrades.furnaceslowdown.title,Fumi paralizzanti
+upgrades.teslaspeed1.desc,Il reticolo di mira si muove più velocemente.
+upgrades.teslaquickshot2.desc,Il colpo rapido è molto più forte.
+level.tutorial.repair.findcobalt,"Cerca di trovare il cobalto. Puoi usarlo per riparare la cupola.
+Se ne trova in scarse quantità."
+title.navbar.newgame,Nuova partita
+options.keybindings.action.dome.battle,Modalità Battaglia
+upgrades.keeper2pinballsplit.title,Scindi sfere
+properties.keeper2.bundlecentralmarker,Indicatore di colonna centrale
+options.keybindings.gamepad.ps5,Controller
+options.video.stretchmode.rezised.text,"Renderizza il gioco nella risoluzione nativa o quella in finestra.
+L'immagine sarà molto nitida, ma potrebbe causare degli errori grafici nella forma di linee larghe 1 pixel."
+options.audio,Audio
+upgrades.domehealthmeter.desc,Mostra l'integrità strutturale della cupola.
+upgrades.shieldbattlereflectshortuses.title,Deflessioni Multiple
+loadout.zoom1,Vicino
+loadout.zoom2,Lontano
+upgrades.orchardovercharge.title,Serra Sovraccaricata
+upgrades.keeperonewayteleporter.desc,Ottieni un teletrasporto personale di sola andata. Posiziona un portale monouso ovunque e teletrasportati lì quando vuoi.
+options.input.controls.gamepadusage.ps5,Utilizzo Controller
+properties.orchard.battleroots,Crescita di radici sul terreno {}
+upgrades.mushroomfarm.desc,Coltiva funghi nel tuo scantinato che possono essere piantati all'interno della miniera per ottenere velocità e potenziamenti allo scavo.
+keybindings.reset.title.ps5,Reset assegnazioni pulsanti
+multiplayer.continue.deviceselection.cancel,Annulla selezione
+loadout.hint.selection,Premere|per scegliere un'opzione.
+upgrades.orchardbattleshieldsecondlayer.title,Tettoia a doppio strato
+properties.artillery.grenades,Proiettili {}
+upgrades.drill3.title,Motore Trivella 3
+assignment.weakcarry.title,Problemi logistici
+upgrades.shockwavestun1.title,Onda d'urto stordente 1
+upgrades.domesupplementprojectiledamagereduction1.title,Riflessione dello Scafo della Cupola
+properties.keeper3.maxjumps,{} Salti
+upgrades.converterefficientcobalt.desc,Migliora la conversione in modo più efficiente.
+properties.furnace.waterdelay,Ritardo dell'acqua {}s
+gadget.slot.keepersupplement,Supplemento Guardiano
+upgrades.keeper4ramping2.title,Slancio 2
+upgrades.orchardduration1.title,Durata 1
+upgrades.domesupplementprojectiledamagereduction2.title,Riflessione Migliorata
+loadout.pet,Animale
+reward.rewarddomesupplements.desc,Scopri supplementi estremamente forti per la tua cupola.
+properties.prestige.score,Punteggio Ascensione {}
+properties.keeper3.kunaicooldown,Ricarica Kunai {}s
+properties.stunlaser.stunarea,Area Stordimento {}
+upgrades.blastminingblast2.desc,Aumenta ulteriormente l'intensità dell'esplosione.
+reward.rewardrerolloffers2.title,Reroll acquatico
+upgrades.artillerysplash1.title,Esplosivi Volatili 1
+upgrades.drillwidetunnel.title,Tunnel ampio
+modding.modio.ugcterms.title,Condizioni d'uso dei contenuti generati dagli utenti
+options.input.controls.keepersettings.title,Impostazioni dei comandi del guardiano
+options.keybindings.action.keeper.gravitycollect,Raccogli
+upgrades.domearmorhealth1.desc,"Aumenta la durata dell'armatura, dando alla cupola più salute."
+reward.rewardgadgetsupplements.desc,Scopri supplementi estremamente forti per i tuoi gadget.
+properties.laser.movespeedmod,Modificatore Velocità Rotazione {.percent}
+upgrades.domeresourcecounters.title,Gestione dell'Inventario
+level.tutorial.tesla.panel2header,Sparatoria
+upgrades.jetpackstrength2.desc,Migliora il jetpack per trasportare più risorse.
+upgrades.teslapower4.title,Potenza di Fuoco 4
+properties.repellent.battleuses,Utilizzi per battaglia {}
+loadout.gadget.additional.unlock,"Ci sono gadget che non hai ancora sbloccato. Per sbloccare un gadget, vinci qualsiasi partita dopo aver trovato il gadget all'interno della miniera e averlo installato nella cupola."
+properties.laser.hitprojectiles,il laser colpisce i proiettili
+properties.keeper2.minspeed,Velocità minima {.percent}
+properties.laser.dpsmod,Modificatore Danno {.percent}
+properties.prospectionmeter.scandelay,Ritardo Scan {}s
+level.tutorial.artillery.panel1content2,"Più a lungo terrai premuto, più lontano volerà il tuo proiettile."
+level.tutorial.artillery.panel1content1,Tieni premuto|carica il mortaio e poi rilascia il tasto per sparare.
+level.gameover.saveimages,Salva
+assignment.mode.regular,Classico
+upgrades.teslaautoaim.title,Mira Automatica
+upgrades.orchardduration1.desc,Gli effetti del frutto durano più a lungo.
+options.title,OPZIONI
+upgrades.probedetectchambers.desc,La sonda ora rileva gli antri.
+upgrades.dome1.desc,"Cupola da scavo minerario standard, equipaggiata con un laser potente e preciso."
+upgrades.repellentbattlestrongerslowdown1.desc,La nebbia rallenta i mostri ulteriormente e più a lungo.
+upgrades.resourcepacker.desc,"Installa un pacchetto di risorse nella tua tuta che può raggruppare e comprimere più risorse in un pacchetto, rendendole più facili da trasportare."
+properties.keeper4.goblinextraresourcechance,Probabilità di risorse aggiuntive {.percent}
+properties.orchard.speedbuff,Bonus Velocità di Movimento {}
+keybindings.reset.explanation.xbox,Le tue assegnazioni di pulsanti sono state ripristinate a causa di un recente aggiornamento che ha apportato modifiche significative allo schema di input. Ci spiace per l'inconvenienza!
+upgrades.keeper2rotationalmining2.title,Estrazione a compressione 2
+upgrades.keeper3rocketcarrier.desc,Sostituisce i portatori di Kunai con versioni a razzo che viaggiano in linea retta fino all'impatto.
+properties.blastmining.damage,{} danni
+options.video.renderscale,Scala di rendering
+modding.profile.title,Seleziona Profilo
+options.keybindings.action.general.left,Sinistra
+properties.versus.multiplicativeewave,Aumento della forza dell'ondata (altra squadra) {.percent}
+level.tutorial.drillbot.sleeping1,Drillberto si addormenta dopo un po' di tempo o se incontra un blocco indistruttibile.
+level.tutorial.drillbot.sleeping2,Avvicinati e premi | per svegliarlo.
+upgrades.laserstrength3.desc,"Aumenta considerevolmente la potenza del laser, ma si muove a stento mentre si spara."
+upgrades.orchardovercharge2.title,Sovraccarico migliorato
+level.tutorial.drillbot.sleeping3,Premi | per fargli cambiare direzione quando è sveglio.
+modding.prestigeforbidden,Non puoi iniziare una run Prestigio con queste mod.
+upgrades.laser.title,Laser
+upgrades.domesupplementelectrifiedsurface1.title,Scafo Elettrificato 1
+pause.quitgame,Esci dal gioco
+upgrades.swordlargeblade3.desc,"Una lama imponente. Molto potente, ma ha poca velocità."
+upgrades.relichunt.desc,Trova la reliquia in profondità e riportala alla tua cupola.
+properties.stunlaser.cooldown,Ricarica {}s
+upgrades.repellentdelay1.desc,Incrementa il tempo prima della prossima ondata di mostri.
+savegame.corrupted.desc,"Il tuo ultimo salvataggio è corrotto, probabilmente a causa di un arresto anomalo del sistema durante il salvataggio. Stiamo ripristinando al salvataggio precedente."
+multiplayer.host.online,Online
+keybindings.reset.doreset.ps5,Ripristina i miei comandi
+loadout.secondstage.cancel,Indietro
+upgrades.keeper4catgoblindig2.title,Scavo efficiente
+upgrades.furnacewaterfiring.desc,Bolli acqua nella fornace per ritardare ulteriormente gli attacchi dei mostri.
+upgrades.shockwavedamage2.title,Danno onde d'urto 2
+upgrades.proberange1.desc,Aumenta la portata della sonda.
+pause.options,Opzioni
+keeperdlc.load.missing.switch,"Impossibile caricare il salvataggio, contiene contenuti scaricabili non disponibili. Assicurati che il contenuto scaricabile 'I Guardiani Perduti' sia disponibile."
+options.keybindings.action.keeper.drop,Lascia
+upgrades.assignmentsemergencycontribution3.title,Contributo d'emergenza 7
+options.game.shootbundlebeforegadgets,Spara al Pacchetto di Risorse prima dei Gadget
+options.video,Video
+upgrades.blastmining.title,Cariche Esplosive
+modding.modio.subscriptions,Mostra Abbonamenti Mod.IO
+level.gameover.proceedtounlock,Sblocca un nuovo elemento
+upgrades.prospectionmeter.desc,Un indicatore che mostra la distanza alle risorse più vicine.
+properties.keeper2.spherereload,Ricarica Sfere {}s
+options.keybindings.apply,Applica
+upgrades.teslaquickshot.desc,"Dopo aver sparato una scarica elettrica, puoi spararne un'altra più debole cliccando di nuovo."
+level.tutorial.tesla.panel1header,Movimento Reticolo
+upgrades.tesla.title,Tesla
+properties.tesla.persistance,Durata Sfera Elettrica {}s
+upgrades.repellentbattleslowdownstun1.title,Paralisi
+upgrades.probelongmarker1.title,Memoria degli indicatori
+modding.modio.tokenerror,Connessione al provider di token non riuscita!
+upgrades.stationextensionupgrades.title,Aggiornamenti a distanza
+upgrades.prestigewater.desc,Spedire indietro l'acqua. Aumenta la quantità di prestigio che si ottiene dopo ogni ondata.
+upgrades.artillerydirecthit2.desc,Aumenta il potenziale distruttivo dei proiettili del mortaio.
+upgrades.mushroomfarmquickgrowth.desc,I funghi crescono più rapidamente in cantina.
+network.error.notsignedin.ps5,Accedi a PlayStation™Network per utilizzare le funzionalità online
+options.input.controls.keybindings.ps5,Assegnazione pulsanti
+multiplayer.error.clientcrossplaydisabled,È necessario abilitare il crossplay per entrare in questa lobby.
+upgrades.keeper3carrylimit2.desc,Aumenta il numero di risorse che puoi portare con te con il trasportatore Kunai.
+level.supplementchoice.reroll, Cambia
+upgrades.orchardbattlerootingexplosion.desc,Attivala nuovamente per far esplodere tutti i mostri intrappolati infliggendo danni ad area intorno a loro.
+upgrades.rocketlauncherrestock.desc,Il silo missilistico rifornirà tutti i missili qualche tempo dopo essere stato svuotato.
+upgrades.droneyardbattlegridquick2.title,Droni immediati
+assignment.denseiron.title,Ferro denso
+options.input.controls.gamepadusage.switch,Utilizzo Controller
+level.tutorial.ninja.bombs,Kunai
+upgrades.domearmorhealth2.desc,"Aumenta la durata dell'armatura, dando alla cupola più salute."
+loadout.title,Arsenale
+multiplayer.continue.deviceselection.team,Squadra
+properties.keeper3.kunaiweaknessagainsthardrock,Fragilità dei Kunai contro la roccia dura {.percent}
+level.tutorial.repellent.popup_2,Avvicinati e premi | per attivarlo.
+upgrades.chainsawdamage3.desc,Aumenta il danno che la sega circolare infligge ai mostri.
+level.tutorial.artillery.panel3content1,"I proiettili del mortaio hanno un'area di effetto, ma colpi diretti infliggono più danni. Non possono danneggiare la cupola."
+level.gameover.unlock.regulargadget,Nuovo Gadget sbloccato per gli Incarichi!
+options.keybindings.gamepad.switch,Controller
+options.input.gamepad.thumbstick.switch,Levetta
+upgrades.artilleryshotstun.title,Esplosione assordante
+upgrades.assignments.title,Incarichi Gilda
+upgrades.rocketlauncherrockets1.desc,Aumenta la quantità di missili che puoi lanciare.
+level.tutorial.assessor.bundleguide.desc1,Ora è possibile guidare pacchetti stazionari.
+level.tutorial.assessor.mining,Estrazione a compressione
+level.tutorial.assessor.bundleguide.desc3,"Ti seguirà, se gli sarai vicino."
+level.gameover.win.team,LA SQUADRA %s VINCE
+level.tutorial.assessor.bundleguide.desc2.switch,Premi|senza premere una direzione per piazzare un pacchetto stazionario.
+options.video.graphicsmode.window,Finestra
+upgrades.artillerymachinegun1.desc,Migliora la tua torretta antiaerea per sparare più velocemente. Viene fornita inoltre con un mirino laser per migliorare la mira.
+upgrades.droneyardovercharge1.desc,Sovraccarica temporaneamente la fabbrica di droni con acqua per produrre più droni nella prossima battaglia.
+modding.title,MODDING
+assignment.treefarm.title,Vivaio
+level.gameover.prestige.score.personalbest,Nuovo record personale!
+level.gameover.unlock.world,Nuovo mondo sbloccato!
+assignment.chosen.todo,Nessun incarico scelto
+options.keybindings.action.dome.battleability1,Abilità Battaglia 1
+loadout.versusmod.versusmodifierwindingmap.desc,La mappa è leggermente labirintica.
+reward.rewardweaponsupplements.title,Supplementi Armi
+upgrades.drillbotstrength2.title,Potenza 2
+upgrades.keeper2movement1.desc,Migliora il tuo generatore gravitazionale aumentando la velocità di movimento.
+options.keybindings.action.dome.battleability2,Abilità Battaglia 2
+upgrades.domesecondweapon.desc,Installa una nuova arma controllata dalla seconda stazione situata nel secondo livello della cantina.
+upgrades.resourcepackerquickcharge.desc,Aumenta la velocità di rigenerazione dei pacchetti delle cariche.
+upgrades.laserstrength2.desc,"Aumenta notevolmente la potenza del laser, ma la velocità di movimento è ulteriormente ridotta mentre si spara."
+upgrades.autocannonimproved.title,Cannone Automatico Migliorato
+upgrades.keeper3kunaicooldown1.desc,Lancia i Kunai più velocemente.
+upgrades.keeper2pinballsplit2.desc,Le sfere scisse rimarranno attive più a lungo.
+upgrades.swordreflection1.title,Deflessione 1
+level.tutorial.ninja.drop.desc1.switch,Premi | mentre sei a terra e mira verso il basso col %s per lasciare cadere tutti gli oggetti trasportati.
+upgrades.suitblasterradius2.desc,Aumenta il raggio di esplosione.
+options.game.dropresourcesbeforegadgets,Rilascia le Risorse prima dei Gadget
+options.translation.community.crowdin,Progetto di Traduzione di Dome Keeper su Crowdin
+loadout.hint.playerlimitprestige,"Inizia una partita
+
+I punteggi non vengono caricati giocando in modalità Ascensione con almeno 3 giocatori."
+upgrades.assignmentsemergencycontribution1.title,Contributo d'emergenza 2
+upgrades.shockwavedamage2.desc,Aumenta il danno inflitto dall'onda d'urto.
+options.input.gamepad.autoswitch,Rilevamento Automatico del Controller preferito
+loadout.versusmod.versusmodifierlittlecobalt.desc,La mappa contiene depositi di cobalto molto scarsi.
+upgrades.keeper1.title,Ingegnere
+level.furnace.popup.title,Alimenta la fornace
+upgrades.prospectionmeterrange2.title,Raggio 2
+pause.discord,Unisciti al nostro Discord
+upgrades.keeper4speed1.title,Velocità di spostamento 1
+options.input.controls.mouse.gamepad.switch,Il cambio di Controller viene rilevato automaticamente.
+upgrades.jetpackspeed3.title,Velocità 3
+upgrades.chainsawautonomy.desc,La sega circolare difende la tua cupola anche quando non sei all'interno della postazione di controllo.
+properties.extractor.buildcycles,Produzione di vermi (cicli) {}
+upgrades.stunlaserstun2.desc,"Il raggio stordente è più intenso, e neanche i nemici più forti resistono ai suoi effetti."
+upgrades.teleporter.desc,Un teletrasporto bidirezionale collega la base e un portale trasportabile.
+upgrades.droneyarddrones.title,Drone da trasporto
+level.tutorial.assessor.spheres.desc1.aiming.switch,Premi| per sparare una sfera cinetica nella direzione in cui miri tramite %s.
+upgrades.liftspeed1.desc,Le sfere si muovono più velocemente.
+properties.prestige.provokedwavestrength,Provocazione dei mostri {.percent}
+upgrades.artillery.desc,Una combinazione tra un grosso mortaio che spara enormi esplosivi e una rapida torretta antiaerea.
+upgrades.shredgadgettocobalt.title,Trasforma in cobalto
+level.gameover.stats.distancetravelled,Distanza percorsa
+loadout.mode,Modalità
+loadout.difficult.easier,più facile
+upgrades.domearmorhealth1.title,Durabilità dell'armatura 1
+options.game.playernamesinmultiplayer,Mostra i nomi dei giocatori nel multigiocatore
+properties.sword.slicedamage,Danno Fendenti {} 
+options.keybindings.action.general,Generale
+upgrades.keeper4punch2.desc,Aumenta la tua forza di scavo e la velocità massima di scavo.
+upgrades.keeper4catgoblinsleeptime.title,Pillole di caffeina
+upgrades.condenserdoublestorage.title,Doppio Deposito
+upgrades.drillbotbuffguidance.desc,Mostra la direzione verso Drillberto mentre si trasporta uno snack.
+loadout.versusmod.versusmodifierscatterediron.desc,"I depositi di ferro sono piccoli e sparsi, ma abbondanti."
+upgrades.proberange3.title,Lunghissimo raggio
+upgrades.sword.desc,Una spada robusta il cui danno aumenta con la velocità. Può essere lanciata per colpire i mostri ed è equipaggiata con uno scudo in grado di bloccare i proiettili.
+properties.rocketlauncher.rockets,Razzi {}
+keybindings.reset.explanation,Le tue assegnazioni di tasti sono state ripristinate a causa di un recente aggiornamento che ha apportato modifiche significative allo schema di input. Ci spiace per l'inconvenienza!
+upgrades.shield.desc,Installa uno scudo che assorbe alcuni danni. Si ricarica automaticamente.
+multiplayer.error.lobbyfull,La lobby è piena.
+upgrades.keeper3kunaibounce1.title,Assistenza Traiettoria
+loadout.team.selection,Unisciti a %s
+level.tutorial.sworddome.slicing.desc,"Più veloce è la spada, maggiore è il danno inflitto."
+properties.drill.sidetimepertile,Tempo di perforazione laterale per casella {}s
+upgrades.suitblasterradius1.title,Raggio di esplosione 1
+upgrades.resourcepackerquickcharge.title,Carica rapida
+versus.corruptionmonsterdamage.desc,"I mostri faranno molti più danni, proiettili inclusi."
+properties.dome.baserepair,Ripara {} pv
+loadout.team,Squadra %s
+options.keybindings.action.general.down,Giù
+properties.suitblaster.radius,Raggio di esplosione (caselle) {}
+level.tutorial.fullscreen.continue,continua
+level.tutorial.suitblaster.popup_1.switch,"Premi | per sparare dal blaster della tuta, distruggendo rocce intorno a te entro un certo raggio."
+upgrades.resourcepackercount2.title,Dimensione pacchetto 2
+properties.sword.extendspeed,Velocità di Estensione {} 
+upgrades.autocannondamage1.title,Proiettili Pesanti
+properties.sword.aimline,Traiettoria della Spada
+options.translation.community,{completion}% completata
+properties.spire.stuntrapabsorption,Assorbimento Danno {.percent}
+upgrades.keeper4speed2.desc,Aumenta ulteriormente la velocità di movimento.
+upgrades.keeper4ramping4.title,Slancio 4
+upgrades.orchard.desc,Pianta un albero nella cupola i cui frutti potenziano il tuo movimento e velocità di scavo.
+pause.restart.popup,"Sei sicuro di voler riavviare la partita?
+Premi di nuovo per confermare."
+multiplayer.error.versionmismatch,La versione del gioco non corrisponde a quella dell'host. Versione dell'host: {}
+assignment.condition.freegadget.plural,Due gadget iniziali aggiuntivi
+upgrades.artillerydirecthit1.title,Polverizza Mostri 1
+options.input.controls.mouse,Mouse
+upgrades.keeper4catgoblindig1.desc,I Catgoblin possono scavare le risorse senza distruggere le caselle.
+reward.rewardpet11.title,Mascotte cervo d'acqua
+upgrades.artillerymachinegun2.title,Fuoco Rapido 1
+upgrades.teslaorbs.title,Sfera Elettrica
+properties.keeper2.spherespeed,Velocità Sfera {}
+properties.artillery.machinegunpenetration,Penetrazione Proiettile {}
+level.station.upgrademenu.cost,Costo
+keeperdlc.load.missing,"Impossibile caricare il salvataggio, contiene contenuti DLC non disponibili. Assicurati che il DLC 'I Guardiani Perduti' sia disponibile."
+upgrades.drillbotstrength1.desc,Aumenta la velocità di scavo di Drillberto.
+properties.resourcepacker.rechargetime,Durata ricarica {}s
+level.converter.popup.queue.block,Questa conversione è attualmente in elaborazione e terminerà in {time} secondi.
+properties.keeper2.maxspeed,Velocità Massima {}
+level.converter.popup.conversion.to,a
+upgrades.blastminingblast2.title,Esplosione 2
+upgrades.suitblasterspeed1.desc,Migliora la velocità con cui la tuta carica il colpo esplosivo.
+options.audio.music.ost.mode.adaptive.desc,"Quando si gioca con un Guardiano, verranno riprodotte solo le sue rispettive tracce."
+title.navbar.updates,Aggiornamenti
+upgrades.orchardbattlerooting.title,Radici Trappola
+options.keybindings.action,Azioni
+upgrades.keeper4flexible3.title,Agilità 3
+unlock.buy.keeperdlc,Sbloccato dal DLC '%s'.
+upgrades.keeper4flexible2.desc,Aumenta la tua forza di scavo e la velocità iniziale di scavo.
+loadout.prestige.countdown,Countdown
+assignment.weakcarry.desc,"Gli strumenti di trasporto del guardiano sono danneggiati, quindi dovrai fare affidamento sui gadget."
+upgrades.liftcarrykeeper2.title,Ascensore 2
+upgrades.domewavecount.desc,Installa un contatore che permette di vedere il numero di ondate superate.
+loadout.gadget.additional,Gadget Addizionale
+upgrades.prestigewatermultiplier.title,Spedisci acqua
+upgrades.condenser.title,Condensatore
+loadout.prestige.pro.supplementorder,Ordine Supplemento
+assignment.goaltype.delivery.failed,"Il tuo obiettivo era ""{goal}"", ma hai consegnato solo {amount}."
+options.input.gamepad.ps5,Controller wireless
+assignment.condition.duration,Termina entro %d cicli
+options.game.hideactionhint,Nascondi i Suggerimenti sulle Azioni Fuori dalla Cupola
+options.video.graphicsmode,Schermo
+level.tutorial.assessor.carry.desc1_1.ps5,"Una volta agganciate, ti seguiranno anche se lasci il pulsante di raccolta."
+assignment.goaltype.relic,Recupera la reliquia
+upgrades.stationextensionminimap.desc,Mostra una minimappa della miniera ogni volta che accedi alla stazione mobile. La minimappa mostrerà l'aree già scoperte e alcune tessere in profondità nella roccia.
+assignment.ironcontribution.title,Contributo di ferro
+properties.keeper4.speedupretention,Conservazione dell'accelerazione {.percent}
+loadout.prestige.description,Invia risorse fuori dal pianeta ottenendo punti da ascensione tra i Guardiani della Gilda.
+upgrades.keeper3.title,Infiltratore
+properties.shield.battleactivateondepletion,Attiva abilità quando lo scudo si scarica
+upgrades.stunlaserspeed2.title,Rotazione 2
+properties.dome.maxhealth,Capacità Integrità {}pv
+upgrades.laserstrength1.title,Potenza 1
+properties.artillery.grenadereloadspeed,Velocità Di Ricarica Proiettili {}s
+properties.tesla.perfecttimingmultiplier,Moltiplicatore Colpo {.percent}
+upgrades.orchardbattleshieldstrong.desc,Lo strato di rampicanti diventa più forte.
+loadout.difficulty.easy.description,Un po' meno punitivo sotto diversi aspetti.
+upgrades.drillsidespeed1.title,Velocità di perforazione 1
+loadout.prestige.miner,Minatore
+upgrades.keeper4catgoblindig2.desc,I Catgoblin scavano più velocemente.
+upgrades.spireburst.title,Fuoco a raffica
+options.input.vibration.strength,Vibrazione controller
+upgrades.swordexplosivereflection.desc,I proiettili deflessi esploderanno al contatto.
+level.tutorial.drillbot.handling2.switch,Premi | per fargli cambiare direzione quando è sulla superficie.
+loadout.mapsize.large.description,Una mappa grande per partite di svariate ore.
+upgrades.artillerymachinegunhoming2.desc,Usa missili potenziati.
+upgrades.keeper3quadjump.title,Salto multiplo
+properties.artillery.grenadesexplosionradius,Raggio Esplosione Proiettili {}
+upgrades.proberange2.desc,Aumenta la portata della sonda.
+properties.drillbot.buffextraamount,{} colpi aggiuntivi
+versus.corruptionbigwave.desc,La prossima ondata di mostri sarà enorme.
+level.tutorial.artillery.panel2content1,Tieni premuto|spara con il tuo cannone anti-arereo.
+level.tutorial.artillery.panel2content2,È perfetto contro i nemici volanti.
+upgrades.drillwidetunnel.desc,Installa due ulteriori trivelle verso il basso per realizzare un tunnel ampio.
+upgrades.keeper2pinballdamage4.desc,Migliora le tue sfere cinetiche.
+level.gameover.unlock.difficulty,Nuova difficoltà sbloccata!
+loadout.prestige.fairness.headline,Sana Competizione
+upgrades.prestigeprovoke.desc,Aumenta la potenza degli attacchi delle future ondate di mostri per guadagnare più prestigio.
+options.audio.volumes.soundvolume,Effetti Sonori
+multiplayer.continue.deviceselection.keeper,Guardiano
+upgrades.teslaspeed2.desc,Il reticolo di mira si muove più velocemente.
+upgrades.artillerymachinegun2.desc,Migliora la tua torretta antiaerea per sparare più velocemente.
+properties.spire.splitadditionalprojectiles,Proiettili Divisi Aggiuntivi {.percent}
+upgrades.artillery.title,Artiglieria
+level.tutorial.assessor.bundle.desc1.switch,"Per raggruppare le risorse, premi|mentre le trasporti."
+properties.repellent.battleabilityduration,Durata abilità {}s
+loadout.zoom,Zoom Camera
+level.tutorial.assessor.bundle.desc2,Volerà nella direzione dove hai mirato per poi dissolversi nel nulla.
+options.keybindings.rebinding.inputprocessor.ps5,Premi un nuovo Pulsante per questa azione…
+properties.converter.irontoiron,1 Ferro per {} Ferro
+options.keybindings.cancel,Annulla
+upgrades.keeper1powerdrill.title,Trivella robusta
+assignment.emergency.desc,"La gilda è in pericolo e necessita di contributi di emergenza, inviati a tempo debito!"
+multiplayer.host.crossplay.disabled,Crossplay disattivato
+properties.upgrade.gameover,Finisci la Partita
+loadout.mode.secondweapon.desc,Ogni squadra con più di un guardiano inizia con l'arma della seconda stazione già sbloccata.
+telemetry.allow,Abilita servizi online
+options.accessibility.vignette,Disabilita Vignette
+options.game.tutorials,Tutorial
+properties.dome.autorepair,Riparazione Cupola Automatica
+upgrades.swordreflection3.title,Deflessione 3
+upgrades.drillsidepull.desc,Le risorse estratte verranno spostate lungo le trivelle laterali verso il centro.
+upgrades.keeper2movement4.title,Coppia piena
+upgrades.shockwavestun1.desc,Aumenta la capacità di stordimento dell'onda d'urto.
+assignment.condition.freegadget.singular,Un gadget iniziale aggiuntivo
+title.message.close,Chiudi
+reward.rewardfreerolls2.title,Reroll di offerte aggiuntivi
+upgrades.orchardbattleshieldstrong.title,Tettoia robusta
+upgrades.spirecapacity.title,Capacità
+upgrades.keeper2.title,Studioso
+upgrades.keeper2movement2.title,Movimento gravitazionale 2
+upgrades.furnacestrongironfiring.desc,Aumenta l'efficacia della combustione di ferro nel ritardare i mostri.
+upgrades.keeper2pinballdamage3.title,Sfere cinetiche 3
+upgrades.autocannondamage1.desc,Spara proiettili di calibro più alto che infliggono più danni.
+loadout.versusmod.versusmodifiermanycaverns.desc,La miniera ha molte grotte naturali.
+options.game.other,Altro
+upgrades.drillsidespeed2.title,Velocità di perforazione 2
+upgrades.mushroomfarmdrill2.desc,Migliora il bonus di scavo ottenuto consumando funghi.
+properties.autocannon.speed,Velocità di Movimento {}
+upgrades.keeper4flexible1.desc,"Uno stile di scavo flessibile che parte da una buona velocità, ma ha una forza massima inferiore."
+title.navbar.credits.close,Chiudi
+level.furnace.popup.fuel.stack,Accumulo attuale:
+upgrades.drillbotstrength3.title,Potenza 3
+upgrades.domesupplementresurrection2.title,Una Volta Ancora
+upgrades.artilleryprojectileerasure.desc,Le esplosioni del tuo mortaio dissolvono tutti i proiettili nel raggio dell'esplosione.
+level.gameover.assignment.completed,Congratulazioni! Hai completato l'assegnazione con successo. La Gilda del Custode ha riconosciuto i tuoi sforzi.
+properties.tesla.radius,Raggio Colpo {}
+properties.keeper2.bundlespeed,Velocità pacchetto {}
+keybindings.reset.show,Prima ricontrollo
+options.input.controls.gamepadusage.xbox,Utilizzo Controller
+assignment.maze.title,Labirinto
+upgrades.blastminingstickycharge.desc,Le cariche si attaccano al primo muro che incontrano creando una galleria invece di un'esplosione circolare.
+properties.prestige.baseperwave,Punti Ascensione per Ondata {}
+level.gameover.mineview,Mostra Miniera
+unlock.mapsize.medium,Vinci una partita su una piccola mappa per sbloccarla.
+upgrades.teslanurture.desc,Rinforza una sfera elettrica esistente sparandola di nuovo. Crescerà in dimensioni e persisterà più a lungo.
+upgrades.jetpackspeed1.desc,Migliora il jetpack aumentando la velocità di movimento.
+upgrades.domearmormelee1.desc,Diminuisce il danno che la cupola subisce dagli attacchi da mischia.
+loadout.prestige.friend.mode,Modalità Amichevole
+upgrades.domearmorhealth2.title,Durabilità dell'armatura 2
+properties.artillery.machinegundamage,Danno Proiettile {}
+upgrades.swordextendlong2.title,Estensione migliorata 2
+upgrades.keeper4speed2.title,Velocità di spostamento 2
+upgrades.laserstrength2.title,Potenza 2
+properties.keeper3.slidecontrol,Controllo in volo {.percent}
+reward.rewardpet11.desc,Sblocca il cervo d'acqua come mascotte per la tua cupola.
+properties.tesla.nurture,Sovraccaricamento Sfera
+properties.lift.speed,Velocità sfera {}
+upgrades.lasermove2.desc,Il laser si sposta ancora più velocemente.
+loadout.mode.longtime,Cicli lunghi
+options.accessibility.highlightmonsters,Evidenzia nemici
+upgrades.furnacebasedelay.desc,Migliora l'effetto disorientante del fumo aumentando il tempo base prima della prossima ondata.
+upgrades.doublelaser.desc,"Installa una seconda torretta laser, ma divide la potenza di fuoco tra le due."
+properties.converter.ironwatertime,Tempo di conversione da Ferro ad Acqua (cicli) {}
+options.keybindings.rebinding.inputprocessor.switch,Premi un nuovo Pulsante per questa azione…
+title.message.title,Errore
+upgrades.jetpackspeed4.title,Velocità 4
+upgrades.drill2.desc,Potenzia la trivella permettendo di scavare più velocemente.
+upgrades.extractorresources2.title,Vermi meticolosi
+unlock.buy.keeperdlc.ps5,Sbloccato tramite l'add-on '%s'.
+level.tutorial.assessor.split.desc1,Premi|per dividere una sfera in arrivo.
+upgrades.keeper2pinballdamage1.desc,Ricarica più a lungo per aumentare la potenza delle sfere cinetiche.
+upgrades.teleporterteleportduration2.desc,Teletrasportarsi richiederà meno tempo.
+level.tutorial.assessor.split.desc2,"Puoi dividere di nuovo le sfere, ma ogni volta diventano un po' più deboli."
+options.accessibility.backgrounds,Sfondi Semplici
+assignment.weakwalls.desc,L'atmosfera corrosiva di questo pianeta è letale per la tua cupola e per i mostri e fa subire a entrambi più danni.
+multiplayer.error.disconnected,Disconnesso dall'host.
+properties.autocannon.timebetweenshots,Tempo tra spari {}s
+upgrades.laserstrength1.desc,"Aumenta la potenza del laser, ma ne diminuisce la velocità di movimento mentre si spara."
+upgrades.artillerydirecthit4.desc,Spara proiettili creati per massacrare anche i più grandi mostri.
+upgrades.teslapersistance3.title,Sfere Persistenti 3
+level.gameover.stats.timeplayed.unit,min
+level.tutorial.drillbot.sleeping3.switch,Premi | per fargli cambiare direzione quando è sveglio.
+upgrades.autocannonshotgun1.desc,Spara più colpi a ventaglio come con i fucili a pompa.
+upgrades.probe.desc,Installa una sonda nella tua tuta che all'attivazione rivela le risorse vicine. Deve essere ricaricata alla stazione sotto la cupola.
+upgrades.droneyardparasites.desc,Rilascia droni che si attaccano e indeboliscono i mostri più forti che riescono a trovare. Successivamente il mostro subirà più danni e sarà continuamente stordito.
+properties.stunlaser.trackingInCooldown,Insegue il Bersaglio durante la Ricarica
+upgrades.domewavemeter.desc,Mostra il tempo restante prima che forme di vita ostili attacchino la cupola.
+properties.sword.stabexplosive,Punta esplosiva
+loadout.gadget,Gadget principale
+properties.stunlaser.areagrowthpermonster,Aumento Area per Mostro {}
+upgrades.shieldbattlereflectspeed.title,Deflessione accelerata
+level.tutorial.assessor.explode.desc1,Premi|per far esplodere tutte le sfere nelle tue vicinanze.
+reward.rewardkeeper3skin1.desc,Sblocca una nuova skin da guardiano per l'Infiltratore.
+properties.laser.stun,Rallentamento {}
+upgrades.resourcepackercount1.title,Dimensione pacchetto 1
+reward.rewardkeepersupplements.desc,Scopri supplementi estremamente forti per il tuo guardiano.
+upgrades.spirestuntrap3.desc,La Trappola Energetica ora stordisce i mostri.
+upgrades.lift.desc,Installa un ascensore che trasporta automaticamente le risorse minate alla cupola per essere processate.
+upgrades.orchard.title,Serra
+pause.playerlist,Elenco giocatori
+upgrades.keeper2bundle2.title,Controllo pacchetto
+assignment.weakmining.desc,"Gli strumenti di scavo del guardiano sono danneggiati, quindi dovrai fare affidamento sui gadget."
+upgrades.converter.title,Convertitore Di Risorse
+properties.repellent.battlemonstervulnerability,Danno Aggiuntivo ai Mostri {.percent}
+level.gameover.revealresources,Rivela Risorse
+upgrades.jetpackstrength3.desc,Migliora il jetpack per trasportare più risorse.
+options.input.controls.touch.fliphud,Inverti interfaccia
+properties.keeper2.bundleguide,Guida di prossimità
+upgrades.furnaceironfiring.desc,Brucia il ferro nella fornace per ritardare ulteriormente gli attacchi dei mostri.
+upgrades.swordlongblade2.desc,"Aumenta ulteriormente la velocità della spada, facendola rimbalzare quando colpisce gli angoli della cupola."
+options.input.controls.mouse.keepers,Usa il Mouse per i Guardiani
+loadout.mode.domesupplements.desc,Ricevi il triplo degli integratori e dota la cupola di tre spazi aggiuntivi per quest'ultimi.
+reward.rewardautomatedweapons.title,Armi automatiche
+versus.corruptionmonsterhealth.desc,I mostri avranno molta più salute.
+upgrades.keeper3slidecontrol.desc,Ottieni maggiore controllo mentre scorri lungo le pareti.
+level.station.battle.navbar.shoot,Spara
+options.keybindings.gamepad.xbox.view.xbox,Pulsante visualizza
+level.gameover.win.title,LA CUPOLA È SALVA
+upgrades.versusincreasewave1.title,Sabotaggio 1
+options.video.graphicsmode.borderlesswindow,Finestra senza bordi
+properties.artillery.rotationspeed,Velocità Di Rotazione {}
+upgrades.probe.title,Sonda
+reward.rewardkeeper2skin5.desc,Sblocca una nuova skin da guardiano per lo Studioso.
+upgrades.artillerydirecthit4.title,Polverizza Mostri 4
+properties.keeper4.squadcount,Conteggio squadra {}
+upgrades.keeper3kunaicooldown3.title,Mille Kunai
+upgrades.prospectionmeterrange2.desc,Aumenta ulteriormente la portata di rilevamento dello scanner di risorse.
+level.gameover.unlock.mapsize,Nuova dimensione mappa sbloccata!
+loadout.prestige.friend.desc,Gioca la modalità prestigio con una difficoltà inferiore e competi su classifiche separate solo con i tuoi amici.
+upgrades.jetpackstrength4.title,Capacità di trasporto 4
+options.input.controls.virtualjoystickopacity,Opacità joystick virtuale
+upgrades.repellentovercharge.title,Repellente Sovraccaricato
+upgrades.suitblastermaxcharge.desc,"Aumenta il numero di cariche che puoi riporre nella tua tuta. Più cariche hai pronte, più velocemente verranno caricate quelle aggiuntive."
+upgrades.stationextensiontubemovement.desc,Entra nella stazione e viaggia rapidamente verso la cupola in assenza di gravità. Funziona solo mentre ci si sposta verso l'alto.
+upgrades.domesupplementmeleedamagereduction1.title,Durezza dello Scafo della Cupola
+upgrades.keeper4catgoblinsleeptime.desc,Riduce la durata dei riposi dei Catgoblin.
+upgrades.prestigespeedup.desc,Riduci il tempo tra le ondate.
+upgrades.keeper3kunaicooldown1.title,Tiro Veloce
+upgrades.spire.title,Obelisco
+multiplayer.join.sessions,Sessioni
+options.input.controls.keybindings,Assegnazione tasti
+multiplayer.host.crossplay.desc.xbox,Il crossplay ti permette di giocare con amici su altre piattaforme.
+upgrades.teslaorbs.desc,Ogni scarica lascia una sfera elettrica che infligge danni nel tempo e stordisce i nemici.
+upgrades.prestigeiron.desc,Spedire indietro il ferro. Aumenta la quantità di prestigio che si ottiene dopo ogni ondata.
+upgrades.keeper2pinballexplode.title,Sfere esplosive
+level.tutorial.assessor.split.desc1.switch,Premi|per dividere una sfera in arrivo.
+properties.artillery.machinegunhoming,Missili di Puntamento
+upgrades.spirespeedup.desc,Diminuisce il tempo tra due colpi.
+level.tutorial.drillbot.handling1,Tieni premuto | per raccogliere di nuovo Drillberto.
+keybindings.reset.doreset.switch,Ripristina i miei comandi
+level.tutorial.drillbot.handling2,"Premi | per fargli cambiare direzione, se è sulla superficie."
+upgrades.artillerysplash1.desc,Migliora il tuo mortaio per sparare proiettili che hanno un raggio di esplosione maggiore.
+upgrades.shockwave.desc,Installa due martelli sulla cupola che creano intense onde d'urto. Deve essere attivato manualmente.
+options.game.blocklist.unblock,Sblocca
+properties.drillbot.buffamount,{} colpi da energizzato
+upgrades.teslaorbdamage.desc,"Le sfere conducono molta più elettricità, infliggendo più danno nel tempo."
+loadout.versusmod.versusmodifierconcentratediron.desc,I depositi di ferro sono sparsi ma molto ricchi.
+upgrades.keeper4squad2.title,Grande squadra
+upgrades.keeper4flexible1.title,Agilità
+upgrades.swordreflection3.desc,Dimensione scudo massima.
+unlock.prestige.promode,Sblocca vincendo una partita con un punteggio prestigio di almeno 1000.
+loadout.mapsize.huge,Enorme
+upgrades.artillerymachinegunhoming1.desc,I proiettili verranno rimpiazzati da missili che non mancheranno mai il bersaglio.
+upgrades.repellentovercharge.desc,"Usa l'acqua per sovraccaricare il tuo repellente, migliorando l'abilità di battaglia del repellente."
+loadout.prestige.pro.caveorder,Ordine caverne
+upgrades.spiresplit2.title,Scissione Veloce
+properties.laser.bend,Mira automatica laser {}°
+modding.modio.ugcterms.link1,Condizioni di utilizzo
+upgrades.drillmagnetic.title,Involucri magnetici
+assignment.condition.deliveremergency,Completa %d consegne di emergenza
+modding.modio.ugcterms.link2,Informativa sulla privacy
+assignment.denseiron.desc,"Il ferro su questo pianeta è particolarmente denso, il che rende difficile l'estrazione."
+level.station.upgrademenu.inventory,Inventario
+upgrades.repellentbattleslowdownstun1.desc,Disperde spore volatili nella nebbia che stordiscono i mostri completamente per poco tempo.
+upgrades.spirestuntrap2.title,Trappola Catalizzatrice
+properties.keeper3.shurikenstrength,Raggio di esplosione (tiles) {}
+loadout.prestige.cobalt,Cobalto Fissato
+upgrades.spireautonomy1.title,Autonomia
+upgrades.suitblastermaxcharge.title,Cariche aggiuntive
+upgrades.stunlaserspeed2.desc,La torretta stordente si muove ancora più velocemente e segue i mostri mentre si raffredda.
+properties.suitblaster.maxcharge,Cariche massime {}
+upgrades.prospectionmetergadget.desc,Mostra la distanza dagli interruttori della reliquia o dai gadget più vicini.
+properties.spire.rechargetime,Tempo Ricarica {}s
+assignment.monstermasses.desc,Il pianeta è afflitto da grandi quantità di mostri di basso livello.
+telemetry.title.ps5,Contratto di licenza con l'utente finale (EULA)
+properties.condenser.autoovercharge,Sovraccarico automatico
+assignment.rareiron.desc,Il pianeta contiene troppo poco ferro per una normale operazione mineraria.
+level.converter.popup.title,Converti risorse
+upgrades.chainsaw.desc,"Installa una sega circolare che corre lungo la cupola, infliggendo danni ai mostri vicini."
+versus.inventory.title,Altre informazioni sulla squadra
+loadout.versusmod.versusmodifiernorelics.desc,La miniera non ha reliquie.
+level.gameover.stats.wavessurvived,Ondate superate
+upgrades.stunlaserduration1.title,Resistenza al Fuoco 1
+upgrades.resourcepackercount1.desc,Aumenta il numero di risorse che possono essere raggruppate in un singolo pacchetto.
+level.tutorial.teleporter.carry3.switch,"Se premi |, ti teletrasporterai."
+gadget.slot.domesurface,Superficie della cupola
+upgrades.converterirontocobalt.title,Conversione Di cobalto
+options.audio.music.ost.mode.desc,Ogni Guardiano ha il proprio set di tracce. Puoi cambiarne la riproduzione.
+assignment.condition.deliversand,Consegna il %d di cobalto
+options.accessibility.photosensitivity.explanation,Riduce luci lampeggianti.
+upgrades.keeper2bundle4.desc,I pacchetti di risorse si muovono più velocemente e rimangono insieme più a lungo.
+upgrades.domesupplementmeleedamagereduction2.title,Gran Rafforzamento
+reward.rewardcentralmarker.title,Marcatore centrale
+upgrades.repellentbattleslowdown.desc,Spruzza una nebbia debilitante durante la battaglia che rallenta tutti i mostri.
+options.game.splitscreenfontscale,Mostra testo più grande in modalità schermo diviso
+upgrades.blastminingimpactdetonation.title,Detonazione Ad Impatto
+loadout.relichunt.title,Scegli uno scenario
+upgrades.assignmentsemergencycontribution2.title,Contributo d'emergenza 4
+upgrades.stunlaserspeed1.desc,La torretta laser ruota più velocemente.
+upgrades.keeper2movement2.desc,Migliora il tuo generatore gravitazionale aumentando la velocità di movimento ancora di più.
+loadout.prestige.pro.customorder,ordine personalizzato
+options.translation.community.desc.seavenplatforms,Queste lingue sono tradotte dalla nostra splendida community su Crowdin.
+properties.shield.battledestructionprevention,Durata +{}s
+upgrades.spirespeedup.title,Raffreddamento Migliorato
+upgrades.shieldovercharge.title,Scudo Sovraccaricato
+level.tutorial.station.popup_4,Poi premi | per passare in modalità battaglia e difenderti.
+pause.gamepadcontrols.drop,Lascia
+options.accessibility.vignette.explanation,Disabilita l'effetto oscurante delle vignette nei livelli più profondi della miniera.
+upgrades.lasermove3.title,Velocità di rotazione 3
+title.navbar.splitscreen,Schermo condiviso locale
+upgrades.extractorquickextraction.title,Vermi rapidi
+pause.disconnect,Disconnetti
+properties.map.ironadditionalhealth,Durabilità ferro aggiuntiva {}
+properties.keeper2.reflectlifetime,Durata Scudo Riflettente {}s
+loadout.versusmod.versusmodifiersoftrock,Roccia friabile
+upgrades.repellentoverchargeduration1.title,Sovraccarico migliorato
+upgrades.teleporterteleportitems.desc,"Permette il teletrasporto di tutto ciò che trasporti, a eccezione di risorse e oggetti grandi."
+upgrades.shieldstrength2.desc,Aumenta ulteriormente il danno che può assorbire lo scudo della cupola.
+unlock.mapsize.large,Vinci una partita su una mappa di medie dimensioni per sbloccarla.
+upgrades.shieldoverchargestrength2.desc,Aumenta ulteriormente quanto danno può assorbire lo scudo sovraccaricato.
+properties.drill.extensionspeed,Velocità di estensione laterale {}
+properties.orchard.growthtime,Tempo di crescita (cicli) {}
+upgrades.drillbotbuff1.desc,Gli snack crescono nel nido sotto la cupola. Portali a Drillberto che felicemente li divorerà diventando energizzato.
+properties.repellent.battleslowdown,Rallentamento mostri {.percent}
+level.station.upgrademenu.buy,Compra
+keybindings.reset.title.switch,Reset assegnazioni pulsanti
+title.navbar.multiplayer.join,Unisciti a una partita multigiocatore
+multiplayer.host.crossplay.desc,"Il crossplay ti permette di giocare con amici su altre piattaforme. Ad esempio, giocatori su PC e console possono giocare insieme."
+properties.probe.range,Raggio (blocchi) {}
+modding.modio.connectionfailed,Connessione a mod.io non riuscita!
+properties.dome.resurrectcharges,Resurrezioni Rimanenti {}
+upgrades.mushroomstack.title,Funghi accumulatori
+multiplayer.error.lobby.join,Impossibile entrare nella lobby.
+pause.title,IN PAUSA
+level.furnace.popup.fuel.cycles,Cicli rimanenti: {cycles}
+level.gameover.unlock.gamemodevariant,Nuova variante di modalità di gioco
+upgrades.keeper2movement3.title,Movimento gravitazionale 3
+upgrades.keeper3kunaicooldown2.desc,Lancia i Kunai più velocemente.
+upgrades.repellentbattledamageovertime.title,Gas Tossici
+reward.rewardfreerolls1.title,Reroll di offerte
+assignment.superhardrockwithholes.title,Formaggio svizzero
+modding.restartneeded,È necessario riavviare il gioco per il corretto funzionamento delle mod.
+upgrades.versusshowinventory.title,Spia inventario
+level.tutorial.assessor.carry.desc1,"Tieni premuto | per risucchiare le risorse, fino a quando ti seguiranno."
+level.tutorial.assessor.carry.desc2,Colpisci|per spararle come un pacchetto nella direzione in cui miri.
+demo.unavailable,Non disponibile nella demo
+assignment.harmfuliron.desc,"Il ferro del pianeta è pericolosamente reattivo, danneggiando la cupola quando triturato."
+upgrades.keeper4flexible4.title,Agilità 4
+properties.dome.reducedhealth,Salute Persa {}pf
+upgrades.keeper4catgoblinamount.desc,Genera più Catgoblin per aiutarti nella tua missione.
+properties.keeper2.spherebasedamage,Danno di Base Sfera {}
+level.gameover.showimages,Apri
+properties.keeper4.maxpunchdelay,Pugno più lento {} s
+upgrades.converterironduplication.desc,Convertire un po' di ferro in molto più ferro.
+upgrades.liftorbless.title,Ascensore gravitazionale
+upgrades.artilleryshotstun.desc,Sparare con il mortaio è così potente che i mostri vicini rimangono storditi per un po'.
+upgrades.keeper4squadsmarts.title,Scavo intelligente
+options.video.graphicsmode.enablevsync,Attiva VSync
+upgrades.repellentdelay3.desc,Incrementa ulteriormente il tempo prima della prossima ondata di mostri.
+properties.spire.splitshotground,Divisione 360°
+upgrades.autocannonrateoffire3.desc,Massimizza la cadenza di fuoco.
+upgrades.furnacebasedelay.title,Fumi disorientanti
+properties.sword.stabcooldown,Ricarica estensione {}s 
+upgrades.resourcepacker.title,Pacchetto di risorse
+properties.probe.permanentrevealrock,Rivela permanentemente le rocce
+upgrades.prestigeprovoke.title,Provoca i Mostri
+loadout.hint.teams,Ogni squadra ha bisogno di almeno un giocatore!
+upgrades.proberange1.title,Medio raggio
+upgrades.condenserautocollect.desc,"Automatizza la raccolta dell'acqua, così da non doverla raccogliere manualmente."
+pause.resumegame,Continua
+upgrades.drillbotbuffguidance.title,Snack a Ricerca
+options.video.stretchmode.rezised,Automatica
+upgrades.shieldbattlereflectspeed.desc,"I proiettili verranno deflessi a velocità più alta, aumentando la possibilità di colpire l'aggressore."
+properties.keeper2.spherebaselifetime,Durata sfera {}s
+properties.resourcepacker.packscale,Aumenta la riduzione del {.percent}
+properties.laser.movespeed,Velocità Rotazione {}
+properties.probe.rechargetime,Tempo totale di ricarica (cicli) {}
+upgrades.blastminingblast1.title,Esplosione 1
+upgrades.liftcarrykeeper1.title,Ascensore 1
+loadout.versusmod.versusmodifierlongcycles,Cicli lunghi
+options.keybindings.action.dome.secondary,Abilità Secondaria
+upgrades.extractor.title,Vermi di ferro
+level.tutorial.assessor.reflect.desc2,"Le sfere che ti arrivano saranno riflesse da esso, potenziandole anche."
+options.keybindings.keyboard,Tastiera
+level.tutorial.assessor.reflect.desc1,Premi | per attivare o disattivare un campo riflettente intorno a te.
+level.tutorial.beastmaster.move,Movimento
+level.gameover.automove,Telecamera automatica
+upgrades.keeper4punch4.title,Frenesia 4
+properties.shockwave.damagemod,Danno Aggiuntivo {.percent}
+upgrades.drillbotsleepless.desc,Drillberto lavorerà più a lungo prima di addormentarsi.
+upgrades.keeper2pinballexplode.desc,Rilascia la loro energia cinetica e fai detonare ogni sfera nelle tue vicinanze.
+reward.rewardpermanentwavemeter.title,Misuratore di prossimità ostile permanente
+upgrades.keeper3shurikencooldown1.desc,Riduce ulteriormente la ricarica degli Shuriken.
+upgrades.droneyard.title,Fabbrica di droni
+level.gameover.unlock.promode,Impostazioni Ascensione pro sbloccate!
+upgrades.swordextendlong2.desc,Migliora ulteriormente il danno e la manovrabilità della spada quando estesa.
+upgrades.drillbotturnaround.desc,"Al contatto con un muro indistruttibile, Drillberto si girerà invece di addormentarsi."
+loadout.prestige.fairness.desc,"Ci piace vedere, voi giocatori della modalità prestigio, competere per accaparrarvi punteggi sempre più alti, studiando sempre più strategie migliori, per migliori risultati. Vogliamo mantenere questa competizione leale e divertente, quindi è importante che ognuno giochi con gli stessi mezzi senza barare.
+
+Cerca quindi di capire, che le tue partite potrebbero essere segnalate come inammissibili o potrebbero essere cancellate, nel qual caso venisse fuori anche il minimo uso di cheat o exploit.
+La Bippinbits reputa gli exploit come qualcosa che ti offre un vantaggio effettivo nel giocare in modalità prestigio. Ad esempio modifiche o visualizzazioni dei save game, ricarica eccessiva, utilizzo di mod che non sono nella 'whitelist' o l'uso intenzionale e ripetuto di bug.
+Con quanto sopra detto, si potrebbe essere bannati e non poter partecipare alle competizioni sulle classifiche ufficiali.
+
+Se hai dei dubbi o non sei sicuro se qualcosa è considerato illegale, chiedi pure sul nostro Discord o via e-mail a dome@bippinbits.com. Potrai sempre contattarci anche nel caso tu fossi stato chiamato in giudizio erroneamente.
+
+Buon divertimento!"
+assignment.emergency.title,Emergenza
+upgrades.droneyardbattlegridlong2.title,Orda di droni
+properties.orchard.battleabilityuses,Utilizzi per Battaglia {}
+loadout.difficulty.easy,Difficile
+level.tutorial.mineraltree1,"Hai trovato un seme speciale. Può crescere in un albero le cui radici si espanderanno nei blocchi circostanti. Farà crescere risorse a seconda dei minerali su cui si espandono le radici.
+Per piantarlo, lascia il seme su un blocco di risorse."
+options.keybindings.action.keeper.pickup,Raccogli
+gadget.slot.domebackside,Dietro la cupola
+assignment.megacreeps.desc,Questo pianeta è vagato solo dai mostri più grandi e più forti.
+options.keybindings.rebinding.error.gamepad.switch,Non è possibile impostare questo pulsante come input da gamepad.
+modding.profile.new,Nuovo Profilo
+upgrades.suitblasterspeed2.desc,Migliora la velocità con cui la tuta carica il colpo esplosivo.
+properties.domearmor.pulsedamagethreshold,Soglia danno impulso {}
+options.game.autopause,Metti in pausa quando non in primo piano
+savegame.wiped.desc,"Tutti i tuoi salvataggi sono corrotti, probabilmente a causa di un arresto anomalo del sistema durante il salvataggio. Impossibile ripristinare i progressi.
+Controlla se riesci a recuperare i salvataggi tramite l’archiviazione cloud. In caso contrario, i tuoi progressi sono persi definitivamente."
+properties.shield.maxstrength,Forza {}pv
+level.tutorial.ninja.rope.desc1,Tieni premuto| per lanciare la corda nella direzione in cui stai mirando tramite %s.
+level.gameover.unlock.gadgetability,Nuovo potere dei gadget
+level.tutorial.ninja.rope.desc2,Tieni premuto| per saltare.
+upgrades.repellent.desc,"Installa una tanica che produce un repellente liquido per mostri. Attivalo per spruzzarlo fuori dalla cupola, ritardando la prossima ondata di aggressori."
+modding.modio.report,Segnala mod
+properties.artillery.directhitdamage,Danno Colpo Diretto {.percent}
+upgrades.spireprojectileslowdown.title,Rallentamento Proiettile
+properties.keeper2.bundleduration,Durata pacchetto {}s
+upgrades.domesandrepair.title,Riparazione con cobalto
+upgrades.assignmentsemergencycontribution3.desc,Invia questo pacchetto entro il 7° turno o fallisci questo incarico.
+upgrades.stunlaserduration3.title,Resistenza al Fuoco 3
+properties.orchard.battleshields,Strati Scudo {}
+options.video.brightness,Luminosità
+demo.end.misc1,La modalità Prestigio competitiva con 4 varianti di gioco
+upgrades.droneyarddrones.desc,Costruisci un drone aggiuntivo per il trasporto delle risorse.
+demo.end.misc3,Più gadget primari
+options.game,Gioco
+loadout.mode.longtime.desc,"Hai il doppio del tempo tra un'ondata e l'altra, ma sono più difficili."
+demo.end.misc2,Molti incarichi impegnativi
+demo.end.misc5,Più grotte
+demo.end.misc4,Più dimensioni di mappe
+upgrades.orchardduration2.title,Durata 2
+reward.rewarddomesupplements.title,Supplementi Cupola
+demo.end.misc6,Più mostri
+upgrades.keeper2rotationalmining1.desc,Ignora la durabilità del materiale ed estrae rocce a una velocità costante.
+upgrades.droneyardbattlegridquick2.desc,"Rilascia tutti i droni molto rapidamente, avendoli pronti all'inizio della battaglia."
+loadout.choices.comingsoon,In arrivo.
+properties.keeper2.splitlifetime,Durata sfera divisa {.percent}
+options.input.controls.mouse.sword,Usa il Mouse per controllare la Lama della Cupola
+level.tutorial.beastmaster.goblins.desc1,Tieni premuto | per aprire un varco nella parete e far entrare i tuoi Catgoblin nella miniera.
+upgrades.drill3.desc,Potenzia la trivella permettendo di scavare più velocemente.
+upgrades.jetpackstrength3.title,Capacità di trasporto 3
+upgrades.laserstrength3.title,Potenza 3
+level.tutorial.beastmaster.goblins.desc2,Aiutano a raccogliere le risorse vicino al varco.
+upgrades.domesupplementresurrection1.title,Risurrezione Cupola
+loadout.mapsize.small.description,Una mappa piccola per brevi sessioni.
+upgrades.proberange2.title,Lungo raggio
+reward.rewardkeeper2skin5.title,Skin da Studioso
+upgrades.jetpackspeed2.desc,Migliora il jetpack aumentando la velocità di movimento.
+upgrades.artilleryrotation2.desc,Ruota il tuo mortaio più velocemente.
+upgrades.domesupplementcombatrepair3.title,Riparazione in Combattimento Rapida
+reward.rewardkeeper4skin3.desc,Sblocca una nuova skin da guardiano per il Dominatore delle Bestie.
+multiplayer.host.splitscreen.desc.ps5,Usa i controller wireless nell'equipaggiamento per far comparire altri guardiani. Fino a quattro guardiani possono condividere lo stesso schermo. Può essere combinato con il multiplayer online.
+upgrades.keeper2pinballdamage2.desc,Aumenta ulteriormente il tempo di ricarica per sfere cinetiche più potenti.
+level.tutorial.ninja.rope,Corda
+options.keybindings.rebinding.error.keyboard,Non è possibile impostare questo tasto come input da tastiera.
+upgrades.domesupplementcombatrepair2.desc,"La riparazione automatica è più forte, ripristinerà la salute strutturale."
+properties.dome.autohealamount,Ripara {}pv
+properties.repellent.growthtime,Tempo di produzione (cicli) {}
+properties.keeper.domefuel,Aggiungi carburante {}
+options.accessibility.critters,Disabilita insetti
+level.tutorial.assessor.reflect.desc1.switch,Premi|per attivare o disattivare un campo riflettente intorno a te.
+upgrades.probelongmarker2.title,Indicatori duraturi
+upgrades.converterefficientwater.title,Conversione Efficiente Dell'acqua
+upgrades.assignmentssendcobalt.title,Consegna il Cobalto
+properties.monsters.waveinterval,Tempo tra ondate {}s
+options.keybindings.rebinding.error.gamepad,Non è possibile impostare questo tasto come input da gamepad.
+options.input.gamepad.twinstick.ps5,Controlli con la levetta sinistra e destra
+properties.extractor.units,Vermi prodotti {}
+loadout.mode.doubleiron.desc,I depositi di ferro sono molto più ricchi.
+telemetry.title,Abilitare il multigiocatore online?
+multiplayer.host.local.desc,Possono partecipare i giocatori nella tua rete locale.
+properties.laser.dps,Danno {}
+level.tutorial.assessor.spheres.desc1.switch,Premi| per sparare una sfera cinetica nella direzione in cui sei rivolto.
+upgrades.spirecapacity.desc,Aumenta i colpi sparati prima di dover ricaricare.
+upgrades.doublelaser.title,Doppio laser
+options.keybindings.text,"Modifica i tasti a tuo piacimento.
+Si possono utilizzare gli stessi per azioni di diverso tipo senza alcun problema (per esempio, puoi utilizzare gli stessi tasti per muovere il personaggio e l'arma della cupola)."
+properties.orchard.battleabilityduration,Durata Abilità {}s
+options.input.controls.keybindings.switch,Assegnazione pulsanti
+options.keybindings.gamepad.xbox.menu,Inizia
+upgrades.shieldstrength1.title,Robustezza 1
+properties.converter.watertoiron,1 Acqua per {} Ferro
+upgrades.stunlaserstun2.title,Forza Stordimento 2
+upgrades.drillbotstrength2.desc,Aumenta la velocità di scavo di Drillberto.
+upgrades.dome1.title,Cupola laser
+options.keybindings.rebinding.error.gamepad.xbox,Non è possibile impostare questo pulsante come input da gamepad.
+loadout.assignment.shop,Ricompense della Gilda dei Guardiani
+upgrades.orchardbattlerootingmore.desc,L'effetto delle radici è più longevo e ne crescono di più.
+options.cancel,Indietro
+exhibition.level.instruction,Premi un pulsante qualsiasi per continuare.
+upgrades.converterefficientwater.desc,Migliora la conversione in modo più efficiente.
+upgrades.teslapower4.desc,Potenzia il colpo del cannone Tesla.
+properties.spire.splitshot,Dividi Proiettili
+assignment.weakwalls.title,Alto rischio
+title.navbar.quit,Torna al desktop
+upgrades.autocannonrateoffire1.desc,Aumenta la cadenza di fuoco.
+upgrades.laserstrength4.desc,"Aumenta considerevolmente la potenza del laser, ma si muove a stento mentre si spara."
+loadout.mode.automateddefense.desc,"Inizi con tutti i gadget difensivi e autonomi, ma senza un'arma principale. Lascia fare il lavoro alla cupola!"
+level.gameover.prestige.score.rankunchanged,Nessun cambiamento di posizione.
+properties.keeper2.directmininghardness,Influenza della durabilità della roccia {.percent}
+level.gameover.retry,Inizia un'altra partita
+options.input.controls.keybindings.button.xbox,Modifica Pulsanti
+upgrades.keeper4autospawnminers.title,Squadra solerte
+modding.modio.declined,Accetta le condizioni se vuoi accedere alle mod
+upgrades.repellentoverchargeduration1.desc,Aumenta l'impatto del sovraccarico sulle abilità di battaglia.
+upgrades.assignmentsemergencycontribution5.title,Contributo d'emergenza 16
+upgrades.keeper2pinballdamage2.title,Sfere cinetiche 2
+upgrades.teslaspeed3.desc,Il reticolo di mira si muove più velocemente.
+upgrades.domesupplementmeleedamagereduction2.desc,Irrobustisce ulteriormente la cupola riducendo il danno ricevuto da danni corpo a corpo.
+properties.extractor.processingtime,Durata estrazione {}s
+upgrades.keeper3.desc,"Un guardiano agile che si muove rapidamente con una corda e salti esperti, il tutto mentre lancia potenti kunai."
+assignment.acidrain.title,Pioggia acida
+upgrades.droneyardparasites3.desc,Migliora ulteriormente l'impatto indebolente dei tuoi droni parassiti.
+upgrades.domesupplementelectrifiedsurface1.desc,"Aggiunge un cappotto elettrificato reattivo allo scafo della cupola, che danneggerà i mostri che attaccano la cupola, corpo a corpo."
+unlock.buy.keeperdlc.switch,Sbloccato tramite l'add-on '%s'.
+upgrades.keeper3shurikenstrength2.desc,Aumenta ancora di più il potere di esplosione dello Shuriken.
+upgrades.teslapower3.title,Potenza di Fuoco 3
+upgrades.stationextensionrevealdistance2.desc,Aumenta la distanza alla quale vengono rivelate le rocce e le risorse attorno alla stazione.
+upgrades.keeper3shurikencooldown2.title,Shuriken incessante
+properties.orchard.buffduration,Durata effetti (cicli) {}
+loadout.prestige.provocation.description,Provoca i mostri per generare orde più forti e ottenere più prestigio. Il moltiplicatore diminuisce a ogni ciclo e la corsa termina se scende sotto lo zero.
+level.tutorial.probe.popup_1,Premi | per rivelare le risorse vicine.
+level.tutorial.repellent.popup_2.switch,Avvicinati e premi | per attivarlo.
+multiplayer.join.profile,Profilo
+level.tutorial.probe.popup_3,"Rivela alcune delle risorse vicine.
+Si ricarica alla stazione."
+level.tutorial.repellent.popup_1,Il tuo repellente è pronto per rimandare la prossima ondata.
+upgrades.keeper4ramping2.desc,"Aumenta la tua forza di scavo, la velocità massima e la conservazione dello slancio."
+options.game.kunaicarrierbeforegadgets,Lancia il Trasportatore Kunai prima dei Gadget
+properties.probe.permanentrevealresources,Rivela permanentemente le risorse
+upgrades.keeper2bundle4.title,Pacchetti potenti
+options.audio.volumes.musicvolume,Musica
+options.input.controls.useindividualsettings,Usa le impostazioni individuali del guardiano
+upgrades.keeper4squadsmarts.desc,Le squadre di minatori danno priorità alle caselle speciali e a quelle vicine alle risorse.
+upgrades.domesupplementscraprepair2.title,Ripristino
+upgrades.orchardduration3.desc,Durata massima degli effetti del frutto.
+options.input.controls.touch,Tocco
+level.gameover.keepgadget.none,Nessuno
+upgrades.stunlaserautonomy1.title,Autonomia
+upgrades.swordexplosivereflection.title,Deflessione Esplosiva
+upgrades.probelongmarker1.desc,"Migliora il modulo di memoria della sonda, mostrando gli indicatori molto più a lungo."
+upgrades.resourcepackercharges.desc,Aumenta il numero di pacchetti di ricarica che puoi contenere nella tua tuta.
+options.keybindings.action.dome.fire,Spara
+upgrades.drilladditionalsides.desc,Ottieni più trivelle laterali con la stessa funzionalità della prima.
+loadout.difficulty.veryeasy.description,"Non che sia facile, ma semplificata rispetto alle altre."
+properties.stunlaser.stunstrength,Forza Stordimento {}
+properties.resourcepacker.packcount,Dimensione pacchetto {}
+upgrades.keeperonewayteleporter.title,Teletrasporto unidirezionale
+upgrades.keeper3kunaidamage4.title,Impatto Kunai
+upgrades.drill4.title,Motore Trivella 4
+options.game.directionsnapping,Forza il Guardiano a Mirare ai Punti Cardinali
+upgrades.artillerymachinegun3.title,Fuoco Rapido 2
+upgrades.jetpackspeed2.title,Velocità 2
+properties.artillery.machinegunreloadspeed,Velocità Di Ricarica Proiettile {}s
+options.game.screenshake,Vibrazione schermo
+upgrades.proberechargeafterbattle.desc,"La sonda si ricaricherà automaticamente nel tempo, rendendo obsoleta la stazione di ricarica. Libera uno slot per gadget nello scantinato."
+upgrades.jetpackstrength2.title,Capacità di trasporto 2
+loadout.versus.condition.irondelivery.title,Consegna di ferro
+upgrades.teslaspeed4.desc,Il reticolo di mira si muove più velocemente.
+level.assignment.badges.toggle,Guadagna medaglie completando gli incarichi. Usa le tue medaglie per ricevere ricompense dalla Gilda dei Guardiani. Puoi disattivare le ricompense dopo averle acquistate se vuoi giocare senza di esse.
+loadout.versus.wincondition,Condizione di vittoria
+upgrades.converterefficientwatershort.title,Trattamento Rapido
+properties.keeper2.directminingdamage,Danni da estrazione a compressione {}
+upgrades.assignmentssendiron.desc,"Consegna il ferro alla Gilda del Custode. Per avere successo con l'assegnazione, devi inviare tutte le consegne disponibili."
+upgrades.keeper3carrylimit1.title,Capacità di Carico 1
+assignment.goaltype.survive,Sopravvivi
+upgrades.shield.title,Scudo
+level.station.battle.navbar.stabspeedup,Accelerazione estensione
+upgrades.keeper3quadjump.desc,Esegui fino a tre salti aggiuntivi mentre sei in aria.
+upgrades.swordaimline.title,Traiettoria Colpo
+properties.domearmor.pulsestunduration,Durata stordimento impulso {}s
+level.tutorial.assessor.carry.desc2.switch,Premi|per spararle tutte insieme nella direzione in cui sei rivolto.
+level.tutorial.ninja.carry.desc1.switch,Premi| per lanciare un kunai che trasporta risorse nella direzione in cui stai mirando tramite %s.
+upgrades.orchardovercharge.desc,"Usa l'acqua per sovraccaricare la tua serra, velocizzandone la produzione."
+upgrades.missile.abilityname,Missile
+upgrades.resourcepackercount2.desc,Aumenta il numero di risorse che possono essere raggruppate in un singolo pacchetto.
+assignment.bigmapsparseresources.desc,"Le risorse sono rare e distanti tra loro su questo grande pianeta, ma le sue rocce sono molto fragili."
+properties.spire.stuntrap,Trappola Energetica
+playerlist.block,Blocca
+level.tutorial.sworddome.stabbing.desc,Estendi la spada e colpisci i nemici a distanza.
+properties.sword.sliceacceleration,Velocità Spada {}
+multiplayer.join.joinfromcode,Partecipa
+assignment.weapondefect.desc,"L'arma principale della tua cupola è stata distrutta, quindi dovrai sopravvivere con altri mezzi."
+upgrades.repellentbattlehealthreduction.title,Indebolimento
+loadout.versusmod.versusmodifiertoughstart,Inizio difficile
+title.navbar.multiplayer,Multiplayer
+keybindings.reset.title.xbox,Reset assegnazioni pulsanti
+upgrades.extractorquickextraction.desc,Fai evolvere i tuoi vermi per renderli iperattivi e in grado di estrarre gli ammassi di ferro molto più velocemente.
+upgrades.mushroomfarmquickgrowth.title,Crescita Rapida
+upgrades.repellentbattlehealthreduction.desc,"Indebolisce tutti i mostri, facendogli subire più danni quando vengono colpiti."
+loadout.versusmod.versusmodifierstrongmonsters,Mostri sani
+leaderboard.failed,Impossibile caricare la leaderboard.
+properties.sword.reflectprojectilesexplosive,I Proiettili Deflessi sono esplosivi
+level.station.navbar.upgrades,Potenziamenti
+upgrades.artillerymachinegun3.desc,Migliora la tua torretta antiaerea.
+level.gameover.unlock.pet,Nuovo animale sbloccato!
+upgrades.domesupplementelectrifiedsurface2.title,Scafo Elettrificato 2
+upgrades.keeper3shuriken2.desc,"Riduce la ricarica degli Shuriken, permettendoti di lanciarli più spesso."
+upgrades.artillerysplash2.desc,Spara due proiettili di mortaio in rapida successione.
+loadout.mode.hud,HUD
+upgrades.keeper4flexible2.title,Agilità 2
+upgrades.shieldbattlereflectshortuses.desc,Puoi utilizzare l'abilità più volte per ondata ma dura meno tempo.
+upgrades.rocketlauncherdamage2.title,Missili Mortali
+upgrades.domesupplementscraprepair1.title,Correre ai Ripari
+upgrades.keeper2bundle3.title,Centro gravitazionale
+upgrades.keeper2bundle2.desc,Consente il controllo direzionale di un pacchetto caduto a distanza ravvicinata
+upgrades.keeper3shurikencooldown2.desc,Riduce ulteriormente la ricarica degli Shuriken.
+upgrades.suitblaster.title,Tuta armata
+upgrades.prestigeiron.title,Spedisci ferro
+properties.shockwave.cooldown,Recupero {}s
+options.input.controls.keepersettings.desc,"I guardiani usano le impostazioni globali per impostazione predefinita. Puoi modificarle qui con impostazioni individuali per ciascun guardiano. Ad esempio, potresti voler impostazioni di aggancio diverse a seconda del guardiano o dell'azione."
+options.keybindings.action.keeper.gravityball,Spara
+upgrades.liftorbs.desc,Installa una sfera aggiuntiva nell'ascensore.
+options.input.controls.mouse.gamepad,Il cambio di periferica di input viene rilevato automaticamente.
+properties.probe.detectchambers,Rileva camere
+landing.proceed.xbox,Premi un pulsante qualsiasi per continuare
+upgrades.condenserautocollect.title,Raccolta automatica
+multiplayer.error.hostcrossplaydisabled,Non puoi entrare nella lobby perché l'host ha disattivato il crossplay ed è su un'altra piattaforma.
+upgrades.repellent.title,Repellente
+loadout.team.color,Colore squadra
+options.game.tutorials.resettutorials,Ripristina tutorial
+options.accessibility.critters.explanation,"Disabilita vermi, insetti o ragni che appaiono nella miniera come effetti visivi."
+upgrades.prospectionmeterrange1.desc,Aumenta la portata di rilevamento dello scanner di risorse.
+upgrades.drillsidepull.title,Trasporto di minerali
+options.accessibility.highlightmonsters.explanation,Migliora la visibilità evidenziando i nemici con un contorno luminoso.
+upgrades.keeper2bundle1.desc,Mostra un indicatore direttamente sotto la cupola per mostrare dove sparare i pacchetti verso l'alto.
+upgrades.assignmentsemergencycontribution6.title,Contributo d'emergenza 20
+upgrades.keeper4ramping3.title,Slancio 3
+upgrades.swordblade1.desc,Migliora la potenza del fendente e la velocità della tua spada.
+upgrades.probedetectchambers.title,Rileva Antri
+loadout.mode.shortcycles,Cicli brevi
+upgrades.proberange3.desc,Aumenta la portata della sonda.
+loadout.versusmod.versusmodifiershortcycles,Cicli brevi
+loadout.prestige.endless.description,Nessun limite di tempo o risorse per partite molto lunghe.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"Imposta il valore in modo tale che il rettangolo non tremi se tocchi lievemente la levetta del controller.
+Se spingi la levetta del tutto, il rettangolo dovrebbe tremare."
+upgrades.blastminingblast3.title,Esplosione 3
+upgrades.swordextendlong1.desc,Aumenta il danno e la manovrabilità della spada quando estesa.
+properties.autocannon.rateoffire,Velocità di fuoco {.percent}
+upgrades.assignmentsemergencycontribution4.title,Contributo d'emergenza 11
+assignment.minorvision.desc,Le ombre oscure di questo pianeta consumano tutta la luce.
+options.audio.volumes,Volume
+unlock.host.locked.ps5,L'host non possiede l'add-on '%s'.
+loadout.versusmod.versusmodifiershortcycles.desc,Il tempo tra le ondate di mostri è più breve.
+upgrades.keeper2pinballexplode2.title,Esplosione migliorata
+multiplayer.host.local,Locale
+options.video.graphicsmode.fullscreen,Schermo intero
+properties.keeper3.kunaidamage,Danno Kunai {}
+options.game.screenshake.shakewhenmining,Vibrazione mentre scavi
+upgrades.dome2.title,Cupola spada
+properties.autocannon.damage,Danno Proiettile {}
+loadout.mode.doubleiron,Quantità di ferro
+upgrades.keeper4punch1.title,Frenesia
+level.gameover.unlock.versus,Modalità Contro sbloccata!
+upgrades.artillerydoublemachinegun.desc,Installa una seconda canna per la torretta antiaerea della tua cupola.
+level.converter.popup.conversion.time,più di {time} cicli
+options.translation.title,SELEZIONA LA LINGUA
+loadout.prestige.pro.title,Impostazioni personalizzate
+multiplayer.host.title,Ospita una sessione multigiocatore
+properties.chainsaw.speed,Velocità di movimento {}
+options.input.gamepad.thumbstick.xbox,Levetta
+upgrades.furnacelastingironfiring.title,Combustibile di ferro efficace
+upgrades.shieldoverchargestrength1.title,Bonus Resistenza Scudo 1
+multiplayer.error.modsmismatched,La tua lista di mod non corrisponde a quella dell'host. Non puoi partecipare.
+upgrades.laserhitprojectiles.desc,Colpire i proiettili con il laser li distrugge immediatamente.
+upgrades.probepermanentrevealtiles.desc,Tutta l'area scansionata dalla sonda viene rivelata in modo permanente.
+options.keybindings.action.keeper.jump,Salta
+upgrades.repellentdelay2.title,Ritardo Ondata 2
+upgrades.keeper3shuriken1.title,Shuriken
+upgrades.probelongmarker2.desc,Gli indicatori delle risorse rimarranno per molti cicli.
+properties.shockwave.stunduration,Durata stordimento {}s
+level.tutorial.teleporter.teleport1,Avvicinati al portale e premi | per teletrasportarti.
+options.game.alwaysshowping,Mostra sempre il ping del server
+loadout.choices.locked,Da sbloccare.
+upgrades.prospectionmetersand1.title,Indicatore di cobalto
+upgrades.drill2.title,Motore Trivella 2
+level.gameover.findimages,Salvata in
+level.tutorial.resourcepacker.popup_1.switch,"Quando delle risorse sono vicine, premi | per imballarle in un pacchetto compatto più facile da trasportare."
+reward.rewardpostrunshowmonstercount.title,Statistiche di battaglia aggiuntive
+upgrades.drill.title,Piattaforma con Trivella
+upgrades.versusincreasewave1.desc,Aumenta permanentemente la forza delle ondate di mostri per l'altra squadra.
+upgrades.swordstabfast1.desc,La spada si estende più velocemente e si ricarica in meno tempo.
+properties.sword.slicebrake,Velocità Persa per Colpo {.percent}
+upgrades.lasermove3.desc,Velocità massima del laser.
+upgrades.prestigewatermultiplier.desc,Spedire indietro l'acqua. Aumenta la quantità di prestigio che si ottiene dopo ogni ondata.
+upgrades.domesupplementresurrection1.desc,"Invece di essere distrutta, la tua cupola guarirà completamente e diventerà invulnerabile per un po' di tempo. Un solo utilizzo."
+upgrades.swordextendlong3.title,Estensione migliorata 3
+properties.repellent.wavedelay,Ritardo ondata (cicli) {}
+upgrades.domewavepathtodome.desc,"Quando l'Avviso dell'Ondata di mostri emetterà il suo segnale, ti mostrerà anche il percorso più breve per tornare alla tua cupola."
+level.tutorial.ninja.carry,Trasportatore Kunai
+upgrades.dome4.desc,Una cupola all'avanguardia che sfrutta la potenza dell'elettricità in una misura mai vista prima.
+upgrades.prospectionmeterwater2.title,Rilevatore d'acqua
+multiplayer.techtree.keeperexclusivegadget,Questo gadget si applica solo al tuo guardiano.
+options.keybindings.action.dome,Cupola
+upgrades.drillbotbuff1.title,Snack
+versus.corruption.desc,Scegli una corruzione che influenzerà i mostri che attaccano l'altra squadra!
+upgrades.swordstabshoot.title,Giavellotto
+properties.dome.projectiledamagereduction,Riduzione Danno Proiettile {.percent}
+upgrades.drillbotbuffstrength2.desc,"Dopo aver ricevuto uno snack, Drillberto lavorerà molto più a lungo prima di addormentarsi."
+leaderboard.global,Globale
+options.game.blocklist.unblockall,Sblocca tutti
+upgrades.swordlongblade1.title,Lama Lunga 1
+properties.orchard.drillbuff,Bonus Potenza Scavo {}
+properties.spire.splitshotspeed,Velocità Proiettili Divisi {}
+options.keybindings.action.dome.upgrade,Potenzia
+upgrades.teslaspeed3.title,Velocità Reticolo 3
+upgrades.domehealthmeter.title,Indicatore integrità
+properties.extractor.additionalresources,Risorse aggiuntive {}
+upgrades.domesupplementcombatrepair3.desc,La riparazione automatica si attiva dopo aver ricevuto meno danni.
+upgrades.furnacelastingironfiring.desc,Fai durare più a lungo ogni lingotto di ferro nella fornace.
+properties.dome.resurrectinvulnerability,Invulnerabilità dopo la resurrezione {}s
+upgrades.assignmentssendwater.desc,"Fornisci acqua alla Gilda del Custode. Per avere successo con l'assegnazione, devi inviare tutte le consegne disponibili."
+options.game.autopickupresources,Raccogli automaticamente le risorse
+upgrades.repellentbattledamageovertime.desc,Tutti i mostri subiscono poco danno mentre i gas tossici persistono.
+upgrades.artillerydirecthit3.desc,Aumenta il potenziale distruttivo dei proiettili del mortaio.
+upgrades.domearmorprojectile1.title,Armatura proiettile 1
+upgrades.keeper4catgoblindig3.desc,I Catgoblin distruggono completamente le caselle mentre scavano.
+upgrades.stunlaserarea.desc,Crea un'area stordente attorno al mostro colpito che stordisce tutti i mostri vicini. L'area cresce e infligge più danni quanti più mostri ci sono al suo interno.
+level.tutorial.teleporter.carry2,Avvicinati al portale e tieni premuto | per raccoglierlo di nuovo.
+level.tutorial.teleporter.carry3,"Se premi | , ti teletrasporterai."
+upgrades.keeper2pinballreflect.title,Scudo Riflettente
+upgrades.probepermanentrevealtiles.title,Rivela roccia
+loadout.versusmod.versusmodifierfastmonsters.desc,I mostri si muovono più velocemente.
+level.tutorial.teleporter.carry1,Puoi spostare il portale dove preferisci.
+level.tutorial.pickup.popup_1,Premi | per raccogliere una risorsa.
+options.input.gamepad.autoswitch.xbox,Rilevamento Automatico del Controller preferito
+options.accessibility,Accessibilità
+upgrades.teslapersistance2.desc,Le sfere elettriche sono più grandi e durano più a lungo.
+properties.sword.reflectionacceleration,Velocità Proiettili Deflessi {.percent}
+upgrades.artillerygrenadefastreload.title,Ricarica Rapida
+upgrades.keeper2pinballreflect.desc,Posiziona un campo di riflessione delle sfere stazionario. Le sfere vengono leggermente potenziate dopo ogni riflessione.
+options.keybindings.action.keeper,Guardiano
+upgrades.drillbotbuffstrength1.desc,Gli snack energizzano Drillberto per un periodo maggiore.
+upgrades.versussendiron.desc,Consegna il ferro alla Gilda dei Guardiani. Invia tutte le consegne disponibili per ottenere la vittoria sulla squadra avversaria.
+upgrades.keeper2pinballmorespheres1.desc,Aumenta il numero di sfere che puoi trasportare.
+properties.rocketlauncher.rechargetime,Tempo di ricarica{}s
+upgrades.domesupplementadditionalcellar.title,Scantinato profondo
+upgrades.blastminingstickycharge.title,Cariche Adesive
+level.tutorial.assessor.explode.desc1.switch,Premi|per far esplodere tutte le sfere nelle tue vicinanze.
+upgrades.furnacestrongironfiring.title,Combustibile di ferro migliorato
+assignment.monstermasses.title,Masse di mostri
+options.input.gamepad.gamepadstickdeadzone.switch,Zona Morta della Levetta
+properties.stunlaser.areastunstrength,Efficienza Area Stordimento {.percent}
+upgrades.dome1health2.desc,Aumenta permanentemente l'integrità della cupola.
+upgrades.probepermanentrevealresources.title,Rivela risorse
+upgrades.swordfastreflection.desc,I proiettili deflessi saranno rispediti più velocemente.
+properties.autocannon.shotgun,Proiettili di Fucile a Pompa {}
+loadout.difficulty.medium,Brutale
+multiplayer.join.joincodeinput,Inserisci il codice di partecipazione
+properties.keeper4.maxspeedupatpunches,Velocità massima dopo {} pugni
+properties.monstermodifiers.health,Salute Mostri {.percent}
+loadout.versusmod.versusmodifierfastmonsters,Mostri veloci
+upgrades.shieldoverchargestrength1.desc,Aumenta quanto danno può assorbire lo scudo sovraccaricato.
+properties.probe.charges,{} cariche
+reward.rewardthreechoicessupplement.title,Offerta tre supplementi
+upgrades.domesupplementscraprepair1.desc,Ripara la cupola in maniera rudimentale consumando ferro. Riduce la salute strutturale massima.
+level.tutorial.tesla.panel1content1,Sposta il reticolo sullo schermo per mirare.
+upgrades.shockwavebig.desc,L'onda d'urto infligge una grande quantità di danni e può persino annientare alcuni mostri più forti.
+multiplayer.continue.allowmultiplayererror,Impossibile continuare la modalità multigiocatore online perché non hai selezionato Abilita gioco online nel menu delle opzioni.
+loadout.hint.multiplayer.playerminimum,Servono almeno due giocatori per avviare una partita multigiocatore.
+upgrades.artillerymachinegunhoming2.title,Missili a Ricerca 2
+upgrades.repellentbattleslowdownstun2.title,Forte Paralisi
+upgrades.shockwave.abilityname,Onda d'urto
+upgrades.jetpackspeed1.title,Velocità 1
+upgrades.teleporterteleportduration1.title,Velocità Di Teletrasporto
+upgrades.autocannonrateoffire3.title,Mitragliatrice 3
+properties.monstermodifiers.totalrunweightmodifier,Moltiplicatore dell'intensità dell'ondata {.percent}
+upgrades.swordstabfast1.title,Estensione rapida 1
+upgrades.swordstabfast3.title,Estensione rapida 3
+properties.tesla.quickshotstrength,Forza Sparo Veloce {.percent}
+upgrades.keeper2pinballdamage3.desc,Aumenta ulteriormente il tempo di ricarica per sfere cinetiche più potenti.
+title.navbar.options,Opzioni
+upgrades.domearmormelee2.desc,Diminuisce il danno che la cupola subisce dagli attacchi da mischia.
+upgrades.shieldbattleelectroblast.title,Barriera Elettrica
+properties.spire.stuntrapradius,Raggio {}
+options.audio.volumes.ambiencevolume,Ambiente
+loadout.mode.drillbert.desc,"Inizia con Drillberto e Cariche Esplosive, ma il guardiano non può migliorare le abilità di scavo. Scorte infinite di Drillberto."
+loadout.versus.team.closed,chiusa
+properties.keeper4.goblinnapduration,Durata del riposo dei Catgoblin {}s
+properties.keeper2.reflectnexthitdamage,Danno aggiuntivo al colpo successivo {.percent}
+upgrades.orchardbattlerootingmore.title,Radici Fortificate
+multiplayer.error.connection,Connessione non riuscita.
+keeperdlc.load.missing.ps5,"Impossibile caricare il salvataggio, contiene contenuti aggiuntivi non disponibili. Assicurati che il contenuto aggiuntivo 'I Guardiani Perduti' sia disponibile."
+level.tutorial.fruit.popup_2,Premi | accanto al frutto per consumarlo.
+loadout.versusmod.versusmodifierlittlecobalt,Carenza di cobalto
+reward.rewardpet12.desc,Sblocca il cane come mascotte per la tua cupola.
+multiplayer.host.joincodelabel,Codice di partecipazione
+upgrades.swordstabfast2.desc,La spada si estende ancora più velocemente e si ricarica in meno tempo.
+properties.dome.incomingdamagemodifier,Danno Ricevuto {.percent}
+properties.sword.stabexplosivedamage,Danno bomba {}
+properties.blastmining.bombs,Cariche esplosive {}
+properties.resourcepacker.charges,{} cariche
+upgrades.assignmentsemergencycontribution1.desc,Invia questo pacchetto entro il 2° turno o fallisci questo incarico.
+properties.artillery.machinegunbarrels,Cannoni Anti-Aereo {}
+properties.artillery.gunaimline,Mirino Laser
+upgrades.jetpackstrength4.desc,Migliora il jetpack per trasportare più risorse.
+loadout.mode.nomonsters.desc,Atterra su un mondo senza mostri.
+telemetry.eula,Leggi EULA
+upgrades.condenserspeed1.title,Velocità Produzione 1
+upgrades.mushroomstack.desc,"Accumula la durata di ciascun bonus, ottenendo bonus più duraturi consumando molti funghi."
+upgrades.keeper2pinballexplode2.desc,Aumenta la grandezza delle esplosioni delle sfere.
+versus.message.disruption,L'altra squadra ha appena potenziato permanentemente le tue ondate di mostri.
+loadout.mode.strongmonsters.desc,I mostri infliggeranno il doppio danno.
+upgrades.tesla.desc,Introduce tutta la meraviglia dell'elettricità a tutto ciò che è la fuori. Preferibilmente sul muso. A diverse migliaia di volt.
+properties.drillbot.turnaround,Si gira quando colpisce un muro indistruttibile
+upgrades.keeper2movement3.desc,Migliora il tuo generatore gravitazionale raggiungendo la velocità massima.
+level.tutorial.onewayteleporter2,Premi|per posizionare il portale. Premi di nuovo per teletrasportarti lì.
+upgrades.domearmormelee2.title,Armatura da mischia 2
+upgrades.drillbotbuffstrength2.title,Integratore Di Taurina
+level.tutorial.onewayteleporter3,Si ricarica automaticamente.
+upgrades.keeper4extraresource.desc,"Scavando con attenzione, a volte i tuoi Catgoblin raccolgono una risorsa extra da una casella."
+upgrades.drillbotduo.desc,"Porta i cugini di Drillbert, Diggory e Minerva, per aiutare con l'estrazione. Essendo in buona compagnia non avranno paura durante le ondate dei mostri e continueranno a scavare."
+properties.tesla.perfecttimingwindow,Finestra Tempo {}s
+loadout.mode.strongmonsters,Picchiatori aggressivi
+level.gameover.backtomainmenu,Torna al menu principale
+properties.blastmining.radius,Raggio esplosione (blocchi) {}
+telemetry.privacy,Ulteriori informazioni sulla gestione dei dati sono disponibili nella nostra Informativa sulla privacy http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,I missili diventano più letali.
+keybindings.reset.doreset.xbox,Ripristina i miei comandi
+upgrades.keeper3carrylimit3.desc,Aumenta il numero di risorse che puoi portare con te con il trasportatore Kunai.
+upgrades.autocannondoublefirerate.desc,Il cannone automatico spara molto più velocemente. Semplice ed efficace.
+upgrades.autocannon.title,Cannone Automatico
+upgrades.artillerymachinegunhoming1.title,Missili a Ricerca 1
+level.tutorial.assessor.carry.desc1_1.switch,"Una volta agganciate, ti seguiranno anche se lasci il pulsante di raccolta."
+upgrades.swordlongblade1.desc,Scambia la tua lama con una più lunga e agile.
+loadout.team.players,Giocatori
+options.keybindings.action.general.back,Indietro
+options.keybindings.action.keeper.rope,Lancia la corda
+upgrades.mushroomfarm.title,Allevamento di funghi
+loadout.prestige.title,Seleziona il modificatore
+upgrades.prospectionmeterrange1.title,Raggio 1
+upgrades.keeper3doublejump.title,Doppio Salto
+upgrades.keeper3kunaibounce1.desc,"Mostra la traiettoria di rimbalzo prevista e il punto d'atterraggio del Kunai. Ogni rimbalzo riverbera nella pietra, rivelando le caselle vicine."
+upgrades.repellentbattlelongerhealthreduction.title,Indebolimento Potenziato
+loadout.versusmod.versusmodifierlittlewater,Carenza d'acqua
+upgrades.mushroomfarmdrill1.title,Funghi minatori 1
+loadout.versusmod.versusmodifierscatterediron,Ferro diffuso
+level.converter.popup.conversion.convert,converti
+properties.droneyard.overchargebattledronecount,Droni da battaglia aggiuntivi {.percent}
+reward.rewardfreerolls1.desc,Un reroll gratuito per la scelta di gadget o supplementi per ogni partita.
+multiplayer.host.splitscreen,Abilita schermo condiviso locale
+properties.converter.cobalttoiron,1 Cobalto per {} Ferro
+loadout.mode.automateddefense,Difesa automatica
+options.input.gamepad.gamepadstickdeadzone.xbox,Zona Morta Levetta
+level.converter.popup.explanation,Seleziona una risorsa per iniziare a convertire!
+upgrades.dome1health2.title,Salute 2
+upgrades.stunlaserduration3.desc,Il laser stordente si raffredda estremamente veloce e ha una durata di fuoco ancora maggiore.
+upgrades.assignmentsemergencycontribution5.desc,Invia questo pacchetto entro il 16° turno o fallisci questo incarico.
+pause.gamepadcontrols.use,Usa
+properties.spire.stunmonsters,Stordisci Mostro
+upgrades.assignmentssendcobalt.desc,"Consegna il cobalto alla Gilda del Custode. Per avere successo con l'assegnazione, devi inviare tutte le consegne disponibili."
+upgrades.mushroomfarmspeed1.desc,Migliora il bonus di velocità ottenuto consumando funghi.
+upgrades.keeper2pinballmorespheres1.title,Sfere aggiuntive
+upgrades.rocketlauncherrockets2.desc,Aumenta la quantità di missili che puoi lanciare.
+options.keybindings.gamepad.xbox.menu.xbox,Pulsante menu
+upgrades.swordstabfast3.desc,La spada si estende ancora più velocemente e si ricarica in meno tempo.
+properties.shield.overchargestrength,Scudo Sovraccaricato {} pv
+upgrades.droneyarddronespeed1.desc,Migliora la velocità dei tuoi droni di trasporto.
+upgrades.liftorbs.title,Sfere Aggiuntive
+properties.keeper3.carrylimit,Capacità dei portatori di Kunai {}
+options.video.graphicsmode.photosensitive,Filtro fotosensibilità
+upgrades.keeper2pinballdamage1.title,Sfere cinetiche 1
+reward.rewardkeeper3skin1.title,Skin da Infiltratore
+level.tutorial.ninja.gadgetpickup.desc1,I gadget non vengono raccolti automaticamente.
+properties.converter.ironperwater,{} Ferro per Acqua
+properties.spire.capacity,Spari prima della Ricarica {}
+level.tutorial.ninja.gadgetpickup.desc2,Tieni premuto| per raccogliere un gadget.
+loadout.versusmod.versusmodifierlittlewater.desc,La mappa contiene depositi d'acqua molto scarsi.
+upgrades.drillbotstrength3.desc,Aumenta la velocità di scavo di Drillberto.
+upgrades.spirestuntrap3.title,Trappola per Mostri
+upgrades.shredgadgettocobalt.desc,Distruggi il gadget e ottieni {amount} cobalto.
+upgrades.converterefficientcobalt.title,Conversione Efficiente Di cobalto
+options.input.vibration.strength.switch,Intensità Vibrazione
+properties.sword.reflectprojectiles,Riflette Proiettili
+reward.rewardfreerolls2.desc,Un reroll gratuito aggiuntivo per la scelta di gadget o supplementi per ogni partita.
+level.tutorial.station.popup_2,Raggiungi la stazione e premi | per entrare.
+upgrades.versus.desc,"Due cupole, due squadre: si sfidano fino a che ne resta solo una."
+upgrades.dome2.desc,"Cupola sperimentale con una potente lama difficile da padroneggiare, ma in grado di abbattere anche gli avversari più tenaci con facilità."
+upgrades.drillmagnetic.desc,"Gli involucri delle trivelle discendenti diventano magnetici, trattenendo tutte le risorse estratte."
+assignment.harmfuliron.title,Ferro pericoloso
+level.tutorial.sworddome.stabbing,Estensione
+options.input.gamepad.icons,Icone
+upgrades.shredgadgettoiron.desc,Smantella il gadget e ottieni {amount} ferro.
+upgrades.assignmentsemergencycontribution6.desc,Invia questo pacchetto entro il 20° turno o fallisci questo incarico.
+properties.droneyard.battledroneshots,Colpi per drone {}
+level.gameover.lose.title,LA CUPOLA È DISTRUTTA
+loadout.difficulty.title,Difficoltà
+properties.artillery.maxrotation,Rotazione Massima {}°
+upgrades.shockwavestun2.desc,Aumenta la capacità di stordimento dell'onda d'urto.
+unlock.host.locked,L'host non possiede il DLC '%s'.
+multiplayer.host.splitscreen.desc,Usa i gamepad nell'equipaggiamento per far comparire altri guardiani. Fino a quattro guardiani possono condividere lo stesso schermo. Compatibile con multigiocatore in rete locale o online.
+telemetry.explanation,"Per il multigiocatore online, connettiti al nostro servizio per trovare altri giocatori e unirti alle loro partite oppure ospitare partite dal tuo lato.
+Questa funzione è facoltativa e puoi attivarla o disattivarla liberamente. Connessioni ripetute a un backend, anche con un account anonimo, sono rilevanti ai fini del GDPR.
+Non raccogliamo dati personali e non tracciamo le tue partite con la telemetria.
+Se non attivi il multigiocatore online, puoi comunque giocare in multigiocatore su un solo dispositivo in schermo condiviso o sulla rete locale.
+
+Puoi modificare questa impostazione in qualsiasi momento dalle opzioni."
+gadget.slot.supplement,Supplemento
+upgrades.droneyardovercharge2.desc,I droni sono più forti dopo aver sovraccaricato la fabbrica.
+level.furnace.popup.fuel.burn,Ogni|dura per {cycles} cicli e ritarda i mostri di altri {seconds} secondi.
+options.input.controls.nooptions,Non ci sono impostazioni individuali per %s per questo guardiano.
+upgrades.versusshowinventory.desc,Ti permette di vedere l'inventario dell'altra squadra durante il monitoraggio della loro cupola.
+properties.keeper1.drillstrength,Potenza Trivella {}
+upgrades.keeper1.desc,Un abile ed efficiente professionista con eccellenti abilità di scavo.
+leaderboard.friends,Amici
+gadget.slot.activegadget,Abilità di Combattimento Secondaria
+upgrades.keeper2.desc,Un minatore sofisticato che utilizza l'energia cinetica sperimentale e la tecnologia della gravità.
+upgrades.keeper2pinballsplit2.title,Scissione migliorata
+upgrades.keeper2movement1.title,Movimento gravitazionale 1
+properties.keeper2.explodespheres,Esplodi sfere
+upgrades.keeper3kunaidamage4.desc,Aumenta la potenza di scavo dei tuoi Kunai. I Kunai sono particolarmente deboli contro la roccia dura.
+upgrades.spireautonomy1.desc,Un' IA controlla la torretta anche mentre sei fuori dalla stazione di controllo.
+properties.droneyard.dronespeed,Velocità drone {}
+upgrades.teslaquickshot.title,Colpo Rapido
+assignment.megacreeps.title,La sopravvivenza del più adatto
+upgrades.shieldbattleactivateondepletion.title,Riavvio Automatico
+versus.corruptionbigwave.title,Ondata letale
+upgrades.keeper4speed3.title,Velocità di spostamento 3
+upgrades.swordelectrified.title,Lama Elettrificata
+upgrades.artillerymachinegun1.title,Torretta Antiaerea Migliorata
+level.tutorial.beastmaster.move.desc2,Puoi muoverti solo se riesci ad aggrapparti a qualcosa.
+options.accessibility.fontsize.small,Piccola
+assignment.unpredictable.desc,"L'atmosfera del pianeta interferisce con il misuratore di prossimità della cupola, impedendo di tracciare le ondate nemiche."
+level.tutorial.beastmaster.move.desc1,Usa i tentacoli per muoverti lungo le pareti della miniera.
+upgrades.suitblasterdirectional.desc,"Quando ti muovi in ​​una direzione, la pistola ti farà esplodere un lungo tunnel. È ancora possibile ottenere esplosioni radiali non muovendosi quando la pistola della tuta si attiva."
+level.tutorial.teleporter.take1,Il tuo teletrasporto ha una stazione e un portale. Puoi teletrasportarti da uno all'altro.
+options.audio.music.ost.mode.fixed.desc,"Riproduci tracce dalle seguenti colonne sonore dei guardiani, indipendentemente da quale guardiano tu stia giocando."
+level.tutorial.teleporter.take2,Prendi il portale e piazzalo dove vuoi.
+level.gameover.assignment.failed,Hai fallito l'incarico della Gilda dei Guardiani.
+telemetry.manage,Disabilita servizi online
+modding.restart,Riavvia
+upgrades.orchardbattlerootingexplosion.title,Preda Esplosiva
+level.gameover.unlock.skin,Nuova tuta sbloccata!
+upgrades.jetpackspeed3.desc,Migliora il jetpack aumentando la velocità di movimento.
+upgrades.repellentoverchargeduration2.title,Sovraccarico intenso
+upgrades.prospectionmeterwater1.desc,Mostra la distanza dal deposito d'acqua più vicino.
+loadout.prestige.miner.description,Concentrati sullo scavare nel modo più efficiente in un mondo senza mostri. Dura 20 cicli.
+upgrades.shieldbattlereflect.desc,Attiva questa abilità di combattimento per deflettere i proiettili in arrivo per poco tempo.
+upgrades.stunlaserstun1.desc,Aumenta la potenza del raggio stordente.
+multiplayer.error.gameresolved,Questa partita è già finita.
+upgrades.shieldbattlereflect.title,Deflessione
+options.audio.volumes.mastervolume,Principale
+upgrades.keeper2pinballdamage4.title,Sfere cinetiche 4
+leaderboard.loading,caricamento...
+upgrades.droneyardparasites2.title,Droni parassiti 2
+playerlist.title,Elenco giocatori
+upgrades.versusincreasewave2.desc,Aumenta permanentemente la forza delle ondate di mostri per l'altra squadra.
+upgrades.rocketlauncher.title,Lanciamissili
+upgrades.liftspeed1.title,Velocità
+upgrades.rocketlauncherrockets2.title,Raffica 2
+level.tutorial.blastmining.popup_1,Prendi la carica esplosiva e lasciala dove vuoi per rimuovere le rocce.
+upgrades.keeper3slidecontrol.title,Manovra in aria
+properties.furnace.wavedelay,Ritardo base {}s
+upgrades.mushroomfarmspeed2.desc,Migliora il bonus di velocità ottenuto consumando funghi.
+upgrades.dome3.title,Cupola Artiglieria
+properties.converter.ironirontime,Tempo di conversione da Ferro a Ferro(cicli) {}
+properties.keeper4.movespeed,Velocità di movimento {}
+properties.stunlaser.damagepermonster,Danno ad Area per Mostro {}dps
+upgrades.stunlaser.title,Torretta Stordente
+title.navbar.credits,Riconoscimenti
+upgrades.drillbotbuffstrength1.title,Snack Nutrienti
+level.tutorial.pickup.popup_1.switch,Premi | per raccogliere una risorsa.
+level.tutorial.pickup.popup_3,Tieni premuto per raccoglierne multiple.
+upgrades.blastminingtriple.title,Cariche Triple
+upgrades.prospectionmeterscandelay1.desc,Aumenta la frequenza di aggiornamento dell'indicatore.
+upgrades.furnacelastingwaterfiring.desc,Fai durare più a lungo ogni unità di acqua nella fornace.
+upgrades.versusincreasewave2.title,Sabotaggio 2
+upgrades.artillerymachinegun4.desc,"Installando ulteriori canne, la torretta è in grado di reggere una cadenza di tiro maggiore."
+upgrades.teslaspeed4.title,Velocità Reticolo 4
+upgrades.swordextendlong3.desc,Potenza e durata di affondo enormi.
+demo.end.title,Grazie per aver giocato la demo!
+upgrades.stationextensiontubemovement.title,Tubo trasportatore
+upgrades.keeper4squad3.title,Squadra massiva
+upgrades.orchardbattleshield.desc,"Fai crescere una tettoia di rampicanti sulla tua cupola, proteggendola dai proiettili."
+properties.droneyard.battledronestrength,Effetto parassitario {.percent}
+options.game.kunaicarriersnapping,Blocca la mira del trasportatore kunai nelle direzioni cardinali
+options.input.vibration.strength.xbox,Vibrazione controller
+upgrades.keeper2pinballspherelifetime.title,Durata sfera
+upgrades.furnace.title,Fornace
+upgrades.shockwavedamage1.title,Danno onde d'urto 1
+properties.mushroomfarm.drillbuff,Bonus potenza scavo {}
+level.tutorial.station.popup_4.switch,Poi premi | per passare in modalità battaglia e difenderti.
+level.tutorial.teleporter_2,Usa la stazione di teletrasporto per teletrasportarti al portale e viceversa.
+level.tutorial.station.popup_2.switch,Raggiungi la stazione e premi | per entrare.
+title.navbar.continue,Continua
+actionhint.tap,Premi
+level.tutorial.station.popup_1,La tua cupola è sotto attacco!
+multiplayer.error.kicked,Espulso dalla sessione multigiocatore.
+telemetry.allow.ps5,Accetta EULA
+landing.proceed,Premi un tasto qualsiasi per continuare
+upgrades.condenserautoovercharge.title,Sovraccarico Automatico
+upgrades.keeper2pinballdestroyadjacenttiles.title,Impatto a cascata
+level.converter.popup.queue,Ripeti automaticamente la conversione
+options.keybindings.rebinding.cancel,Annulla
+loadout.versus.condition.deathmatch.title,Ultima cupola in piedi
+upgrades.domearmorprojectile1.desc,Diminuisce il danno che la cupola subisce dagli attacchi dai proiettili.
+pause.gamepadcontrols.move,Muovi
+upgrades.keeper3kunaicooldown2.title,Tiro Rapido
+upgrades.artilleryrotation2.title,Rotazione Rapida
+loadout.gadget.additional.desc,Seleziona un altro gadget!
+level.gameover.unlock.assignment,Incarico sbloccato!
+upgrades.domesupplementprojectiledamagereduction1.desc,Migliora la riflessione dello scafo della cupola per ridurre i danni dei proiettili. Il danno da mischia non è influenzato.
+upgrades.blastminingproductiontime1.desc,Riduce il tempo necessario per creare una carica esplosiva.
+upgrades.autocannonshotgun1.title,Fucile a Pompa 1
+loadout.hint.loadout,Completa il tuo equipaggiamento!
+assignment.condition.deliveriron,Consegna il %d di Ferro
+upgrades.drillbotduo.title,Amici Coraggiosi
+level.tutorial.assessor.carry.desc1_1.xbox,"Una volta agganciate, ti seguiranno anche se lasci il pulsante di raccolta."
+multiplayer.error.nomods,Non devono essere installate mod.
+options.input.controls.keybindings.xbox,Assegnazione pulsanti
+upgrades.domearmorprojectile2.title,Armatura proiettile 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"Imposta il valore in modo tale che il rettangolo non tremi se tocchi lievemente la levetta del controller.
+Se spingi la levetta del tutto, il rettangolo dovrebbe tremare."
+upgrades.domesupplementcombatrepair2.title,Riparazione Combattimento Migliorata
+level.gadgetchoice.title,SCEGLI UN GADGET!
+properties.teleporter.slowdown,Rallentamento di trasporto {.percent}
+upgrades.teslaspeed1.title,Velocità Reticolo 1
+assignment.weapondefect.title,Arma difettosa
+properties.suitblaster.directionalexplosions,Esplosione direzionale
+options.translation.community.title,Traduzioni della Community
+options.audio.music.ost.mode,Impostazioni musica
+upgrades.teleporterteleportresourcesback.title,Teletrasporto Di Risorse
+upgrades.orchardbattleshield.title,Tettoia di rampicanti
+properties.drill.sides,Trivelle Laterali {}
+upgrades.teslaorbstun.desc,Le sfere elettriche applicano un grado più alto di stordimento.
+upgrades.repellentoverchargeduration2.desc,Aumenta l'impatto del sovraccarico sulle abilità di battaglia.
+properties.keeper2.totalspheres,Sfere {}
+options.keybindings.action.general.up,Su
+pause.quit.popup,"Vuoi davvero uscire?
+Premi di nuovo per confermare
+(i tuoi progressi verranno salvati)."
+upgrades.drillbotduplicate.desc,"Drillberto ottiene un gemello identico, Drillenzo."
+properties.keeper2.explodespheresradius,Raggio esplosione (blocchi) {}
+assignment.bigmapsparseresources.title,Terre sterili
+upgrades.converterqueue.title,Conversione automatica
+multiplayer.error.otherprestigeplayerquit,La partita è terminata perché il tuo compagno di squadra ha abbandonato la partita. La partita è stata salvata e puoi continuare selezionando multigiocatore nel menu continua.
+level.tutorial.teleporter.teleport1.switch,Avvicinati al portale e premi | per teletrasportarti.
+level.tutorial.teleporter.teleport2,Puoi teletrasportarti anche nell'altra direzione.
+playerlist.report,Segnala
+upgrades.swordextendlong1.title,Estensione migliorata 1
+upgrades.spiresplit3.desc,I proiettili divisi possono andare in ogni direzione.
+upgrades.keeper3kunaicooldown3.desc,Lancia i Kunai più velocemente.
+exhibition.title.press.anything,Premi un tasto qualsiasi per giocare
+multiplayer.techtree.keeperexclusivesupplement,Questo supplemento si applica solo al tuo guardiano.
+options.input.gamepad.twinstick.xbox,Controlli delle Levette
+gadget.slot.domesupplement,Supplemento Cupola
+loadout.mode.maze,Labirinto
+upgrades.teleporter.title,Teletrasporto
+properties.keeper4.holesquad,Dimensione della squadra di scavo {}
+level.tutorial.fruit.popup_1,La tua serra ha prodotto il primo frutto.
+upgrades.teslatiming1.desc,Spara un colpo molto più potente sparando con precisione nel momento in cui il tesla è ricaricato e pronto a sparare.
+upgrades.converterefficientwaterlong.title,Trattamento Intensivo
+level.tutorial.fruit.popup_2.switch,Premi | accanto al frutto per consumarlo.
+unlock.buy.keeperdlc.xbox,Sbloccato tramite l'add-on '%s'.
+upgrades.autocannonspeed1.desc,Olia gli ingranaggi del cannone aumentandone di molto la velocità di movimento.
+upgrades.probepermanentrevealresources.desc,Le risorse marchiate vengono rivelate in modo permanente invece di essere semplicemente identificate con un indicatore.
+properties.teleporter.teleportresourcescooldown,Durata teletrasporto Risorse {}
+upgrades.spire.desc,Un Obelisco difensivo che intercetta i proiettili in arrivo.
+reward.rewardkeepersupplements.title,Supplementi Guardiano
+upgrades.condenser.desc,Aggiunge un macchinario sotto la cupola che produce lentamente acqua attraverso la condensazione.
+upgrades.spiresplit3.title,Scissione a Terra
+properties.drillbot.plantgrowthtime,Tempo di crescita snack (cicli) {}
+modding.modio.showdownloaded,Mostra mod scaricate
+upgrades.stunlaserspeed1.title,Rotazione 1
+upgrades.resourcepackercharges.title,Cariche
+upgrades.swordblade1.title,Fendente Migliorato
+loadout.versus.modifiers.desc,Scegli i modificatori per questa partita: influenzeranno sia la tua squadra che quella avversaria. I modificatori sono facoltativi.
+level.tutorial.fullscreen.back,indietro
+options.accessibility.backgrounds.explanation,"Sostituisce gli sfondi di gioco di ogni mondo con un unico colore luminoso, così da ridurre il rumore visivo in battaglia."
+upgrades.dome1health1.title,Salute 1
+loadout.prestige.pro.randomorder,ordine casuale
+assignment.superhardrockwithholes.desc,La roccia è estremamente densa ma piena di grotte naturali.
+upgrades.droneyardparasites.title,Droni Parassiti
+actionhint.hold,Tieni premuto
+properties.spire.timebetweenshots,Tempo di Agganciamento {}s
+properties.game.cyclespeed,Velocità Ciclo {.percent}
+upgrades.artillerydirecthit3.title,Polverizza Mostri 3
+loadout.mode.drillbert,Modalità Drillberto
+upgrades.prestigecobalt.title,Spedisci cobalto
+upgrades.rocketlauncher.desc,Spara missili a ricerca di bersaglio contro i mostri. Deve essere attivato manualmente.
+level.station.battle.navbar.exit,Esci
+options.game.events.enableseasonal,Abilita contenuti stagionali
+options.audio.music.ost.mode.fixed,Fisso
+assignment.ironcontribution.desc,La Gilda ha urgentemente bisogno di ferro e ne richiede una grande quantità da consegnare rapidamente.
+properties.rocketlauncher.damageperrocket,Danno {}
+upgrades.keeper4.title,Domatore
+upgrades.laserbend.title,Laser Intelligente
+unlock.host.locked.switch,L'host non possiede l'add-on '%s'.
+level.supplementchoice.reroll.free, (%s) Reroll
+loadout.versusmod.versusmodifierconcentratediron,Ferro concentrato
+options.keybindings.rebinding.apply,Applica
+properties.repellent.battledamageovertime,I mostri subiscono {} danni al secondo
+upgrades.repellentdelay1.title,Ritardo Ondata 1
+upgrades.converterefficientwatershort.desc,Rendi la conversione dell'acqua molto più veloce.
+upgrades.domesupplementcombatrepair1.title,Riparazione in Combattimento
+level.tutorial.sworddome.slicing,Colpisci
+properties.drillbot.scared,Spaventato dai mostri
+title.navbar.updates.close,Chiudi
+upgrades.condenserspeed2.desc,Riduce ulteriormente il tempo necessario per condensare un'unità d'acqua.
+upgrades.prospectionmeteriron2.desc,Visualizza la direzione dei depositi di ferro più vicini.
+upgrades.keeper3carrylimit2.title,Capacità di Carico 2
+loadout.versus.condition.irondelivery.desc,La squadra che consegna per prima %s unità di ferro vince.
+properties.mushroomfarm.speedbuffduration,Durata bonus velocità {}s
+upgrades.keeper4punch1.desc,"Lo scavo con i tentacoli aumenta lentamente fino a raggiungere una forza enorme, ma cambiare direzione azzera l'accumulo."
+exhibition.level.heading,Sei ancora qui?
+keeperdlc.load.missing.xbox,"Impossibile caricare il salvataggio, contiene contenuti aggiuntivi non disponibili. Assicurati che il contenuto aggiuntivo 'I Guardiani Perduti' sia disponibile."
+upgrades.domesupplementresurrection2.desc,Ottiene una resurrezione aggiuntiva.
+actionhint.release,Rilascio
+level.gameover.stats.monsterskilled,Mostri uccisi
+level.gameover.timelapse,Timelapse
+upgrades.drill4.desc,Potenzia la trivella permettendo di scavare più velocemente.
+upgrades.prospectionmetersand1.desc,Visualizza la distanza dai depositi di cobalto più vicini.
+assignment.instagip.desc,"I mostri su questo pianeta sono brutali in modo innaturale, i loro attacchi infliggono danni devastanti alla tua cupola."
+landing.proceed.ps5,Premi un tasto qualsiasi per continuare
+upgrades.drillsides.desc,Aggiungi una trivella laterale a quella centrale che può essere spostata secondo necessità.
+properties.dome.meleedamagereduction,Riduzione Danno da Mischia {.percent}
+options.keybindings.action.keeper.throw,Lancia il Kunai
+level.station.battle.navbar.artilleryflak,Mitragliatrice
+upgrades.teleporterlightweight.desc,Trasportare il portale ti rallenterà a malapena.
+pause.quittotitlescreen,Torna al menu principale
+properties.sword.stabarrowhead,Aumenta la dimensione della punta della spada
+loadout.versus.team.open,aperta
+level.gameover.stats.mapsize,Dimensione mappa
+upgrades.domesupplementelectrifiedsurface2.desc,Migliora il danno che i mostri ricevono quando colpiscono la cupola.
+upgrades.prestigecobalt.desc,Spedire indietro il cobalto. Aumenta la quantità di prestigio che si ottiene dopo ogni ondata.
+options.video.renderscale.reset,Ripristina
+options.keybindings.text.xbox,"Modifica i pulsanti a tuo piacimento.
+Si possono utilizzare gli stessi per azioni di diverso tipo senza alcun problema (per esempio, puoi utilizzare gli stessi pulsanti per muovere il personaggio e l'arma della cupola)."
+options.audio.music.frequency,Frequenza (cicli senza musica)
+upgrades.rocketlauncherrockets3.desc,Aumenta la quantità di missili che puoi lanciare.
+options.input.controls.mouse.menus,Usa il Mouse nei Menu
+upgrades.artillerysplash4.title,Quattro Colpi
+upgrades.keeper4catgoblindig3.title,Scavo frenetico
+properties.keeper4.catgoblincount,Numero di Catgoblin {}
+loadout.mode.hud.desc,Inizia con un HUD migliorato al massimo.
+upgrades.drillbotsleepless.title,Addestramento
+assignment.maze.desc,"Questo pianeta ha una mappa di tipo labirinto, piena di corridoi e strutture irregolari."
+level.tutorial.drop.popup_2.switch,Premi | per lasciarne una. Tieni premuto per lasciarne molte.
+upgrades.artillerysplash2.title,Colpo Doppio
+loadout.select,Seleziona
+level.gameover.prestige.uploading.failed,"caricamento non riuscito, nuovo tentativo in corso"
+level.assignment.badges.available,Medaglie disponibili: %d
+level.tutorial.beastmaster.goblins,Catgoblin
+properties.autocannon.spray,Raffica di Proiettili {.percent}
+upgrades.versusspycam.title,Telecamera spia
+upgrades.shredgadgettoiron.title,Trasforma in ferro
+upgrades.teslapersistance3.desc,Le sfere elettriche sono più grandi e durano più a lungo.
+upgrades.suitblasterspeed2.title,Velocità di ricarica 2
+properties.shield.battleuses,Utilizzi per battaglia {}
+properties.prospectionmeter.range,Raggio (blocchi) {}
+upgrades.droneyard.desc,Installa una fabbrica per la produzione di droni utilizzati nel trasporto di risorse e nel combattimento.
+upgrades.domearmorpulse.title,Impulso reattivo
+title.navbar.multiplayer.host,Ospita una partita multigiocatore
+upgrades.spireburst.desc,Spara brevi raffiche in grado di intercettare diversi proiettili.
+upgrades.domearmor.desc,"Installa una placcatura robusta sulla tua cupola, rendendola più resistente."
+options.input.controls.mouse.gamepad.xbox,Il cambio di Controller viene rilevato automaticamente.
+unlock.difficulty.hard,Vinci una partita di difficoltà brutale per sbloccarla.
+versus.corruptionmonsterhealth.title,Mostri sani
+properties.probe.markerretention,Persistenza Indicatori {}s
+loadout.hint.gamemodecompletion,Configura al completo la tua modalità di gioco!
+upgrades.suitblasterdirectional.title,Carica direzionale
+options.keybindings.gamepad.xbox.view,Indietro
+unlock.host.locked.xbox,L'host non possiede l'add-on '%s'.
+loadout.versusmod.versusmodifiernorelics,Nessuna reliquia
+upgrades.autocannondoublefirerate.title,Cannone a fuoco rapido
+upgrades.blastmining.desc,Produce cariche esplosive per l'estrazione mineraria. Trasportale nelle miniere e rilasciale per farle detonare.
+upgrades.converterqueue.desc,"Al termine di una conversione, le risorse generate verranno automaticamente espulse e la stessa conversione inizierà nuovamente, se ci sono abbastanza risorse nell'inventario."
+modding.modio.fetchsubscriptionsfailed,Errore nel recupero degli abbonamenti mod.io!
+upgrades.orchardbattleshieldsecondlayer.desc,Fai crescere un altro strato di rampicanti sulla tettoia.
+unlock.generic,Sblocca vincendo una partita.
+loadout.versusmod.versusmodifiersoftrock.desc,La mappa contiene più roccia friabile.
+upgrades.assignments.desc,Accetta un incarico sfida dalla Gilda dei Guardiani per dimostrare la tua competenza.
+properties.probe.autorecharge,Ricarica automatizzata
+assignment.instagip.title,Mostri brutali
+upgrades.artillerysplash3.desc,Migliora il tuo mortaio per sparare proiettili che hanno un'enorme raggio di esplosione.
+loadout.team.join,Unisciti
+options.keybindings.action.general.move,Muoviti
+upgrades.condenserautoovercharge.desc,Mantiene il gadget principale permanentemente sovraccaricato evitando il consumo d'acqua. La produzione dell'acqua condensata avverrà dopo il sovraccaricato.
+multiplayer.continue.deviceselection.title,Scegli il tuo Guardiano!
+upgrades.autocannonautonomy.desc,Il cannone automatico si attiva anche quando non sei all'interno della stazione di controllo.
+properties.laser.aimline,Linea di Tiro
+multiplayer.join.button,partecipa
+properties.artillery.rotationspeedwhilemachinegun,Velocità di Rotazione mentre si Spara {.percent}
+level.tutorial.artillery.panel2header,Cannone Anti-Aereo
+level.gameover.keepgadget.title,Scegli un gadget da tenere per la prossima partita
+upgrades.domearmorprojectile2.desc,Diminuisce il danno che la cupola subisce dagli attacchi dai proiettili.
+upgrades.shieldbattledestructionprevention.title,Ultima Resistenza
+upgrades.domeresourcecounters.desc,Visualizza la quantità corrente di risorse immagazzinate e ripara automaticamente la cupola durante il combattimento utilizzando il cobalto.
+upgrades.spirestuntrap1.title,Trappola Energetica
+upgrades.prospectionmeteriron2.title,Rivelatore di ferro
+loadout.mode.hyperactive,Rapidi ma deboli
+upgrades.prospectionmeterwater2.desc,Visualizza la direzione dei depositi d'acqua più vicini.
+options.video.stretchmode,Modalità Rendering
+level.gameover.prestige.title,ASCENSIONE TERMINATA
+upgrades.droneyardovercharge1.title,Fabbrica di droni sovraccaricata
+level.station.navbar.exit,Esci
+upgrades.teslaorbdamage.title,Superconduttività
+upgrades.proberechargeafterbattle.title,Sonda senza stazione
+upgrades.assignmentssendwater.title,Fornisci acqua
+upgrades.probecharges.title,Carica sonda
+pause.gamepadcontrols.pickup,Raccogli
+upgrades.prospectionmeter.title,Scanner Risorse
+upgrades.condenserspeed2.title,Velocità Produzione 2
+loadout.mode.hyperactive.desc,"I mostri sono molto più veloci, ma hanno meno salute."
+upgrades.teleporterlightweight.title,Portale leggero
+versus.corruptionstunresistance.title,Resistenza allo stordimento
+loadout.versusmod.versusmodifierpoorirondeposits,Deposti di ferro scarsi
+level.gameover.prestige.uploading.finalfailed,il caricamento del nuovo punteggio non è riuscito!
+modding.currentprofile,(Profilo Attuale)
+upgrades.versussendiron.title,Consegna il ferro
+loadout.assignment.title,Scegli il tuo incarico
+options.keybindings.rebinding,Riassegna
+upgrades.teslaspeed2.title,Velocità Reticolo 2
+level.tutorial.beastmaster.hole_1,Tieni premuto| per scavare un varco nella parete posteriore.
+level.tutorial.beastmaster.hole_2,"Un Catgoblin emergerà presto, collegandolo al loro sistema di tunnel."
+upgrades.keeper3shurikenstrength2.title,Shuriken Massiccio
+upgrades.versusspycam.desc,Ricevi una nuova stazione che ti permette di monitorare la cupola dell'altra squadra.
+upgrades.prestigespeedup.title,Cicli brevi
+options.accessibility.fontsize.large,Grande
+reward.rewardcentralmarker.desc,Segna il centro della miniera con una linea verticale.
+upgrades.shieldstrength3.desc,Aumenta ulteriormente il danno che può assorbire lo scudo della cupola.
+options.game.movementsnapping,Blocca il movimento nelle direzioni cardinali
+upgrades.laseraimline.title,Mirino laser
+upgrades.converterironduplication.title,Raffinamento di Ferro
+upgrades.jetpackspeed4.desc,Migliora il jetpack aumentando la velocità di movimento.
+options.keybindings.gamepad.xbox,Controller
+upgrades.teslapower1.title,Potenza di Fuoco 1
+gadget.slot.mineshaft,Miniera
+keybindings.reset.title,Reset assegnazioni tasti
+upgrades.autocannonrateoffire2.desc,Aumenta ulteriormente la cadenza di fuoco.
+multiplayer.join.localonly,Sto cercando solo partite locali. Abilitare il multigiocatore online?
+upgrades.keeper3aerialmastery.title,Maestria aerea
+upgrades.extractordestruction.desc,"Invece di spirare all'interno dei loro tunnel, i vermi faranno crollare le rocce in cui hanno scavato, distruggendo anche alcune rocce circostanti."
+properties.shield.battleabilityduration,Durata abilità {}s
+upgrades.keeper4squad3.desc,Aumenta il numero di Catgoblin nella squadra e la loro resistenza.
+level.gameover.prestige.score.rankimproved,"La tua posizione è migliorata, ora sei {rank}°."
+options.game.tutorials.noneunlocked,Nessun tutorial sbloccato.
+upgrades.droneyardparasites2.desc,Migliora l'efficacia dei tuoi droni parassiti.
+loadout.prestige.provocation,Provocazione
+network.error.generic,Errore di rete.
+options.game.ropesnapping,Allinea corda e indicatore di mira alle direzioni cardinali
+upgrades.keeper4catgoblindig1.title,Scavo dei Catgoblin
+level.gameover.manualmove,Telecamera manuale
+upgrades.domesupplementcombatrepair1.desc,La cupola si ripara automaticamente una volta per combattimento non appena subisce una certa quantità di danni. Non consuma cobalto.
+upgrades.prospectionmeterscandelay1.title,Rilevamento Migliorato
+assignment.goaltype,Obiettivo
+properties.keeper1.speedlosspercarry,Riduzione Velocità in Sovraccarico {}
+upgrades.extractor.desc,Coltiva vermi estrattori portatili che estraggono gli ammassi di ferro in modo efficiente nel tempo.
+unlock.mapsize.huge,Vinci una partita su una mappa di grandi dimensioni per sbloccarla.
+upgrades.liftcarrykeeper2.desc,L'ascensore ti rende ancora più veloce.
+loadout.mapsize.title,Dimensioni mappa
+loadout.difficulty.hard,Te la sei cercata
+upgrades.rocketlauncherdamage1.title,Missili Migliorati
+versus.corruptionfastmonsters.title,Mostri rapidi
+multiplayer.host.online.desc,Possono partecipare i giocatori provenienti da tutto il mondo.
+upgrades.keeper4speed3.desc,Aumenta enormemente la velocità di movimento.
+network.error.offline,"La connessione alla rete è stata persa. Per piacere, controlla la tua connessione di rete."
+level.tutorial.ninja.carry.desc1_1,Le risorse si raccolgono camminandoci sopra.
+upgrades.resourcepackerconstant.desc,"La ricarica istantanea rende l'uso quasi illimitato, oltre a migliorarne le dimensioni e la scalabilità del bundle."
+loadout.versusmod.versusmodifiersecondweapon.desc,Ogni squadra con più di un guardiano inizia con l'arma della seconda stazione già sbloccata.
+assignment.logistics.desc,La gilda ha trovato abbondante acqua su questo pianeta e ti richiede di gestire la logistica.
+properties.shockwave.damage,Danno {}
+pause.gamepadcontrols.back,Indietro

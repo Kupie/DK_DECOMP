@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://b4nolshrh7vah"]
+
+[ext_resource type="Texture2D" uid="uid://n1a1t6jw1pvg" path="res://content/keeper/keeper3/chain.png" id="1"]
+
+[node name="Chain" type="Sprite2D" groups=["unstyled"]]
+use_parent_material = true
+scale = Vector2(0.333, 0.333)
+texture = ExtResource("1")

@@ -1,0 +1,52 @@
+[gd_scene load_steps=9 format=3 uid="uid://bshpnrnvktmnk"]
+
+[ext_resource type="Script" path="res://content/keeper/keeper3/ShurikenSprite.gd" id="1"]
+[ext_resource type="Shader" path="res://content/effects/particles/styled_particle_frames_material.gdshader" id="2"]
+[ext_resource type="Texture2D" uid="uid://dreuxf6weexkj" path="res://systems/style/palettes/palette_6_1.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://xrcp35mg23i8" path="res://content/keeper/keeper3/shuriken_spark.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://cknxmneyyurww" path="res://content/keeper/keeper3/shuriken.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://brgo77by7c1s" path="res://content/keeper/keeper3/shuriken_blink.png" id="6"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_pnvhc"]
+shader = ExtResource("2")
+shader_parameter/particles_anim_h_frames = 6
+shader_parameter/particles_anim_v_frames = 1
+shader_parameter/particles_anim_loop = false
+shader_parameter/palette = ExtResource("3")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_8ifdb"]
+particle_flag_align_y = true
+emission_shape = 1
+emission_sphere_radius = 1.0
+spread = 180.0
+flatness = 0.9
+initial_velocity_min = 50.0
+initial_velocity_max = 80.0
+angular_velocity_min = -1.60933e-05
+angular_velocity_max = -1.60933e-05
+gravity = Vector3(0, 90, 0)
+damping_min = 70.0
+damping_max = 70.0
+anim_speed_min = 1.0
+anim_speed_max = 1.0
+
+[node name="Shuriken" type="Node2D" groups=["customStyle"]]
+z_index = 10
+script = ExtResource("1")
+
+[node name="Sparks" type="GPUParticles2D" parent="." groups=["styleShaderCallback", "styled"]]
+editor_description = "fine_tuned"
+material = SubResource("ShaderMaterial_pnvhc")
+emitting = false
+amount = 40
+process_material = SubResource("ParticleProcessMaterial_8ifdb")
+texture = ExtResource("4")
+lifetime = 0.2
+fixed_fps = 60
+
+[node name="Shuriken" type="Sprite2D" parent="."]
+texture = ExtResource("5")
+
+[node name="Blink" type="Sprite2D" parent="."]
+visible = false
+texture = ExtResource("6")

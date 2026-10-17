@@ -1,0 +1,105 @@
+[gd_scene format=3 uid="uid://ci7disnu7h8rl"]
+
+[node name="PetPositions" type="Node2D"]
+
+[node name="Position1_1" type="Marker2D" parent="."]
+position = Vector2(-30, 8)
+
+[node name="Position1_2" type="Marker2D" parent="."]
+position = Vector2(-8, -3)
+
+[node name="Position1_3" type="Marker2D" parent="."]
+position = Vector2(28, 6)
+
+[node name="Position1_4" type="Marker2D" parent="."]
+position = Vector2(24, 0)
+
+[node name="position2_1" type="Marker2D" parent="."]
+position = Vector2(0, -2)
+
+[node name="position2_2" type="Marker2D" parent="."]
+position = Vector2(1, -25)
+
+[node name="position2_3" type="Marker2D" parent="."]
+position = Vector2(15, -26)
+
+[node name="position2_4" type="Marker2D" parent="."]
+position = Vector2(48, -21)
+
+[node name="position3_1" type="Marker2D" parent="."]
+position = Vector2(-12, -3)
+
+[node name="position3_2" type="Marker2D" parent="."]
+position = Vector2(26, 2)
+
+[node name="position3_3" type="Marker2D" parent="."]
+position = Vector2(-30, 8)
+
+[node name="position3_4" type="Marker2D" parent="."]
+position = Vector2(20, -3)
+
+[node name="position4_1" type="Marker2D" parent="."]
+position = Vector2(-30, 8)
+
+[node name="position4_3" type="Marker2D" parent="."]
+position = Vector2(54, 5)
+
+[node name="position4_4" type="Marker2D" parent="."]
+position = Vector2(29, 1)
+
+[node name="position5_1" type="Marker2D" parent="."]
+position = Vector2(1, -25)
+
+[node name="position5_2" type="Marker2D" parent="."]
+position = Vector2(15, -26)
+
+[node name="position5_3_right" type="Marker2D" parent="."]
+position = Vector2(47, -21)
+
+[node name="position5_4_right" type="Marker2D" parent="."]
+position = Vector2(37, -17)
+
+[node name="position6_1" type="Marker2D" parent="."]
+position = Vector2(1, -25)
+
+[node name="position6_2" type="Marker2D" parent="."]
+position = Vector2(15, -26)
+
+[node name="position6_3_right" type="Marker2D" parent="."]
+position = Vector2(37, -17)
+
+[node name="position6_4" type="Marker2D" parent="."]
+position = Vector2(51, -21)
+
+[node name="position7_1" type="Marker2D" parent="."]
+position = Vector2(51, -21)
+
+[node name="position7_2" type="Marker2D" parent="."]
+position = Vector2(-28, 8)
+
+[node name="position7_3" type="Marker2D" parent="."]
+position = Vector2(-1, -2)
+
+[node name="position7_4" type="Marker2D" parent="."]
+position = Vector2(32, 7)
+
+[node name="position8_1" type="Marker2D" parent="."]
+position = Vector2(-26, 7)
+
+[node name="position8_2" type="Marker2D" parent="."]
+position = Vector2(30, 7)
+
+[node name="position9_1_right" type="Marker2D" parent="."]
+position = Vector2(-11, -2)
+
+[node name="position9_2" type="Marker2D" parent="."]
+position = Vector2(53, -21)
+
+[node name="position9_3" type="Marker2D" parent="."]
+position = Vector2(31, 9)
+
+[node name="position10_1_right" type="Marker2D" parent="."]
+position = Vector2(-11, -2)
+
+[node name="position10_2" type="Marker2D" parent="."]
+position = Vector2(28, 4)

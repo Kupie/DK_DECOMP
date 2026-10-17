@@ -1,0 +1,107 @@
+[gd_scene load_steps=10 format=3 uid="uid://dg1ml5erur2c7"]
+
+[ext_resource type="Script" path="res://content/gadgets/autocannon/AutoCannon.gd" id="1"]
+[ext_resource type="SpriteFrames" uid="uid://dylpwbclaadq0" path="res://content/gadgets/autocannon/AutoCannon_spriteframes.tres" id="2"]
+[ext_resource type="SpriteFrames" uid="uid://cmv0tuag33tl0" path="res://content/gadgets/autocannon/AutoCannon_MuzzleFlash_spriteframes.tres" id="3"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="4"]
+[ext_resource type="AudioStream" uid="uid://drdyxtoc2xmy3" path="res://content/sounds/Locations/Autocannon/autocannon fire.wav" id="5"]
+[ext_resource type="AudioStream" uid="uid://pwx8dkv8qxg8" path="res://content/sounds/Weapons/Laser/Dig_Density_05.wav" id="6"]
+[ext_resource type="AudioStream" uid="uid://ueqcwgfxn6ap" path="res://content/sounds/dome1/Terminal01_BattleButton.wav" id="7"]
+[ext_resource type="AudioStream" uid="uid://ddbkcbaa451i5" path="res://content/sounds/Locations/Stunlaser/Activate.wav" id="8"]
+[ext_resource type="Script" path="res://content/gadgets/GadgetSynchronizer.gd" id="9"]
+
+[node name="AutoCannon" type="Node2D" node_paths=PackedStringArray("synchronizer") groups=["lostL", "saveable", "secondary-weapon"]]
+script = ExtResource("1")
+synchronizer = NodePath("GadgetSynchronizer")
+
+[node name="Sprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+position = Vector2(0, -3)
+sprite_frames = ExtResource("2")
+animation = &"asleep_0"
+
+[node name="MuzzleFlash" type="AnimatedSprite2D" parent="."]
+modulate = Color(1, 1, 1, 0.705882)
+position = Vector2(0, -17)
+sprite_frames = ExtResource("3")
+animation = &"invisible"
+
+[node name="RayCast2D" type="RayCast2D" parent="."]
+position = Vector2(0, 13)
+target_position = Vector2(0, -600)
+collision_mask = 128
+collide_with_areas = true
+collide_with_bodies = false
+
+[node name="Marker2D" type="Marker2D" parent="."]
+position = Vector2(0, 13)
+
+[node name="ProjectilePosition" type="Marker2D" parent="."]
+position = Vector2(0, -6)
+
+[node name="MoveSound" parent="." instance=ExtResource("4")]
+bus = &"World"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 200.0
+
+[node name="FireSound" parent="." instance=ExtResource("4")]
+stream = ExtResource("5")
+volume_db = -5.0
+pitch_scale = 0.84
+bus = &"World"
+
+[node name="FireSound3" parent="FireSound" instance=ExtResource("4")]
+volume_db = -1.748
+pitch_scale = 1.79
+bus = &"World"
+randomVolume = 2.0
+randomPitch = 0.2
+streams = [ExtResource("6")]
+
+[node name="FastFireSound" parent="." instance=ExtResource("4")]
+stream = ExtResource("5")
+volume_db = -5.0
+pitch_scale = 0.99
+bus = &"World"
+
+[node name="FireSound3" parent="FastFireSound" instance=ExtResource("4")]
+volume_db = -1.748
+pitch_scale = 1.92
+bus = &"World"
+randomVolume = 2.0
+randomPitch = 0.2
+streams = [ExtResource("6")]
+
+[node name="HeavyFireSound" parent="." instance=ExtResource("4")]
+stream = ExtResource("5")
+volume_db = -0.63
+pitch_scale = 0.69
+bus = &"World"
+
+[node name="FireSound3" parent="HeavyFireSound" instance=ExtResource("4")]
+stream = ExtResource("6")
+volume_db = -1.748
+pitch_scale = 0.8
+bus = &"World"
+randomVolume = 2.0
+randomPitch = 0.2
+
+[node name="ActivateSound" parent="." instance=ExtResource("4")]
+volume_db = -2.185
+pitch_scale = 1.47
+bus = &"World"
+streams = [ExtResource("7")]
+
+[node name="StopSound" parent="." instance=ExtResource("4")]
+volume_db = -2.185
+pitch_scale = 1.35
+bus = &"World"
+streams = [ExtResource("8")]
+
+[node name="GadgetSynchronizer" type="Node" parent="."]
+script = ExtResource("9")
+target_connection_states = [6]
+
+[connection signal="animation_finished" from="Sprite2D" to="." method="_on_Sprite_animation_finished"]
+[connection signal="animation_looped" from="Sprite2D" to="." method="_on_sprite_2d_animation_looped"]

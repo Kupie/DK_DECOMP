@@ -1,0 +1,1090 @@
+[gd_scene load_steps=7 format=3 uid="uid://ccclgrg5js8eo"]
+
+[ext_resource type="Script" path="res://tool/MapGeneration/MapArchetypeBuilder.gd" id="1"]
+[ext_resource type="Script" path="res://content/shared/EmptyCamera2D.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://c4johtvskapso" path="res://content/map/MapData.tscn" id="3"]
+[ext_resource type="FontVariation" uid="uid://c5l04pe7y0aer" path="res://gui/fonts/FontLarge.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="5"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_mwv2h"]
+
+[node name="MapArchetypeBuilder" type="Node2D"]
+script = ExtResource("1")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(182, 595)
+zoom = Vector2(0.5, 0.5)
+script = ExtResource("2")
+
+[node name="Generators" type="Node2D" parent="."]
+
+[node name="TileData" parent="." instance=ExtResource("3")]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Controls" type="MarginContainer" parent="CanvasLayer"]
+custom_minimum_size = Vector2(490, 0)
+anchors_preset = 9
+anchor_bottom = 1.0
+offset_right = 478.0
+grow_vertical = 2
+
+[node name="PanelContainer" type="PanelContainer" parent="CanvasLayer/Controls"]
+layout_mode = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CanvasLayer/Controls/PanelContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+follow_focus = true
+horizontal_scroll_mode = 0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "close with F1"
+horizontal_alignment = 1
+
+[node name="HBoxContainer4" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="RunGenerationButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer4"]
+custom_minimum_size = Vector2(470, 0)
+layout_mode = 2
+focus_mode = 0
+text = "Run Generation (F2)"
+
+[node name="HBoxContainer5" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="CheckBoxDoubleMaps" type="CheckBox" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer5"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+text = "double maps"
+
+[node name="CheckBoxMirrorMaps" type="CheckBox" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer5"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+text = "mirror maps"
+
+[node name="RunGenerationSingle" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer5"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Single (F3)"
+
+[node name="SaveMapData" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+text = "Save Map Data"
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="SaveButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+text = "Save Archetype"
+
+[node name="LoadButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+focus_mode = 0
+text = "Load Archetype"
+
+[node name="CurrentArchetypeLabel" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+horizontal_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "Maps"
+
+[node name="MapCountSlider" type="HSlider" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+min_value = 1.0
+max_value = 40.0
+value = 9.0
+scrollable = false
+
+[node name="MapCountLabel" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 8
+mouse_filter = 0
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="BiomesButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_pressed = true
+text = "biomes"
+
+[node name="HardnessButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_pressed = true
+text = "hardness"
+
+[node name="ResourcesButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_pressed = true
+text = "resources"
+
+[node name="ClearRunsButton" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3"]
+layout_mode = 2
+size_flags_horizontal = 3
+toggle_mode = true
+button_group = SubResource("ButtonGroup_mwv2h")
+text = "clear runs"
+
+[node name="FixedSeed" type="CheckButton" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Fixed Seed"
+
+[node name="Size" type="VBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="HSeparator" type="HSeparator" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "Size"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="HBoxContainer2" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size"]
+layout_mode = 2
+columns = 3
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+layout_mode = 2
+text = "Depth"
+
+[node name="DepthSlider" type="HSlider" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+min_value = 10.0
+max_value = 200.0
+step = 5.0
+value = 40.0
+scrollable = false
+
+[node name="DepthLabel" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 8
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+layout_mode = 2
+text = "Width"
+
+[node name="WidthSlider" type="HSlider" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+min_value = 10.0
+max_value = 200.0
+step = 5.0
+value = 40.0
+scrollable = false
+
+[node name="WidthLabel" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 8
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+layout_mode = 2
+text = "Tiles"
+
+[node name="TileCount" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2"]
+layout_mode = 2
+text = "0"
+
+[node name="HSeparator3" type="HSeparator" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "Viability"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="ViabilityButton" type="CheckBox" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label4"]
+layout_mode = 0
+offset_left = 50.0
+offset_top = -12.0
+offset_right = 110.0
+offset_bottom = 45.0
+focus_mode = 0
+
+[node name="Viability" type="VBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="HBoxContainer5" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+layout_mode = 2
+theme_override_constants/h_separation = 4
+theme_override_constants/v_separation = 4
+columns = 4
+
+[node name="Control3" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+text = "base"
+horizontal_alignment = 1
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+text = "delta"
+horizontal_alignment = 1
+
+[node name="Label6" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+text = "exp"
+horizontal_alignment = 1
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+text = "Base"
+
+[node name="ViabilityBase" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "100"
+virtual_keyboard_enabled = false
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+text = "Large Noise"
+
+[node name="FieldViabilityLargeBase" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "90"
+virtual_keyboard_enabled = false
+
+[node name="FieldViabilityLargeDelta" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "30"
+virtual_keyboard_enabled = false
+
+[node name="FieldViabilityLargeExponent" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "1.5"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Label7" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+text = "Path"
+
+[node name="LargeNoiseName" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Large Noise"
+
+[node name="Control4" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+
+[node name="SetLargeNoise" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+text = "Change"
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+text = "Small Noise"
+
+[node name="FieldViabilitySmallBase" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "30"
+virtual_keyboard_enabled = false
+
+[node name="FieldViabilitySmallDelta" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "20"
+virtual_keyboard_enabled = false
+
+[node name="FieldViabilitySmallExponent" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "1.5"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Label8" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+text = "Path"
+
+[node name="SmallNoiseName" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Small Noise"
+
+[node name="Control6" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+
+[node name="SetSmallNoise" type="Button" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5"]
+layout_mode = 2
+text = "Change"
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+custom_minimum_size = Vector2(0, 12)
+layout_mode = 2
+
+[node name="GridContainer" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+layout_mode = 2
+theme_override_constants/h_separation = 4
+theme_override_constants/v_separation = 4
+columns = 4
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+layout_mode = 2
+text = "start"
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+layout_mode = 2
+text = "factor"
+horizontal_alignment = 1
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+layout_mode = 2
+text = "exp"
+horizontal_alignment = 1
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+custom_minimum_size = Vector2(130, 0)
+layout_mode = 2
+text = "Stop Depth"
+
+[node name="FieldStopDepthStart" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0.5"
+virtual_keyboard_enabled = false
+
+[node name="FieldStopDepthFactor" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "10"
+virtual_keyboard_enabled = false
+
+[node name="FieldStopDepthExponent" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "2"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+custom_minimum_size = Vector2(130, 0)
+layout_mode = 2
+text = "Stop Width"
+
+[node name="FieldStopWidthStart" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0.5"
+virtual_keyboard_enabled = false
+
+[node name="FieldStopWidthFactor" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "10"
+virtual_keyboard_enabled = false
+
+[node name="FieldStopWidthExponent" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "2"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+custom_minimum_size = Vector2(0, 12)
+layout_mode = 2
+
+[node name="GridContainer2" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+layout_mode = 2
+theme_override_constants/h_separation = 4
+theme_override_constants/v_separation = 4
+columns = 4
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+layout_mode = 2
+text = "until"
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+layout_mode = 2
+text = "exp y"
+horizontal_alignment = 1
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+layout_mode = 2
+text = "exp x"
+horizontal_alignment = 1
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+custom_minimum_size = Vector2(130, 0)
+layout_mode = 2
+text = "Tight Entry"
+
+[node name="FieldTightEntryUntil" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0.6"
+virtual_keyboard_enabled = false
+
+[node name="FieldTightEntryExpY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "3"
+virtual_keyboard_enabled = false
+
+[node name="FieldTightEntryExpX" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "2"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Control5" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+custom_minimum_size = Vector2(0, 12)
+layout_mode = 2
+
+[node name="GridContainer4" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+layout_mode = 2
+theme_override_constants/h_separation = 4
+theme_override_constants/v_separation = 4
+columns = 5
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+layout_mode = 2
+text = "offset"
+horizontal_alignment = 1
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+layout_mode = 2
+text = "scale"
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+layout_mode = 2
+text = "min"
+horizontal_alignment = 1
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+layout_mode = 2
+text = "max"
+horizontal_alignment = 1
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+custom_minimum_size = Vector2(130, 0)
+layout_mode = 2
+text = "Hardness"
+
+[node name="FieldHardnessOffset" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0.0"
+virtual_keyboard_enabled = false
+
+[node name="FieldHardnessScale" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "5"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="FieldHardnessMin" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0"
+virtual_keyboard_enabled = false
+
+[node name="FieldHardnessMax" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer4"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "5"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Control4" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+custom_minimum_size = Vector2(0, 12)
+layout_mode = 2
+
+[node name="GridContainer3" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+layout_mode = 2
+theme_override_constants/h_separation = 4
+theme_override_constants/v_separation = 4
+columns = 4
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+layout_mode = 2
+text = "strength"
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+layout_mode = 2
+text = "falloff y"
+horizontal_alignment = 1
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+layout_mode = 2
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+layout_mode = 2
+text = "Keep Core"
+
+[node name="FieldKeepCoreStrength" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0.6"
+virtual_keyboard_enabled = false
+
+[node name="FieldKeepCoreFalloffY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/GridContainer3"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "3"
+virtual_keyboard_enabled = false
+
+[node name="Control3" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+custom_minimum_size = Vector2(0, 12)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer"]
+custom_minimum_size = Vector2(125, 0)
+layout_mode = 2
+text = "Thin Top"
+
+[node name="FieldThinTop" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer"]
+layout_mode = 2
+text = "32"
+
+[node name="HSeparator2" type="HSeparator" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "Biome"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="BiomeButton" type="CheckBox" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label3"]
+layout_mode = 0
+offset_left = 50.0
+offset_top = -13.0
+offset_right = 110.0
+offset_bottom = 44.0
+focus_mode = 0
+
+[node name="Biome" type="VBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome"]
+layout_mode = 2
+
+[node name="HBoxContainer5" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome"]
+layout_mode = 2
+theme_override_constants/h_separation = 4
+theme_override_constants/v_separation = 4
+columns = 4
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+layout_mode = 2
+text = "First Biome Size"
+
+[node name="FirstBiomeSize" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "300"
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+layout_mode = 2
+text = "Biome Max Size"
+
+[node name="BiomeMaxSize" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "300"
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+layout_mode = 2
+text = "Size Multiplier"
+
+[node name="BiomeSizeMultiplier" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "1"
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+layout_mode = 2
+text = "Size Addition"
+
+[node name="BiomeSizeAddition" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "100"
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+layout_mode = 2
+text = "Cleanup Passes"
+
+[node name="BiomeCleanupPasses" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Biome/HBoxContainer5"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "1"
+
+[node name="HSeparator" type="HSeparator" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 8
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "Resources"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="ResourcesButton" type="CheckBox" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label2"]
+layout_mode = 0
+offset_left = 50.0
+offset_top = -10.0
+offset_right = 110.0
+offset_bottom = 47.0
+focus_mode = 0
+button_pressed = true
+
+[node name="Resources" type="VBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="GenerateResourcesCheckBox" type="CheckBox" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources"]
+layout_mode = 2
+text = " generate resources"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources"]
+layout_mode = 2
+
+[node name="HBoxContainer5" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources"]
+layout_mode = 2
+theme_override_constants/h_separation = 4
+theme_override_constants/v_separation = 4
+columns = 3
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "rate"
+horizontal_alignment = 1
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "removal"
+horizontal_alignment = 1
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "Iron"
+
+[node name="IronRate" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "10"
+
+[node name="IronRemoval" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "0.2"
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "Water"
+
+[node name="WaterRate" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "8"
+
+[node name="WaterRemoval" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "0.2"
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "Cobalt"
+
+[node name="CobaltRate" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "8"
+
+[node name="CobaltRemoval" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/HBoxContainer5"]
+layout_mode = 2
+text = "0.2"
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources"]
+custom_minimum_size = Vector2(0, 12)
+layout_mode = 2
+
+[node name="GridContainer2" type="GridContainer" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources"]
+layout_mode = 2
+theme_override_constants/h_separation = 4
+theme_override_constants/v_separation = 4
+columns = 4
+
+[node name="Control" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "base"
+horizontal_alignment = 1
+
+[node name="Label3" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "per y"
+horizontal_alignment = 1
+
+[node name="Label4" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "randomness"
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "Iron Cluster"
+horizontal_alignment = 1
+
+[node name="FieldIronClusterSizeBase" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "1.5"
+virtual_keyboard_enabled = false
+
+[node name="FieldIronClusterSizePerY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0.2"
+virtual_keyboard_enabled = false
+
+[node name="FieldIronClusterSizeRandomness" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0.02"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Label20" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "Holes/Biome"
+
+[node name="FieldHolesPerBiome" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "3"
+virtual_keyboard_enabled = false
+
+[node name="Control5" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+
+[node name="FieldHolesPerBiomeRandomness" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "5.0"
+virtual_keyboard_enabled = false
+
+[node name="Label15" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "Hole Size"
+horizontal_alignment = 1
+
+[node name="FieldHoleSizeBase" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "4"
+virtual_keyboard_enabled = false
+
+[node name="FieldHoleSizePerY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0.4"
+virtual_keyboard_enabled = false
+
+[node name="FieldHoleSizeRandom" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "0.5"
+virtual_keyboard_enabled = false
+
+[node name="Control2" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+
+[node name="Label6" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "amount"
+horizontal_alignment = 1
+
+[node name="Label7" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "start y"
+horizontal_alignment = 1
+
+[node name="Label8" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "step y"
+horizontal_alignment = 1
+
+[node name="Label5" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "Gadgets"
+
+[node name="FieldGadgetAmount" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "3"
+virtual_keyboard_enabled = false
+
+[node name="FieldGadgetStartY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "15"
+virtual_keyboard_enabled = false
+
+[node name="FieldGadgetStepY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "17"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Label14" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "Powercores"
+
+[node name="FieldPowercoreAmount" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "1"
+virtual_keyboard_enabled = false
+
+[node name="FieldPowercoreStartY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "15"
+virtual_keyboard_enabled = false
+
+[node name="FieldPowercoreStepY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "17"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="Label9" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "Relics"
+
+[node name="FieldRelicAmount" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "1"
+
+[node name="FieldRelicStartY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "15"
+virtual_keyboard_enabled = false
+
+[node name="FieldRelicStepY" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "1"
+
+[node name="Control4" type="Control" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+
+[node name="Label10" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "amount"
+horizontal_alignment = 1
+
+[node name="Label11" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "min d"
+horizontal_alignment = 1
+
+[node name="Label12" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "max d"
+horizontal_alignment = 1
+
+[node name="Label13" type="Label" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+text = "Relic Switch"
+
+[node name="FieldRelicSwitchAmount" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "2"
+virtual_keyboard_enabled = false
+
+[node name="FieldRelicSwitchMinD" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "10"
+virtual_keyboard_enabled = false
+
+[node name="FieldRelicSwitchMaxD" type="LineEdit" parent="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Resources/GridContainer2"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "20"
+context_menu_enabled = false
+virtual_keyboard_enabled = false
+
+[node name="SelectArchetypePopup" type="PanelContainer" parent="CanvasLayer"]
+visible = false
+offset_left = 554.0
+offset_top = 141.0
+offset_right = 992.0
+offset_bottom = 234.0
+
+[node name="MarginContainer" type="MarginContainer" parent="CanvasLayer/SelectArchetypePopup"]
+layout_mode = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CanvasLayer/SelectArchetypePopup/MarginContainer"]
+custom_minimum_size = Vector2(0, 800)
+layout_mode = 2
+
+[node name="ArchetypeList" type="VBoxContainer" parent="CanvasLayer/SelectArchetypePopup/MarginContainer/ScrollContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CanvasLayer/SelectArchetypePopup/MarginContainer/ScrollContainer/ArchetypeList"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "Load Archetype!"
+label_settings = ExtResource("5")
+
+[node name="Control" type="Control" parent="CanvasLayer/SelectArchetypePopup"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="CloseArchetypeButton" type="Button" parent="CanvasLayer/SelectArchetypePopup/Control"]
+layout_mode = 0
+offset_left = 363.0
+offset_top = 6.0
+offset_right = 411.0
+offset_bottom = 63.0
+text = "X"
+
+[node name="SaveArchetypePopup" type="PanelContainer" parent="CanvasLayer"]
+offset_left = 554.0
+offset_top = 141.0
+offset_right = 992.0
+offset_bottom = 234.0
+
+[node name="MarginContainer" type="MarginContainer" parent="CanvasLayer/SaveArchetypePopup"]
+layout_mode = 2
+
+[node name="ScrollContainer" type="ScrollContainer" parent="CanvasLayer/SaveArchetypePopup/MarginContainer"]
+custom_minimum_size = Vector2(0, 800)
+layout_mode = 2
+
+[node name="SaveArchetypeList" type="VBoxContainer" parent="CanvasLayer/SaveArchetypePopup/MarginContainer/ScrollContainer"]
+layout_mode = 2
+
+[node name="Label" type="Label" parent="CanvasLayer/SaveArchetypePopup/MarginContainer/ScrollContainer/SaveArchetypeList"]
+texture_filter = 4
+layout_mode = 2
+theme_override_fonts/font = ExtResource("4")
+text = "Save Archetype!"
+label_settings = ExtResource("5")
+
+[node name="Control" type="Control" parent="CanvasLayer/SaveArchetypePopup"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="CloseSaveArchetypeButton" type="Button" parent="CanvasLayer/SaveArchetypePopup/Control"]
+layout_mode = 0
+offset_left = 363.0
+offset_top = 6.0
+offset_right = 411.0
+offset_bottom = 63.0
+text = "X"
+
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer4/RunGenerationButton" to="." method="_on_RunGenerationButton_pressed"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer5/RunGenerationSingle" to="." method="_on_RunGenerationSingle_pressed"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/SaveMapData" to="." method="_on_save_map_data_pressed"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer2/SaveButton" to="." method="_on_SaveButton_pressed"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer2/LoadButton" to="." method="_on_LoadButton_pressed"]
+[connection signal="value_changed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer/MapCountSlider" to="." method="_on_MapCountSlider_value_changed"]
+[connection signal="toggled" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3/BiomesButton" to="." method="_on_biomes_button_toggled"]
+[connection signal="toggled" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3/HardnessButton" to="." method="_on_hardness_button_toggled"]
+[connection signal="toggled" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3/ResourcesButton" to="." method="_on_resources_button_toggled"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/HBoxContainer3/ClearRunsButton" to="." method="_on_ClearRunsButton_pressed"]
+[connection signal="value_changed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2/DepthSlider" to="." method="_on_DepthSlider_value_changed"]
+[connection signal="value_changed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Size/HBoxContainer2/WidthSlider" to="." method="_on_WidthSlider_value_changed"]
+[connection signal="toggled" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label4/ViabilityButton" to="." method="_on_ViabilityButton_toggled"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5/SetLargeNoise" to="." method="_on_set_large_noise_pressed"]
+[connection signal="pressed" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Viability/HBoxContainer5/SetSmallNoise" to="." method="_on_set_small_noise_pressed"]
+[connection signal="toggled" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label3/BiomeButton" to="." method="_on_biome_button_toggled"]
+[connection signal="toggled" from="CanvasLayer/Controls/PanelContainer/ScrollContainer/VBoxContainer/Label2/ResourcesButton" to="." method="_on_resourcecontainer_button_toggled"]
+[connection signal="pressed" from="CanvasLayer/SelectArchetypePopup/Control/CloseArchetypeButton" to="." method="_on_CloseArchetypeButton_pressed"]
+[connection signal="pressed" from="CanvasLayer/SaveArchetypePopup/Control/CloseSaveArchetypeButton" to="." method="_on_CloseSaveArchetypeButton_pressed"]

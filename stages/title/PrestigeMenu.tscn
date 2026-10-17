@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=3 uid="uid://cfjjrok18ysnc"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://stages/title/PrestigeMenu.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://bgs3ojjs0dnsy" path="res://content/gamemode/prestige/leaderboard/PrestigeLeaderboard.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="4"]
+
+[node name="PrestigeMenu" type="MarginContainer"]
+layout_direction = 2
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = -1275.0
+offset_bottom = 931.0
+grow_horizontal = 0
+grow_vertical = 2
+size_flags_vertical = 4
+theme = ExtResource("1")
+theme_override_constants/margin_left = 8
+theme_override_constants/margin_top = 8
+theme_override_constants/margin_right = 8
+theme_override_constants/margin_bottom = 8
+script = ExtResource("2")
+
+[node name="PrestigeLeaderboard" parent="." instance=ExtResource("3")]
+layout_mode = 2
+
+[node name="Tween" parent="." instance=ExtResource("4")]
+
+[connection signal="leaderboard_download_finished" from="PrestigeLeaderboard" to="." method="_on_PrestigeLeaderboard_leaderboard_download_finished"]

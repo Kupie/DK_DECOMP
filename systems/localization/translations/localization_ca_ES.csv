@@ -1,0 +1,2206 @@
+﻿key,ca_ES
+upgrades.teslapersistance1.title,Orbes persistents 1
+upgrades.keeper4ramping1.title,Inèrcia
+upgrades.stationextensionupgrades.desc,Compra millores remotament des de dins l'estació mòbil.
+upgrades.sword.title,Espasa
+upgrades.autocannonimproved.desc,Millora tots els aspectes del canó.
+upgrades.laserstrength1.title,Potència 1
+properties.monstermodifiers.timebetweenwavesmodifier,Durada del Cicle {.percent}
+level.gameover.unlock.modifiers,Nou modificador de la partida desbloquejat!
+keybindings.reset.explanation.ps5,"La teva configuració dels botons ha sigut reiniciada arran d'una actualització recent, la qual ha implicat canvis importants a l'esquema de controls. Perdoneu les molèsties!"
+reward.rewardrerolloffers2.desc,"Gasta aigua per tornar a escollir entre les opcions d'un accessori o un suplement nous, de forma repetida."
+upgrades.proberecharge.desc,La sonda lentament es recarregarà per si sola.
+versus.corruptionmonsterdamage.title,Monstres letals
+loadout.start.area.press,Prem|per començar una partida!
+upgrades.shieldbattleblastdamage.title,Explosió Mortal
+properties.monstermodifiers.move_speed,Velocitat dels monstres {.percent}
+upgrades.mushroomfarmspeed1.title,Velocitat Boletal 1
+upgrades.chainsawdamage1.title,Mida de la serra 1
+properties.orchard.battlerootexplosion,Dany d'Explosió {}
+level.tutorial.assessor.bundleguide.desc2,Prem | sense pitjar cap direcció per col·locar un paquet estacionari.
+upgrades.swordtargetlock.desc,"En activar-se, l'espasa es dirigeix automàticament cap al primer monstre que fixi com a objectiu."
+reward.rewardautomatedweapons.desc,Automatitza les armes secundàries.
+options.input.gamepad,Comandament
+playerlist.profile,Veu el perfil
+upgrades.stunlaserstun1.title,Força de l'Atordiment 1
+properties.condenser.overchargedelay,Retard en la Producció (cicles) {}
+exhibition.level.description,Tornant al menú principal en ...
+keybindings.reset.explanation.switch,"La teva configuració dels botons ha sigut reiniciada arran d'una actualització recent, la qual ha implicat canvis importants a l'esquema de controls. Perdoneu les molèsties!"
+upgrades.shockwave.title,Martell d'ona de xoc
+properties.keeper3.shurikencooldown,Temps d'espera del Shuriken {}s
+title.navbar.leaderboard,Prestigi
+modding.prestigewhitelist,"Si tens un modificador que hauria de ser inclòs a la llista blanca del mode prestigi, informa'ns a través de Discord i ho comprovarem. Afegirem a la llista els modificadors que no alterin l'equilibri, sinó que millorin l'accessibilitat o siguin purament estètics."
+upgrades.extractordoublebuild.desc,Millora la producció de cucs.
+upgrades.chainsawdamage3.title,Mida de la serra 3
+modding.modio.error,Error de mod.io
+loadout.versusmod.versusmodifiermirroredmap.desc,"Els mapes sota les cúpules són idèntics, còpies simètriques els uns dels altres."
+actionhint.blast,Explosió
+multiplayer.host.crossplay,Habilita el joc entre plataformes
+properties.converter.ironpercobalt,{} de Ferro per Cobalt
+upgrades.shieldovercharge.desc,Utilitza aigua per sobrecarregar manualment el teu escut aconseguint que absorbeixi més dany a la següent onada.
+properties.droneyard.overchargebattledronestrength,Enforteix els Drons de combat {.percent}
+options.game.showkeeperaimindicator,Mostra el punt de mira del Guardià
+upgrades.autocannonautonomy.title,Autonomia
+properties.keeper4.holesquadduration,Durada de l'escamot de mineria: {}s
+options.keybindings.rebinding.capture,Registra
+options.game.screenshake.shakeintensity,Intensitat de la Sacsejada
+upgrades.keeper2pinballspherelifetime.desc,Augmenta el temps de vol de les esferes.
+upgrades.swordreflection2.title,Reflexió 2
+upgrades.lift.title,Ascensor
+assignment.circumstance,Condicions
+options.input,Entrada
+properties.keeper2.spheresplit,Divideix les Esferes Entrants
+properties.tesla.damage,Dany del tret {}
+options.game.events.allowtelemetry,Habilita el mode multijugador
+properties.keeper1.maxspeed,Màx. Velocitat {}
+level.tutorial.tesla.panel3content1,La cúpula tesla és versàtil. Necessites combinar totes les seves habilitats per tenir èxit.
+level.tutorial.sworddome.reflecting.desc,Utilitza la coberta protectora de l'espasa per aturar projectils o fins i tot fer-los rebotar.
+options.game.bundlesnapping,Ajusta la direcció dels paquets a les direccions cardinals
+upgrades.spiresustain.title,Foc Sostingut
+reward.rewardpermanentinventory.title,Inventari permanent
+properties.furnace.ironduration,Temps de la crema del Ferro (cicles) {}
+level.gameover.assignment.badges.more,Completa aquest encàrrec en mode desafiant per aconseguir una altra insígnia.
+upgrades.droneyardovercharge2.title,Sobrecàrrega millorada
+multiplayer.error.joincodefailed,No s'ha trobat cap sala amb el codi d'unió especificat.
+properties.laser.movespeedwhilefiring,Velocitat mentre Dispares {.percent}
+upgrades.keeper3shurikencooldown1.title,Shuriken molt ràpid
+upgrades.orchardduration2.desc,Els efectes de la fruita duren encara més.
+options.input.controls,Controls
+upgrades.droneyardovercharge3.desc,Obté encara més drons addicionals en sobrecarregar el Pati de drons.
+upgrades.blastminingimpactdetonation.desc,La càrrega d'explosió s'activa en impactar amb una superfície. L'explosió es produirà en la direcció d'aquest impacte.
+upgrades.drillbotstrength3.title,Força 3
+level.gameover.clientdisconnect,Desconnecta't de l'amfitrió
+upgrades.swordstabexplode.desc,"L'espasa entrega una bomba, que explota amb el primer enemic que l'espasa apunyala."
+properties.keeper4.minpunchdelay,Cop més ràpid {}s
+options.audio.music,Música
+upgrades.keeper3carrylimit3.title,Capacitat de càrrega 3
+upgrades.keeper4swiftpunch.desc,La mineria comença a una velocitat inicial més alta.
+assignment.showdown.desc,Els monstres d'aquest planeta s'estan preparant per a un sol atac massiu.
+properties.suitblaster.chargespeedpercharge,Velocitat de càrrega addicional per càrrega {.percent}
+loadout.versusmod.versusmodifierhardrock,Roca dura
+properties.keeper4.catgoblinminingspeed,Velocitat de mineria dels gatgòblins {.percent}
+keeperdlc.title,Els guardians perduts
+upgrades.drillbotduplicate.title,Germà
+properties.mushroomfarm.drillbuffduration,Potenciació de la Durada d'excavació {}s
+upgrades.droneyardbattlegridlong1.desc,Allibera més drons que romandran voltant més temps.
+level.gameover.prestige.uploading.inprocess,pujant la puntuació ...
+upgrades.furnace.desc,Instal·la un forn amb xemeneia. El seu fum alenteix el proper atac de monstres.
+leaderboard.needsOnlineServices.ps5,Accepta l'EULA a les opcions per veure la classificació.
+options.game.multiplayer,Multijugador
+upgrades.shieldbattledestructionprevention.desc,"Aconsegueix un llarg període d'invulnerabilitat quan la teva cúpula estigui a punt de ser destruïda.
+Després d'això, l'escut no es recarregarà per a la següent batalla. L'última defensa només es pot tornar a activar després de 2 onades completades.
+"
+properties.keeper2.bundlestopcenter,Camp Gravitatori de la Columna Central
+upgrades.chainsawdamage2.title,Mida de la serra 2
+upgrades.keeper2rotationalmining1.title,Mineria per Compressió 1
+upgrades.swordlargeblade1.title,Fulla pesant 1
+assignment.mode.regular,Normal
+level.tutorial.assessor.spheres.desc2,El subministrament d'esferes és limitat i es recarrega automàticament amb el temps.
+level.tutorial.assessor.spheres.desc1,Prem| per disparar una esfera cinètica en la direcció on apuntes.
+upgrades.repellentdelay2.desc,Incrementa encara més l'endarreriment de la propera onada de monstres.
+upgrades.artillerydirecthit1.desc,Millora el teu morter per disparar obusos especialitzats en impactes directes.
+reward.rewardpet12.title,Gos de companyia
+upgrades.keeper2movement4.desc,Mou-te molt més ràpid mentre reculls i transportes recursos.
+properties.sword.stabspeed,Velocitat d'Estocada {.percent} 
+upgrades.artillerysplash3.title,Explosius volàtils 2
+properties.drillbot.amount,{} cops de Perforació
+options.game.autopickupkunaicarrier,Agafa automàticament el transportador de kunai
+upgrades.stunlaserautonomy1.desc,El làser atordidor s'activa fins i tot quan no ets dins l'estació de control.
+properties.shockwave.stunstrength,Força de l'atordiment {}
+loadout.proceed,Procedir
+multiplayer.host.joincodeunavailable,No disponible
+upgrades.shieldbattlelongerafterdepletion.desc,L'explosió durarà més temps si s'activa després que els teus escuts s'hagin exhaurit.
+level.tutorial.assessor.mining.desc,"Per treure una sola roca, segueix empenyent-la."
+upgrades.teleporterteleportresourcesback.desc,"El portal ara teletransporta recursos, però ja no et pot tornar a teletransportar. Encara ho pots fer des de la cúpula al portal."
+keybindings.reset.doreset.ps5,Reinicia l'assignació de botons
+upgrades.jetpackstrength1.title,Força de càrrega 1
+level.tutorial.beastmaster.squad_1,Mantingues premut | a prop d'un forat per cridar un escamot miner.
+loadout.prestige.pro.explanation,"Redueix part de l'aleatorietat i defineix un ordre per als accessoris, suplements i coves."
+level.tutorial.beastmaster.squad_3,Només un escamot pot estar actiu alhora.
+upgrades.swordelectrified.desc,Un corrent elèctric passa per la fulla i danya amb el contacte.
+level.tutorial.beastmaster.squad_2,Excavaran aleatòriament la roca del voltant del forat.
+upgrades.drill1.title,Força del trepant 1
+loadout.start.area.move,Mou a tots els guardians aquí per començar!
+level.station.upgrademenu.close,Tanca
+upgrades.rocketlauncherrestock.title,Reabastir míssils
+upgrades.chainsawdamage1.desc,Augmenta el dany que la Serra circular provoca als monstres.
+level.station.battle.navbar.artilleryshoot,Morter
+upgrades.repellentdelay3.title,Retard 3
+upgrades.suitblasterspeed1.title,Velocitat de la càrrega 1
+level.gameover.stats.additional,Detall d'estadístiques
+options.audio.music.ost.mode.adaptive,Adaptatiu (recomanat)
+upgrades.furnacestrongwaterfiring.title,Combustible d'Aigua millorat
+properties.dome.meleethorndamage,Dany retornat {}
+upgrades.repellentbattlelongerhealthreduction.desc,Intensifica el marciment de tots els monstres visibles.
+level.tutorial.tesla.panel3header,Moltes habilitats
+versus.corruptionstunresistance.desc,Els monstres seran molt més resistents a l'atordiment o alentiment.
+level.tutorial.assessor.spheres,Esferes Cinètiques
+upgrades.chainsawdouble.title,Serra circular doble
+upgrades.keeper4squad1.desc,Invoca un escamot especialitzat de gatgòblins per excavar una roca propera. Tenen talent per excavar recursos.
+versus.message.corruption,L'equip rival acaba d'enviar corrupció de monstres cap a tu.
+options.keybindings.action.keeper.gadget1,Accessori 1
+options.keybindings.action.keeper.gadget2,Accessori 2
+upgrades.shieldbattlereflectspeed.title,Reflexió Accelerada
+properties.monsters.additionalstartweight,Pes d'onada addicional
+level.gameover.stats.damagedealt,Dany provocat
+properties.keeper2.reflectspeed,Acceleració de l'Esfera {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,Durada Addicional de l'Habilitat {}s
+properties.converter.ironcobalttime,Temps de la conversió de Ferro a Cobalt (cicle) {}
+upgrades.droneyardbattlegrid.desc,Desplega una formació de drons de batalla per defensar-te contra els monstres propers.
+upgrades.suitblasterradius1.desc,Augmenta el Radi de l'explosió.
+upgrades.droneyardbattlegridquick1.title,Drons ràpids
+options.input.controls.keybindings.button,Canvia l'assignació de botons
+multiplayer.host.ping,Ping del servidor: %dms
+title.navbar.singleplayer,Un jugador
+options.video.renderhalfres.enable,Renderitza a mitja resolució
+level.gameover.stats.destroyedblocks,Blocs destruïts
+upgrades.converterefficientwaterlong.desc,Torna la conversió d'aigua en un procés llarg i de gran retorn.
+level.gameover.restart,Reinicia partida
+options.video.stretchmode.scaled,Escalat
+level.tutorial.beastmaster.mine.desc1,Empeny sense parar les roques per extreure'n els recursos.
+level.tutorial.beastmaster.mine.desc2,La velocitat d'extracció augmenta amb cada cop.
+upgrades.domesupplementscraprepair2.desc,Restaura la salut estructural de la cúpula que s'hagi perdut reparant amb ferralla.
+upgrades.keeper2bundle3.desc,"Els paquets disparats cap a l'eix central s'aturaran allà, directament sota la cúpula, en comptes de passar de llarg."
+leaderboard.fellowkeepers,Rànquing de Gremis
+upgrades.autocannon.desc,Instal·la un potent canó automàtic a la teva cúpula que causa grans danys als monstres.
+properties.orchard.battlerootcatchduration,Durada de la trampa {}s
+upgrades.laseraimline.desc,Afegeix una mira per a assenyalar cap a on apunta el làser.
+upgrades.teslapersistance2.title,Orbes persistents 2
+upgrades.orchardovercharge2.desc,Augmenta l'impacte de la sobrecàrrega a les habilitats de batalla.
+actionhint.teleport,Teletransporta
+loadout.difficulty.medium.description,Dificultat intencionada del videojoc.
+upgrades.swordlargeblade2.title,Fulla pesant 2
+loadout.prestige.endless,Sense fi
+upgrades.teslanurture.title,Sobrealimenta els orbes elèctrics
+upgrades.shieldbattleelectroblast.desc,Activa una habilitat de combat que crea un efecte de camp mortal al voltant de la teva cúpula per un breu període de temps.
+options.game.blocklist.desc,"Llista dels usuaris que has blocat.
+No podràs jugar en línia amb cap usuari que hagis blocat.
+Si canvies d'opinió sobre algun usuari blocat, el pots desbloquejar aquí sota.
+Pots blocar fins a %s usuaris."
+actionhint.cancel,Cancel·la
+upgrades.shockwavestun2.title,Atordiment d'ona expansiva 2
+upgrades.liftcapacity1.desc,Els orbes poden carregar amb més recursos.
+upgrades.domewavemeter.title,Detector de proximitat d'enemics
+level.gameover.assignment.win.title,TASCA COMPLERTA
+gadget.slot.cellar,Soterrani
+options.game.ropecamerafollow,Força del moviment de la càmera en utilitzar la corda
+upgrades.proberecharge.title,Auto Recàrrega
+level.tutorial.repair.usecobalt,Pots utilitzar el cobalt per reparar la cúpula. És una millora de l'arbre tecnològic de la cúpula.
+level.supplementchoice.title,ESCULL UN SUPLEMENT!
+options.keybindings.action.general.right,Dreta
+gadget.slot.keepersuit,Vestit del Guardià
+assignment.cobaltcontribution.desc,El gremi necessita urgentment cobalt i et demana que n'entreguis una gran quantitat ràpidament.
+upgrades.prestigefinish.desc,Abandona el planeta i torna a casa.
+loadout.mapsize.huge.description,Un mapa enorme per les partides més llargues.
+options.game.events,Esdeveniments
+loadout.versusmod.versusmodifierrichirondeposits.desc,"Els dipòsits de ferro són petits, però molt rics."
+loadout.mode.shortcycles.desc,Tens menys temps entre onades.
+multiplayer.error.lobby.host,Error en crear la sala d'espera.
+level.tutorial.sworddome.reflecting,Reflectir
+level.tutorial.artillery.panel3header,Explosions i impactes directes
+assignment.rareiron.title,Carestia de Ferro
+level.tutorial.assessor.carry.desc1_1,"Un cop bloquejats, et seguiran encara que deixis anar la clau de recol·lecció."
+level.station.battle.navbar.slice,Talla
+upgrades.furnacewaterfiring.title,Combustible d'Aigua
+upgrades.drill.desc,"Una torre d'excavació que s'endinsa fins al fons de la mina, amb un perforador lateral opcional."
+level.gameover.stats.additionalgadget,Accessori Addicional
+level.tutorial.tesla.panel2content1,Mantingues | per carregar un tret.
+level.tutorial.tesla.panel2content2,"Per disparar un tret, deixa'l anar només quan estigui totalment carregat. Deixar-lo anar abans no farà res de res."
+upgrades.teslapersistance1.desc,Els orbes elèctrics són més grossos i es mantenen més temps.
+upgrades.blastminingtriple.desc,Produeix diverses càrregues d'explosió alhora en comptes d'una de sola.
+properties.droneyard.battledronecount,Drons de combat {}
+options.ok,Accepta
+loadout.versusmod.versusmodifiermanycaverns,Mapa cavernós
+upgrades.lasermove1.desc,El làser es mou més ràpidament.
+upgrades.domewavewarner.desc,L'anunciador adaptatiu d'onades indicarà quan és el moment de tornar a la cúpula perquè una onada està a punt d'arribar. És adaptatiu i millorarà la seva precisió amb el pas del temps.
+upgrades.dome4.title,Cúpula Tesla
+upgrades.keeper4squad1.title,Escamot de túnels
+upgrades.keeper4autospawnminers.desc,"Sempre que s'excava una nova entrada de túnel, apareixerà automàticament una colla de miners."
+assignment.unpredictable.title,Comunicacions avariades
+upgrades.blastminingblast3.desc,Millora la força de les càrregues d'explosió al màxim.
+upgrades.domewavepathtodome.title,Ruta de Sortida
+level.tutorial.probe.popup_1.switch,Prem | per emetre un pols de sonda.
+upgrades.teslapower1.desc,Millora la potència del tret de tesla.
+loadout.versus.modifiers.title,Modificadors
+properties.furnace.irondelay,Retard del Ferro {}s
+actionhint.pickup,Recull
+demo.end.subtitle,"El videojoc complet ofereix una tona de contingut. Si ho estàs gaudint, si us plau, considera obtenir la versió completa. Aquestes són algunes de les coses que ofereix:"
+loadout.versusmod.versusmodifierironinflation.desc,"Cal el doble de ferro per a totes les millores, però els seus dipòsits són més rics."
+upgrades.artilleryprojectileerasure.title,Dispersió de projectils
+options.video.brightness.reset,Reinici
+upgrades.domesandrepair.desc,Repara els danys de la teva cúpula amb cobalt.
+upgrades.swordlongblade2.title,Fulla llarga 2
+pause.restartrun,Reinicia partida
+options.input.gamepad.thumbstick,Palanca
+level.tutorial.caves,Coves
+options.input.gamepad.gamepadstickdeadzone,Zona morta de la palanca
+upgrades.keeper3shuriken2.title,Shuriken ràpid
+upgrades.condenserspeed1.desc,Redueix el temps necessari per condensar una aigua.
+properties.monsters.fixedweight,Força de l'Onada fixa {}
+properties.versus.ironcontribution,Contribució de ferro {}
+multiplayer.join.title,Uneix-te a una sessió multijugador
+upgrades.prestigewater.title,Envia Aigua
+upgrades.keeper3kunaibounce2.title,Ressonància profunda
+upgrades.swordtargetlock.title,Fixar objectiu
+upgrades.artillerymachinegun4.title,Canó de foc ràpid
+upgrades.mushroomfarmdrill2.title,Excavació Boletal 2
+upgrades.stunlaser.desc,Instal·la un làser que apunta automàticament i atordeix els monstres.
+upgrades.shieldbattleinvulnerable.title,Invulnerabilitat
+loadout.hint.dome,Escull una cúpula!
+loadout.versusmod.versusmodifierrichirondeposits,Dipòsits densos de ferro
+upgrades.chainsawdouble.desc,Instal·la una altra serra per defensar els dos costats de la cúpula de forma efectiva.
+properties.lift.capacity,Els orbes carreguen {} recursos
+upgrades.keeper2bundle1.title,Marcador Central
+upgrades.autocannonrateoffire1.title,Metralladora 1
+loadout.versusmod.versusmodifierwindingmap,Mapa recaragolat
+upgrades.prospectionmetersand2.title,Brúixola de Cobalt
+properties.lift.orbs,{} Orbes
+upgrades.keeper3doublejump.desc,Salta altre cop mentre estàs a l'aire.
+upgrades.droneyardparasites3.title,Drons parasitaris 3
+upgrades.keeper4doublesquad.title,Segon escamot
+upgrades.relichunt.title,Caça de relíquies
+upgrades.orchardbattlerooting.desc,Activa-la durant el combat per fer créixer arrels fora de la cúpula que atraparan qualsevol monstre de mida mitjana que les trepitgi.
+upgrades.prospectionmetergadget.title,Cambra del Mesurador
+properties.sword.reflection,Incrementa la mida de la coberta protectora
+upgrades.extractorresources1.desc,"Cria cucs especials que treballen curosament, extraient més Ferro."
+properties.dome.autohealdamagethreshold,Activar en rebre més dany que {}pv
+upgrades.keeper2rotationalmining2.desc,Millora la velocitat d'extracció de la roca.
+properties.tesla.persistencestunstrength,Força de l'atordiment de l'orbe elèctric {}
+level.gameover.stats.timeplayed,Temps jugat
+properties.sword.stabdamage,Dany de l'Estocada {} 
+properties.monsters.additionalwaveweight,Força de l'Onada addicional {.percent}
+options.game.playerindicatorsinmultiplayer,Mostra els indicadors dels jugadors en el mode multijugador
+properties.mushroomfarm.speedbuff,Potenciació de la velocitat de moviment {}
+level.tutorial.drillbot.carry,"Agafa en Martill del seu tanc, i col·loca'l a la mina, on hauria de cavar."
+modding.modio.decline,Rebutja
+assignment.inversegravity.desc,Aquest planeta és de gravetat invertida.
+level.tutorial.drop.popup_2,Prem | per deixar caure un. Mantingues per deixar-ne caure més.
+upgrades.droneyardbattlegridquick1.desc,Allibera més drons de forma més contínua.
+upgrades.mushroomfarmautopickup.desc,Consumeix automàticament els bolets en passar-hi pel costat.
+level.tutorial.drop.popup_1,Els recursos que duus t'alenteixen.
+properties.sword.retractspeed,Velocitat de Retracció {} 
+reward.rewardkeeper1skin5.title,Aspecte d'enginyer
+upgrades.keeper4.desc,"Guardià arcà que recorre les mines amb tentacles àgils, comandant esbirros gatgòblin."
+assignment.condition.deliverwater,Entrega %d d'aigua
+loadout.difficulty.hard.description,"Bé, és la teva Cúpula la que es perdrà."
+upgrades.keeper4speed2.title,Velocitat de moviment 2
+loadout.versusmod.versusmodifierhardrock.desc,El mapa té més roca dura.
+properties.furnace.maxironstack,Pila màxima de Ferro {}
+upgrades.rocketlauncherdamage2.desc,Millora els míssils encara més.
+upgrades.artilleryrotation1.desc,Et permet girar encara més l'artilleria.
+level.furnace.popup.fuel.add,Apila un|per ser cremat.
+reward.rewardpostrunshowmonstercount.desc,"Mostra estadístiques addicionals després de la partida, com ara quant dany has rebut de cada tipus de monstre."
+upgrades.extractordoublebuild.title,Cuc doble
+multiplayer.error.otherteamquit,La partida ha acabat perquè tots els jugadors han abandonat l'altre equip. La teva partida s'ha desat i pots continuar seleccionant el mode multijugador al menú continua.
+upgrades.blastminingproductiontime1.title,Temps de Producció
+upgrades.chainsawdamage2.desc,Augmenta el dany que la Serra circular provoca als monstres.
+multiplayer.continue.deviceselection.originalplayer,Jugador original
+upgrades.shieldbattleinvulnerable.desc,Activa una habilitat de combat que torna la teva cúpula invulnerable per un breu període de temps.
+level.gameover.unlock.drillbert,Modificador d'en Martill desbloquejat!
+multiplayer.host.splitscreen.desc.ps5,Inclou comandaments a la configuració per invocar guardians addicionals. Fins a quatre guardians poden compartir una mateixa pantalla. Es pot combinar amb el multijugador en línia.
+loadout.mapsize.large,Gran
+level.furnace.popup.explanation,Afegeix recursos a la pila de combustible. Els recursos cremen un darrere l'altre.
+upgrades.liftcapacity1.title,Capacitat
+upgrades.shockwavebig.title,Ona mortal
+upgrades.extractorresources2.desc,Cria cucs que trobaran fins a l'última partícula de Ferro entre la roca.
+level.tutorial.ninja.shuriken.desc1,Prem dues vegades | per llançar un shuriken.
+level.tutorial.ninja.shuriken.desc2,Els shuriken es reposen amb el temps.
+upgrades.droneyarddronespeed1.title,Velocitat del dron
+upgrades.stunlaserarea.title,Atordiment d'àrea
+assignment.weakmining.title,Problema d'excavació
+options.game.events.allowtelemetry.ps5,Accepta l'EULA
+upgrades.keeper3kunaibounce2.desc,Augmenta l'abast de les tessel·les revelades amb cada rebot.
+assignment.projectilehell.title,Pluja infernal de projectils
+options.input.controls.mouse.gamepad.ps5,El canvi d'un comandament o a un altre es detecta automàticament
+reward.rewardpermanenthealthmeter.title,Mesurador de salut permanent
+properties.game.fixedtimelimit,Temps límit: {} minuts
+upgrades.drillbot.title,Martill
+options.video.performance,Rendiment
+properties.furnace.waterduration,Temps de la crema de l'Aigua (cicles) {}
+level.gameover.win.team.profile,Perfil
+upgrades.droneyardbattlegrid.title,Graella de combat
+loadout.prestige.countdown.description,El multiplicador de prestigi comença alt i disminueix amb cada cicle.
+level.tutorial.ninja.carry.desc1,Prem| per llançar un kunai que porta recursos en la direcció en què apuntes amb el %s.
+level.gameover.miner.title,PARTIDA DE L'EXCAVADOR FINALITZADA
+loadout.mapsize.medium.description,Un mapa de mida normal per a una sessió de mineria normal.
+upgrades.assignmentsemergencycontribution2.desc,Envia aquest paquet abans que acabi la 4a onada o fracassaràs en aquesta missió.
+level.gameover.unlocknewelementbutton,Escull què vols desbloquejar
+upgrades.repellentbattlestrongerslowdown2.desc,La boira alenteix encara més els monstres i dura encara més.
+upgrades.orchardovercharge3.desc,Augmenta l'impacte de la sobrecàrrega a les habilitats de batalla.
+modding.steamworkshop,Obre el taller de Steam
+upgrades.drillbotstrength2.title,Força 2
+reward.rewardkeeper1skin5.desc,Desbloqueja un nou aspecte de guardià per a l'enginyer.
+options.keybindings.rebinding.error.gamepad.ps5,No es pot establir com a entrada del control.
+properties.keeper2.actioncooldown,Temps d'Espera de l'Acció {}s
+pause.godot,Fet amb Godot
+loadout.mode.nomonsters,Sense monstres
+properties.teleporter.teleportduration,Durada de la Teleportació {}s
+level.paused,Pausat
+upgrades.teslaautoaim.desc,El reticle té una petita àrea on apuntarà automàticament al monstre més proper.
+upgrades.domearmorpulse.desc,"L'armadura de la cúpula reté una porció de l'energia cinètica dels atacs rebuts, fins que finalment l'allibera en forma de fortes pulsacions que atordeixen els enemics propers."
+upgrades.teslapower2.title,Potència del tret 2
+modding.close,Tanca
+upgrades.stunlaserduration2.desc,El làser atordidor es recarrega encara més ràpid i té una extensa duració de disparat.
+options.keybindings.action.general.move,Moure's
+upgrades.repellentbattleslowdown.title,Debilitar
+properties.drillbot.buffstrength,Acceleració enèrgica {.percent}
+options.input.controls.keybindings.button.ps5,Canvia l'assignació de botons
+upgrades.keeper4speed1.title,Velocitat de moviment 1
+upgrades.stunlaserduration2.title,Resistència als Trets 2
+modding.profile.delete,Esborra el perfil
+upgrades.dome1health1.desc,Augmenta permanentment els punts de salut de la cúpula.
+assignment.logistics.title,Malson logístic
+level.gameover.prestige.score.finalscore,La teva puntuació final és...
+upgrades.prestige.desc,"Guanya reputació al Gremi de Guardians tot enviant-los tants recursos com puguis, però assegura't d'abandonar el planeta abans no se't mengin els monstres!"
+properties.chainsaw.damage,Dany per segon {}
+upgrades.autocannonshotgun2.desc,Incrementa la potència de l'escopeta.
+reward.rewardthreechoicesgadget.title,Ofertes de tres accessoris
+options.input.gamepad.twinstick,Control de doble palanca
+upgrades.domewavewarner.title,Anunciador adaptatiu d'onades
+upgrades.mushroomfarmdrill1.desc,Millora la potenciació d'excavació obtinguda en consumir bolets.
+properties.suitblaster.chargespeed,Càrregues per Cicle {}
+loadout.player.color,Color del Guardià
+level.assignment.badges.unlock,Guanya %d més insígnies per desbloquejar.
+assignment.projectilehell.desc,Aquest planeta està infestat de monstres voladors que escupen projectils.
+properties.repellent.overchargebattleabilityduration,Durada Addicional de l'Habilitat {.percent}
+properties.orchard.battleshieldhp,Força {}hp
+properties.keeper2.reflectsphere,Escut de Reflexió
+upgrades.probecharges.desc,Afegeix una altra càrrega a la sonda.
+upgrades.resourcepackerconstant.title,Empaquetatge magistral
+upgrades.droneyardbattlegridlong2.desc,Allibera molts més drons que es mantindran a l'aguait per més temps.
+upgrades.swordreflection2.desc,Coberta protectora encara més gran.
+upgrades.orchardovercharge3.title,Sobrecàrrega intensa
+upgrades.assignmentsemergencycontribution4.desc,Envia aquest paquet abans que acabi l'11a onada o fracassaràs en aquesta missió.
+upgrades.droneyardovercharge3.title,Sobrecàrrega extensiva
+level.gameover.assignment.lose.title,TASCA FALLIDA
+actionhint.pack,Paquet
+upgrades.stationextensionminimap.title,Cartografia
+properties.tesla.orbdamage,Dany de l'orbe elèctric {}
+properties.furnace.maxwaterstack,Pila màxima d'Aigua {}
+loadout.versusmod.versusmodifiermirroredmap,Mapa simètric
+upgrades.artilleryrotation1.title,Rotació àmplia
+upgrades.drillsidespeed2.desc,Augmenta encara més la velocitat dels perforadors laterals.
+level.tutorial.resourcepacker.popup_1,"Quan siguis a prop de recursos, prem | per empaquetar-los en un feix compacte que en facilitarà el transport."
+properties.orchard.overchargeabilityuses,Usos addicionals de l'habilitat {}
+options.input.controls.gamepadusage.ps5, Ús del comandament
+options.keybindings.restoredefault,Restaurar valors predeterminats
+options.input.gamepad.ps5,Comandament
+upgrades.stationextensionresolution.title,Finestra d'Alta resolució
+upgrades.shieldbattlelongerafterdepletion.title,Impuls de l'Esgotament
+telemetry.manage.ps5,Refusa l'EULA
+level.gameover.stats.damagereceived,Dany rebut
+modding.modio.moddownloadfailed,Error en descarregar un mod de mod.io!
+loadout.versusmod.versusmodifierironinflation,Inflació de ferro
+reward.rewardpermanentwavecount.title,Comptador de cicles permanent
+upgrades.jetpackstrength1.desc,Millora la motxilla propulsora per a poder carregar més recursos.
+level.gameover.unlock.gadget,Nou Giny
+upgrades.stationextension.desc,"Obté una estació mòbil, funcionant en un raïl directament a sota la Cúpula. Entra a l'estació per controlar remotament la cúpula des de dins la mina."
+loadout.versusmod.versusmodifierpoorirondeposits.desc,"Els dipòsits de ferro són molt grans, però tenen un rendiment més baix."
+upgrades.repellentbattlestrongerslowdown2.title,Estancament Fort
+upgrades.converterirontocobalt.desc,Permet la conversió de cobalt a ferro i viceversa.
+loadout.dome,CÚPULA
+upgrades.orchardduration3.title,Durada 3
+level.gameover.stats.resourcesmined,Recursos excavats
+options.input.gamepad.thumbstick.ps5,Palanca
+upgrades.keeper1powerdrill.desc,"Obté un trepant bastament millorat que pot excavar a través de la roca més dura, destruint fins i tot el llit de roca que abans era indestructible."
+upgrades.domesecondweapon.title,Arma la segona estació
+actionhint.fire,Dispara
+versus.corruptionfastprojectiles.title,Projectils ràpids
+level.gameover.unlock.dome,Nova Cúpula
+loadout.versus.modifiers.limit,Triats %d de %d modificadors.
+upgrades.swordstabfast2.title,Estocada ràpida 2
+properties.blastmining.growthtime,Temps de producció (cicles) {}
+options.keybindings.rebinding.inputprocessor.ps5,Prem un nou Botó per a aquesta acció…
+level.gameover.stats.difficulty,Dificultat
+assignment.inversegravity.title,Cap per avall
+assignment.acidrain.desc,La pluja àcida del planeta impedeix qualsevol forma de vida i fins i tot corroeix l'armadura de la cúpula.
+upgrades.keeper4doublesquad.desc,"Obtens un altre escamot, preparat per posar-se a treballar un cop el cridis."
+upgrades.keeper4powerfulfirstpunch.desc,El primer cop contra una casella emprarà una força excepcional.
+multiplayer.host.start,Crea una sessió
+upgrades.mushroomfarmspeed2.title,Velocitat de Boletal 2
+demo.end.more1,Més cúpules!
+demo.end.more2,El Guardià assessor!
+upgrades.swordreflection1.desc,Incrementa la mida de la coberta protectora i provoca que hi rebotin els projectils d'energia.
+demo.end.more3,Molts més accessoris!
+upgrades.chainsawspeed1.title,Velocitat de la serra
+assignment.treefarm.desc,"Els recursos del planeta són escassos, però s'hi poden trobar moltes llavors d'arbres de recursos."
+demo.end.more4,Suplements poderosos!
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"Ajusta el valor perquè el mesurador no parpellegi quan només toquis les palanques, sense empènyer-les.
+El mesurador hauria de parpellejar quan moguis la palanca."
+actionhint.probe,Sonda
+level.gameover.keepgadget.keeping,Accessori per conservar: {gadget}
+upgrades.keeper3aerialmastery.desc,"Obtingues un control més gran mentre caus. A més, cada salt a l'aire et farà arribar més amunt que l'anterior."
+upgrades.drillbot.desc,Adopta una criatura encantadora enamorada de cavar. Porta-la a la mina i deixa-la on vulguis que treballi. Torna sovint per despertar-la si s'adorm a la feina.
+upgrades.laserstrength4.title,Potència 4
+upgrades.artillerydoublemachinegun.title,Doble canó
+upgrades.laserbend.desc,Instal·la un capçal giratori al làser que corregeixi automàticament d'objectiu quan algun s'acosti.
+upgrades.teslaquickshot2.title,Tret ràpid potenciat
+properties.droneyard.battledronespawntime,Temps entre alliberament de drons {}s
+upgrades.prospectionmetersand2.desc,Mostra la direcció als dipòsits de cobalt més propers.
+upgrades.keeper2pinballreflect2.title,Reflexió Millorada
+loadout.secondstage.start,Iniciar partida
+level.tutorial.extractor.popup_1,Agafa els cucs de ferro de l'estació i deixa'ls prop d'una veta de ferro. S'hi aferraran i n'excavaran el ferro amb el pas del temps.
+upgrades.spirestuntrap2.desc,"Millora l'eficiència de la trampa d'energia, per capturar més projectils."
+loadout.versus.condition.deathmatch.desc,L'equip que sobreviu més temps és el que guanya.
+loadout.versusmod.versusmodifiertoughstart.desc,Les onades de monstres comencen amb una força considerable.
+level.tutorial.drillingrig.popup2,"Quan et trobis a prop d'un perforador de laterals, mantingues premut | per moure'l amunt i avall de l'eix del pou de perforació."
+level.tutorial.drillbot.sleeping2,"Quan siguis a prop d'en Martill, prem | per despertar-lo."
+upgrades.teleporterteleportitems.title,Teletransporta Objectes
+level.tutorial.drillingrig.popup1,"La teva torre d'excavació compta amb un perforador de laterals, que permet excavar horitzontalment."
+level.tutorial.ninja.drop.desc1,Prem| mentre ets a terra i apunta cap avall amb el teu %s per deixar caure tots els objectes que portes.
+upgrades.stationextension.title,Estació subterrània
+upgrades.keeper2pinballreflect2.desc,Les esferes es potencien encara més quan es reflecteixen.
+properties.sword.stabrange,Rang {} 
+pause.disconnect.popup.ps5,No pots deixar anar el comandament sense fils principal.
+options.game.systemcursor,Utilitza el cursor del ratolí per defecte
+upgrades.artillerygrenadefastreload.desc,Redueix significativament el temps de recàrrega del teu morter.
+upgrades.stationextensionrevealdistance1.title,Escanejat de Roca propera
+loadout.mode.secondweapon,Segona arma desbloquejada
+options.video.reducedparticles,Efectes de partícules reduïts
+properties.monsters.finalwavefixedstrength,Força de l'Onada final {}
+versus.corruptionfastmonsters.desc,Els monstres seran permanentment més ràpids.
+upgrades.spirestuntrap1.desc,"Interceptar un projectil genera una trampa d'energia, que atraparà més projectils. Quants ens pugui capturar dependrà de la potència del projectil entrant."
+versus.corruptionfastprojectiles.desc,Els projectils dels monstres volen molt més de pressa.
+options.input.gamepad.twinstick.switch,Controls amb doble palanca (desactivats amb un únic Joy-Con)
+upgrades.autocannonrateoffire2.title,Metralladora 2
+upgrades.chainsaw.title,Serra circular
+options.input.vibration.strength,Intensitat de la vibració
+savegame.corrupted.title,Arxiu de guardat danyat
+properties.drillbot.drillstrength,Força del Trepant {}
+properties.prestige.multiplier,{} Multiplicador de Prestigi per Onada
+upgrades.artillerysplash4.desc,Provoca la devastació a tot el camp de batalla disparant 4 obusos altament explosius en una ràpida successió.
+upgrades.condenserdoublestorage.desc,El condensador produirà i emmagatzemarà dues unitats d'aigua abans d'aturar-se.
+upgrades.shieldbattleactivateondepletion.desc,La invulnerabilitat s'activa automàticament un temps addicional quan l'escut s'esgota.
+upgrades.chainsawspeed1.desc,Permet que la Serra circular es mogui més ràpidament de punta a punta.
+upgrades.teleporterteleportduration2.title,Durada de la teleportació 2
+properties.orchard.overchargeabilitystrength,Força addicional de l'habilitat {.percent}
+modding.modio.loginfailed,Ha fallat l'inici de sessió a mod.io amb el teu compte de Xbox!
+upgrades.rocketlauncherrockets3.title,Bombardeig 3
+leaderboard.needsOnlineServices,Per la classificació cal que els serveis en línia estiguin habilitats.
+options.game.blocklist,Llista de jugadors bloquejats
+upgrades.keeper4squad2.desc,Incrementa la quantitat i durada dels gatgòblins dins l'escamot.
+reward.rewardweaponsupplements.desc,Descobreix suplements extremadament poderosos que milloraran la teva arma.
+upgrades.domesupplementadditionalcellar.desc,"Afegeix un altre nivell al teu soterrani, proporcionant dos llocs addicionals per a accessoris."
+level.tutorial.assessor.bundle.desc1.switch,Prem|mentre portes recursos per llançar-los com a paquet.
+loadout.difficult.harder,més difícil
+playerlist.close,Tanca
+upgrades.keeper3rocketcarrier.title,Transportador de Míssils
+level.tutorial.assessor.spheres.desc1.aiming,Prem| per disparar una esfera cinètica en la direcció on apuntes amb el teu %s.
+level.gameover.unlock.gamemode,Nou Mode de Joc
+upgrades.rocketlauncherrockets1.title,Bombardeig 1
+upgrades.autocannonspeed1.title,Acceleració
+upgrades.spiresustain.desc,"Redueix el temps de recàrrega a prop de zero, així permet un ritme de foc molt constant."
+upgrades.extractorresources1.title,Cucs diligents
+multiplayer.host.splitscreen.desc.switch,Inclou comandaments a la configuració per invocar guardians addicionals. Fins a quatre guardians poden compartir una mateixa pantalla. Es pot combinar amb el multijugador en línia.
+level.assignment.badges,Insígnies
+upgrades.prestigefinish.title,Abandona el Planeta
+properties.sword.slicebounceback,L'Espasa Rebota al Marge
+properties.droneyard.transportdronecount,Drons de transport {}
+upgrades.drilladditionalsides.title,Perforador de laterals addicional
+upgrades.shieldbattleblastdamage.desc,Augmenta el dany i els usos per combat de l'electro-explosió.
+upgrades.extractordestruction.title,Implosió del cau
+properties.sword.electricdamage,Dany de l'Espasa Electrificada {}
+properties.orchard.growthtime,Temps de Creixement (cicles) {}
+upgrades.keeper3carrylimit1.desc,Incrementa la quantitat de recursos que pots transportar al teu transportador de Kunai.
+options.accessibility.fontsize,Mida de la font
+upgrades.keeper4punch2.title,Frenesí 2
+upgrades.laser.desc,Un làser de precisió que es mou al voltant de la cúpula. Dissenyat originalment per a excavar en asteroides.
+loadout.hint.multiplayer.playermaximum,Has de tenir 8 o menys jugadors per iniciar una partida multijugador.
+upgrades.drillsides.title,Perforador lateral
+upgrades.mushroomfarmautopickup.title,Bocinada
+options.input.controls.mouseusage,Ús del ratolí
+properties.tesla.reticlemaxspeed,Velocitat del reticle {}
+upgrades.swordstabshoot.desc,"En comptes de retraure's amb un cable, l'espasa es carrega i dispara des de la cúpula com si fos una javelina."
+properties.condenser.autocollect,Recol·lecció Automàtica
+level.gameover.back,Torna
+loadout.mapsize.small,Petit
+loadout.hint.gamemode,Escull un Mode de joc!
+upgrades.swordlargeblade3.title,Fulla pesant 3
+level.tutorial.ninja.controls,Aquest guardià només es pot controlar amb un comandament o amb ratolí i teclat.
+telemetry.explanation.ps5,"Accepta el nostre EULA per accedir al mode multijugador en línia.
+Si no ho fas, encara podràs jugar en el mode multijugador local en pantalla dividida.
+
+Pots canviar qualsevol d'aquestes opcions en qualsevol moment."
+multiplayer.techtree.keeperexclusiveupgrades,Aquestes millores només s'apliquen al teu guardià.
+assignment.heavyhitters.desc,Aquest planeta està acaramullat de monstres que ataquen cos a cos.
+options.input.controls.mouse.domes,Utilitza el ratolí per la Cúpula
+loadout.mode.toughstart, Inici dur
+upgrades.swordaimline.desc,Afegeix una mira làser per a dirigir les estocades.
+upgrades.assignmentssendiron.title,Entrega Ferro
+upgrades.domearmormelee1.title,Armadura de cos a cos 1
+assignment.showdown.title,Demostració final
+upgrades.keeper3shuriken1.desc,Obtens un shuriken que explota en un radi reduït. Es recarrega automàticament amb el temps.
+upgrades.teslatiming1.title,Moment perfecte
+upgrades.stationextensionrevealdistance2.title,Escanejat de Roca
+loadout.prestige.pro.gadgetorder,Ordre d'Accessoris
+upgrades.prospectionmeterwater1.title,Mesurador d'Aigua
+properties.teleporter.teleportresources,Teletransporta Recursos
+options.video.stretchmode.scaled.text,"Renderitza el joc en una resolució fixa i l'escala posteriorment a la resolució de la finestra o pantalla. Es pot veure més pixelat, especialment el text, però evita errors visuals."
+options.cancel,Cancel·la
+level.station.battle.navbar.stab,Apunyala
+properties.keeper3.bouncesonarrange,Rang del sonar (Caselles) {}
+assignment.cobaltcontribution.title,Contribució de Cobalt
+upgrades.keeper2pinballsplit.desc,"Divideix les esferes entrants en dues, llançant-les perpendicularment a la direcció original."
+options.input.gamepad.switch,Comandament
+upgrades.stunlaserduration1.desc,El làser atordidor es recarrega més de pressa i crema durant més estona.
+properties.spire.stuntrapduration,Durada {}s
+loadout.mapsize.medium,Mitjana
+upgrades.keeper4swiftpunch.title,Cops ràpids
+upgrades.domewavecount.title,Comptador de cicles
+level.gadgetchoice.slot,Ranura: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,Agafa espores de miceli del tronc de bolets i deixa'ls sobre una roca. A voltes creixeran en un bolet potenciador.
+options.game.languages,Idiomes
+upgrades.autocannonshotgun2.title,Escopeta 2
+upgrades.drillbotturnaround.title,Ensinistrament Avançat
+level.tutorial.overcharge.popup_2,Col·locat al seu costat i prem | per sobrecarregar-lo.
+level.tutorial.overcharge.popup_3,Això consumirà una | i només podràs fer-ho si en tens prou.
+level.tutorial.overcharge.popup_1,"Ara pots sobrecarregar el teu accessori principal, enfortint-lo per la propera batalla."
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,"En comptes d'utilitzar orbes d'estirada, tots els recursos dins l'ascensor es mouen amunt contínuament per una força de camp de gravetat invers. Retorna part dels fons utilitzats en orbes."
+level.station.navbar.battle,Batalla
+options.keybindings.rebinding.error.mouse,No es pot establir com a entrada del ratolí.
+options.input.gamepad.autoswitch,Detecció automàtica del comandament preferit
+properties.lift.keeperupwardsspeed,Velocitat de l'ascensor del guardià {}
+loadout.keeper,GUARDIÀ
+level.gameover.unlock.keeper,Nou Guardià
+options.keybindings.rebinding.inputprocessor,Escull i pressiona una nova tecla o botó per a aquesta acció…
+options.input.gamepad.xbox,Comandament
+upgrades.keeper4extraresource.title,Gatgòblins diligents
+upgrades.shieldoverchargestrength2.title,Sobrecarrega la Força de l'Escut 2
+loadout.mode.domesupplements,Suplements triples
+upgrades.converter.desc,"Pot convertir recursos, ajudant-te a equilibrar el teu inventari de recursos."
+assignment.minorvision.title,Foscor
+upgrades.shieldstrength1.desc,Augmenta el dany que pot absorbir l'escut de la cúpula.
+properties.stationextension.tilerevealdistance,Mostra la distància a {} caselles
+loadout.mode.toughstart.desc,Comença amb onades més fortes.
+upgrades.liftcarrykeeper1.desc,L'ascensor potencia la teva velocitat quan t'hi mous dins.
+options.input.controls.mouse.aim,Utilitza el ratolí per apuntar
+upgrades.spireprojectileslowdown.desc,L'Obelisc alenteix contínuament els projectils enemics.
+assignment.chosen.title,Encàrrec del Gremi
+upgrades.furnacestrongwaterfiring.desc,Augmenta l'efectivitat de cremar Aigua per alentir als monstres.
+properties.dome.healthfractionrepair,Repara un {.percent} del total de pv
+level.tutorial.assessor.carry,Recol·lecció per Gravitació
+upgrades.laserhitprojectiles.title,Dissoldre projectils
+upgrades.teslaorbstun.title,Efecte de profunditat
+reward.rewardgadgetsupplements.title,Suplements d'accessori
+options.input.controls.keepersettings.individual,Configuració individual del guardià
+upgrades.teslapower2.desc,Millora la potència del tret de tesla.
+properties.acidrain.fixeddamageperminute,Dany per minut {}
+demo.end.more,I molt més:
+landing.proceed,Prem qualsevol tecla per continuar
+modding.modio.ugcterms.content2,"En continuar, el teu identificador d'Xbox Live s'utilitzarà per autenticar-te automàticament amb mod.io. Per continuar, has de llegir i acceptar les polítiques de mod.io:"
+upgrades.keeper4catgoblinamount.title,Camada ampliada
+modding.modio.ugcterms.content3,[i]Aquestes condicions s'obriran al navegador web predeterminat del sistema.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,Estancament
+upgrades.spiresplit1.title,Divisió del Projectil
+upgrades.suitblasterradius2.title,Radi de l'Explosió 2
+properties.keeper4.punchstrength,Força del cop {}
+modding.modio.ugcterms.content1,"Per accedir, descarregar i gestionar contingut generat pels usuaris (UGC), aquest joc utilitza el servei [b]mod.io[/b]."
+upgrades.versus.title,Versus
+upgrades.swordstabexplode.title,Estocada explosiva
+modding.modlist.title,Modificadors Habilitats
+options.game.kunaisnapping,Ajusta la direcció del kunai a les direccions cardinals
+loadout.versusmod.versusmodifiersecondweapon,Segona arma desbloquejada
+upgrades.teleporterteleportduration1.desc,Teletransportar-te triga menys temps.
+options.input.controls.keybindings.button.switch,Canvia l'assignació de botons
+upgrades.domearmor.title,Armadura de cúpula
+options.input.gamepad.gamepadstickdeadzone.text,"Fixa un valor perquè la barra no parpellegi quan toquis la palanca sense empènyer-la.
+Si empenys la palanca, la barra hauria de parpellejar quan la moguis."
+options.translation.community.desc,Aquests idiomes han sigut traduïts per la nostra meravellosa comunitat. Uneix-te a ells si hi vols contribuir!
+level.tutorial.beastmaster.mine,Mineria
+upgrades.keeper4speed1.desc,Incrementa la velocitat de moviment.
+properties.shield.overchargebattleabilityduration,Durada Addicional de l'Habilitat {.percent}
+upgrades.shockwavedamage1.desc,Augmenta el dany que provoca l'ona expansiva.
+network.error.offline.xbox,"S'ha perdut la connexió amb la xarxa Xbox. Si us plau, comprova la teva connexió a internet i prova-ho de nou."
+properties.condenser.waterstorage,Emmagatzema {} d'aigua
+loadout.versusmod.versusmodifierstrongmonsters.desc,Els monstres són més difícils de matar.
+title.navbar.modding,Modificacions
+upgrades.dome3.desc,Cúpula militar que s'utilitza habitualment per desencadenar la devastació amb un morter immensament potent. Ve amb una arma antiaire per a capacitats defensives completes.
+upgrades.keeper4powerfulfirstpunch.title,Primer cop
+properties.sword.brake,Agilitat de l'Espasa {}
+level.tutorial.suitblaster.popup_1,"Prem | per disparar el canó del vestit, destruint roques en un radi al teu voltant."
+properties.stunlaser.firetime,Temps de Tir {}s
+level.tutorial.suitblaster.popup_2,Es recarrega automàticament amb el pas del temps.
+properties.repellent.battleuses,Usos per Batalla {}
+upgrades.keeper4ramping1.desc,Millora la velocitat de mineria gràcies a la mineria continua. La inèrcia decau quan t'atures.
+level.gameover.unlockpicker.title,ESCULL QUÈ VOLS DESBLOQUEJAR
+options.input.gamepad.autoswitch.ps5,Detecció automàtica del comandament preferit
+upgrades.suitblaster.desc,Instal·la un canó d'excavació al teu vestit que pot destruir les roques al teu voltant de forma explosiva.
+upgrades.spiresplit1.desc,"Els projectils d'impacte es divideixen en diversos de petits, que danyen els enemics. La quantitat de projectils dividits depèn de la potència del projectil que arribi."
+properties.versus.additivewave,Incrementa la força de les onades (equip rival) {}
+properties.keeper3.aircontrol,{.percent} De control aeri
+multiplayer.error.keepertaken,"El guardià seleccionat ja ha estat triat. Si us plau, prova-ho de nou amb un altre guardià."
+assignment.mode.challenge,Desafiant
+upgrades.keeper3shurikenstrength1.desc,"Augmenta el poder d'explosió del shuriken, que destrueix tessel·les en un radi més gran."
+pause.invite,Convida amistats
+options.accessibility.fontsize.medium,Mitjana
+upgrades.keeper2pinballdestroyadjacenttiles.desc,"Quan una esfera cinètica destrueix una casella de roca, les caselles perpendiculars a l'impacte també es destrueixen."
+upgrades.furnaceironfiring.title,Combustible de Ferro
+upgrades.furnaceslowdown.desc,"Afegeix un component tòxic als fums, adormint els sistemes nerviosos dels monstres i alentint així el seu moviment."
+upgrades.swordlargeblade2.desc,"Instal·la una fulla enorme. És més lenta, però infligeix una gran quantitat de danys."
+upgrades.blastminingblast1.desc,Incrementa la força de l'explosió.
+upgrades.stationextensionrevealdistance1.desc,Els recursos i la roca propers a l'estació es revelaran automàticament.
+leaderboard.season,Temporada {season}
+multiplayer.host.crossplay.enabled,Joc creuat habilitat
+multiplayer.techtree.keepersharedupgrades,Aquestes millores es comparteixen entre tots els guardians que tenen aquest accessori.
+loadout.versusmod.versusmodifierlongcycles.desc,S'allarga el temps entre onades de monstres.
+upgrades.artillerydirecthit2.title,Caça monstres 2
+upgrades.stationextensionresolution.desc,Obté una imatge més clara de la Cúpula i els seus voltants.
+options.keybindings.action.general.use,Utilitza
+loadout.relichunt.modifiers,Modificadors de la partida
+assignment.heavyhitters.title,Colpejadors pesats
+upgrades.furnacelastingwaterfiring.title,Combustible durador d'Aigua
+properties.shield.battleblastdamage,{} Dany explosiu per segon
+multiplayer.error.timeout,La connexió ha expirat.
+multiplayer.join.discovering,Descobrint sessions...
+properties.condenser.growthtime,Temps de Producció (cicles) {}
+level.gameover.assignment.badges,Has guanyat una nova insígnia per gastar per Recompenses del Gremi del Guardià.
+upgrades.drill1.desc,Reforça el trepant per a excavar més ràpidament.
+level.corruptionchoice.title,ESCULL UNA CORRUPCIÓ!
+properties.artillery.grenadedamage,Dany de l'obús {}
+level.gameover.continue,Continua
+options.game.spheresnapping,Ajusta la direcció de l'esfera a les direccions cardinals
+options.input.gamepad.gamepadstickdeadzone.motiondetected,detecció de moviment:
+options.input.gamepad.icons.automatic,Automàtic
+reward.rewardkeeper4skin3.title,Aspecte de mestre de les bèsties
+upgrades.prestige.title,Prestigi
+upgrades.keeper3shurikenstrength1.title,Shuriken fort
+upgrades.spiresplit2.desc,Els projectils dividits són més ràpids i abundants.
+upgrades.swordlargeblade1.desc,Eixampla i allarga la fulla provocant més dany.
+upgrades.droneyardbattlegridlong1.title,Drons de llarga durada
+properties.stunlaser.speed,Velocitat {}
+upgrades.repellentbattleslowdownstun2.desc,Utilitza les espores més sovint i atordeix els monstres durant més estona.
+upgrades.drillsidespeed1.desc,Augmenta la velocitat dels perforadors laterals.
+level.tutorial.ninja.bombs.desc1,Mantingues| per llançar un kunai per minar a la direcció on apuntes amb el teu %s.
+loadout.mode.maze.desc,"El mapa és com un laberint, amb moltes ramificacions, atzucacs i girs."
+upgrades.domesupplementprojectiledamagereduction2.desc,Millora encara més la deflexió per rebre molt menys dany dels projectils.
+level.tutorial.ninja.bombs.desc2,El kunai rebotarà en colpejar una paret en un angle pronunciat.
+upgrades.domesupplementmeleedamagereduction1.desc,Endureix la coberta de la cúpula per rebre menys dany dels atacs cos a cos dels monstres. No afecta el dany dels projectils.
+upgrades.chainsawautonomy.title,Autonomia
+options.input.gamepad.gamepadstickdeadzone.ps5,Zona morta de la palanca
+upgrades.teslapower3.desc,Millora la potència del tret de tesla.
+level.tutorial.artillery.panel1header,Morter
+upgrades.keeper4punch3.title,Frenesí 3
+upgrades.furnaceslowdown.title,Fums embriagadors
+upgrades.teslaspeed1.desc,El reticle de punteria es mou més ràpidament.
+upgrades.teslaquickshot2.desc,El Tret ràpid és molt més fort.
+level.tutorial.repair.findcobalt,"Intenta trobar una mica de cobalt. Amb ell, pots reparar la cúpula.
+És rar i finit."
+title.navbar.newgame,Nova Partida
+options.keybindings.action.dome.battle,Mode de Combat
+upgrades.keeper2pinballsplit.title,Dividir Esferes
+properties.keeper2.bundlecentralmarker,Marcador de Columna Central
+options.keybindings.gamepad,Comandament
+options.video.stretchmode.rezised.text,"Renderitza el joc directament en la resolució de la pantalla o finestra. Es veurà més nítid, però poden aparèixer errors visuals en forma de línies d'un píxel d'amplada."
+options.audio,Àudio
+upgrades.domehealthmeter.desc,Mostra els punts de salut de la cúpula.
+upgrades.shieldbattlereflectshortuses.title,Reflexió Cronometrada
+loadout.zoom1,A prop
+loadout.zoom2,Lluny
+upgrades.orchardovercharge.title,Sobrecarrega el verger
+upgrades.keeperonewayteleporter.desc,Obté un teletransportador personal de direcció única. Emplaça un teletransportador inamovible a qualsevol lloc i teletransporta-t'hi quan vulguis.
+options.input.controls.gamepadusage.switch, Ús del comandament
+properties.orchard.battleroots,Creixen Arrels a la Terra {}
+upgrades.mushroomfarm.desc,Cultiva bolets al teu soterrani que poden ser plantats a dins la mina per obtenir potenciacions de velocitat i d'excavació.
+keybindings.reset.title.ps5,Reinici de la configuració dels botons
+multiplayer.continue.deviceselection.cancel,Cancel·la la selecció
+loadout.hint.selection,Prem|per triar una opció.
+upgrades.orchardbattleshieldsecondlayer.title,Doble coberta de vinyes
+properties.artillery.grenades,Obusos {}
+upgrades.drill3.title,Força del trepant 3
+assignment.weakcarry.title,Problema logístic
+upgrades.shockwavestun1.title,Atordiment d'ona expansiva 1
+upgrades.domesupplementprojectiledamagereduction1.title,Deflexió del casc de la cúpula
+properties.keeper3.maxjumps,{} salts
+upgrades.converterefficientcobalt.desc,Millora la conversió perquè sigui més eficient.
+properties.furnace.waterdelay,Retard de l'Aigua {}s
+gadget.slot.keepersupplement,Suplement del Guardià
+upgrades.keeper4ramping2.title,Inèrcia 2
+upgrades.orchardduration1.title,Durada 1
+upgrades.domesupplementprojectiledamagereduction2.title,Deflexió millorada
+loadout.pet,Mascota
+reward.rewarddomesupplements.desc,Descobreix suplements extremadament poderosos que milloraran la teva cúpula.
+properties.prestige.score,{} Prestigi
+properties.keeper3.kunaicooldown,Temps d'espera del kunai {}s
+properties.stunlaser.stunarea,Àrea d'Atordiment {}
+upgrades.blastminingblast2.desc,Incrementa encara més la força de l'explosió.
+reward.rewardrerolloffers2.title,Reescollida via aigua
+upgrades.artillerysplash1.title,Explosius volàtils 1
+upgrades.drillwidetunnel.title,Túnel ample
+modding.modio.ugcterms.title,Condicions d'ús del contingut generat pels usuaris
+options.input.controls.keepersettings.title,Configuració dels controls del guardià
+options.keybindings.action.keeper.gravitycollect,Recull
+upgrades.domearmorhealth1.desc,"Augmenta la durabilitat de l'armadura, aportant més vida a la cúpula."
+reward.rewardgadgetsupplements.desc,Descobreix suplements extremadament poderosos pels teus accessoris.
+properties.laser.movespeedmod,Modificador de la Velocitat de Moviment {.percent}
+upgrades.domeresourcecounters.title,Gestió d'inventari
+level.tutorial.tesla.panel2header,Disparant
+upgrades.jetpackstrength2.desc,Millora la motxilla propulsora per a poder carregar més recursos.
+upgrades.teslapower4.title,Potència del tret 4
+properties.droneyard.battleabilityuses,Usos per batalla {}
+loadout.gadget.additional.unlock,"Hi ha accessoris que encara no has desbloquejat. Per desbloquejar un accessori, cal que guanyis una partida havent: trobat un accessori dins la mina i instal·lat a la cúpula."
+properties.laser.hitprojectiles,el làser impacta contra projectils d'energia
+properties.keeper2.minspeed,Velocitat Mínima {.percent}
+properties.laser.dpsmod,Modificador de Dany {.percent}
+properties.prospectionmeter.scandelay,Retard de l'Escaneig {}s
+level.tutorial.artillery.panel1content2,"Com més estona el mantinguis, més lluny volarà l'obús."
+level.tutorial.artillery.panel1content1,Mantingues | per carregar el morter i deixa'l anar per disparar.
+level.gameover.saveimages,Guarda
+loadout.difficulty.veryeasy,Normal
+upgrades.teslaautoaim.title,Autoapuntat
+upgrades.orchardduration1.desc,Els efectes de la fruita duren més.
+options.title,OPCIONS
+upgrades.probedetectchambers.desc,La sonda ara també detecta cambres.
+upgrades.dome1.desc,Cúpula minera estàndard equipada amb un làser de precisió.
+upgrades.repellentbattlestrongerslowdown1.desc,La boira alenteix més els monstres i dura encara més.
+upgrades.resourcepacker.desc,"Instal·la un empaquetador de recursos al teu vestit que permet empaquetar i comprimir múltiples recursos en un embolcall, fent-los més fàcils de transportar."
+properties.keeper4.goblinextraresourcechance,Probabilitat de recursos addicionals {.percent}
+properties.orchard.speedbuff,Potenciació de la velocitat de moviment {}
+keybindings.reset.explanation.xbox,"La teva configuració dels botons ha sigut reiniciada arran d'una actualització recent, la qual ha implicat canvis importants a l'esquema de controls. Perdoneu les molèsties!"
+upgrades.keeper2rotationalmining2.title,Mineria per Compressió 2
+upgrades.keeper3rocketcarrier.desc,Intercanvia els transportadors de kunais per una versió millorada amb coets que viatgen en línia recta fins que impacten.
+properties.blastmining.damage,Dany {}
+options.video.renderscale,Escala de renderització
+modding.profile.title,Selecciona el perfil
+options.keybindings.action.general.left,Esquerra
+properties.versus.multiplicativeewave,Incrementa la força de les onades (equip rival) {.percent}
+level.tutorial.drillbot.sleeping1,"Martill se'n va a dormir després d'una estona, o quan troba una paret que no pot excavar."
+level.tutorial.drillbot.sleeping2.switch,"Quan siguis a prop d'en Martill, prem | per despertar-lo."
+upgrades.laserstrength4.desc,"Augmenta de forma exagerada el poder del teu làser, però quasi no es mourà mentre estigui disparant."
+upgrades.orchardovercharge2.title,Sobrecàrrega millorada
+level.tutorial.drillbot.sleeping3,Pots fer-lo girar si prems | quan està despert.
+modding.prestigeforbidden,No pots iniciar una partida de prestigi amb aquests modificadors.
+upgrades.laser.title,Làser
+upgrades.domesupplementelectrifiedsurface1.title,Coberta electrificada 1
+pause.quitgame,Surt del joc
+upgrades.swordlargeblade3.desc,"Una fulla monstruosa. Molt poderosa, però lenta."
+upgrades.relichunt.desc,Troba la relíquia enterrada a les profunditats i porta-la a la cúpula.
+properties.shockwave.cooldown,Temps d'espera {}s
+upgrades.repellentdelay1.desc,Incrementa el retard de la propera onada de monstres.
+savegame.corrupted.desc,"L'últim guardat està malmès, possiblement a causa d'un bloqueig del sistema durant el guardat. S'ha restaurat el guardat anterior."
+multiplayer.host.online,En línia
+keybindings.reset.doreset.switch,Reinicia l'assignació de botons
+options.keybindings.action.general.back,Cancel·la
+upgrades.keeper4catgoblindig2.title,Excavació eficient
+upgrades.furnacewaterfiring.desc,Crema Aigua al forn per aconseguir un alentiment pronunciat de l'atac de monstres.
+upgrades.shockwavedamage2.title,Dany d'ona expansiva 2
+upgrades.proberange1.desc,Augmenta el rang de la sonda.
+pause.options,Opcions
+keeperdlc.load.missing.switch,"No es pot carregar el joc guardat, conté contingut descarregat no disponible. Si us plau, comprova que el contingut descarregable de ""Els guardians perduts"" està disponible."
+pause.gamepadcontrols.drop,Deixa
+upgrades.assignmentsemergencycontribution3.title,Contribució d'emergència 7
+options.game.shootbundlebeforegadgets,Dispara al paquet de recursos abans que als accessoris
+options.video,Vídeo
+upgrades.blastmining.title,Mineria amb voladura
+modding.modio.subscriptions,Mostra les subscripcions de Mod.IO
+level.gameover.proceedtounlock,Desbloqueja un nou element
+upgrades.prospectionmeter.desc,Un mesurador que mostra la distància als recursos més propers.
+properties.keeper2.spherereload,Recàrrega de l'Esfera {}s
+options.keybindings.apply,Aplica
+upgrades.teslaquickshot.desc,"Després de disparar un tret recarregat, pots disparar un sol tret més feble fent un sol toc al botó per disparar."
+level.tutorial.tesla.panel1header,Moviment del reticle
+upgrades.tesla.title,Tesla
+properties.tesla.persistance,Temps de vida de l'orbe elèctric {}s
+upgrades.repellentbattleslowdownstun1.title,Paràlisi
+upgrades.probelongmarker1.title,Memòria del marcador
+modding.modio.tokenerror,Ha fallat la connexió amb el proveïdor de fitxes!
+upgrades.stationextensionupgrades.title,Millores en remot
+upgrades.prestigewater.desc,Envia Aigua a casa. Augmenta el nombre de punts de prestigi que obtens després de cada onada.
+upgrades.artillerydirecthit2.desc,Incrementa el poder destructiu dels obusos del teu morter.
+upgrades.mushroomfarmquickgrowth.desc,Els bolets creixen més ràpidament al soterrani.
+network.error.notsignedin.ps5,Inicia sessió a PlayStation™Network per accedir a les funcions en línia
+options.input.controls.keybindings,Assignació de botons
+multiplayer.error.clientcrossplaydisabled,Habilitar el joc entre plataformes és un requisit per entrar en aquesta sala.
+upgrades.keeper3carrylimit2.desc,Incrementa la quantitat de recursos que pots transportar al teu transportador de Kunai.
+level.supplementchoice.reroll, Torna a generar
+upgrades.orchardbattlerootingexplosion.desc,"Torna-la a disparar per fer que tots els monstres atrapats explotin, causant danys al seu voltant."
+upgrades.rocketlauncherrestock.desc,La sitja de míssils es reabasteix al cap d'una estona de buidar-se.
+upgrades.droneyardbattlegridquick2.title,Drons instantanis
+assignment.denseiron.title,Ferro dens
+options.input.controls.gamepadusage.xbox, Ús del comandament
+level.tutorial.ninja.bombs,Kunai
+upgrades.domearmorhealth2.desc,"Augmenta la durabilitat de l'armadura, aportant més vida a la cúpula."
+loadout.title,Equipament
+multiplayer.continue.deviceselection.team,Equip
+properties.keeper3.kunaiweaknessagainsthardrock,Feblesa del kunai contra la roca dura {.percent}
+level.tutorial.repellent.popup_2,"Quan estiguis a prop, prem | per activar-ho."
+upgrades.chainsawdamage3.desc,Augmenta el dany que la Serra circular provoca als monstres.
+level.tutorial.artillery.panel3content1,"Els obusos de morter tenen una àrea d'efecte, però els impactes directes fan més mal. No poden danyar la cúpula."
+level.gameover.unlock.regulargadget,Nou accessori desbloquejat per als encàrrecs!
+options.keybindings.gamepad.ps5,Comandament
+options.input.gamepad.thumbstick.switch,Palanca
+upgrades.artilleryshotstun.title,Explosió ensordidora
+upgrades.assignments.title,Encàrrec del Gremi
+upgrades.rocketlauncherrockets2.desc,Augmenta el nombre de míssils que pots disparar.
+level.tutorial.assessor.bundleguide.desc1,Ara pots guiar paquets estacionaris.
+level.tutorial.assessor.mining,Mineria per compressió
+level.tutorial.assessor.bundleguide.desc3,"Et seguirà, si hi estàs a prop."
+level.gameover.win.team,L'EQUIP %s HA GUANYAT
+level.tutorial.assessor.bundleguide.desc2.switch,Prem | sense pitjar cap direcció per col·locar un paquet estacionari.
+options.video.graphicsmode.window,Finestra
+upgrades.artillerymachinegun1.desc,Millora l'arma antiaèria per disparar més de pressa. També inclou un punt de làser per millorar la precisió.
+upgrades.droneyardovercharge1.desc,Sobrecàrrega temporalment el Pati de drons amb Aigua per produir més drons a la propera batalla.
+modding.title,MODIFICACIONS
+assignment.treefarm.title,Granja d'arbres
+level.gameover.prestige.score.personalbest,Millor nova marca personal!
+level.gameover.unlock.world,Nou món desbloquejat!
+assignment.chosen.todo,Cap encàrrec seleccionat
+options.keybindings.action.dome.battleability1,Habilitat de combat 1
+loadout.versusmod.versusmodifierwindingmap.desc,El mapa és una mica laberíntic.
+reward.rewardweaponsupplements.title,Suplements de l'arma
+upgrades.laserstrength2.title,Potència 2
+upgrades.keeper2movement1.desc,Millora el teu generador gravitatori per moure't més ràpidament.
+options.keybindings.action.dome.battleability2,Habilitat de combat 2
+upgrades.domesecondweapon.desc,"Instal·la una arma nova que es controla des de la segona estació, situada al segon nivell del soterrani."
+upgrades.resourcepackerquickcharge.desc,Augmenta com de ràpidament es regeneren les càrregues d'empaquetatge.
+upgrades.laserstrength2.desc,"Millora molt més la potència del làser, però es mourà encara més lentament mentre estigui disparant."
+upgrades.autocannonimproved.title,Canó Automàtic Millorat
+upgrades.keeper3kunaicooldown1.desc,Llança kunais més ràpidament.
+upgrades.keeper2pinballsplit2.desc,Les esferes dividides romandran vives durant més temps.
+upgrades.swordreflection1.title,Reflexió 1
+level.tutorial.ninja.drop.desc1.switch,Prem| mentre ets a terra i apunta cap avall amb el teu %s per deixar caure tots els objectes que portes.
+upgrades.suitblasterradius2.desc,Augmenta el Radi de l'explosió.
+options.game.dropresourcesbeforegadgets,Deixa caure els recursos abans que els accessoris
+options.translation.community.crowdin,Projecte de traducció de Dome Keeper a Crowdin
+loadout.hint.playerlimitprestige,"Inicia la partida
+
+Les puntuacions no es penjaran quan es jugui en mode Prestigi amb 3 jugadors o més."
+upgrades.assignmentsemergencycontribution1.title,Contribució d'emergència 2
+upgrades.shockwavedamage2.desc,Augmenta el dany que provoca l'ona expansiva.
+options.input.gamepad.autoswitch.switch,Detecció automàtica del comandament preferit
+loadout.versusmod.versusmodifierlittlecobalt.desc,El mapa conté molt pocs dipòsits de cobalt.
+upgrades.keeper1.title,Enginyer
+level.furnace.popup.title,Afegeix combustible al Forn
+upgrades.prospectionmeterrange2.title,Rang 2
+pause.discord,Acompanya'ns a Discord
+upgrades.lasermove1.title,Velocitat de moviment 1
+options.input.controls.mouse.gamepad.switch,El canvi d'un comandament o a un altre es detecta automàticament
+upgrades.jetpackspeed3.title,Velocitat 3
+upgrades.chainsawautonomy.desc,La Serra circular defensa la cúpula fins i tot quan no et trobes a l'estació de control.
+properties.extractor.buildcycles,Producció de cucs (Cicles) {}
+upgrades.stunlaserstun2.desc,"Incrementa el poder del raig atordidor, que afecta greument fins i tot els monstres més forts."
+upgrades.teleporter.desc,Un treletransportador de doble sentit connecta una estació al soterrani amb un portal portàtil.
+upgrades.droneyarddrones.title,Dron de transport
+level.tutorial.assessor.spheres.desc1.aiming.switch,Prem| per disparar una esfera cinètica en la direcció on apuntes amb el teu %s.
+upgrades.liftspeed1.desc,Els orbes es mouen més de pressa.
+properties.prestige.provokedwavestrength,Provocació dels monstres {.percent}
+upgrades.artillery.desc,Una combinació d'un gran morter que dispara munició explosiva massiva i una ràpida arma antiaèria.
+upgrades.shredgadgettocobalt.title,Tritura pel Cobalt
+level.gameover.stats.distancetravelled,Distància recorreguda
+loadout.mode,Mode de joc
+loadout.difficult.easier,més fàcil
+upgrades.domearmorhealth1.title,Durabilitat de l'armadura 1
+options.game.playernamesinmultiplayer,Mostra el nom dels jugadors en el mode multijugador
+properties.sword.slicedamage,Dany del Tall {} 
+options.audio.volumes.mastervolume,General
+upgrades.keeper4punch2.desc,Incrementa la força i la velocitat màxima amb què mines.
+upgrades.keeper4catgoblinsleeptime.title,Pastilles de cafeïna
+upgrades.condenserdoublestorage.title,Emmagatzematge Doble
+upgrades.drillbotbuffguidance.desc,"En transportar una llepolia, aquesta mostrarà la direcció cap on es troba en Martill."
+loadout.versusmod.versusmodifierscatterediron.desc,"Els dipòsits de ferro són petits i estan dispersos, però n'hi ha en abundància."
+upgrades.proberange3.title,Rang molt llarg
+upgrades.sword.desc,Una espasa resistent que ataca amb més força com més recorregut faci abans de colpejar. Es pot disparar per empalar monstres llunyans i compta amb una coberta protectora que bloqueja projectils.
+properties.rocketlauncher.rockets,Míssils {}
+keybindings.reset.explanation,"La teva configuració de controls ha sigut reiniciada arran d'una actualització recent, la qual ha implicat canvis importants a l'esquema de controls. Perdoneu les molèsties!"
+upgrades.shield.desc,Instal·la un escut que absorbirà alguns danys. Es recarrega automàticament.
+multiplayer.error.lobbyfull,La sala d'espera és plena.
+upgrades.keeper3kunaibounce1.title,Assistència de trajectòria
+loadout.team.selection,Uneix-te a %s
+level.tutorial.sworddome.slicing.desc,"Com més ràpid branda l'espasa, més dany causa el tall."
+properties.drill.sidetimepertile,Temps del Perforador de laterals per casella {}s
+upgrades.suitblasterradius1.title,Radi de l'Explosió 1
+upgrades.resourcepackerquickcharge.title,Càrrega ràpida
+versus.corruptionmonsterdamage.desc,"Els monstres faran molt més dany, projectils inclosos."
+properties.dome.autohealamount,Repara {}pv
+loadout.team,Equip %s
+options.keybindings.action.general.down,Avall
+properties.suitblaster.radius,Radi d'explosió (caselles) {}
+level.tutorial.fullscreen.continue,continua
+level.tutorial.suitblaster.popup_1.switch,"Prem | per disparar el canó del vestit, destruint roques en un radi al teu voltant."
+upgrades.resourcepackercount2.title,Mida de l'Embolcall 2
+properties.sword.extendspeed,Velocitat d'Extensió {} 
+upgrades.autocannondamage1.title,Bales Pesades
+properties.sword.aimline,Predicció d'Apuntat
+options.translation.community,{completion} % completada
+properties.spire.stuntrapabsorption,Absorció de Dany {.percent}
+upgrades.keeper4speed2.desc,Incrementa encara més la velocitat de moviment.
+upgrades.keeper4ramping4.title,Inèrcia 4
+upgrades.orchard.desc,Planta un arbre a la cúpula que fa créixer fruits per millorar el teu moviment i la teva potència minera.
+pause.restart.popup,"Vols reiniciar la partida?
+Pitja una altra vegada per confirmar-ho."
+multiplayer.error.versionmismatch,La versió del joc no coincideix amb la de l'amfitrió. Versió de l'amfitrió: {}
+assignment.condition.freegadget.plural,Dos accessoris addicionals de bon principi
+upgrades.artillerydirecthit1.title,Caça monstres 1
+options.input.controls.mouse,Ratolí
+upgrades.keeper4catgoblindig1.desc,Els gatgòblins poden excavar recursos sense destruir les caselles.
+reward.rewardpet11.title,Cérvol d'aigua de companyia
+upgrades.artillerymachinegun2.title,Foc ràpid 1
+upgrades.teslaorbs.title,Orbe elèctric
+properties.keeper2.spherespeed,Velocitat l'esfera {}
+properties.artillery.machinegunpenetration,Penetració de la bala {}
+level.station.upgrademenu.cost,Cost
+keeperdlc.load.missing,"No es pot carregar el joc guardat, conté un dlc no disponible. Si us plau, comprova que el dlc de «The Lost Keepers» està disponible."
+upgrades.drillbotstrength1.desc,Augmenta la força d'excavació de Martill.
+properties.resourcepacker.rechargetime,Durada de la recàrrega {}s
+level.converter.popup.queue.block,Aquesta conversió s'està processant i s'acabarà en {time} segons.
+properties.keeper2.maxspeed,Màx. Velocitat {}
+level.converter.popup.conversion.to,a
+upgrades.blastminingblast2.title,Explosió 2
+upgrades.suitblasterspeed1.desc,Millora com de ràpidament carrega l'explosió el teu vestit.
+options.audio.music.ost.mode.adaptive.desc,"Quan juguis amb un guardià, tan sols es reproduiran els seus temes musicals respectius."
+title.navbar.updates,Actualitzacions
+upgrades.orchardbattlerooting.title,Arrels Trampa
+options.keybindings.action,Acció
+upgrades.keeper4flexible3.title,Agilitat 3
+unlock.buy.keeperdlc,Desbloquejat pel DLC '%s'.
+upgrades.keeper4flexible2.desc,Incrementa la força i la velocitat inicial amb què mines.
+loadout.prestige.countdown,Compte enrere
+assignment.weakcarry.desc,"Les eines de transport del Guardià estan danyades, així que caldrà que et sostinguis amb els accessoris."
+upgrades.liftcarrykeeper2.title,Ascensor del Guardià 2
+upgrades.domewavecount.desc,Instal·la un comptador que mostri quantes onades heu sobreviscut.
+loadout.gadget.additional,Accessori addicional
+upgrades.prestigewatermultiplier.title,Envia aigua
+upgrades.condenser.title,Condensador
+loadout.prestige.pro.supplementorder,Ordre de Suplements
+assignment.goaltype.delivery.failed,"El teu objectiu era «{goal}», però només has entregat {amount}."
+options.keybindings.gamepad.switch,Comandament
+assignment.condition.duration,Acaba en %d cicles
+options.game.hideactionhint,Amaga pistes d'acció fora de la cúpula
+options.video.graphicsmode,Opcions de pantalla
+level.tutorial.assessor.carry.desc1_1.ps5,"Un cop bloquejats, et seguiran encara que deixis anar el botó de recol·lecció."
+assignment.goaltype.relic,Recupera la relíquia
+upgrades.stationextensionminimap.desc,Mostra un minimapa de la mina sempre que entris a l'estació mòbil. El minimapa mostra la zona descoberta i algunes caselles de roca.
+assignment.ironcontribution.title,Contribució Ferrosa
+properties.keeper4.speedupretention,Retenció de l'acceleració {.percent}
+loadout.prestige.description,Envia recursos fora del món per guanyar prestigi entre els guardians.
+upgrades.keeper3.title,Infiltrador
+properties.shield.battleactivateondepletion,Activa l'habilitat quan s'esgoti l'escut
+upgrades.jetpackspeed2.title,Velocitat 2
+properties.dome.maxhealth,Capacitat de Vida {}pv
+upgrades.drillbotstrength1.title,Força 1
+properties.artillery.grenadereloadspeed,Velocitat de recàrrega de l'obús {}s
+properties.tesla.perfecttimingmultiplier,Multiplicador de trets {.percent}
+upgrades.orchardbattleshieldstrong.desc,La coberta de vinyes s'enforteix.
+loadout.difficulty.easy.description,Una mica més indulgent en molts aspectes.
+upgrades.drillsidespeed1.title,Velocitat del perforador 1
+loadout.prestige.miner,Miner
+upgrades.keeper4catgoblindig2.desc,Els gatgòblins excaven més de pressa.
+upgrades.spireburst.title,Esclat de Foc
+options.input.vibration.strength.ps5,Intensitat de la vibració
+upgrades.swordexplosivereflection.desc,Els projectils reflectits exploten quan toquen alguna cosa.
+level.tutorial.drillbot.handling2.switch,Prem | per canviar la direcció mentre és a terra.
+loadout.mapsize.large.description,Un mapa gran per sessions de més d'una hora.
+upgrades.artillerymachinegunhoming2.desc,Utilitza coets més potents.
+upgrades.keeper3quadjump.title,Salt múltiple
+properties.artillery.grenadesexplosionradius,Radi d'explosió de l'obús {}
+upgrades.proberange2.desc,Augmenta el rang de la sonda.
+properties.drillbot.buffextraamount,{} Cops perforants addicionals
+versus.corruptionbigwave.desc,La següent onada de monstres serà enorme.
+level.tutorial.artillery.panel2content1,Mantingues | per disparar el teu canó antiaeri.
+level.tutorial.artillery.panel2content2,És bo contra enemics voladors.
+upgrades.drillwidetunnel.desc,Instal·la dos perforadors verticals addicionals creant un túnel central més ample.
+upgrades.keeper2pinballdamage4.desc,Millora les esferes cinètiques.
+level.gameover.unlock.difficulty,Nova dificultat desbloquejada!
+loadout.prestige.fairness.headline,Competició justa
+upgrades.prestigeprovoke.desc,Augmenta la força de totes les onades de monstres futures per tal de guanyar més prestigi.
+options.audio.volumes.soundvolume,Sons
+multiplayer.continue.deviceselection.keeper,Guardià
+upgrades.teslaspeed2.desc,El reticle de punteria es mou més ràpidament.
+upgrades.artillerymachinegun2.desc,Millora el canó antiaeri per disparar més de pressa.
+properties.spire.splitadditionalprojectiles,Divisió Addicional dels Projectils {.percent}
+upgrades.artillery.title,Artilleria
+level.tutorial.assessor.bundle.desc1,"Prem | mentre portes recursos, per llançar-los com a paquet."
+properties.orchard.battleabilityduration,Durada de l'Habilitat {}s
+loadout.zoom,Zoom de la càmera
+level.tutorial.assessor.bundle.desc2,Volarà en direcció cap a on apuntis fins que es dissolgui.
+options.keybindings.rebinding.inputprocessor.switch,Prem un nou Botó per a aquesta acció…
+properties.converter.irontoiron,1 de Ferro a {} de Ferro
+options.keybindings.cancel,Cancel·la
+upgrades.keeper1powerdrill.title,Trepant elèctric
+assignment.emergency.desc,El Gremi dels Guardians està en perill i necessita contribucions d'emergència. Envia-les tan aviat com puguis!
+multiplayer.host.crossplay.disabled,Joc creuat deshabilitat
+properties.upgrade.gameover,Finalitza la Partida
+loadout.mode.secondweapon.desc,Els equips amb més d'un guardià comencen la partida amb l'arma de la segona estació desbloquejada.
+telemetry.allow,Habilita els serveis en línia
+options.accessibility.vignette,Desactiva l'efecte Vinyeta
+options.game.tutorials,Tutorials
+properties.dome.autorepair,Reparació automàtica de la cúpula
+upgrades.swordreflection3.title,Reflexió 3
+upgrades.drillsidepull.desc,Els recursos excavats es mouran al voltant dels perforadors de laterals cap al centre.
+upgrades.keeper2movement4.title,Màxima rotació
+upgrades.shockwavestun1.desc,Augmenta l'habilitat d'atordiment de l'ona d'expansió.
+assignment.condition.freegadget.singular,Un accessori addicional de bon principi
+title.message.close,Tanca
+reward.rewardfreerolls2.title,Generació d'ofertes addicionals
+upgrades.orchardbattleshieldstrong.title,Coberta duradora
+upgrades.spirecapacity.title,Capacitat
+upgrades.keeper2.title,Assessor
+upgrades.keeper2movement2.title,Moviment gravitatori 2
+upgrades.furnacestrongironfiring.desc,Augmenta l'efectivitat de cremar Ferro per alentir als monstres.
+upgrades.keeper2pinballdamage3.title,Esferes cinètiques 3
+upgrades.autocannondamage1.desc,Incrementa la mida de la bala per fer més dany.
+loadout.versusmod.versusmodifiermanycaverns.desc,La mina té moltes coves naturals.
+options.game.other,Altres
+upgrades.drillsidespeed2.title,Velocitat del perforador 2
+upgrades.mushroomfarmdrill2.desc,Millora la potenciació d'excavació obtinguda en consumir bolets.
+properties.autocannon.speed,Velocitat de Moviment {}
+upgrades.keeper4flexible1.desc,"Un estil flexible de mineria que comença amb una velocitat decent, però té la força màxima més baixa."
+title.navbar.credits.close,Tanca
+level.furnace.popup.fuel.stack,Pila actual:
+upgrades.shieldstrength3.title,Força 3
+upgrades.domesupplementresurrection2.title,Una vegada més
+upgrades.artilleryprojectileerasure.desc,Les explosions del teu morter dissolen tots els projectils al voltant del radi d'impacte.
+level.gameover.assignment.completed,Felicitats! Has completat la tasca satisfactòriament. El Gremi del Guardià reconeix el teu esforç.
+properties.tesla.radius,Radi del tret {}
+properties.keeper2.bundlespeed,Velocitat dels Paquets {}
+keybindings.reset.show,Abans deixa'm donar un cop d'ull
+options.input.controls.gamepadusage,Ús del comandament
+assignment.maze.title,Laberint
+upgrades.blastminingstickycharge.desc,Les càrregues s'adhereixen a la primera paret que toquen i exploten formant un túnel en comptes de crear una explosió radial.
+properties.prestige.baseperwave,{} Prestigi Base per Onada
+level.gameover.mineview,Mostra la mina
+unlock.mapsize.medium,Guanya una partida en un mapa petit per desbloquejar.
+upgrades.teslanurture.desc,"Reforça un orbe elèctric existent disparant-li altre cop. Així, augmentarà de mida i durarà més."
+upgrades.jetpackspeed1.desc,Millora la motxilla propulsora per a moure't més ràpidament.
+upgrades.domearmormelee1.desc,Redueix el dany que rep la cúpula d'atacs cos a cos.
+loadout.prestige.friend.mode,Mode amistós
+upgrades.domearmorhealth2.title,Durabilitat de l'armadura 2
+properties.artillery.machinegundamage,Dany de les Bales {}
+upgrades.swordextendlong2.title,Estocada llarga 2
+upgrades.lasermove2.title,Velocitat de moviment 2
+upgrades.shieldstrength2.title,Força 2
+properties.keeper3.slidecontrol,{.percent} De control del lliscament
+reward.rewardpet11.desc,Desbloqueja el cérvol d'aigua com a mascota de la teva cúpula.
+properties.tesla.nurture,Sobrealimentació de l'orb
+properties.lift.speed,Velocitat de l'Orbe {}
+upgrades.lasermove2.desc,El làser es mou encara més ràpidament.
+loadout.versusmod.versusmodifierlongcycles,Cicles llargs
+options.accessibility.highlightmonsters,Ressalta els monstres
+upgrades.furnacebasedelay.desc,Millora l'efecte atordidor dels fums per un alentiment habitual pronunciat.
+upgrades.doublelaser.desc,"Instal·la un segon làser, però divideix la teva potència de foc entre tots dos."
+properties.converter.ironwatertime,Temps de la conversió de Ferro a Aigua (cicle) {}
+options.keybindings.rebinding.inputprocessor.xbox,Prem un nou Botó per a aquesta acció…
+title.message.title,Error
+upgrades.jetpackspeed4.title,Velocitat 4
+upgrades.drill2.desc,Reforça el trepant per a excavar més ràpidament.
+upgrades.extractorresources2.title,Cucs meticulosos
+unlock.buy.keeperdlc.switch,Es desbloqueja amb el contingut descarregable «%s».
+level.tutorial.assessor.split.desc1,Prem|per dividir una esfera entrant.
+upgrades.keeper2pinballdamage1.desc,Recarrega més lentament per augmentar la potència de les esferes cinètiques.
+upgrades.teleporterteleportduration2.desc,Teletransportar-te a tu mateix comportarà menys estona.
+level.tutorial.assessor.split.desc2,"Pots dividir les esferes altra vegada, però cada cop perden potència."
+options.accessibility.backgrounds,Fons de pantalla simples
+assignment.weakwalls.desc,"L'atmosfera corrosiva d'aquest planeta és letal tant per la teva cúpula, com pels monstres, provocant més dany a ambdós."
+multiplayer.error.disconnected,Desconnectat de l'amfitrió.
+properties.autocannon.timebetweenshots,Temps entre trets {}s
+upgrades.laserstrength1.desc,"Millora la potència del làser, però es mourà més lentament mentre estigui disparant."
+upgrades.artillerydirecthit4.desc,Dispara obusos especialitzats a destruir fins i tot els monstres més grossos.
+upgrades.teslapersistance3.title,Orbes persistents 3
+level.gameover.stats.timeplayed.unit,min
+level.tutorial.drillbot.sleeping3.switch,Pots fer-lo girar si prems | quan està despert.
+upgrades.autocannonshotgun1.desc,Dispara múltiples projectils que es despleguen en un patró d'escopeta.
+upgrades.probe.desc,"Afegeix una sonda al teu vestit que, quan s'activa, envia un senyal que mostra els recursos propers. S'ha de recarregar a l'estació sota la cúpula."
+upgrades.droneyardparasites.desc,Allibera drons que s'enganxen als monstres més forts que troben debilitant-los. El monstre en qüestió rebrà més dany i serà atordit contínuament.
+properties.stunlaser.trackingInCooldown,Rastreig de l'Objectiu en Temps d'Espera
+upgrades.domewavemeter.desc,Mostra el temps restant fins la propera onada de formes de vida hostils.
+properties.sword.stabexplosive,Muntada Bomba a la Punta
+loadout.gadget,Accessori principal
+properties.stunlaser.areagrowthpermonster,Creixement d'Àrea per Monstre {}
+upgrades.swordfastreflection.title,Reflexió Accelerada
+level.tutorial.assessor.explode.desc1,Prem | per fer explotar totes les esferes del teu voltant.
+reward.rewardkeeper3skin1.desc,Desbloqueja un nou aspecte de guardià per a l'infiltrador.
+properties.laser.stun,Força de l'Atordiment {}
+upgrades.resourcepackercount1.title,Mida de l'Embolcall 1
+reward.rewardkeepersupplements.desc,Descobreix suplements extremadament poderosos pel teu Guardià.
+upgrades.spirestuntrap3.desc,La trampa d'energia ara també atordeix monstres.
+upgrades.lift.desc,Instal·la un ascensor automàtic que puja els recursos extrets per al seu processament a la cúpula.
+upgrades.orchard.title,Verger
+pause.playerlist,Llista de Jugadors
+upgrades.keeper2bundle2.title,Guiatge de Paquets
+assignment.weakmining.desc,"Les eines d'excavació del Guardià estan danyades, així que caldrà que et sostinguis amb els accessoris."
+upgrades.converter.title,Convertidor de Recursos
+properties.repellent.battlemonstervulnerability,Dany Addicional als Monstres {.percent}
+level.gameover.revealresources,Revela els recursos
+upgrades.jetpackstrength3.desc,Millora la motxilla propulsora per a poder carregar més recursos.
+options.input.controls.touch.fliphud,Capgira el HUD
+properties.keeper2.bundleguide,Guiatge per Proximitat
+upgrades.furnaceironfiring.desc,Crema Ferro al forn per aconseguir un alentiment pronunciat de l'atac de monstres.
+upgrades.swordlongblade2.desc,Augmenta encara més la velocitat de la fulla fent que reboti en colpejar els marges.
+options.input.controls.mouse.keepers,Utilitza el ratolí pels guardians
+loadout.mode.domesupplements.desc,Aconsegueix tres vegades els suplements i equipa la cúpula amb tres ranures per a ells.
+reward.rewardautomatedweapons.title,Armes automatitzades
+versus.corruptionmonsterhealth.desc,Els monstres tindran molta més salut.
+upgrades.keeper3slidecontrol.desc,Obtingues un control més gran mentre llisques per les parets.
+level.station.battle.navbar.shoot,Dispara
+options.keybindings.gamepad.xbox.view.xbox,Botó de visualització
+level.gameover.win.title,LA TEVA CÚPULA S'HA SALVAT
+upgrades.versusincreasewave1.title,Sabotatge 1
+options.video.graphicsmode.borderlesswindow,Finestra sense marges
+properties.artillery.rotationspeed,Velocitat de rotació {}
+upgrades.probe.title,Sonda
+reward.rewardkeeper2skin5.desc,Desbloqueja un nou aspecte de guardià per a l'assessor.
+upgrades.artillerydirecthit4.title,Caça monstres 4
+properties.keeper4.squadcount,Nombre d'escamots {}
+upgrades.keeper3kunaicooldown3.title,Mil kunais
+upgrades.prospectionmeterrange2.desc,Augmenta encara més el rang de detecció del mesurador de prospecció.
+level.gameover.unlock.mapsize,Nova mida del mapa desbloquejada!
+loadout.prestige.friend.desc,Juga al mode prestigi en una dificultat més baixa i competeix amb amics en una taula de classificació a part.
+upgrades.jetpackstrength4.title,Força de càrrega 4
+options.input.controls.virtualjoystickopacity,Opacitat del joystick virtual
+upgrades.repellentovercharge.title,Sobrecarrega el Repel·lent
+upgrades.suitblastermaxcharge.desc,"Augmenta quantes càrregues pots emmagatzemar al teu vestit. Com més càrregues tinguis llestes, més ràpid se'n carregaran d'addicionals."
+upgrades.stationextensiontubemovement.desc,Entra a l'estació i viatja ràpidament a la cúpula mitjançant un efecte de buit. Només funciona quan cal anar cap amunt.
+upgrades.domesupplementmeleedamagereduction1.title,Enduriment de la coberta de la cúpula
+upgrades.keeper4catgoblinsleeptime.desc,Redueix la durada de les migdiades dels gatgòblins.
+upgrades.prestigespeedup.desc,Escurça el temps entre onades.
+upgrades.keeper3kunaicooldown1.title,Llançament ràpid
+upgrades.spire.title,Obelisc
+multiplayer.join.sessions,Sessions
+options.input.controls.keybindings.ps5,Assignació de botons
+multiplayer.host.crossplay.desc.xbox,El joc creuat et permet jugar amb amistats en altres plataformes.
+upgrades.teslaorbs.desc,Cada dispar deixa un electro-orbe que provoca dany amb el pas del temps i atordeix als enemics.
+upgrades.prestigeiron.desc,Envia Ferro a casa. Augmenta el nombre de punts de prestigi que obtens després de cada onada.
+properties.keeper2.explodespheres,Explotar Esferes
+level.tutorial.assessor.split.desc1.switch,Prem|per dividir una esfera entrant.
+properties.artillery.machinegunhoming,Míssil
+upgrades.spirespeedup.desc,Disminueix el temps entre trets.
+level.tutorial.drillbot.handling1,Mantingues | per agafar de nou en Martill.
+keybindings.reset.doreset.xbox,Reinicia l'assignació de botons
+level.tutorial.drillbot.handling2,"Prem | per canviar la direcció, si és a terra."
+upgrades.artillerysplash1.desc,Millora el teu morter per disparar obusos que tenen un radi d'explosió més ampli.
+upgrades.shockwave.desc,Instal·la dos martells a la cúpula que creen ones de xoc intenses. Cal activar-lo manualment.
+options.game.blocklist.unblock,Desbloqueja
+properties.drillbot.buffamount,{} Cops perforants enèrgics
+upgrades.teslaorbdamage.desc,"Els orbes condueixen molta més electricitat, causant molt més dany amb el temps."
+loadout.versusmod.versusmodifierconcentratediron.desc,"Els dipòsits de ferro són escassos, però molt grans."
+upgrades.keeper4squad2.title,Escamot gran
+upgrades.keeper4flexible1.title,Agilitat
+upgrades.swordreflection3.desc,Màxima mida de la coberta protectora.
+unlock.prestige.promode,Desbloqueja guanyant una partida amb una puntuació de prestigi de com a mínim 1000.
+loadout.mapsize.huge,Enorme
+upgrades.artillerymachinegunhoming1.desc,Substitueix les bales per coets intel·ligents que automàticament modifiquen el rumb per impactar els monstres.
+upgrades.repellentovercharge.desc,"Empra aigua per sobrecarregar el teu repel·lent, millorant l'habilitat d'aquest en combat."
+loadout.prestige.pro.caveorder,Ordre de la Cova
+upgrades.spiresplit2.title,Divisió Ràpida
+properties.laser.bend,apuntat automàtic del làser {}°
+modding.modio.ugcterms.link1,Condicions d'ús
+upgrades.drillmagnetic.title,Tubs de revestiment magnètics
+assignment.condition.deliveremergency,Completa %d entregues d'emergència
+modding.modio.ugcterms.link2,Política de privacitat
+assignment.denseiron.desc,"El ferro en aquest planeta és especialment dens, això el fa difícil de minar."
+level.station.upgrademenu.inventory,Inventari
+upgrades.repellentbattleslowdownstun1.desc,"Utilitza espores volàtils a la boira per atordir monstres, fent que s'aturin durant una estona."
+upgrades.spirestuntrap2.title,Trampa de Catalitzador
+properties.blastmining.radius,Radi de l'explosió (caselles) {}
+loadout.prestige.cobalt,Cobalt fixat
+upgrades.spireautonomy1.title,Autonomia
+upgrades.suitblastermaxcharge.title,Més càrregues
+upgrades.stunlaserspeed2.desc,El làser atordidor es mou encara més ràpid i manté el seguiment dels monstres mentre es recarrega.
+properties.suitblaster.maxcharge,Màxim nombre de càrregues {}
+upgrades.prospectionmetergadget.desc,Mostra la distància fins a l'accessori o la cambra de commutació de la relíquia més propera.
+properties.spire.rechargetime,Temps de Recàrrega {}s
+assignment.monstermasses.desc,El planeta està plagat d'una quantitat majúscula de monstres de baixa estofa.
+telemetry.title.ps5,Acord de llicència per a l'usuari final
+properties.condenser.autoovercharge,Sobrecàrrega Automatitzada
+assignment.rareiron.desc,El planeta conté massa poc Ferro per a una operació d'excavació normal.
+level.converter.popup.title,Converteix Recursos
+upgrades.chainsaw.desc,"Instal·la una Serra circular al voltant de la cúpula, provocant dany als monstres propers."
+versus.inventory.title,Informació de l'altre equip
+loadout.versusmod.versusmodifiernorelics.desc,La mina no té cap relíquia.
+level.gameover.stats.wavessurvived,Onades sobreviscudes
+upgrades.stunlaserduration1.title,Resistència als Trets 1
+upgrades.resourcepackercount1.desc,Augmenta quants recursos poden ser empaquetats en un sol embolcall.
+level.tutorial.teleporter.carry3.switch,"Si prems |, et teleportes de tornada."
+gadget.slot.domesurface,Superfície de la Cúpula
+upgrades.converterirontocobalt.title,Conversió de Cobalt
+options.audio.music.ost.mode.desc,Cada guardià compta amb el seu propi ventall de temes musicals. Pots escollir quan es reprodueixen.
+assignment.condition.deliversand,Entrega %d de cobalt
+options.accessibility.photosensitivity.explanation,Redueix les llums intermitents.
+upgrades.keeper2bundle4.desc,Els paquets de recursos es mouen més de pressa i romanen junts més temps.
+upgrades.domesupplementmeleedamagereduction2.title,Enduriment intens
+reward.rewardcentralmarker.title,Marcador central
+upgrades.repellentbattleslowdown.desc,Escampa una boira soporífera durant la batalla per alentir tots els monstres.
+options.game.splitscreenfontscale,Mostra el text més gran a la pantalla partida
+upgrades.blastminingimpactdetonation.title,Detonació per impacte
+loadout.relichunt.title,Escull un escenari
+upgrades.assignmentsemergencycontribution2.title,Contribució d'emergència 4
+upgrades.stunlaserspeed1.desc,El làser atordidor es mou més de pressa.
+upgrades.keeper2movement2.desc,Millora el teu generador de gravetat per moure't encara més ràpid.
+loadout.prestige.pro.customorder,ordre personalitzat
+options.translation.community.desc.seavenplatforms,Aquests idiomes han estat traduïts per la nostra meravellosa comunitat a Crowdin.
+properties.shield.battledestructionprevention,Durada Addicional {}s
+upgrades.spirespeedup.title,Refrigeració Millorada
+upgrades.shieldovercharge.title,Sobrecarregar l'Escut
+level.tutorial.station.popup_4.switch,"Tot seguit, prem | per entrar en mode de combat i defensa."
+options.keybindings.action.keeper.drop,Amollar
+options.accessibility.vignette.explanation,Desactiva la vinyeta que enfosqueix el contorn de la pantalla als nivells més profunds de la mina.
+upgrades.keeper4speed3.title,Velocitat de moviment 3
+title.navbar.splitscreen,Local en pantalla partida
+upgrades.extractorquickextraction.title,Cucs ràpids
+pause.disconnect,Desconnecta
+properties.map.ironadditionalhealth,Duresa del Ferro addicional {}
+properties.keeper2.reflectlifetime,Vida útil de l'Escut de Reflexió {}s
+loadout.versusmod.versusmodifiersoftrock,Roca tova
+upgrades.repellentoverchargeduration1.title,Sobrecàrrega millorada
+upgrades.teleporterteleportitems.desc,"Teletransporta qualsevol cosa que duguis amb tu, tret de recursos i objectes grans."
+upgrades.shieldstrength2.desc,Augmenta encara més el dany que pot absorbir l'escut.
+unlock.mapsize.large,Guanya una partida en un mapa mitjà per desbloquejar.
+upgrades.shieldoverchargestrength2.desc,Augmenta encara més el dany que pot absorbir l'escut sobrecarregat.
+properties.drill.extensionspeed,Velocitat de l'extensió lateral {}
+properties.mushroomfarm.growthtime,Temps de creixement (cicles) {}
+upgrades.drillbotbuff1.desc,Les llepolies creixen al niu a sota la cúpula. Porta'ls a en Martill qui se les empassarà ben content per sentir-se amb més energia.
+properties.repellent.battleslowdown,Alentiment del Monstre {.percent}
+level.station.upgrademenu.buy,Compra
+keybindings.reset.title.switch,Reinici de la configuració dels botons
+title.navbar.multiplayer.join,Uneix-te a una partida multijugador
+multiplayer.host.crossplay.desc,"El joc creuat et permet jugar amb amistats en altres plataformes. Per exemple, els jugadors de PC i consoles poden jugar plegats."
+properties.probe.range,Rang (caselles) {}
+modding.modio.connectionfailed,La connexió a mod.io ha fallat!
+properties.dome.resurrectcharges,Resurreccions restants {}
+upgrades.mushroomstack.title,Bolets apilats
+multiplayer.error.lobby.join,Error en unir-te a la sala d'espera.
+pause.title,PAUSA
+level.furnace.popup.fuel.cycles,Cicles restants: {cycles}
+level.gameover.unlock.gamemodevariant,Nova Variant del Mode de Joc
+upgrades.keeper2movement3.title,Moviment gravitatori 3
+upgrades.keeper3kunaicooldown2.desc,Llança kunais més ràpidament.
+upgrades.repellentbattledamageovertime.title,Fums Tòxics
+reward.rewardfreerolls1.title,Torna a generar ofertes
+assignment.superhardrockwithholes.title,Formatge suís
+modding.restartneeded,Necessites reiniciar el joc perquè els modificadors funcionin com cal.
+upgrades.versusshowinventory.title,Espia d'inventari
+level.tutorial.assessor.carry.desc1,Mantingues | per agafar recursos fins que els tinguis bloquejats.
+level.tutorial.assessor.carry.desc2,Prem| per disparar-los com un paquet en la direcció on apuntes.
+demo.unavailable,No disponible a la Demo
+assignment.harmfuliron.desc,"El ferro del planeta és perillosament reactiu, danyarà la teva cúpula quan es trituri."
+upgrades.keeper4flexible4.title,Agilitat 4
+properties.dome.reducedhealth,Salut perduda {}pv
+upgrades.keeper4catgoblinamount.desc,Cria més gatgòblins per ajudar-te a la missió.
+properties.keeper2.spherebasedamage,Dany Base de l'Esfera {}
+level.gameover.showimages,Obre
+properties.keeper4.maxpunchdelay,Cop més lent {}s
+upgrades.converterironduplication.desc,Torna una mica de Ferro en una bona pila de Ferro.
+upgrades.liftorbless.title,Ascensor gravitacional
+upgrades.artilleryshotstun.desc,Disparar el morter és tan poderós que els monstres del voltant queden atordits una estona.
+upgrades.keeper4squadsmarts.title,Excavació intel·ligent
+options.video.graphicsmode.enablevsync,Activa VSync
+upgrades.repellentdelay3.desc,Incrementa encara més l'endarreriment de la propera onada de monstres.
+properties.spire.splitshotground,Gir de 360°
+upgrades.autocannonrateoffire3.desc,Maximitza la cadència de tir.
+upgrades.furnacebasedelay.title,Fums atordidors
+properties.sword.stabcooldown,Temps d'Espera de l'Extensió {}s 
+upgrades.resourcepacker.title,Empaquetador de recursos
+properties.probe.permanentrevealrock,Mostra roca de forma permanent
+upgrades.prestigeprovoke.title,Provoca als Monstres
+loadout.hint.teams,"Cada equip necessita, com a mínim, un jugador!"
+upgrades.proberange1.title,Rang mitjà
+upgrades.condenserautocollect.desc,"Automatitza la recollida d'aigua, eliminant la necessitat de recollir-la manualment."
+title.navbar.continue,Continua
+upgrades.drillbotbuffguidance.title,Esperant una llepolia
+options.video.stretchmode.rezised,Redimensionat
+upgrades.shieldbattlereflectspeed.desc,"Els projectils rebotats volen cap a l'origen a una velocitat superior, augmentant les possibilitats d'escometre l'atacant situat al mateix angle de reflexió."
+properties.keeper2.spherebaselifetime,Vida Útil de l'Esfera {}s
+properties.resourcepacker.packscale,Mida de la disminució {.percent}
+properties.chainsaw.speed,Velocitat de moviment {}
+properties.probe.rechargetime,Temps de Recàrrega Completa (cicles) {}
+upgrades.blastminingblast1.title,Explosió 1
+upgrades.liftcarrykeeper1.title,Ascensor del Guardià 1
+loadout.mode.longtime,Cicles Llargs
+options.keybindings.action.dome.secondary,Habilitat secundària
+upgrades.extractor.title,Cucs de Ferro
+level.tutorial.assessor.reflect.desc2,"Les esferes entrants es veuran reflectides per ella, i també les potenciarà."
+options.keybindings.keyboard,Teclat
+level.tutorial.assessor.reflect.desc1,Prem|per canviar a un camp reflectant al teu voltant.
+level.tutorial.beastmaster.move,Moviment
+level.gameover.automove,Càmera automàtica
+upgrades.keeper4punch4.title,Frenesí 4
+properties.shockwave.damagemod,Dany addicional {.percent}
+upgrades.drillbotsleepless.desc,Martill treballarà durant molt més temps abans d'adormir-se.
+upgrades.keeper2pinballexplode.desc,Allibera l'energia cinètica i detona totes les esferes del teu voltant.
+reward.rewardpermanentwavemeter.title,Detector de proximitat d'enemics permanent
+upgrades.keeper3shurikencooldown1.desc,Redueix encara més el temps de recàrrega del shuriken.
+upgrades.droneyard.title,Pati de drons
+level.gameover.unlock.promode,Mode prestigi professional desbloquejat!
+upgrades.swordextendlong2.desc,Millora encara més la força de les estocades i la precisió del control en ple vol.
+upgrades.drillbotturnaround.desc,"Quan es trobi amb una paret indestructible, en Martill es girarà en comptes de fer una becaina."
+loadout.prestige.fairness.desc,"Ens encanta veure els jugadors de prestigi competir per les puntuacions més altes i trobar cada cop millors estratègies. Volem mantenir aquesta competició justa i divertida, així que és important que tothom jugui amb les mateixes condicions.
+
+Si us plau, entengueu que les vostres partides es poden marcar com a inadmissibles o es poden suprimir, si sembla que feu trampes amb eines o errors del joc.
+Definim les trampes com qualsevol cosa que us proporcioni un benefici tangible en la vostra partida de prestigi que no és possible mitjançant situacions de joc normals. Això inclou coses com ara l'edició o la visualització del joc desat, la recàrrega excessiva, l'ús de modificacions que no estan a la llista blanca o l'ús intencionat i repetit d'errors.
+És possible que us impedim, de manera permanent, de competir a les taules de classificació habituals, si sembla que en la vostra partida heu fet un ús destacat de trampes.
+
+Si no esteu segurs de si alguna cosa es considera il·legal, pregunteu-ho al nostre Discord o per correu electrònic a dome@bippinbits.com. Sempre podeu apel·lar si creieu que us hem marcat incorrectament.
+
+Divertiu-vos!"
+assignment.emergency.title,Emergència
+upgrades.droneyardbattlegridlong2.title,Horda de drons
+properties.orchard.battleabilityuses,Usos per batalla {}
+loadout.difficulty.easy,Difícil
+level.tutorial.mineraltree1,"Acabes de trobar la llavor d'un arbre mineral. Pot convertir-se en un arbre que arrela en caselles. Crearà recursos en funció de les caselles on hagi arrelat.
+Deixa'l caure en una casella per plantar la llavor."
+options.keybindings.action.keeper.pickup,Recull
+gadget.slot.domebackside,Dors de la Cúpula
+assignment.megacreeps.desc,Aquest planeta està habitat només pels monstres més grans i poderosos.
+options.keybindings.rebinding.error.gamepad.switch,No es pot establir com a entrada del control.
+modding.profile.new,Perfil nou
+upgrades.suitblasterspeed2.desc,Millora com de ràpidament carrega l'explosió el teu vestit.
+properties.domearmor.pulsedamagethreshold,Llindar de dany polsant {}
+options.game.autopause,Pausa en minimitzar la pantalla
+savegame.wiped.desc,"Tots els teus arxius guardats estan danyats, segurament degut a una errada del sistema durant el guardat. No es pot restaurar el progrés.
+Comprova si pots restaurar les teves partides guardades a través de l'emmagatzematge al núvol. Si no és possible, el progrés s'haurà perdut de forma permanent."
+properties.shield.maxstrength,Força {}pv
+level.tutorial.ninja.rope.desc1,Mantingues| per llançar la teva corda a la direcció on apuntes amb el teu %s.
+level.gameover.unlock.gadgetability,Nova Habilitat de Batalla de l'Accessori
+level.tutorial.ninja.rope.desc2,Mantén per saltar.
+upgrades.repellent.desc,"Instal·la un dipòsit que produeix un líquid repel·lent de monstres. Activa'l per ruixar l'exterior de la cúpula, endarrerint la propera onada d'atacants."
+modding.modio.report,Informa sobre un mod
+properties.artillery.directhitdamage,Dany d'un impacte directe {.percent}
+upgrades.spireprojectileslowdown.title,Alentiment de projectils
+properties.keeper2.bundleduration,Temps de vida dels Paquets {}s
+upgrades.domesandrepair.title,Reparació amb cobalt
+upgrades.assignmentsemergencycontribution3.desc,Envia aquest paquet abans que acabi la 7a onada o fracassaràs en aquesta missió.
+upgrades.stunlaserduration3.title,Resistència als Trets 3
+properties.orchard.battleshields,Capes d'Escut: {}
+options.video.brightness,Brillantor
+demo.end.misc1,El mode competitiu: «Prestigi» amb 4 variacions
+upgrades.droneyarddrones.desc,Construeix un dron addicional per transportar recursos.
+demo.end.misc3,Més accessoris principals
+options.game,Joc
+loadout.mode.longtime.desc,"Tens el doble de temps entre onades de monstres, però les onades seran més fortes."
+demo.end.misc2,Diferents missions desafiants
+demo.end.misc5,Més coves
+demo.end.misc4,Més mides de mapa
+upgrades.orchardduration2.title,Durada 2
+reward.rewarddomesupplements.title,Suplements de la Cúpula
+demo.end.misc6,Més monstres
+upgrades.keeper2rotationalmining1.desc,Obvia la duresa del material i mina la roca a velocitat constant.
+upgrades.droneyardbattlegridquick2.desc,"Allibera tots els drons molt de pressa, tenint-los llestos abans de la batalla."
+loadout.choices.comingsoon,"No disponible encara, però aviat."
+properties.keeper2.splitlifetime,Vida Útil de l'Esfera Dividida {.percent}
+options.input.controls.mouse.sword,Utilitza el ratolí per controlar el moviment de l'espasa de la cúpula
+level.tutorial.beastmaster.goblins.desc1,Mantingues | per fer un forat a la paret per tal que els teus gatgòblins entrin a la mina.
+upgrades.drill3.desc,Reforça el trepant per a excavar més ràpidament.
+upgrades.jetpackstrength3.title,Força de càrrega 3
+upgrades.laserstrength3.title,Potència 3
+level.tutorial.beastmaster.goblins.desc2,Ajuden a recollir els recursos a prop del forat.
+upgrades.domesupplementresurrection1.title,Resurrecció de la cúpula
+loadout.mapsize.small.description,Un mapa petit per a sessions més curtes.
+upgrades.proberange2.title,Rang llarg
+reward.rewardkeeper2skin5.title,Aspecte d'assessor
+upgrades.jetpackspeed2.desc,Millora la motxilla propulsora per a moure't més ràpidament.
+upgrades.artilleryrotation2.desc,Gira més de pressa el teu morter.
+upgrades.domesupplementcombatrepair3.title,Reparació de combat ràpida
+reward.rewardkeeper4skin3.desc,Desbloqueja un nou aspecte de guardià per al mestre de les bèsties.
+multiplayer.host.splitscreen.desc.xbox,Inclou comandaments a la configuració per invocar guardians addicionals. Fins a quatre guardians poden compartir una mateixa pantalla. Es pot combinar amb el multijugador en línia.
+upgrades.keeper2pinballdamage2.desc,Augmenta encara més el temps de recàrrega per aconseguir esferes cinètiques més potents.
+level.tutorial.ninja.rope,Corda
+options.keybindings.rebinding.error.keyboard,No es pot establir com a entrada de teclat.
+upgrades.domesupplementcombatrepair2.desc,"La reparació automàtica és més potent, restaurant una major salut estructural."
+properties.dome.baserepair,Repara {}pv
+properties.repellent.growthtime,Temps de Producció (cicles) {}
+properties.keeper.domefuel,Afegeix carburant {}
+options.accessibility.critters,Desactiva la fauna
+level.tutorial.assessor.reflect.desc1.switch,Prem|per canviar a un camp reflectant al teu voltant.
+upgrades.probelongmarker2.title,Marcadors duradors
+upgrades.converterefficientwater.title,Conversió Eficient d'Aigua
+upgrades.assignmentssendcobalt.title,Entrega Cobalt
+properties.monsters.waveinterval,Temps entre Onades {}s
+options.keybindings.rebinding.error.gamepad,No es pot establir com a entrada de comandament.
+options.input.gamepad.twinstick.ps5,Control de doble palanca
+properties.extractor.units,Cucs produïts {}
+loadout.mode.doubleiron.desc,Els dipòsits de ferro són molt més rics.
+telemetry.title,Habilites el mode multijugador en línia?
+multiplayer.host.local.desc,Jugadors de la teva xarxa local s'hi poden unir.
+properties.laser.dps,Dany {}
+level.tutorial.assessor.spheres.desc1.switch,Prem| per disparar una esfera cinètica en la direcció on mires.
+upgrades.spirecapacity.desc,Incrementa els trets que es poden fer abans que calgui recarregar.
+upgrades.doublelaser.title,Làser doble
+options.keybindings.text,"Edita l'assignació de controls com més t'agradi.
+En general, accions de diferents seccions del joc es poden configurar en una mateixa tecla (per exemple, pots utilitzar les mateixes tecles per a moure al guardià i l'arma de la cúpula)."
+properties.repellent.battleabilityduration,Durada de l'Habilitat {}s
+options.input.controls.keybindings.switch,Assignació de botons
+options.keybindings.gamepad.xbox.menu,Inicia
+upgrades.shieldstrength1.title,Força 1
+properties.converter.watertoiron,1 D'aigua a {} de ferro
+upgrades.stunlaserstun2.title,Força de l'Atordiment 2
+upgrades.drillbotstrength2.desc,Augmenta la força d'excavació de Martill.
+upgrades.dome1.title,Cúpula làser
+options.keybindings.rebinding.error.gamepad.xbox,No es pot establir com a entrada del control.
+loadout.assignment.shop,Recompenses del Gremi dels guardians
+upgrades.orchardbattlerootingmore.desc,Fa créixer més arrels que duren més.
+loadout.abort,Cancel·lar
+exhibition.level.instruction,Prem qualsevol tecla per seguir jugant!
+upgrades.converterefficientwater.desc,Millora la conversió perquè sigui més eficient.
+upgrades.teslapower4.desc,Millora la potència del tret de tesla.
+properties.spire.splitshot,Divideix Projectils
+assignment.weakwalls.title,Alt risc
+title.navbar.quit,Surt a l'Escriptori
+upgrades.autocannonrateoffire1.desc,Augmenta la cadència de tir.
+upgrades.laserstrength3.desc,"Millora moltíssim la potència del làser, però pràcticament no es mourà mentre estigui disparant."
+loadout.mode.automateddefense.desc,"Comença amb tots els accessoris defensius i d'autonomia, però sense una arma principal. Deixa que la teva cúpula faci la feina!"
+level.gameover.prestige.score.rankunchanged,Cap canvi al rang.
+properties.keeper2.directmininghardness,Influència de la Duresa de la Roca {.percent}
+level.gameover.retry,Comença una altra partida
+options.input.controls.keybindings.button.xbox,Canvia l'assignació de botons
+upgrades.keeper4autospawnminers.title,Escamot amb ganes
+modding.modio.declined,"Si us plau, accepta les condicions si vols accedir als mods"
+upgrades.repellentoverchargeduration1.desc,Augmenta l'impacte de la sobrecàrrega a les habilitats de batalla.
+upgrades.assignmentsemergencycontribution5.title,Contribució d'emergència 16
+upgrades.keeper2pinballdamage2.title,Esferes cinètiques 2
+upgrades.teslaspeed3.desc,El reticle de punteria es mou més ràpidament.
+upgrades.domesupplementmeleedamagereduction2.desc,Reforça encara més la coberta per rebre encara menys dany dels atacs a curta distància.
+properties.extractor.processingtime,Duració de l'extracció {}s
+upgrades.keeper3.desc,Un guardià àgil que es mou de pressa amb una corda i salts dinàmics. Mina llançant un kunai explosiu.
+assignment.acidrain.title,Pluja àcida
+upgrades.droneyardparasites3.desc,Millora encara més l'impacte debilitant dels teu drons parasitaris.
+upgrades.domesupplementelectrifiedsurface1.desc,"Afegeix una capa electrificada i reactiva a la coberta de la cúpula, que danya els monstres que ataquen a curta distància."
+unlock.buy.keeperdlc.ps5,Desbloquejat pel complement '%s'.
+upgrades.keeper3shurikenstrength2.desc,Augmenta encara més el poder d'explosió del shuriken.
+upgrades.teslapower3.title,Potència del tret 3
+upgrades.stationextensionrevealdistance2.desc,Augmenta la distància per la qual els recursos i la roca al voltant de l'estació són revelats.
+upgrades.keeper3shurikencooldown2.title,Shuriken incessant
+properties.orchard.buffduration,Duració de la potenciació (cicles) {}
+loadout.prestige.provocation.description,"Provoca als monstres per generar onades més fortes i guanyar més prestigi. El multiplicador disminueix a cada cicle, i la partida acaba si decreix per sota del zero."
+level.tutorial.probe.popup_1,Prem | per emetre un impuls de sonda.
+level.tutorial.repellent.popup_2.switch,"Quan estiguis a prop, prem | per activar-ho."
+multiplayer.join.profile,Perfil
+level.tutorial.probe.popup_3,"Mostra alguns dels recursos propers.
+Recarrega-ho a l'estació."
+level.tutorial.repellent.popup_1,El repel·lent està preparat per retardar la propera onada.
+upgrades.keeper4ramping2.desc,"Incrementa la teva força de mineria, la velocitat màxima i la retenció de la inèrcia."
+options.game.kunaicarrierbeforegadgets,Llança el transportador kunai abans dels accessoris
+properties.probe.permanentrevealresources,Mostra recursos de forma permanent
+upgrades.keeper2bundle4.title,Paquet Potent
+options.audio.volumes.musicvolume,Música
+options.input.controls.useindividualsettings,Utilitza la configuració individual del guardià
+upgrades.keeper4squadsmarts.desc,Els escamots de mineria prioritzen les tessel·les especials i les que estan a prop dels recursos.
+upgrades.domesupplementscraprepair2.title,Restauració
+upgrades.orchardduration3.desc,Durada màxima dels efectes de la fruita.
+options.input.controls.touch,Tàctil
+level.gameover.keepgadget.none,Cap
+upgrades.stunlaserautonomy1.title,Autonomia
+upgrades.swordexplosivereflection.title,Reflexió Explosiva
+upgrades.probelongmarker1.desc,"Millora la memòria del mòdul de la sonda, mostrant els marcadors durant molta més estona."
+upgrades.resourcepackercharges.desc,Augmenta quantes càrregues d'empaquetatge pots portar al vestit.
+options.keybindings.action.dome.fire,Dispara
+upgrades.drilladditionalsides.desc,Obté més perforants laterals amb la mateixa funcionalitat que el primer.
+loadout.difficulty.veryeasy.description,"No és que sigui fàcil, però és més relaxada que les altres dificultats."
+properties.stunlaser.stunstrength,Força de l'Atordiment {}
+properties.resourcepacker.packcount,Mida dels paquets {}
+upgrades.keeperonewayteleporter.title,Teletransportador de direcció única
+upgrades.keeper3kunaidamage4.title,Impacte de kunai
+upgrades.drill4.title,Força del trepant 4
+options.game.directionsnapping,Enganxa l'apuntat del guardià als punts cardinals
+upgrades.artillerymachinegun3.title,Foc ràpid 2
+upgrades.stunlaserspeed2.title,Velocitat 2
+properties.artillery.machinegunreloadspeed,Velocitat de recàrrega de la bala {}s
+options.game.screenshake,Sacsejada de pantalla
+upgrades.proberechargeafterbattle.desc,"La sonda es recarrega automàticament amb el pas del temps, tornant obsoleta l'estació de recàrrega. Allibera l'espai ocupat al soterrani."
+upgrades.jetpackstrength2.title,Força de càrrega 2
+loadout.versus.condition.irondelivery.title,Lliurament de ferro
+upgrades.teslaspeed4.desc,El reticle de punteria es mou més ràpidament.
+level.assignment.badges.toggle,Guanya insígnies desbloquejant encàrrecs. Gasta insígnies en recompenses del gremi de Guardians. Pots desactivar les recompenses després de comprar-les si vols jugar sense elles.
+loadout.versus.wincondition,Condició de victòria
+upgrades.converterefficientwatershort.title,Tractament àgil
+properties.keeper2.directminingdamage,Dany per mineria de compressió {}
+upgrades.assignmentssendiron.desc,"Entrega ferro al Gremi del Guardià. Per tenir èxit en la tasca, has de retornar totes les entregues disponibles."
+upgrades.keeper3carrylimit1.title,Capacitat de càrrega 1
+assignment.goaltype.survive,Sobreviu
+upgrades.shield.title,Escut
+level.station.battle.navbar.stabspeedup,Velocitat d'estocada
+upgrades.keeper3quadjump.desc,Fes fins a tres salts addicionals mentre ets a l'aire.
+properties.artillery.gunaimline,Mira làser
+properties.domearmor.pulsestunduration,Durada de l'atordiment polsant {}s
+level.tutorial.assessor.carry.desc2.switch,Prem|per disparar-los com un paquet en la direcció on mires.
+level.tutorial.ninja.carry.desc1.switch,Prem| per llançar un kunai que transporta recursos en la direcció en què apuntes amb el %s.
+upgrades.orchardovercharge.desc,"Utilitza aigua per sobrecarregar el teu verger, fent que sigui més ràpid produir una fruita."
+upgrades.missile.abilityname,Míssil
+upgrades.resourcepackercount2.desc,Augmenta quants recursos poden ser empaquetats en un sol embolcall.
+assignment.bigmapsparseresources.desc,"Els recursos són escassos i ben separats en aquest gran planeta, però la roca és molt brèvola."
+properties.spire.stuntrap,Trampa d'Energia
+playerlist.block,Bloqueja
+level.tutorial.sworddome.stabbing.desc,Estén l'espasa i enfila els enemics llunyans.
+properties.sword.sliceacceleration,Velocitat de l'Espasa {}
+loadout.team.join,Uneix-te
+assignment.weapondefect.desc,"L'arma principal de la teva cúpula està destruïda, així que caldrà que sobrevisquis d'una altra manera."
+upgrades.repellentbattlehealthreduction.title,Marcir
+loadout.versusmod.versusmodifiertoughstart,Inici dur
+title.navbar.multiplayer,Multijugador
+keybindings.reset.title.xbox,Reinici de la configuració dels botons
+upgrades.extractorquickextraction.desc,"Evoluciona els teus cucs per ser hiperactius, extraient vetes de Ferro més ràpidament."
+upgrades.mushroomfarmquickgrowth.title,Creixement accelerat
+upgrades.repellentbattlehealthreduction.desc,Debilita tots els monstres fent que rebin més mal quan els colpeja.
+loadout.versusmod.versusmodifierstrongmonsters,Monstres sans
+leaderboard.failed,La càrrega de la taula de classificacions ha fallat.
+properties.sword.reflectprojectilesexplosive,Els Projectils d'Energia Reflectits són explosius
+level.station.navbar.upgrades,Millores
+upgrades.artillerymachinegun3.desc,Millora el teu canó antiaeri.
+level.gameover.unlock.pet,Nova mascota desbloquejada!
+upgrades.domesupplementelectrifiedsurface2.title,Coberta electrificada 2
+upgrades.keeper3shuriken2.desc,Redueix el temps de recàrrega del shuriken perquè el puguis llançar amb més freqüència.
+upgrades.artillerysplash2.desc,Dispara dos obusos de morter en una successió ràpida.
+loadout.mode.hud,INTERFÍCIE
+upgrades.keeper4flexible2.title,Agilitat 2
+upgrades.shieldbattlereflectshortuses.desc,Reflexa més sovint per un període de temps més curt.
+upgrades.rocketlauncherdamage2.title,Míssils mortals
+upgrades.domesupplementscraprepair1.title,Reparació amb ferralla
+upgrades.keeper2bundle3.title,Centre de Gravetat
+upgrades.keeper2bundle2.desc,Permet el control direccional d'un paquet llançat a curta distància
+upgrades.keeper3shurikencooldown2.desc,Redueix encara més el temps de recàrrega del shuriken.
+upgrades.suitblaster.title,Desintegrador integrat al vestit
+upgrades.prestigeiron.title,Enviar ferro
+properties.stunlaser.cooldown,Temps d'espera {}s
+options.input.controls.keepersettings.desc,"Per defecte, els guardians utilitzen la configuració global. Aquí la pots substituir amb una configuració específica per a cada guardià.
+Per exemple, pot ser que vulguis una configuració diferent segons el guardià o l'acció que duguis a terme."
+options.keybindings.action.keeper.gravityball,Dispara
+upgrades.liftorbs.desc,Instal·la un orbe de càrrega addicional.
+options.input.controls.mouse.gamepad,El canvi a un control o a un altre es detecta automàticament.
+properties.probe.detectchambers,Detecta cambres
+landing.proceed.ps5,Prem qualsevol tecla per continuar
+upgrades.condenserautocollect.title,Recol·lecció Automàtica
+multiplayer.error.hostcrossplaydisabled,No et pots unir a la sala per què l'amfitrió té el joc entre plataformes deshabilitat i és en una plataforma diferent.
+upgrades.repellent.title,Repel·lent
+loadout.team.color,Color de l'equip
+options.game.tutorials.resettutorials,Reinicia tutorials
+options.accessibility.critters.explanation,"Elimina els cucs, insectes i aranyes que apareixen per la mina com efectes visuals."
+upgrades.prospectionmeterrange1.desc,Augmenta el rang de detecció del mesurador de prospecció.
+upgrades.drillsidepull.title,Transportació de minerals
+options.accessibility.highlightmonsters.explanation,Afegeix un contorn blanc als monstres per a millorar-ne la visibilitat.
+upgrades.keeper2bundle1.desc,Mostra un marcador directament a sota de la cúpula per indicar on disparar els paquets.
+upgrades.assignmentsemergencycontribution6.title,Contribució d'emergència 20
+upgrades.keeper4ramping3.title,Inèrcia 3
+upgrades.swordblade1.desc,Millora la força de tall i la velocitat de l'espasa.
+upgrades.probedetectchambers.title,Detecta Cambres
+loadout.mode.shortcycles,Cicles curts
+upgrades.proberange3.desc,Augmenta el rang de la sonda.
+upgrades.prestigespeedup.title,Escurçar els Cicles
+loadout.prestige.endless.description,Cap límit en temps o recursos per a partides molt llargues.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"Ajusta el valor perquè el mesurador no parpellegi quan només toquis les palanques, sense empènyer-les.
+El mesurador hauria de parpellejar quan moguis la palanca."
+upgrades.blastminingblast3.title,Explosió 3
+upgrades.swordextendlong1.desc,Millora la força de les estocades i el control de l'espasa en ple vol.
+properties.autocannon.rateoffire,Ritme de foc {.percent}
+upgrades.assignmentsemergencycontribution4.title,Contribució d'emergència 11
+assignment.minorvision.desc,Les ombres fosques d'aquest planeta consumeixen tota llum.
+options.audio.volumes,Volums
+unlock.host.locked.ps5,L'amfitrió no té el complement «%s».
+loadout.versusmod.versusmodifiershortcycles.desc,S'escurça el temps entre onades de monstres.
+upgrades.keeper2pinballexplode2.title,Explosió Millorada
+multiplayer.host.local,Local
+options.video.graphicsmode.fullscreen,Pantalla completa
+properties.keeper3.kunaidamage,Dany del kunai {}
+options.game.screenshake.shakewhenmining,Sacseja Mentre Mines
+upgrades.dome2.title,Cúpula Espasa
+properties.autocannon.damage,Dany de les Bales {}
+loadout.mode.doubleiron,Quantitat de ferro
+upgrades.keeper4punch1.title,Frenesí
+level.gameover.unlock.versus,Mode Versus desbloquejat!
+upgrades.artillerydoublemachinegun.desc,Col·loca un segon canó al canó antiaeri de la teva cúpula.
+level.converter.popup.conversion.time,durant {time} cicles
+options.translation.title,ESCULL EL TEU IDIOMA
+loadout.prestige.pro.title,Configuració personalitzada
+multiplayer.host.title,Crea una sessió multijugador
+properties.keeper4.movespeed,Velocitat de moviment {}
+options.input.gamepad.thumbstick.xbox,Palanca
+upgrades.furnacelastingironfiring.title,Combustible durador de Ferro
+upgrades.shieldoverchargestrength1.title,Sobrecarrega la Força de l'Escut 1
+multiplayer.error.modsmismatched,La teva llista de mods no coincideix amb la del anfitrió. No t'hi pots unir.
+upgrades.laserhitprojectiles.desc,"Quan el làser impacta amb un projectil, el dissol immediatament."
+upgrades.probepermanentrevealtiles.desc,Tota l'àrea que escaneja la sonda es manté revelada permanentment.
+options.keybindings.action.keeper.jump,Salta
+upgrades.repellentdelay2.title,Retard 2
+upgrades.keeper3shuriken1.title,Shuriken
+upgrades.probelongmarker2.desc,Els marcadors de recursos es mantindran durant diversos cicles.
+properties.shockwave.stunduration,Durada de l'atordiment {}s
+level.tutorial.teleporter.teleport1.switch,"Quan siguis a prop del portal, prem | per teleportar-te de tornada."
+options.game.alwaysshowping,Mostra sempre el ping del servidor
+loadout.choices.locked,Encara no s'ha desbloquejat.
+upgrades.prospectionmetersand1.title,Mesurador de Cobalt
+upgrades.drill2.title,Força del trepant 2
+level.gameover.findimages,Guardar a
+level.tutorial.resourcepacker.popup_1.switch,"Quan siguis a prop de recursos, prem | per empaquetar-los en un feix compacte que en facilitarà el transport."
+reward.rewardpostrunshowmonstercount.title,Estadístiques addicionals de batalla
+upgrades.drill.title,Torre d'excavació
+upgrades.versusincreasewave1.desc,Incrementa permanentment la força de les onades de monstres per a l'equip rival.
+upgrades.swordstabfast1.desc,Apunyala més de pressa i més sovint.
+properties.sword.slicebrake,Pèrdua de Velocitat en Tallar {.percent}
+upgrades.lasermove3.desc,El làser es mou a la seva velocitat màxima.
+upgrades.prestigewatermultiplier.desc,Envia Aigua a casa. Augmenta el nombre de punts de prestigi que obtens després de cada onada.
+upgrades.domesupplementresurrection1.desc,"En comptes de destruir-se, la teva cúpula es curarà completament i tornarà indestructible per una estona. D'únic ús."
+upgrades.swordextendlong3.title,Estocada llarga 3
+properties.repellent.wavedelay,Retard de l'Onada (cicles) {}
+upgrades.domewavepathtodome.desc,"Quan l'anunciador d'onades soni, també mostrarà el camí més curt de tornada a la cúpula."
+level.tutorial.ninja.carry,Transportador de kunai
+upgrades.dome4.desc,Cúpula d'última generació que aprofita el poder de l'electricitat fins a un grau que mai s'havia vist abans.
+upgrades.prospectionmeterwater2.title,Brúixola d'Aigua
+multiplayer.techtree.keeperexclusivegadget,Aquest accessori només s'aplica al teu guardià.
+options.keybindings.action.dome,Cúpula
+upgrades.drillbotbuff1.title,Llepolies
+versus.corruption.desc,Tria quina corrupció afectarà els monstres que ataquen l'altre equip!
+upgrades.swordstabshoot.title,Javelina
+properties.dome.projectiledamagereduction,Reducció del dany del projectil {.percent}
+upgrades.drillbotbuffstrength2.desc,Després de rebre una llepolia en Martill treballarà durant més temps abans de sentir-se endormiscat.
+leaderboard.global,Global
+options.game.blocklist.unblockall,Desbloqueja-ho tot
+upgrades.swordlongblade1.title,Fulla llarga 1
+properties.orchard.drillbuff,Potenciació de la força d'excavació
+properties.spire.splitshotspeed,Velocitat del Tret Dividit {}
+options.keybindings.action.dome.upgrade,Millores
+upgrades.teslaspeed3.title,Velocitat del reticle 3
+upgrades.domehealthmeter.title,Indicador de Salut
+properties.extractor.additionalresources,Recursos addicionals {}
+upgrades.domesupplementcombatrepair3.desc,"La reparació automàtica s'activa més aviat, després de rebre menys dany."
+upgrades.furnacelastingironfiring.desc,Fes que cada peça de Ferro duri més al forn.
+properties.dome.resurrectinvulnerability,Invulnerabilitat després de la Resurrecció {}s
+upgrades.assignmentssendwater.desc,"Entrega aigua al Gremi dels Guardians. Per tenir èxit en la tasca, has de retornar totes les entregues disponibles."
+options.game.autopickupresources,Recull recursos automàticament
+upgrades.repellentbattledamageovertime.desc,Tots els monstres prenen una mica de mal per cada segon que persisteixen els fums tòxics.
+upgrades.artillerydirecthit3.desc,Incrementa el poder destructiu dels obusos del teu morter.
+upgrades.domearmorprojectile1.title,Armadura de projectils 1
+upgrades.keeper4catgoblindig3.desc,Els gatgòblins destruiran les caselles mentre excaven.
+upgrades.stunlaserarea.desc,Crea una explosió d'atordiment al voltant del monstre objectiu que atordeix als monstres del voltant. L'Àrea creix i provoca més dany com més monstres s'hi afegeixen.
+level.tutorial.teleporter.carry2,"Mantingues | per agafar el portal altre cop, quan siguis a prop."
+level.tutorial.teleporter.carry3,"Si prems |, et teletransportes de tornada."
+upgrades.keeper2pinballreflect.title,Escut de Reflexió
+upgrades.probepermanentrevealtiles.title,Revela la roca
+loadout.versusmod.versusmodifierfastmonsters.desc,Els monstres es mouen més de pressa.
+level.tutorial.teleporter.carry1,Pots moure el Portal allà on vulguis.
+level.tutorial.pickup.popup_1,Prem | per agafar un recurs.
+options.input.gamepad.autoswitch.xbox,Detecció automàtica del comandament preferit
+options.accessibility,Accessibilitat
+upgrades.teslapersistance2.desc,Els orbes elèctrics són més grossos i es mantenen més temps.
+properties.sword.reflectionacceleration,Velocitat dels Projectils Reflectits {.percent}
+upgrades.artillerygrenadefastreload.title,Recàrrega ràpida
+upgrades.keeper2pinballreflect.desc,"Col·loca un escut estacionari de reflexió que reflecteix esferes, que es potencien una mica un cop reflectides."
+options.keybindings.action.keeper,Guardià
+upgrades.drillbotbuffstrength1.desc,Les llepolies donen energia a en Martill durant més temps.
+upgrades.versussendiron.desc,Porta ferro al Gremi dels Guardians. Envia tots els lliuraments disponibles per aconseguir la victòria sobre l'equip rival.
+upgrades.keeper2pinballmorespheres1.desc,Incrementa el nombre d'esferes que pots dur.
+properties.rocketlauncher.rechargetime,Temps d'abastiment {}s
+upgrades.domesupplementadditionalcellar.title,Soterrani profund
+upgrades.blastminingstickycharge.title,Càrregues direccionals adhesives
+level.tutorial.assessor.explode.desc1.switch,Prem | per fer explotar totes les esferes del teu voltant.
+upgrades.furnacestrongironfiring.title,Combustible de Ferro millorat
+assignment.monstermasses.title,Massa de monstres
+options.input.gamepad.gamepadstickdeadzone.switch,Zona morta de la palanca
+properties.stunlaser.areastunstrength,Eficiència de l'Atordiment en Àrea {.percent}
+upgrades.dome1health2.desc,Augmenta permanentment els punts de salut de la cúpula.
+upgrades.probepermanentrevealresources.title,Revela els recursos
+upgrades.swordfastreflection.desc,Els projectils reflectits tornen més ràpid.
+properties.autocannon.shotgun,Cartutxos d'Escopeta {}
+loadout.difficulty.medium,Brutal
+multiplayer.join.joincodeinput,Introdueix el codi d'entrada
+properties.keeper4.maxspeedupatpunches,Màxima velocitat després de {} cops
+properties.monstermodifiers.health,Vida dels monstres {.percent}
+loadout.versusmod.versusmodifierfastmonsters,Monstres ràpids
+upgrades.shieldoverchargestrength1.desc,Augmenta el dany que pot absorbir l'escut sobrecarregat.
+properties.probe.charges,Càrregues {}
+reward.rewardthreechoicessupplement.title,Ofertes de tres suplements
+upgrades.domesupplementscraprepair1.desc,Repara la teva cúpula d'una forma rudimentària utilitzant ferro. Redueix la salut estructural general.
+level.tutorial.tesla.panel1content1,Mou el reticle a través de la pantalla utilitzant per apuntar.
+upgrades.shockwavebig.desc,L'Ona d'expansió provoca una quantitat de dany majúscula que fins i tot pot eliminar alguns dels monstres més forts.
+multiplayer.continue.allowmultiplayererror,No es pot continuar amb el mode multijugador en línia perquè no tens marcada l'opció Activa el joc en línia al menú d'opcions.
+loadout.hint.multiplayer.playerminimum,Necessites almenys dos jugadors per iniciar una partida multijugador.
+upgrades.artillerymachinegunhoming2.title,Míssils 2
+upgrades.repellentbattleslowdownstun2.title,Paràlisi Forta
+upgrades.shockwave.abilityname,Ona d'expansió
+upgrades.jetpackspeed1.title,Velocitat 1
+upgrades.teleporterteleportduration1.title,Durada de la Teleportació
+upgrades.autocannonrateoffire3.title,Metralladora 3
+properties.monstermodifiers.totalrunweightmodifier,Multiplicador de la força de l'Onada {.percent}
+upgrades.swordstabfast1.title,Estocada ràpida 1
+upgrades.swordstabfast3.title,Estocada ràpida 3
+properties.tesla.quickshotstrength,Potència del tret ràpid {.percent}
+upgrades.keeper2pinballdamage3.desc,Augmenta encara més el temps de recàrrega per aconseguir esferes cinètiques més potents.
+title.navbar.options,Opcions
+upgrades.domearmormelee2.desc,Redueix el dany que rep la cúpula d'atacs cos a cos.
+upgrades.shieldbattleelectroblast.title,Electro-explosió
+properties.spire.stuntrapradius,Radi {}
+options.audio.volumes.ambiencevolume,Ambient
+loadout.mode.drillbert.desc,"Comença amb en Martill i l'explosió amb voladura, però el guardià no pot millorar les seves habilitats de mineria. Subministrament il·limitat de Martill."
+loadout.versus.team.closed,tancat
+properties.keeper4.goblinnapduration,Duració de la migdiada dels gatgòblins {}s
+properties.keeper2.reflectnexthitdamage,Dany Addicional al Següent Cop {.percent}
+upgrades.orchardbattlerootingmore.title,Arrels Fortes
+multiplayer.error.connection,No es pot connectar.
+keeperdlc.load.missing.ps5,"No es pot carregar el joc guardat, conté un complement no disponible. Si us plau, comprova que el complement de «The Lost Keepers» està disponible."
+level.tutorial.fruit.popup_2,"Quan estiguis al costat, prem | per consumir-ho."
+loadout.versusmod.versusmodifierlittlecobalt,Carestia de cobalt
+reward.rewardpet12.desc,Desbloqueja el gos com a mascota de la teva cúpula.
+multiplayer.host.joincodelabel,Codi d'entrada
+upgrades.swordstabfast2.desc,Apunyala encara més de pressa i més sovint.
+properties.dome.incomingdamagemodifier,Dany rebut {.percent}
+properties.sword.stabexplosivedamage,Dany de la Bomba {}
+properties.blastmining.bombs,Càrregues d'explosió {}
+properties.resourcepacker.charges,Càrregues {}
+upgrades.assignmentsemergencycontribution1.desc,Envia aquest paquet abans que acabi la 2a onada o fracassaràs en aquesta missió.
+properties.artillery.machinegunbarrels,Canons antiaeris {}
+upgrades.laseraimline.title,Mira làser
+upgrades.jetpackstrength4.desc,Millora la motxilla propulsora per a poder carregar més recursos.
+loadout.mode.nomonsters.desc,Aterra en un món sense cap monstre.
+telemetry.eula,Llegeix l'EULA
+upgrades.condenserspeed1.title,Velocitat de Producció 1
+upgrades.mushroomstack.desc,"Sobreposa la duració de cada potenciació, guanyant potenciacions més duradores en consumir múltiples bolets."
+upgrades.keeper2pinballexplode2.desc,Augmenta la magnitud de les explosions de les esferes.
+versus.message.disruption,L'equip rival acaba d'augmentar permanentment la força de les teves onades de monstres.
+loadout.mode.strongmonsters.desc,Els monstres faran el doble de dany.
+upgrades.tesla.desc,"Presenta les meravelles de l'electricitat, a qualsevol cosa que corri per allà fora. Preferiblement a la cara. A uns quants milers de volts."
+properties.drillbot.turnaround,Gira quan xoqui amb una paret dura
+upgrades.keeper2movement3.desc,Millora el teu generador de gravetat per moure't al més ràpid possible.
+level.tutorial.onewayteleporter2,Prem | per emplaçar el portal. Prem una altra vegada per teletransportar-t'hi de tornada.
+upgrades.domearmormelee2.title,Armadura de cos a cos 2
+upgrades.drillbotbuffstrength2.title,Amb afegit de taurina
+level.tutorial.onewayteleporter3,Es recarrega automàticament.
+upgrades.keeper4extraresource.desc,"Els gatgòblins, de vegades recolliran un recurs extra d'una casella que han excavat amb cura."
+upgrades.drillbotduo.desc,"Convida els cosins d'en Martill, Cavatot i Minerva per ajudar-te a excavar. En fer-se companyia, no s'espantaran durant les onades de monstres i continuaran excavant."
+properties.tesla.perfecttimingwindow,Finestra de temps {}s
+loadout.mode.strongmonsters,Colpejadors pesats
+pause.quittotitlescreen,Surt a la pantalla d'inici
+properties.keeper2.explodespheresradius,Radi de l'explosió (caselles) {}
+telemetry.privacy,Pots trobar més informació sobre com utilitzem i gestionem la informació recollida a la nostra Política de Privacitat http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,Els míssils es tornen més letals.
+keybindings.reset.doreset,Reinicia la meva assignació de botons
+upgrades.keeper3carrylimit3.desc,Incrementa la quantitat de recursos que pots transportar al teu transportador de Kunai.
+upgrades.autocannondoublefirerate.desc,El Canó automàtic dispara molt més de pressa. Simple i efectiu.
+upgrades.autocannon.title,Canó Automàtic
+upgrades.artillerymachinegunhoming1.title,Míssils 1
+level.tutorial.assessor.carry.desc1_1.switch,"Un cop bloquejats, et seguiran encara que deixis anar el botó de recol·lecció."
+upgrades.swordlongblade1.desc,Instal·la una fulla més llarga i àgil.
+loadout.team.players,Jugadors
+options.keybindings.gamepad.xbox.view,Torna
+options.keybindings.action.keeper.rope,Llança una corda
+upgrades.mushroomfarm.title,Granja de bolets
+loadout.prestige.title,Tria una variació de mode
+upgrades.prospectionmeterrange1.title,Rang 1
+upgrades.keeper3doublejump.title,Doble salt
+upgrades.keeper3kunaibounce1.desc,Mostra la trajectòria prevista dels rebots del kunai i el punt on acabarà aterrant. Cada rebot ressona a través de la roca i revela les tessel·les properes.
+upgrades.repellentbattlelongerhealthreduction.title,Debilitament intens
+loadout.versusmod.versusmodifierlittlewater,Carestia d'aigua
+upgrades.mushroomfarmdrill1.title,Excavació Boletal 1
+loadout.versusmod.versusmodifierscatterediron,Ferro dispers
+level.converter.popup.conversion.convert,convertir
+properties.droneyard.overchargebattledronecount,Drons de combat addicionals {.percent}
+reward.rewardfreerolls1.desc,Una altra generació gratuïta per partida de les opcions de dispositius o suplements.
+multiplayer.host.splitscreen,Habilita la pantalla partida en local
+properties.converter.cobalttoiron,1 de Cobalt per {} de Ferro
+loadout.mode.automateddefense,Defensa Automatitzada
+options.input.gamepad.gamepadstickdeadzone.xbox,Zona morta de la palanca
+level.converter.popup.explanation,Escull una conversió de recursos per començar!
+upgrades.dome1health2.title,Salut 2
+upgrades.stunlaserduration3.desc,El làser atordidor es recarrega extremadament de pressa i té una duració de disparat significativament extensa.
+upgrades.assignmentsemergencycontribution5.desc,Envia aquest paquet abans que acabi la 16a ronda o fracassaràs en aquesta missió.
+pause.gamepadcontrols.use,Utilitza
+properties.spire.stunmonsters,Atordeix Monstres
+upgrades.assignmentssendcobalt.desc,"Entrega cobalt al Gremi de Guardià. Per tenir èxit en la tasca, has de retornar totes les entregues disponibles."
+upgrades.mushroomfarmspeed1.desc,Millora la potenciació de velocitat obtinguda en consumir bolets.
+upgrades.keeper2pinballmorespheres1.title,Subministrament d'esferes
+upgrades.rocketlauncherrockets1.desc,Augmenta el número de míssils que pots disparar.
+options.keybindings.gamepad.xbox.menu.xbox,Botó del menú
+upgrades.swordstabfast3.desc,Fes una estocada encara més depresa i sovint.
+properties.shield.overchargestrength,Força de la Sobrecàrrega {}pv
+upgrades.droneyarddronespeed1.desc,Millora la velocitat dels teus drons de transport.
+upgrades.liftorbs.title,Orbes addicionals
+properties.keeper3.carrylimit,Capacitat del transportador de kunai {}
+options.video.graphicsmode.photosensitive,Mode fotosensible
+upgrades.keeper2pinballdamage1.title,Esferes cinètiques 1
+reward.rewardkeeper3skin1.title,Aspecte d'infiltrador
+level.tutorial.ninja.gadgetpickup.desc1,Els accessoris no s'agafen automàticament.
+properties.converter.ironperwater,{} de Ferro per Aigua
+properties.spire.capacity,Trets abans de la Recàrrega {}
+level.tutorial.ninja.gadgetpickup.desc2,Prem | per agafar un accessori.
+loadout.versusmod.versusmodifierlittlewater.desc,El mapa conté molt pocs dipòsits d'aigua.
+upgrades.drillbotstrength3.desc,Augmenta la força d'excavació de Martill.
+upgrades.spirestuntrap3.title,Trampa de Monstres
+upgrades.shredgadgettocobalt.desc,Tritura l'accessori i aconsegueix {amount} de cobalt.
+upgrades.converterefficientcobalt.title,Conversió eficient de Cobalt
+options.input.vibration.strength.switch,Intensitat de la vibració
+properties.sword.reflectprojectiles,Reflecteix Projectils d'Energia
+reward.rewardfreerolls2.desc,Una generació gratuïta addicional per partida de les opcions de dispositius o suplements.
+level.tutorial.station.popup_2,Mou-te a l'estació i prem | per entrar-hi.
+upgrades.versus.desc,"Dues cúpules, dos equips, que competeixen l'un contra l'altre fins que només en queda un."
+upgrades.dome2.desc,"Cúpula experimental amb una poderosa espasa que requereix expertesa, però que pot dominar fàcilment fins i tot als assaltants més forts."
+upgrades.drillmagnetic.desc,"Els tubs de revestiment dels perforadors verticals es tornen magnètics, sostenint els recursos excavats al seu voltant."
+assignment.harmfuliron.title,Ferro perillós
+level.tutorial.sworddome.stabbing,Estocada
+options.input.gamepad.icons,Icones
+upgrades.shredgadgettoiron.desc,Tritura l'accessori i aconsegueix {amount} de ferro.
+upgrades.assignmentsemergencycontribution6.desc,Envia aquest paquet abans que acabi la 20a ronda o fracassaràs en aquesta missió.
+properties.droneyard.battledroneshots,Trets per dron {}
+level.gameover.lose.title,LA CÚPULA S'HA PERDUT
+loadout.difficulty.title,Dificultat
+properties.artillery.maxrotation,Rotació màxima {}°
+upgrades.shockwavestun2.desc,Augmenta l'habilitat d'atordiment de l'ona d'expansió.
+unlock.host.locked,L'amfitrió no té el DLC «%s».
+multiplayer.host.splitscreen.desc,Inclou comandaments a la configuració per invocar guardians addicionals. Fins a quatre guardians poden compartir una mateixa pantalla. Es pot combinar amb xarxa local o multijugador en línia.
+telemetry.explanation,"Per jugar en multijugador en línia, connecta't al nostre servei per descobrir altres jugadors i unir-te a les seves partides, o bé allotjar-ne una des del teu dispositiu.
+Aquesta opció és completament opcional i la pots activar o desactivar quan vulguis. Segons el RGPD, és rellevant connectar-se repetidament a un servei, encara que sigui amb un compte anònim.
+No recopilem informació personal teva ni fem cap mena de telemetria per registrar les teves partides.
+Si no actives el multijugador en línia, igualment podràs jugar en multijugador en pantalla dividida al mateix dispositiu o a través de la xarxa local.
+
+Pots canviar aquesta opció en qualsevol moment des del menú d'opcions."
+gadget.slot.supplement,Complement
+upgrades.droneyardovercharge2.desc,Els drons són més forts en sobrecarregar el Pati de drons.
+level.furnace.popup.fuel.burn,Cada|dura {cycles} cicles i alenteix els monstres per {seconds} segons addicionals.
+options.input.controls.nooptions,No hi ha disponible cap configuració individual de %s per a aquest guardià.
+upgrades.versusshowinventory.desc,Et permet veure l'inventari de l'altre equip quan monitores la seva cúpula.
+properties.keeper1.drillstrength,Força del Trepant {}
+upgrades.keeper1.desc,Un professional eficaç i hàbil amb unes aptituds excel·lents per la mineria.
+leaderboard.friends,Amistats
+gadget.slot.activegadget,Habilitat de combat secundària
+upgrades.keeper2.desc,Un miner sofisticat que utilitza tecnologia experimental d'energia cinètica i gravetat.
+upgrades.keeper2pinballsplit2.title,Divisió Millorada
+upgrades.keeper2movement1.title,Moviment gravitatori 1
+upgrades.keeper2pinballexplode.title,Explotar Esferes
+upgrades.keeper3kunaidamage4.desc,Augmenta la potència de mineria dels teus kunais. Els kunais són especialment poc efectius contra la roca molt densa.
+upgrades.spireautonomy1.desc,Una IA simple controlarà l'obelisc mentre no siguis dins l'estació de control.
+properties.droneyard.dronespeed,Velocitat del dron {}
+upgrades.teslaquickshot.title,Tret ràpid
+assignment.megacreeps.title,Supervivència del més apte
+upgrades.shieldbattleactivateondepletion.title,Activa quan s'Esgoti
+versus.corruptionbigwave.title,Onada assassina
+upgrades.lasermove3.title,Velocitat de moviment 3
+upgrades.swordelectrified.title,Fulla electrificada
+upgrades.artillerymachinegun1.title,Canó antiaeri millorat
+level.tutorial.beastmaster.move.desc2,Només et pots moure si et pots agafar a algun lloc.
+options.accessibility.fontsize.small,Petit
+assignment.unpredictable.desc,L'atmosfera del planeta interfereix amb el mesurador de proximitat de la cúpula i impedeix detectar les onades enemigues.
+level.tutorial.beastmaster.move.desc1,Fes servir els tentacles per moure't a través de la mina.
+upgrades.suitblasterdirectional.desc,"Quan et moguis en una direcció, l'Explosió del vestit provocarà un llarg túnel. Pots continuar provocant explosions radials evitant moure't en activar l'explosió del vestit."
+level.tutorial.teleporter.take1,El vostre teletransportador té una estació i un portal. Us podeu teletransportar entre ells.
+options.audio.music.ost.mode.fixed.desc,"Reprodueix temes musicals del següent guardià, sense dependre del guardià amb el qual s'estigui jugant."
+level.tutorial.teleporter.take2,Agafa el Portal i col·loca'l on més t'agradi.
+level.gameover.assignment.failed,Has fallat la tasca del Gremi del Guardià.
+telemetry.manage,Deshabilita els serveis en línia
+modding.restart,Reinicia
+upgrades.orchardbattlerootingexplosion.title,Presa Explosiva
+level.gameover.unlock.skin,Nou vestit desbloquejat!
+upgrades.jetpackspeed3.desc,Millora la motxilla propulsora per a moure't més ràpidament.
+upgrades.repellentoverchargeduration2.title,Sobrecàrrega intensa
+upgrades.prospectionmeterwater1.desc,Mostra la distància als dipòsits d'aigua més propers.
+loadout.prestige.miner.description,Concentra't en fer la mineria més eficient en un món sense monstres. Dura 20 cicles.
+upgrades.shieldbattlereflect.desc,Activa una habilitat de combat que fa rebotar els projectils per un breu període de temps sense canviar-ne l'angle de reflexió.
+upgrades.stunlaserstun1.desc,Augmenta la potència del raig atordidor.
+multiplayer.error.gameresolved,La partida ja ha acabat.
+upgrades.shieldbattlereflect.title,Reflexió
+options.keybindings.action.general,General
+upgrades.keeper2pinballdamage4.title,Esferes cinètiques 4
+leaderboard.loading,carregant...
+upgrades.droneyardparasites2.title,Drons parasitaris 2
+playerlist.title,Llista de Jugadors
+upgrades.versusincreasewave2.desc,Incrementa permanentment la força de les onades de monstres per a l'equip rival.
+upgrades.rocketlauncher.title,Llançador de míssils
+upgrades.liftspeed1.title,Velocitat
+upgrades.rocketlauncherrockets2.title,Bombardeig 2
+level.tutorial.blastmining.popup_1,Entoma la càrrega explosiva i deixa-la caure allà on vulguis fer petar les roques.
+upgrades.keeper3slidecontrol.title,Control del lliscament
+properties.furnace.wavedelay,Retard habitual {}s
+upgrades.mushroomfarmspeed2.desc,Millora la potenciació de velocitat obtinguda en consumir bolets.
+upgrades.dome3.title,Cúpula d'Artilleria
+properties.converter.ironirontime,Temps de la conversió de Ferro a més Ferro (Cicles) {}
+properties.laser.movespeed,Velocitat de moviment {}
+properties.stunlaser.damagepermonster,Dany d'Àrea per Monstre {}dps
+upgrades.stunlaser.title,Làser Atordidor
+title.navbar.credits,Crèdits
+upgrades.drillbotbuffstrength1.title,Llepolies nutritives
+level.tutorial.pickup.popup_1.switch,Prem | per agafar un recurs.
+level.tutorial.pickup.popup_3,Mantingues premut per agafar-ne varis.
+upgrades.blastminingtriple.title,Triple Càrrega
+upgrades.prospectionmeterscandelay1.desc,Augmenta la rapidesa amb què s'actualitzen els mesuradors.
+upgrades.furnacelastingwaterfiring.desc,Fes que cada peça d'Aigua duri més al forn.
+upgrades.versusincreasewave2.title,Sabotatge 2
+upgrades.artillerymachinegun4.desc,Instal·la canons que poden aguantar cadències de trets extremes.
+upgrades.teslaspeed4.title,Velocitat del reticle 4
+upgrades.swordextendlong3.desc,Enorme força i duració de l'estocada.
+demo.end.title,Gràcies per jugar la Demo!
+upgrades.stationextensiontubemovement.title,Tub de desplaçament al buit
+upgrades.keeper4squad3.title,Escamot massiu
+upgrades.orchardbattleshield.desc,"Fa créixer una estructura de vinyes a la teva cúpula, protegint-la dels projectils."
+properties.droneyard.battledronestrength,Efecte parasitari {.percent}
+options.game.kunaicarriersnapping,Ajusta la direcció del portador del kunai a les direccions cardinals
+options.input.vibration.strength.xbox,Intensitat de la vibració
+upgrades.keeper2pinballspherelifetime.title,Vida útil de l'esfera
+upgrades.furnace.title,Forn
+upgrades.shockwavedamage1.title,Dany d'ona expansiva 1
+properties.mushroomfarm.drillbuff,Potenciació de la Força d'excavació {}
+level.tutorial.station.popup_4,"Tot seguit, prem | per entrar en mode combat i defensar la cúpula."
+level.tutorial.teleporter_2,"Utilitza el Teletransportador de l'Estació per teletransportar-te al Portal, i viceversa."
+level.tutorial.station.popup_2.switch,Mou-te a l'estació i prem | per entrar-hi.
+pause.resumegame,Continua la partida
+actionhint.tap,Prem
+level.tutorial.station.popup_1,Ataquen la teva cúpula!
+multiplayer.error.kicked,Expulsat de la sessió multijugador.
+telemetry.allow.ps5,Accepta l'EULA
+landing.proceed.switch,Prem qualsevol tecla per continuar
+upgrades.condenserautoovercharge.title,Auto Sobrecàrrega
+upgrades.keeper2pinballdestroyadjacenttiles.title,Impacte en cascada
+level.converter.popup.queue,Repeteix la conversió automàticament
+options.keybindings.rebinding.cancel,Cancel·la
+loadout.versus.condition.deathmatch.title,L'última cúpula dempeus
+upgrades.domearmorprojectile1.desc,Redueix el dany que rep la cúpula d'atacs de projectils.
+level.station.battle.navbar.move,Mou
+upgrades.keeper3kunaicooldown2.title,Llançament ràpid
+upgrades.artilleryrotation2.title,Rotació ràpida
+loadout.gadget.additional.desc,Escull un accessori addicional!
+level.gameover.unlock.assignment,Encàrrecs desbloquejats!
+upgrades.domesupplementprojectiledamagereduction1.desc,Millora la desviació de la carcassa de la cúpula per reduir el dany dels projectils. El dany a curta distància no es veu afectat.
+upgrades.blastminingproductiontime1.desc,Redueix el temps necessari per crear una càrrega explosiva.
+upgrades.autocannonshotgun1.title,Escopeta 1
+loadout.hint.loadout,Acab de configurar el teu equipament!
+assignment.condition.deliveriron,Entrega %d de ferro
+upgrades.drillbotduo.title,Amics valents
+level.tutorial.assessor.carry.desc1_1.xbox,"Un cop bloquejats, et seguiran encara que deixis anar el botó de recol·lecció."
+multiplayer.error.nomods,No hi ha d'haver cap mod instal·lat.
+options.input.controls.keybindings.xbox,Assignació de botons
+upgrades.domearmorprojectile2.title,Armadura de projectils 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"Ajusta el valor perquè el mesurador no parpellegi quan només toquis les palanques, sense empènyer-les.
+El mesurador hauria de parpellejar quan moguis la palanca."
+upgrades.domesupplementcombatrepair2.title,Reparació completa durant el combat
+level.gadgetchoice.title,ESCULL UN ACCESSORI!
+properties.teleporter.slowdown,Alentiment de la càrrega {.percent}
+upgrades.teslaspeed1.title,Velocitat del reticle 1
+assignment.weapondefect.title,Arma defectuosa
+properties.suitblaster.directionalexplosions,Explosió direccional
+options.translation.community.title,Traduccions de la Comunitat
+options.audio.music.ost.mode,Banda sonora
+upgrades.teleporterteleportresourcesback.title,Teletransporta Recursos
+upgrades.orchardbattleshield.title,Coberta de vinyes
+properties.drill.sides,Perforadors de laterals {}
+upgrades.teslaorbstun.desc,Els orbes elèctrics atordeixen encara més.
+upgrades.repellentoverchargeduration2.desc,Augmenta l'impacte de la sobrecàrrega a les habilitats de batalla.
+properties.keeper2.totalspheres,Esferes {}
+options.keybindings.action.general.up,Amunt
+pause.quit.popup,"Segur que vols sortir?
+Prem un altre cop per fer-ho.
+(El teu progrés s'ha guardat)"
+upgrades.drillbotduplicate.desc,"Martill té una bessona idèntica, Neusmàtic."
+properties.keeper3.shurikenstrength,Radi de l'explosió (caselles) {}
+assignment.bigmapsparseresources.title,Terres àrides
+upgrades.converterqueue.title,Conversió automàtica
+multiplayer.error.otherprestigeplayerquit,La partida ha acabat perquè el teu company d'equip ha abandonat la partida. La partida s'ha desat i pots continuar seleccionant el mode multijugador al menú continua.
+level.tutorial.teleporter.teleport1,"Quan siguis a prop del portal, prem | per teletransportar-te de tornada."
+level.tutorial.teleporter.teleport2,També et pots teletransportar cap a l'altre sentit.
+playerlist.report,Informe
+upgrades.swordextendlong1.title,Punyalada llarga 1
+upgrades.spiresplit3.desc,Els projectils dividits poden sortir en qualsevol angle.
+upgrades.keeper3kunaicooldown3.desc,Llança kunais més ràpidament.
+exhibition.title.press.anything,Prem qualsevol tecla per jugar
+multiplayer.techtree.keeperexclusivesupplement,Aquest suplement només s'aplica al teu guardià.
+options.input.gamepad.twinstick.xbox,Control de doble palanca
+gadget.slot.domesupplement,Suplement de la Cúpula
+loadout.mode.maze,Laberint
+upgrades.teleporter.title,Teletransportador
+properties.keeper4.holesquad,Mida de l'escamot de mineria: {}
+level.tutorial.fruit.popup_1,El teu verger ha produït la seva primera fruita.
+upgrades.teslatiming1.desc,Dispara un tret molt més potent fent-ho amb precisió quan el tesla està recarregat.
+upgrades.converterefficientwaterlong.title,Tractament intensiu
+level.tutorial.fruit.popup_2.switch,"Quan estiguis al costat, prem | per consumir-ho."
+unlock.buy.keeperdlc.xbox,Desbloquejat pel complement '%s'.
+upgrades.autocannonspeed1.desc,Engreixa els engranatges del canó per augmentar significativament la velocitat de moviment.
+upgrades.probepermanentrevealresources.desc,"Els recursos marcats, es mantenen revelats permanentment en comptes d'únicament ser identificats amb un marcador."
+properties.teleporter.teleportresourcescooldown,Temps d'espera per la Teleportació de recursos {}s
+upgrades.spire.desc,Un Obelisc defensiu que intercepta els projectils que s'apropen.
+reward.rewardkeepersupplements.title,Suplements del Guardià
+upgrades.condenser.desc,Afegeix una màquina sota la cúpula que lentament produeix aigua per condensació.
+upgrades.spiresplit3.title,Divisió al Terra
+properties.drillbot.plantgrowthtime,Temps de Creixement del Premi (cicles) {}
+modding.modio.showdownloaded,Mostra els mods descarregats
+upgrades.stunlaserspeed1.title,Velocitat 1
+upgrades.resourcepackercharges.title,Càrregues
+upgrades.swordblade1.title,Fulla millorada
+loadout.versus.modifiers.desc,Tria modificadors per a aquesta partida que afectaran tant el teu equip com l'equip rival. Els modificadors són opcionals.
+level.tutorial.fullscreen.back,torna
+options.accessibility.backgrounds.explanation,"Substitueix els fons de pantalla de cada món per un sol color brillant, reduint així el soroll visual durant les batalles."
+upgrades.dome1health1.title,Salut 1
+loadout.prestige.pro.randomorder,ordre aleatori
+assignment.superhardrockwithholes.desc,La roca és extremadament densa però botida de coves.
+upgrades.droneyardparasites.title,Drons parasitaris
+actionhint.hold,Mantingues premut
+properties.spire.timebetweenshots,Temps per Apuntar {}s
+properties.game.cyclespeed,Velocitat del cicle {.percent}
+upgrades.artillerydirecthit3.title,Caça monstres 3
+loadout.mode.drillbert,Mode Martill
+upgrades.prestigecobalt.title,Enviar cobalt
+upgrades.rocketlauncher.desc,Dispara míssils perseguidors als monstres. Cal activar-los manualment.
+level.station.battle.navbar.exit,Surt
+options.game.events.enableseasonal,Habilita el contingut de temporada
+options.audio.music.ost.mode.fixed,Reparat
+assignment.ironcontribution.desc,El gremi necessita urgentment ferro i et demana que n'entreguis una gran quantitat ràpidament.
+properties.rocketlauncher.damageperrocket,Dany {}
+upgrades.keeper4.title,Mestre de les bèsties
+upgrades.laserbend.title,Capçal Giratori Làser
+unlock.host.locked.switch,L'amfitrió no té el contingut descarregable «%s».
+level.supplementchoice.reroll.free, (%s) Tira de nou
+loadout.versusmod.versusmodifierconcentratediron,Ferro concentrat
+options.keybindings.rebinding.apply,Aplica
+properties.repellent.battledamageovertime,Els monstres reben {} de dany per segon
+upgrades.repellentdelay1.title,Retard 1
+upgrades.converterefficientwatershort.desc,Fa la conversió d'aigua molt més ràpidament.
+upgrades.domesupplementcombatrepair1.title,Reparació de combat 1
+level.tutorial.sworddome.slicing,Talla
+properties.drillbot.scared,Amb por dels monstres
+title.navbar.updates.close,Tanca
+upgrades.condenserspeed2.desc,Redueix encara més el temps necessari per condensar una aigua.
+upgrades.prospectionmeteriron2.desc,Mostra la direcció als dipòsits de ferro més propers.
+upgrades.keeper3carrylimit2.title,Capacitat de càrrega 2
+loadout.versus.condition.irondelivery.desc,Guanya l'equip que lliuri primer %s unitats de ferro.
+properties.mushroomfarm.speedbuffduration,Duració de la potenciació de velocitat {}s
+upgrades.keeper4punch1.desc,"La teva mineria amb tentacles acumula lentament una força enorme, però es reinicia en canviar de direcció."
+exhibition.level.heading,Encara hi ets?
+keeperdlc.load.missing.xbox,"No es pot carregar el joc guardat, conté un complement no disponible. Si us plau, comprova que el complement de «The Lost Keepers» està disponible."
+upgrades.domesupplementresurrection2.desc,Concedeix una altra resurrecció.
+actionhint.release,Allibera
+level.gameover.stats.monsterskilled,Monstres morts
+level.gameover.timelapse,Visió del mapa a intervals de temps
+upgrades.drill4.desc,Reforça el trepant per a excavar més ràpidament.
+upgrades.prospectionmetersand1.desc,Mostra la distància als dipòsits de cobalt més propers.
+assignment.instagip.desc,"Els monstres, en aquest planeta, són inusualment brutals. Els seus atacs provoquen un dany devastador a la teva cúpula."
+landing.proceed.xbox,Prem qualsevol tecla per continuar
+upgrades.drillsides.desc,Afegeix un Perforador de laterals al Perforador central que pot ser mogut amunt i avall tant com sigui necessari.
+properties.dome.meleedamagereduction,Reducció del Dany Cos a Cos {.percent}
+options.keybindings.action.keeper.throw,Llança el kunai
+level.station.battle.navbar.artilleryflak,Metralladora
+upgrades.teleporterlightweight.desc,Transportar el Portal quasi no t'alentirà.
+level.gameover.backtomainmenu,Torna al menú principal
+properties.sword.stabarrowhead,Augmenta la Mida de la Punta de Fletxa
+loadout.versus.team.open,obre
+level.gameover.stats.mapsize,Mida del mapa
+upgrades.domesupplementelectrifiedsurface2.desc,Incrementa el mal que reben els monstres quan colpegen la cúpula.
+upgrades.prestigecobalt.desc,Envia Cobalt a casa. Augmenta el nombre de punts de prestigi que obtens després de cada onada.
+options.video.renderscale.reset,Reinici
+options.keybindings.text.xbox,"Personalitza la configuració dels controls al teu gust.
+Pots assignar el mateix botó a diverses categories (per exemple, fer servir els mateixos botons per moure el teu guardià i controlar l'arma de la cúpula.)"
+options.audio.music.frequency,Freqüència (cicles sense música)
+upgrades.rocketlauncherrockets3.desc,Augmenta el nombre de míssils que pots disparar.
+options.input.controls.mouse.menus,Utilitza el ratolí als menús
+upgrades.artillerysplash4.title,Obús quàdruple
+upgrades.keeper4catgoblindig3.title,Excavació frenètica
+properties.keeper4.catgoblincount,Comptador de gatgòblins {}
+loadout.mode.hud.desc,Comença amb una interfície totalment millorada.
+upgrades.drillbotsleepless.title,Ensinistrament Bàsic
+assignment.maze.desc,"Aquest planeta té un mapa semblant a un laberint, ple de passadissos i estructures irregulars."
+level.tutorial.drop.popup_2.switch,Prem | per deixar-ne un. Mantingues-ho per deixar-ne més.
+upgrades.artillerysplash2.title,Obús doble
+loadout.select,Selecciona
+level.gameover.prestige.uploading.failed,"la pujada ha fallat, provant-ho altre cop"
+level.assignment.badges.available,Insígnies disponibles: %d
+level.tutorial.beastmaster.goblins,Gatgòblins
+properties.autocannon.spray,Dispersió de Bales {.percent}
+upgrades.versusspycam.title,Càmera espia
+upgrades.shredgadgettoiron.title,Tritura pel Ferro
+upgrades.teslapersistance3.desc,Els orbes elèctrics són més grossos i es mantenen més temps.
+upgrades.suitblasterspeed2.title,Velocitat de la càrrega 2
+properties.shield.battleuses,Usos per Batalla {}
+properties.prospectionmeter.range,Rang (caselles) {}
+upgrades.droneyard.desc,Instal·la un pati on produir drons que s'empraran en el transport de recursos i el combat.
+upgrades.domearmorpulse.title,Pulsació reactiva
+title.navbar.multiplayer.host,Crea una partida multijugador
+upgrades.spireburst.desc,Dispara en ràfegues curtes i vigilant amb les salves.
+upgrades.domearmor.desc,"Instal·la un revestiment robust a la teva cúpula, fent-la més durable."
+options.input.controls.mouse.gamepad.xbox,El canvi d'un comandament o a un altre es detecta automàticament
+unlock.difficulty.hard,Guanya una partida amb dificultat brutal per desbloquejar.
+versus.corruptionmonsterhealth.title,Monstres sans
+properties.probe.markerretention,Durada del Marcador {}s
+loadout.hint.gamemodecompletion,Configura el teu Mode de joc completament!
+upgrades.suitblasterdirectional.title,Explosió direccional
+loadout.secondstage.cancel,Cancel·lar
+unlock.host.locked.xbox,L'amfitrió no té el complement «%s».
+loadout.versusmod.versusmodifiernorelics,Sense relíquies
+upgrades.autocannondoublefirerate.title,Canó de descàrrega ràpida
+upgrades.blastmining.desc,Produeix càrregues explosives per dur a terme mineria amb voladura. Acompanya-la dins l'excavació i allibera-la per detonar-la.
+upgrades.converterqueue.desc,"Quan una conversió s'acabi, els recursos generats s'expulsaran automàticament i la mateixa conversió començarà altra vegada si hi ha suficients recursos a l'inventari."
+modding.modio.fetchsubscriptionsfailed,Error en obtenir les subscripcions de mod.io!
+upgrades.orchardbattleshieldsecondlayer.desc,Fa créixer una altra capa de vinyes a la coberta.
+unlock.generic,Desbloqueja tot guanyant una partida.
+loadout.versusmod.versusmodifiersoftrock.desc,El mapa té més roca tova.
+upgrades.assignments.desc,Accepta un desafiament del Gremi de guardians per demostrar la teva competència.
+properties.probe.autorecharge,Recàrrega automàtica
+assignment.instagip.title,Monstres brutals
+upgrades.artillerysplash3.desc,Millora el teu morter per disparar obusos que tenen un radi d'explosió enorme.
+multiplayer.join.joinfromcode,Uneix-te
+pause.gamepadcontrols.move,Moure's
+upgrades.condenserautoovercharge.desc,"Manté el teu artefacte principal sobrecarregat, sense haver d'utilitzar aigua. La producció d'aigua del condensador s'endarrerirà després de la sobrecàrrega."
+multiplayer.continue.deviceselection.title,Tria el teu Guardià!
+upgrades.autocannonautonomy.desc,El canó automàtic s'activa fins i tot quan no ets dins l'estació de control.
+properties.laser.aimline,Mira Làser
+multiplayer.join.button,uneix-te
+properties.artillery.rotationspeedwhilemachinegun,Velocitat de rotació mentre dispara {.percent}
+level.tutorial.artillery.panel2header,Canó antiaeri
+level.gameover.keepgadget.title,Selecciona l'accessori que vols conservar per la Següent Partida
+upgrades.domearmorprojectile2.desc,Redueix el dany que rep la cúpula d'atacs de projectils.
+upgrades.shieldbattledestructionprevention.title,L'Última Defensa
+upgrades.domeresourcecounters.desc,Mostra la quantitat actual de recursos que tens i repara automàticament la cúpula durant el combat utilitzant el teu cobalt.
+upgrades.spirestuntrap1.title,Trampa d'Energia
+upgrades.prospectionmeteriron2.title,Brúixola de Ferro
+loadout.mode.hyperactive,Ràpid i Feble
+upgrades.prospectionmeterwater2.desc,Mostra la direcció als dipòsits d'aigua més propers.
+options.video.stretchmode,Mode de Renderització
+level.gameover.prestige.title,PARTIDA DE PRESTIGI FINALITZADA
+upgrades.droneyardovercharge1.title,Sobrecàrrega del Pati de drons
+level.station.navbar.exit,Surt
+upgrades.teslaorbdamage.title,Superconductivitat
+upgrades.proberechargeafterbattle.title,Sense estació de recàrrega
+upgrades.assignmentssendwater.title,Entrega aigua
+upgrades.probecharges.title,Càrregues de sonda
+pause.gamepadcontrols.pickup,Recull
+upgrades.prospectionmeter.title,Mesurador de Prospecció
+upgrades.condenserspeed2.title,Velocitat de Producció 2
+loadout.mode.hyperactive.desc,"Els monstres es mouen molt més de pressa, però tenen menys vida."
+upgrades.teleporterlightweight.title,Portal lleuger
+versus.corruptionstunresistance.title,Resistència a l'atordiment
+loadout.versusmod.versusmodifierpoorirondeposits,Dipòsits prims de ferro
+level.gameover.prestige.uploading.finalfailed,"la pujada de la nova puntuació ha fallat, disculpa!"
+modding.currentprofile,(Perfil actual)
+upgrades.versussendiron.title,Entrega Ferro
+loadout.assignment.title,Escull el teu encàrrec
+options.keybindings.rebinding,Reassignar
+upgrades.teslaspeed2.title,Velocitat del reticle 2
+level.tutorial.beastmaster.hole_1,Mantingues premut| per cavar un forat a la paret del fons.
+level.tutorial.beastmaster.hole_2,Ben aviat en sorgirà un gatgòblin que el connectarà amb la seva xarxa de túnels.
+upgrades.keeper3shurikenstrength2.title,Shuriken massiu
+upgrades.versusspycam.desc,Rep una nova estació que et permet monitorar la cúpula de l'equip rival.
+loadout.versusmod.versusmodifiershortcycles,Cicles curts
+options.accessibility.fontsize.large,Gran
+reward.rewardcentralmarker.desc,Marca el centre de la mina amb una línia vertical.
+upgrades.shieldstrength3.desc,Augmenta encara més el dany que pot absorbir l'escut.
+options.game.movementsnapping,Ajusta el moviment a les direccions cardinals
+upgrades.swordaimline.title,Mira làser
+upgrades.converterironduplication.title,Refinament de Ferro
+upgrades.jetpackspeed4.desc,Millora la motxilla propulsora per a moure't més ràpidament.
+options.keybindings.gamepad.xbox,Comandament
+upgrades.teslapower1.title,Potència del tret 1
+gadget.slot.mineshaft,Eix de la Mina
+keybindings.reset.title,Reinici de la configuració de controls
+upgrades.autocannonrateoffire2.desc,Augmenta encara més la cadència de tir.
+multiplayer.join.localonly,Només se cerquen partides en local. Habilites el joc en línia?
+upgrades.keeper3aerialmastery.title,Domini aeri
+upgrades.extractordestruction.desc,"En comptes de marcir-se dins els túnels, els cucs col·lapsaran roques que hagin excavat destruint també part de la roca al seu voltant."
+properties.shield.battleabilityduration,Durada de l'Habilitat {}s
+upgrades.keeper4squad3.desc,Incrementa la quantitat i durada dels gatgòblins dins l'escamot.
+level.gameover.prestige.score.rankimproved,Has augmentat el teu rang a {rank}.
+options.game.tutorials.noneunlocked,Sense tutorials desbloquejats.
+upgrades.droneyardparasites2.desc,Potencia l'efectivitat dels teus drons parasitaris.
+loadout.prestige.provocation,Provocació
+network.error.generic,Error de xarxa.
+options.game.ropesnapping, Enganxa la corda i apunta l'indicador cap als punts cardinals
+upgrades.keeper4catgoblindig1.title,Mineria gatgòblin
+level.gameover.manualmove,Càmera manual
+upgrades.domesupplementcombatrepair1.desc,Repara automàticament la cúpula un cop durant el combat després de rebre més d'una certa quantitat de dany. No consumeix cobalt.
+upgrades.prospectionmeterscandelay1.title,Velocitat Millorada de l'Escaneig
+assignment.goaltype,Objectiu
+properties.keeper1.speedlosspercarry,Alentiment en Carregar {}
+upgrades.extractor.desc,Cultiva cucs extractors portables que s'agafen a les vetes de Ferro i l'extrauen eficientment amb el pas del temps.
+unlock.mapsize.huge,Guanya una partida en un mapa gran per desbloquejar.
+upgrades.liftcarrykeeper2.desc,L'ascensor potencia encara més la teva velocitat.
+loadout.mapsize.title,Mida del mapa
+loadout.difficulty.hard,Tu ho has volgut
+upgrades.rocketlauncherdamage1.title,Míssils millorats
+versus.corruptionfastmonsters.title,Monstres àgils
+multiplayer.host.online.desc,Jugadors d'arreu del món s'hi poden unir.
+upgrades.keeper4speed3.desc,Incrementa enormement la velocitat de moviment.
+network.error.offline,"S'ha perdut la connexió amb la xarxa. Si us plau, comprova-la."
+level.tutorial.ninja.carry.desc1_1,Els recursos es recullen automàticament quan hi passes per sobre.
+upgrades.resourcepackerconstant.desc,"Provoca una recàrrega quasi instantània permetent fer-ne ús gairebé sense restriccions, a més de millorar la mida del paquet i l'escalabilitat."
+loadout.versusmod.versusmodifiersecondweapon.desc,Els equips amb més d'un guardià comencen la partida amb l'arma de la segona estació desbloquejada.
+assignment.logistics.desc,El Gremi dels Guardians ha descobert abundants reserves d'aigua en aquest planeta i t'ha encarregat gestionar-ne la logística.
+properties.shockwave.damage,Dany {}
+pause.gamepadcontrols.back,Torna

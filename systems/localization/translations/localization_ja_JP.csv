@@ -1,0 +1,2286 @@
+﻿key,ja_JP
+upgrades.teslapersistance1.title,オーブ持続+1
+upgrades.keeper4ramping1.title,モメンタム
+upgrades.stationextensionupgrades.desc,移動基地でもドームのアップグレード導入が可能になる。
+upgrades.sword.title,ソード
+upgrades.autocannonimproved.desc,キャノンを全体的に強化する。
+upgrades.laserstrength1.title,パワー+1
+properties.monstermodifiers.timebetweenwavesmodifier,サイクルの長さ {.percent}
+level.gameover.unlock.modifiers,新オプション、解放！
+keybindings.reset.explanation.ps5,"入力システムの大幅変更を含む最新アップデートにより、ボタンコンフィグがリセットされました。
+恐れ入りますが、再設定をお願いします。"
+reward.rewardrerolloffers2.desc,水を消費してガジェットまたは追加武装の引き直しが複数回可能になる。
+upgrades.proberecharge.desc,探査機のバッテリーが、時間経過で自動的に回復するようになる。
+versus.corruptionmonsterdamage.title,危険度最大
+loadout.start.area.press,|でステージ開始
+upgrades.shieldbattleblastdamage.title,電圧強化
+properties.monstermodifiers.move_speed,敵生物移動速度 {.percent}
+upgrades.mushroomfarmspeed1.title,キノコダッシュ+1
+upgrades.chainsawdamage1.title,丸ノコサイズ+1
+properties.orchard.battlerootexplosion,爆発ダメージ {}
+level.tutorial.assessor.bundleguide.desc2,方向を入力せずに|で 静止したバンドルを設置する。
+upgrades.swordtargetlock.desc,ソードが伸びる時に、先頭の敵を自動的にロックオンする。
+reward.rewardautomatedweapons.desc,サブ武器が自動的に発動する。
+options.input.gamepad,コントローラー
+playerlist.profile,プロフィールを見る
+upgrades.stunlaserstun1.title,スタン強度+1
+properties.condenser.overchargedelay,精製遅延（サイクル） {}
+exhibition.level.description,メインメニューに戻るまで…
+keybindings.reset.explanation.switch,"入力システムの大幅変更を含む最新アップデートにより、ボタンコンフィグがリセットされました。
+恐れ入りますが、再設定をお願いします。"
+upgrades.shockwave.title,衝撃波ハンマー
+properties.keeper3.shurikencooldown,シュリケンクールダウン {}秒
+title.navbar.leaderboard,名声チャレンジ
+modding.prestigewhitelist,名声チャレンジの使用可能リストに追加できそうなMODをお持ちの場合 Discordで報告して頂ければ開発チームが確認します。使用可能リストに掲載できるMODは ゲームバランスに影響を及ぼさず アクセシビリティ改善や見た目を変更するのみのMODに限られます。
+upgrades.extractordoublebuild.desc,鉄ムシのふ化効率を上げる。
+upgrades.chainsawdamage3.title,丸ノコサイズ+3
+modding.modio.error,mod.ioエラー
+loadout.versusmod.versusmodifiermirroredmap.desc,ドーム下にひろがる鉱洞が、相手チームとそっくり鏡写しのものになる。
+actionhint.blast,爆破
+multiplayer.host.crossplay,クロスプレイを実行
+properties.converter.ironpercobalt,鉄{}個→コバルト1個
+upgrades.shieldovercharge.desc,水を使用してシールドをオーバーチャージし、次ウェーブでダメージをより多く吸収するようにさせる。
+properties.droneyard.overchargebattledronestrength,戦闘ドローン強化 {.percent}
+options.game.showkeeperaimindicator,キーパーの照準インジケーター表示
+upgrades.chainsawautonomy.title,丸ノコ用自律型AI
+properties.keeper4.holesquadduration,採掘持続時間 {}秒
+options.keybindings.rebinding.capture,割り当てる
+options.game.screenshake.shakeintensity,ゆれの強さ
+upgrades.keeper2pinballspherelifetime.desc,破壊球の飛行時間が延びる。
+upgrades.swordreflection2.title,リフレクター+2
+upgrades.lift.title,リフト
+assignment.circumstance,条件
+options.input,入力
+properties.keeper2.spheresplit,向かってくる破壊球を分割
+properties.tesla.damage,射撃ダメージ {}
+options.game.events.allowtelemetry,オンラインマルチプレイを有効
+properties.keeper1.maxspeed,最高スピード {}
+level.tutorial.tesla.panel3content1,"テスラドームには多種多様な機能が備わっている。
+スキルをうまく組み合わせて活用しよう。"
+level.tutorial.sworddome.reflecting.desc,ソードのシールドパッドを使えば 投射物からのダメージを防げるほか 反射させることも可能だ。
+options.game.bundlesnapping,バンドル照準を四方向にスナップ
+upgrades.spiresustain.title,継続射撃
+reward.rewardpermanentinventory.title,永続インベントリ
+properties.furnace.ironduration,鉄燃焼時間（サイクル） {}
+level.gameover.assignment.badges.more,この任務をチャンレンジモードでクリアすると 新たにバッジが入手可能。
+upgrades.droneyardovercharge2.title,オーバーチャージ強化
+multiplayer.error.joincodefailed,コードで指定されたロビーが見つかりません。
+properties.laser.movespeedwhilefiring,照射中スピード {.percent}
+upgrades.keeper3shurikencooldown1.title,シュリケン装填の術・乙
+upgrades.orchardduration2.desc,フルーツによる能力強化の持続時間がさらに延びる。
+options.input.controls,操作
+upgrades.droneyardovercharge3.desc,ドローン基地のオーバーチャージ後、さらにドローンが生成されるようになる。
+upgrades.blastminingimpactdetonation.desc,"爆風弾が何かの表面に接触した瞬間、起爆するようになる。
+接触方向に応じて、爆発の方向が調整される。"
+upgrades.drillbotstrength3.title,強化+3
+level.gameover.clientdisconnect,ホストより切断
+upgrades.swordstabexplode.desc,ソードに爆弾を搭載し、刺突攻撃が最初にヒットした敵が爆発するようになる。
+properties.keeper4.minpunchdelay,パンチ最小遅延 {}秒
+options.audio.music,BGM
+upgrades.jetpackstrength3.title,運搬力+3
+upgrades.keeper4swiftpunch.desc,採掘の初期速度が上昇する。
+assignment.showdown.desc,敵対生物が 一度きりの大規模攻撃を仕掛けようと 待ち構えている惑星に挑め。
+properties.suitblaster.chargespeedpercharge,チャージ{.percent}あたりの追加チャージ
+loadout.versusmod.versusmodifierhardrock,硬い岩盤
+properties.keeper4.catgoblinminingspeed,ビャゴブリン採掘速度 {.percent}
+keeperdlc.title,ロストキーパー
+upgrades.drillbotduplicate.title,なかよし兄弟
+properties.mushroomfarm.drillbuffduration,採掘強化持続時間 {}秒
+upgrades.droneyardbattlegridlong1.desc,稼働時間の長いドローンを導入する。
+level.gameover.prestige.uploading.inprocess,スコアを送信中
+upgrades.furnace.desc,"煙突つきの炉を導入する。
+煙突の煙により、ウェーブ到来を遅らせることができる。"
+leaderboard.needsOnlineServices.ps5,ランキングの閲覧には、ソフトウェア利用許諾契約への同意が必要です。
+options.game.multiplayer,マルチプレイヤー
+upgrades.shieldbattledestructionprevention.desc,ドーム耐久値がわずかになると、長時間無敵になる。ただし次のウェーブでは使用できず再使用には2ウェーブ経過する必要がある。
+properties.keeper2.bundlestopcenter,中心軸重力場
+upgrades.chainsawdamage2.title,丸ノコサイズ+2
+upgrades.keeper2rotationalmining1.title,圧縮採掘+1
+upgrades.swordlargeblade1.title,ヘビーブレード+1
+loadout.difficulty.veryeasy,ノーマル
+level.tutorial.assessor.spheres.desc2,破壊球の数には上限があり 時間経過で自動的にリロードされる。
+level.tutorial.assessor.spheres.desc1,|で移動方向に破壊球を発射する。
+upgrades.repellentdelay3.desc,ウェーブ到達の遅延効果をもっと強化する。
+upgrades.artillerydirecthit1.desc,迫撃砲を改良し、直撃弾に特化した砲弾を発射するようになる。
+reward.rewardpet12.title,ペット：イヌ
+upgrades.keeper2movement4.desc,資源の収集および運搬中、素早く移動できるようになる。
+properties.sword.stabspeed,刺突スピード {.percent} 
+upgrades.artillerysplash3.title,揮発性爆薬+2
+properties.drillbot.amount,採掘パワー {}回
+options.game.autopickupkunaicarrier,運搬クナイ自動ピックアップ
+upgrades.stunlaserautonomy1.desc,キーパーがステーション外でも、スタンレーザーが起動するようになる。
+properties.laser.stun,スタン強度 {}
+loadout.proceed,次へ
+multiplayer.host.joincodeunavailable,使用不可
+upgrades.shieldbattlelongerafterdepletion.desc,ドームシールドがエネルギー切れになった後、電磁ブラストの持続効果が延びるようになる。
+level.tutorial.assessor.mining.desc,岩層を採掘するには、岩に向かって破壊球を当て続ける。
+upgrades.teleporterteleportresourcesback.desc,"転送機が資源を転送できるようになる。
+ただしキーパーは転送機に乗り込めなくなり、ドーム→転送機へのテレポートのみしか行えなくなる。"
+keybindings.reset.doreset.ps5,ボタンコンフィグをリセット
+upgrades.jetpackstrength1.title,運搬力+1
+level.tutorial.beastmaster.squad_1,|長押しで、穴の付近に採掘部隊を招集する。
+loadout.prestige.pro.explanation,一部のランダム性を低減し ガジェット・追加武装・洞窟の出現順を固定します。
+level.tutorial.beastmaster.squad_3,同時に活動させられるのは1分隊のみ。
+upgrades.swordelectrified.desc,ブレードに電気を流し 敵生命体に触れただけでダメージを与えるようになる。
+level.tutorial.beastmaster.squad_2,部隊員は、穴の周辺のブロックを無作為に採掘する。
+upgrades.drill1.title,ドリル強化+1
+loadout.start.area.move,全キーパーをこの位置に移動させて開始せよ
+level.station.upgrademenu.close,とじる
+upgrades.rocketlauncherrestock.title,ミサイル数アップ
+upgrades.chainsawdamage2.desc,丸ノコの与ダメージ量をさらに増強させる。
+level.station.battle.navbar.artilleryshoot,迫撃砲
+upgrades.repellentdelay3.title,遅延効果+3
+upgrades.suitblasterspeed1.title,チャージ速度+1
+level.gameover.stats.additional,詳細統計
+options.audio.music.ost.mode.adaptive,専用（推奨）
+upgrades.furnacestrongwaterfiring.title,燃料水 超効率化
+properties.dome.meleethorndamage,反撃ダメージ {}
+upgrades.repellentbattlelongerhealthreduction.desc,可視化状態にあるすべての敵への弱体効果を強める。
+level.tutorial.tesla.panel3header,芸達者
+versus.corruptionstunresistance.desc,敵生物のスタンおよび減速効果への耐性を強化する。
+level.tutorial.assessor.spheres,破壊球
+upgrades.chainsawdouble.title,ダブル丸ノコ
+upgrades.keeper4squad1.desc,特殊なニャゴブリンの採掘部隊を召喚し、近くの岩を掘る。このニャゴブリンたちは、資源を掘り返すコツを熟知しているようだ。
+versus.message.corruption,相手チームが敵生物付与効果を発動させました
+options.keybindings.action.keeper.gadget1,カジェット1
+options.keybindings.action.keeper.gadget2,カジェット2
+upgrades.swordfastreflection.title,加速リフレクター
+properties.monsters.additionalstartweight,追加ウェーブ重量 {}
+level.gameover.stats.damagedealt,与ダメージ量
+properties.keeper2.reflectspeed,破壊球加速 {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,追加スキル持続時間 {}秒
+properties.converter.ironcobalttime,鉄→コバルトの変換時間 （サイクル） {}
+upgrades.droneyardbattlegrid.desc,付近の敵に対する防衛のため、戦闘ドローン陣形を展開するようになる。
+upgrades.suitblasterradius1.desc,爆風範囲をひろげる。
+upgrades.droneyardbattlegridquick1.title,機動性強化
+options.input.controls.keybindings.button.ps5,ボタンコンフィグを変更
+multiplayer.host.ping,サーバーPing: %dms
+title.navbar.singleplayer,シングルプレイ
+options.video.renderhalfres.enable,半解像度でレンダリング
+level.gameover.stats.destroyedblocks,破壊ブロック数
+upgrades.converterefficientwaterlong.desc,水への変換作業を、長時間かかるが変換後の量が多くなる工程に変更する。
+level.gameover.restart,ステージをやり直す
+options.video.stretchmode.scaled,スケール
+level.tutorial.beastmaster.mine.desc1,鉱床を押し続けることで採掘する。
+level.tutorial.beastmaster.mine.desc2,攻撃するたびに、採掘速度が上がる。
+upgrades.domesupplementscraprepair2.desc,スクラップ修理をほどこし、ドームの耐久値を回復する。
+upgrades.keeper2bundle3.desc,中心軸に向かってバンドルを放つと、中心軸を通り過ぎずにドームの直下位置で止まるようになる。
+leaderboard.fellowkeepers,協会ランキング
+upgrades.autocannon.desc,大ダメージを与える強力な自動発射式キャノンをドームに搭載する。
+properties.orchard.battlerootcatchduration,トラップ持続時間 {}秒
+upgrades.laseraimline.desc,砲塔に照準を搭載し、レーザーの照射先をわかりやすくする。
+upgrades.teslapersistance2.title,オーブ持続+2
+upgrades.repellentoverchargeduration2.desc,戦闘スキルにおけるオーバーチャージの衝撃パワーを、さらに増強させる。
+actionhint.teleport,テレポート
+loadout.difficulty.medium.description,ドームが想定する標準的な難易度
+upgrades.swordlargeblade2.title,ヘビーブレード+2
+loadout.prestige.endless,エンドレス
+upgrades.teslanurture.title,エレキオーブ成長
+upgrades.shieldbattleelectroblast.desc,戦闘スキル。敵にダメージを与えるエリアを、ドーム周囲に短時間だけ作り出す。
+options.game.blocklist.desc,"ブロックしたユーザーの一覧です。
+ブロック済ユーザーとは、今後オンラインモードで一緒にプレイできません。 
+ブロック済ユーザーについてステータスを変更したい場合は、以下でブロックを解除してください。
+
+ %s人までブロック可能です。"
+actionhint.cancel,キャンセル
+upgrades.shockwavestun2.title,衝撃波スタン+2
+upgrades.liftcapacity1.desc,オーブが運搬できる資源の数が増える。
+upgrades.domewavemeter.title,"敵対生物
+感知メーター"
+level.gameover.assignment.win.title,任務 完遂
+gadget.slot.cellar,地下室
+options.game.ropecamerafollow,ロープ使用時の視点補正の強さ
+upgrades.proberecharge.title,自動リチャージ
+level.tutorial.repair.usecobalt,コバルトを使ってドームを修理できる。ドームの技術アップグレードツリーを見てみよう。
+level.supplementchoice.title,追加装備を選択せよ
+options.keybindings.action.general.right,右
+gadget.slot.keepersuit,キーパーのスーツ
+assignment.cobaltcontribution.desc,組合からの緊急要請のため 大量のコバルトを手早く搬送すること。
+upgrades.prestigefinish.desc,この惑星を去り、帰還する。
+loadout.mapsize.huge.description,長時間プレイ向けの巨大なマップ
+options.game.events,イベント
+loadout.versusmod.versusmodifierrichirondeposits.desc,体積は小さいが、産出量が非常に多い鉄鉱床になる。
+loadout.mode.shortcycles.desc,敵ウェーブ間の間隔が短くなる。
+multiplayer.error.lobby.host,ロビーの作成に失敗しました。
+level.tutorial.sworddome.reflecting,反射
+level.tutorial.artillery.panel3header,爆発と直撃
+assignment.rareiron.title,鉄の枯渇
+level.tutorial.assessor.carry.desc1_1,1度ロックすれば 収集キーを離しても資源はキーパーの後を追うようになる。
+level.station.battle.navbar.slice,斬撃
+upgrades.furnacewaterfiring.title,水燃料
+upgrades.drill.desc,"奥深くまで掘削できるドリル。
+側面にはサブドリルつき。"
+level.gameover.stats.additionalgadget,追加ガジェット
+level.tutorial.tesla.panel2content1,|長押しで射撃チャージする。
+level.tutorial.tesla.panel2content2,ショットを発射するには完全にチャージしてから離そう。完全にチャージされていないと効果がない。
+upgrades.teslapersistance1.desc,エレキオーブのサイズを大きくし、持続時間も延ばす。
+upgrades.blastminingtriple.desc,爆風弾を複数個 生成するようになる。
+properties.droneyard.battledronecount,戦闘ドローン {}
+options.ok,OK
+loadout.versusmod.versusmodifiermanycaverns,うつろな地下鉱洞
+upgrades.lasermove1.desc,レーザー砲塔の移動速度を上げる。
+upgrades.domewavewarner.desc,ウェーブ接近時、ドームに戻るべきタイミングで警報が鳴る。学習能力つきで、時間経過と共に正確さが向上する。
+upgrades.dome4.title,テスラドーム
+upgrades.keeper4squad1.title,トンネル小隊
+upgrades.keeper4autospawnminers.desc,新しいトンネルの入り口が掘り出されるたび、採掘分隊が自動的に出現するようになる。
+assignment.unpredictable.title,通信機器破損
+upgrades.blastminingblast3.desc,爆風弾のパワーを大幅に強化する。
+upgrades.domewavepathtodome.title,帰還経路検索機能
+level.tutorial.probe.popup_1.switch,|で探査パルスを放つ。
+upgrades.teslapower1.desc,テスラの射撃威力を強化する。
+loadout.versus.modifiers.title,オプション
+properties.furnace.irondelay,鉄の遅延効果 {}秒
+actionhint.pickup,拾う
+demo.end.subtitle,製品版ではコンテンツが盛りだくさん。デモ版をお楽しみいただけたなら ぜひ製品版DLをご検討ください。製品版では…
+loadout.versusmod.versusmodifierironinflation.desc,アップグレードに2倍の鉄が必要となるが、鉱洞内の鉄鉱床が増える。
+upgrades.artilleryprojectileerasure.title,発射物リフレクター
+options.video.brightness.reset,リセット
+upgrades.domesandrepair.desc,コバルトを消費してドームを修復する。
+upgrades.swordlongblade2.title,ロングブレード+2
+pause.restartrun,ステージをやり直す
+options.input.gamepad.thumbstick.ps5,スティック
+level.tutorial.caves,洞窟
+options.input.gamepad.gamepadstickdeadzone.ps5,スティックの感知無効範囲
+upgrades.keeper3shuriken2.title,シュリケン装填の術・甲
+upgrades.condenserspeed1.desc,水の精製時間を短縮する。
+properties.monsters.fixedweight,修正後ウェーブ強度 {}
+properties.versus.ironcontribution,鉄の貢献 {}
+multiplayer.join.title,マルチプレイセッションに合流
+upgrades.prestigewater.title,水の送達
+upgrades.keeper3kunaibounce2.title,クナイ共鳴の術
+upgrades.swordtargetlock.title,ターゲット・ロック
+upgrades.artillerymachinegun4.title,速射砲
+upgrades.mushroomfarmdrill2.title,キノコパワー+2
+upgrades.stunlaser.desc,敵を自動追尾し、気絶させるレーザーを導入する。
+upgrades.shieldbattleinvulnerable.title,無敵シールド
+loadout.hint.dome,ドームを選択せよ
+loadout.versusmod.versusmodifierrichirondeposits,濃密な鉄鉱床
+upgrades.chainsawdouble.desc,丸ノコをもう1機導入し、ドーム両側を効率的に防衛できるようにする。
+properties.lift.capacity,オーブの運搬資源数 {}
+reward.rewardcentralmarker.title,中央軸マーカー
+upgrades.autocannonrateoffire1.title,マシンガン+1
+loadout.versusmod.versusmodifierwindingmap,屈曲鉱洞
+upgrades.prospectionmetersand2.title,コバルト探査用コンパス
+properties.lift.orbs,オーブ {}個
+upgrades.keeper3doublejump.desc,空中でもう一度ジャンプできるようになる。
+upgrades.droneyardparasites3.title,寄生ドローンLv.3
+upgrades.keeper4doublesquad.title,第二分隊
+upgrades.relichunt.title,遺物収集モード
+upgrades.orchardbattlerooting.desc,戦闘中に果樹がドーム外に根を張り、中型の敵が踏むと捕えるトラップになる。
+upgrades.prospectionmetergadget.title,区画メーター
+properties.sword.reflection,シールドパッド増幅
+upgrades.extractorresources1.desc,鉄ムシが真剣に仕事をするようにさせ、鉄の抽出量が増えるようにする。
+properties.dome.autohealdamagethreshold,発動：被ダメージ{}HP以上
+upgrades.keeper2rotationalmining2.desc,岩層の採掘速度が上がる。
+properties.tesla.persistencestunstrength,電気オーブスタン強度 {}
+level.gameover.stats.timeplayed,プレイ時間
+properties.sword.stabdamage,刺突ダメージ {} 
+properties.monsters.additionalwaveweight,追加ウェーブ強度 {.percent}
+options.game.playerindicatorsinmultiplayer,マルチプレイ時のプレイヤー名表示
+properties.mushroomfarm.speedbuff,移動速度強化 {}
+level.tutorial.drillbot.carry,ディグモを連れ出して 採掘させたい場所に置いてやろう。
+modding.modio.decline,拒否
+assignment.inversegravity.desc,重力が反転している惑星に挑め。
+level.tutorial.drop.popup_2,"|を押して落とす。
+長押しで一気に落とす。"
+upgrades.droneyardbattlegridquick1.desc,ドローンの発進スピードを上げる。
+upgrades.mushroomfarmautopickup.desc,キノコに近づくと、自動的に食べるようになる。
+level.tutorial.drop.popup_1,資源の運搬中は 移動速度が低下する。
+properties.sword.retractspeed,引きスピード {} 
+reward.rewardkeeper1skin5.title,エンジニアスキン
+upgrades.keeper4.desc,すばやく動く触手で坑道を進み、ニャゴブリンを統率する謎めいたキーパー。
+assignment.condition.deliverwater,水を%d送る
+loadout.difficulty.hard.description,負けると知っても挑むかは あなた次第
+upgrades.keeper4speed2.title,機動力+2
+loadout.versusmod.versusmodifierhardrock.desc,鉱洞内に、硬い岩盤が増える。
+properties.furnace.maxironstack,鉄の最大蓄積数 {}
+upgrades.rocketlauncherdamage2.desc,ミサイルの与ダメージ量を、さらに増強させる。
+upgrades.artilleryrotation1.desc,迫撃砲の旋回可能範囲が広くなる。
+level.furnace.popup.fuel.add,燃焼させる|を1個 蓄える。
+reward.rewardpostrunshowmonstercount.desc,敵種族別の総被ダメージ値など 過去の戦績の詳細な情報を確認する。
+upgrades.extractordoublebuild.title,ダブル鉄ムシ
+multiplayer.error.otherteamquit,すべてのプレイヤーが相手チームから退出したため、ゲームが終了しました。 ゲームは保存されています。ゲームを続行する場合は、コンティニューメニューの「マルチプレイヤー」を選択してください。
+upgrades.blastminingproductiontime1.title,作成時間
+upgrades.chainsawdamage3.desc,丸ノコの与ダメージ量をもっと増強させる。
+multiplayer.continue.deviceselection.originalplayer,元のプレイヤー
+upgrades.shieldbattleinvulnerable.desc,戦闘スキル。ドームが短時間 無敵になる。
+level.gameover.unlock.drillbert,ディグモのオプションを解放！
+multiplayer.host.splitscreen.desc.switch,ロードアウト画面でコントローラーを使用すると、キーパーが追加出現します。1画面を最大4人までで共有可能です。オンラインネットワークのプレイヤーが合流できます。
+loadout.mapsize.large,大
+level.furnace.popup.explanation,資源を炉に投入しよう。炉は次々に資源を燃焼させる。
+upgrades.condenserdoublestorage.title,容量強化
+upgrades.shockwavebig.title,衝撃的破壊力
+upgrades.extractorresources2.desc,鉄ムシが、鉄鉱脈から最後まで鉄を抽出するようにさせる。
+level.tutorial.ninja.shuriken.desc1,|を素早く2回入力すると手裏剣を投げる。
+level.tutorial.ninja.shuriken.desc2,シュリケンは時間経過で補充される。
+upgrades.droneyarddronespeed1.title,ドローンスピード
+upgrades.stunlaserarea.title,範囲スタン攻撃
+assignment.weakmining.title,採掘上の問題発生
+options.game.events.allowtelemetry.ps5,同意する
+upgrades.keeper3kunaibounce2.desc,共鳴させるたびに明らかにできる鉱床の範囲が広がる。
+assignment.projectilehell.title,投射物の嵐
+options.input.controls.mouse.gamepad.ps5,コントローラーとの切り替えを自動的に検出します
+reward.rewardpermanenthealthmeter.title,永続ヘルスメーター
+properties.game.fixedtimelimit,制限時間: {} 分
+upgrades.drillbot.title,ディグモ
+options.video.performance,パフォーマンス
+properties.furnace.waterduration,水燃焼時間 (サイクル) {}
+level.gameover.win.team.profile,プロフィール
+upgrades.droneyardbattlegrid.title,戦闘グリッド
+loadout.prestige.countdown.description,ポイント倍率が高い状態で始まり サイクルを経るごとに 倍率が減っていくモード。
+level.tutorial.ninja.carry.desc1,%sで狙いをつけ、|で物資を運ぶクナイを投げる
+level.gameover.miner.title,採掘者モード終了
+loadout.mapsize.medium.description,標準的なプレイ時間用の中規模マップ
+upgrades.assignmentsemergencycontribution2.desc,パッケージを第4ラウンドまでに搬送しないと、失敗となる。
+level.gameover.unlocknewelementbutton,アンロック対象を選択せよ
+upgrades.repellentbattlestrongerslowdown2.desc,霧の麻痺効果をさらに強化し、効果の持続時間もさらに長くする。
+upgrades.orchardovercharge2.desc,戦闘スキルのオーバーチャージの衝撃パワーを増強させる。
+modding.steamworkshop,Steam ワークショップを開く
+upgrades.drillbotstrength2.title,強化+2
+reward.rewardkeeper1skin5.desc,エンジニアの新たなスキンが使用できるようになります。
+options.keybindings.rebinding.error.gamepad.ps5,この操作はコントローラー入力に設定できません。
+properties.keeper2.actioncooldown,クールダウン {}秒
+pause.godot,開発プラットフォーム：godot
+loadout.mode.nomonsters,敵生命体なし
+properties.teleporter.teleportduration,転送時間 {}秒
+level.paused,ポーズ中
+upgrades.teslaautoaim.desc,敵生命体がレティクル周囲のエリアに入ると、最も近い敵に自動的に照準が合うようになる。
+upgrades.domearmorpulse.desc,ドームのアーマーが敵の攻撃から受けた運動エネルギーをため、近くの敵をスタンさせる強力なパルスを放出する。
+upgrades.teslapower2.title,射撃威力+2
+loadout.versus.team.closed,とじる
+upgrades.stunlaserduration2.desc,スタンレーザーのクールダウンがさらに短縮され、照射時間も延びるようになる。
+level.station.battle.navbar.move,移動
+upgrades.repellentbattleslowdown.title,減速効果
+properties.drillbot.buffstrength,エネルギー加速 {.percent}
+options.input.controls.keybindings.button.switch,ボタンコンフィグを変更
+upgrades.keeper4speed1.title,機動力+1
+upgrades.stunlaserduration2.title,射撃持続力+2
+modding.profile.delete,プロファイルの削除
+upgrades.dome1health1.desc,ドームの耐久値が増加する。
+assignment.logistics.title,後方支援の悪夢
+level.gameover.prestige.score.finalscore,最終スコア
+upgrades.prestige.desc,"ドームが陥落するか、自ら惑星を去るまでに
+資源をドームに運び、母星へ送れ。"
+properties.chainsaw.damage,ダメージ（1秒あたり） {}
+upgrades.autocannonshotgun2.desc,ショットガンの威力を上げる。
+reward.rewardthreechoicesgadget.title,３種の提示ガジェット
+options.input.gamepad.twinstick.xbox,ツインスティック操作
+upgrades.domewavewarner.title,適応ウェーブ警報器
+upgrades.mushroomfarmdrill2.desc,キノコによる採掘速度上昇力をさらに強化する。
+properties.suitblaster.chargespeed,チャージ（1サイクル） {}
+loadout.player.color,キーパーカラー
+level.assignment.badges.unlock,開放まで あとバッジ%d個
+assignment.projectilehell.desc,投射物攻撃飛行性生物に支配された惑星。
+properties.repellent.overchargebattleabilityduration,追加スキル持続時間 {.percent}
+properties.orchard.battleshieldhp,強度 {}HP
+properties.keeper2.reflectsphere,反射フィールド
+upgrades.probecharges.desc,探査機の充電容量を1つ追加する。
+upgrades.resourcepackerconstant.title,おまとめの天才
+upgrades.droneyardbattlegridlong2.desc,稼働時間がさらに延びたドローンを、たくさん飛ばせるようになる。
+upgrades.swordreflection2.desc,シールドパッドをさらに大きくする。
+upgrades.orchardovercharge3.title,"オーバーチャージ
+強化・改"
+upgrades.assignmentsemergencycontribution4.desc,パッケージを第11ラウンドまでに搬送しないと、失敗となる。
+upgrades.droneyardovercharge3.title,"オーバーチャージ強化
+改2"
+level.gameover.assignment.lose.title,任務 失敗
+actionhint.pack,梱包
+upgrades.stationextensionminimap.title,マッピング機能
+properties.tesla.orbdamage,電気オーブダメージ {}
+properties.furnace.maxwaterstack,水の最大蓄積数 {}
+loadout.versusmod.versusmodifiermirroredmap,鏡写しの鉱洞
+upgrades.artilleryrotation1.title,旋回範囲拡大
+upgrades.drillsidespeed2.desc,側面ドリルの採掘速度をさらに上昇する。
+level.tutorial.resourcepacker.popup_1,資源に近づき|で 運搬しやすい小さめのバンドルにまとめることができる。
+properties.orchard.overchargeabilityuses,追加スキル使用 {}
+options.input.controls.gamepadusage.ps5,コントローラーの使用
+options.keybindings.restoredefault,初期設定にもどす
+options.input.gamepad.switch,コントローラー
+upgrades.stationextensionresolution.title,ハイレゾモニター
+upgrades.shieldbattlelongerafterdepletion.title,自動電圧強化
+telemetry.manage.ps5,同意しない
+level.gameover.stats.damagereceived,被ダメージ量
+modding.modio.moddownloadfailed,mod.io modのダウンロード中にエラーが発生しました
+loadout.versusmod.versusmodifierironinflation,鉄のインフレ
+reward.rewardpermanentwavecount.title,永続サイクルカウンター
+upgrades.jetpackstrength3.desc,ジェットパックを改良し、運べる資源の数をもっと増やす。
+level.gameover.unlock.gadget,新ガジェット
+upgrades.stationextension.desc,"ドーム直下レール上で機能する、移動基地を導入する。
+基地に入ると、鉱洞内でもリモートでドームを操作できる。"
+loadout.versusmod.versusmodifierpoorirondeposits.desc,体積がかなり大きいが、産出量が少ない鉄鉱床になる。
+upgrades.repellentbattlestrongerslowdown2.title,減速効果（改+）
+upgrades.converterirontocobalt.desc,コバルトを鉄に、鉄をコバルトに変換できるようになる。
+loadout.dome,ドーム
+upgrades.orchardduration3.title,持続時間+3
+level.gameover.stats.resourcesmined,採掘資源数
+options.input.gamepad.thumbstick,刺繍
+upgrades.keeper1powerdrill.desc,ドリルを大幅に強化して、これまで掘削できなかった岩盤も掘削できるようにする。
+upgrades.domesecondweapon.title,第二ステーション武装
+actionhint.fire,発射
+versus.corruptionfastprojectiles.title,高速の投射物
+level.gameover.unlock.dome,新たなドーム
+loadout.versus.modifiers.limit,オプション選択可能数：%d（上限%d）
+upgrades.swordstabfast2.title,刺突スピード+2
+properties.blastmining.growthtime,作成時間（サイクル） {}
+options.keybindings.rebinding.inputprocessor.ps5,アクションを設定するキーを押してください
+level.gameover.stats.difficulty,難易度
+assignment.inversegravity.title,上下反転
+assignment.acidrain.desc,惑星に酸性雨が降り注ぎ、あらゆる生命体が存在しなくなり、ドームの耐久値も削られていく。
+upgrades.keeper4doublesquad.desc,呼べばすぐに稼働する部隊が、もうひとつ増える。
+upgrades.keeper4powerfulfirstpunch.desc,ブロックへの最初の一撃が、ケタ外れに強力になる。
+multiplayer.host.start,セッションをホスト
+upgrades.mushroomfarmspeed2.title,キノコダッシュ+2
+demo.end.more1,さまざまなドームで戦える！
+demo.end.more2,キーパー「プロフェッサー」参戦！
+upgrades.swordreflection1.desc,シールドパッドを大きくし、エネルギー性の投射物を反射するようになる。
+demo.end.more3,盛りだくさんのガジェット！
+upgrades.chainsawspeed1.title,移動速度改良
+assignment.treefarm.desc,惑星が蓄える資源量が少ない代わりに、資源の種が多く見つかる。
+demo.end.more4,強力な武装がてんこ盛り！
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"コントローラースティックを押し込まず 触れただけの状態時に バー上の四角が動かない値を設定します。
+スティックを押し込んで動かした時に 四角が動くよう調整してください。"
+actionhint.probe,探査機
+level.gameover.keepgadget.keeping,キープするガジェット {gadget}
+upgrades.keeper3aerialmastery.desc,"落下中、および空中ジャンプの操作性が向上する。
+また滞空ジャンプを繰り返すと、回数ごとに飛び上がる高さが上昇する。"
+upgrades.drillbot.desc,"採掘が大好きなかわいいヤツが仲間になる。採掘させたい場所に連れていこう。
+疲れると居眠りするので、ちょいちょい様子を見に行くこと。"
+upgrades.laserstrength4.title,パワー+4
+upgrades.artillerydoublemachinegun.title,ダブルバレル
+upgrades.laserbend.desc,レーザーにスイベルが搭載され 照準が補正されるようになる。
+upgrades.teslaquickshot2.title,クイックショット強化
+properties.droneyard.battledronespawntime,ドローンのスポーン時間 {}秒
+upgrades.prospectionmetersand2.desc,最も近いコバルト鉱床の方向を表示するようになる。
+upgrades.keeper2pinballreflect2.title,反射性能向上
+loadout.secondstage.start,探索開始
+level.tutorial.extractor.popup_1,"ステーションから鉄ムシを連れ出し 付近の鉄鉱脈に設置する。
+鉄ムシは鉱脈にはりつき 時間経過とともに鉄を採掘する。"
+upgrades.spirestuntrap2.desc,エネルギートラップの効率を上げ、捕捉可能な投射物の数を増やす。
+loadout.versus.condition.deathmatch.desc,最後まで残っていたチームの勝利
+loadout.versusmod.versusmodifiertoughstart.desc,敵ウェーブがかなり強くなる。
+level.tutorial.drillingrig.popup2,側面ドリルに近づいて|長押しで 側面ドリルをドリルシャフトに沿って動かす。
+level.tutorial.drillbot.sleeping2.switch,ディグモのそばで|で起こす。
+upgrades.teleporterteleportitems.title,物質転送
+level.tutorial.drillingrig.popup1,採掘リグに側面ドリルを搭載し 水平方向に採掘できるようになる。
+level.tutorial.ninja.drop.desc1,地面にいる状態で%sで下方向を狙いながら|で、持ち物をすべてドロップする。
+upgrades.stationextension.title,地下ステーション
+upgrades.keeper2pinballreflect2.desc,反射した破壊球の威力が、さらに強力になる。
+properties.sword.stabrange,間合い {} 
+pause.disconnect.popup.ps5,メインのコントローラーは解除できません。
+options.game.systemcursor,デフォルトのマウスカーソルを使用する
+upgrades.artillerygrenadefastreload.desc,迫撃砲の装填速度を大幅に短縮する。
+upgrades.stationextensionrevealdistance1.title,近辺岩層スキャン
+loadout.mode.secondweapon,第二武器解放
+options.video.reducedparticles,粒子エフェクト減少
+properties.monsters.finalwavefixedstrength,最終ウェーブの強さ {}
+versus.corruptionfastmonsters.desc,敵の動きが永続的に速くなる。
+upgrades.spirestuntrap1.desc,撃墜した投射物がエネルギートラップを生成しより多くの投射物を捕えるようになる。捕捉可能な投射物数は、投射物の威力に依存する。
+versus.corruptionfastprojectiles.desc,敵生物の放つ投射物のスピードが上がる。
+options.input.gamepad.twinstick.switch,ツインスティック操作(Joy-Con1個では無効)
+upgrades.autocannonrateoffire2.title,マシンガン+2
+upgrades.chainsaw.title,電動丸ノコ
+options.input.vibration.strength.ps5,振動の強さ
+savegame.corrupted.title,セーブファイルの破損を検知
+properties.drillbot.drillstrength,ドリル強度 {}
+properties.prestige.multiplier,ウェーブごとのポイント倍率 {}
+upgrades.artillerysplash4.desc,戦場全体に大打撃をもたらす、大爆発を伴う砲撃を4連射するようになる。
+upgrades.condenserdoublestorage.desc,凝縮機の水精製数を2つにする。
+upgrades.shieldbattleactivateondepletion.desc,シールドが切れると、自動的に無敵状態が継続するようになる。
+upgrades.chainsawspeed1.desc,丸ノコの往復移動速度を上昇させる。
+upgrades.teleporterteleportduration2.title,転送時間短縮+2
+properties.orchard.overchargeabilitystrength,追加スキル強度 {.percent}
+modding.modio.loginfailed,Xboxアカウントでmod.ioにログインできませんでした
+upgrades.rocketlauncherrockets3.title,弾幕+3
+leaderboard.needsOnlineServices,ランキングを利用するには、オンライン状態にしてください。
+options.game.blocklist,ブロック済ユーザーリスト
+upgrades.keeper4squad2.desc,採掘ニャゴブリン隊の頭数を増やし、さらに耐久力を上げる。
+reward.rewardweaponsupplements.desc,武器を強化する追加武装アップグレードを見つけよう。
+upgrades.domesupplementadditionalcellar.desc,"格納庫の階層を増やし、ガジェットをさらに
+２つ搭載できるようになる。"
+level.tutorial.assessor.bundle.desc1.switch,資源運搬中に|でバンドルを発射する。
+loadout.difficult.harder,難易度を上げる
+modding.close,とじる
+upgrades.keeper3rocketcarrier.title,ロケットクナイ
+level.tutorial.assessor.spheres.desc1.aiming,%sで狙いをつけ、|で破壊球を発射する
+level.gameover.unlock.gamemode,新たなゲームモード
+upgrades.rocketlauncherrockets1.title,弾幕+1
+upgrades.autocannonspeed1.title,スピードアップ
+upgrades.spiresustain.desc,装填時間をほぼゼロにし、極めて安定したペースでの攻撃を可能にする。
+upgrades.extractorresources1.title,はたらき者AI導入
+multiplayer.host.splitscreen.desc.xbox,ロードアウト画面でコントローラーを使用すると、キーパーが追加出現します。1画面を最大4人までで共有可能です。オンラインネットワークのプレイヤーが合流できます。
+level.assignment.badges,バッジ
+upgrades.prestigefinish.title,惑星を去る
+properties.sword.slicebounceback,衝突時のソード反発機能
+properties.droneyard.transportdronecount,転送ドローン {}
+upgrades.drilladditionalsides.title,側面ドリル追加
+upgrades.shieldbattleblastdamage.desc,電磁ブラストのダメージ量と使用回数を増加させる。
+upgrades.extractordestruction.title,穿孔内部発破
+properties.sword.electricdamage,電磁ソードダメージ{}
+properties.mushroomfarm.growthtime,成長時間（サイクル） {}
+upgrades.keeper3carrylimit1.desc,クナイ運搬術で運べる資源の数が増える。
+options.accessibility.fontsize,フォントサイズ
+upgrades.keeper4punch2.title,狂乱+2
+upgrades.laser.desc,ドームの外周に沿って砲塔が移動する、精密なレーザー。もとは小惑星を採掘するために作られた。
+loadout.hint.multiplayer.playermaximum,マルチプレイはプレイヤーが8人以下の状態で開始できます。
+upgrades.drillsides.title,側面ドリル
+upgrades.mushroomfarmautopickup.title,早食い
+options.input.controls.mouseusage,マウスを使用
+properties.tesla.reticlemaxspeed,レティクル速度 {}
+upgrades.swordstabshoot.desc,チャージしたソードがケーブルにつながった状態で発射されるかわりに、ミサイルのように飛んでいくようになる。
+properties.condenser.autocollect,自動収集機能
+level.gameover.back,もどる
+loadout.mapsize.small,小
+loadout.hint.gamemode,ゲームモードを選択せよ
+upgrades.swordlargeblade3.title,ヘビーブレード+3
+level.tutorial.ninja.controls,このキーパーは、コントローラーもしくはマウスとキーボードでのみプレイ可能です。
+telemetry.explanation.ps5,"ソフトウェア利用許諾契約に同意すると、オンランマルチプレイが利用可能になります。
+同意しない場合、マルチプレイは画面分割式のローカルモードのみ利用が可能です。
+
+この設定は、オプション画面からいつでも変更できます。"
+multiplayer.techtree.keeperexclusiveupgrades,これらのアップグレードは自分のキーパーにのみ適用されます。
+assignment.heavyhitters.desc,近接攻撃的生物に支配された惑星に挑め。
+options.input.controls.mouse.domes,ドーム操作にマウスを使用
+loadout.mode.toughstart,タフスタート
+upgrades.swordaimline.desc,刺突攻撃用のレーザー照準を導入する。
+upgrades.assignmentssendiron.title,鉄の搬送依頼
+upgrades.domearmormelee1.title,近接アーマー+1
+assignment.showdown.title,天下分け目の大決戦
+upgrades.keeper3shuriken1.desc,爆発して狭い範囲に爆風を発生させるシュリケンが使用できるようになる（シュリケンの補充は自動で行われる）。
+upgrades.teslatiming1.title,"パーフェクト
+タイミング"
+upgrades.stationextensionrevealdistance2.title,岩層スキャン
+loadout.prestige.pro.gadgetorder,ガジェットの出現順
+upgrades.prospectionmeterwater1.title,水感知器
+properties.teleporter.teleportresources,資源転送機能
+options.video.stretchmode.scaled.text,"固定解像度でゲームをレンダリングし 使用モニターの解像度に合わせます。
+特にフォントがピクセル化する場合がありますが 画像に誤差が生じません。"
+level.station.battle.navbar.exit,やめる
+level.station.battle.navbar.stab,刺突
+properties.keeper3.bouncesonarrange,ソナー範囲（ブロック） {}
+assignment.cobaltcontribution.title,コバルト需要
+upgrades.keeper2pinballsplit.desc,飛んでくる破壊球を2つに分割し、元の方向から垂直方向に飛ばすようになる。
+options.input.gamepad.xbox,コントローラー
+upgrades.stunlaserduration1.desc,スタンレーザーのクールダウン時間が早まり、照射時間が延びるようになる。
+properties.spire.stuntrapduration,持続時間 {}秒
+loadout.mapsize.medium,中
+upgrades.keeper4swiftpunch.title,迅速採掘
+upgrades.domewavecount.title,サイクル計測器
+level.gadgetchoice.slot,スロット: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,キノコから菌糸体を取り出して岩に落とすと強化効果を持つキノコに成長する。
+options.game.languages,言語
+upgrades.autocannonshotgun2.title,ショットガン+2
+upgrades.drillbotturnaround.title,超・体力増強プログラム
+level.tutorial.overcharge.popup_2,近くに移動し | でオーバーチャージする。
+level.tutorial.overcharge.popup_3,| を1つ消費する。数が不足している場合は使用不可。
+level.tutorial.overcharge.popup_1,"主要ガジェットのオーバーチャージが可能になった。
+次の戦闘時に強化した状態で使用できる。"
+modding.modio.modio,Mod.io
+upgrades.liftorbless.desc,"リフト圏内の資源を、オーブを使わず逆方向重力によってドームに運搬する。
+オーブ生成に使った資源の一部は返還される。"
+level.station.navbar.battle,戦闘モード
+options.keybindings.rebinding.error.mouse,この操作はマウスに割り当てられません。
+options.input.gamepad.autoswitch.ps5,最適コントローラーの自動検出
+properties.lift.keeperupwardsspeed,キーパー移動速度 {}
+loadout.keeper,キーパー
+level.gameover.unlock.keeper,新キーパー
+options.keybindings.rebinding.inputprocessor,設定するキーを押してください
+options.keybindings.gamepad,コントローラー
+upgrades.keeper4extraresource.title,マジメ部隊
+upgrades.shieldoverchargestrength2.title,ドームシールド強化+2
+loadout.mode.domesupplements,追加装備3倍
+upgrades.converter.desc,資源を別の資源へと変換できるようになり、貯蔵資源のかたよりを調整しやすくなる。
+assignment.minorvision.title,暗闇
+upgrades.shieldstrength1.desc,ドームシールドの吸収ダメージ量を増加させる。
+properties.stationextension.tilerevealdistance,探査距離 {}ブロック
+loadout.mode.toughstart.desc,敵ウェーブが最初から強い状態で始まる。
+upgrades.liftcarrykeeper1.desc,リフト内での移動スピードが上昇する。
+options.input.controls.mouse.aim,照準にマウスを使用
+upgrades.spireprojectileslowdown.desc,尖塔が敵からの投射物の飛来スピードを減速させるようにする。
+assignment.chosen.title,協会からの任務
+upgrades.furnacestrongwaterfiring.desc,水の燃焼によるウェーブ到来遅延効果を強化する。
+properties.dome.healthfractionrepair,修復HP：総耐久値の{.percent}
+level.tutorial.assessor.carry,重力収集
+upgrades.laserhitprojectiles.title,投射物分解機能
+upgrades.teslaorbstun.title,深度効果
+reward.rewardgadgetsupplements.title,ガジェット用追加武装
+options.input.controls.keepersettings.individual,個別キーパー設定
+upgrades.teslapower2.desc,テスラの射撃威力を強化する。
+properties.acidrain.fixeddamageperminute,ダメージ（毎分） {}
+demo.end.more,そのほかにも…
+landing.proceed.xbox,ボタンを押して続ける
+modding.modio.ugcterms.content2,このまま続行すると、Xbox Live IDを使用してModでの認証がシームレスに行われます。続行するにはmod.ioのポリシーを読み、同意する必要があります。
+upgrades.keeper4catgoblinamount.title,凄腕ブリーダー
+modding.modio.ugcterms.content3,[i]これらの利用条件は、システムのデフォルトのWebブラウザで開きます。[/i]
+upgrades.repellentbattlestrongerslowdown1.title,減速効果（改）
+properties.spire.splitshot,投射物分裂
+upgrades.suitblasterradius2.title,爆発範囲+2
+properties.keeper4.punchstrength,パンチ威力 {}
+modding.modio.ugcterms.content1,ユーザーが生成したコンテンツ（UGC）へのアクセス、ダウンロード、および管理のため、このゲームは [b]mod.io[/b] サービスを使用しています。
+upgrades.versus.title,対戦
+upgrades.swordstabexplode.title,刺突爆破効果
+modding.modlist.title,有効なMOD
+options.game.kunaisnapping,クナイの照準を四方向にスナップ
+loadout.versusmod.versusmodifiersecondweapon,第二武器解放
+upgrades.teleporterteleportduration1.desc,キーパー転送の所要時間が短くなる。
+options.input.controls.keybindings.button,キーコンフィグを変更
+upgrades.domearmor.title,ドームアーマー
+options.input.gamepad.gamepadstickdeadzone.text,"コントローラースティックを押し込まず 触れただけの状態時に バー上の四角が動かないよう値を設定します。
+スティックを押し込んで動かした時に 四角が動くよう調整してください。"
+options.translation.community.desc,"以下の言語はコミュニティで翻訳中です。
+ぜひ翻訳プロジェクトにご参加を！"
+level.tutorial.beastmaster.mine,採掘
+upgrades.keeper4speed1.desc,移動速度を上昇させる。
+properties.shield.overchargebattleabilityduration,追加スキル持続時間 {.percent}
+upgrades.shockwavedamage2.desc,衝撃波による与ダメージ量をさらに増強させる。
+network.error.offline.xbox,Xboxネットワークとの接続が切断されました。ネットワーク接続を確認してから再度お試しください。
+properties.condenser.waterstorage,水の貯蔵数：{}個
+loadout.versusmod.versusmodifierstrongmonsters.desc,敵生命体の撃破が困難になる。
+modding.title,MOD
+upgrades.dome3.desc,強力な迫撃砲で大打撃を与えられる、軍事用のドーム。対空砲の搭載により、防御にも隙なし。
+upgrades.keeper4powerfulfirstpunch.title,初手の勢い
+properties.sword.brake,ソードの敏捷性 {}
+level.tutorial.suitblaster.popup_1,|でスーツブラスターを発射し 周囲の岩を放射状に破壊する。
+properties.stunlaser.firetime,発射時間 {}秒
+level.tutorial.suitblaster.popup_2,ブラスターは時間経過とともに自動的に充電される。
+properties.repellent.battleuses,戦闘ごとの使用回数 {}回
+upgrades.keeper4ramping1.desc,途切れることなく採掘を行うと、採掘速度が向上するようになる。ただし採掘を停止すると、勢いが消える。
+level.gameover.unlockpicker.title,アンロック要素を選択せよ
+options.input.gamepad.autoswitch.switch,最適コントローラーの自動検出
+upgrades.suitblaster.desc,採掘ブラスターをスーツに導入し 周辺の岩層を爆発の力で破壊できるようにする。
+upgrades.spiresplit1.desc,"命中した投射物を複数の小さな弾に分裂させ、敵にダメージを与える。
+分裂する弾の数は、投射物の威力によって変わる。"
+properties.versus.additivewave,敵ウェーブ強化（相手チーム） {}
+properties.keeper3.aircontrol,空中操作性 {.percent}
+multiplayer.error.keepertaken,選択したキーパーはほかのプレイヤーが選択済みです。ほかのキーパーを選んで下さい。
+assignment.mode.challenge,難関レベル
+upgrades.keeper3shurikenstrength1.desc,シュリケンの爆発の威力を上げ、破壊できるブロックの範囲を広げる。
+pause.invite,フレンドを招待
+options.accessibility.fontsize.medium,中
+upgrades.keeper2pinballdestroyadjacenttiles.desc,破壊球が岩を破壊すると、衝撃に対して垂直位置にある岩も破壊するようになる。
+upgrades.furnaceironfiring.title,燃料鉄
+upgrades.furnaceslowdown.desc,神経マヒ有毒物質を煙に加え、敵生物の動きを鈍化させる。
+upgrades.swordlargeblade2.desc,"ソードを大きくする。
+移動速度が下がるが、ダメージが上昇する。"
+upgrades.blastminingblast1.desc,爆風のパワーを増強させる。
+upgrades.stationextensionrevealdistance1.desc,"基地近辺の岩層・資源の自動スキャン機能を
+導入する。"
+leaderboard.season,シーズン {season}
+multiplayer.host.crossplay.enabled,クロスプレイ有効
+multiplayer.techtree.keepersharedupgrades,このアップグレードは、このガジェットを有するキーパー全員に適用されます。
+loadout.versusmod.versusmodifierlongcycles.desc,敵ウェーブ間の時間が長くなる。
+upgrades.artillerydirecthit2.title,モンスターバスター+2
+upgrades.stationextensionresolution.desc,ドームとその周辺の鮮明な画像を入手できるようになる。
+options.keybindings.action.general.use,使う
+loadout.relichunt.modifiers,オプションを実行
+assignment.heavyhitters.title,重い一撃
+upgrades.furnacelastingwaterfiring.title,燃料水 効率化
+properties.shield.battleblastdamage,爆破ダメージ {}/秒
+multiplayer.error.timeout,接続がタイムアウトしました。
+multiplayer.join.discovering,セッション検索中…
+properties.condenser.growthtime,精製時間（サイクル） {}
+level.gameover.assignment.badges,協会の報酬獲得に使用できるバッジを手に入れた。
+upgrades.drill2.desc,"ドリルを強化し、
+採掘速度をさらに向上させる。"
+level.corruptionchoice.title,付与効果を選択せよ
+properties.artillery.grenadedamage,砲弾ダメージ {}
+level.gameover.backtomainmenu,メインメニューにもどる
+options.game.spheresnapping,破壊球の照準を四方向にスナップ
+options.input.gamepad.gamepadstickdeadzone.motiondetected,モーション検出
+options.input.gamepad.icons.automatic,オート
+reward.rewardkeeper4skin3.title,ビーストマスタースキン
+upgrades.prestige.title,名声チャレンジ
+upgrades.keeper3shurikenstrength1.title,シュリケン強化の術（甲）
+upgrades.spiresplit2.desc,分裂した投射物が高速で飛ぶようになり、その数も増える。
+upgrades.swordlargeblade1.desc,ソードの長さと幅を強化し、攻撃力を上げる。
+upgrades.droneyardbattlegridlong1.title,稼働時間強化
+properties.stunlaser.speed,スピード {}
+upgrades.repellentbattleslowdownstun2.desc,胞子の飛散頻度を増やし、気絶状態の持続時間もさらに延ばす。
+upgrades.drillsidespeed1.desc,側面ドリルの採掘速度を上昇させる。
+level.tutorial.ninja.bombs.desc1,%sで狙いをつけ、|でクナイを放つ
+loadout.mode.maze.desc,枝分かれ ねじれ 行き止まり。マップが迷路のように変化する。
+upgrades.domesupplementprojectiledamagereduction2.desc,たわみをさらに強化し、投射物ダメージを軽減する。
+level.tutorial.ninja.bombs.desc2,クナイが急な角度で壁にぶつかると、バウンドするようになる。
+upgrades.domesupplementmeleedamagereduction1.desc,ドーム外殻硬度を高め、敵生命体の近接攻撃ダメージを軽減する。投射物には効果なし。
+upgrades.autocannonautonomy.title,自律型AI
+options.input.gamepad.gamepadstickdeadzone,ジョイスティックの感知無効範囲
+upgrades.teslapower3.desc,テスラの射撃威力を強化する。
+level.tutorial.artillery.panel1header,迫撃砲
+upgrades.keeper4punch3.title,狂乱+3
+upgrades.furnaceslowdown.title,麻痺くん煙効果
+upgrades.teslaspeed1.desc,照準レティクルの速度を上げる。
+upgrades.teslaquickshot2.desc,クイックショットの威力を強化する。
+level.tutorial.repair.findcobalt,"コバルトは貴重かつ数に限りがある資源で 主にドームの修復に使用する。
+ぜひとも探し出そう。"
+title.navbar.newgame,ニューゲーム
+options.keybindings.action.dome.battle,戦闘モード
+upgrades.keeper2pinballsplit.title,分裂破壊球
+properties.keeper2.bundlecentralmarker,中心軸マーカー
+options.keybindings.gamepad.ps5,コントローラー
+options.video.stretchmode.rezised.text,"ウィンドウまたはフルスクリーン解像度で、ゲームをレンダリングします。
+映像がシャープになりますが、１ピクセル幅の線形で視覚的な誤差が生じる場合があります。"
+options.audio,音声
+upgrades.domehealthmeter.desc,ドームの耐久値が表示されるようになる。
+upgrades.shieldbattlereflectshortuses.title,時限高反射効果
+loadout.zoom1,寄る
+loadout.zoom2,引く
+upgrades.orchardovercharge.title,結実促進効果
+upgrades.keeperonewayteleporter.desc,1人用一方通行転送機。一度で使い切りの転送機を好きなところに置くと 好きな時に転送機の場所に戻れる。
+options.input.controls.gamepadusage.switch,コントローラーの使用
+properties.orchard.battleroots,根冠成長 {}
+upgrades.mushroomfarm.desc,鉱洞に植えられるキノコを、ドームの格納庫で育てられるようになる。キノコを食べると移動速度と採掘のパワーが強化される。
+keybindings.reset.doreset,キーコンフィグをリセット
+multiplayer.continue.deviceselection.cancel,選択をキャンセル
+loadout.hint.selection,|でオプションを選ぶ
+upgrades.orchardbattleshieldsecondlayer.title,二重ツタ防護盾
+properties.artillery.grenades,砲弾 {}
+upgrades.drill3.title,ドリル強化+3
+assignment.weakcarry.title,物流障害
+upgrades.shockwavestun1.title,衝撃波スタン+1
+upgrades.domesupplementprojectiledamagereduction1.title,ドーム外殻湾曲
+properties.keeper3.maxjumps,ジャンプ{}回
+upgrades.converterefficientcobalt.desc,変換効率をさらに向上させる。
+properties.furnace.waterdelay,水の遅延効果 {}秒
+gadget.slot.keepersupplement,キーパー用追加武装
+upgrades.keeper4ramping2.title,モメンタム+2
+upgrades.orchardduration1.title,持続時間+1
+upgrades.domesupplementprojectiledamagereduction2.title,湾曲強化
+loadout.pet,ペット
+reward.rewarddomesupplements.desc,ドームを強化する追加武装アップグレードを見つけよう。
+properties.prestige.score,{} 名声ポイント
+properties.keeper3.kunaicooldown,クナイクールダウン {}秒
+properties.stunlaser.stunarea,スタン範囲 {}
+upgrades.blastminingblast2.desc,爆風のパワーをさらに増強させる。
+reward.rewardrerolloffers2.title,水の引き直し
+upgrades.artillerysplash1.title,揮発性爆薬+1
+upgrades.drillwidetunnel.title,幅広トンネル
+modding.modio.ugcterms.title,ユーザー生成コンテンツ利用規約
+options.input.controls.keepersettings.title,キーパー操作設定
+options.keybindings.action.keeper.gravitycollect,拾う
+upgrades.domearmorhealth1.desc,アーマーの耐久性を強化し、ドームの耐久値をさらに上げる。
+reward.rewardgadgetsupplements.desc,カジェットを強化する追加武装アップグレードを見つけよう。
+properties.laser.movespeedmod,移動速度補正 {.percent}
+upgrades.domeresourcecounters.title,資源管理システム
+level.station.battle.navbar.shoot,発射
+upgrades.jetpackstrength2.desc,ジェットパックを改良し、運べる資源の数をさらに増やす。
+upgrades.teslapower4.title,射撃威力+4
+properties.droneyard.battleabilityuses,戦闘1回あたりの使用数 {}回
+loadout.gadget.additional.unlock,未開放のガジェットあり。ガジェットを開放するには ガジェットを発見し ドームに持ち帰って導入後 ステージをクリアしよう。
+properties.laser.hitprojectiles,レーザーがエネルギー性の投射物を破壊するようになる。
+properties.keeper2.minspeed,最低速度 {.percent}
+properties.laser.dpsmod,ダメージ補正 {.percent}
+properties.prospectionmeter.scandelay,走査遅延 {}秒
+level.tutorial.artillery.panel1content2,長押しする時間が長いほど 砲弾が遠くへ飛ぶ。
+level.tutorial.artillery.panel1content1,|長押しで迫撃砲をチャージし 離すと発射する。
+level.gameover.saveimages,保存
+assignment.mode.regular,標準レベル
+upgrades.teslaautoaim.title,オートエイム
+upgrades.orchardduration1.desc,フルーツによる能力強化の時間が延びる。
+options.title,オプション
+upgrades.probedetectchambers.desc,探査機が、ガジェットの眠る区画を探知できるようになる。
+upgrades.dome1.desc,強力で精密なレーザー砲塔を搭載した標準的な採掘ドーム。
+upgrades.repellentbattlestrongerslowdown1.desc,霧の麻痺効果を強化し、効果の持続時間も長くしる。
+upgrades.resourcepacker.desc,資源を圧縮してバンドル化する梱包機能をスーツに搭載し、資源を手軽に転送できるようにする。
+properties.keeper4.goblinextraresourcechance,追加資源発生確率 {.percent}
+properties.orchard.speedbuff,移動速度強化 {}
+keybindings.reset.explanation.xbox,"入力システムの大幅変更を含む最新アップデートにより、ボタンコンフィグがリセットされました。
+恐れ入りますが、再設定をお願いします。"
+upgrades.keeper2rotationalmining2.title,圧縮採掘+2
+upgrades.keeper3rocketcarrier.desc,クナイの運搬挙動が、衝突するまで直線方向に飛んでいくロケット弾形式になる。
+properties.blastmining.damage,ダメージ {}
+options.video.renderscale,レンダースケール
+modding.profile.title,プロファイルを選択
+options.keybindings.action.general.left,左
+properties.versus.multiplicativeewave,相手チームへの敵ウェーブ強化率 {.percent}
+level.tutorial.drillbot.sleeping1,しばらく採掘するか 壊せない壁にぶつかるとディグモは居眠りする。
+level.tutorial.drillbot.sleeping2,そばに行き|で起こす。
+upgrades.laserstrength4.desc,"レーザーの威力をさらに上げる。
+ただし、発射中の速度は動かないに等しいほどになる。"
+upgrades.orchardovercharge2.title,オーバーチャージ強化
+level.tutorial.drillbot.sleeping3,ディグモが起きている時に|で方向転換させる。
+modding.prestigeforbidden,これらのMODが有効の場合 名声チャレンジを開始できません。
+upgrades.laser.title,レーザー
+upgrades.domesupplementelectrifiedsurface1.title,帯電外殻+1
+pause.quitgame,ゲームを終了する
+upgrades.swordlargeblade3.desc,"強力なブレード。
+非常に強力だが、移動速度はかなり遅くなる。"
+upgrades.relichunt.desc,"地下深く埋められた遺物を見つけ出し
+ドームに持ち帰ろう。"
+properties.shockwave.cooldown,クールダウン {}秒
+upgrades.repellentdelay1.desc,ウェーブ到達の遅延効果を強化する。
+savegame.corrupted.desc,"最新のセーブファイルが破損しています（セーブ中のシステムクラッシュが原因と思われます）。
+過去のセーブデータを読み込みます。"
+multiplayer.host.online,オンライン
+keybindings.reset.doreset.switch,ボタンコンフィグをリセット
+level.station.navbar.exit,やめる
+upgrades.keeper4catgoblindig2.title,高速採掘ニャ
+upgrades.furnacewaterfiring.desc,炉で水を燃焼させることで、ウェーブ到来をさらに遅らせられるようになる。
+upgrades.shockwavedamage2.title,衝撃波ダメージ+2
+upgrades.proberange1.desc,探査機の有効範囲をひろげる。
+pause.options,オプション
+keeperdlc.load.missing.switch,使用できないダウンロードコンテンツが含まれているため、セーブデータを読み込めません。ダウンロードコンテンツ「ロストキーパー」が有効か、確認してください。
+options.keybindings.action.keeper.drop,落とす
+upgrades.assignmentsemergencycontribution3.title,緊急搬送依頼：7
+options.game.shootbundlebeforegadgets,ガジェットの前に資源バンドルを撃つ
+options.video,映像
+upgrades.blastmining.title,爆風弾
+modding.modio.subscriptions,mod.ioサブスクリプションを表示
+level.gameover.proceedtounlock,新要素をアンロック
+upgrades.prospectionmeter.desc,最も近い資源までの距離を表示するようになる。
+properties.keeper2.spherereload,破壊球のリロード {}秒
+options.keybindings.apply,適用
+upgrades.teslaquickshot.desc,チャージショット後に射撃ボタンを押すと、単発で小威力の射撃を行うようになる。
+level.tutorial.tesla.panel1header,レティクルの移動
+upgrades.tesla.title,テスラ
+properties.tesla.persistance,電気オーブ持続時間 {}秒
+upgrades.repellentbattleslowdownstun1.title,麻痺効果
+upgrades.probelongmarker1.title,マーカーメモリ
+modding.modio.tokenerror,トークンプロバイダーへの接続に失敗しました
+upgrades.stationextensionupgrades.title,リモート強化導入
+upgrades.prestigewater.desc,水を母星へ送ろう。毎ウェーブ終了時に獲得する名声ポイントが増える。
+upgrades.artillerydirecthit2.desc,迫撃砲弾の破壊力を上げる。
+upgrades.mushroomfarmquickgrowth.desc,格納庫のキノコの成長スピードが速まる。
+network.error.notsignedin.ps5,オンライン機能を利用するには、PlayStation™Networkへのサインインが必要です
+options.input.controls.keybindings.ps5,ボタンコンフィグ
+multiplayer.error.clientcrossplaydisabled,このロビーに参加するには、クロスプレイを有効にしてください。
+upgrades.keeper3carrylimit2.desc,クナイ運搬術で運べる資源の数が増える。
+level.supplementchoice.reroll,選び直す
+upgrades.orchardbattlerootingexplosion.desc,もう一度起動すると、捕われたモンスターが爆発して周囲にもダメージを与える。
+upgrades.rocketlauncherrestock.desc,ミサイルサイロが空になると しばらく経った後ミサイルが充填されるようになる。
+upgrades.droneyardbattlegridquick2.title,機動性超強化
+assignment.denseiron.title,鉄鉱脈密集
+options.input.controls.gamepadusage.xbox,コントローラーの使用
+level.tutorial.ninja.bombs,クナイ
+upgrades.domearmorhealth2.desc,アーマーの耐久性を強化し、ドームの耐久値をさらに上げる。
+loadout.title,武装配備
+multiplayer.continue.deviceselection.team,チーム
+properties.keeper3.kunaiweaknessagainsthardrock,クナイぜい弱性（対・高硬度岩盤） {.percent}
+level.tutorial.repellent.popup_2.switch,近くに向かい|で起動する。
+upgrades.chainsawdamage1.desc,丸ノコの与ダメージ量を増強する。
+level.tutorial.artillery.panel3content1,砲弾は着弾時に一定範囲へダメージを与えるが、直撃させるとより大きなダメージを与える。砲弾ダメージはドームに対し無効。
+level.gameover.unlock.regulargadget,ミッションにて新ガジェット開放！
+options.keybindings.gamepad.switch,コントローラー
+options.input.gamepad.thumbstick.switch,スティック
+upgrades.artilleryshotstun.title,衝撃波ブラスト
+upgrades.assignments.title,協会からの任務
+upgrades.rocketlauncherrockets3.desc,発射できるミサイルの数をもっと増やす。
+level.tutorial.assessor.bundleguide.desc1,静止状態のバンドルを誘導できるようになった。
+level.tutorial.assessor.mining,圧縮採掘
+level.tutorial.assessor.bundleguide.desc3,静止状態のバンドルにキーパーが近づくと バンドルが後を追うようになる。
+level.gameover.win.team,チーム%s 勝利
+level.tutorial.assessor.bundleguide.desc2.switch,方向を入力せずに|で 静止したバンドルを設置する。
+options.video.graphicsmode.window,ウィンドウ
+upgrades.artillerymachinegun1.desc,"対空砲を強化して、連射速度を上げる。
+高照準性能レーザーサイトつき。"
+upgrades.droneyardovercharge1.desc,水で格納庫を一時的にオーバーチャージさせると 次の戦闘でのドローン数が増えるようになる。
+title.navbar.modding,MOD
+assignment.treefarm.title,樹木の恩恵
+level.gameover.prestige.score.personalbest,自己ベスト更新！
+level.gameover.unlock.world,新たな世界、解放！
+assignment.chosen.todo,任務が選択されていません
+options.keybindings.action.dome.battleability1,戦闘スキル1
+loadout.versusmod.versusmodifierwindingmap.desc,わずかに入り組んだ鉱洞に向かう。
+reward.rewardweaponsupplements.title,武器用追加武装
+upgrades.laserstrength2.title,パワー+2
+upgrades.keeper2movement1.desc,重力生成器を改良し、素早く移動できるようにする。
+options.keybindings.action.dome.battleability2,戦闘スキル2
+upgrades.domesecondweapon.desc,第二格納層にある第二ステーションで操作が可能な武器を新たに導入する。
+upgrades.resourcepackerquickcharge.desc,梱包機能の充電時間を短縮させる。
+upgrades.laserstrength2.desc,"レーザーの威力をさらに上昇させる。
+ただし、発射中の移動速度はかなり遅くなる。"
+upgrades.autocannonimproved.title,強化オートキャノン
+upgrades.keeper3kunaicooldown1.desc,クナイの投てき速度が上がる。
+upgrades.keeper2pinballsplit2.desc,分割した破壊球の持続時間が延びる。
+upgrades.swordreflection1.title,リフレクター+1
+level.tutorial.ninja.drop.desc1.switch,地面にいる状態で%sで下方向を狙いながら|で、持ち物をすべてドロップする。
+upgrades.suitblasterradius2.desc,爆風範囲をひろげる。
+options.game.dropresourcesbeforegadgets,ガジェットの前に資源をドロップ
+options.translation.community.crowdin,CrowdinでのDome Keeper翻訳プロジェクト
+loadout.hint.playerlimitprestige,"ゲームスタート
+
+名声チャレンジをプレイヤー3人以上でプレイしている場合、スコアはアップロードされません。"
+upgrades.assignmentsemergencycontribution1.title,緊急搬送依頼：2
+upgrades.shockwavedamage1.desc,衝撃波による与ダメージ量を増強させる。
+options.input.gamepad.autoswitch.xbox,最適コントローラーの自動検出
+loadout.versusmod.versusmodifierlittlecobalt.desc,コバルト鉱床数が最低限になります。
+upgrades.keeper1.title,エンジニア
+level.furnace.popup.title,炉に燃料投入
+upgrades.prospectionmeterrange2.title,探査範囲+2
+pause.discord,Discordサーバーに参加
+upgrades.lasermove1.title,機動力+1
+options.input.controls.mouse.gamepad.switch,コントローラーとの切り替えを自動的に検出します
+upgrades.jetpackspeed3.title,スピード強化+3
+upgrades.chainsawautonomy.desc,キーパーがステーション外にいても、丸ノコがドームを防衛するようにする。
+properties.extractor.buildcycles,鉄ムシふ化数（サイクル） {}
+upgrades.stunlaserstun2.desc,スタンビームの出力を上げ、強力な敵もスタンさせられるようにする。
+upgrades.teleporter.desc,ドーム下ステーションと携帯型ポータルをつなぐ双方向式の転送機。
+upgrades.droneyarddrones.title,転送ドローン
+level.tutorial.assessor.spheres.desc1.aiming.switch,%sで狙いをつけ、|で破壊球を発射する。
+upgrades.liftspeed1.desc,オーブの移動速度を上げる。
+properties.prestige.provokedwavestrength,敵生物挑発レベル {.percent}
+upgrades.artillery.desc,大爆発する砲弾を放つ大型迫撃砲と 連射速度に優れた対空砲の二段構え。
+upgrades.shredgadgettocobalt.title,コバルトに加工
+level.gameover.stats.distancetravelled,探索距離
+loadout.mode,ゲームモード
+loadout.difficult.easier,難易度を下げる
+upgrades.domearmorhealth1.title,アーマー補強+1
+options.game.playernamesinmultiplayer,マルチプレイのプレイヤー名表示
+properties.sword.slicedamage,斬撃ダメージ {} 
+options.keybindings.action.general,一般
+upgrades.keeper4punch2.desc,採掘強度と最大採掘速度を上昇させる。
+upgrades.keeper4catgoblinsleeptime.title,カフェインサプリ注入
+upgrades.liftcapacity1.title,容量強化
+upgrades.drillbotbuffguidance.desc,エサを持っていると、ディグモがいる方向が表示されるようになる。
+loadout.versusmod.versusmodifierscatterediron.desc,体積が小さい鉄鉱床が、散らばって大量に分布するようになる。
+upgrades.proberange3.title,探査距離（特大）
+upgrades.sword.desc,耐久性の高いソード。大きくなぎ払うことでダメージが上昇する。敵を刺突する際に刀身を発射でき、敵の投射物を跳ね返すシールドも搭載している。
+properties.rocketlauncher.rockets,ロケット {}
+keybindings.reset.explanation,"入力システムの大幅変更を含む最新アップデートにより キーコンフィグがリセットされました。
+恐れ入りますが 再設定をお願いします。"
+upgrades.shield.desc,受けたダメージの一部を吸収できるシールド。自動的に再チャージする。
+multiplayer.error.lobbyfull,ロビーが満員です
+upgrades.keeper3kunaibounce1.title,軌道アシスト
+loadout.team.selection,%sに合流
+level.tutorial.sworddome.slicing.desc,ソードを速くなぎ払うと 斬撃ダメージが大きくなる。
+properties.drill.sidetimepertile,側面ドリル採掘所要時間 （1ブロック）{}秒
+upgrades.suitblasterradius1.title,爆発範囲+1
+upgrades.resourcepackerquickcharge.title,クイックキープ
+versus.corruptionmonsterdamage.desc,敵生物による攻撃の与ダメージ（投射物含む）が増加する。
+properties.dome.autohealamount,修復 {}HP
+loadout.team,チーム%s
+options.keybindings.action.general.down,下
+properties.suitblaster.radius,爆破範囲（ブロック）{}
+level.tutorial.fullscreen.continue,続ける
+level.tutorial.suitblaster.popup_1.switch,|でスーツブラスターを発射し 周囲の岩を放射状に破壊する。
+upgrades.resourcepackercount2.title,バンドルサイズ+2
+properties.sword.extendspeed,刺突スピード {} 
+upgrades.autocannondamage1.title,ヘビーバレット
+properties.sword.aimline,照準の導入
+options.translation.community,{completion}%完了
+properties.spire.stuntrapabsorption,ダメージ吸収 {.percent}
+upgrades.keeper4speed2.desc,移動速度をさらに上昇させる。
+upgrades.keeper4ramping4.title,モメンタム+4
+upgrades.orchard.desc,ドームで果樹を育てる。実ったフルーツを食べると 採掘と移動速度が上昇する。
+pause.restart.popup,"ステージをやり直しますか？
+やりなおす場合はもう一度押してください。"
+multiplayer.error.versionmismatch,ゲームのバージョンがホストと一致しません。ホストのバージョン: {}
+assignment.condition.freegadget.plural,追加初期ガジェット 2基
+upgrades.artillerydirecthit1.title,モンスターバスター+1
+options.input.controls.mouse,マウス
+upgrades.keeper4catgoblindig1.desc,ニャゴブリンが、ブロックを破壊することなく資源を採掘するようになる。
+reward.rewardpet11.title,ペット：ミズノシカ
+upgrades.artillerymachinegun2.title,連射速度+1
+upgrades.teslaorbs.title,エレキオーブ
+properties.keeper2.spherespeed,破壊球スピード {}
+properties.artillery.machinegunpenetration,弾丸の貫通力 {}
+level.station.upgrademenu.cost,コスト
+keeperdlc.load.missing,使用できないDLCが含まれているため、セーブデータを読み込めません。DLC「ロストキーパー」が有効か、確認してください。
+upgrades.drillbotstrength1.desc,ディグモの採掘パワーを強化する。
+properties.resourcepacker.rechargetime,充電時間 {}秒
+level.converter.popup.queue.block,現在 変換処理中。終了は {time}秒後。
+properties.keeper2.maxspeed,最高スピード {}
+level.converter.popup.conversion.to,から
+upgrades.blastminingblast2.title,爆風+2
+upgrades.suitblasterspeed1.desc,スーツのブラスター充填速度を上げる。
+options.audio.music.ost.mode.adaptive.desc,各キーパー固有のサウンドのみが再生されます。
+title.navbar.updates,更新情報
+upgrades.orchardbattlerooting.title,根冠トラップ
+options.keybindings.action,アクション
+upgrades.keeper4flexible3.title,敏捷+3
+unlock.buy.keeperdlc,DLC「%s」の導入で解放されます。
+upgrades.keeper4flexible2.desc,初期の採掘強度と最大採掘速度を上昇させる。
+loadout.prestige.countdown,カウントダウン
+assignment.weakcarry.desc,キーパーの資源運搬手段が破損。ガジェットに頼らねばならない。
+upgrades.liftcarrykeeper2.title,キーパーリフト+2
+upgrades.domewavecount.desc,"計測器を導入し、乗り越えた敵ウェーブ数を
+表示する。"
+loadout.gadget.additional,追加ガジェット
+upgrades.prestigewatermultiplier.title,水の送達
+upgrades.condenser.title,凝縮製水機
+loadout.prestige.pro.supplementorder,追加武装の提示順
+assignment.goaltype.delivery.failed,目標数{goal}個: 搬送数{amount}個
+options.input.gamepad.ps5,ワイヤレスコントローラー
+assignment.condition.duration,%dサイクル以内に終了
+options.game.hideactionhint,ドーム外での操作ヒント非表示
+options.video.graphicsmode,グラフィックモード
+level.tutorial.assessor.carry.desc1_1.ps5,1度ロックすれば 収集ボタンを離しても資源はキーパーの後を追うようになる。
+assignment.goaltype.relic,遺物回収
+upgrades.stationextensionminimap.desc,"移動基地に入るたび、鉱洞のミニマップが表示されるようになる。
+ミニマップでは、発見済み区画と岩層深くのブロックを確認できる。"
+assignment.ironcontribution.title,鉄の需要
+properties.keeper4.speedupretention,速度上昇キープ時間 {.percent}
+loadout.prestige.description,資源を世界の外に送り キーパー協会ナンバーワンをめざして 名声ポイントを稼ごう
+upgrades.keeper3.title,シノビ
+properties.shield.battleactivateondepletion,シールド枯渇時スキル起動機能
+upgrades.jetpackspeed2.title,スピード強化+2
+properties.dome.maxhealth,最大耐久値 {}HP
+upgrades.drillbotstrength1.title,強化+1
+properties.artillery.grenadereloadspeed,砲弾装填速度 {}秒
+properties.tesla.perfecttimingmultiplier,射撃倍率 {.percent}
+upgrades.orchardbattleshieldstrong.desc,ツタのひさしの強度が上がる。
+loadout.difficulty.easy.description,全体的にまだ少し手加減された難易度
+upgrades.drillsidespeed1.title,ドリル速度+1
+loadout.prestige.miner,採掘師
+upgrades.keeper4catgoblindig2.desc,ニャゴブリンの採掘スピードを上昇させる。
+upgrades.spireburst.title,バースト射撃
+options.input.vibration.strength.switch,振動の強さ
+upgrades.swordexplosivereflection.desc,反射物が何かにぶつかると 爆発するようになる。
+level.tutorial.drillbot.handling2,ディグモがブロックに接する時に|で 方向転換する。
+loadout.mapsize.large.description,プレイに1時間以上かかる大きなマップ
+upgrades.artillerymachinegunhoming2.desc,より強力なロケットを導入する。
+upgrades.keeper3quadjump.title,跳躍の術
+properties.artillery.grenadesexplosionradius,砲弾爆発半径 {}
+upgrades.proberange2.desc,探査機の有効範囲をひろげる。
+properties.drillbot.buffextraamount,採掘パワー強化 {}回
+versus.corruptionbigwave.desc,次の敵ウェーブ群がとてつもなく大規模になる。
+level.tutorial.artillery.panel2content1,|長押しで対空砲を発射する。
+level.tutorial.artillery.panel2content2,飛行する敵に効果的。
+upgrades.drillwidetunnel.desc,幅の広いトンネル掘削のために、下向き型ドリルを2機導入する。
+upgrades.keeper2pinballdamage4.desc,破壊球の性能を向上させる。
+level.gameover.unlock.difficulty,新たな難易度、解放！
+loadout.prestige.fairness.headline,公正な勝負のために
+upgrades.prestigeprovoke.desc,ウェーブで出現する敵が強くなるが 名声獲得量が多くなる。
+options.audio.volumes.soundvolume,サウンド
+multiplayer.continue.deviceselection.keeper,キーパー
+upgrades.teslaspeed2.desc,照準レティクルの速度を上げる。
+upgrades.artillerymachinegun2.desc,対空砲の連射速度が上がる。
+properties.spire.splitadditionalprojectiles,追加の投射物分裂 {.percent}
+upgrades.artillery.title,砲撃
+level.tutorial.assessor.bundle.desc1,資源運搬中に|でバンドルを発射できる。
+properties.orchard.battleabilityduration,スキル持続時間 {}秒
+loadout.zoom,カメラズーム
+level.tutorial.assessor.bundle.desc2,バンドルは 狙った方向にほどけるまで飛んでいく。
+options.keybindings.rebinding.inputprocessor.switch,アクションを設定するキーを押してください
+properties.converter.irontoiron,鉄1個→鉄{}個
+loadout.abort,やめる
+upgrades.keeper1powerdrill.title,パワードリル
+assignment.emergency.desc,協会に危機が迫り、緊急の資源発送を要する事態となった。時間内に任務を遂行せよ。
+multiplayer.host.crossplay.disabled,クロスプレイ無効
+properties.upgrade.gameover,ステージを終了
+loadout.mode.secondweapon.desc,キーパーが複数いるチームは、第二ステーションの武器が解放される。
+telemetry.allow,オンラインサービスを有効
+options.accessibility.vignette,ビネットの無効化
+options.game.tutorials,チュートリアル
+properties.dome.autorepair,ドーム自動修理
+upgrades.swordreflection3.title,リフレクター+3
+upgrades.drillsidepull.desc,採掘した資源が、側面ドリルにそって中央に向かい移動するようになる。
+upgrades.keeper2movement4.title,最大トルク
+upgrades.shockwavestun2.desc,衝撃波のスタン性能をさらに増強させる。
+assignment.condition.freegadget.singular,追加初期ガジェット 1基
+playerlist.close,とじる
+reward.rewardfreerolls2.title,追加引き直しオファー
+upgrades.orchardbattleshieldstrong.title,盾耐久性上昇
+upgrades.spirecapacity.title,装弾数強化
+upgrades.keeper2.title,プロフェッサー
+upgrades.keeper2movement2.title,重力機動+2
+upgrades.furnacestrongironfiring.desc,鉄の燃焼によるウェーブ到来遅延効果を強化する。
+upgrades.keeper2pinballdamage3.title,破壊球+3
+upgrades.autocannondamage1.desc,弾丸が大きくなり、より大きなダメージを与えるようになる。
+loadout.versusmod.versusmodifiermanycaverns.desc,天然の洞窟が多数存在する地下鉱洞に向かう。
+options.game.other,その他
+upgrades.drillsidespeed2.title,ドリル速度+2
+upgrades.mushroomfarmdrill1.desc,キノコによる採掘速度上昇力を強化する。
+properties.autocannon.speed,移動速度 {}
+upgrades.keeper4flexible1.desc,まっとうな速度での採掘になるが、強度のピークが低めになる柔軟な採掘スタイル。
+title.message.close,とじる
+level.furnace.popup.fuel.stack,現在の蓄積量:
+upgrades.shieldstrength3.title,強化+3
+upgrades.domesupplementresurrection2.title,再再生
+upgrades.artilleryprojectileerasure.desc,迫撃砲が、爆風圏内の投射物をすべて破壊するようになる。
+level.gameover.assignment.completed,おめでとう！ 無事に任務を達成した。 キーパー協会も きみの尽力に感謝している。
+properties.tesla.radius,射撃半径 {}
+properties.keeper2.bundlespeed,バンドル速度 {}
+keybindings.reset.show,まずは確認する
+options.input.controls.gamepadusage,コントローラーを使用
+assignment.maze.title,迷宮
+upgrades.blastminingstickycharge.desc,爆風弾が最初に触れた壁にくっつき、ブロックを垂直方向に爆破するようになる。
+properties.prestige.baseperwave,{} 基本名声ポイント/ウェーブ
+level.gameover.mineview,鉱洞全体を確認
+unlock.mapsize.medium,小サイズマップでのクリアで開放
+upgrades.teslanurture.desc,"既存のエレキオーブを再度放つと、オーブが強化されるようになる。
+強化オーブはサイズが大きくなり、持続時間も延びる。"
+upgrades.jetpackspeed4.desc,ジェットパックを改良し、移動速度を最大限まで上げる。
+upgrades.domearmormelee1.desc,敵の近接攻撃による被ダメージを減少させる。
+loadout.prestige.friend.mode,フレンドリーモード
+upgrades.domearmorhealth2.title,アーマー補強+2
+properties.artillery.machinegundamage,弾丸ダメージ {}
+upgrades.swordextendlong2.title,長距離射出+2
+upgrades.lasermove2.title,機動力+2
+upgrades.shieldstrength2.title,強化+2
+properties.keeper3.slidecontrol,スライド操作性 {.percent}
+reward.rewardpet11.desc,ドームで一緒に過ごすペット、ミズノシカをアンロックします。
+properties.tesla.nurture,オーブ成長
+properties.lift.speed,オーブの移動速度 {}
+upgrades.lasermove2.desc,レーザー砲塔の移動速度をさらに上げる。
+loadout.mode.longtime,ロングサイクル
+options.accessibility.highlightmonsters,モンスターの強調表示
+upgrades.furnacebasedelay.desc,煙の幻惑効果を強化し、敵ウェーブ到来の遅延効果を高める。
+upgrades.doublelaser.desc,"2基めのレーザー砲塔を設置する。
+ただし火力が分配されるため、1基あたりの火力が下がる。"
+properties.converter.ironwatertime,鉄→水の変換時間 （サイクル） {}
+options.keybindings.rebinding.inputprocessor.xbox,アクションを設定するキーを押してください
+title.message.title,エラー
+upgrades.jetpackspeed4.title,スピード強化+4
+upgrades.drill1.desc,ドリルを強化し、採掘速度を向上させる。
+upgrades.extractorresources2.title,しっかり者AI導入
+unlock.buy.keeperdlc.ps5,アドオン「%s」の導入で解放されます。
+level.tutorial.assessor.split.desc1,|で向かってくる破壊球を分割できる。
+upgrades.keeper2pinballdamage1.desc,リロード時間を延ばし、破壊球の威力を強化する。
+upgrades.teleporterteleportduration2.desc,キーパー転送の所要時間がさらに短くなる。
+level.tutorial.assessor.split.desc2,分割した破壊球を再度分割させることもできるが 分割のたびに威力が弱くなる。
+options.accessibility.backgrounds,シンプルな背景
+assignment.weakwalls.desc,腐食性の大気が覆う惑星に挑め。ドームにも敵生物にも致命的な環境で 双方にダメージがおよぶので 覚悟を決めろ。
+multiplayer.error.disconnected,ホストの通信が切れました。
+properties.autocannon.timebetweenshots,射撃間隔 {}秒
+upgrades.laserstrength1.desc,"レーザーの威力を上げる。
+ただし、発射中の移動速度が遅くなる。"
+upgrades.artillerydirecthit4.desc,対巨大敵生命体用の砲弾を発射するようになる。
+upgrades.teslapersistance3.title,オーブ持続+3
+level.gameover.stats.timeplayed.unit,分
+level.tutorial.drillbot.sleeping3.switch,ディグモが起きている時に|で方向転換させる。
+upgrades.autocannonshotgun1.desc,発射すると拡散する、ショットガンのような弾丸を発射する。
+upgrades.probe.desc,キーパーが装着できる探査機を導入する。手動でパルスを放つと 近くの資源の位置がわかる。使用後はドーム下部のステーションで充電しよう。
+upgrades.droneyardparasites.desc,"ドローンが、発見した一番強力な敵にくっついて弱体化させるようになる。
+くっつかれた敵は被ダメージ量が増え、スタンする。"
+properties.stunlaser.trackingInCooldown,クールダウン時ターゲット追跡
+upgrades.domewavemeter.desc,"敵生命体の襲来ウェーブ到達までの時間を
+表示する。"
+properties.sword.stabexplosive,チップ爆弾装着
+loadout.gadget,主要ガジェット
+properties.stunlaser.areagrowthpermonster,敵1体ごとの範囲拡大 {}
+upgrades.shieldbattlereflectspeed.title,反射加速
+level.tutorial.assessor.explode.desc1,|で 付近にあるすべての破壊球を爆発させる。
+reward.rewardkeeper3skin1.desc,シノビの新たなスキンが使用できるようになります。
+properties.shockwave.stunstrength,スタン強度 {}
+upgrades.resourcepackercount1.title,バンドルサイズ+1
+reward.rewardkeepersupplements.desc,キーパーを強化する追加武装アップグレードを見つけよう。
+upgrades.spirestuntrap3.desc,エナジートラップが敵をスタンさせるようになる。
+upgrades.lift.desc,採掘した資源を自動的にドームまで運搬するオートリフトを設置する。
+upgrades.orchard.title,果樹園
+pause.playerlist,プレイヤーリスト
+upgrades.keeper2bundle2.title,バンドル誘導
+assignment.weakmining.desc,キーパーの採掘装備が破損。ガジェットに頼らねばならない。
+upgrades.converter.title,資源変換機
+properties.repellent.battlemonstervulnerability,敵への追加ダメージ {.percent}
+level.gameover.revealresources,資源を表示
+upgrades.jetpackstrength4.desc,ジェットパックを改良し、運べる資源の数を最大限まで増やす。
+options.input.controls.touch.fliphud,HUD反転
+properties.keeper2.bundleguide,近接誘導
+upgrades.furnaceironfiring.desc,炉で鉄を燃焼させることで、敵の到来遅延時間が延びるようになる。
+upgrades.swordlongblade2.desc,ソードの移動速度をさらに上げ、ドームの端に当たると跳ね返るようにする。
+options.input.controls.mouse.keepers,キーパー操作にマウスを使用
+loadout.mode.domesupplements.desc,追加装備を3点入手し 装備用スロットが ドームに3つ 追加される。
+reward.rewardautomatedweapons.title,武器自動化
+versus.corruptionmonsterhealth.desc,敵生物の体力が増加する。
+upgrades.keeper3slidecontrol.desc,壁に沿ったスライド中の操作性が向上する。
+options.keybindings.action.dome.fire,射撃
+options.keybindings.gamepad.xbox.view.xbox,ビューボタン
+level.gameover.win.title,ドーム防衛成功
+upgrades.versusincreasewave1.title,サボタージュ v1
+options.video.graphicsmode.borderlesswindow,ボーダーレスウィンドウ
+properties.artillery.rotationspeed,旋回速度 {}
+upgrades.probe.title,探査機
+reward.rewardkeeper2skin5.desc,プロフェッサーの新たなスキンが使用できるようになります。
+upgrades.artillerydirecthit4.title,モンスターバスター+4
+properties.keeper4.squadcount,部隊数 {}
+upgrades.keeper3kunaicooldown3.title,三千飛びクナイ
+upgrades.prospectionmeterrange2.desc,鉱床メーターの検出範囲をさらにひろげる。
+level.gameover.unlock.mapsize,新たなマップサイズ、解放！
+loadout.prestige.friend.desc,名声チャレンジを 低い難易度でプレイします。ランキングは 通常とは別の フレンド間限定のものになります。
+upgrades.jetpackstrength4.title,運搬力+4
+options.input.controls.virtualjoystickopacity,バーチャルジョイスティックの透明度
+upgrades.repellentovercharge.title,精製効率強化
+upgrades.suitblastermaxcharge.desc,"スーツのブラスターチャージ量を増やす。
+チャージ量が多いほど、追加チャージ時間も速くなる。"
+upgrades.stationextensiontubemovement.desc,"基地に入ると、バキューム機能でドームにすばやく帰還できるようにする。
+ただし ドームから基地には移動不可。"
+upgrades.domesupplementmeleedamagereduction1.title,ドーム外殻硬化
+upgrades.keeper4catgoblinsleeptime.desc,ニャゴブリンのお昼寝時間を減少させる。
+upgrades.prestigespeedup.desc,ウェーブの間隔を短くする。
+upgrades.keeper3kunaicooldown1.title,速投げ
+upgrades.spire.title,尖塔
+multiplayer.join.sessions,セッション
+options.input.controls.keybindings,キーコンフィグ
+multiplayer.host.crossplay.desc.xbox,クロスプレイでは、ほかのプラットフォームのフレンドと一緒にプレイが可能です。
+upgrades.teslaorbs.desc,ショットを放つと、敵にダメージを与えスタンさせる電流オーブが残るようになる。
+upgrades.prestigeiron.desc,"鉄を母星へ送ろう。
+毎ウェーブ終了時に、獲得する名声ポイントが増える。"
+upgrades.keeper2pinballexplode.title,爆発破壊球
+level.tutorial.assessor.split.desc1.switch,|で向かってくる破壊球を分割できる。
+properties.artillery.machinegunhoming,誘導ロケット
+upgrades.spirespeedup.desc,発射間隔を短くする。
+level.tutorial.drillbot.handling1,|長押しで再び捕まえる。
+keybindings.reset.doreset.xbox,ボタンコンフィグをリセット
+level.tutorial.drillbot.handling2.switch,ディグモがブロックに接する時に|で 方向転換する。
+upgrades.artillerysplash1.desc,迫撃砲を改良し、爆発範囲の広い砲弾を発射できるようにする。
+upgrades.shockwave.desc,"激しい衝撃波を発生させるハンマー2機を、ドーム表面に搭載する。
+なお、起動は手動式。"
+options.game.blocklist.unblock,ブロック解除
+properties.drillbot.buffamount,エネルギッシュ採掘 {}回
+upgrades.teslaorbdamage.desc,オーブに超高圧電流が流れるようになり、持続ダメージが増加する。
+loadout.versusmod.versusmodifierconcentratediron.desc,分布はまばらだが、体積が非常に大きい鉄鉱床になる。
+upgrades.keeper4squad2.title,トンネル中隊
+upgrades.keeper4flexible1.title,敏捷
+upgrades.swordreflection3.desc,シールドパッドを最大の大きさにする。
+unlock.prestige.promode,名声チャレンジをスコア1000以上でのクリアで開放
+loadout.mapsize.huge,巨大
+upgrades.artillerymachinegunhoming1.desc,弾でなく、敵生命体を自動追尾するスマートロケットを発射するようになる。
+upgrades.repellentovercharge.desc,水を使用すると果樹園がオーバーチャージし、スキルが強化されるようになる。
+loadout.prestige.pro.caveorder,地下洞窟の出現順
+upgrades.spiresplit2.title,高速分裂
+properties.laser.bend,レーザー自動照準 {}°
+modding.modio.ugcterms.link1,利用規約
+upgrades.drillmagnetic.title,磁気ケーシング
+assignment.condition.deliveremergency,緊急発送を%d件完了
+modding.modio.ugcterms.link2,プライバシーポリシー
+assignment.denseiron.desc,鉄鉱脈の硬度が非常に高く 採掘に骨が折れる惑星に向かえ。
+level.station.upgrademenu.inventory,所持数
+upgrades.repellentbattleslowdownstun1.desc,飛散する胞子を霧に添加し 敵が短時間だけ気絶するようになる。
+upgrades.spirestuntrap2.title,触媒トラップ
+properties.blastmining.radius,爆風範囲（ブロック） {}
+loadout.prestige.cobalt,コバルト制限モード
+upgrades.spireautonomy1.title,自律型AI
+upgrades.suitblastermaxcharge.title,ブラスト数増強
+upgrades.stunlaserspeed2.desc,スタンレーザーの移動速度をさらに上げ、クールダウン中も敵を追尾し続けられるようになる。
+properties.suitblaster.maxcharge,最大チャージ {}
+upgrades.prospectionmetergadget.desc,最も近くにあるガジェットや、遺物スイッチまでの距離が表示されるようになる。
+properties.spire.rechargetime,装填時間 {}秒
+assignment.monstermasses.desc,低レベル敵生物がはびこる惑星に向かえ。ただし その生息数は途方もないので 腹をくくれ。
+telemetry.title.ps5,ソフトウェア利用許諾契約
+properties.condenser.autoovercharge,"自動オーバー
+チャージ"
+assignment.rareiron.desc,通常の採掘で得られる鉄の量が とんでもなく少ない惑星に挑め。
+level.converter.popup.title,資源の変換
+upgrades.chainsaw.desc,ドームの曲面にそって動き、近接する敵にダメージを与える丸ノコを導入する。
+versus.inventory.title,相手チームの情報
+loadout.versusmod.versusmodifiernorelics.desc,坑道から遺物がなくなる。
+level.gameover.stats.wavessurvived,ウェーブ数
+upgrades.stunlaserduration1.title,射撃持続力+1
+upgrades.resourcepackercount2.desc,ひとつのバンドルにまとめられる資源の上限数を、さらに増やす。
+level.tutorial.teleporter.carry3.switch,|長押しでテレポート。
+gadget.slot.domesurface,ドーム外面
+upgrades.converterirontocobalt.title,コバルト変換
+options.audio.music.ost.mode.desc,各キーパーにはそれぞれサウンドトラックが設定されており 再生するトラックの種類およびタイミングが調整できます。
+assignment.condition.deliversand,コバルト%d個を配送
+options.accessibility.photosensitivity.explanation,光のちらつきを抑えます。
+upgrades.keeper2bundle4.desc,資源バンドルの移動速度が上がり、結束状態の持続時間が長くなる。
+upgrades.domesupplementmeleedamagereduction2.title,硬度増強
+upgrades.keeper2bundle1.title,中央軸マーカー
+upgrades.repellentbattleslowdown.desc,戦闘中、すべての敵が麻痺する霧を噴射する。
+options.game.splitscreenfontscale,分割画面時の文字サイズ拡大
+upgrades.blastminingimpactdetonation.title,衝撃性爆破機能
+loadout.relichunt.title,シナリオを選択せよ
+upgrades.assignmentsemergencycontribution2.title,緊急搬送依頼：4
+upgrades.stunlaserspeed1.desc,スタンレーザーの移動速度を上げる。
+upgrades.keeper2movement2.desc,重力生成器を改良し、さらに素早く移動できるようにする。
+loadout.prestige.pro.customorder,カスタム順
+options.translation.community.desc.seavenplatforms,これらの言語は、愛すべきコミュニティによってCrowdin上で翻訳されています。
+properties.shield.battledestructionprevention,追加スキル持続時間 {}秒
+upgrades.spirespeedup.title,冷却効率アップ
+upgrades.shieldovercharge.title,ドームシールド強化
+level.tutorial.station.popup_4.switch,|で戦闘モードに移行しドームを防衛する。
+pause.gamepadcontrols.drop,落とす
+options.accessibility.vignette.explanation,鉱洞の深部で発生する、画面周囲が暗くなるビネット表現を無効化します。
+upgrades.keeper4speed3.title,機動力+3
+title.navbar.splitscreen,ローカル画面分割
+upgrades.extractorquickextraction.title,鉄ムシ速度強化
+pause.disconnect,切断
+properties.map.ironadditionalhealth,追加鉄強度 {}
+properties.keeper2.reflectlifetime,反射フィールド持続時間 {}秒
+loadout.versusmod.versusmodifiersoftrock,やわらか岩盤
+upgrades.repellentoverchargeduration1.title,オーバーチャージ強化
+upgrades.teleporterteleportitems.desc,"キーパーの運搬物を転送できるようになる。
+ただし、資源や大きな物体を除く。"
+upgrades.shieldstrength2.desc,ドームシールドの吸収ダメージ量をさらに増加させる。
+unlock.mapsize.large,中サイズマップでのクリアで開放
+upgrades.shieldoverchargestrength2.desc,ドームシールドのオーバーチャージ時に吸収可能なダメージ量を、さらに増加させる。
+properties.drill.extensionspeed,サイド拡張速度 {}
+properties.orchard.growthtime,成長時間（サイクル） {}
+upgrades.drillbotbuff1.desc,巣でエサが生成されるようになる。エサをディグモに運んで食べさせると、元気に活動する。
+properties.repellent.battleslowdown,敵の移動速度低下 {.percent}
+level.station.upgrademenu.buy,導入する
+keybindings.reset.title.ps5,キーコンフィグをリセット
+title.navbar.multiplayer.join,マルチプレイに合流
+multiplayer.host.crossplay.desc,クロスプレイでは、ほかのプラットフォーム（PCとコンソール機など）のプレイヤーと一緒にプレイが可能です。
+properties.probe.range,探査範囲（ブロック） {}
+modding.modio.connectionfailed,mod.ioへの接続に失敗しました
+properties.dome.resurrectcharges,残り再生回数 {}
+upgrades.mushroomstack.title,キノコ効果蓄積
+multiplayer.error.lobby.join,ロビーへの合流に失敗しました。
+pause.title,ポーズ
+level.furnace.popup.fuel.cycles,残りサイクル: {cycles}
+level.gameover.unlock.gamemodevariant,新モードのバリエーション
+upgrades.keeper2movement3.title,重力機動+3
+upgrades.keeper3kunaicooldown2.desc,クナイの投てき速度が上がる。
+upgrades.repellentbattledamageovertime.title,毒ガス
+reward.rewardfreerolls1.title,引き直しオファー
+assignment.superhardrockwithholes.title,まるでスイスチーズ
+modding.restartneeded,MODを正常に動作させるため ゲームを再起動してください。
+upgrades.versusshowinventory.title,資源数偵察
+level.tutorial.assessor.carry.desc1,|長押しで資源を引き寄せてキーパーに固定する。
+level.tutorial.assessor.carry.desc2,|で収集物をバンドルにまとめ、狙っている方向に発射する。
+demo.unavailable,体験版では選べません
+assignment.harmfuliron.desc,鉄が危険なまでに過剰反応し、細断する際にドームにダメージを与える。
+upgrades.keeper4flexible4.title,敏捷+4
+properties.dome.reducedhealth,耐久値低下 {}HP
+upgrades.keeper4catgoblinamount.desc,任務達成のために、ニャゴブリンを繁殖させる。
+properties.keeper2.spherebasedamage,破壊球基本ダメージ {}
+level.gameover.showimages,開く
+properties.keeper4.maxpunchdelay,パンチ最大遅延 {}秒
+upgrades.converterironduplication.desc,鉄を投入すると、より多くの鉄に変換されるようにする。
+upgrades.liftorbless.title,重力リフト
+upgrades.artilleryshotstun.desc,迫撃砲の発射衝撃によって、近くの敵を短時間スタンさせるようになる。
+upgrades.keeper4squadsmarts.title,スマート採掘
+options.video.graphicsmode.enablevsync,垂直同期を有効にする
+upgrades.repellentdelay2.desc,ウェーブ到達の遅延効果をさらに強化する。
+properties.spire.splitshotground,360°分裂
+upgrades.autocannonrateoffire3.desc,発射速度を最大まで上げる。
+upgrades.furnacebasedelay.title,幻惑くん煙効果
+properties.sword.stabcooldown,刺突クールダウン {}秒 
+upgrades.resourcepacker.title,資源梱包機能
+properties.probe.permanentrevealrock,永続的岩層スキャン表示
+upgrades.prestigeprovoke.title,敵生物挑発モード
+loadout.hint.teams,各チームには最低1人の所属が必要です
+upgrades.proberange1.title,探査距離（中）
+upgrades.condenserautocollect.desc,水の自動収集機能を導入し、手動で採取する必要をなくす。
+title.navbar.continue,コンティニュー
+upgrades.drillbotbuffguidance.title,捜索エサ
+options.video.stretchmode.rezised,リサイズ
+upgrades.shieldbattlereflectspeed.desc,投射物反射時の速度が増し、攻撃を放った敵に当たりやすくなる。
+properties.keeper2.spherebaselifetime,破壊球持続時間 {}秒
+properties.resourcepacker.packscale,縮小スケール {.percent}
+properties.chainsaw.speed,移動速度 {}
+properties.probe.rechargetime,充電時間（サイクル） {}
+upgrades.blastminingblast1.title,爆風+1
+upgrades.liftcarrykeeper1.title,キーパーリフト+1
+loadout.versusmod.versusmodifierlongcycles,ロングサイクル
+options.keybindings.action.dome.secondary,サブスキル
+upgrades.extractor.title,鉄ムシ
+level.tutorial.assessor.reflect.desc2,向かってくる破壊球は反射フィールドによって反射され 威力が向上する。
+options.keybindings.keyboard,キーボード
+level.tutorial.assessor.reflect.desc1,|で キーパーの周囲の反射フィールド展開を切り替えられる。
+level.tutorial.beastmaster.move,移動
+level.gameover.automove,自動カメラで確認
+upgrades.keeper4punch4.title,狂乱+4
+properties.shockwave.damagemod,追加ダメージ {.percent}
+upgrades.drillbotsleepless.desc,ディグモが疲れて眠ってしまうまでの時間を延ばす。
+upgrades.keeper2pinballexplode.desc,破壊球の運動エネルギーを解放し、近くの破壊球すべてを爆発させる。
+reward.rewardpermanentwavemeter.title,永続生物近接メーター
+upgrades.keeper3shurikencooldown1.desc,シュリケンのクールダウン時間をさらに減らす。
+upgrades.droneyard.title,ドローン基地
+level.gameover.unlock.promode,名声プロモードを解放！
+upgrades.swordextendlong2.desc,刺突パワーと刀身発射時の動作の精密性を強化する。
+upgrades.drillbotturnaround.desc,"ディグモが採掘できない壁にぶつかっても、
+ふて寝する代わりに方向転換するようになる。"
+loadout.prestige.fairness.desc,"名声チャレンジ挑戦者の皆さんへ。私たちは、最高スコアを競い合い、よりよい戦略を練ろうとがんばる皆さんの姿が大好きです。そしてチャレンジを公正かつ楽しい場に保つには、参加者すべてのプレイ条件が同じであることが重要です。
+
+万が一、ご自分のプレイがチートまたはエクスプロイト（システムの脆弱性につけ込んだ攻撃）であるとみなされた場合は、該当するプレイ記録が受理されない、または削除される恐れがあることをご承知おきください。
+通常の方法ではない手段で、名声チャレンジにおいて明らかに有利な状況を作り出した行為はエクスプロイトと見なされます。エクスプロイトは、セーブデータの改ざんやビューイング（データを事前参照した上での同データの再プレイ）、過剰なリロード、公式に認めていないMODの使用、故意にバグをくり返し使用する行為を指します。
+明らかにチートやエクスプロイトが認められるプレイを行った場合、通常のランキングからは永久に除外されます。
+
+違反にあたるか判断がつかないことがある場合は、Discordもしくは dome@bippinbits.com までご連絡ください。また、誤って違反行為と見なされたと思われる場合もご一報ください。
+
+それでは、引き続き採掘をお楽しみください！"
+assignment.emergency.title,緊急
+upgrades.droneyardbattlegridlong2.title,ドローン最大展開
+properties.orchard.battleabilityuses,1ウェーブごとの使用数 {}回
+loadout.difficulty.easy,ハード
+level.tutorial.mineraltree1,"「鉱物の木」の種を見つけた。
+ブロック上で成長させると 根を張ったブロックに応じた資源が実る。木を植えたいブロック上に種を置こう。"
+options.keybindings.action.keeper.pickup,拾う
+gadget.slot.domebackside,ドーム背面
+assignment.megacreeps.desc,最大級かつ最強の敵対生物のみがはびこる惑星で任務を行う。
+options.keybindings.rebinding.error.gamepad.switch,この操作はコントローラー入力に設定できません。
+modding.profile.new,新しいプロファイル
+upgrades.suitblasterspeed2.desc,スーツのブラスター充填速度を上げる。
+properties.domearmor.pulsedamagethreshold,パルスダメージ閾値 {}
+options.game.autopause,非フォーカス時にゲームを一時停止
+savegame.wiped.desc,"すべてのセーブファイルが破損しています（セーブ中にシステムクラッシュが発生した可能性があります）。進行状況の復旧が不可能な状態です。
+クラウドストレージよりデータ復旧が可能か、ご確認ください。復旧が困難な場合、進行状況は永久に失われます。"
+properties.shield.maxstrength,強度 {}HP
+level.tutorial.ninja.rope.desc1,%sで狙いをつけ、|でロープを放つ
+level.gameover.unlock.gadgetability,新たなガジェットの戦闘スキル
+level.tutorial.ninja.rope.desc2,|長押しでジャンプ。
+upgrades.repellent.desc,防除液醸造タンクを導入する。タンクで醸造した防除液を散布すると、次のウェーブを遅らせることができる。
+modding.modio.report,Modを報告
+properties.artillery.directhitdamage,直撃ダメージ {.percent}
+upgrades.spireprojectileslowdown.title,投射物スローダウン
+properties.keeper2.bundleduration,バンドル持続時間 {}秒
+upgrades.domesandrepair.title,コバルト・リペア
+upgrades.assignmentsemergencycontribution3.desc,パッケージを第7ラウンドまでに搬送しないと、失敗となる。
+upgrades.stunlaserduration3.title,射撃持続力+3
+properties.orchard.battleshields,シールドの層 {}
+options.video.brightness,明るさ
+demo.end.misc1,4つのバリエーションで全世界と競い合う名声モード
+upgrades.droneyarddrones.desc,資源転送ドローンを1台追加する。
+demo.end.misc3,豊富なメインガジェット
+options.game,ゲーム
+loadout.mode.longtime.desc,ウェーブ到達までの時間が 2倍になるが 敵が強くなる。
+demo.end.misc2,歯ごたえあるチャレンジ
+demo.end.misc5,さまざまな表情を見せる洞窟バリエーション
+demo.end.misc4,マップサイズもいろいろ
+upgrades.orchardduration2.title,持続時間+2
+reward.rewarddomesupplements.title,ドーム用追加武装
+demo.end.misc6,未知なる敵対生物も…？
+upgrades.keeper2rotationalmining1.desc,資源の硬度を無視し、一定の速度で岩石を採掘するようになる。
+upgrades.droneyardbattlegridquick2.desc,全ドローンが超速発進できるようになり、戦闘開始時からドローンを臨戦状態にする。
+loadout.choices.comingsoon,ただいま整備中。しばし待て。
+properties.keeper2.splitlifetime,分割破壊球持続時間 {.percent}
+options.input.controls.mouse.sword,ソードドームの斬撃操作にマウスを使用
+level.tutorial.beastmaster.goblins.desc1,|長押しで、ニャゴブリンを坑道に入れるための穴をあける。
+upgrades.drill4.desc,"ドリルを強化し、
+採掘速度を最高速度にまで向上させる。"
+upgrades.keeper3carrylimit3.title,運搬力+3
+upgrades.laserstrength3.title,パワー+3
+level.tutorial.beastmaster.goblins.desc2,部隊員は、穴の近くで資源を収集する。
+upgrades.domesupplementresurrection1.title,ドーム再生
+loadout.mapsize.small.description,短時間プレイ用の小さなマップ
+upgrades.proberange2.title,探査距離（大）
+reward.rewardkeeper2skin5.title,プロフェッサースキン
+upgrades.jetpackspeed2.desc,ジェットパックを改良し、移動速度をさらに上げる。
+upgrades.artilleryrotation2.desc,迫撃砲の旋回速度を上げる。
+upgrades.domesupplementcombatrepair3.title,戦闘時急速リペア
+reward.rewardkeeper4skin3.desc,ビーストマスターの新たなスキンが使用できるようになります。
+multiplayer.host.splitscreen.desc.ps5,ロードアウト画面でワイヤレスコントローラーを使用すると、キーパーが追加で出現します。1つの画面を最大4人まで共有できます。オンラインプレイヤーも参加可能です。
+upgrades.keeper2pinballdamage3.desc,リロード時間をもっと延ばし、破壊球の威力をより強力にする。
+level.tutorial.ninja.rope,投げ縄
+options.keybindings.rebinding.error.keyboard,この操作はキーボードに割り当てられません。
+upgrades.domesupplementcombatrepair2.desc,自動修理機能を強化し、耐久値をより大きく回復させる。
+properties.dome.baserepair,修復 {}HP
+properties.repellent.growthtime,精製時間（サイクル） {}
+properties.keeper.domefuel,燃料追加 {}
+options.accessibility.critters,生き物の無効化
+level.tutorial.assessor.reflect.desc1.switch,|で キーパーの周囲の反射フィールド展開を切り替えられる。
+upgrades.probelongmarker2.title,マーカー表示延長
+upgrades.converterefficientwater.title,水素変換効率化
+upgrades.assignmentssendcobalt.title,コバルトの搬送依頼
+properties.monsters.waveinterval,ウェーブ間隔 {}秒
+options.keybindings.rebinding.error.gamepad,この操作はコントローラーに割り当てられません。
+options.input.gamepad.twinstick.ps5,左・右スティック操作
+properties.extractor.units,鉄ムシふ化 {}
+loadout.mode.doubleiron.desc,鉱床に含まれる鉄の量がとても多くなる。
+telemetry.title,オンラインマルチプレイを有効にしますか？
+multiplayer.host.local.desc,ローカルネットワークのプレイヤーが合流できます。
+properties.laser.dps,ダメージ {}
+level.tutorial.assessor.spheres.desc1.switch,|で移動方向に破壊球を発射する。
+upgrades.spirecapacity.desc,再装填が必要になるまでの発射数を増やす。
+upgrades.doublelaser.title,ダブルレーザー
+options.keybindings.text,"同じキーに 異なる操作を重複して設定できる場合があります。
+例：キーパーの移動とドーム武器の移動は重複が可能"
+properties.repellent.battleabilityduration,スキル持続時間 {}秒
+options.input.controls.keybindings.switch,ボタンコンフィグ
+options.keybindings.gamepad.xbox.menu,スタート
+upgrades.shieldstrength1.title,強化+1
+properties.converter.watertoiron,水1個→鉄{}個
+upgrades.stunlaserstun2.title,スタン強度+2
+upgrades.drillbotstrength2.desc,ディグモの採掘パワーを強化する。
+upgrades.dome1.title,レーザードーム
+options.keybindings.rebinding.error.gamepad.xbox,この操作はコントローラー入力に設定できません。
+loadout.assignment.shop,キーパー協会からの報酬
+upgrades.orchardbattlerootingmore.desc,強度が増した根を、より多く張りめぐらせる。
+loadout.secondstage.cancel,やめる
+exhibition.level.instruction,キーを押してゲームを続けよう！
+upgrades.converterefficientwater.desc,変換効率を向上させる。
+upgrades.teslapower4.desc,テスラの射撃威力を強化する。
+upgrades.spiresplit1.title,投射物分裂
+assignment.weakwalls.title,高危険度エリア
+title.navbar.quit,ゲームを終わる
+upgrades.autocannonrateoffire1.desc,発射速度を上げる。
+upgrades.laserstrength3.desc,レーザーの威力をさらに上げる。
+loadout.mode.automateddefense.desc,主要武器は使用不可だが すべての防御用ガジェットとガジェット自動化機能を備えてスタート。戦闘はドームに一任しよう。
+level.gameover.prestige.score.rankunchanged,ランキング変化なし
+properties.keeper2.directmininghardness,岩石硬度の影響 {.percent}
+level.gameover.retry,新しいステージを始める
+options.input.controls.keybindings.button.xbox,ボタンコンフィグを変更
+upgrades.keeper4autospawnminers.title,意気揚々部隊
+modding.modio.declined,Modにアクセスする場合は利用規約をお読みの上、承認してください
+upgrades.orchardovercharge3.desc,戦闘スキルのオーバーチャージの衝撃パワーを増強させる。
+upgrades.assignmentsemergencycontribution5.title,緊急搬送依頼：16
+upgrades.keeper2pinballdamage2.title,破壊球+2
+upgrades.teslaspeed3.desc,照準レティクルの速度を上げる。
+upgrades.domesupplementmeleedamagereduction2.desc,外殻の硬度をさらに高め、敵からの近接攻撃ダメージを軽減する。
+properties.extractor.processingtime,抽出持続時間 {}秒
+upgrades.keeper3.desc,クナイ投げ、縄使い、熟練のジャンプを駆使する、動きのすばやいキーパー。
+assignment.acidrain.title,酸性雨
+upgrades.droneyardparasites3.desc,寄生ドローンの対敵対生物弱体化効果を、さらに強化する。
+upgrades.domesupplementelectrifiedsurface1.desc,ドーム外殻に反応性帯電塗装を施し、近接攻撃を行った敵生命体にダメージを与える。
+unlock.buy.keeperdlc.switch,アドオン「%s」の導入で解放されます。
+upgrades.keeper3shurikenstrength2.desc,シュリケンの爆発の威力をさらに上げる。
+upgrades.teslapower3.title,射撃威力+3
+upgrades.stationextensionrevealdistance2.desc,岩層スキャンの機能を強化し、基地からスキャンできる範囲を拡大する。
+upgrades.keeper3shurikencooldown2.title,シュリケン装填の術（丙）
+properties.orchard.buffduration,強化持続（サイクル） {}
+loadout.prestige.provocation.description,敵生物を挑発して敵ウェーブを強化し 大量の名声を獲得できる。倍率はサイクルを減るごとに減少し ゼロを下回るとステージが終了する。
+level.tutorial.probe.popup_1,|を押して探査する。
+level.tutorial.repellent.popup_2,そばに行き|を押して起動する。
+multiplayer.join.profile,プロフィール
+level.tutorial.probe.popup_3,"付近にある一部の資源の場所を知らせる。
+ステーションでの充電が必要。"
+level.tutorial.repellent.popup_1,防除剤を散布して敵ウェーブの到達を遅らせよう。
+upgrades.keeper4ramping2.desc,採掘強度、ピーク速度、および運動量のキープ力を向上させる。
+options.game.kunaicarrierbeforegadgets,ガジェットの前に運搬クナイを投てき
+properties.probe.permanentrevealresources,永続的資源スキャン表示
+upgrades.keeper2bundle4.title,バンドル結束強化
+options.audio.volumes.musicvolume,BGM
+options.input.controls.useindividualsettings,個別キーパー設定を使用
+upgrades.keeper4squadsmarts.desc,採掘隊が、特殊なブロックと資源が近いブロックを優先して採掘するようになる。
+upgrades.domesupplementscraprepair2.title,復元処置
+upgrades.orchardduration3.desc,フルーツによる能力強化の持続時間が最大になる。
+options.input.controls.touch,タッチ
+level.gameover.keepgadget.none,なし
+upgrades.stunlaserautonomy1.title,自律型AI
+upgrades.swordexplosivereflection.title,爆破リフレクター
+upgrades.probelongmarker1.desc,探査機の記憶モジュールを強化し、マーカーの表示時間を延長する。
+upgrades.resourcepackercharges.desc,スーツの梱包機能の充電回数を増やす。
+level.tutorial.tesla.panel2header,発射
+upgrades.drilladditionalsides.desc,1機目と同じ性能の側面ドリルを導入する。
+loadout.difficulty.veryeasy.description,簡単ではないが 他よりは気楽な難易度
+properties.stunlaser.stunstrength,スタン強度 {}
+properties.resourcepacker.packcount,バンドルのサイズ {}
+upgrades.keeperonewayteleporter.title,片道転送機
+upgrades.keeper3kunaidamage4.title,苦無インパクト
+upgrades.drill4.title,ドリル強化+4
+options.game.directionsnapping,キーパーの照準を四方向にすばやく動かす
+upgrades.artillerymachinegun3.title,連射速度+2
+upgrades.stunlaserspeed2.title,スピード強化+2
+properties.artillery.machinegunreloadspeed,弾丸装填速度 {}秒
+options.game.screenshake,画面ゆれ
+upgrades.proberechargeafterbattle.desc,"探査機のバッテリーが、時間経過で回復するようになる。
+ステーションを撤廃し、ガジェット格納庫に空きを1つ作れるようになる。"
+upgrades.jetpackstrength2.title,運搬力+2
+loadout.versus.condition.irondelivery.title,鉄の運搬
+upgrades.teslaspeed4.desc,照準レティクルの速度を上げる。
+level.assignment.badges.toggle,"任務を達成してバッジを獲得しよう。バッジはキーパー協会の報酬と交換できる。
+入手済みの報酬を使わずにステージに挑戦したい場合は 無効にすることも可能。"
+loadout.versus.wincondition,勝利条件
+upgrades.converterefficientwatershort.title,迅速処理機能
+properties.keeper2.directminingdamage,圧縮採掘ダメージ {}
+upgrades.assignmentssendiron.desc,"キーパー協会に鉄を送れ。
+本任務は、搬送可能な物資を余さず送ることで達成となる。"
+upgrades.keeper3carrylimit1.title,運搬力+1
+assignment.goaltype.survive,サバイバル
+upgrades.shield.title,シールド
+level.station.battle.navbar.stabspeedup,刺突スピード上昇
+upgrades.keeper3quadjump.desc,空中で、最大3度までジャンプできるようになる。
+properties.laser.aimline,照準ライン追加
+properties.domearmor.pulsestunduration,パルススタン持続時間 {}秒
+level.tutorial.assessor.carry.desc2.switch,|で収集物をバンドルにまとめ、狙っている方向に発射する。
+level.tutorial.ninja.carry.desc1.switch,%sで狙いをつけ、|で物資を運ぶクナイを投げる。
+upgrades.orchardovercharge.desc,水を使用すると果樹園がオーバーチャージし、フルーツの結実が早まるようになる。
+upgrades.missile.abilityname,ミサイル
+upgrades.resourcepackercount1.desc,ひとつのバンドルにまとめられる資源の上限数を増やす。
+assignment.bigmapsparseresources.desc,資源が少ない上に 散らばって分布しているが 岩層がもろい惑星で任務に挑め。
+properties.spire.stuntrap,エネルギートラップ
+playerlist.block,ブロック
+level.tutorial.sworddome.stabbing.desc,剣を伸ばして遠くの敵を突き刺す。
+properties.sword.sliceacceleration,ソードの移動速度 {}
+loadout.team.join,合流
+assignment.weapondefect.desc,ドームの主武器が破壊されてしまった。他の手段を探さねばならない。
+upgrades.repellentbattlehealthreduction.title,弱体効果
+loadout.versusmod.versusmodifiertoughstart,厳しいスタート
+title.navbar.multiplayer,マルチプレイ
+keybindings.reset.title.switch,キーコンフィグをリセット
+upgrades.extractorquickextraction.desc,鉄ムシを進化させ、鉄の抽出速度を上げる。
+upgrades.mushroomfarmquickgrowth.title,成長促進
+upgrades.repellentbattlehealthreduction.desc,すべての敵を弱らせ、敵の被ダメージ量を増加させる。
+loadout.versusmod.versusmodifierstrongmonsters,頑健なる敵
+leaderboard.failed,ランキングを読み込めませんでした。
+properties.sword.reflectprojectilesexplosive,反射したエネルギー弾が爆発
+level.station.navbar.upgrades,アップグレードメニュー
+upgrades.artillerymachinegun3.desc,対空砲の連射速度が上がる。
+level.gameover.unlock.pet,新たなペットが解放された！
+upgrades.domesupplementelectrifiedsurface2.title,帯電外殻+2
+upgrades.keeper3shuriken2.desc,シュリケンのクールダウン時間を減らし、シュリケンを投げられる頻度を増やす。
+upgrades.artillerysplash2.desc,砲弾を2連発で発射するようになる。
+loadout.mode.hud,HUD
+upgrades.keeper4flexible2.title,敏捷+2
+upgrades.shieldbattlereflectshortuses.desc,ドームが投射物を反射する頻度が、より強化される。
+upgrades.rocketlauncherdamage2.title,超強力ミサイル
+upgrades.domesupplementscraprepair1.title,応急修理
+upgrades.keeper2bundle3.title,重力中心軸
+upgrades.keeper2bundle2.desc,近くに落ちているバンドルの移動方向が、制御可能になる。
+upgrades.keeper3shurikencooldown2.desc,シュリケンのクールダウン時間をさらに減らす。
+upgrades.suitblaster.title,スーツブラスター
+upgrades.prestigeiron.title,鉄の送達
+properties.stunlaser.cooldown,クールダウン {}秒
+options.input.controls.keepersettings.desc,通常、キーパーの操作は全体的な設定が適用されますが、キーバーごとに個別操作設定を上書きすることが可能です（キーパーやアクションによって、異なるスナップ設定が必要となる場合があります）。
+options.keybindings.action.keeper.gravityball,発射
+upgrades.liftorbs.desc,運搬オーブを1つ追加する。
+options.input.controls.mouse.gamepad,コントローラーとの切り替えを自動的に検出します。
+properties.probe.detectchambers,区画探知機能
+landing.proceed,ボタンを押して開始
+upgrades.condenserautocollect.title,自動収集
+multiplayer.error.hostcrossplaydisabled,ホストがクロスプレイを無効にして別プラットフォームでプレイ中のため、参加できません。
+upgrades.repellent.title,防除液タンク
+loadout.team.color,チームカラー
+options.game.tutorials.resettutorials,チュートリアルをリセット
+options.accessibility.critters.explanation,視覚効果として出現する芋虫や虫などの生き物を非表示にします。
+upgrades.prospectionmeterrange1.desc,鉱床メーターの検出範囲がひろがる。
+upgrades.drillsidepull.title,資源運搬機能
+options.accessibility.highlightmonsters.explanation,モンスターの輪郭を明るく表示し 見やすくします。
+upgrades.keeper2bundle1.desc,バンドルの打上げ方向の目印となるマーカーをドーム直下に表示させる。
+upgrades.assignmentsemergencycontribution6.title,緊急搬送依頼：20
+upgrades.keeper4ramping3.title,モメンタム+3
+upgrades.swordblade1.desc,なぎ払い時のパワーとスピードを強化する。
+upgrades.probedetectchambers.title,区画探知機能
+loadout.mode.shortcycles,ショートサイクル
+upgrades.proberange3.desc,探査機の有効範囲をひろげる。
+upgrades.prestigespeedup.title,サイクル短縮
+loadout.prestige.endless.description,時間や資源に制限のない 超長時間プレイ向きのモード。
+options.input.gamepad.gamepadstickdeadzone.text.switch,"コントローラースティックを押し込まず 触れただけの状態時に バー上の四角が動かない値を設定します。
+スティックを押し込んで動かした時に 四角が動くよう調整してください。"
+upgrades.blastminingblast3.title,爆風+3
+upgrades.swordextendlong1.desc,刀身発射時のガイド機能と刺突パワーを強化する。
+properties.autocannon.rateoffire,発射速度 {.percent}
+upgrades.assignmentsemergencycontribution4.title,緊急搬送依頼：11
+assignment.minorvision.desc,惑星に落ちる暗い影により、すべての光が呑み込まれる。
+options.audio.volumes,音量
+unlock.host.locked.ps5,ホストがアドオン「%s」を導入していません。
+loadout.versusmod.versusmodifiershortcycles.desc,敵ウェーブ間の時間が短くなる。
+upgrades.keeper2pinballexplode2.title,爆発性能向上
+multiplayer.host.local,ローカル
+options.video.graphicsmode.fullscreen,フルスクリーン
+properties.keeper3.kunaidamage,クナイダメージ {} 
+options.game.screenshake.shakewhenmining,採掘時のゆれ
+upgrades.dome2.title,ソードドーム
+properties.autocannon.damage,弾丸ダメージ {}
+loadout.mode.doubleiron,鉄の大鉱脈
+upgrades.keeper4punch1.title,狂乱
+level.gameover.unlock.versus,対戦モード、解放！
+upgrades.artillerydoublemachinegun.desc,ドームの対空砲に、銃身を1基追加する。
+level.converter.popup.conversion.time,{time} サイクル以上
+options.translation.title,言語を選択
+loadout.prestige.pro.title,カスタム設定
+multiplayer.host.title,マルチプレイセッションをホスト
+properties.keeper4.movespeed,移動速度 {}
+options.input.gamepad.thumbstick.xbox,スティック
+upgrades.furnacelastingironfiring.title,燃料鉄 効率化
+upgrades.shieldoverchargestrength1.title,ドームシールド強化+1
+multiplayer.error.modsmismatched,Modリストがホストとマッチしないため、参加できません。
+upgrades.laserhitprojectiles.desc,レーザーが投射物に当たると、即座に投射物が分解されるようにる。
+upgrades.probepermanentrevealtiles.desc,探査機がスキャンしたエリアが永続的に表示されるようになる
+options.keybindings.action.keeper.jump,ジャンプ
+upgrades.repellentdelay2.title,遅延効果+2
+upgrades.keeper3shuriken1.title,シュリケン
+upgrades.probelongmarker2.desc,資源探知マーカーの表示時間が、数サイクル持続するようになる。
+properties.shockwave.stunduration,スタン持続時間 {}秒
+level.tutorial.teleporter.teleport1.switch,転送機に近づいて|で 再度テレポートする。
+options.game.alwaysshowping,サーバーPingを常に表示
+loadout.choices.locked,ただいまロック中。
+upgrades.prospectionmetersand1.title,コバルト感知器
+upgrades.drill2.title,ドリル強化+2
+level.gameover.findimages,保存先:
+level.tutorial.resourcepacker.popup_1.switch,資源に近づき|で 運搬しやすい小さめのバンドルにまとめる。
+reward.rewardpostrunshowmonstercount.title,追加戦闘データ
+upgrades.drill.title,掘削リグ
+upgrades.versusincreasewave1.desc,相手チームの敵ウェーブの強さを、永続的に強化する。
+upgrades.swordstabfast1.desc,刺突のスピードと頻度が向上する。
+properties.sword.slicebrake,斬撃減速 {.percent}
+upgrades.lasermove3.desc,レーザー砲塔の移動速度が最大になる。
+upgrades.prestigewatermultiplier.desc,"水を母星へ送ろう。
+毎ウェーブ終了時に獲得する名声ポイントが増える。"
+upgrades.domesupplementresurrection1.desc,"ドーム耐久値がゼロになると、耐久値が完全に
+回復し、短時間無敵状態になって復活する。
+ただし発動できるのは一度きり。"
+upgrades.swordextendlong3.title,長距離射出+3
+properties.repellent.wavedelay,遅延時間（サイクル） {}
+upgrades.domewavepathtodome.desc,"ウェーブ警報発令時、ドームへの最短経路が
+表示されるようになる。"
+level.tutorial.ninja.carry,クナイ運搬の術
+upgrades.dome4.desc,史上最大級の強大な電力を利用する、最先端技術のドーム。
+upgrades.prospectionmeterwater2.title,水探査コンパス
+multiplayer.techtree.keeperexclusivegadget,このガジェットは自分のキーパーのみに適用されます。
+options.keybindings.action.dome,ドーム
+upgrades.drillbotbuff1.title,ディグモフード
+versus.corruption.desc,相手チームを攻撃する敵に付与する効果を選択してください
+upgrades.swordstabshoot.title,ジャベリン
+properties.dome.projectiledamagereduction,投射物ダメージ軽減 {.percent}
+upgrades.drillbotbuffstrength2.desc,ディグモがエサを食べると、疲れて居眠りするまでの時間がはるかに延びるようになる。
+leaderboard.global,グローバル
+options.game.blocklist.unblockall,全員のブロック解除
+upgrades.swordlongblade1.title,ロングブレード+1
+properties.orchard.drillbuff,採掘スピード強化 {}
+properties.spire.splitshotspeed,分裂弾スピード {}
+options.keybindings.action.dome.upgrade,アップグレードメニュー
+upgrades.teslaspeed3.title,レティクル速度+3
+upgrades.domehealthmeter.title,耐久値メーター
+properties.extractor.additionalresources,追加資源 {}
+upgrades.domesupplementcombatrepair3.desc,"自動修理の発動条件ダメージ値を引き下げ、
+修理発動のタイミングを早める。"
+upgrades.furnacelastingironfiring.desc,炉に入れた鉄の効果時間を延ばす。
+properties.dome.resurrectinvulnerability,復活後の無敵時間 {}秒
+upgrades.assignmentssendwater.desc,"キーパー協会に水を送れ。
+本任務は、搬送可能な物資を余さず送ることで達成となる。"
+options.game.autopickupresources,自動的に資源を拾う。
+upgrades.repellentbattledamageovertime.desc,毒ガスを導入する。ガスを吸った敵は、毎秒少しずつダメージを受ける。
+upgrades.artillerydirecthit3.desc,迫撃砲弾の破壊力を上げる。
+upgrades.domearmorprojectile1.title,投射物アーマー+1
+upgrades.keeper4catgoblindig3.desc,ニャゴブリンが採掘する際、ブロックを完全に破壊するようになる。
+upgrades.stunlaserarea.desc,"近くの敵をスタンさせる衝撃波を、標的の周囲に作り出す。
+圏内の敵の数が多いと、範囲と威力が上がる。"
+level.tutorial.teleporter.carry2,転送機の近くで|を長押しすると 転送機を拾う。
+level.tutorial.teleporter.carry3,|を長押ししてテレポートする。
+upgrades.keeper2pinballreflect.title,反射フィールド
+upgrades.probepermanentrevealtiles.title,岩層スキャン表示
+loadout.versusmod.versusmodifierfastmonsters.desc,敵生命体の動きが速くなります。
+level.tutorial.teleporter.carry1,ポータルは好きな場所に設置できる。
+level.tutorial.pickup.popup_1.switch,|で拾う。
+options.input.gamepad.autoswitch,最適なコントローラーの自動検出
+options.accessibility,アクセシビリティ
+upgrades.teslapersistance2.desc,エレキオーブのサイズを大きくし、持続時間も延ばす。
+properties.sword.reflectionacceleration,投射物の反射スピ―ド {.percent}
+upgrades.artillerygrenadefastreload.title,急速リロード
+upgrades.keeper2pinballreflect.desc,破壊球を反射する、固定式反射フィールドを設置する。球が反射すると、破壊球の威力がわずかに増加するようになる。
+options.keybindings.action.keeper,キーパー
+upgrades.drillbotbuffstrength1.desc,フードに栄養を添加し、ディグモが元気に活動できる時間が延びるようにする。
+upgrades.versussendiron.desc,"キーパー協会に鉄を運搬する。
+この配達を規定回数完了させ、勝利しよう。"
+upgrades.keeper2pinballmorespheres1.desc,破壊球の所持数を増やす。
+properties.rocketlauncher.rechargetime,再装填までの時間 {}秒
+upgrades.domesupplementadditionalcellar.title,格納庫増築
+upgrades.blastminingstickycharge.title,粘着縦穴式爆破機能
+level.tutorial.assessor.explode.desc1.switch,|で 付近にあるすべての破壊球を爆発させる。
+upgrades.furnacestrongironfiring.title,燃料鉄 超効率化
+assignment.monstermasses.title,大群
+options.input.gamepad.gamepadstickdeadzone.switch,スティックの感知無効範囲
+properties.stunlaser.areastunstrength,範囲スタン効率 {.percent}
+upgrades.dome1health2.desc,ドームの耐久値が増加する。
+upgrades.probepermanentrevealresources.title,資源識別機能
+upgrades.swordfastreflection.desc,シールドが反射した投射物が、加速して飛んでいくようになる。
+properties.autocannon.shotgun,ショットガン弾 {}
+loadout.difficulty.medium,ベテラン
+multiplayer.join.joincodeinput,合流コードを入力
+properties.keeper4.maxspeedupatpunches,最大速度に要するパンチ数 {}回
+properties.monstermodifiers.health,敵の体力 {.percent}
+loadout.versusmod.versusmodifierfastmonsters,俊敏なる敵生命体
+upgrades.shieldoverchargestrength1.desc,ドームシールドのオーバーチャージ時に吸収可能なダメージ量を増加させる。
+properties.probe.charges,チャージ {}
+reward.rewardthreechoicessupplement.title,３種の提示追加武装
+upgrades.domesupplementscraprepair1.desc,"鉄を消費し、ドームを応急的に修理する。
+ただし、耐久値の最大値が下がる。"
+level.tutorial.tesla.panel1content1,レティクルを画面上で動かして狙う。
+upgrades.shockwavebig.desc,衝撃波のダメージを、強力な敵生物さえも壊滅させるほどの威力にまで引き上げる。
+multiplayer.continue.allowmultiplayererror,オプションメニューの「オンラインプレイ」設定が有効でないため、オンラインマルチプレイを続行できません。
+loadout.hint.multiplayer.playerminimum,マルチプレイには最低2名のプレイヤーが必要です。
+upgrades.artillerymachinegunhoming2.title,誘導ロケット+2
+upgrades.repellentbattleslowdownstun2.title,麻痺効果（改）
+upgrades.shockwave.abilityname,ショックウェーブ
+upgrades.jetpackspeed1.title,スピード強化+1
+upgrades.teleporterteleportduration1.title,転送時間短縮+1
+upgrades.autocannonrateoffire3.title,マシンガン+3
+properties.monstermodifiers.totalrunweightmodifier,ウェーブ強度倍率 {.percent}
+upgrades.swordstabfast1.title,刺突スピード+1
+upgrades.swordstabfast3.title,刺突スピード+3
+properties.tesla.quickshotstrength,クイックショット威力 {.percent}
+upgrades.keeper2pinballdamage2.desc,リロード時間をさらに延ばし、破壊球の威力をより強力にする。
+title.navbar.options,オプション
+upgrades.domearmormelee2.desc,敵の近接攻撃による被ダメージを減少させる。
+upgrades.shieldbattleelectroblast.title,電磁ブラスト
+properties.spire.stuntrapradius,半径 {}
+options.audio.volumes.ambiencevolume,環境音
+loadout.mode.drillbert.desc,ディグモと爆風弾を所持してスタートする。 ただし キーパーの採掘スキル強化 不可。ディグモの補充は 無限。
+title.navbar.credits.close,とじる
+properties.keeper4.goblinnapduration,ニャゴブリンお昼寝時間 {}秒
+properties.keeper2.reflectnexthitdamage,次回命中時追加ダメージ {.percent}
+upgrades.orchardbattlerootingmore.title,根冠強化
+multiplayer.error.connection,接続に失敗しました。
+keeperdlc.load.missing.ps5,使用できないアドオンが含まれているため、セーブテータを読み込めません。アドオン「ロストキーパー」が有効か、確認してください。
+level.tutorial.fruit.popup_2,そばに行き|で フルーツを食べる。
+loadout.versusmod.versusmodifierlittlecobalt,コバルト不足
+reward.rewardpet12.desc,ドームで一緒に過ごすペット、イヌをアンロックします。
+multiplayer.host.joincodelabel,合流コード
+upgrades.swordstabfast2.desc,刺突の頻度とスピードが、さらに向上する。
+properties.dome.incomingdamagemodifier,被弾ダメージ {.percent}
+properties.sword.stabexplosivedamage,爆弾ダメージ {}
+properties.blastmining.bombs,爆風弾 {}
+properties.resourcepacker.charges,チャージ {}
+upgrades.assignmentsemergencycontribution1.desc,パッケージを第2ラウンドまでに搬送しないと、失敗となる。
+properties.artillery.machinegunbarrels,対空砲 {}
+properties.artillery.gunaimline,レーザーサイト
+upgrades.jetpackstrength1.desc,ジェットパックを改良し、運べる資源の数を増やす。
+loadout.mode.nomonsters.desc,敵生命体が全く存在しない世界で採掘する。
+telemetry.eula,内容を確認する
+upgrades.condenserspeed1.title,精製機能+1
+upgrades.mushroomstack.desc,キノコをたくさん食べることで各能力強化の効果持続時間が延びるようになる。
+upgrades.keeper2pinballexplode2.desc,破壊球の爆発威力を向上させる。
+versus.message.disruption,相手チームにより敵ウェーブが永続的に強化されました
+loadout.mode.strongmonsters.desc,敵の与ダメージが2倍になる。
+upgrades.tesla.desc,"周辺一帯に驚異的なレベルの電力を放つ。
+数千ボルトの電圧が敵の顔に当たれば尚良し。"
+properties.drillbot.turnaround,衝突時の反転能力機能教育
+upgrades.keeper2movement3.desc,重力生成器を改良し、最高速度で移動できるようにする。
+level.tutorial.onewayteleporter2,"|でポータルを設置する。
+もう一度|でポータルにテレポートする。"
+upgrades.domearmormelee2.title,近接アーマー+2
+upgrades.drillbotbuffstrength2.title,タウリンフード
+level.tutorial.onewayteleporter3,充電は自動的に行えわれる。
+upgrades.keeper4extraresource.desc,ニャゴブリンが採掘作業を慎重に行うようになり、たまにブロックからさらなる資源が見つかる。
+upgrades.drillbotduo.desc,"ディグモのいとこ、ディゴリーとモグミが採掘を手伝ってくれる。
+敵ウェーブがやってきても動じずに、仲間のためにせっせと採掘する頼もしい友だ。"
+properties.tesla.perfecttimingwindow,最適タイミング猶予 {}秒
+loadout.mode.strongmonsters,重い一撃
+pause.quittotitlescreen,タイトル画面にもどる
+properties.keeper2.explodespheresradius,爆風範囲（ブロック） {}
+telemetry.privacy,データ管理に関する詳細は プライバシーポリシーをご確認ください。 http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,ミサイルの与えるダメージを大きくする。
+keybindings.reset.title.xbox,キーコンフィグをリセット
+upgrades.keeper3carrylimit3.desc,クナイ運搬術で運べる資源の数が増える。
+upgrades.autocannondoublefirerate.desc,"オートキャノンの連射速度を格段に上げる。
+シンプルかつ効率的なアップグレード。"
+upgrades.autocannon.title,オートキャノン
+upgrades.artillerymachinegunhoming1.title,誘導ロケット+1
+level.tutorial.assessor.carry.desc1_1.switch,1度ロックすれば 収集ボタンを離しても資源はキーパーの後を追うようになる。
+upgrades.swordlongblade1.desc,長さが伸び、軽快に動くソードを導入する。
+loadout.team.players,プレイヤー
+level.tutorial.fullscreen.back,もどる
+options.keybindings.action.keeper.rope,縄投げ
+upgrades.mushroomfarm.title,キノコ農場
+loadout.prestige.title,モードを選択せよ
+upgrades.prospectionmeterrange1.title,探査範囲+1
+upgrades.keeper3doublejump.title,二段跳びの術
+upgrades.keeper3kunaibounce1.desc,クナイの跳ね返りの軌道と着地点が表示されるようになる。クナイが跳ね返ると鉱床が共鳴し、近くの鉱床が可視化される。
+upgrades.repellentbattlelongerhealthreduction.title,弱体効果（改）
+loadout.versusmod.versusmodifierlittlewater,水不足
+upgrades.mushroomfarmdrill1.title,キノコパワー+1
+loadout.versusmod.versusmodifierscatterediron,分散する鉄
+level.converter.popup.conversion.convert,変換
+properties.droneyard.overchargebattledronecount,追加戦闘ドローン {.percent}
+reward.rewardfreerolls1.desc,1ステージあたり、ガジェットまたは追加武装の引き直しができる(コストなし)。
+multiplayer.host.splitscreen,ローカル画面分割を実行
+properties.converter.cobalttoiron,コバルト{}個→鉄1個
+loadout.mode.automateddefense,防御の自動化
+options.input.gamepad.gamepadstickdeadzone.xbox,スティックの感知無効範囲
+level.converter.popup.explanation,変換する資源を選んで作業を開始しよう
+upgrades.dome1health2.title,耐久度+2
+upgrades.stunlaserduration3.desc,スタンレーザーのクールダウンをとてつもなく短縮し、照射時間も大幅に延ばす。
+upgrades.assignmentsemergencycontribution5.desc,パッケージを第16ラウンドまでに搬送しないと、失敗となる。
+pause.gamepadcontrols.use,使う
+properties.spire.stunmonsters,敵生命体をスタン
+upgrades.assignmentssendcobalt.desc,"キーパー協会にコバルトを送れ。
+本任務は、搬送可能な物資を余さず送ることで達成となる。"
+upgrades.mushroomfarmspeed2.desc,キノコによる移動速度上昇力をさらに強化する。
+upgrades.keeper2pinballmorespheres1.title,破壊球補充
+upgrades.rocketlauncherrockets1.desc,発射できるミサイルの数を増やす。
+options.keybindings.gamepad.xbox.menu.xbox,メニューボタン
+upgrades.swordstabfast3.desc,刺突の頻度とスピードが、さらに向上する。
+properties.shield.overchargestrength,オーバーチャージ強度 {}HP
+upgrades.droneyarddronespeed1.desc,資源転送ドローンの移動速度を強化する。
+upgrades.liftorbs.title,追加オーブ
+properties.keeper3.carrylimit,クナイ運搬上限量 {}
+options.video.graphicsmode.photosensitive,光敏感症配慮モード
+upgrades.keeper2pinballdamage1.title,破壊球+1
+reward.rewardkeeper3skin1.title,シノビスキン
+level.tutorial.ninja.gadgetpickup.desc1,ガジェットは手動で拾う必要がある。
+properties.converter.ironperwater,鉄{}個→水1個
+properties.spire.capacity,再装填までの弾数 {}
+level.tutorial.ninja.gadgetpickup.desc2,|長押しでガジェットを拾う。
+loadout.versusmod.versusmodifierlittlewater.desc,水ブロック数が最低限になります。
+upgrades.drillbotstrength3.desc,ディグモの採掘パワーを強化する。
+upgrades.spirestuntrap3.title,対敵生物トラップ
+upgrades.shredgadgettocobalt.desc,ガジェットを粉砕し、コバルト {amount} 個に変換する。
+upgrades.converterefficientcobalt.title,コバルト変換効率化
+options.input.vibration.strength.xbox,振動の強さ
+properties.sword.reflectprojectiles,エネルギー性投射物反射機能
+reward.rewardfreerolls2.desc,1ステージあたり、ガジェットまたは追加武装の引き直しがもう一度行える(コストなし)。
+level.tutorial.station.popup_2.switch,ステーションに移動して|で入る。
+upgrades.versus.desc,ドーム2基、チーム2組で、どちらかが倒れるまでたがいに競い合おう。
+upgrades.dome2.desc,強力な剣を装備した実験的ドーム。扱いにはコツが必要だが、威力のほどは 折り紙つき。
+upgrades.drillmagnetic.desc,下方向ドリルに磁気を帯びさせ、採掘した資源をすべて所定位置でキープできるようにする。
+assignment.harmfuliron.title,過剰反応性鉄
+level.tutorial.sworddome.stabbing,刺突
+options.input.gamepad.icons,アイコン
+upgrades.shredgadgettoiron.desc,ガジェットを粉砕し 鉄 {amount} 個に変換する。
+upgrades.assignmentsemergencycontribution6.desc,パッケージを第20ラウンドまでに搬送しないと、失敗となる。
+properties.droneyard.battledroneshots,ドローンのショット数 {}
+level.gameover.lose.title,ドーム全壊　任務失敗
+loadout.difficulty.title,難易度
+properties.artillery.maxrotation,最大旋回範囲 {}°
+upgrades.shockwavestun1.desc,衝撃波のスタン性能を増強させる。
+unlock.host.locked,ホストがDLC「%s」を導入していません。
+multiplayer.host.splitscreen.desc,ロードアウト画面でコントローラーを使用すると、キーパーが追加出現します。1画面を最大4人までで共有可能です。ローカル・オンラインを問わずプレイヤーが合流できます。
+telemetry.explanation,"オンラインマルチプレイではDome Keeperのサーバーに接続し、ほかのプレイヤーに合流するほか、自分がホストとなってゲームをプレイすることができます。
+オンラインマルチプレイは必須ではなく、いつでも有効・無効が切替可能です。継続的なバックエンドへの接続（匿名アカウントを含む）はGDPR（EU一般データ保護規則）の対象となります。
+開発チームがプレイヤーの個人情報を収集することはなく、プレイ情報をテレメトリ追跡すこともありません。
+オンラインマルチプレイが無効であっても、1台のデバイスでの画面分割プレイヤローカルネットワーク経由でのマルチプレイが可能です。"
+gadget.slot.supplement,追加武装
+upgrades.droneyardovercharge2.desc,基地をオーバーチャージさせると、ドローンの性能が強化されるようになる。
+level.furnace.popup.fuel.burn,|は {cycles}サイクル 燃え続け 敵ウェーブ到来を {seconds}秒 遅延させる。
+options.input.controls.nooptions,このキーパーには、個別の %s 設定はありません。
+upgrades.versusshowinventory.desc,"相手チームのドームをモニタリング中、
+資源数も確認できるようになる。"
+properties.keeper1.drillstrength,ドリル強度 {}
+upgrades.keeper1.desc,すぐれた採掘スキルを持つ 有能な専門家。
+leaderboard.friends,フレンド
+gadget.slot.activegadget,第二戦闘スキル
+upgrades.keeper2.desc,実験的な運動エネルギーと重力技術を操る、知識で道を切り拓く採掘師。
+upgrades.keeper2pinballsplit2.title,分割性能向上
+upgrades.keeper2movement1.title,重力機動+1
+properties.keeper2.explodespheres,破壊球爆発
+upgrades.keeper3kunaidamage4.desc,"クナイの採掘力を高める。
+（注：硬度の高い鉱床やブロックに対し、クナイはぜい弱性がある）"
+upgrades.spireautonomy1.desc,キーパーがステーション外でも、AIが尖塔をコントロールするようになる。
+properties.droneyard.dronespeed,ドローン速度 {}
+upgrades.teslaquickshot.title,クイックショット
+assignment.megacreeps.title,弱肉強食の世界
+upgrades.shieldbattleactivateondepletion.title,自動復旧機能
+versus.corruptionbigwave.title,キラーウェーブ
+upgrades.lasermove3.title,機動力+3
+upgrades.swordelectrified.title,電磁ブレード
+upgrades.artillerymachinegun1.title,改良型対空砲
+level.tutorial.beastmaster.move.desc2,移動は、壁をつかめる時にのみ可能。
+options.accessibility.fontsize.small,小
+assignment.unpredictable.desc,惑星大気圏に発生した異常の影響で敵生命体感知メーターが干渉を受け、敵ウェーブの追跡が機能しなくなる。
+level.tutorial.beastmaster.move.desc1,触手を使い、坑道を移動する。
+upgrades.suitblasterdirectional.desc,"一定方向に移動すると、スーツブラスターがトンネル状に岩層を爆破するようになる。
+ブラスター発動時にじっとすると、放射状に爆破する。"
+level.tutorial.teleporter.take1,転送機にはステーションがある。転送機とステーション間を行き来できる。
+options.audio.music.ost.mode.fixed.desc,操作中のキーパータイプに関わらず 選んだキーパーのトラックが再生されます。
+level.tutorial.teleporter.take2,ポータルを拾い 好きな場所に置こう。
+level.gameover.assignment.failed,キーパー協会任務に 失敗した。
+telemetry.manage,オンラインサービスを無効
+modding.restart,再起動
+upgrades.orchardbattlerootingexplosion.title,捕獲対象爆破
+level.gameover.unlock.skin,新スーツが解放された！
+upgrades.jetpackspeed3.desc,ジェットパックを改良し、移動速度をもっと上げる。
+upgrades.repellentoverchargeduration2.title,オーバーチャージ強化・改
+upgrades.prospectionmeterwater1.desc,最も近い水までの距離を表示するようになる。
+loadout.prestige.miner.description,"モンスターのいない世界で効率的に採掘しよう。
+制限時間は20サイクル。"
+upgrades.shieldbattlereflect.desc,戦闘スキル。ドームが投射物を短時間だけ跳ね返すようになる。
+upgrades.stunlaserstun1.desc,スタンビームの出力を上げる。
+multiplayer.error.gameresolved,このマッチは終了済みです。
+upgrades.shieldbattlereflect.title,反射効果
+options.audio.volumes.mastervolume,主音量
+upgrades.keeper2pinballdamage4.title,破壊球+4
+leaderboard.loading,ロード中…
+upgrades.droneyardparasites2.title,寄生ドローンLv.2
+playerlist.title,プレイヤーリスト
+upgrades.versusincreasewave2.desc,相手チームの敵ウェーブの強さを、永続的に強化する。
+upgrades.rocketlauncher.title,ミサイルランチャー
+upgrades.liftspeed1.title,スピードアップ
+upgrades.rocketlauncherrockets2.title,弾幕+2
+level.tutorial.blastmining.popup_1,爆風弾を運び 爆破したい場所へ設置する。
+upgrades.keeper3slidecontrol.title,スライドの術
+properties.furnace.wavedelay,基本遅延効果 {}秒
+upgrades.mushroomfarmspeed1.desc,キノコによる移動速度上昇力を強化する。
+upgrades.dome3.title,アーティドーム
+properties.converter.ironirontime,鉄→鉄の変換時間 （サイクル） {}
+properties.laser.movespeed,移動速度 {}
+properties.stunlaser.damagepermonster,敵1体ごとの範囲ダメージ {}dps
+upgrades.stunlaser.title,スタンレーザー
+title.navbar.credits,クレジット
+upgrades.drillbotbuffstrength1.title,栄養満点フード
+level.tutorial.pickup.popup_1,|を押して拾う。
+level.tutorial.pickup.popup_3,長押しで一気に複数個を拾える。
+upgrades.blastminingtriple.title,三連チャージ
+upgrades.prospectionmeterscandelay1.desc,メーターの更新間隔を短くする。
+upgrades.furnacelastingwaterfiring.desc,炉に入れた水の効果時間を延ばす。
+upgrades.versusincreasewave2.title,サボタージュ v2
+upgrades.artillerymachinegun4.desc,連射速度性能が非常に高い銃身を導入する。
+upgrades.teslaspeed4.title,レティクル速度+4
+upgrades.swordextendlong3.desc,刺突のパワーと攻撃時間を、さらに向上させる。
+demo.end.title,Thank you for playing DEMO!
+upgrades.stationextensiontubemovement.title,バキューム式移動装置
+upgrades.keeper4squad3.title,トンネル大隊
+upgrades.orchardbattleshield.desc,ドーム上にツタのひさしを作って、投射物からドームを守れるようになる。
+properties.droneyard.battledronestrength,寄生効果 {.percent}
+options.game.kunaicarriersnapping,クナイでの運搬照準を四方向にスナップ
+options.input.vibration.strength,ゆれの強さ
+upgrades.keeper2pinballspherelifetime.title,破壊球持続時間
+upgrades.furnace.title,溶鉱炉
+upgrades.shockwavedamage1.title,衝撃波ダメージ+１
+properties.mushroomfarm.drillbuff,採掘強化 {}
+level.tutorial.station.popup_4,|を押して戦闘モードに移行しドームを防衛する。
+level.tutorial.teleporter_2,ステーションを使うと転送機にテレポートできる。転送機からステーションにも戻れる。
+level.tutorial.station.popup_2,ドーム内の端末に|でアクセスする。
+pause.resumegame,探索を再開する
+actionhint.tap,タップ
+level.tutorial.station.popup_1,敵生命体がドームを攻撃中！
+multiplayer.error.kicked,マルチプレイセッションから強制的に退出しました。
+telemetry.allow.ps5,同意する
+landing.proceed.ps5,ボタンを押して開始
+upgrades.condenserautoovercharge.title,"自動オーバー
+チャージ"
+upgrades.keeper2pinballdestroyadjacenttiles.title,カスケード効果
+level.converter.popup.queue,自動反復変換
+options.keybindings.action.general.back,キャンセル
+loadout.versus.condition.deathmatch.title,ドーム防衛
+upgrades.domearmorprojectile1.desc,敵の投射物による被ダメージを減少させる。
+options.keybindings.action.general.move,移動
+upgrades.keeper3kunaicooldown2.title,超・速投げ
+upgrades.artilleryrotation2.title,旋回速度向上
+loadout.gadget.additional.desc,追加ガジェットを選択せよ
+level.gameover.unlock.assignment,任務、アンロック！
+upgrades.domesupplementprojectiledamagereduction1.desc,ドーム外殻のたわみを強化し、投射物ダメージを軽減する。近接攻撃には効果なし。
+upgrades.blastminingproductiontime1.desc,爆風弾の作成時間を短縮する。
+upgrades.autocannonshotgun1.title,ショットガン+1
+loadout.hint.loadout,武装配備を完了せよ
+assignment.condition.deliveriron,鉄%d個を配送
+upgrades.drillbotduo.title,勇敢なる友
+level.tutorial.assessor.carry.desc1_1.xbox,1度ロックすれば 収集ボタンを離しても資源はキーパーの後を追うようになる。
+multiplayer.error.nomods,Modがインストール状態では参加できません。
+options.input.controls.keybindings.xbox,ボタンコンフィグ
+upgrades.domearmorprojectile2.title,投射物アーマー+2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"コントローラースティックを押し込まず 触れただけの状態時に バー上の四角が動かない値を設定します。
+スティックを押し込んで動かした時に 四角が動くよう調整してください。"
+upgrades.domesupplementcombatrepair2.title,戦闘時徹底リペア
+level.gadgetchoice.title,ガジェットを選択せよ
+properties.teleporter.slowdown,運搬時の速度低下 {.percent}
+upgrades.teslaspeed1.title,レティクル速度+1
+assignment.weapondefect.title,非武装状態
+properties.suitblaster.directionalexplosions,方向性爆破
+options.translation.community.title,コミュニティ翻訳
+options.audio.music.ost.mode,サウンドトラック設定
+upgrades.teleporterteleportresourcesback.title,資源転送機能
+upgrades.orchardbattleshield.title,ツタ状防護盾
+properties.drill.sides,側面ドリル {}
+upgrades.teslaorbstun.desc,エレキオーブのスタン効果が上がる。
+upgrades.repellentoverchargeduration1.desc,戦闘スキルにおけるオーバーチャージの衝撃パワーを増強させる。
+properties.keeper2.totalspheres,破壊球 {}
+options.keybindings.action.general.up,上
+pause.quit.popup,"本当に終了しますか？
+もう一度押して終了します
+(進行状況はセーブされます)"
+upgrades.drillbotduplicate.desc,ディグモの双子の弟「ダグモ」もお供にできるようになる。
+properties.keeper3.shurikenstrength,爆風範囲（ブロック） {}
+assignment.bigmapsparseresources.title,不毛の地
+upgrades.converterqueue.title,自動変換機能
+multiplayer.error.otherprestigeplayerquit,自チームのプレイヤーが全員退出したため、ゲームが終了しました。 ゲームは保存されています。ゲームを続行する場合は、コンティニューメニューの「マルチプレイヤー」を選択してください。
+level.tutorial.teleporter.teleport1,転送機に近づいて|で 再度テレポートできる。
+level.tutorial.teleporter.teleport2,転送機→ドームへのテレポートも可能。
+playerlist.report,報告
+upgrades.swordextendlong1.title,長距離射出+1
+upgrades.spiresplit3.desc,分裂した投射物が、あらゆる角度に飛散するようになる。
+upgrades.keeper3kunaicooldown3.desc,クナイの投てき速度が上がる。
+exhibition.title.press.anything,キーを押してプレイ
+multiplayer.techtree.keeperexclusivesupplement,このサプリメントは自分のキーパーのみに適用されます。
+options.input.gamepad.twinstick,ツインスティックの操作
+gadget.slot.domesupplement,ドーム追加武装
+loadout.mode.maze,ラビリンス
+upgrades.teleporter.title,テレポーター
+properties.keeper4.holesquad,採掘部隊規模 {}匹
+level.tutorial.fruit.popup_1,果樹にフルーツが実った。
+upgrades.teslatiming1.desc,テスラのリチャージが完了した瞬間に射撃すると、射撃の威力がはるかに上がるようになる。
+upgrades.converterefficientwaterlong.title,徹底処理機能
+level.tutorial.fruit.popup_2.switch,そばに行き|で フルーツを食べる。
+unlock.buy.keeperdlc.xbox,アドオン「%s」の導入で解放されます。
+upgrades.autocannonspeed1.desc,キャノンの歯車の動きを滑らかにし、移動速度を大幅に上げる。
+upgrades.probepermanentrevealresources.desc,探査機が資源を発見すると、マーカーが資源の位置を永続的に表示するようになる。
+properties.teleporter.teleportresourcescooldown,資源転送クールダウン {}秒
+upgrades.spire.desc,飛来する投射物を撃墜する防衛用尖塔。
+reward.rewardkeepersupplements.title,キーパー用追加武装
+upgrades.condenser.desc,"ドーム下部に凝縮機を導入する。
+凝縮器は結露の作用を利用して、ゆっくりと水を精製する。"
+upgrades.spiresplit3.title,地上分裂
+properties.drillbot.plantgrowthtime,エサ生成時間（サイクル） {}
+modding.modio.showdownloaded,ダウンロード済Modを表示
+upgrades.stunlaserspeed1.title,スピード強化+1
+upgrades.resourcepackercharges.title,バンドルキープ
+upgrades.swordblade1.title,斬撃強化
+loadout.versus.modifiers.desc,自チームおよび相手チームの両方に適用するオプションを選んでください（必須ではありません）。
+options.keybindings.gamepad.xbox.view,もどる
+options.accessibility.backgrounds.explanation,戦闘時の画面をすっきりさせるため すべてのワールド背景を明るい単一色のみで描画します。
+upgrades.dome1health1.title,耐久度+1
+loadout.prestige.pro.randomorder,ランダム
+assignment.superhardrockwithholes.desc,岩層の硬度がすさまじい 天然の洞窟だらけの惑星に挑め。
+upgrades.droneyardparasites.title,寄生ドローン
+actionhint.hold,ホールド
+properties.spire.timebetweenshots,照準時間 {}秒
+properties.game.cyclespeed,連射速度 {.percent}
+upgrades.artillerydirecthit3.title,モンスターバスター+3
+loadout.mode.drillbert,ディグモモード
+upgrades.prestigecobalt.title,コバルトの送達
+upgrades.rocketlauncher.desc,"標的追尾機能ミサイルを導入する。
+なお、発射は手動式。"
+options.cancel,やめる
+options.game.events.enableseasonal,シーズンコンテンツ有効
+options.audio.music.ost.mode.fixed,固定
+assignment.ironcontribution.desc,協会からの緊急要請のため 大量の鉄を手早く搬送すること。
+properties.rocketlauncher.damageperrocket,ダメージ {}
+upgrades.keeper4.title,ビーストマスター
+upgrades.laserbend.title,スイベルヘッド
+unlock.host.locked.switch,ホストがアドオン「%s」を導入していません。
+level.supplementchoice.reroll.free,引き直し（%s）
+loadout.versusmod.versusmodifierconcentratediron,一極集中の鉄
+options.keybindings.rebinding.apply,適用
+properties.repellent.battledamageovertime,敵の被ダメージ量 {}/秒
+upgrades.repellentdelay1.title,遅延効果+1
+upgrades.converterefficientwatershort.desc,水の変換所要時間を短縮させる。
+upgrades.domesupplementcombatrepair1.title,戦闘時リペア+1
+level.tutorial.sworddome.slicing,斬撃
+properties.drillbot.scared,対敵生命体への恐怖
+title.navbar.updates.close,とじる
+upgrades.condenserspeed2.desc,水の精製時間をさらに短縮する。
+upgrades.prospectionmeteriron2.desc,最も近い鉄鉱床の方向を表示するようになる。
+upgrades.keeper3carrylimit2.title,運搬力+2
+loadout.versus.condition.irondelivery.desc,左記に鉄を%s個運搬したチームの勝利
+properties.mushroomfarm.speedbuffduration,速度強化持続時間 {}秒
+upgrades.keeper4punch1.desc,触手での採掘を行うとゆっくりと強大なパワーを蓄えていくが、方向を変えると蓄積したパワーが失われる。
+exhibition.level.heading,一定時間操作がありません
+keeperdlc.load.missing.xbox,使用できないアドオンが含まれているため、セーブテータを読み込めません。アドオン「ロストキーパー」が有効か、確認してください。
+upgrades.domesupplementresurrection2.desc,復活回数が1回増える。
+actionhint.release,離す
+level.gameover.stats.monsterskilled,倒した敵生命体
+level.gameover.timelapse,早送り
+upgrades.drill3.desc,"ドリルを強化し、
+採掘速度をもっと向上させる。
+"
+upgrades.prospectionmetersand1.desc,最も近いコバルトまでの距離を表示する。
+assignment.instagip.desc,敵対生物が不自然なほどにまで凶暴化し、ドームにすさまじい損傷を与える。
+landing.proceed.switch,ボタンを押して開始
+upgrades.drillsides.desc,必要に応じて移動も可能な側面ドリルを、中央ドリルに装着する。
+properties.dome.meleedamagereduction,近接ダメージ軽減率 {.percent}
+options.keybindings.action.keeper.throw,クナイ投げ
+level.station.battle.navbar.artilleryflak,対空砲
+upgrades.teleporterlightweight.desc,移動速度がほぼ低下することなくポータルを運搬できるようになる。
+level.gameover.continue,メインメニューにもどる
+properties.sword.stabarrowhead,刃先サイズアップ
+loadout.versus.team.open,ひらく
+level.gameover.stats.mapsize,マップのサイズ
+upgrades.domesupplementelectrifiedsurface2.desc,対ドーム近接攻撃系敵生命体への与ダメージが増える。
+upgrades.prestigecobalt.desc,"コバルトを母星へ送ろう。
+毎ウェーブ終了時に、獲得する名声ポイントが増える。"
+options.video.renderscale.reset,リセット
+options.keybindings.text.xbox,"操作ボタン・キーを自由に設定します。
+同じキーには 異なる操作を重複して設定できる場合があります（例：キーパーの移動とドーム武器の移動は重複が可能）"
+options.audio.music.frequency,BGM頻度 （無音状態サイクルの長さ）
+upgrades.rocketlauncherrockets2.desc,発射できるミサイルの数をさらに増やす。
+options.input.controls.mouse.menus,メニューでマウスを使用
+upgrades.artillerysplash4.title,四連射
+upgrades.keeper4catgoblindig3.title,マイナーズハイ
+properties.keeper4.catgoblincount,ニャゴブリン数 {}匹
+loadout.mode.hud.desc,最大までアップグレードされたHUDを備えてスタートする。
+upgrades.drillbotsleepless.title,"基礎体力向上
+プログラム"
+assignment.maze.desc,狭い道、でこぼこの構造…。 迷路状の地下が ひろがる惑星に挑め。
+level.tutorial.drop.popup_2.switch,|で落とす。長押しで複数落とす。
+upgrades.artillerysplash2.title,二連射
+loadout.select,選択
+level.gameover.prestige.uploading.failed,送信に失敗しました。もう一度試してください。
+level.assignment.badges.available,利用可能バッジ: %d
+level.tutorial.beastmaster.goblins,ニャゴブリン
+properties.autocannon.spray,弾丸拡散 {.percent}
+upgrades.versusspycam.title,スパイカメラ
+upgrades.shredgadgettoiron.title,鉄に加工
+upgrades.teslapersistance3.desc,エレキオーブのサイズを大きくし、持続時間も延ばす。
+upgrades.suitblasterspeed2.title,チャージ速度+2
+properties.shield.battleuses,戦闘ごとの使用回数 {}回
+properties.prospectionmeter.range,範囲（ブロック） {}
+upgrades.droneyard.desc,ドームに資源転送ドローンおよび戦闘用ドローンを導入する。
+upgrades.domearmorpulse.title,反応性パルス
+title.navbar.multiplayer.host,マルチプレイをホスト
+upgrades.spireburst.desc,短い間隔で攻撃し、 敵からの集中攻撃に対応しやすくする。
+upgrades.domearmor.desc,頑丈なメッキを施し、ドーム耐久性を上げる。
+options.input.controls.mouse.gamepad.xbox,コントローラーとの切り替えを自動的に検出します
+unlock.difficulty.hard,難易度「ベテラン」でのクリアで開放
+versus.corruptionmonsterhealth.title,頑健なる敵
+properties.probe.markerretention,マーカー持続時間 {}秒
+loadout.hint.gamemodecompletion,ゲームモードを設定せよ
+upgrades.suitblasterdirectional.title,方向性チャージ
+options.keybindings.cancel,やめる
+unlock.host.locked.xbox,ホストがアドオン「%s」を導入していません。
+loadout.versusmod.versusmodifiernorelics,遺物消失
+upgrades.autocannondoublefirerate.title,高速射撃砲
+upgrades.blastmining.desc,"発破採掘用の爆風弾を作成する。
+鉱洞に運び設置すれば、爆発する。"
+upgrades.converterqueue.desc,変換完了後に十分な資源の貯蔵量がある場合、生成した資源が自動的に排出され、再度同じ資源変換を開始するようになる。
+modding.modio.fetchsubscriptionsfailed,mod.ioサブスクリプションの取得に失敗しました
+upgrades.orchardbattleshieldsecondlayer.desc,ツタのひさしをもう一層追加する。
+unlock.generic,ステージクリアで開放
+loadout.versusmod.versusmodifiersoftrock.desc,鉱洞内に、やわらかい岩盤が増える。
+upgrades.assignments.desc,"キーパー協会からの高レベルな任務に挑戦し
+自分の力を証明しよう。"
+properties.probe.autorecharge,自動充電
+assignment.instagip.title,凶暴化生命体
+upgrades.artillerysplash3.desc,迫撃砲を改良し、超広域爆発範囲の砲弾を発射するようになる。
+multiplayer.join.button,合流
+pause.gamepadcontrols.move,移動
+upgrades.condenserautoovercharge.desc,"主要ガジェットが、水なしでオーバーチャージするようになる。
+ただし、オーバーチャージ後の水の精製時間が遅れるようになる。"
+multiplayer.continue.deviceselection.title,キーパーを選択せよ
+upgrades.autocannonautonomy.desc,キーパーがステーション外でも、オートキャノンが起動するようにする。
+upgrades.swordaimline.title,照準ライン追加
+multiplayer.join.joinfromcode,合流
+properties.artillery.rotationspeedwhilemachinegun,射撃時旋回速度 {.percent}
+level.tutorial.artillery.panel2header,対空砲
+level.gameover.keepgadget.title,次のステージに持ち越すガジェットを選択
+upgrades.domearmorprojectile2.desc,敵の投射物による被ダメージが減少する。
+upgrades.shieldbattledestructionprevention.title,最終兵器「背水の陣」
+upgrades.domeresourcecounters.desc,貯蔵資源量の表示機能、および戦闘中にコバルトを自動消費してドームを自動修理する機能を導入する。
+upgrades.spirestuntrap1.title,エネルギートラップ
+upgrades.prospectionmeteriron2.title,鉄探査コンパス
+loadout.mode.hyperactive,スピード勝負
+upgrades.prospectionmeterwater2.desc,最も近い水のブロックの方向を表示するようになる。
+options.video.stretchmode,ストレッチモード
+level.gameover.prestige.title,名声チャレンジ終了
+upgrades.droneyardovercharge1.title,"ドローン基地
+オーバーチャージ"
+options.keybindings.rebinding.cancel,やめる
+upgrades.teslaorbdamage.title,超電導
+upgrades.proberechargeafterbattle.title,ステーション撤廃
+upgrades.assignmentssendwater.title,水の搬送
+upgrades.probecharges.title,探査機チャージ
+pause.gamepadcontrols.pickup,拾う
+upgrades.prospectionmeter.title,鉱床メーター
+upgrades.condenserspeed2.title,精製機能+2
+loadout.mode.hyperactive.desc,敵の動きが速くなるが 体力は少なくなる。
+upgrades.teleporterlightweight.title,ポータル軽量化
+versus.corruptionstunresistance.title,スタン耐性
+loadout.versusmod.versusmodifierpoorirondeposits,かぼそい鉄鉱床
+level.gameover.prestige.uploading.finalfailed,最新スコアのアップロードに失敗しました。
+modding.currentprofile,（現在のプロファイル）
+upgrades.versussendiron.title,鉄の運搬
+loadout.assignment.title,任務を選択せよ
+options.keybindings.rebinding,割り当て
+upgrades.teslaspeed2.title,レティクル速度+2
+level.tutorial.beastmaster.hole_1,|長押しで後ろの壁に穴を掘る。
+level.tutorial.beastmaster.hole_2,ニャゴブリンがすぐさま出現して後ろの壁に穴を掘り、トンネル網に接続させる。
+upgrades.keeper3shurikenstrength2.title,シュリケン強化の術（乙）
+upgrades.versusspycam.desc,"相手チームのドームをモニタリングできる
+ステーションを導入する。"
+loadout.versusmod.versusmodifiershortcycles,ショートサイクル
+options.accessibility.fontsize.large,大
+reward.rewardcentralmarker.desc,鉱洞の中心地を垂直線で表示する。
+upgrades.shieldstrength3.desc,ドームシールドの吸収ダメージ量をさらに増加させる。
+options.game.movementsnapping,移動キーを四方向にスナップ
+upgrades.laseraimline.title,レーザーサイト
+upgrades.converterironduplication.title,鉄精製機能
+upgrades.jetpackspeed1.desc,ジェットパックを改良し、移動速度を上げる。
+options.keybindings.gamepad.xbox,コントローラー
+upgrades.teslapower1.title,射撃威力+1
+gadget.slot.mineshaft,縦坑道
+keybindings.reset.title,キーコンフィグリセット
+upgrades.autocannonrateoffire2.desc,発射速度をさらに上げる。
+multiplayer.join.localonly,現在の検索対象はローカルネットワークです。オンラインマルチプレイを有効にしますか？
+upgrades.keeper3aerialmastery.title,軽業の術
+upgrades.extractordestruction.desc,鉄ムシが消える際、岩に潜るだけでなく、潜った岩の周囲を破壊するようになる。
+properties.shield.battleabilityduration,スキル持続時間 {}秒
+upgrades.keeper4squad3.desc,採掘ニャゴブリン隊の頭数を増やし、さらに耐久力を上げる。
+level.gameover.prestige.score.rankimproved,ランキングが {rank} に上がりました。
+options.game.tutorials.noneunlocked,チュートリアルが解放されていません。
+upgrades.droneyardparasites2.desc,寄生ドローンの効果をさらに強化する。
+loadout.prestige.provocation,挑発
+network.error.generic,ネットワークエラー
+options.game.ropesnapping,ロープと照準を上下左右の４方向にスナップさせる
+upgrades.keeper4catgoblindig1.title,採掘要員ニャ
+level.gameover.manualmove,手動カメラで確認
+upgrades.domesupplementcombatrepair1.desc,戦闘中に一定量のダメージを受けると、コバルトを消費せずドームを一度だけ自動修理する。
+upgrades.prospectionmeterscandelay1.title,走査速度向上
+assignment.goaltype,目標
+properties.keeper1.speedlosspercarry,運搬減速補正 {}
+upgrades.extractor.desc,"鉄の鉱脈にくっつき、効率的に鉄を抽出する資源抽出鉄ムシを育成する。
+好きな場所に連れていき、配置しよう。"
+unlock.mapsize.huge,大サイズマップでのクリアで開放
+upgrades.liftcarrykeeper2.desc,リフトの上昇性能の速度が、さらに上がる。
+loadout.mapsize.title,マップのサイズ
+loadout.difficulty.hard,サバイバー
+upgrades.rocketlauncherdamage1.title,改良ミサイル
+versus.corruptionfastmonsters.title,俊敏なる敵
+multiplayer.host.online.desc,世界じゅうのプレイヤーが合流できます。
+upgrades.keeper4speed3.desc,移動速度を大幅に上昇させる。
+network.error.offline,ネットワークが切断されました。接続を確認してから再度お試しください。
+level.tutorial.ninja.carry.desc1_1,資源の上を歩くと、資源を拾う。
+upgrades.resourcepackerconstant.desc,充電がほぼ即時完了するようになり、実質的にほぼ制限なく機能を使用できるようになる。さらに、バンドルサイズとその成長度を向上させる。
+loadout.versusmod.versusmodifiersecondweapon.desc,キーパーが複数いるチームは、第二ステーションの武器が解放される。
+assignment.logistics.desc,協会により、この惑星に豊富な水があることがわかった。後方支援に対処せよ。
+properties.shockwave.damage,ダメージ {}
+pause.gamepadcontrols.back,もどる

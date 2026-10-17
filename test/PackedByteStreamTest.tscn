@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://du6c8a05py4jt"]
+
+[ext_resource type="Script" path="res://test/PackedByteStreamTest.gd" id="1"]
+
+[node name="PackedByteStreamTest" type="Node"]
+script = ExtResource("1")

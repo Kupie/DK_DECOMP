@@ -1,0 +1,1166 @@
+[gd_scene load_steps=41 format=3 uid="uid://drcohvwfxcuc1"]
+
+[ext_resource type="Script" path="res://stages/loadout/MultiplayerloadoutStage.gd" id="1"]
+[ext_resource type="Script" path="res://stages/level/Viewports.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://cski7eapaa4jb" path="res://stages/loadout/LoadoutCamera.tscn" id="3"]
+[ext_resource type="PackedScene" uid="uid://5ysdfech0to4" path="res://systems/camera/ViewportContainer.tscn" id="4"]
+[ext_resource type="Shader" path="res://systems/camera/viewport_split_glow.gdshader" id="5"]
+[ext_resource type="PackedScene" uid="uid://dutjgavl8amrn" path="res://content/map/Map.tscn" id="6"]
+[ext_resource type="PackedScene" uid="uid://cmomuxhrjla6o" path="res://content/worlds/world1/World1.tscn" id="7"]
+[ext_resource type="PackedScene" uid="uid://y24moy72idmu" path="res://gui/buttons/Action.tscn" id="8"]
+[ext_resource type="LabelSettings" uid="uid://bt8ja72pv60g8" path="res://gui/fontsettings/ActionHintFontSettings.tres" id="9"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="10"]
+[ext_resource type="PackedScene" uid="uid://difanam1ljo2j" path="res://stages/loadout/LoadoutChoice.tscn" id="11"]
+[ext_resource type="PackedScene" uid="uid://cekhm1iidi7dd" path="res://stages/loadout/StartRunArea.tscn" id="12"]
+[ext_resource type="Script" path="res://stages/loadout/ChoiceHintContainer.gd" id="13"]
+[ext_resource type="LabelSettings" uid="uid://qgs4khkkhaso" path="res://gui/fontsettings/NormalFontSettings.tres" id="14"]
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="15"]
+[ext_resource type="FontVariation" uid="uid://g3vbmmqhudaf" path="res://gui/fonts/FontHeading.tres" id="16"]
+[ext_resource type="LabelSettings" uid="uid://b5aow2qb2h3pe" path="res://gui/fontsettings/HeadingFontSettings.tres" id="17"]
+[ext_resource type="LabelSettings" uid="uid://qsc7kngg06e5" path="res://gui/fontsettings/SmallFontSettings.tres" id="18"]
+[ext_resource type="LabelSettings" uid="uid://cq1nq3tq5f52p" path="res://gui/fontsettings/VeryLargeFontSettings.tres" id="19"]
+[ext_resource type="FontVariation" uid="uid://c5l04pe7y0aer" path="res://gui/fonts/FontLarge.tres" id="20"]
+[ext_resource type="Script" path="res://stages/loadout/ModifiersBox.gd" id="21"]
+[ext_resource type="PackedScene" uid="uid://cd4ap72bll5wp" path="res://stages/loadout/AssignmentDisplay.tscn" id="22"]
+[ext_resource type="Script" path="res://stages/loadout/AssignmentLeaderboard.gd" id="23"]
+[ext_resource type="PackedScene" uid="uid://b42rikcu7kuru" path="res://stages/loadout/versus_modifiers_box_team.tscn" id="24"]
+[ext_resource type="PackedScene" uid="uid://diyk0klmkujg0" path="res://stages/loadout/team_selection_area.tscn" id="25"]
+[ext_resource type="Texture2D" uid="uid://b6g0mx6jboumy" path="res://content/icons/badge1.png" id="26"]
+[ext_resource type="PackedScene" uid="uid://cw3810eup7wd5" path="res://stages/loadout/ColorPicker.tscn" id="27"]
+[ext_resource type="Script" path="res://stages/loadout/coop_color_picker.gd" id="28"]
+[ext_resource type="Shader" path="res://systems/camera/vignette/vignette.gdshader" id="29"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="30"]
+[ext_resource type="PackedScene" uid="uid://dbvepiwqgidoc" path="res://systems/camera/ViewportContainerTracker.tscn" id="31"]
+[ext_resource type="PackedScene" uid="uid://xa00w6tjyd4g" path="res://systems/audio/EffectHandler.tscn" id="32"]
+[ext_resource type="Script" path="res://stages/loadout/LoadoutKeeperSpawner.gd" id="33"]
+[ext_resource type="Script" path="res://content/monster/MonsterSynchronizer.gd" id="34"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_vxli0"]
+resource_local_to_scene = true
+shader = ExtResource("5")
+shader_parameter/blend_left = 1.0
+shader_parameter/blend_right = 0.0
+
+[sub_resource type="RectangleShape2D" id="7"]
+size = Vector2(91, 800)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2rmkn"]
+size = Vector2(159, 181)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3a0x6"]
+size = Vector2(4000, 200)
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_riy02"]
+resource_local_to_scene = true
+shader = ExtResource("29")
+shader_parameter/zoom = Vector2(1, 1)
+shader_parameter/color_conversion = Vector3(0.8, 0.8, 0.8)
+shader_parameter/vignette_alpha = 1.0
+shader_parameter/light_cutout_offset = Vector2(0.412, 0.668)
+shader_parameter/light_cutout_scale = Vector2(0.233, 0.143)
+shader_parameter/aspect_ratio = 1.777
+shader_parameter/nmb_of_targets = 1
+shader_parameter/target_center_offsets_and_strengths = null
+shader_parameter/brightness_bias = 3.0
+shader_parameter/brightness_bands = 3
+shader_parameter/light_cutouts = null
+
+[sub_resource type="ViewportTexture" id="ViewportTexture_hdbmh"]
+viewport_path = NodePath("UISubviewport/SubViewport")
+
+[node name="MultiplayerLoadoutStage" type="Node" node_paths=PackedStringArray("loadoutKeeperSpawner", "monsterSynchronizer") groups=["locale"]]
+script = ExtResource("1")
+loadoutKeeperSpawner = NodePath("LoadoutKeeperSpawner")
+monsterSynchronizer = NodePath("MonsterSynchronizer")
+
+[node name="Viewports" type="VBoxContainer" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+script = ExtResource("2")
+camera_scene = ExtResource("3")
+
+[node name="Top" type="HBoxContainer" parent="Viewports"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+
+[node name="ViewportContainer" parent="Viewports/Top" node_paths=PackedStringArray("camera") instance=ExtResource("4")]
+layout_mode = 2
+camera = NodePath("SubViewportContainer/SubViewport/FirstCamera")
+
+[node name="SubViewportContainer" parent="Viewports/Top/ViewportContainer" index="0"]
+material = SubResource("ShaderMaterial_vxli0")
+
+[node name="Teleportation" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="0"]
+position = Vector2(0, 100)
+
+[node name="Map" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="1" groups=["unstyled"] instance=ExtResource("6")]
+unique_name_in_owner = true
+z_index = -1
+position = Vector2(1, 14)
+
+[node name="World1" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="2" instance=ExtResource("7")]
+unique_name_in_owner = true
+position = Vector2(0, 14)
+
+[node name="VisibilityChecker" type="Area2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="3"]
+unique_name_in_owner = true
+modulate = Color(1, 0.68616, 0.389727, 1)
+collision_layer = 33554432
+collision_mask = 0
+
+[node name="DomePosition" type="Marker2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="4"]
+unique_name_in_owner = true
+
+[node name="DomePositionArea1" type="Area2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/DomePosition"]
+unique_name_in_owner = true
+position = Vector2(7, 32)
+collision_layer = 33554432
+collision_mask = 0
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/DomePosition/DomePositionArea1"]
+position = Vector2(-12.5, -400)
+shape = SubResource("7")
+
+[node name="DomePositionArea" type="Area2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/DomePosition"]
+unique_name_in_owner = true
+collision_layer = 0
+collision_mask = 16384
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/DomePosition/DomePositionArea"]
+position = Vector2(10.5, -29.5)
+shape = SubResource("RectangleShape2D_2rmkn")
+debug_color = Color(0.956863, 0, 0.537255, 0.356863)
+
+[node name="Monsters" type="Node2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="5"]
+unique_name_in_owner = true
+z_index = 50
+
+[node name="KeeperSpawnPositionInitial" type="Marker2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="6"]
+unique_name_in_owner = true
+position = Vector2(132, 208)
+
+[node name="KeeperSpawnPosition" type="Marker2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="7"]
+unique_name_in_owner = true
+position = Vector2(0, 250)
+
+[node name="FirstCamera" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="8" instance=ExtResource("3")]
+unique_name_in_owner = true
+
+[node name="DropDeleter" type="Area2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="9"]
+position = Vector2(0, 1000)
+collision_layer = 0
+collision_mask = 32
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/DropDeleter"]
+shape = SubResource("RectangleShape2D_3a0x6")
+
+[node name="MoveReminder" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="10"]
+unique_name_in_owner = true
+offset_left = -42.0
+offset_top = 199.0
+offset_right = 611.0
+offset_bottom = 223.0
+scale = Vector2(0.25, 0.25)
+alignment = 1
+
+[node name="ActionKeeperMoveLeft" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/MoveReminder" instance=ExtResource("8")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = null
+action = "ui_left"
+
+[node name="ActionKeeperMoveRight" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/MoveReminder" groups=["hide_for_gamepad"] instance=ExtResource("8")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = null
+action = "ui_right"
+
+[node name="Label" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/MoveReminder"]
+layout_mode = 2
+text = "options.keybindings.action.general.move"
+label_settings = ExtResource("9")
+
+[node name="UI" type="Control" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport" index="11"]
+unique_name_in_owner = true
+layout_direction = 2
+layout_mode = 3
+anchors_preset = 0
+offset_left = -507.0
+offset_top = 198.0
+offset_right = -467.0
+offset_bottom = 238.0
+scale = Vector2(0.25, 0.25)
+
+[node name="BlockCenter" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI"]
+layout_mode = 0
+offset_left = 1776.0
+offset_top = -328.0
+offset_right = 2316.0
+offset_bottom = 1180.0
+theme_override_constants/separation = 0
+
+[node name="BlockStartRun" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+size_flags_horizontal = 0
+theme_override_constants/separation = 12
+
+[node name="LabelTodo" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun"]
+visible = false
+layout_mode = 2
+text = "Choose a game mode!"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="StartRunChoice" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun" instance=ExtResource("11")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 200)
+layout_mode = 2
+titleLocId = "loadout.secondstage.start"
+
+[node name="StartRunChoiceGroup" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun" instance=ExtResource("12")]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="ChoiceHintContainer" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun"]
+layout_mode = 2
+alignment = 1
+script = ExtResource("13")
+
+[node name="Label1" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun/ChoiceHintContainer"]
+layout_mode = 2
+text = "Press"
+label_settings = ExtResource("14")
+
+[node name="Action_Adaptive" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun/ChoiceHintContainer" instance=ExtResource("8")]
+unique_name_in_owner = true
+layout_mode = 2
+texture = null
+action = "ui_select"
+
+[node name="Action_Keyboard" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun/ChoiceHintContainer" instance=ExtResource("8")]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+texture = null
+action = "ui_select"
+mode = "keyboard"
+forceMode = true
+
+[node name="Action_Gamepad" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun/ChoiceHintContainer" instance=ExtResource("8")]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+texture = null
+action = "ui_select"
+mode = "gamepad"
+forceMode = true
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun/ChoiceHintContainer"]
+layout_mode = 2
+text = "to choose an option."
+label_settings = ExtResource("14")
+
+[node name="Control" type="Control" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun"]
+custom_minimum_size = Vector2(0, 60)
+layout_mode = 2
+
+[node name="BlockKeeper" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI"]
+custom_minimum_size = Vector2(360, 0)
+layout_mode = 2
+offset_left = 1800.0
+offset_top = 460.0
+offset_right = 2340.0
+offset_bottom = 588.0
+size_flags_horizontal = 4
+theme_override_constants/separation = 40
+
+[node name="Headline" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockKeeper"]
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+text = "loadout.keeper"
+label_settings = ExtResource("17")
+horizontal_alignment = 1
+uppercase = true
+
+[node name="KeeperContainers" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockKeeper"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme_override_constants/separation = 60
+alignment = 1
+
+[node name="BlockGameMode" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI"]
+layout_mode = 2
+offset_left = -4544.0
+offset_top = -388.0
+offset_right = 1627.0
+offset_bottom = 1521.0
+mouse_filter = 2
+theme_override_constants/separation = 120
+alignment = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode"]
+layout_mode = 2
+
+[node name="SpacerGameMode" type="Control" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 90)
+layout_mode = 2
+
+[node name="BlockPrestigeLoadout" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/separation = 150
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout"]
+custom_minimum_size = Vector2(520, 0)
+layout_mode = 2
+mouse_filter = 2
+
+[node name="Label" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer2"]
+texture_filter = 4
+layout_mode = 2
+text = "loadout.prestige.fairness.headline"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer2"]
+texture_filter = 4
+layout_mode = 2
+text = "loadout.prestige.fairness.desc"
+label_settings = ExtResource("18")
+autowrap_mode = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout"]
+custom_minimum_size = Vector2(900, 0)
+layout_mode = 2
+mouse_filter = 2
+
+[node name="Headline" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+text = "loadout.prestige.title"
+label_settings = ExtResource("19")
+horizontal_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+theme_override_constants/separation = 60
+alignment = 1
+
+[node name="PrestigeModeVariantContainer" type="GridContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_constants/h_separation = 12
+theme_override_constants/v_separation = 12
+columns = 2
+
+[node name="Control" type="Control" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer"]
+custom_minimum_size = Vector2(0, 80)
+layout_mode = 2
+mouse_filter = 2
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="Box" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer/VBoxContainer2"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="LoadoutChoiceFriendlyMode" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer/VBoxContainer2/Box" instance=ExtResource("11")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 80)
+layout_mode = 2
+toggleable = true
+titleLocId = "loadout.prestige.friend.mode"
+descLocId = "loadout.prestige.friend.desc"
+
+[node name="LoadoutChoiceProMode" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer/VBoxContainer2/Box" instance=ExtResource("11")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 80)
+layout_mode = 2
+titleLocId = "loadout.prestige.pro.title"
+descLocId = "loadout.prestige.pro.explanation"
+emit_keeper_on_selected = true
+
+[node name="BlockRelicHuntLoadout" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer"]
+custom_minimum_size = Vector2(1200, 0)
+layout_mode = 2
+size_flags_horizontal = 8
+mouse_filter = 2
+theme_override_constants/separation = 40
+
+[node name="Headline" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout"]
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+text = "loadout.relichunt.title"
+label_settings = ExtResource("19")
+horizontal_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout"]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/separation = 60
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+theme_override_constants/separation = 60
+alignment = 1
+
+[node name="DifficultyList" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout/VBoxContainer/HBoxContainer/DifficultyList"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.difficulty.title"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="DifficultyContainersRelicHunt" type="GridContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout/VBoxContainer/HBoxContainer/DifficultyList"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+columns = 2
+
+[node name="MapSizeList" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout/VBoxContainer/HBoxContainer/MapSizeList"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.mapsize.title"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="MapsizeContainers" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout/VBoxContainer/HBoxContainer/MapSizeList"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="ModifiersBox" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_vertical = 3
+script = ExtResource("21")
+
+[node name="Label4" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout/VBoxContainer/ModifiersBox"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.relichunt.modifiers"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="Modifiers" type="GridContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockRelicHuntLoadout/VBoxContainer/ModifiersBox"]
+layout_mode = 2
+columns = 3
+
+[node name="BlockAssignmentsLoadout" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer"]
+custom_minimum_size = Vector2(2500, 0)
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/separation = 160
+alignment = 2
+
+[node name="Vbox2" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout"]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/separation = 60
+
+[node name="Headline" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2"]
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+text = "loadout.assignment.title"
+label_settings = ExtResource("19")
+horizontal_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2"]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/separation = 60
+
+[node name="AssignmentsContainer" type="GridContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/h_separation = 16
+theme_override_constants/v_separation = 40
+columns = 4
+
+[node name="ChosenAssignmentBox" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer"]
+custom_minimum_size = Vector2(450, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+theme_override_constants/separation = 50
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer/ChosenAssignmentBox"]
+custom_minimum_size = Vector2(0, 750)
+layout_mode = 2
+
+[node name="Label" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer/ChosenAssignmentBox/VBoxContainer"]
+layout_mode = 2
+text = "assignment.chosen.title"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="AssignmentChoice" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer/ChosenAssignmentBox/VBoxContainer" instance=ExtResource("22")]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="AssignmentLeaderboard" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer/ChosenAssignmentBox"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 10
+script = ExtResource("23")
+
+[node name="Headline" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer/ChosenAssignmentBox/AssignmentLeaderboard"]
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+text = "leaderboard.fellowkeepers"
+label_settings = ExtResource("19")
+horizontal_alignment = 1
+
+[node name="ErrorLabel" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer/ChosenAssignmentBox/AssignmentLeaderboard"]
+visible = false
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+label_settings = ExtResource("14")
+horizontal_alignment = 1
+
+[node name="GridContainer" type="GridContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer/ChosenAssignmentBox/AssignmentLeaderboard"]
+layout_mode = 2
+theme_override_constants/h_separation = 30
+columns = 2
+
+[node name="Label" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer/ChosenAssignmentBox/AssignmentLeaderboard/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "loadout.keeper"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="Label2" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockAssignmentsLoadout/Vbox2/HBoxContainer/ChosenAssignmentBox/AssignmentLeaderboard/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "level.assignment.badges"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="BlockVersusLoadout" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 0
+mouse_filter = 2
+theme_override_constants/separation = 40
+
+[node name="HeadlineTeam2" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+text = "loadout.title"
+label_settings = ExtResource("17")
+horizontal_alignment = 2
+uppercase = true
+
+[node name="MarginContainer" type="MarginContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout"]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/margin_left = 40
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 8
+mouse_filter = 2
+theme_override_constants/separation = 40
+alignment = 1
+
+[node name="Team2Options" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/separation = 40
+alignment = 1
+
+[node name="VersusModifiersBoxTeam2" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options" instance=ExtResource("24")]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="DifficultyList" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options/DifficultyList"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.difficulty.title"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="DifficultyContainersTeam2" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options/DifficultyList"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="PetListTeam2" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options/PetListTeam2"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.pet"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="PetContainersTeam2" type="GridContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options/PetListTeam2"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+columns = 2
+
+[node name="PrimaryGadgetContainersTeam2" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options/PrimaryGadgetContainersTeam2"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.gadget"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="DomeContainersTeam2" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options/DomeContainersTeam2"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.dome"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="AdditionalGadgetContainersTeam2" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer/Team2Options/AdditionalGadgetContainersTeam2"]
+texture_filter = 4
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.gadget.additional"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="TeamSelectionTeam2" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/MarginContainer/HBoxContainer" instance=ExtResource("25")]
+unique_name_in_owner = true
+layout_mode = 2
+teamId = "team2"
+
+[node name="Control" type="Control" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout"]
+clip_contents = true
+custom_minimum_size = Vector2(0, 220)
+layout_mode = 2
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout"]
+layout_mode = 2
+size_flags_horizontal = 8
+
+[node name="ModeLabel" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/VBoxContainer2"]
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+text = "loadout.versus.wincondition"
+label_settings = ExtResource("17")
+horizontal_alignment = 2
+uppercase = true
+
+[node name="MarginContainer" type="MarginContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/VBoxContainer2"]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/margin_left = 40
+
+[node name="VersusModeWinConditions" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/VBoxContainer2/MarginContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/separation = 20
+
+[node name="VersusChoiceDeathmatch" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/VBoxContainer2/MarginContainer/VersusModeWinConditions" instance=ExtResource("11")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 120)
+layout_mode = 2
+id = "deathmatch"
+titleLocId = "loadout.versus.condition.deathmatch.title"
+descLocId = "loadout.versus.condition.deathmatch.desc"
+
+[node name="VersusChoiceIronDelivery" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/VBoxContainer2/MarginContainer/VersusModeWinConditions" instance=ExtResource("11")]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(0, 120)
+layout_mode = 2
+id = "irondelivery"
+titleLocId = "loadout.versus.condition.irondelivery.title"
+descLocId = "loadout.versus.condition.irondelivery.desc"
+
+[node name="GameModeMarginContainer" type="MarginContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode"]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/margin_left = 0
+theme_override_constants/margin_right = 40
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/GameModeMarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 40
+
+[node name="Headline" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/GameModeMarginContainer/VBoxContainer"]
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+text = "loadout.mode"
+label_settings = ExtResource("17")
+horizontal_alignment = 1
+uppercase = true
+
+[node name="GameModeContainers" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/GameModeMarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(400, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+theme_override_constants/separation = 16
+
+[node name="BlockGuildReward" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI"]
+unique_name_in_owner = true
+layout_mode = 2
+offset_left = 2620.0
+offset_top = 888.0
+offset_right = 4420.0
+offset_bottom = 1871.0
+size_flags_horizontal = 8
+theme_override_constants/separation = 40
+
+[node name="MarginContainer" type="MarginContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGuildReward"]
+layout_mode = 2
+
+[node name="Headline" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGuildReward/MarginContainer"]
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+text = "loadout.assignment.shop"
+label_settings = ExtResource("17")
+horizontal_alignment = 1
+vertical_alignment = 1
+uppercase = true
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGuildReward"]
+custom_minimum_size = Vector2(1400, 0)
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGuildReward/VBoxContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="AvailableBadgesLabel" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGuildReward/VBoxContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Available Badges: %d"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="GuildRewardMedalTextureRect" type="TextureRect" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGuildReward/VBoxContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+texture = ExtResource("26")
+stretch_mode = 3
+
+[node name="Label" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGuildReward/VBoxContainer"]
+layout_mode = 2
+text = "level.assignment.badges.toggle"
+label_settings = ExtResource("14")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="AssignmentRewardsContainer" type="GridContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGuildReward/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/h_separation = 20
+theme_override_constants/v_separation = 20
+columns = 3
+
+[node name="BlockDomeLoadoutTeam1" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI"]
+layout_mode = 2
+offset_left = 2420.0
+offset_top = -388.0
+offset_right = 3618.0
+offset_bottom = 868.0
+size_flags_horizontal = 0
+mouse_filter = 2
+theme_override_constants/separation = 40
+
+[node name="HeadlineTeam1" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("16")
+theme_override_font_sizes/font_size = 64
+text = "loadout.title"
+label_settings = ExtResource("17")
+uppercase = true
+
+[node name="MarginContainer" type="MarginContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1"]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/margin_left = 40
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 0
+mouse_filter = 2
+theme_override_constants/separation = 40
+alignment = 1
+
+[node name="TeamSelectionTeam1" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer" instance=ExtResource("25")]
+unique_name_in_owner = true
+layout_mode = 2
+teamId = "team1"
+
+[node name="Team1Options" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 0
+mouse_filter = 2
+theme_override_constants/separation = 40
+alignment = 1
+
+[node name="AdditionalGadgetContainersTeam1" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options/AdditionalGadgetContainersTeam1"]
+texture_filter = 4
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.gadget.additional"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+autowrap_mode = 3
+
+[node name="DomeContainersTeam1" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options/DomeContainersTeam1"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.dome"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="PrimaryGadgetContainersTeam1" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options/PrimaryGadgetContainersTeam1"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.gadget"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="PetListTeam1" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options/PetListTeam1"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.pet"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="PetContainersTeam1" type="GridContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options/PetListTeam1"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+columns = 2
+
+[node name="DifficultyListTeam1" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+
+[node name="Label3" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options/DifficultyListTeam1"]
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme = ExtResource("15")
+theme_override_fonts/font = ExtResource("20")
+theme_override_font_sizes/font_size = 36
+text = "loadout.difficulty.title"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="DifficultyContainersTeam1" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options/DifficultyListTeam1"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="VersusModifiersBoxTeam1" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockDomeLoadoutTeam1/MarginContainer/HBoxContainer/Team1Options" instance=ExtResource("24")]
+unique_name_in_owner = true
+layout_mode = 2
+teamId = "team1"
+
+[node name="HintContainers" type="Control" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI"]
+unique_name_in_owner = true
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="ZoomArea" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI"]
+unique_name_in_owner = true
+layout_mode = 0
+offset_left = 1364.0
+offset_top = 1150.0
+offset_right = 1677.0
+offset_bottom = 1580.0
+
+[node name="Label" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/ZoomArea"]
+layout_mode = 2
+text = "loadout.zoom"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/ZoomArea"]
+layout_mode = 2
+
+[node name="LoadoutChoiceZoom1" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/ZoomArea/HBoxContainer" instance=ExtResource("11")]
+unique_name_in_owner = true
+layout_mode = 2
+toggleable = true
+titleLocId = "loadout.zoom1"
+
+[node name="LoadoutChoiceZoom2" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/ZoomArea/HBoxContainer" instance=ExtResource("11")]
+unique_name_in_owner = true
+layout_mode = 2
+toggleable = true
+titleLocId = "loadout.zoom2"
+
+[node name="ColorPickerCoop" type="VBoxContainer" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/ZoomArea"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="Control" type="Control" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/ZoomArea/ColorPickerCoop"]
+custom_minimum_size = Vector2(0, 70)
+layout_mode = 2
+
+[node name="Label2" type="Label" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/ZoomArea/ColorPickerCoop"]
+layout_mode = 2
+text = "loadout.player.color"
+label_settings = ExtResource("10")
+horizontal_alignment = 1
+
+[node name="ColorPicker" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/ZoomArea/ColorPickerCoop" instance=ExtResource("27")]
+unique_name_in_owner = true
+layout_mode = 2
+script = ExtResource("28")
+
+[node name="Vignette" parent="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/VignetteLayer" index="0"]
+material = SubResource("ShaderMaterial_riy02")
+
+[node name="UISubviewportRect" parent="Viewports/Top/ViewportContainer" index="1"]
+texture = SubResource("ViewportTexture_hdbmh")
+
+[node name="Bottom" type="HBoxContainer" parent="Viewports"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+
+[node name="Tween" parent="Viewports" instance=ExtResource("30")]
+
+[node name="ViewportsTracker" type="VBoxContainer" parent="."]
+unique_name_in_owner = true
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+theme_override_constants/separation = 0
+
+[node name="Top" type="HBoxContainer" parent="ViewportsTracker"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+
+[node name="PlayerTracker1" parent="ViewportsTracker/Top" instance=ExtResource("31")]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_stretch_ratio = 5.0
+
+[node name="Bottom" type="HBoxContainer" parent="ViewportsTracker"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+theme_override_constants/separation = 0
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="AreaLimiter" type="Control" parent="CanvasLayer"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="Tween" parent="." instance=ExtResource("30")]
+
+[node name="EffectHandler" parent="." instance=ExtResource("32")]
+
+[node name="LoadoutKeeperSpawner" type="Node" parent="."]
+script = ExtResource("33")
+
+[node name="CanvasLayer2" type="CanvasLayer" parent="."]
+layer = 100
+
+[node name="FPS" type="Label" parent="CanvasLayer2"]
+unique_name_in_owner = true
+offset_right = 40.0
+offset_bottom = 23.0
+
+[node name="MonsterSynchronizer" type="Node" parent="."]
+script = ExtResource("34")
+target_connection_states = [2, 3]
+
+[connection signal="tree_exited" from="." to="." method="_on_tree_exited"]
+[connection signal="body_entered" from="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/DropDeleter" to="." method="_on_drop_deleter_body_entered"]
+[connection signal="select" from="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun/StartRunChoice" to="." method="_on_StartRunChoice_select"]
+[connection signal="select" from="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockCenter/BlockStartRun/StartRunChoiceGroup" to="." method="_on_StartRunChoice_select"]
+[connection signal="toggled" from="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer/VBoxContainer2/Box/LoadoutChoiceFriendlyMode" to="." method="_on_loadout_choice_friendly_mode_toggled"]
+[connection signal="select" from="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockPrestigeLoadout/VBoxContainer/VBoxContainer2/Box/LoadoutChoiceProMode" to="." method="_on_loadout_choice_pro_mode_select"]
+[connection signal="select" from="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/VBoxContainer2/MarginContainer/VersusModeWinConditions/VersusChoiceDeathmatch" to="." method="_on_versus_choice_wincondition_select" binds= ["deathmatch"]]
+[connection signal="select" from="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/BlockGameMode/VBoxContainer/BlockVersusLoadout/VBoxContainer2/MarginContainer/VersusModeWinConditions/VersusChoiceIronDelivery" to="." method="_on_versus_choice_wincondition_select" binds= ["irondelivery"]]
+[connection signal="toggled" from="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/ZoomArea/HBoxContainer/LoadoutChoiceZoom1" to="." method="_on_loadout_choice_zoom_1_toggled"]
+[connection signal="toggled" from="Viewports/Top/ViewportContainer/SubViewportContainer/SubViewport/UI/ZoomArea/HBoxContainer/LoadoutChoiceZoom2" to="." method="_on_loadout_choice_zoom_2_toggled"]
+
+[editable path="Viewports/Top/ViewportContainer"]

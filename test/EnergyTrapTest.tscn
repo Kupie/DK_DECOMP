@@ -1,0 +1,54 @@
+[gd_scene load_steps=6 format=3 uid="uid://buch6mjtdx0wv"]
+
+[ext_resource type="Texture2D" uid="uid://bi8nfasw8hsfe" path="res://content/worlds/world4/bg.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://bfqcisxxrln73" path="res://content/worlds/world4/2.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://dgfoalsb4g5qa" path="res://content/worlds/world4/1.png" id="3"]
+[ext_resource type="PackedScene" uid="uid://bih0pf4lp7ld1" path="res://content/gadgets/spire/Energytrap.tscn" id="4"]
+
+[sub_resource type="GDScript" id="1"]
+script/source = "extends Node2D
+
+func _ready():
+	randomize()
+	Data.apply(\"spire.stuntrapradius\", 60)
+	Data.apply(\"spire.stuntrapabsorption\", 1)
+	Data.apply(\"spire.stuntrapduration\", 999)
+	Data.apply(\"spire.stunmonsters\", 1)
+	Style.init(self)
+	$Energytrap.start(200)
+	_on_PaletteTimer_timeout()
+
+
+func _on_PaletteTimer_timeout():
+	var palettes:Array = Data.gameProperties.get(\"palettes.world\" + str(randi() % 5 + 1))
+	Style.setPalette(str(palettes[randi()%palettes.size()]))
+"
+
+[node name="Node2D" type="Node2D"]
+texture_filter = 1
+position = Vector2(476, 355)
+script = SubResource("1")
+
+[node name="Bg" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(504, 175)
+texture = ExtResource("1")
+
+[node name="2" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(499, 498)
+texture = ExtResource("2")
+
+[node name="1" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(502, 398)
+texture = ExtResource("3")
+
+[node name="Energytrap" parent="." instance=ExtResource("4")]
+position = Vector2(448, 386)
+
+[node name="PaletteTimer" type="Timer" parent="."]
+wait_time = 3.0
+autostart = true
+
+[connection signal="timeout" from="PaletteTimer" to="." method="_on_PaletteTimer_timeout"]

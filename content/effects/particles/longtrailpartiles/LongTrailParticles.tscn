@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bwwubg5xrboew"]
+
+[ext_resource type="Script" path="res://content/effects/particles/longtrailpartiles/LongTrailParticles.gd" id="1"]
+
+[node name="LongTrailParticles" type="GPUParticles2D"]
+script = ExtResource("1")

@@ -1,0 +1,186 @@
+[gd_scene load_steps=12 format=3 uid="uid://bsqey7uili3im"]
+
+[ext_resource type="Script" path="res://stages/deviceselection/DeviceselectionStage.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://dutjgavl8amrn" path="res://content/map/Map.tscn" id="2"]
+[ext_resource type="Script" path="res://stages/deviceselection/DeviceSelectionMap.gd" id="3"]
+[ext_resource type="Script" path="res://stages/deviceselection/camera.gd" id="4"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="5"]
+[ext_resource type="PackedScene" uid="uid://cekhm1iidi7dd" path="res://stages/loadout/StartRunArea.tscn" id="6"]
+[ext_resource type="PackedScene" uid="uid://difanam1ljo2j" path="res://stages/loadout/LoadoutChoice.tscn" id="7"]
+[ext_resource type="Texture2D" uid="uid://cbwbkupajt3l1" path="res://gui/icons/icon_close.svg" id="8"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="9"]
+[ext_resource type="PackedScene" uid="uid://xa00w6tjyd4g" path="res://systems/audio/EffectHandler.tscn" id="10"]
+[ext_resource type="Script" path="res://stages/deviceselection/DeviceSelectionKeeperSpawner.gd" id="11"]
+
+[node name="DeviceSelectionStage" type="Node" node_paths=PackedStringArray("spawner") groups=["locale"]]
+script = ExtResource("1")
+spawner = NodePath("DeviceSelectionKeeperSpawner")
+
+[node name="Map" parent="." groups=["unstyled"] instance=ExtResource("2")]
+unique_name_in_owner = true
+z_index = -1
+script = ExtResource("3")
+
+[node name="KeeperSpawnPosition" type="Marker2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(0, 250)
+
+[node name="Camera" type="Camera2D" parent="." groups=["cameras"]]
+unique_name_in_owner = true
+position = Vector2(-9, 196)
+zoom = Vector2(3, 3)
+position_smoothing_enabled = true
+position_smoothing_speed = 10.0
+script = ExtResource("4")
+
+[node name="UI" type="Control" parent="."]
+unique_name_in_owner = true
+layout_direction = 2
+layout_mode = 3
+anchors_preset = 10
+anchor_right = 1.0
+offset_left = -251.0
+offset_top = 107.0
+offset_right = -251.0
+offset_bottom = 815.0
+grow_horizontal = 2
+scale = Vector2(0.25, 0.25)
+
+[node name="BlockStartRun" type="VBoxContainer" parent="UI"]
+custom_minimum_size = Vector2(500, 0)
+layout_mode = 2
+offset_left = 710.0
+offset_right = 1210.0
+offset_bottom = 400.0
+size_flags_horizontal = 4
+size_flags_vertical = 0
+theme_override_constants/separation = 12
+alignment = 1
+
+[node name="LabelTodo" type="Label" parent="UI/BlockStartRun"]
+visible = false
+layout_mode = 2
+text = "Choose a game mode!"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="StartRunChoiceGroup" parent="UI/BlockStartRun" instance=ExtResource("6")]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="BlockCancelSelection" type="VBoxContainer" parent="UI"]
+layout_mode = 2
+offset_left = 400.0
+offset_top = 150.0
+offset_right = 492.0
+offset_bottom = 238.0
+alignment = 1
+
+[node name="CancelKeeperLoadoutChoice" parent="UI/BlockCancelSelection" instance=ExtResource("7")]
+unique_name_in_owner = true
+layout_mode = 2
+titleLocId = "multiplayer.continue.deviceselection.cancel"
+icon = ExtResource("8")
+emit_keeper_on_selected = true
+
+[node name="OneTeamContainer" type="VBoxContainer" parent="UI"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -317.0
+offset_top = 500.0
+offset_right = 317.0
+offset_bottom = 554.0
+grow_horizontal = 2
+pivot_offset = Vector2(417, 64)
+size_flags_horizontal = 4
+size_flags_vertical = 0
+alignment = 1
+
+[node name="Label" type="Label" parent="UI/OneTeamContainer"]
+layout_mode = 2
+text = "multiplayer.continue.deviceselection.title"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="GridContainerAllTeams" type="GridContainer" parent="UI/OneTeamContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/h_separation = 60
+theme_override_constants/v_separation = 40
+columns = 4
+
+[node name="TwoTeamsContainer" type="HBoxContainer" parent="UI"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -960.0
+offset_top = 500.0
+offset_right = 960.0
+offset_bottom = 554.0
+grow_horizontal = 2
+size_flags_vertical = 0
+theme_override_constants/separation = 250
+alignment = 1
+
+[node name="ContainerTeam1" type="CenterContainer" parent="UI/TwoTeamsContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="UI/TwoTeamsContainer/ContainerTeam1"]
+layout_mode = 2
+
+[node name="LabelTeam1" type="Label" parent="UI/TwoTeamsContainer/ContainerTeam1/VBoxContainer2"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "multiplayer.continue.deviceselection.title"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="GridContainerTeam1" type="GridContainer" parent="UI/TwoTeamsContainer/ContainerTeam1/VBoxContainer2"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/h_separation = 60
+theme_override_constants/v_separation = 40
+columns = 4
+
+[node name="ContainerTeam2" type="CenterContainer" parent="UI/TwoTeamsContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer3" type="VBoxContainer" parent="UI/TwoTeamsContainer/ContainerTeam2"]
+layout_mode = 2
+
+[node name="LabelTeam2" type="Label" parent="UI/TwoTeamsContainer/ContainerTeam2/VBoxContainer3"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "multiplayer.continue.deviceselection.title"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="GridContainerTeam2" type="GridContainer" parent="UI/TwoTeamsContainer/ContainerTeam2/VBoxContainer3"]
+unique_name_in_owner = true
+layout_mode = 2
+theme_override_constants/h_separation = 60
+theme_override_constants/v_separation = 40
+columns = 4
+
+[node name="Tween" parent="." instance=ExtResource("9")]
+
+[node name="EffectHandler" parent="." instance=ExtResource("10")]
+
+[node name="DeviceSelectionKeeperSpawner" type="Node" parent="."]
+unique_name_in_owner = true
+script = ExtResource("11")
+
+[node name="CanvasLayer2" type="CanvasLayer" parent="."]
+layer = 100
+
+[node name="FPS" type="Label" parent="CanvasLayer2"]
+unique_name_in_owner = true
+offset_right = 40.0
+offset_bottom = 23.0
+
+[connection signal="select" from="UI/BlockStartRun/StartRunChoiceGroup" to="." method="_on_start_run_choice_group_select"]

@@ -1,0 +1,26 @@
+[gd_scene load_steps=2 format=3 uid="uid://c8cyk6tieg2yk"]
+
+[ext_resource type="Script" path="res://gui/LoadingSpinner.gd" id="1"]
+
+[node name="LoadingSpinner" type="HBoxContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource("1")
+
+[node name="TextureRect1" type="TextureRect" parent="."]
+layout_mode = 2
+stretch_mode = 2
+
+[node name="TextureRect2" type="TextureRect" parent="."]
+visible = false
+layout_mode = 2
+stretch_mode = 2
+
+[node name="TextureRect3" type="TextureRect" parent="."]
+visible = false
+layout_mode = 2
+stretch_mode = 2
+
+[node name="Timer" type="Timer" parent="."]
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]

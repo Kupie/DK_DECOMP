@@ -1,0 +1,175 @@
+[gd_scene load_steps=20 format=3 uid="uid://cs42104son7m"]
+
+[ext_resource type="Script" path="res://content/gadgets/shockwave/Shockwave.gd" id="1"]
+[ext_resource type="Shader" path="res://content/gadgets/shockwave/shockwave.gdshader" id="2"]
+[ext_resource type="Texture2D" uid="uid://dj7qt1rx12efp" path="res://content/shared/black_pixels.png" id="3"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="4"]
+[ext_resource type="AudioStream" uid="uid://cxgdxb8pio8v0" path="res://content/sounds/Locations/Shockwave/Shockwave_hit_01.wav" id="5"]
+[ext_resource type="AudioStream" uid="uid://6cl3hjgoecua" path="res://content/sounds/Locations/Shockwave/Shockwave_hit2_4.wav" id="6"]
+[ext_resource type="AudioStream" uid="uid://b1bet25lrjgxu" path="res://content/sounds/Locations/Shockwave/Shockwave_hit2_3.wav" id="7"]
+[ext_resource type="AudioStream" uid="uid://63gm6q4llvn4" path="res://content/sounds/Locations/Shockwave/Shockwave_hit2_2.wav" id="8"]
+[ext_resource type="Texture2D" uid="uid://ucgt25ybc1ma" path="res://content/shared/smoke_particles_white.png" id="9"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_uxp31"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_saqas"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_qx0o1"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_tlwji"]
+shader = ExtResource("2")
+shader_parameter/radius = 50.0
+shader_parameter/floorHeight = -1000.0
+shader_parameter/strength = 1.0
+shader_parameter/tex = SubResource("CompressedTexture2D_qx0o1")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_57lqt"]
+streams_count = 3
+stream_0/stream = ExtResource("6")
+stream_1/stream = ExtResource("7")
+stream_2/stream = ExtResource("8")
+
+[sub_resource type="Shader" id="Shader_ab7e3"]
+code = "// NOTE: Shader automatically converted from Godot Engine 4.2.2.stable's CanvasItemMaterial.
+
+shader_type canvas_item;
+render_mode blend_mix;
+uniform int particles_anim_h_frames;
+uniform int particles_anim_v_frames;
+uniform bool particles_anim_loop;
+
+void vertex() {
+	float h_frames = float(particles_anim_h_frames);
+	float v_frames = float(particles_anim_v_frames);
+	VERTEX.xy /= vec2(h_frames, v_frames);
+	float particle_total_frames = float(particles_anim_h_frames * particles_anim_v_frames);
+	float particle_frame = floor((1.0-INSTANCE_CUSTOM.z) * float(particle_total_frames));
+	if (!particles_anim_loop) {
+		particle_frame = clamp(particle_frame, 0.0, particle_total_frames - 1.0);
+	} else {
+		particle_frame = mod(particle_frame, particle_total_frames);
+	}	UV /= vec2(h_frames, v_frames);
+	UV += vec2(mod(particle_frame, h_frames) / h_frames, floor((particle_frame + 0.5) / h_frames) / v_frames);
+}
+"
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_o5g3c"]
+shader = SubResource("Shader_ab7e3")
+shader_parameter/particles_anim_h_frames = 4
+shader_parameter/particles_anim_v_frames = 2
+shader_parameter/particles_anim_loop = false
+
+[sub_resource type="Curve" id="Curve_dpug7"]
+_data = [Vector2(0, 0.131868), 0.0, 0.0, 0, 0, Vector2(0.429986, 1), 0.0, 0.0, 0, 0, Vector2(0.749646, 1), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
+point_count = 4
+
+[sub_resource type="CurveTexture" id="CurveTexture_hpuyv"]
+curve = SubResource("Curve_dpug7")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_wlu71"]
+particle_flag_disable_z = true
+emission_shape_scale = Vector3(100, 100, 100)
+angle_max = 360.0
+direction = Vector3(0, 0, 0)
+spread = 0.0
+gravity = Vector3(0, 0, 0)
+damping_min = 50.0
+damping_max = 50.0
+scale_min = 0.5
+scale_max = 2.0
+alpha_curve = SubResource("CurveTexture_hpuyv")
+anim_speed_min = 1.0
+anim_speed_max = 1.0
+
+[node name="Shockwave" type="Node2D"]
+script = ExtResource("1")
+
+[node name="OuterArea" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 128
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="OuterArea"]
+shape = SubResource("CircleShape2D_uxp31")
+
+[node name="InnerArea" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 128
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="InnerArea"]
+shape = SubResource("CircleShape2D_saqas")
+debug_color = Color(0.855282, 0.322839, 0.463128, 0.42)
+
+[node name="vis" type="Sprite2D" parent="."]
+texture_filter = 1
+material = SubResource("ShaderMaterial_tlwji")
+scale = Vector2(50, 50)
+texture = ExtResource("3")
+
+[node name="DealDamageSound" parent="." instance=ExtResource("4")]
+stream = ExtResource("5")
+volume_db = -6.849
+pitch_scale = 1.6
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 300.0
+minAudibleDistance = 60.0
+
+[node name="DealDamageSound2" parent="DealDamageSound" instance=ExtResource("4")]
+stream = SubResource("AudioStreamRandomizer_57lqt")
+volume_db = 3.056
+pitch_scale = 1.88
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 60.0
+
+[node name="DealDamageSound1" parent="." instance=ExtResource("4")]
+stream = ExtResource("5")
+volume_db = -2.392
+pitch_scale = 1.6
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 300.0
+minAudibleDistance = 60.0
+
+[node name="DealDamageSound2" parent="DealDamageSound1" instance=ExtResource("4")]
+stream = SubResource("AudioStreamRandomizer_57lqt")
+volume_db = 3.056
+pitch_scale = 1.88
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 60.0
+
+[node name="DealDamageSound2" parent="." instance=ExtResource("4")]
+stream = ExtResource("5")
+volume_db = 3.698
+pitch_scale = 1.6
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 300.0
+minAudibleDistance = 60.0
+
+[node name="DealDamageSound2" parent="DealDamageSound2" instance=ExtResource("4")]
+stream = SubResource("AudioStreamRandomizer_57lqt")
+volume_db = 3.056
+pitch_scale = 1.88
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 60.0
+
+[node name="DustParticles" type="GPUParticles2D" parent="."]
+texture_filter = 1
+material = SubResource("ShaderMaterial_o5g3c")
+position = Vector2(-1, 0)
+amount = 25
+process_material = SubResource("ParticleProcessMaterial_wlu71")
+texture = ExtResource("9")
+visibility_rect = Rect2(-1000, -64, 2000, 128)

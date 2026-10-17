@@ -1,0 +1,8 @@
+[gd_resource type="FontVariation" load_steps=3 format=3 uid="uid://c5l04pe7y0aer"]
+
+[ext_resource type="FontFile" uid="uid://da5sm0wftl5or" path="res://gui/fonts/Kollektif.ttf" id="1"]
+[ext_resource type="FontFile" uid="uid://cx3xyt3fi43i" path="res://gui/fonts/NotoSans-Regular.ttf" id="2"]
+
+[resource]
+fallbacks = [ExtResource("2")]
+base_font = ExtResource("1")

@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://cbvkb6f27f6il"]
+
+[ext_resource type="Script" path="res://content/weather/WeatherSystem.gd" id="1"]
+[ext_resource type="Script" path="res://systems/network/Synchronizer.gd" id="2"]
+
+[node name="WeatherSystem" type="Node2D" groups=["pauseL", "weather_system"]]
+script = ExtResource("1")
+
+[node name="changeWeatherTimer" type="Timer" parent="."]
+wait_time = 60.0
+autostart = true
+
+[node name="Synchronizer" type="Node" parent="."]
+script = ExtResource("2")
+target_connection_states = [6]
+
+[connection signal="timeout" from="changeWeatherTimer" to="." method="_on_changeWeatherTimer_timeout"]

@@ -1,0 +1,93 @@
+[gd_scene load_steps=9 format=3 uid="uid://bbkftv2d7q5d3"]
+
+[ext_resource type="Script" path="res://stages/level/ArtifactChoice.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://ddjhemqsh3j1f" path="res://content/techtree/panels/big_place.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://dx566fobexwpq" path="res://content/icons/stunlaser.png" id="3"]
+[ext_resource type="PackedScene" uid="uid://dww5n1uu3s3cb" path="res://content/gadgets/slots/GadgetSlot.tscn" id="4"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="5"]
+[ext_resource type="LabelSettings" uid="uid://vj7cu6b8ki3g" path="res://gui/fontsettings/SmallFontSettingsHighlighted.tres" id="6"]
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="7"]
+[ext_resource type="LabelSettings" uid="uid://qsc7kngg06e5" path="res://gui/fontsettings/SmallFontSettings.tres" id="8"]
+
+[node name="GadgetChoice" type="PanelContainer"]
+custom_minimum_size = Vector2(600, 0)
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -1466.0
+offset_bottom = -928.0
+focus_mode = 2
+script = ExtResource("1")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+mouse_filter = 2
+
+[node name="IconFrame" type="TextureRect" parent="MarginContainer/HBoxContainer"]
+texture_filter = 1
+layout_mode = 2
+size_flags_vertical = 0
+mouse_filter = 2
+texture = ExtResource("2")
+stretch_mode = 5
+
+[node name="IconTextureRect" type="TextureRect" parent="MarginContainer/HBoxContainer/IconFrame"]
+texture_filter = 1
+custom_minimum_size = Vector2(144, 144)
+layout_mode = 0
+offset_left = -4.0
+offset_top = -4.0
+offset_right = 140.0
+offset_bottom = 140.0
+size_flags_vertical = 0
+mouse_filter = 2
+texture = ExtResource("3")
+stretch_mode = 5
+
+[node name="GadgetSlot" parent="MarginContainer/HBoxContainer/IconFrame" instance=ExtResource("4")]
+position = Vector2(68, 174)
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+mouse_filter = 2
+
+[node name="TitleLabel" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer" groups=["splitscreen_scalable_font"]]
+layout_mode = 2
+theme_override_colors/font_color = Color(1, 0.831373, 0.639216, 1)
+text = "TITLE"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="ExclusiveLabel" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer" groups=["splitscreen_scalable_font"]]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+text = "This gadget only applies to your own keeper."
+label_settings = ExtResource("6")
+autowrap_mode = 3
+
+[node name="DescriptionLabel" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer" groups=["splitscreen_scalable_font"]]
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+theme = ExtResource("7")
+theme_type_variation = &"FontSmallType"
+text = "Description"
+label_settings = ExtResource("8")
+autowrap_mode = 3
+
+[node name="SlotLabel" type="Label" parent="MarginContainer/HBoxContainer/VBoxContainer" groups=["splitscreen_scalable_font"]]
+texture_filter = 4
+custom_minimum_size = Vector2(300, 0)
+layout_mode = 2
+text = "Text"
+label_settings = ExtResource("6")
+autowrap_mode = 3
+
+[connection signal="focus_entered" from="." to="." method="_on_GadgetChoice_focus_entered"]
+[connection signal="focus_exited" from="." to="." method="_on_GadgetChoice_focus_exited"]
+[connection signal="gui_input" from="." to="." method="_on_GadgetChoice_gui_input"]
+[connection signal="mouse_entered" from="." to="." method="_on_GadgetChoice_mouse_entered"]

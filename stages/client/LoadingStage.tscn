@@ -1,0 +1,36 @@
+[gd_scene load_steps=5 format=3 uid="uid://xkoh3vgou28c"]
+
+[ext_resource type="Script" path="res://stages/client/LoadingStage.gd" id="1"]
+[ext_resource type="Script" path="res://stages/client/PulsatingLabel.gd" id="2"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_vyiuv"]
+font_size = 32
+font_color = Color(1, 1, 1, 0.567635)
+
+[sub_resource type="Gradient" id="Gradient_tf2nd"]
+offsets = PackedFloat32Array(0, 0.853591, 1)
+colors = PackedColorArray(1, 1, 1, 1, 1, 1, 1, 0.685538, 1, 1, 1, 0.517647)
+
+[node name="LoadingStage" type="Node" node_paths=PackedStringArray("timeoutTimer")]
+script = ExtResource("1")
+timeoutTimer = NodePath("TimeoutTimer")
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="CenterContainer"]
+layout_mode = 2
+text = "LOADING"
+label_settings = SubResource("LabelSettings_vyiuv")
+horizontal_alignment = 1
+vertical_alignment = 1
+script = ExtResource("2")
+color_gradient = SubResource("Gradient_tf2nd")
+
+[node name="TimeoutTimer" type="Timer" parent="."]
+wait_time = 30.0
+one_shot = true

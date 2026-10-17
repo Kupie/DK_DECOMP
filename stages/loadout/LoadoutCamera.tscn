@@ -1,0 +1,65 @@
+[gd_scene load_steps=8 format=3 uid="uid://cski7eapaa4jb"]
+
+[ext_resource type="Script" path="res://stages/loadout/MultiplayerLoadoutCamera.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="2"]
+
+[sub_resource type="RectangleShape2D" id="3"]
+
+[sub_resource type="RectangleShape2D" id="4"]
+
+[sub_resource type="RectangleShape2D" id="5"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_bxa81"]
+
+[sub_resource type="RectangleShape2D" id="6"]
+
+[node name="Camera" type="Camera2D" groups=["cameras"]]
+position = Vector2(-1, 223)
+zoom = Vector2(4, 4)
+process_callback = 0
+position_smoothing_enabled = true
+position_smoothing_speed = 20.0
+script = ExtResource("1")
+scroll_speed = 8.0
+
+[node name="TileDetectorLeft" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 33554432
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="TileDetectorLeft"]
+shape = SubResource("3")
+debug_color = Color(0.6402, 0.522819, 0.0213806, 0.454902)
+
+[node name="TileDetectorRight" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 33554432
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="TileDetectorRight"]
+shape = SubResource("4")
+debug_color = Color(0.6402, 0.522819, 0.0213806, 0.454902)
+
+[node name="TileDetectorUp" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 33554432
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="TileDetectorUp"]
+shape = SubResource("5")
+debug_color = Color(0.6402, 0.522819, 0.0213806, 0.454902)
+
+[node name="TileDetectorUpSmall" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 33554432
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="TileDetectorUpSmall"]
+shape = SubResource("RectangleShape2D_bxa81")
+debug_color = Color(0.780392, 0.435294, 0, 0.454902)
+
+[node name="TileDetectorDown" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 33554432
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="TileDetectorDown"]
+shape = SubResource("6")
+debug_color = Color(0.6402, 0.522819, 0.0213806, 0.454902)
+
+[node name="Tween" parent="." instance=ExtResource("2")]

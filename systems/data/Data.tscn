@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://c1v7tmh35vst8"]
+
+[ext_resource type="Script" path="res://systems/data/Data.gd" id="1"]
+[ext_resource type="Script" path="res://systems/data/DataSynchronizer.gd" id="2"]
+
+[node name="Data" type="Node" node_paths=PackedStringArray("synchronizer")]
+process_mode = 3
+script = ExtResource("1")
+synchronizer = NodePath("DataSynchronizer")
+
+[node name="DataSynchronizer" type="Node" parent="."]
+script = ExtResource("2")
+target_connection_states = [3, 6, 10]
+reliable = true

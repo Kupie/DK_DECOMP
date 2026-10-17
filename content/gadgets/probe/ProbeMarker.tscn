@@ -1,0 +1,66 @@
+[gd_scene load_steps=10 format=3 uid="uid://d0yqkv8oepbml"]
+
+[ext_resource type="Script" path="res://content/gadgets/probe/ProbeMarker.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://cfn252ue8ebwi" path="res://content/gadgets/probe/probe_marker.png" id="2"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="3"]
+[ext_resource type="AudioStream" uid="uid://cohg1bm71jhj2" path="res://content/sounds/Locations/CellarRelic/RelicSockedIntoDome.wav" id="4"]
+
+[sub_resource type="AtlasTexture" id="3"]
+atlas = ExtResource("2")
+region = Rect2(0, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="4"]
+atlas = ExtResource("2")
+region = Rect2(24, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="5"]
+atlas = ExtResource("2")
+region = Rect2(48, 0, 24, 24)
+
+[sub_resource type="AtlasTexture" id="6"]
+atlas = ExtResource("2")
+region = Rect2(72, 0, 24, 24)
+
+[sub_resource type="SpriteFrames" id="7"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("3")
+}, {
+"duration": 1.0,
+"texture": SubResource("4")
+}, {
+"duration": 1.0,
+"texture": SubResource("5")
+}, {
+"duration": 1.0,
+"texture": SubResource("6")
+}],
+"loop": true,
+"name": &"ping",
+"speed": 6.0
+}]
+
+[node name="ProbeMarker" type="Node2D" node_paths=PackedStringArray("sound") groups=["pauseL", "saveable"]]
+script = ExtResource("1")
+sound = NodePath("EchoSound")
+
+[node name="Sprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+sprite_frames = SubResource("7")
+animation = &"ping"
+
+[node name="Timer" type="Timer" parent="."]
+one_shot = true
+
+[node name="EchoSound" parent="." instance=ExtResource("3")]
+stream = ExtResource("4")
+volume_db = -5.45
+pitch_scale = 2.51
+bus = &"Mine"
+randomVolume = 1.2
+randomPitch = 0.05
+maxAudibleDistance = 40.0
+minAudibleDistance = 400.0
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]

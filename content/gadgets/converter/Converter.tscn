@@ -1,0 +1,304 @@
+[gd_scene load_steps=41 format=3 uid="uid://batixrfkqpvr5"]
+
+[ext_resource type="Script" path="res://content/gadgets/converter/Converter.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://ck503ytvpefrw" path="res://content/gadgets/converter/converter-Sheet.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://d1vwrbhjl13pg" path="res://content/gadgets/converter/processing_overlay.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://djoy6voi70xo6" path="res://content/icons/icon_iron.png" id="4"]
+[ext_resource type="PackedScene" uid="uid://02emll07tpim" path="res://content/shared/Usable.tscn" id="5"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="6"]
+[ext_resource type="AudioStream" uid="uid://c4bx1845wferk" path="res://content/sounds/Locations/Converter/Reciever_v3_04.wav" id="7"]
+[ext_resource type="AudioStream" uid="uid://ba60wfglo8his" path="res://content/sounds/Locations/Converter/receiverupgraded.wav" id="8"]
+[ext_resource type="AudioStream" uid="uid://cw8g76rvqvlux" path="res://content/sounds/Locations/Converter/receiverdone.wav" id="9"]
+[ext_resource type="AudioStream" uid="uid://bo3pgs180ql5v" path="res://content/sounds/Locations/Converter/receiverStart.wav" id="10"]
+[ext_resource type="Script" path="res://content/gadgets/GadgetSynchronizer.gd" id="11"]
+
+[sub_resource type="AtlasTexture" id="9"]
+atlas = ExtResource("2")
+region = Rect2(0, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="10"]
+atlas = ExtResource("2")
+region = Rect2(34, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="11"]
+atlas = ExtResource("2")
+region = Rect2(68, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="12"]
+atlas = ExtResource("2")
+region = Rect2(102, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="13"]
+atlas = ExtResource("2")
+region = Rect2(136, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="14"]
+atlas = ExtResource("2")
+region = Rect2(170, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="15"]
+atlas = ExtResource("2")
+region = Rect2(204, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="16"]
+atlas = ExtResource("2")
+region = Rect2(238, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="17"]
+atlas = ExtResource("2")
+region = Rect2(272, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="18"]
+atlas = ExtResource("2")
+region = Rect2(306, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="19"]
+atlas = ExtResource("2")
+region = Rect2(340, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="20"]
+atlas = ExtResource("2")
+region = Rect2(374, 25, 34, 25)
+
+[sub_resource type="AtlasTexture" id="8"]
+atlas = ExtResource("2")
+region = Rect2(0, 0, 34, 25)
+
+[sub_resource type="AtlasTexture" id="21"]
+atlas = ExtResource("2")
+region = Rect2(0, 75, 34, 25)
+
+[sub_resource type="AtlasTexture" id="22"]
+atlas = ExtResource("2")
+region = Rect2(34, 75, 34, 25)
+
+[sub_resource type="AtlasTexture" id="23"]
+atlas = ExtResource("2")
+region = Rect2(68, 75, 34, 25)
+
+[sub_resource type="AtlasTexture" id="24"]
+atlas = ExtResource("2")
+region = Rect2(102, 75, 34, 25)
+
+[sub_resource type="AtlasTexture" id="25"]
+atlas = ExtResource("2")
+region = Rect2(136, 75, 34, 25)
+
+[sub_resource type="AtlasTexture" id="26"]
+atlas = ExtResource("2")
+region = Rect2(170, 75, 34, 25)
+
+[sub_resource type="AtlasTexture" id="27"]
+atlas = ExtResource("2")
+region = Rect2(204, 75, 34, 25)
+
+[sub_resource type="AtlasTexture" id="28"]
+atlas = ExtResource("2")
+region = Rect2(238, 75, 34, 25)
+
+[sub_resource type="AtlasTexture" id="29"]
+atlas = ExtResource("2")
+region = Rect2(272, 75, 34, 25)
+
+[sub_resource type="AtlasTexture" id="30"]
+atlas = ExtResource("2")
+region = Rect2(306, 75, 34, 25)
+
+[sub_resource type="AtlasTexture" id="3"]
+atlas = ExtResource("2")
+region = Rect2(0, 50, 34, 25)
+
+[sub_resource type="AtlasTexture" id="4"]
+atlas = ExtResource("2")
+region = Rect2(34, 50, 34, 25)
+
+[sub_resource type="AtlasTexture" id="5"]
+atlas = ExtResource("2")
+region = Rect2(68, 50, 34, 25)
+
+[sub_resource type="AtlasTexture" id="6"]
+atlas = ExtResource("2")
+region = Rect2(102, 50, 34, 25)
+
+[sub_resource type="AtlasTexture" id="7"]
+atlas = ExtResource("2")
+region = Rect2(136, 50, 34, 25)
+
+[sub_resource type="SpriteFrames" id="1"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("9")
+}, {
+"duration": 1.0,
+"texture": SubResource("10")
+}, {
+"duration": 1.0,
+"texture": SubResource("11")
+}, {
+"duration": 1.0,
+"texture": SubResource("12")
+}, {
+"duration": 1.0,
+"texture": SubResource("13")
+}, {
+"duration": 1.0,
+"texture": SubResource("14")
+}, {
+"duration": 1.0,
+"texture": SubResource("15")
+}, {
+"duration": 1.0,
+"texture": SubResource("16")
+}, {
+"duration": 1.0,
+"texture": SubResource("17")
+}, {
+"duration": 1.0,
+"texture": SubResource("18")
+}, {
+"duration": 1.0,
+"texture": SubResource("19")
+}, {
+"duration": 1.0,
+"texture": SubResource("20")
+}],
+"loop": true,
+"name": &"active",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("8")
+}],
+"loop": false,
+"name": &"idle",
+"speed": 1.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("21")
+}, {
+"duration": 1.0,
+"texture": SubResource("22")
+}, {
+"duration": 1.0,
+"texture": SubResource("23")
+}, {
+"duration": 1.0,
+"texture": SubResource("24")
+}, {
+"duration": 1.0,
+"texture": SubResource("25")
+}, {
+"duration": 1.0,
+"texture": SubResource("26")
+}, {
+"duration": 1.0,
+"texture": SubResource("27")
+}, {
+"duration": 1.0,
+"texture": SubResource("28")
+}, {
+"duration": 1.0,
+"texture": SubResource("29")
+}, {
+"duration": 1.0,
+"texture": SubResource("30")
+}],
+"loop": true,
+"name": &"ready",
+"speed": 10.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("3")
+}, {
+"duration": 1.0,
+"texture": SubResource("4")
+}, {
+"duration": 1.0,
+"texture": SubResource("5")
+}, {
+"duration": 1.0,
+"texture": SubResource("6")
+}, {
+"duration": 1.0,
+"texture": SubResource("7")
+}],
+"loop": false,
+"name": &"release",
+"speed": 10.0
+}]
+
+[node name="Converter" type="Node2D" node_paths=PackedStringArray("synchronizer") groups=["saveable"]]
+texture_filter = 1
+script = ExtResource("1")
+synchronizer = NodePath("GadgetSynchronizer")
+
+[node name="Sprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(4, -10)
+sprite_frames = SubResource("1")
+animation = &"ready"
+
+[node name="Overlay" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(4, -8)
+texture = ExtResource("3")
+
+[node name="ResourcePosition" type="Marker2D" parent="."]
+position = Vector2(4, -7)
+
+[node name="Resource" type="Sprite2D" parent="ResourcePosition"]
+texture_filter = 1
+scale = Vector2(0.33, 0.33)
+texture = ExtResource("4")
+
+[node name="Usable" parent="." instance=ExtResource("5")]
+position = Vector2(4, -7)
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+layer = 3
+
+[node name="ActiveAmb" parent="." instance=ExtResource("6")]
+stream = ExtResource("7")
+volume_db = -12.235
+pitch_scale = 1.03
+bus = &"Dome"
+randomPitch = 0.0
+maxAudibleDistance = 50.0
+minAudibleDistance = 30.0
+loop = true
+
+[node name="ActiveUpgradedAmb" parent="." instance=ExtResource("6")]
+stream = ExtResource("8")
+volume_db = -10.487
+pitch_scale = 1.03
+bus = &"Dome"
+randomPitch = 0.0
+maxAudibleDistance = 50.0
+minAudibleDistance = 30.0
+loop = true
+
+[node name="FinishedSound" parent="." instance=ExtResource("6")]
+stream = ExtResource("9")
+volume_db = 4.807
+pitch_scale = 2.0
+bus = &"Dome"
+randomPitch = 0.0
+maxAudibleDistance = 150.0
+minAudibleDistance = 50.0
+
+[node name="StartSound" parent="." instance=ExtResource("6")]
+pitch_scale = 2.0
+bus = &"Dome"
+maxAudibleDistance = 150.0
+minAudibleDistance = 50.0
+streams = [ExtResource("10")]
+
+[node name="GadgetSynchronizer" type="Node" parent="."]
+script = ExtResource("11")
+target_connection_states = [6]
+
+[connection signal="animation_finished" from="Sprite2D" to="." method="_on_Sprite_animation_finished"]
+[connection signal="animation_looped" from="Sprite2D" to="." method="_on_sprite_2d_animation_looped"]

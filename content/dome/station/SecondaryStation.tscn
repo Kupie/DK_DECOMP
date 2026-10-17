@@ -1,0 +1,63 @@
+[gd_scene load_steps=10 format=3 uid="uid://da3d75460e03j"]
+
+[ext_resource type="Script" path="res://content/dome/station/SecondaryStation.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://3fpcx3beg8kp" path="res://content/dome/station/MultiplayerStation/back.png" id="2"]
+[ext_resource type="SpriteFrames" uid="uid://cjrufp6cj10b2" path="res://content/keeper/keeper2/spriteframes-skin0-color3.tres" id="3"]
+[ext_resource type="SpriteFrames" uid="uid://b3hh5huqf8rum" path="res://content/dome/station/SecondaryStation_spriteframes.tres" id="4"]
+[ext_resource type="PackedScene" uid="uid://02emll07tpim" path="res://content/shared/Usable.tscn" id="5"]
+[ext_resource type="Script" path="res://content/dome/station/KunaiStickSurface.gd" id="6"]
+[ext_resource type="Script" path="res://content/dome/station/StationSynchronizer.gd" id="7"]
+[ext_resource type="Script" path="res://content/dome/WeaponSynchronizer.gd" id="8"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_kunaistick"]
+size = Vector2(20, 2)
+
+[node name="SecondaryStation" type="Node2D" node_paths=PackedStringArray("synchronizer", "weapon_synchronizer")]
+texture_filter = 1
+script = ExtResource("1")
+synchronizer = NodePath("StationSynchronizer")
+weapon_synchronizer = NodePath("WeaponSynchronizer")
+
+[node name="SpriteBackground" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(0, -8)
+texture = ExtResource("2")
+
+[node name="KeeperSprite" type="AnimatedSprite2D" parent="."]
+position = Vector2(-3, -6)
+sprite_frames = ExtResource("3")
+
+[node name="Sprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(6, -5)
+sprite_frames = ExtResource("4")
+animation = &"on"
+offset = Vector2(-9, -5)
+
+[node name="Usable" parent="." instance=ExtResource("5")]
+position = Vector2(-5, -11)
+modulateOnFocus = NodePath("../Sprite2D")
+
+[node name="KeeperPosition" type="Marker2D" parent="."]
+position = Vector2(1, -7)
+
+[node name="KunaiStickSurface" type="StaticBody2D" parent="." groups=["kunai_attachable"]]
+position = Vector2(2, 8.5)
+collision_layer = 2097152
+collision_mask = 0
+script = ExtResource("6")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="KunaiStickSurface"]
+shape = SubResource("RectangleShape2D_kunaistick")
+
+[node name="StationSynchronizer" type="Node" parent="."]
+script = ExtResource("7")
+target_connection_states = [3, 6]
+reliable = true
+
+[node name="WeaponSynchronizer" type="Node" parent="."]
+script = ExtResource("8")
+target_connection_states = [3, 6]
+
+[connection signal="animation_finished" from="Sprite2D" to="." method="_on_Sprite_animation_finished"]
+[connection signal="animation_looped" from="Sprite2D" to="." method="_on_sprite_2d_animation_looped"]
+[connection signal="frame_changed" from="Sprite2D" to="." method="_on_Sprite_frame_changed"]

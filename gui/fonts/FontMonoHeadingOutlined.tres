@@ -1,0 +1,6 @@
+[gd_resource type="FontVariation" load_steps=2 format=3 uid="uid://b2324416rpsgu"]
+
+[ext_resource type="FontFile" uid="uid://1iuansngx7" path="res://gui/fonts/monofonto rg.otf" id="1"]
+
+[resource]
+base_font = ExtResource("1")

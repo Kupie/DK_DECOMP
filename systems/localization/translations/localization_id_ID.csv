@@ -1,0 +1,2203 @@
+﻿key,id_ID
+upgrades.teslapersistance1.title,Bola-bola Bertahan 1
+upgrades.keeper4ramping1.title,Momentum
+upgrades.stationextensionupgrades.desc,Beli peningkatan dari jarak jauh di stasiun mudah gerak.
+upgrades.sword.title,Pedang
+upgrades.autocannonimproved.desc,Meningkatkan seluruh aspek meriam.
+upgrades.laserstrength1.title,Daya 1
+properties.monstermodifiers.timebetweenwavesmodifier,Panjang Siklus {.percent}
+level.gameover.unlock.modifiers,New run modifier unlocked!
+keybindings.reset.explanation.ps5,Your Button Bindings have been reset due to a recent update which made significant changes to the input scheme. Sorry for the inconvenience!
+reward.rewardrerolloffers2.desc,Habiskan air untuk reroll peralatan atau suplemen beberapa kali.
+upgrades.proberecharge.desc,Alat penguji secara perlahan mengisi ulang daya sendiri seiring waktu.
+versus.corruptionmonsterdamage.title,Lethal Monsters
+loadout.start.area.press,Tekan|untuk memulai putaran!
+upgrades.shieldbattleblastdamage.title,Ledakan Mematikan
+properties.monstermodifiers.move_speed,Kecepatan Gerak Monster {.percent}
+upgrades.mushroomfarmspeed1.title,Kecepatan Jamur 1
+upgrades.chainsawdamage1.title,Ukuran Gergaji 1
+properties.orchard.battlerootexplosion,Kerusakan Ledakan {}
+level.tutorial.assessor.bundleguide.desc2.switch,Press|without pressing a direction to place a stationary bundle.
+upgrades.swordtargetlock.desc,"Ketika ditusuk, pedangnya otomatis mengunci monster pertama itu target."
+reward.rewardautomatedweapons.desc,Automate your secondary weapons.
+options.input.gamepad,Gamepad
+playerlist.profile,See Profile
+upgrades.stunlaserstun1.title,Kekuatan Setrum 1
+properties.condenser.overchargedelay,Penundaan Produksi (siklus) {}
+exhibition.level.description,Kembali ke menu utama dengan waktu ...
+keybindings.reset.explanation.switch,Your Button Bindings have been reset due to a recent update which made significant changes to the input scheme. Sorry for the inconvenience!
+upgrades.shockwave.title,Palu Gelombang Kejut
+properties.keeper3.shurikencooldown,Shuriken Cooldown {}s
+title.navbar.leaderboard,Prestige
+modding.prestigewhitelist,"Jika kamu merasa ada mod yang seharusnya termasuk daftar putih dalam mode Prestige, beri tahu kami di Discord dan kami akan mengeceknya. Mod dalam daftar putih sama sekali tidak merubah keseimbangan game, tepi lebih untuk meningkatkan aksesibilitas atau sekedar kosmetik."
+upgrades.extractordoublebuild.desc,Meningkatkan jumlah produksi cacing.
+upgrades.chainsawdamage3.title,Ukuran Gergaji 3
+modding.modio.error,Error mod.io
+loadout.versusmod.versusmodifiermirroredmap.desc,"The maps below the domes are identical, mirrored copies of each other."
+actionhint.blast,Ledakan
+multiplayer.host.crossplay,Enable Crossplay
+properties.converter.ironpercobalt,{} Besi untuk setiap Kobalt
+upgrades.shieldovercharge.desc,Gunakan air untuk secara manual melebihkan daya pada perisai anda sehingga dapat menyerap lebih banyak kerusakan pada gelombang berikutnya.
+properties.droneyard.overchargebattledronestrength,Memperkuat Pesawat Tempur Tanpa Awak {.percent}
+options.game.showkeeperaimindicator,Tampilkan Indikator Keeper Aim
+upgrades.autocannonautonomy.title,Otonomi
+properties.keeper4.holesquadduration,Mining Squad Duration {}s
+options.keybindings.rebinding.capture,Tangkap
+options.game.screenshake.shakeintensity,Intensitas Getaran
+upgrades.keeper2pinballspherelifetime.desc,Perpanjang waktu bola kinetik tetap terbang di udara.
+upgrades.swordreflection2.title,Pantulan 2
+upgrades.lift.title,Lift
+assignment.circumstance,Kondisi
+options.input,Input
+properties.keeper2.spheresplit,Pembelahan Bola yang Datang
+properties.tesla.damage,Kerusakan Tembakan {}
+options.game.events.allowtelemetry,Enable Online Multiplayer
+properties.keeper1.maxspeed,Kecepatan Maksimum {}
+level.tutorial.tesla.panel3content1,The tesla dome is versatile. You need to combine all its abilities to succeed with it.
+level.tutorial.sworddome.reflecting.desc,"Use the sword's shield pad to stop projectiles, or even reflect them."
+options.game.bundlesnapping,Snap Bundle Aim to Cardinal Directions
+upgrades.spiresustain.title,Tembakan Berkelanjutan
+reward.rewardpermanentinventory.title,Persediaan Permanen
+properties.furnace.ironduration,Jangka Waktu Pembakaran Besi (siklus) {}
+level.gameover.assignment.badges.more,Complete the challenge mode of this assignment to earn another badge.
+upgrades.droneyardovercharge2.title,Daya Berlebih Meningkat
+multiplayer.error.joincodefailed,No lobby with the given join code was found.
+properties.laser.movespeedwhilefiring,Kecepatan ketika Menembak {.percent}
+upgrades.keeper3shurikencooldown1.title,Rapid Shuriken
+upgrades.orchardduration2.desc,Efek positif dari buah lebih kuat dan bertahan lebih lama lagi.
+options.input.controls,Kontrol
+upgrades.droneyardovercharge3.desc,Dapatkan lebih banyak pesawat tanpa awak tambahan setelah pengisian daya berlebihan lapangan.
+upgrades.blastminingimpactdetonation.desc,Muatan peledak akan meledak saat bertabrakan dengan permukaan. Ledakan akan mengarah ke arah tabrakan.
+upgrades.drillbotstrength3.title,Kekuatan 3
+level.gameover.clientdisconnect,Disconnect from Host
+upgrades.swordstabexplode.desc,"Pedangnya mengirim sebuah bom, meledak di musuh pertama pedangnya tusuk."
+properties.keeper4.minpunchdelay,Fastest Punch {}s
+options.audio.music,Music
+upgrades.keeper3carrylimit3.title,Carry Capacity 3
+upgrades.keeper4swiftpunch.desc,Mining starts at a higher initial speed.
+assignment.showdown.desc,Monster-monster di planet ini menyiapkan satu serangan besar-besaran.
+properties.suitblaster.chargespeedpercharge,Kecepatan Pengisian Tambahan per Pengisian {.percent}
+loadout.versusmod.versusmodifierhardrock,Hard Rock
+properties.keeper4.catgoblinminingspeed,Catgoblin Digging Speed {.percent}
+keeperdlc.title,The Lost Keepers
+upgrades.drillbotduplicate.title,Saudara kandung
+properties.mushroomfarm.drillbuffduration,Durasi Peningkatan Penambangan {}s
+upgrades.droneyardbattlegridlong1.desc,Lepaskan lebih banyak pesawat tanpa awak yang akan bertahan lebih lama.
+level.gameover.prestige.uploading.inprocess,Uploading score...
+upgrades.furnace.desc,Pasang perapian dengan cerobong. Asapnya menunda serangan monster berikutnya.
+leaderboard.needsOnlineServices.ps5,Accept EULA in the options to view leaderboards.
+options.game.multiplayer,Multiplayer
+upgrades.shieldbattledestructionprevention.desc,"Dapatkan kekebalan dengan jangka waktu panjang ketika kubah anda hampir hancur. Setelah digunakan, perisai anda tidak akan mengisi ulang untuk pertempuran berikutnya. Pertahanan Terakhir hanya dapat digunakan lagi setelah 2 gelombang selesai."
+properties.keeper2.bundlestopcenter,Medan Gravitasi Kolom Tengah
+upgrades.chainsawdamage2.title,Ukuran Gergaji 2
+upgrades.keeper2rotationalmining1.title,Penambangan Kompresi 1
+upgrades.swordlargeblade1.title,Pedang Berat 1
+loadout.difficulty.veryeasy,Normal
+level.tutorial.assessor.spheres.desc2,Your sphere supply is limited and reloads automatically over time.
+level.tutorial.assessor.spheres.desc1,Hit| to shoot a kinetic sphere in the direction in which you are facing.
+upgrades.repellentdelay2.desc,Tambahkan lebih banyak waktu yang di tunda untuk gelombang monster berikutnya.
+upgrades.artillerydirecthit1.desc,Perbaiki mortir anda untuk menembakkan peluru khusus untuk benturan langsung.
+reward.rewardpet12.title,Dog Pet
+upgrades.keeper2movement4.desc,Bergerak lebih cepat sambil mengumpulkan dan membawa sumber daya.
+properties.sword.stabspeed,Kecepatan Tusuk {.percent}
+upgrades.artillerysplash3.title,Bahan Peledak Tidak Stabil 2
+properties.drillbot.amount,Bor {} hit
+options.game.autopickupkunaicarrier,Automatically pick up Kunai Carrier
+upgrades.stunlaserautonomy1.desc,Laser setrum menyala aktif walaupun ketika anda tidak berada di dalam ruang kendali.
+properties.laser.stun,Kekuatan Setrum {}
+level.gameover.continue,Lanjutkan
+multiplayer.host.joincodeunavailable,Unavailable
+upgrades.shieldbattlelongerafterdepletion.desc,Ledakan akan bertahan lebih lama jika diaktifkan setelah perisai anda habis.
+level.tutorial.assessor.mining.desc,To remove a single rock keep pushing against it.
+upgrades.teleporterteleportresourcesback.desc,Portal secara otomatis menghisap sumber daya terdekat dan mengirimnya ke dalam kubah.
+keybindings.reset.doreset.ps5,Reset my Button bindings
+upgrades.jetpackstrength1.title,Kekuatan Membawa 1
+level.tutorial.beastmaster.squad_1,Hold| near a hole to call a mining squad.
+loadout.prestige.pro.explanation,"Kurangi beberapa unsur acak dan tentukan urutan tetap untuk perangkat, suplemen, dan gua."
+level.tutorial.beastmaster.squad_3,Only one squad can be active at a time.
+upgrades.swordelectrified.desc,"Arus listrik masuk ke dalam pedang, membuat lebih banyak kerusakan saat disentuh."
+level.tutorial.beastmaster.squad_2,They will randomly mine rock around the hole.
+upgrades.drill1.title,Kekuatan Bor 1
+loadout.start.area.move,Pindahkan semua penjaga ke sini untuk mulai!
+level.station.upgrademenu.close,Tutup
+upgrades.rocketlauncherrestock.title,Stok Ulang Misil
+upgrades.chainsawdamage1.desc,Tingkatkan jumlah kerusakan yang bisa dilakukan oleh gergaji bundar terhadap monster sekitar.
+level.station.battle.navbar.artilleryshoot,Mortar
+upgrades.repellentdelay3.title,Tunda 3
+upgrades.suitblasterspeed1.title,Kecepatan Pengisian 1
+level.gameover.stats.additional,Detailed Statistics
+options.audio.music.ost.mode.adaptive,Adaptif (disarankan)
+upgrades.furnacestrongwaterfiring.title,Bahan Bakar Air yang Ditingkatkan
+properties.dome.meleethorndamage,Kerusakan yang Dikembalikan {}
+upgrades.repellentbattlelongerhealthreduction.desc,Strengthen the withering of all visible monsters.
+level.tutorial.tesla.panel3header,Many Abilities
+versus.corruptionstunresistance.desc,The monsters will be largely resistant to being stunned or slowed.
+level.tutorial.assessor.spheres,Bola Kinetik
+upgrades.chainsawdouble.title,Gergaji Bundar Ganda
+upgrades.keeper4squad1.desc,Summon a specialized squad of miner Catgoblins to excavate nearby rock. They have a knack for digging around resources.
+versus.message.corruption,The other team just sent a monster corruption your way.
+options.keybindings.action.keeper.gadget1,Gadget 1
+options.keybindings.action.keeper.gadget2,Gadget 2
+upgrades.shieldbattlereflectspeed.title,Pantulan Dipercepat
+properties.monsters.additionalstartweight,Bobot Gelombang Tambahan {}
+level.gameover.stats.damagedealt,Damage Dealt
+properties.keeper2.reflectspeed,Percepatan Bola {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,Durasi Tambahan Kemampuan {}s
+properties.converter.ironcobalttime,Jangka Waktu Konversi Besi ke Kobalt (siklus) {}
+upgrades.droneyardbattlegrid.desc,Mengerahkan formasi pesawat tempur tanpa awak untuk membela diri dari monster sekitar.
+upgrades.suitblasterradius1.desc,Tingkatkan radius ledakan.
+upgrades.droneyardbattlegridquick1.title,Pesawat Cepat Tanpa Awak
+options.input.controls.keybindings.button.ps5,Change Button Bindings
+multiplayer.host.ping,Server Ping: %dms
+title.navbar.singleplayer,Singleplayer
+options.video.renderhalfres.enable,Render pada Resolusi Setengah
+level.gameover.stats.destroyedblocks,Destroyed Blocks
+upgrades.converterefficientwaterlong.desc,Merubah proses konversi air menjadi proses panjang dengan hasil berlimpah.
+pause.restartrun,Mulai Ulang Putaran
+options.video.stretchmode.scaled,Scaled
+level.tutorial.beastmaster.mine.desc1,Continuously push against rocks to mine them.
+level.tutorial.beastmaster.mine.desc2,Your mining speed increases with each hit.
+upgrades.domesupplementscraprepair2.desc,Kembalikan kesehatan struktural kubah yang hilang dengan melakukan perbaikan bekas.
+upgrades.keeper2bundle3.desc,Bundel yang ditembak ke arah pusat tambang akan berhenti langsung di bawah kubah daripada terus terbang.
+leaderboard.fellowkeepers,Peringkat Guild
+upgrades.autocannon.desc,Pasang meriam otomatis yang kuat di kubah anda yang menyebabkan kerusakan besar pada monster.
+properties.orchard.battlerootcatchduration,Durasi Perangkap {}s
+upgrades.laseraimline.desc,Menambahkan bidikan pengintai ke laser untuk penargetan yang lebih akurat.
+upgrades.teslapersistance2.title,Bola-bola Bertahan 2
+upgrades.orchardovercharge2.desc,Tingkatkan dampak dari pengisian daya berlebihan pada kemampuan bertempur.
+actionhint.teleport,Teleportasi
+loadout.difficulty.medium.description,Tingkat kesulitan yang disarankan untuk Dome Keeper.
+upgrades.swordlargeblade2.title,Pedang Berat 2
+loadout.prestige.endless,Tanpa akhir
+upgrades.teslanurture.title,Merawat Bola Elektro
+upgrades.shieldbattleelectroblast.desc,Picu kemampuan tempur aktif yang menciptakan efek medan mematikan di sekitar kubah anda untuk sementara waktu.
+options.game.blocklist.desc,"List of users you have blocked.
+You won't be able to play with any blocked user in future online games.
+If you change your mind about a blocked user, unblock it below.
+You can block up to %s users."
+options.cancel,Batal
+upgrades.shockwavestun2.title,Setruman Gelombang Kejut 2
+upgrades.liftcapacity1.desc,Bola-bola bisa membawa lebih banyak sumber daya.
+upgrades.domewavemeter.title,Meter Potensi Musuh
+level.gameover.assignment.win.title,ASSIGNMENT COMPLETED
+gadget.slot.cellar,Rubanah
+options.game.ropecamerafollow,Camera Look-Ahead strength when using the Rope
+upgrades.proberecharge.title,Isi Ulang Otomatis
+level.tutorial.repair.usecobalt,You can use your cobalt to repair your dome. It's an upgrade in the dome tech tree.
+level.supplementchoice.title,PICK A SUPPLEMENT!
+options.keybindings.action.general.right,Kanan
+gadget.slot.keepersuit,Pakaian Penjaga
+assignment.cobaltcontribution.desc,Guild sangat membutuhkan kobalt dan meminta anda untuk mengantarkan kobalt dengan jumlah besar secepatnya.
+upgrades.prestigefinish.desc,Tinggalkan planet ini dan kembali ke rumah.
+loadout.mapsize.huge.description,Peta berukuran sangat besar untuk putaran yang paling lama.
+options.game.events,Acara
+loadout.versusmod.versusmodifierrichirondeposits.desc,Iron deposits are small but very rich.
+loadout.mode.shortcycles.desc,You have less time between waves.
+multiplayer.error.lobby.host,Failed to host the lobby.
+level.tutorial.sworddome.reflecting,Reflect
+level.tutorial.artillery.panel3header,Explosions & Direct Hits
+assignment.rareiron.title,Kekurangan Besi
+level.tutorial.assessor.carry.desc1_1,"Once locked onto you, they will follow you even if you release the collect key."
+level.station.battle.navbar.slice,Slice
+upgrades.furnacewaterfiring.title,Bahan Bakar Air
+upgrades.drill.desc,"Bor utama untuk menggali ke dalam tambang, dengan pilihan bor samping."
+level.gameover.stats.additionalgadget,Perangkat Tambahan
+level.tutorial.tesla.panel2content1,Hold|to charge a shot.
+level.tutorial.tesla.panel2content2,"To fire a shot, only release after fully charging. Releasing before will do nothing."
+upgrades.teslapersistance1.desc,Bola elektro lebih besar dan bertahan lebih lama.
+upgrades.blastminingtriple.desc,Menghasilkan beberapa muatan ledakan di saat bersamaan daripada hanya satu muatan.
+properties.droneyard.battledronecount,Pesawat Tempur Tanpa Awak {}
+options.ok,OKE
+loadout.versusmod.versusmodifiermanycaverns,Cavernous Map
+upgrades.lasermove1.desc,Lasernya bergerak lebih cepat.
+upgrades.domewavewarner.desc,"Pengukur ronde akan memberi sinyal, saat waktunya kembali ke kubah karena ronde akan mulai. Ini adaptif dan akan meningkatkan akurasinya seiring waktu."
+upgrades.dome4.title,Kubah Tesla
+upgrades.keeper4squad1.title,Tunnel Squad
+upgrades.keeper4autospawnminers.desc,"Whenever a new tunnel entrance is dug, a miner squad will emerge automatically."
+assignment.unpredictable.title,Broken Comms
+upgrades.blastminingblast3.desc,Tingkatkan kekuatan muatan peledak ke tingkat yang sangat kuat.
+upgrades.domewavepathtodome.title,Rute Keluar
+level.tutorial.probe.popup_1.switch,Press | to emit a probe pulse.
+upgrades.teslapower1.desc,Tingkatkan kekuatan tembakan tesla.
+loadout.versus.modifiers.title,Modifiers
+properties.furnace.irondelay,Penundaan Besi {}s
+actionhint.pickup,Ambil
+demo.end.subtitle,"Gim lengkapnya menawarkan begitu banyak konten. Jika Anda bersenang-senang, pertimbangkan untuk mendapatkan versi lengkapnya. Berikut yang ditawarkan:"
+loadout.versusmod.versusmodifierironinflation.desc,"All upgrades need twice as much iron, but iron deposits are richer."
+upgrades.artilleryprojectileerasure.title,Penyebaran Proyektil
+options.video.brightness.reset,Reset
+upgrades.domesandrepair.desc,Perbaiki kerusakan di kubahmu dengan kobalt.
+upgrades.swordlongblade2.title,Pedang Panjang 2
+level.gameover.restart,Restart run
+options.input.gamepad.thumbstick.ps5,Stick
+level.tutorial.caves,Gua
+options.input.gamepad.gamepadstickdeadzone.ps5,Stick Dead Zone
+upgrades.keeper3shuriken2.title,Swift Shuriken
+upgrades.condenserspeed1.desc,Mengurangi waktu diperlukan untuk mengembun satu air.
+properties.monsters.fixedweight,Kekuatan Gelombang Tetap {}
+properties.versus.ironcontribution,Iron Contribution {}
+multiplayer.join.title,Join a multiplayer session
+upgrades.prestigewater.title,Kirim Air
+upgrades.keeper3kunaibounce2.title,Deep Resonance
+upgrades.swordtargetlock.title,Penguncian Target
+upgrades.artillerymachinegun4.title,Senjata Cepat
+upgrades.mushroomfarmdrill2.title,Tambang Jamur 2
+upgrades.stunlaser.desc,Pasang laser yang secara otomatis mengincar dan menyetrum monster.
+upgrades.shieldbattleinvulnerable.title,Kekebalan
+loadout.hint.dome,Pilih sebuah kubah!
+loadout.versusmod.versusmodifierrichirondeposits,Dense Iron Deposits
+upgrades.chainsawdouble.desc,Pasang gergaji bundar tambahan yang secara efektif melindungi kedua sisi kubah.
+properties.lift.capacity,Membawa Bola-bola {} sumber daya
+reward.rewardcentralmarker.title,Penanda Tengah
+upgrades.autocannonrateoffire1.title,Senapan Mesin 1
+loadout.versusmod.versusmodifierwindingmap,Winding Map
+upgrades.prospectionmetersand2.title,Kompas Kobalt
+properties.lift.orbs,{} Bola-bola
+upgrades.keeper3doublejump.desc,Jump again while in mid-air.
+upgrades.droneyardparasites3.title,Pesawat Parasit Tanpa Awak 3
+upgrades.keeper4doublesquad.title,Second Squad
+upgrades.relichunt.title,Memburu Relic
+upgrades.orchardbattlerooting.desc,Aktifkan dalam pertempuran untuk menumbuhkan akar di luar kubah yang akan menjebak monster berukuran sedang yang melangkah di atasnya.
+upgrades.prospectionmetergadget.title,Meteran Performa Tinggi
+properties.sword.reflection,Meningkatkan Ukuran Bantalan Perisai
+upgrades.extractorresources1.desc,"Membiakkan cacing khusus yang bekerja dengan hati-hati, menggali lebih banyak besi."
+properties.dome.autohealdamagethreshold,Diaktifkan setelah menerima lebih dari {} hp dalam kerusakan
+upgrades.keeper2rotationalmining2.desc,Meningkatkan seberapa cepat penambangan batuan.
+properties.tesla.persistencestunstrength,Tingkat Kekuatan Setrum Bola Elektro {}
+level.gameover.stats.timeplayed,Time Played
+properties.sword.stabdamage,Kerusakan Tusuk {}
+properties.monsters.additionalwaveweight,Kekuatan Gelombang Tambahan {.percent}
+options.game.playerindicatorsinmultiplayer,Show Player Indicators in Multiplayer
+properties.mushroomfarm.speedbuff,Peningkatan Kecepatan Bergerak {}
+level.tutorial.drillbot.carry,Take Drillbert from its tank and place it in the mine where it should dig.
+modding.modio.decline,Decline
+assignment.inversegravity.desc,Planet ini memiliki gravitasi terbalik.
+level.tutorial.drop.popup_2,Hit | to drop one. Hold to drop many.
+upgrades.droneyardbattlegridquick1.desc,Lepaskan lebih banyak pesawat tanpa awak dengan urutan yang lebih cepat.
+upgrades.mushroomfarmautopickup.desc,Otomaris mengonsumsi jamur saat didekati.
+level.tutorial.drop.popup_1,Carried resources slow you down.
+properties.sword.retractspeed,Kecepatan Retraksi {}
+reward.rewardkeeper1skin5.title,Engineer Skin
+upgrades.keeper4.desc,"Arcane keeper traversing the mines with agile tentacles, commanding catgoblin minions."
+assignment.condition.deliverwater,Deliver %d water
+loadout.difficulty.hard.description,"Ya, kubahmu juga yang kalah..."
+upgrades.keeper4speed2.title,Kecepatan Bergerak 2
+loadout.versusmod.versusmodifierhardrock.desc,The map has more hard rock.
+properties.furnace.maxironstack,Tumpukan Besi Maksimum {}
+upgrades.rocketlauncherdamage2.desc,Meningkatkan misil-misil lebih jauh lagi.
+upgrades.artilleryrotation1.desc,Memungkinkan Anda untuk memutar mortir lebih jauh.
+level.furnace.popup.fuel.add,Stack one|to be burned.
+reward.rewardpostrunshowmonstercount.desc,Tampilkan statistik pertempuran pasca-permainan tambahan seperti seberapa banyak kerusakan yang anda terima per jenis monster.
+upgrades.extractordoublebuild.title,Cacing Ganda
+multiplayer.error.otherteamquit,The game was ended because all players have left the other team. Your game has been saved and you can continue the game by selecting multiplayer under the continue menu.
+upgrades.blastminingproductiontime1.title,Waktu Produksi
+upgrades.chainsawdamage2.desc,Tingkatkan jumlah kerusakan yang bisa dilakukan oleh gergaji bundar terhadap monster sekitar.
+multiplayer.continue.deviceselection.originalplayer,Original Player
+upgrades.shieldbattleinvulnerable.desc,Picu kemampuan tempur aktif yang membuat kubah anda kebal untuk sementara waktu.
+level.gameover.unlock.drillbert,Drillbert modifier unlocked!
+multiplayer.host.splitscreen.desc.switch,Use the Controllers in the loadout to spawn additional keepers. Up to two keepers can share one screen. Can be combined with online multiplayer.
+loadout.mapsize.large,Besar
+level.furnace.popup.explanation,Add resources to the fuel stack. The resources are burned one after another.
+upgrades.liftcapacity1.title,Kapasitas
+upgrades.shockwavebig.title,Gelombang Mematikan
+upgrades.extractorresources2.desc,Membiakkan cacing yang akan menggali setiap partikel besi yang ada di dalam batuan.
+level.tutorial.ninja.shuriken.desc1,Double tap| to throw a shuriken.
+level.tutorial.ninja.shuriken.desc2,Shuriken replenish over time.
+upgrades.droneyarddronespeed1.title,Kecepatan Pesawat Tanpa Awak
+upgrades.stunlaserarea.title,Area Setrum
+assignment.weakmining.title,Masalah Penambangan
+options.game.events.allowtelemetry.ps5,Accept EULA
+upgrades.keeper3kunaibounce2.desc,Increase the range of tiles revealed with each bounce.
+assignment.projectilehell.title,Neraka Proyektil
+options.input.controls.mouse.gamepad.ps5,Switching to a Controller and back is automatically detected
+reward.rewardpermanenthealthmeter.title,Health Meter Permanen
+properties.game.fixedtimelimit,Batas Waktu: {} menit
+upgrades.drillbot.title,Drillbert
+options.video.performance,Performance
+properties.furnace.waterduration,Jangka Waktu Pembakaran Air (siklus) {}
+level.gameover.win.team.profile,Profile
+upgrades.droneyardbattlegrid.title,Kisi Pertempuran
+loadout.prestige.countdown.description,Dapatkan sebanyak mungkin prestise dalam 20 siklus. Pengganda prestise dimulai dari 20 dan berkurang 1 untuk setiap siklus selanjutnya.
+level.tutorial.ninja.carry.desc1,Hit| to throw a kunai carrying resources in the direction you are aiming with your %s.
+level.gameover.miner.title,MINER RUN FINISHED
+loadout.mapsize.medium.description,Peta berukuran sedang untuk putaran penambangan yang optimal.
+upgrades.assignmentsemergencycontribution2.desc,Send this package before the 4th wave ends or fail this assignment.
+level.gameover.unlocknewelementbutton,Pick your unlock
+upgrades.repellentbattlestrongerslowdown1.desc,Kabut memperlambat monster lebih banyak dan bertahan lebih lama.
+upgrades.orchardovercharge3.desc,Tingkatkan dampak dari pengisian daya berlebihan pada kemampuan bertempur.
+modding.steamworkshop,Buka Steam Workshop
+upgrades.drillbotstrength2.title,Kekuatan 2
+reward.rewardkeeper1skin5.desc,Unlock a new keeper skin for the Engineer.
+options.keybindings.rebinding.error.gamepad.ps5,Cannot set this as a Controller input.
+properties.keeper2.actioncooldown,Waktu Jeda Aksi {}s
+pause.godot,Dibuat dengan Godot
+loadout.mode.nomonsters,Tiada Monster
+properties.teleporter.teleportduration,Durasi Teleportasi {}s
+level.paused,Paused
+upgrades.teslaautoaim.desc,Arahan garis bidik mendapatkan radius kecil di mana ia akan secara otomatis mengarah ke monster terdekat.
+upgrades.domearmorpulse.desc,"Zirah kubah menyimpan sebagian dari energi kinetik dari serangan yang diterima, dan kemudian melepaskannya dengan detak kuat yang membuat musuh di sekitarnya terkejut."
+upgrades.teslapower2.title,Kekuatan Tembakan 2
+modding.close,Tutup
+upgrades.stunlaserduration2.desc,Laser setrum mendingin lebih cepat lagi dan memiliki laju tembakan yang lebih lama.
+level.station.battle.navbar.move,Gerak
+upgrades.repellentbattleslowdown.title,Melemahkan
+properties.drillbot.buffstrength,Percepatan Berenergi {.percent}
+options.input.controls.keybindings.button.switch,Change Button Bindings
+upgrades.keeper4speed1.title,Kecepatan Bergerak 1
+upgrades.stunlaserduration2.title,Stamina Menembak 2
+modding.profile.delete,Hapus Profil
+upgrades.dome1health1.desc,Tingkatkan secara permanen integritas struktural kubah anda.
+assignment.logistics.title,Logistical Nightmare
+level.gameover.prestige.score.finalscore,Your final score is...
+upgrades.prestige.desc,"Bangun reputasi di Guild Penjaga dengan memberikan sebanyak mungkin sumber daya pada mereka, tapi segera tinggalkan planet sebelum kamu dikepung!"
+properties.chainsaw.damage,Kerusakan per Detik {}
+upgrades.autocannonshotgun2.desc,Meningkatkan kekuatan senapan sebar.
+reward.rewardthreechoicesgadget.title,Penawaran Tiga Peralatan
+options.input.gamepad.twinstick,Kontrol Twin-Stick
+upgrades.domewavewarner.title,Peringatan Ronde Dinamis
+upgrades.mushroomfarmdrill1.desc,Tingkatkan bonus tambahan tambang yang didapatkan dari konsumsi jamur.
+properties.suitblaster.chargespeed,Muatan per Siklus {}
+loadout.player.color,Keeper Color
+level.assignment.badges.unlock,Dapatkan %d lencana lagi untuk membuka.
+assignment.projectilehell.desc,Planet ini penuh dengan monster terbang yang menyemburkan proyektil.
+properties.repellent.overchargebattleabilityduration,Durasi Tambahan Kemampuan {.percent}
+properties.orchard.battleshieldhp,Kekuatan {}hp
+properties.keeper2.reflectsphere,Medan Pantulan
+upgrades.probecharges.desc,Tambahkan muatan tambahan ke dalam alat penguji.
+upgrades.resourcepackerconstant.title,Pengepakan Ahli
+upgrades.droneyardbattlegridlong2.desc,Lepaskan banyak pesawat tanpa awak tambahan yang akan tetap berada di sekitar untuk waktu yang sangat lama.
+upgrades.swordreflection2.desc,Perisal lebih besar.
+upgrades.orchardovercharge3.title,Kelebihan Daya Intens
+upgrades.assignmentsemergencycontribution4.desc,Send this package before the 11th wave ends or fail this assignment.
+upgrades.droneyardovercharge3.title,Daya Berlebih Luas
+level.gameover.assignment.lose.title,ASSIGNMENT FAILED
+actionhint.pack,Pak
+upgrades.stationextensionminimap.title,Pemetaan
+properties.tesla.orbdamage,Kerusakan Bola Elektro {}
+properties.furnace.maxwaterstack,Tumpukan Air Maksimum {}
+loadout.versusmod.versusmodifiermirroredmap,Mirrored Map
+upgrades.artilleryrotation1.title,Putaran Lebar
+upgrades.drillsidespeed2.desc,Mempercepat bor samping lebih jauh lagi.
+level.tutorial.resourcepacker.popup_1,"When close to resources, hit | to pack them into a compact bundle that is easier to transport."
+properties.orchard.overchargeabilityuses,Penggunaan Kemampuan Tambahan {}
+options.input.controls.gamepadusage.ps5,Controller Usage
+options.keybindings.restoredefault,Kembali ke Default
+options.input.gamepad.switch,Controller
+upgrades.stationextensionresolution.title,Tampilan Resolusi Tinggi
+upgrades.shieldbattlelongerafterdepletion.title,Dorongan Kehabisan
+telemetry.manage.ps5,Decline EULA
+level.gameover.stats.damagereceived,Damage Received
+modding.modio.moddownloadfailed,Error downloading mod.io mod!
+loadout.versusmod.versusmodifierironinflation,Iron Inflation
+reward.rewardpermanentwavecount.title,Penghitung Ronde Permanen
+upgrades.jetpackstrength1.desc,Mempertajam paket jet untuk membawa lebih banyak sumber daya.
+level.gameover.unlock.gadget,Perangkat Baru
+upgrades.stationextension.desc,Dapatkan stasiun mudah bergerak yang berjalan di rel tepat di bawah kubah. Masuk ke stasiun untuk mengendalikan kubah anda dari jarak jauh dari dalam tambang.
+loadout.versusmod.versusmodifierpoorirondeposits.desc,Iron deposits are very large but have lower yield.
+upgrades.repellentbattlestrongerslowdown2.title,Sempoyongan Kuat
+upgrades.converterirontocobalt.desc,Memperbolehkan konversi kobalt ke besi dan sebaliknya.
+loadout.dome,Kubah
+upgrades.orchardduration3.title,Buah 3
+level.gameover.stats.resourcesmined,Resources Mined
+options.input.gamepad.thumbstick,Thumbstick
+upgrades.keeper1powerdrill.desc,"Dapatkan bor tingkat tinggi yang dapat dengan mudah menembus batuan yang paling keras, bahkan menghancurkan batuan yang sebelumnya tidak bisa dihancurkan."
+upgrades.domesecondweapon.title,Weaponize Second Station
+actionhint.fire,Tembak
+versus.corruptionfastprojectiles.title,Fast Projectiles
+level.gameover.unlock.dome,New Dome
+loadout.versus.modifiers.limit,%d of %d modifiers chosen.
+upgrades.swordstabfast2.title,Tusukan Cepat 2
+properties.blastmining.growthtime,Jangka waktu Produksi (siklus) {}
+options.keybindings.rebinding.inputprocessor.ps5,Press a new Button for this action…
+level.gameover.stats.difficulty,Tingkat Kesulitan
+assignment.inversegravity.title,Terbalik
+assignment.acidrain.desc,The planet's acidic rain prevents any life and even cuts through the dome's armor.
+upgrades.keeper4doublesquad.desc,"Gain another squad, ready to work any time you call them."
+upgrades.keeper4powerfulfirstpunch.desc,The first strike against a tile will use exceptional force.
+multiplayer.host.start,Host session
+upgrades.mushroomfarmspeed2.title,Kecepatan Jamur 2
+demo.end.more1,Lebih banyak kubah!
+demo.end.more2,Si Penjaga Penilai!
+upgrades.swordreflection1.desc,Melebarkan ukuran perisai dan membuat itu memantulkan proyektil energi.
+demo.end.more3,Banyak lagi peralatan!
+upgrades.chainsawspeed1.title,Kecepatan Gergaji
+assignment.treefarm.desc,"The planet's resources are few, but many resource tree seeds can be found."
+demo.end.more4,Suplemen yang ampuh!
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"Set the value so that the meter does not flicker when only touching the sticks, without pushing them.
+The meter should flicker when moving the stick."
+actionhint.probe,Probe
+level.gameover.keepgadget.keeping,Gadget to keep: {gadget}
+upgrades.keeper3aerialmastery.desc,"Gain increased control while falling. Additionally, each mid-air jump will launch you higher than the last."
+upgrades.drillbot.desc,Adopsi makhluk lucu yang suka menggali. Bawa masuk ke tambang dan tinggalkan di tempat kamu ingin dia bekerja. Periksa kembali untuk membangunkan jika dia tertidur saat bekerja.
+upgrades.laserstrength4.title,Kekuatan 4
+upgrades.artillerydoublemachinegun.title,Laras Ganda
+upgrades.laserbend.desc,"Pasang sebuah pemutar kepala ke lasernya yang membenarkan arahanmu secara ototmatis, jika itu mendatangi secara dekat."
+upgrades.teslaquickshot2.title,Tembakan Cepat Bertenaga
+properties.droneyard.battledronespawntime,Waktu Muncul Pesawat Tanpa Awak {}s
+upgrades.prospectionmetersand2.desc,Tampilkan arah ke deposit kobalt terdekat.
+upgrades.keeper2pinballreflect2.title,Peningkatan Pantulan
+loadout.secondstage.start,Mulai Putaran
+level.tutorial.extractor.popup_1,Take the iron worms from the station and drop them near an iron cluster. They will attach to the iron and efficiently mine it over time.
+upgrades.spirestuntrap2.desc,Tingkatkan efisiensi perangkap energi untuk menangkap lebih banyak proyektil.
+loadout.versus.condition.deathmatch.desc,The team that survives the longest wins.
+loadout.versusmod.versusmodifiertoughstart.desc,The monster waves start out quite strong.
+level.tutorial.drillingrig.popup2,"When close to a side driller, hold | to move it along the drill shaft."
+level.tutorial.drillbot.sleeping2.switch,"When close to Drillbert, press | to wake it."
+upgrades.teleporterteleportitems.title,Teleportasi Barang
+level.tutorial.drillingrig.popup1,"Your drilling rig has a side driller, mining horizontally."
+level.tutorial.ninja.drop.desc1,Hit| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.stationextension.title,Stasiun Bawah Tanah
+upgrades.keeper2pinballreflect2.desc,Bola diperkuat lebih banyak ketika dipantulkan.
+properties.sword.stabrange,Jarak {}
+pause.disconnect.popup.ps5,You can't drop the main wireless controller.
+options.game.systemcursor,Gunakan Kursor Default
+upgrades.artillerygrenadefastreload.desc,Mengurangi waktu isi ulang mortir anda secara signifikan.
+upgrades.stationextensionrevealdistance1.title,Pengamatan Batuan Dekat
+loadout.mode.secondweapon,Second Weapon Unlocked
+options.video.reducedparticles,Reduced Particle Effects
+properties.monsters.finalwavefixedstrength,Kekuatan Gelombang Terakhir {}
+versus.corruptionfastmonsters.desc,The monsters will permanently be faster.
+upgrades.spirestuntrap1.desc,Menembak proyektil menghasilkan perangkap energi yang akan menangkap lebih banyak proyektil. Jumlah yang bisa ditangkap oleh perangkap tergantung pada kekuatan proyektil yang masuk.
+versus.corruptionfastprojectiles.desc,The monster projectiles will fly much faster.
+options.input.gamepad.twinstick.switch,Twin-Stick Controls (Disabled for single Joy-Con)
+upgrades.autocannonrateoffire2.title,Senapan Mesin 2
+upgrades.chainsaw.title,Gergaji Bundar
+options.input.vibration.strength,Kekuatan Getaran
+savegame.corrupted.title,Corrupted Save File
+properties.drillbot.drillstrength,Kekuatan Bor {}
+properties.prestige.multiplier,{} Pengganda Prestise per Gelombang
+upgrades.artillerysplash4.desc,Membawa kehancuran di seluruh medan pertempuran dengan menembakkan 4 peluru yang sangat mudah meledak secara cepat beruntun.
+upgrades.condenserdoublestorage.desc,Kondensor akan menghasilkan dan menyimpan dua unit air sebelum berhenti berfungsi.
+upgrades.shieldbattleactivateondepletion.desc,Kekebalan secara otomatis akan mengaktifkan tambahan satu kali ketika perisai habis.
+upgrades.chainsawspeed1.desc,Membuat gergaji bundar bergerak lebih cepat antara kedua sisi.
+upgrades.teleporterteleportduration2.title,Durasi Teleportasi 2
+properties.orchard.overchargeabilitystrength,Kekuatan Kemampuan Tambahan {.percent}
+modding.modio.loginfailed,Login to mod.io with Xbox account failed!
+upgrades.rocketlauncherrockets3.title,Rentetan 3
+leaderboard.needsOnlineServices,Leaderboards require online services to be enabled.
+options.game.blocklist,Blocked User List
+upgrades.keeper4squad2.desc,Increases the number of Catgoblins in the squad and their endurance.
+reward.rewardweaponsupplements.desc,Temukan upgrade suplemen yang sangat kuat untuk senjatamu.
+upgrades.domesupplementadditionalcellar.desc,"Tambahkan satu level lagi ke ruang bawah tanah anda, memberikan dua tempat tambahan untuk perangkat."
+level.tutorial.assessor.bundle.desc1.switch,Press|while carrying resources to shoot a bundle.
+loadout.difficult.harder,Lebih Sulit
+playerlist.close,Tutup
+upgrades.keeper3rocketcarrier.title,Rocket Carrier
+level.tutorial.assessor.spheres.desc1.aiming,Hit| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+level.gameover.unlock.gamemode,New Game Mode
+upgrades.rocketlauncherrockets1.title,Rentetan 1
+upgrades.autocannonspeed1.title,Percepat
+upgrades.spiresustain.desc,"Memperpendek waktu pengisian ulang menjadi hampir nol, memungkinkan laju tembakan yang sangat stabil."
+upgrades.extractorresources1.title,Cacing Rajin
+multiplayer.host.splitscreen.desc.xbox,Use the Controllers in the loadout to spawn additional keepers. Up to four keepers can share one screen. Can be combined with online multiplayer.
+level.assignment.badges,Lencana
+upgrades.prestigefinish.title,Tinggalkan Planet
+properties.sword.slicebounceback,Pantulan Pedang di Tepi
+properties.droneyard.transportdronecount,Pesawat Transportasi Tanpa Awak {}
+upgrades.drilladditionalsides.title,Bor Samping Tambahan
+upgrades.shieldbattleblastdamage.desc,Tingkatkan kerusakan dan penggunaan pada setiap pertempuran dari ledakan elektro.
+upgrades.extractordestruction.title,Implosi Sarang
+properties.sword.electricdamage,Kerusakan Pedang Elektrik {}
+properties.mushroomfarm.growthtime,Jangka Waktu Pertumbuhan (siklus) {}
+upgrades.keeper3carrylimit1.desc,Increase the number of resources you can haul on your Kunai carrier.
+options.accessibility.fontsize,Font Size
+upgrades.keeper4punch2.title,Frenzy 2
+upgrades.laser.desc,Sebuah laser akurat yang bergerak dengan kubahmu. Sebelumnya bermaksud untuk menambang asteroid.
+loadout.hint.multiplayer.playermaximum,Must have 8 or fewer players to start a multiplayer run.
+upgrades.drillsides.title,Bor Samping
+upgrades.mushroomfarmautopickup.title,Gigitan Cepat
+options.input.controls.mouseusage,Penggunaan Mouse
+properties.tesla.reticlemaxspeed,Kecepatan Garis Bidik {}
+upgrades.swordstabshoot.desc,"Bukan mengambil dengan sebuah kabel, malah pedangnya menyerbu dan ditembak dari kubahnya seperti sebuah javelin."
+properties.condenser.autocollect,Pengumpulan Otomatis
+level.gameover.back,Kembali
+loadout.mapsize.small,Kecil
+loadout.hint.gamemode,Pilih mode permainan!
+upgrades.swordlargeblade3.title,Pedang Berat 3
+level.tutorial.ninja.controls,This keeper can only be played with controller or mouse and keyboard.
+telemetry.explanation.ps5,"Accept our EULA to access online multiplayer.
+If you don't, you can still play local multiplayer in splitscreen.
+
+You can change this setting any time in the options."
+multiplayer.techtree.keeperexclusiveupgrades,These upgrades apply only to your keeper.
+assignment.heavyhitters.desc,Planet ini dipenuhi monster jarak dekat.
+options.input.controls.mouse.domes,Gunakan Mouse untuk Domes
+loadout.mode.toughstart, Tough Start
+upgrades.swordaimline.desc,Tambahkan sebuah laser pengarah untuk mengarah tusukan pedang.
+upgrades.assignmentssendiron.title,Antarkan Besi
+upgrades.domearmormelee1.title,Zirah Serangan Jarak Dekat 1
+assignment.showdown.title,Pertikaian
+upgrades.keeper3shuriken1.desc,Gain a throwable Shuriken that explodes in a small radius. Automatically replenishes over time.
+upgrades.teslatiming1.title,Perfect Timing
+upgrades.stationextensionrevealdistance2.title,Pengamatan Batuan
+loadout.prestige.pro.gadgetorder,Urutan Perangkat
+upgrades.prospectionmeterwater1.title,Pengukur Air
+properties.teleporter.teleportresources,Teleportasi Sumber Daya
+options.video.stretchmode.scaled.text,"Merender game dalam resolusi tetap sesuai dengan resolusi layarmu.
+Mungkin terlihat kotak-kotak terutama pada tulisan, tapi tidak memunculkan visual error."
+options.keybindings.action.general.back,Batal
+level.station.battle.navbar.stab,Stab
+properties.keeper3.bouncesonarrange,Sonar Range (Tiles) {}
+assignment.cobaltcontribution.title,Kontribusi Kobalt
+upgrades.keeper2pinballsplit.desc,"Membelah bola kinetik yang datang menjadi dua, meluncurkannya tegak lurus dengan lintasan aslinya."
+options.input.gamepad.xbox,Controller
+upgrades.stunlaserduration1.desc,Laser setrum mendingin lebih cepat dan menembak lebih lama.
+properties.spire.stuntrapduration,Durasi {}s
+loadout.mapsize.medium,Sedang
+upgrades.keeper4swiftpunch.title,Swift Strikes
+upgrades.domewavecount.title,Penghitung Ronde
+level.gadgetchoice.slot,Slot: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,Take myzel spores from the mushroom trunk and drop them on a rock. They will occasionally grow into a buff mushroom.
+options.game.languages,Bahasa
+upgrades.autocannonshotgun2.title,Senapan Sebar 2
+upgrades.drillbotturnaround.title,Latihan Cangih
+level.tutorial.overcharge.popup_2,Move close to it and press | to overcharge.
+level.tutorial.overcharge.popup_3,This will consume one | and can only be done if you have enough.
+level.tutorial.overcharge.popup_1,"You can now overcharge your primary gadget, strengthening it for the next battle."
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,"Alih-alih menggunakan bola angkat, semua sumber daya di dalam lift terus bergerak ke atas dengan medan gravitasi terbalik. Mengembalikan sebagian sumber daya yang dihabiskan untuk bola angkat."
+level.station.navbar.battle,Pertempuran
+options.keybindings.rebinding.error.mouse,Tidak dapat mengatur ini sebagai input mouse.
+options.input.gamepad.autoswitch.ps5,Automatic Detection of Preferred Controller
+properties.lift.keeperupwardsspeed,Kecepatan Mengangkat Penjaga {}
+loadout.keeper,Penjaga
+level.gameover.unlock.keeper,New Keeper
+options.keybindings.rebinding.inputprocessor,Tekan tombol baru untuk aksi ini…
+options.keybindings.gamepad.ps5,Controller
+upgrades.keeper4extraresource.title,Diligent Catgoblins
+upgrades.shieldoverchargestrength2.title,Kekuatan Perisai Daya Berlebih 2
+loadout.mode.domesupplements,Tiga Kali Suplemen
+upgrades.converter.desc,"Bisa menkonversi sumber daya, membantu kamu seimbangkan inventori sumber dayamu."
+assignment.minorvision.title,Darkness
+upgrades.shieldstrength1.desc,Tambahkan kerusakan yang perisai kubah bisa diserap.
+properties.stationextension.tilerevealdistance,Jarak Terungkap {} ubin
+loadout.mode.toughstart.desc,Start with stronger waves.
+upgrades.liftcarrykeeper1.desc,Lift meningkatkan kecepatanmu saat bergerak di dalamnya.
+options.input.controls.mouse.aim,Use Mouse for Aiming
+upgrades.spireprojectileslowdown.desc,Pilinan secara terus-menerus melambatkan semua proyektil musuh.
+assignment.chosen.title,Misi Guild Anda
+upgrades.furnacestrongwaterfiring.desc,Memperkuat efektivitas pembakaran air untuk menunda serangan monster.
+properties.dome.healthfractionrepair,Perbaiki {.percent} dari hp total
+level.tutorial.assessor.carry,Gravity Collect
+upgrades.laserhitprojectiles.title,Proyektil yang Menguap
+upgrades.teslaorbstun.title,Efek Kedalaman
+reward.rewardgadgetsupplements.title,Suplemen Peralatan
+options.input.controls.keepersettings.individual,Individual Keeper Settings
+upgrades.teslapower2.desc,Tingkatkan kekuatan tembakan tesla.
+properties.acidrain.fixeddamageperminute,Damage per Minute {}
+demo.end.more,Dan lebih banyak lagi:
+landing.proceed,Tekan dimana saja untuk mulai
+modding.modio.ugcterms.content2,"By continuing, your Xbox Live identifier will be used to seamlessly authenticate you with mod.io. To proceed, you must read and agree to the mod.io policies:"
+upgrades.keeper4catgoblinamount.title,Expanded Brood
+modding.modio.ugcterms.content3,[i]These conditions will open in your system's default web browser.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,Sempoyongan
+upgrades.spiresplit1.title,Pembelah Proyektil
+upgrades.suitblasterradius2.title,Radius Ledakan 2
+properties.keeper4.punchstrength,Punch Strength {}
+modding.modio.ugcterms.content1,"To access, download, and manage user-generated content (UGC), this game uses the [b]mod.io[/b] service."
+upgrades.versus.title,Versus
+upgrades.swordstabexplode.title,Tusuk Kiriman Bom
+modding.modlist.title,Aktifkan Mod
+options.game.kunaisnapping,Snap Kunai Aim to Cardinal Directions
+loadout.versusmod.versusmodifiersecondweapon,Second Weapon Unlocked
+upgrades.teleporterteleportduration1.desc,Teleportasi kamu akan memakan waktu lebih sedikit.
+options.input.controls.keybindings.button,Ubah Setelan Tombol
+upgrades.domearmor.title,Zirah Kubah
+options.input.gamepad.gamepadstickdeadzone.text,"Tanpa menggerakkannya, atur agar meter indikator tidak aktif ketika stik analog disentuh. Meter indikator harus aktif saat stik analog digerakkan."
+options.translation.community.desc,Game ini diterjemahkan oleh komunitas yang luar biasa. Kamu bisa bergabung dengan mereka!
+level.tutorial.beastmaster.mine,Mining
+upgrades.keeper4speed1.desc,Increases movement speed.
+properties.shield.overchargebattleabilityduration,Durasi Tambahan Kemampuan {.percent}
+upgrades.shockwavedamage1.desc,Tingkatkan kerusakan yang diakibatkan oleh gelombang kejut.
+network.error.offline.xbox,Your connection to Xbox network has been lost. Please check your internet connection and try again.
+properties.condenser.waterstorage,Menyimpan {} air
+loadout.versusmod.versusmodifierstrongmonsters.desc,Monsters are harder to kill.
+title.navbar.modding,Modding
+upgrades.dome3.desc,Kubah militer digunakan untuk melancarkan kehancuran dengan menggunakan mortir yang sangat ampuh. Dilengkapi dengan tembakan anti udara untuk kemampuan pertahanan penuh.
+upgrades.keeper4powerfulfirstpunch.title,First Strike
+properties.sword.brake,Kelincahan Pedang {}
+level.tutorial.suitblaster.popup_1,"Hit | to fire the suit blaster, destroying rock in a radius around you."
+properties.stunlaser.firetime,Waktu Tembak {}s
+level.tutorial.suitblaster.popup_2,Secara otomatis akan mengisi ulang seiring waktu berjalan.
+properties.droneyard.battleabilityuses,Penggunan setiap Pertempuran {}
+upgrades.keeper4ramping1.desc,Build up mining speed through continuous mining. Momentum decays when you stop.
+level.gameover.unlockpicker.title,PICK YOUR UNLOCK
+options.input.gamepad.autoswitch.switch,Automatic Detection of Preferred Controller
+upgrades.suitblaster.desc,Pasang blaster tambang ke dalam baju besi anda yang dapat meledak untuk menghancurkan batuan di sekitar anda.
+upgrades.spiresplit1.desc,"Proyektil yang terkena akan terbelah menjadi beberapa bagian kecil, menimbulkan kerusakan pada musuh. Jumlah proyektil yang terbelah tergantung pada kekuatan proyektil yang datang."
+properties.versus.additivewave,Increased Wave Strength (other team) {}
+properties.keeper3.aircontrol,{.percent} Air Control
+multiplayer.error.keepertaken,The selected keeper has already been taken. Please try again with another keeper.
+assignment.mode.challenge,Tantangan
+upgrades.keeper3shurikenstrength1.desc,"Increase Shuriken explosion power, destroying tiles in a bigger radius."
+pause.invite,Invite Friend
+options.accessibility.fontsize.medium,Sedang
+upgrades.keeper2pinballdestroyadjacenttiles.desc,"Setiap kali bola kinetik menghancurkan ubin batuan, ubin-ubin yang tegak lurus dengan benturan juga ikut hancur."
+upgrades.furnaceironfiring.title,Bahan Bakar Besi
+upgrades.furnaceslowdown.desc,"Tambahkan komponen beracun ke dalam asap, membuat sistem saraf monstermati rasa dan memperlambat gerakan mereka."
+upgrades.swordlargeblade2.desc,"Pasang pedang lebih besar. itu bergerak lebih lambat, tapi membuat kerusakan berat."
+upgrades.blastminingblast1.desc,Meningkatkan kekuatan ledakan.
+upgrades.stationextensionrevealdistance1.desc,Batuan dan sumber daya yang dekat dengan stasiun secara otomatis terungkap.
+leaderboard.season,Season {season}
+multiplayer.host.crossplay.enabled,Crossplay Enabled
+multiplayer.techtree.keepersharedupgrades,These upgrades are shared for all keepers who own this gadget.
+loadout.versusmod.versusmodifierlongcycles.desc,The time between monster waves is longer.
+upgrades.artillerydirecthit2.title,Pembasmi Monster 2
+upgrades.stationextensionresolution.desc,Dapatkan gambaran yang lebih jelas tentang kubah dan sekitarnya.
+options.keybindings.action.general.use,Gunakan
+loadout.relichunt.modifiers,Pengubah Putaran
+assignment.heavyhitters.title,Pemukul Berat
+upgrades.furnacelastingwaterfiring.title,Bahan Bakar Air Tahan Lama
+properties.shield.battleblastdamage,{} Kerusakan Listrik per Detik
+multiplayer.error.timeout,Connection has timed out.
+multiplayer.join.discovering,Discovering sessions...
+properties.condenser.growthtime,Jangka Waktu Produksi (siklus) {}
+level.gameover.assignment.badges,Anda mendapatkan medali baru yang bisa digunakan untuk mendapatkan Hadiah Guild Penjaga.
+upgrades.drill1.desc,Mengkuatkan bornya untuk mengali lebih cepat.
+level.corruptionchoice.title,PICK A CORRUPTION!
+properties.artillery.grenadedamage,Kerusakan Peluru Artileri {}
+level.tutorial.fullscreen.continue,Lanjutkan
+options.game.spheresnapping,Snap Sphere Aim to Cardinal Directions
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Gerakan terdeteksi:
+options.input.gamepad.icons.automatic,Otomatis
+reward.rewardkeeper4skin3.title,Beastmaster Skin
+upgrades.prestige.title,Prestige
+upgrades.keeper3shurikenstrength1.title,Strong Shuriken
+upgrades.spiresplit2.desc,Proyektil yang terbelah menjadi lebih cepat dan lebih banyak.
+upgrades.swordlargeblade1.desc,"Melebarkan dan memanjangkan pedangnya, membuat lebih banyak kerusakan."
+upgrades.droneyardbattlegridlong1.title,Pesawat Tanpa Awak Tahan Lama
+properties.stunlaser.speed,Kecepatan {}
+upgrades.repellentbattleslowdownstun2.desc,Gunakan spora lebih sering dan menyetrum monster lebih lama.
+upgrades.drillsidespeed1.desc,Mempercepat bor samping.
+level.tutorial.ninja.bombs.desc1,Hold| to shoot kunai for mining in the direction you are aiming with your %s.
+loadout.mode.maze.desc,"Peta seperti labirin, dengan banyak cabang, jalan buntu, dan belokan."
+upgrades.domesupplementprojectiledamagereduction2.desc,Tingkatkan defleksi lebih lanjut untuk menerima lebih sedikit kerusakan proyektil.
+level.tutorial.ninja.bombs.desc2,Kunai will bounce when hitting a wall at a steep angle.
+upgrades.domesupplementmeleedamagereduction1.desc,Memperkuat lapisan kubah untuk mengurangi kerusakan dari serangan jarak dekat monster. Kerusakan proyektil tidak terpengaruh.
+upgrades.chainsawautonomy.title,Otonomi
+options.input.gamepad.gamepadstickdeadzone,Zona Mati Stik Analog
+upgrades.teslapower3.desc,Tingkatkan kekuatan tembakan tesla.
+level.tutorial.artillery.panel1header,Mortar
+upgrades.keeper4punch3.title,Frenzy 3
+upgrades.furnaceslowdown.title,Asap Mati Rasa
+upgrades.teslaspeed1.desc,Arahan garis bidik bergerak lebih cepat.
+upgrades.teslaquickshot2.desc,Tembakan cepat menjadi lebih kuat.
+level.tutorial.repair.findcobalt,"Try to find some cobalt. You can repair your dome with it.
+It is rare and finite."
+title.navbar.newgame,New Game
+options.keybindings.action.dome.battle,Mode Battle
+upgrades.keeper2pinballsplit.title,Pembelah Bola
+properties.keeper2.bundlecentralmarker,Penanda Kolom Tengah
+options.keybindings.gamepad.switch,Controller
+options.video.stretchmode.rezised.text,"Merender game sesuai ukuran layar asli atau resolusi window.
+Akan terlihat lebih tajam, hanya saja memungkinkan visual error berupa garis 1 pixel."
+options.audio,Audio
+upgrades.domehealthmeter.desc,Tampilkan nyawa kubah.
+upgrades.shieldbattlereflectshortuses.title,Pemantulan Tepat Waktu
+loadout.zoom1,Dekat
+loadout.zoom2,Jauh
+upgrades.orchardovercharge.title,Kebun Kelebihan Daya
+upgrades.keeperonewayteleporter.desc,Dapatkan alat teleportasi satu arah pribadi. Tempatkan portal sekali pakai di mana saja dan pindahkab kembali kemanapun yang anda inginkan.
+options.input.controls.gamepadusage.switch,Controller Usage
+properties.orchard.battleroots,Tumbuhkan Akar di Tanah {}
+upgrades.mushroomfarm.desc,Kembang biakan jamur di ruang bawah tanah anda yang dapat ditanam di dalam tambang untuk mendapatkan bonus tambahan kecepatan dan penambangan.
+keybindings.reset.title.ps5,Button Bindings Reset
+multiplayer.continue.deviceselection.cancel,Cancel Selection
+loadout.hint.selection,Tekan|untuk memilih opsi.
+upgrades.orchardbattleshieldsecondlayer.title,Kanopi Lapis Ganda
+properties.artillery.grenades,Peluru Arteri {}
+upgrades.drill3.title,Kekuatan Bor 3
+assignment.weakcarry.title,Masalah Logistik
+upgrades.shockwavestun1.title,Setruman Gelombang Kejut 1
+upgrades.domesupplementprojectiledamagereduction1.title,Lendutan Kubah
+properties.keeper3.maxjumps,{} Jumps
+upgrades.converterefficientcobalt.desc,Meningkatkan proses konversi agar lebih efisien.
+properties.furnace.waterdelay,Penundaan Air {}s
+gadget.slot.keepersupplement,Keeper Supplement
+upgrades.keeper4ramping2.title,Momentum 2
+upgrades.orchardduration1.title,Durasi 1
+upgrades.domesupplementprojectiledamagereduction2.title,Peningkatan Defleksi
+loadout.pet,Hewan peliharaan
+reward.rewarddomesupplements.desc,Temukan upgrade suplemen yang sangat kuat untuk kubahmu.
+properties.prestige.score,{} Prestise
+properties.keeper3.kunaicooldown,Kunai Cooldown {}s
+properties.stunlaser.stunarea,Area Setrum {}
+upgrades.blastminingblast2.desc,Meningkatkan kekuatan ledakan lebih lanjut.
+reward.rewardrerolloffers2.title,Reroll Air
+upgrades.artillerysplash1.title,Bahan Peledak Tidak Stabil 1
+upgrades.drillwidetunnel.title,Terowongan Lebar
+modding.modio.ugcterms.title,User Generated Content Terms of Use
+options.input.controls.keepersettings.title,Keeper Input Settings
+options.keybindings.action.keeper.gravitycollect,Kumpulkan
+upgrades.domearmorhealth1.desc,"Tingkatkan daya tahan zirah, sehingga memberikan lebih banyak nyawa untuk kubah."
+reward.rewardgadgetsupplements.desc,Temukan upgrade suplemen yang sangat kuat untuk peralatanmu.
+properties.laser.movespeedmod,Pengubah Kecepatan Bergerak {.percent}
+upgrades.domeresourcecounters.title,Manajemen Persediaan
+level.tutorial.tesla.panel2header,Shooting
+upgrades.jetpackstrength2.desc,Mempertajam paket jet untuk membawa lebih banyak sumber daya.
+upgrades.teslapower4.title,Kekuatan Tembakan 4
+properties.orchard.battleabilityuses,Penggunan setiap Pertempuran {}
+loadout.gadget.additional.unlock,"Ada perangkat yang belum anda buka. Untuk membuka perangkat, menangkan putaran setelah menemukan perangkat di dalam tambang dan memasangnya ke dalam kubah."
+properties.laser.hitprojectiles,laser mengenai proyektil energi
+properties.keeper2.minspeed,Kecepatan Minimum {.percent}
+properties.laser.dpsmod,Pengubah Kerusakan {.percent}
+properties.prospectionmeter.scandelay,Penundaan Pindai {}s
+level.tutorial.artillery.panel1content2,"The longer you hold, the farther the shell will fly."
+level.tutorial.artillery.panel1content1,Hold|to charge the mortar and then release to fire.
+level.gameover.saveimages,Save
+assignment.mode.regular,Biasa
+upgrades.teslaautoaim.title,Bidik Otomatis
+upgrades.orchardduration1.desc,Efek positif dari buah lebih kuat dan bertahan lebih lama.
+options.title,OPSI
+upgrades.probedetectchambers.desc,Sekarang alat penguji juga dapat deteksi ruangan lain seperti ruangan perangkat.
+upgrades.dome1.desc,"Standar kubah penambang, di lengkapi dengan sebuah laser akurat."
+upgrades.repellentbattlestrongerslowdown2.desc,Kabut memperlambat monster lebih banyak dan bertahan lebih lama.
+upgrades.resourcepacker.desc,"Pasang penyusun sumber daya ke dalam pakaian anda yang dapat mengemas dan memadatkan beberapa sumber daya menjadi bundel, sehingga lebih mudah untuk diangkut."
+properties.keeper4.goblinextraresourcechance,Additional Resource Chance {.percent}
+properties.orchard.speedbuff,Peningkatan Kecepatan Bergerak {}
+keybindings.reset.explanation.xbox,Your Button Bindings have been reset due to a recent update which made significant changes to the input scheme. Sorry for the inconvenience!
+upgrades.keeper2rotationalmining2.title,Penambangan Kompresi 2
+upgrades.keeper3rocketcarrier.desc,Replace Kunai carriers with rocket-powered versions that travel in a straight line until impact.
+properties.blastmining.damage,Kerusakan {}
+options.video.renderscale,Skala Render
+modding.profile.title,Pilih Profil
+options.keybindings.action.general.left,Kiri
+properties.versus.multiplicativeewave,Increased Wave Strength (other team) {.percent}
+level.tutorial.drillbot.sleeping1,"Drillbert goes to sleep after a while, or when it meets a wall it can't dig."
+level.tutorial.drillbot.sleeping2,"When close to Drillbert, hit | to wake it."
+upgrades.laserstrength4.desc,"Meningkatkan secara besar-besaran kekuatan laser aAnda, tetapi hampir tidak bergerak saat menembak."
+upgrades.repellentoverchargeduration1.title,Daya Berlebih Meningkat
+level.tutorial.drillbot.sleeping3,You can make it turn around by hitting | when it's awake.
+modding.prestigeforbidden,Kamu tidak dapat memulai mode Prestige dengan mod ini.
+upgrades.laser.title,Laser
+upgrades.domesupplementelectrifiedsurface1.title,Lambung Listrik 1
+pause.quitgame,Keluar Permainan
+upgrades.swordlargeblade3.desc,Sebuah pedang raksasa. Sangat kuat tapi bergerak lambat.
+upgrades.relichunt.desc,Cari relik yang terkubur di bawah tanah dan bawa kembali ke Guild Penjaga.
+properties.shockwave.cooldown,Waktu Jeda {}s
+upgrades.repellentdelay1.desc,Tambahkan waktu yang di tunda untuk gelombang monster berikutnya.
+savegame.corrupted.desc,"Your last save file is corrupted, possibly due to a system crash during saving. Reverting to the previous save."
+multiplayer.host.online,Online
+keybindings.reset.doreset.switch,Reset my Button bindings
+options.keybindings.cancel,Batal
+upgrades.keeper4catgoblindig2.title,Efficient Digging
+upgrades.furnacewaterfiring.desc,Gunakan air sebagai bahan bakar di dalam pemanas untuk menunda serangan monster lebih lama.
+upgrades.shockwavedamage2.title,Kerusakan Gelombang Kejut 2
+upgrades.proberange1.desc,Tingkatkan jarak alat penguji.
+pause.options,Pengaturan
+keeperdlc.load.missing.switch,"Cannot load save, it contains unavailable downloadable content. Please ensure 'The Lost Keepers' downloadable content is available."
+options.keybindings.action.keeper.drop,Jatuhkan
+upgrades.assignmentsemergencycontribution3.title,Emergency Contribution 7
+options.game.shootbundlebeforegadgets,Shoot the Resource Bundle before Gadgets
+options.video,Video
+upgrades.blastmining.title,Ledakan Tambang
+modding.modio.subscriptions,Show Mod.IO Subscriptions
+level.gameover.proceedtounlock,Unlock a new element
+upgrades.prospectionmeter.desc,Meteran yang menunjukkan jarak ke sumber daya terdekat.
+properties.keeper2.spherereload,Muat Ulang Bola {}s
+options.keybindings.apply,Terapkan
+upgrades.teslaquickshot.desc,"Setelah menembakkan tembakan bermuatan, anda dapat menembakkan satu tembakan yang lebih lemah dengan menekan tombol tembak."
+level.tutorial.tesla.panel1header,Reticle Movement
+upgrades.tesla.title,Tesla
+properties.tesla.persistance,Masa Pakai Bola Elektro {}s
+upgrades.repellentbattleslowdownstun1.title,Kelumpuhan
+upgrades.probelongmarker1.title,Memori Penanda
+modding.modio.tokenerror,Connection to token provider failed!
+upgrades.stationextensionupgrades.title,Peningkatan Jarak Jauh
+upgrades.prestigewater.desc,Kirim balik air. Meningkatkan seberapa banyak poin prestise yang kamu dapat setelah tiap gelombang.
+upgrades.artillerydirecthit2.desc,Tingkatkan potensi penghancuran dari peluru mortir anda.
+upgrades.mushroomfarmquickgrowth.desc,Jamur tumbuh lebih cepat di rubanah.
+network.error.notsignedin.ps5,Sign in to PlayStation™Network to access online features
+options.input.controls.keybindings.ps5,Button Bindings
+multiplayer.error.clientcrossplaydisabled,Enabling crossplay is required to join this lobby.
+upgrades.keeper3carrylimit2.desc,Increase the number of resources you can haul on your Kunai carrier.
+level.supplementchoice.reroll, Reroll
+upgrades.orchardbattlerootingexplosion.desc,"Picu lagi agar semua monster yang terperangkap meledak, menimbulkan kerusakan di sekitar mereka."
+upgrades.rocketlauncherrestock.desc,Gudang misil akan mengisi ulang semua misil beberapa waktu setelah dikosongkan.
+upgrades.droneyardbattlegridquick2.title,Pesawat Tanpa Awak Seketika
+assignment.denseiron.title,Besi Padat
+options.input.controls.gamepadusage.xbox,Controller Usage
+level.tutorial.ninja.bombs,Kunai
+upgrades.domearmorhealth2.desc,"Tingkatkan daya tahan zirah, sehingga memberikan lebih banyak nyawa untuk kubah."
+loadout.title,Perlengkapan
+multiplayer.continue.deviceselection.team,Team
+properties.keeper3.kunaiweaknessagainsthardrock,Kunai Weakness Against Hard Rock {.percent}
+level.tutorial.repellent.popup_2.switch,"When close to it, press | to activate it."
+upgrades.chainsawdamage3.desc,Tingkatkan jumlah kerusakan yang bisa dilakukan oleh gergaji bundar terhadap monster sekitar.
+level.tutorial.artillery.panel3content1,"The mortar shells have an area of effect, but direct hits deal more damage. They can't damage the dome."
+level.gameover.unlock.regulargadget,New Gadget unlocked for Assignments!
+options.keybindings.gamepad.xbox,Controller
+options.input.gamepad.thumbstick.switch,Stick
+upgrades.artilleryshotstun.title,Ledakan yang Memekakkan Telinga
+upgrades.assignments.title,Misi Guild
+upgrades.rocketlauncherrockets1.desc,Tingkatkan jumlah misil yang bisa anda tembak.
+level.tutorial.assessor.bundleguide.desc1,You can now guide stationary bundles.
+level.tutorial.assessor.mining,Penambangan Kompresi
+level.tutorial.assessor.bundleguide.desc3,"It will follow you, if you are close to it."
+level.gameover.win.team,TEAM %s WON
+level.tutorial.assessor.bundleguide.desc2,Hit|without pressing a direction to place a stationary bundle.
+options.video.graphicsmode.window,Window
+upgrades.artillerymachinegun1.desc,Tingkatkan senjata anti udara anda untuk menembak lebih cepat. Juga dilengkapi dengan penglihatan laser untuk tunjukan yang lebih baik.
+upgrades.droneyardovercharge1.desc,Untuk sementara melebihkan daya kebun pesawat tanpa awak dengan air untuk memproduksi lebih banyak pesawat tanpa awak dalam pertempuran berikutnya.
+modding.title,MODDING
+assignment.treefarm.title,Tree Farm
+level.gameover.prestige.score.personalbest,Your new personal best!
+level.gameover.unlock.world,New world unlocked!
+assignment.chosen.todo,Tidak ada tugas dipilih
+options.keybindings.action.dome.battleability1,Battle Skill 1
+loadout.versusmod.versusmodifierwindingmap.desc,The map is slightly labyrinthian.
+reward.rewardweaponsupplements.title,Suplemen Senjata
+upgrades.laserstrength2.title,Daya 2
+upgrades.keeper2movement1.desc,Meningkatkan generator gravitasi anda untuk bergerak lebih cepat.
+options.keybindings.action.dome.battleability2,Battle Skill 2
+upgrades.domesecondweapon.desc,Install a new weapon that is controlled by the second station located in the second cellar layer.
+upgrades.resourcepackerquickcharge.desc,Tingkatkan kecepatan pembaruan muatan penyusun.
+upgrades.laserstrength2.desc,"Sangat memperkuatkan daya lasermu, tapi itu akan bergerak jauh lebih lambat jika sedang menembak."
+upgrades.autocannonimproved.title,Peningkatan Meriam Otomatis
+upgrades.keeper3kunaicooldown1.desc,Throw Kunais more quickly.
+upgrades.keeper2pinballsplit2.desc,Tingkatkan keseluruhan masa aktif bola kinetik yang terbelah.
+upgrades.swordreflection1.title,Pantulan 1
+level.tutorial.ninja.drop.desc1.switch,Press| while on the ground and aiming down with your %s to drop all carried items.
+upgrades.suitblasterradius2.desc,Tingkatkan radius ledakan.
+options.game.dropresourcesbeforegadgets,Drop Resources before Gadgets
+options.translation.community.crowdin,Project Penerjemahan Dome Keeper di Crowdin
+loadout.hint.playerlimitprestige,"Start Run
+
+Scores are not uploaded when playing Prestige with 3+ players."
+upgrades.assignmentsemergencycontribution1.title,Emergency Contribution 2
+upgrades.shockwavedamage2.desc,Tingkatkan kerusakan yang diakibatkan oleh gelombang kejut.
+options.input.gamepad.autoswitch.xbox,Automatic Detection of Preferred Controller
+loadout.versusmod.versusmodifierlittlecobalt.desc,The map contains minimal cobalt deposits.
+upgrades.keeper1.title,Insinyur
+level.furnace.popup.title,Fuel the Furnace
+upgrades.prospectionmeterrange2.title,Jarak 2
+pause.discord,Gabung dengan kami di Discord
+upgrades.lasermove1.title,Kecepatan Bergerak 1
+options.input.controls.mouse.gamepad.switch,Switching to a Controller and back is automatically detected
+upgrades.jetpackspeed3.title,Kecepatan 3
+upgrades.chainsawautonomy.desc,Gergaji bundar melindungi kubah anda bahkan saat anda tidak berada di dalam ruang kendali.
+properties.extractor.buildcycles,Produksi Cacing (siklus) {}
+upgrades.stunlaserstun2.desc,"Tingkatkan kekuatan sinar setrum, dengan efek yang sangat besar bahkan pada monster terkuat."
+upgrades.teleporter.desc,Alat teleportasi dua arah yang menghubungkan ruang kendali bawah tanah dengan portal yang dapat dipindahkan.
+upgrades.droneyarddrones.title,Pesawat Transportasi Tanpa Awak
+level.tutorial.assessor.spheres.desc1.aiming.switch,Press| to shoot a kinetic sphere in the direction in which you are aiming with your %s.
+upgrades.liftspeed1.desc,Bola-bola bergerak lebih cepat.
+properties.prestige.provokedwavestrength,Provokasi Monster {.percent}
+upgrades.artillery.desc,Kombinasi mortir besar yang menembakkan peluru peledak besar dan senjata anti udara yang menembak dengan cepat.
+upgrades.shredgadgettocobalt.title,Sobek ke Kobalt
+level.gameover.stats.distancetravelled,Distance Travelled
+loadout.mode,Mode Permainan
+loadout.difficult.easier,Lebih mudah
+upgrades.domearmorhealth1.title,Daya Tahan Zirah 1
+options.game.playernamesinmultiplayer,Show Player Names in Multiplayer
+properties.sword.slicedamage,Kerusakan Iris
+options.keybindings.action.general,Umum
+upgrades.keeper4punch2.desc,Increase your mining strength and maximum mining speed.
+upgrades.keeper4catgoblinsleeptime.title,Caffeine Pills
+upgrades.condenserdoublestorage.title,Penyimpanan Ganda
+upgrades.drillbotbuffguidance.desc,Tunjukkan arah menuju Drillbert saat membawa camilan.
+loadout.versusmod.versusmodifierscatterediron.desc,"Iron deposits are small and scattered, but plentiful."
+upgrades.proberange3.title,Jarak Sangat Jauh
+upgrades.sword.desc,Sebuah pedang tahan lama yang membuat kerusakan lebih besar semakin jauh itu menayun ketika mengiris. itu bisa diluncurkan untuk menusuk para monster dan mempunyai perisai yang memblokir banyak proyektil.
+properties.rocketlauncher.rockets,Roket {}
+keybindings.reset.explanation,Tombol pintasanmu telah direset karena update terbaru yang mana mempengaruhi skema input. Mohon maaf atas ketidaknyamannnya!
+upgrades.shield.desc,Pasang sebuah perisai yang akan menyerap beberapa kerusakan. Mengisi ulang secara otomatis.
+multiplayer.error.lobbyfull,Lobby is full.
+upgrades.keeper3kunaibounce1.title,Trajectory Assist
+loadout.team.selection,Join %s
+level.tutorial.sworddome.slicing.desc,"The faster the sword swings, the higher the slice damage."
+properties.drill.sidetimepertile,Waktu Bor Samping per Ubin {}s
+upgrades.suitblasterradius1.title,Radius Ledakan 1
+upgrades.resourcepackerquickcharge.title,Muatan Cepat
+versus.corruptionmonsterdamage.desc,"The monsters will do much more damage, projectiles included."
+properties.dome.baserepair,Perbaiki {}hp
+loadout.team,Team %s
+options.keybindings.action.general.down,Bawah
+properties.blastmining.radius,Radius ledakan (ubin) {}
+loadout.proceed,Lanjutkan
+level.tutorial.suitblaster.popup_1.switch,"Press | to fire the suit blaster, destroying rock in a radius around you."
+upgrades.resourcepackercount2.title,Ukuran Bundel 2
+properties.sword.extendspeed,Kecepatan Perpanjang {}
+upgrades.autocannondamage1.title,Peluru Berat
+properties.sword.aimline,Prediksi Bidikan
+options.translation.community,{completion}% selesai
+properties.spire.stuntrapabsorption,Penyerapan Kerusakan {.percent}
+upgrades.keeper4speed2.desc,Further increases movement speed.
+upgrades.keeper4ramping4.title,Momentum 4
+upgrades.orchard.desc,Tanam pohon di dalam kubah yang tumbuh menghasilkan buah yang dapat meningkatkan pergerakan dan kekuatan penambangan anda untuk sementara waktu.
+pause.restart.popup,"Yakin mau memulai ulang putaran?
+Tekan lagi untuk konfirmasi."
+multiplayer.error.versionmismatch,Your game version does not match the host. Host version: {}
+assignment.condition.freegadget.plural,Two additional starter gadgets
+upgrades.artillerydirecthit1.title,Pembasmi Monster 1
+options.input.controls.mouse,Mouse
+upgrades.keeper4catgoblindig1.desc,Catgoblins will dig out resources without destroying tiles.
+reward.rewardpet11.title,Water Deer Pet
+upgrades.artillerymachinegun2.title,Tembak Cepat 1
+upgrades.teslaorbs.title,Bola Elektro
+properties.keeper2.spherespeed,Kecepatan Bola {}
+properties.artillery.machinegunpenetration,Penetrasi Peluru {}
+level.station.upgrademenu.cost,Cost
+keeperdlc.load.missing,"Cannot load save, it contains unavailable dlc content. Please ensure 'The Lost Keepers' dlc is available."
+upgrades.drillbotstrength1.desc,Tambahkan kekuatan mengali Drillbert.
+properties.resourcepacker.rechargetime,Durasi Isi Ulang {}s
+level.converter.popup.queue.block,This conversion is currently processing and will finish in {time} seconds.
+properties.keeper2.maxspeed,Kecepatan Maksimum {}
+level.converter.popup.conversion.to,to
+upgrades.blastminingblast2.title,Ledakan 2
+upgrades.suitblasterspeed1.desc,Meningkatkan seberapa cepat pakaian mengisi ulang tembakan.
+options.audio.music.ost.mode.adaptive.desc,Setiap soundtrack akan diputar sesuai dengan Keeper mana yang dimainkan.
+title.navbar.updates,Pembaruan
+upgrades.orchardbattlerooting.title,Akar Perangkap
+options.keybindings.action,Action
+upgrades.keeper4flexible3.title,Agility 3
+unlock.buy.keeperdlc,Unlocked by the DLC '%s'.
+upgrades.keeper4flexible2.desc,Increase your mining strength and your initial mining speed.
+loadout.prestige.countdown,Hitung mundur
+assignment.weakcarry.desc,"Perkakas transportasi milik penjaga rusak, jadi kamu harus mengandalkan alat-alatmu."
+upgrades.liftcarrykeeper2.title,Lift Pribadi 2
+upgrades.domewavecount.desc,Tampilkan berapa banyak ronde yang berhasil kamu lalui.
+loadout.gadget.additional,Perangkat Tambahan
+upgrades.prestigewatermultiplier.title,Kirim Air
+upgrades.condenser.title,Pengembun
+loadout.prestige.pro.supplementorder,Urutan Suplemen
+assignment.goaltype.delivery.failed,"Sasaranmu '{goal}', namun kamu hanya menyampaikan {amount}."
+options.input.gamepad.ps5,Wireless controller
+assignment.condition.duration,Selesaikan dalam %d siklus
+options.game.hideactionhint,Sembunyikan Petunjuk Diluar Dome
+options.video.graphicsmode,Mode Grafik
+level.tutorial.assessor.carry.desc1_1.ps5,"Once locked onto you, they will follow you even if you release the collect button."
+assignment.goaltype.relic,Dapatkan relik
+upgrades.stationextensionminimap.desc,Tampilkan peta mini tambang setiap kali aAnda memasuki ruang stasiun mudah gerak. Peta mini menunjukkan area yang telah ditemukan dan beberapa lempengan yang terdapat di dalam batuan.
+assignment.ironcontribution.title,Kontribusi Besi
+properties.keeper4.speedupretention,Speedup Retention {.percent}
+loadout.prestige.description,Kirim sumber daya ke luar dunia untuk mendapatkan prestise di antara Guild Penjaga.
+upgrades.keeper3.title,Infiltrator
+properties.shield.battleactivateondepletion,Aktifkan kemampuan saat perisai habis
+upgrades.jetpackspeed2.title,Kecepatan 2
+properties.dome.maxhealth,Kapasitas Nyawa {}hp
+upgrades.drillbotstrength1.title,Kekuatan 1
+properties.artillery.grenadereloadspeed,Kecepatan Isi Ulang Peluru Artileri {}s
+properties.tesla.perfecttimingmultiplier,Pengganda Tembakan {.percent}
+upgrades.orchardbattleshieldstrong.desc,Kanopi tanaman rambat menjadi lebih kuat.
+loadout.difficulty.easy.description,Sedikit lebih mudah dalam banyak aspek.
+upgrades.drillsidespeed1.title,Kecepatan Bor 1
+loadout.prestige.miner,Penambang
+upgrades.keeper4catgoblindig2.desc,Catgoblins dig faster.
+upgrades.spireburst.title,Tembakan Beruntun
+options.input.vibration.strength.ps5,Kekuatan Getaran
+upgrades.swordexplosivereflection.desc,Proyektil dipantul akan meledak saat mereka menabrak sesuatu.
+level.tutorial.drillbot.handling2.switch,Press | to make it change direction while on the ground.
+loadout.mapsize.large.description,Peta berukuran besar untuk putaran yang berthan lebih dari satu jam.
+upgrades.artillerymachinegunhoming2.desc,Gunakan roket yang lebih kuat.
+upgrades.keeper3quadjump.title,Multi Jump
+properties.artillery.grenadesexplosionradius,Radius Ledakan Peluru Artileri {}
+upgrades.proberange2.desc,Tingkatkan jarak alat penguji.
+properties.drillbot.buffextraamount,Pengeboran Tambahan {} hit
+versus.corruptionbigwave.desc,The next monster wave will be enormous.
+level.tutorial.artillery.panel2content1,Hold|to fire your anti air gun.
+level.tutorial.artillery.panel2content2,It's great against flying enemies.
+upgrades.drillwidetunnel.desc,Pasang dua bor bawah tambahan untuk membuat terowongan yang lebih lebar.
+upgrades.keeper2pinballdamage4.desc,Tingkatkan bola-bola kinetik anda.
+level.gameover.unlock.difficulty,New difficulty unlocked!
+loadout.prestige.fairness.headline,Kompetisi Adil
+upgrades.prestigeprovoke.desc,Tingkatkan strength monster ronde selanjutnya untuk memperoleh lebih banyak prestige.
+options.audio.volumes.soundvolume,Sound
+multiplayer.continue.deviceselection.keeper,Keeper
+upgrades.teslaspeed2.desc,Arahan garis bidik bergerak lebih cepat.
+upgrades.artillerymachinegun2.desc,Tingkatkan senjata anti udara anda untuk menembak lebih cepat.
+properties.spire.splitadditionalprojectiles,Proyektil yang Terbagi Tambahan {.percent}
+upgrades.artillery.title,Artileri
+level.tutorial.assessor.bundle.desc1,Kenai | saat membawa sumber daya untuk menembak bundel.
+properties.orchard.battleabilityduration,Durasi Kemampuan {}s
+loadout.zoom,Zum Kamera
+level.tutorial.assessor.bundle.desc2,It will fly in the direction you aim until it dissolves.
+options.keybindings.rebinding.inputprocessor.switch,Press a new Button for this action…
+properties.converter.irontoiron,1 Besi untuk {} Besi
+options.keybindings.rebinding.cancel,Batal
+upgrades.keeper1powerdrill.title,Bor Listrik
+assignment.emergency.desc,The Keeper's Guild is in danger and needs emergency contributions. Send them quickly!
+multiplayer.host.crossplay.disabled,Crossplay Disabled
+properties.upgrade.gameover,Akhiri Ronde
+loadout.mode.secondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+telemetry.allow,Enable online services
+options.accessibility.vignette,Hilangkan Vignette
+options.game.tutorials,Tutorial
+properties.dome.autorepair,Perbaikan Kubah Otomatis
+upgrades.swordreflection3.title,Pantulan 3
+upgrades.drillsidepull.desc,Sumber daya yang ditambang akan dipindahkan melalui bor samping menuju pusat.
+upgrades.keeper2movement4.title,Torsi Penuh
+upgrades.shockwavestun1.desc,Tingkatkan kemampuan setrum dari gelombang kejut.
+assignment.condition.freegadget.singular,One additional starter gadget
+title.message.close,Tutup
+reward.rewardfreerolls2.title,Additional Reroll Offers
+upgrades.orchardbattleshieldstrong.title,Kanopi Tahan Lama
+upgrades.spirecapacity.title,Kapasitas
+upgrades.keeper2.title,Penilai
+upgrades.keeper2movement2.title,Penggerakan Gravitasi 2
+upgrades.furnacestrongironfiring.desc,Tingkatkan efektivitas pembakaran besi untuk menunda serangan monster.
+upgrades.keeper2pinballdamage3.title,Bola Kinetik 3
+upgrades.autocannondamage1.desc,Memperbesar ukuran peluru untuk kerusakan yang lebih besar.
+loadout.versusmod.versusmodifiermanycaverns.desc,The mine has many natural caves.
+options.game.other,Lainnya
+upgrades.drillsidespeed2.title,Kecepatan Bor 2
+upgrades.mushroomfarmdrill2.desc,Tingkatkan bonus tambahan tambang yang didapatkan dari konsumsi jamur.
+properties.autocannon.speed,Kecepatan Gerakan {}
+upgrades.keeper4flexible1.desc,"A flexible mining style that starts with moderate speed, but has lower peak strength."
+title.navbar.credits.close,Tutup
+level.furnace.popup.fuel.stack,Current stack:
+upgrades.shieldstrength3.title,Kekuatan 3
+upgrades.domesupplementresurrection2.title,Satu Kali Lagi
+upgrades.artilleryprojectileerasure.desc,Ledakan dari mortir anda melenyapkan semua proyektil dalam radius ledakan.
+level.gameover.assignment.completed,Selamat! Anda berhasil menyelesaikan misi yang diberikan. Guild Penjaga mengakui usaha anda.
+properties.tesla.radius,Radius Tembakan {}
+properties.keeper2.bundlespeed,Kecepatan Bundel {}
+keybindings.reset.show,Biar saya cek dulu
+options.input.controls.gamepadusage,Penggunaan Gamepad
+assignment.maze.title,Labirin
+upgrades.blastminingstickycharge.desc,Muatan peledak menempel pada dinding pertama yang mereka sentuh dan meledak membentuk terowongan daripada ledakan berbentuk lingkaran.
+properties.prestige.baseperwave,{} Prestise Basis per Gelombang
+level.gameover.mineview,Show Mine
+unlock.mapsize.medium,Menangkan putaran di peta kecil untuk membukanya.
+upgrades.teslanurture.desc,Memperkuat bola elektro yang ada dengan menembak lagi. Bola akan menjadi lebih besar dan akan bertahan lebih lama.
+upgrades.jetpackspeed1.desc,Meningkatkan paket jet untuk bergerak lebih cepat.
+upgrades.domearmormelee1.desc,Kurangi jumlah kerusakan yang diterima kubah dari serangan jarak dekat.
+loadout.prestige.friend.mode,Mode Ramah
+upgrades.domearmorhealth2.title,Daya Tahan Zirah 2
+properties.artillery.machinegundamage,Kerusakan Peluru {}
+upgrades.swordextendlong2.title,Tusuk Panjang 2
+upgrades.lasermove2.title,Kecepatan Bergerak 2
+upgrades.shieldstrength2.title,Kekuatan 2
+properties.keeper3.slidecontrol,{.percent} Slide Control
+reward.rewardpet11.desc,Unlock the water deer as a pet for your dome.
+properties.tesla.nurture,Perawatan Bola
+properties.lift.speed,Kecepatan Bola {}
+upgrades.lasermove2.desc,Lasernya bergerak jauh lebih cepat.
+loadout.mode.longtime,Siklus Panjang
+options.accessibility.highlightmonsters,Sorot Monster
+upgrades.furnacebasedelay.desc,Memperkuat efek memabukkan asap untuk dasar penundaan yang lebih besar.
+upgrades.doublelaser.desc,"Pasang menara laser kedua, tetapi membagi kekuatan tembakan di antara keduanya."
+properties.converter.ironwatertime,Jangka Waktu Konversi Besi ke Air (siklus) {}
+options.keybindings.rebinding.inputprocessor.xbox,Press a new Button for this action…
+title.message.title,Notice
+upgrades.jetpackspeed4.title,Kecepatan 4
+upgrades.drill2.desc,Mengkuatkan bornya untuk mengali lebih cepat.
+upgrades.extractorresources2.title,Cacing Telaten
+unlock.buy.keeperdlc.switch,Unlocked by downloadable content '%s'.
+level.tutorial.assessor.split.desc1,Hit|to split an incoming sphere.
+upgrades.keeper2pinballdamage1.desc,Perpanjang waktu pengisian ulang untuk meningkatkan kekuatan bola kinetik.
+upgrades.teleporterteleportduration2.desc,Menggunakan teleportasi akan memakan waktu lebih sedikit.
+level.tutorial.assessor.split.desc2,"You can split the spheres again, but they become a bit weaker each time."
+options.accessibility.backgrounds,Latar Belakang Sederhana
+assignment.weakwalls.desc,"Atmosfer korosif di planet ini mematikan untuk kubahmu dan para monster, jadi keduanya akan menerima lebih banyak kerusakan."
+multiplayer.error.disconnected,Disconnected from host.
+properties.autocannon.timebetweenshots,Waktu antar tembakan {}s
+upgrades.laserstrength1.desc,"Memperkuatkan daya lasermu, tapi itu akan bergerak lebih lambat jika sedang menembak."
+upgrades.artillerydirecthit4.desc,Tembakkan peluru yang khusus dirancang untuk menghancurkan bahkan monster terbesar.
+upgrades.teslapersistance3.title,Bola-bola Bertahan 3
+level.gameover.stats.timeplayed.unit,m
+level.tutorial.drillbot.sleeping3.switch,You can make it turn around by pressing | when it's awake.
+upgrades.autocannonshotgun1.desc,Menembakkan beberapa proyektil yang menjalar keluar.
+upgrades.probe.desc,"Tambahkan alat penguji ke pakaianmu yang, saat diaktifkan, mengirimkan detak getaran yang memperlihatkan sumber daya di sekitar. Harus diisi ulang di ruang kendali bawah kubah."
+upgrades.droneyardparasites.desc,Lepaskan pesawat tanpa awak yang menempel dan melemahkan monster paling kuat yang dapat mereka temukan. Monster tersebut kemudian akan menerima lebih banyak kerusakan dan terus-menerus tersetrum.
+properties.stunlaser.trackingInCooldown,Lacak Target di Waktu Jeda
+upgrades.domewavemeter.desc,Tampilkan waktu sampai ronde serangan musuh berikutnya.
+properties.sword.stabexplosive,Ujung Bomb Dipasang
+loadout.gadget,Perangkat Utama
+properties.stunlaser.areagrowthpermonster,Pertumbuhan Area per Monster {}
+upgrades.swordfastreflection.title,Pantulan Dipercepat
+level.tutorial.assessor.explode.desc1.switch,Press|to explode all spheres in your vicinity.
+reward.rewardkeeper3skin1.desc,Unlock a new keeper skin for the Infiltrator.
+properties.shockwave.stunstrength,Kekuatan Setrum {}
+upgrades.resourcepackercount1.title,Ukuran Bundel 1
+reward.rewardkeepersupplements.desc,Temukan upgrade suplemen yang sangat kuat untuk penjagamu.
+upgrades.spirestuntrap3.desc,Perangkap energi sekarang juga menyetrum monster.
+upgrades.lift.desc,Pasang lift otomatis yang mengangkat dan membawa sumber daya yang telah ditambang untuk diproses di dalam kubah.
+upgrades.orchard.title,Kebun
+pause.playerlist,Player List
+upgrades.keeper2bundle2.title,Panduan Bundel
+assignment.weakmining.desc,"Perkakas pertambangan milik penjaga rusak, jadi kamu harus mengandalkan alat-alatmu."
+upgrades.converter.title,Konverter Sumber Daya
+properties.repellent.battlemonstervulnerability,Kerusakan Tambahan pada Monster {.percent}
+level.gameover.revealresources,Ungkap Sumber Daya
+upgrades.jetpackstrength3.desc,Mempertajam paket jet untuk membawa lebih banyak sumber daya.
+options.input.controls.touch.fliphud,Flip HUD
+properties.keeper2.bundleguide,Panduan Jarak Kedekatan
+upgrades.furnaceironfiring.desc,Bakar besi di dalam pemanas untuk menunda serangan monster dalam waktu yang lebih lama.
+upgrades.swordlongblade2.desc,"Tambahkan kecepatan pedangnya lagi, membuat itu melambung ketika membentur ujung."
+options.input.controls.mouse.keepers,Gunakan Mouse untuk Keepers
+loadout.mode.domesupplements.desc,Dapatkan tiga kali lebih banyak suplemen dan lengkapi kubahmu dengan tiga slot suplemen.
+reward.rewardautomatedweapons.title,Automated Weapons
+versus.corruptionmonsterhealth.desc,The monsters will have much more health.
+upgrades.keeper3slidecontrol.desc,Gain increased control while sliding along walls.
+level.station.battle.navbar.shoot,Tembak
+options.keybindings.gamepad.xbox.view.xbox,View Button
+level.gameover.win.title,YOUR DOME IS SAVED
+upgrades.versusincreasewave1.title,Sabotage 1
+options.video.graphicsmode.borderlesswindow,Window tanpa Border
+properties.artillery.rotationspeed,Kecepatan Rotasi {}
+upgrades.probe.title,Penyelidik
+reward.rewardkeeper2skin5.desc,Unlock a new keeper skin for the Assessor.
+upgrades.artillerydirecthit4.title,Pembasmi Monster 4
+properties.keeper4.squadcount,Squad Count {}
+upgrades.keeper3kunaicooldown3.title,A Thousand Kunai
+upgrades.prospectionmeterrange2.desc,Meningkatkan lebih jauh jangkauan deteksi dari meteran tambang.
+level.gameover.unlock.mapsize,New map size unlocked!
+loadout.prestige.friend.desc,Mainkan prestise pada tingkat kesulitan yang lebih rendah dan bersaing dengan teman anda pada papan peringkat berbeda.
+upgrades.jetpackstrength4.title,Kekuatan Membawa 4
+options.input.controls.virtualjoystickopacity,Virtual Joystick Opacity
+upgrades.repellentovercharge.title,Pengusir Daya Berlebih
+upgrades.suitblastermaxcharge.desc,"Tingkatkan jumlah muatan yang dapat disimpan di dalam pakaian anda. Semakin banyak muatan yang siap, semakin cepat isi ulang muatan tambahan."
+upgrades.stationextensiontubemovement.desc,Masuk ke ruang stasiun dan dengan cepat pergi menuju kubah melalui tabung hampa udara. Hanya berfungsi saat bergerak ke atas.
+upgrades.domesupplementmeleedamagereduction1.title,Pengerasan Kubah
+upgrades.keeper4catgoblinsleeptime.desc,Reduces the duration of Catgoblins' naps.
+upgrades.prestigespeedup.desc,Singkatkan waktu sebelum ronde.
+upgrades.keeper3kunaicooldown1.title,Fast Throw
+upgrades.spire.title,Menara
+multiplayer.join.sessions,Sessions
+options.input.controls.keybindings,Tombol Pintasan
+multiplayer.host.crossplay.desc.xbox,Crossplay lets you play with friends on other platforms.
+upgrades.teslaorbs.desc,Tiap tembakan meninggalkan bola listrik yang menimbulkan kerusakan seiring waktu dan mengejutkan musuh.
+upgrades.prestigeiron.desc,Kirim balik besi. Meningkatkan seberapa banyak poin prestise yang kamu dapat setelah tiap gelombang.
+upgrades.keeper2pinballexplode.title,Ledakan Bola
+level.tutorial.assessor.split.desc1.switch,Press|to split an incoming sphere.
+properties.artillery.machinegunhoming,Roket Kendali
+upgrades.spirespeedup.desc,Mengurangi seling waktu antara setiap tembakan.
+level.tutorial.drillbot.handling1,Hold | to pick up Drillbert again.
+keybindings.reset.doreset.xbox,Reset my Button bindings
+level.tutorial.drillbot.handling2,Hit | to make it change direction while on the ground.
+upgrades.artillerysplash1.desc,Memperbaiki mortir anda untuk menembakkan peluru yang memiliki radius ledakan besar.
+upgrades.shockwave.desc,Pasang dua palu di kubah yang menciptakan gelombang kejut yang sangat kuat. Harus diaktifkan secara manual.
+options.game.blocklist.unblock,Unblock
+properties.drillbot.buffamount,Pengeboran Berenergi {} hit
+upgrades.teslaorbdamage.desc,"Bola-bola mengalirkan lebih banyak listrik, menyebabkan kerusakan yang lebih besar seiring waktu."
+loadout.versusmod.versusmodifierconcentratediron.desc,Iron deposits are sparse but very large.
+upgrades.keeper4squad2.title,Large Squad
+upgrades.keeper4flexible1.title,Agility
+upgrades.swordreflection3.desc,Ukuran perisai maks.
+unlock.prestige.promode,Buka dengan memenangkan satu putaran dengan skor prestise minimal 1000.
+loadout.mapsize.huge,Sangat Besar
+upgrades.artillerymachinegunhoming1.desc,Mengganti peluru dengan roket pintar yang secara otomatis mengarahkan diri ke arah monster.
+upgrades.repellentovercharge.desc,"Gunakan air untuk memberikan daya berlebih untuk pembasmi anda, meningkatkan kemampuan pembasmi bertempur."
+loadout.prestige.pro.caveorder,Urutan Gua
+upgrades.spiresplit2.title,Pembelah Cepat
+properties.laser.bend,laser mengarah otomatis {}°
+modding.modio.ugcterms.link1,Terms of Use
+upgrades.drillmagnetic.title,Pelindung Magnetik
+assignment.condition.deliveremergency,Fulfill %d emergency deliveries
+modding.modio.ugcterms.link2,Privacy Policy
+assignment.denseiron.desc,"Besi di planet ini sangat padat, sehingga sulit ditambang."
+level.station.upgrademenu.inventory,Persediaan
+upgrades.repellentbattleslowdownstun1.desc,"Gunakan spora yang mudah meledak di dalam kabut untuk menyetrum monster, menghentikan mereka untuk waktu sejenak."
+upgrades.spirestuntrap2.title,Perangkap Katalis
+properties.keeper2.explodespheresradius,Radius ledakan (ubin) {}
+loadout.prestige.cobalt,Kobalt Tetap
+upgrades.spireautonomy1.title,Otonomi
+upgrades.suitblastermaxcharge.title,Muatan Lebih Banyak
+upgrades.stunlaserspeed2.desc,Laser setrum bergerak jauh lebih cepat dan tetap melacak monster ketika pendinginan.
+properties.suitblaster.maxcharge,Muatan Maksimum {}
+upgrades.prospectionmetergadget.desc,Tampilkan jarak ke ruangan terdekat dan meningkatkan jangkauan lebih besar lagi.
+properties.spire.rechargetime,Jangka waktu Isi Ulang {}s
+assignment.monstermasses.desc,Planet ini dipenuhi sejumlah besar monster tingkat rendah.
+telemetry.title.ps5,End-User License Agreement
+properties.condenser.autoovercharge,Daya Berlebih Otomatis
+assignment.rareiron.desc,Planet ini mengandung terlalu sedikit besi untuk operasi penambangan normal.
+level.converter.popup.title,Convert Resources
+upgrades.chainsaw.desc,"Pasang gergaji bundar yang berjalan sepanjang kupola kubah, memberikan kerusakan pada monster di sekitar."
+versus.inventory.title,Other team info
+loadout.versusmod.versusmodifiernorelics.desc,The mine has no relics.
+level.gameover.stats.wavessurvived,Waves Survived
+upgrades.stunlaserduration1.title,Stamina Menembak 1
+upgrades.resourcepackercount1.desc,Tingkatkan seberapa banyak sumber daya yang dapat di kemas menjadi satu bundel.
+level.tutorial.teleporter.carry3.switch,"If you press |, you will teleport back."
+gadget.slot.domesurface,Permukaan Kubah
+upgrades.converterirontocobalt.title,Kobalt Konversi
+options.audio.music.ost.mode.desc,Setiap Keeper memiliki soundtrack uniknya masing-masing. Kamu bisa mengubahnya saat dimainkan.
+assignment.condition.deliversand,Antarkan %d kobalt
+options.accessibility.photosensitivity.explanation,Kurangi kerlipan cahaya.
+upgrades.keeper2bundle4.desc,Paket sumber daya bergerak lebih cepat dan tetap bersama lebih lama.
+upgrades.domesupplementmeleedamagereduction2.title,Pengerasan Intens
+upgrades.keeper2bundle1.title,Penanda Tengah
+upgrades.repellentbattleslowdown.desc,Semprot kabut mati rasa selama pertempuran yang akan memperlambat semua monster.
+options.game.splitscreenfontscale,Show larger Text in Splitscreen
+upgrades.blastminingimpactdetonation.title,Dampak Detonasi
+loadout.relichunt.title,Pilih Skenario
+upgrades.assignmentsemergencycontribution2.title,Emergency Contribution 4
+upgrades.stunlaserspeed1.desc,Laser setrum bergerak lebih cepat.
+upgrades.keeper2movement2.desc,Meningkatkan generator gravitasi anda untuk bergerak lebih cepat.
+loadout.prestige.pro.customorder,Urutan Khusus
+options.translation.community.desc.seavenplatforms,These languages are translated by our lovely community on Crowdin.
+properties.shield.battledestructionprevention,Durasi Tambahan {}s
+upgrades.spirespeedup.title,Peningkatan Pendinginan
+upgrades.shieldovercharge.title,Perisai Daya Berlebih
+level.tutorial.station.popup_4.switch,Then press | to enter battle mode and defend.
+pause.gamepadcontrols.drop,Jatuhkan
+options.accessibility.vignette.explanation,Hilangkan efek gelap pada vignette yang terlihat di tambang yang lebih dalam.
+upgrades.keeper4speed3.title,Kecepatan Bergerak 3
+title.navbar.splitscreen,Local Splitscreen
+upgrades.extractorquickextraction.title,Cacing Cepat
+pause.disconnect,Drop player
+properties.map.ironadditionalhealth,Kekerasan Besi Tambahan {}
+properties.keeper2.reflectlifetime,Masa Aktif Medan Pantulan {}s
+loadout.versusmod.versusmodifiersoftrock,Soft Rock
+upgrades.orchardovercharge2.title,Kelebihan Daya Meningkat
+upgrades.teleporterteleportitems.desc,"Teleportasi segala sesuatu yang anda bawa bersama, kecuali sumber daya dan objek ukuran besar."
+upgrades.shieldstrength2.desc,Tambahkan lebih banyak kerusakan yang perisai kubah bisa diserap.
+unlock.mapsize.large,Menangkan putaran di peta sedang untuk membukanya.
+upgrades.shieldoverchargestrength2.desc,Meningkatkan lebih jauh seberapa banyak kerusakan yang dapat diserap oleh perisai daya berlebih.
+properties.drill.extensionspeed,Kecepatan Perpanjangan Sisi {}
+properties.orchard.growthtime,Jangka Waktu Pertumbuhan (siklus) {}
+upgrades.drillbotbuff1.desc,Camilan muncul dari sarang di bawah kubah. Bawa camilan ke Drillbert yang akan dengan senang hati melahapnya untuk menambah energi.
+properties.repellent.battleslowdown,Perlambatan Monster {.percent}
+level.station.upgrademenu.buy,Buy
+keybindings.reset.title.switch,Button Bindings Reset
+title.navbar.multiplayer.join,Join Multiplayer
+multiplayer.host.crossplay.desc,"Crossplay lets you play with friends on other platforms. So for example, PC and console players can play together."
+properties.probe.range,Jarak (ubin) {}
+modding.modio.connectionfailed,Connection to mod.io failed!
+properties.dome.resurrectcharges,Kebangkitan Kembali yang Tersisa {}
+upgrades.mushroomstack.title,Tumpukan Jamur
+multiplayer.error.lobby.join,Failed to join the lobby.
+pause.title,JEDA
+level.furnace.popup.fuel.cycles,Remaining cycles: {cycles}
+level.gameover.unlock.gamemodevariant,New Game Mode Variant
+upgrades.keeper2movement3.title,Penggerakan Gravitasi 3
+upgrades.keeper3kunaicooldown2.desc,Throw Kunais more quickly.
+upgrades.repellentbattledamageovertime.title,Uap Beracun
+reward.rewardfreerolls1.title,Reroll Offers
+assignment.superhardrockwithholes.title,Keju Swiss
+modding.restartneeded,Kamu harus restart gamenya agar mod dapat berjalan dengan baik.
+upgrades.versusshowinventory.title,Inventory Spy
+level.tutorial.assessor.carry.desc1,Hold|to pull in resources until they are locked onto you.
+level.tutorial.assessor.carry.desc2,Hit|to shoot them as a bundle in the direction in which you are facing.
+demo.unavailable,Tidak tersedia di Demo
+assignment.harmfuliron.desc,"The planet's iron is dangerously reactive, damaging your dome when shredded."
+upgrades.keeper4flexible4.title,Agility 4
+properties.dome.reducedhealth,Nyawa Hilang {}hp
+upgrades.keeper4catgoblinamount.desc,Breed more Catgoblins to help with your mission.
+properties.keeper2.spherebasedamage,Kerusakan Dasar Bola {}
+level.gameover.showimages,Open
+properties.keeper4.maxpunchdelay,Slowest Punch {}s
+upgrades.converterironduplication.desc,Mengubah beberapa besi menjadi lebih banyak besi.
+upgrades.liftorbless.title,Lift Gravitasi
+upgrades.artilleryshotstun.desc,Menembakkan mortir begitu kuat sehingga monster di sekitarnya menjadi terdiam untuk sementara waktu.
+upgrades.keeper4squadsmarts.title,Smart Excavation
+options.video.graphicsmode.enablevsync,Izinkan VSync
+upgrades.repellentdelay3.desc,Tambahkan lebih banyak waktu yang di tunda untuk gelombang monster berikutnya.
+properties.spire.splitshotground,Pembagian 360°
+upgrades.autocannonrateoffire3.desc,Memaksimalkan laju tembakan.
+upgrades.furnacebasedelay.title,Asap Memabukkan
+properties.sword.stabcooldown,Perpanjang Waktu Jeda {}s
+upgrades.resourcepacker.title,Penyusun Sumber Daya
+properties.probe.permanentrevealrock,Batuan Terungkap Secara Permanen
+upgrades.prestigeprovoke.title,Provokasi Monster
+loadout.hint.teams,Each team needs at least one player!
+upgrades.proberange1.title,Jarak Menengah
+upgrades.condenserautocollect.desc,"Otomatisasi pengumpulan air, sehingga anda tidak perlu mengambilnya secara manual."
+title.navbar.continue,Lanjutkan
+upgrades.drillbotbuffguidance.title,Mencari Camilan
+options.video.stretchmode.rezised,Resized
+upgrades.shieldbattlereflectspeed.desc,"Proyektil yang dipantulkan akan terbang kembali dengan kecepatan lebih tinggi, meningkatkan peluang untuk mengenai penyerang."
+properties.keeper2.spherebaselifetime,Masa Aktif Bola {}s
+properties.resourcepacker.packscale,Skala Penciutan {.percent}
+properties.chainsaw.speed,Kecepatan Bergerak {}
+properties.probe.rechargetime,Jangka waktu Isi Ulang (siklus) {}
+upgrades.blastminingblast1.title,Ledakan 1
+upgrades.liftcarrykeeper1.title,Lift Pribadi 1
+loadout.versusmod.versusmodifierlongcycles,Siklus Panjang
+options.keybindings.action.dome.secondary,Skill Kedua
+upgrades.extractor.title,Cacing Besi
+level.tutorial.assessor.reflect.desc2,Incoming spheres will be reflected. It will also power them up.
+options.keybindings.keyboard,Keyboard
+level.tutorial.assessor.reflect.desc1,Hit|to toggle a reflective field around you.
+level.tutorial.beastmaster.move,Movement
+level.gameover.automove,Automatic Camera
+upgrades.keeper4punch4.title,Frenzy 4
+properties.shockwave.damagemod,Kerusakan Tambahan {.percent}
+upgrades.drillbotsleepless.desc,Drillbert akan bekerja jauh lebih lama sebelum mengantuk.
+upgrades.keeper2pinballexplode.desc,"Ledakan setiap bola di sekitar anda, sehingga melepaskan energi kinetik yang tersimpan."
+reward.rewardpermanentwavemeter.title,Hostile Proximity Meter Permanen
+upgrades.keeper3shurikencooldown1.desc,Reduces the Shuriken cooldown even further.
+upgrades.droneyard.title,Lapangan Pesawat Tanpa Awak
+level.gameover.unlock.promode,Prestige pro settings unlocked!
+upgrades.swordextendlong2.desc,Meningkatkan lebih jauh kekuatan tusuk dan kendali lebih akurat saat di udara.
+upgrades.drillbotturnaround.desc,"Ketika bertemu dengan dinding yang tidak bisa dihancurkan, Drillbert akan berputar arah daripada tidur."
+loadout.prestige.fairness.desc,"Kami senang melihat anda, para pemain prestise, bersaing untuk mendapatkan skor tertinggi dan menemukan strategi yang paling baik. Kami ingin menjaga kompetisi ini tetap adil dan menyenangkan, jadi penting agar semua orang bermain dengan syarat yang sama.
+
+Harap dipahami bahwa permainan anda mungkin akan dianggap tidak sah atau dihapus jika anda terlihat menggunakan alat curang atau eksploitasi. Kami mendefinisikan eksploitasi sebagai segala sesuatu yang memberi anda keuntungan nyata dalam permainan prestise anda yang tidak dimaksudkan dengan cara bermain normal. Ini termasuk hal-hal seperti pengeditan atau peninjauan simpanan permainan, pemuatan berlebihan, penggunaan mod yang tidak disetujui, atau penggunaan bug secara sengaja dan berulang. Anda mungkin akan dilarang secara permanen dari bersaing di papan peringkat biasa jika permainan Anda tampaknya menggunakan alat curang atau eksploitasi secara signifikan.
+
+Jika anda tidak yakin apakah sesuatu dianggap ilegal, silakan tanyakan di Discord kami atau melalui e-mail di dome@bippinbits.com. Anda selalu dapat mengajukan banding kepada kami jika anda ditandai secara tidak tepat.
+
+Selamat bersenang-senang!"
+assignment.emergency.title,Emergency
+upgrades.droneyardbattlegridlong2.title,Gerombolan Pesawat Tanpa Awak
+properties.repellent.battleuses,Penggunan setiap Pertempuran {}
+loadout.difficulty.easy,Sulit
+level.tutorial.mineraltree1,"You just found a mineral tree seed. It can grow into a tree which sends its roots into tiles. It will grow resources depending on the resources of the rooted tiles.
+Drop it on a tile to plant the seed."
+options.keybindings.action.keeper.pickup,Mengambil
+gadget.slot.domebackside,Dome Backside
+assignment.megacreeps.desc,This planet is roamed by the largest and strongest monsters only.
+options.keybindings.rebinding.error.gamepad.switch,Cannot set this as a Controller input.
+modding.profile.new,Profil Baru
+upgrades.suitblasterspeed2.desc,Meningkatkan seberapa cepat pakaian mengisi ulang tembakan.
+properties.domearmor.pulsedamagethreshold,Ambang Batas Kerusakan Pulse {}
+options.game.autopause,Pause Game Saat Tidak Fokus
+savegame.wiped.desc,"All your save files are corrupted, possibly due to a system crash during saving. Unable to restore progress.
+Check if you can restore your save via cloud storage. Otherwise your progress is permanently lost."
+properties.shield.maxstrength,Kekuatan {}hp
+level.tutorial.ninja.rope.desc1,Hold| to shoot your rope in the direction you are aiming with your %s.
+level.gameover.unlock.gadgetability,Kemampuan Bertempur Perangkat Baru
+level.tutorial.ninja.rope.desc2,Hold| to jump.
+upgrades.repellent.desc,"Pasang tangki yang memproduksi alat pengusir monster. Aktifkan untuk menyemprot di luar kubah, menunda gelombang serangan berikutnya."
+modding.modio.report,Report Mod
+properties.artillery.directhitdamage,Kerusakan Tepat Sasaran {.percent}
+upgrades.spireprojectileslowdown.title,Perlambatan Proyektil
+properties.keeper2.bundleduration,Masa Aktif Bundel {}s
+upgrades.domesandrepair.title,Perbaikan Kobalt
+upgrades.assignmentsemergencycontribution3.desc,Send this package before the 7th wave ends or fail this assignment.
+upgrades.stunlaserduration3.title,Stamina Menembak 3
+properties.orchard.battleshields,Lapisan Perisai {}
+options.video.brightness,Brightness
+demo.end.misc1,Mode prestise kompetitif dengan 4 variasi mode
+upgrades.droneyarddrones.desc,Rakit satu pesawat tanpa awak tambahan untuk mengangkut sumber daya.
+demo.end.misc3,Lebih banyak peralatan primer
+options.game,Game
+loadout.mode.longtime.desc,"Anda memiliki dua kali lebih banyak waktu antara setiap gelombang, tetapi gelombang akan lebih kuat."
+demo.end.misc2,Banyak tugas menantang
+demo.end.misc5,Lebih banyak gua
+demo.end.misc4,Ukuran peta lebih besar
+upgrades.orchardduration2.title,Durasi 2
+reward.rewarddomesupplements.title,Suplemen Kubah
+demo.end.misc6,Lebih banyak monster
+upgrades.keeper2rotationalmining1.desc,Mengabaikan tingkat padat batuan dan tambang dengan kecepatan yang tetap.
+upgrades.droneyardbattlegridquick2.desc,"Lepaskan semua pesawat tanpa awak dengan sangat cepat, sehingga mereka siap pada awal pertempuran."
+loadout.choices.comingsoon,"Belum tersedia, tapi akan segera hadir."
+properties.keeper2.splitlifetime,Masa Aktif Pembelah Bola {.percent}
+options.input.controls.mouse.sword,Gunakan Mouse untuk Mengontrol Gerakan Pedang Dome
+level.tutorial.beastmaster.goblins.desc1,Hold| to punch a hole in the back wall for your Catgoblins to enter the mine.
+upgrades.drill3.desc,Mengkuatkan bornya untuk mengali lebih cepat.
+upgrades.jetpackstrength3.title,Kekuatan Membawa 3
+upgrades.laserstrength3.title,Daya 3
+level.tutorial.beastmaster.goblins.desc2,They will help by collecting the resources near the hole.
+upgrades.domesupplementresurrection1.title,Kebangkitan Kubah
+loadout.mapsize.small.description,Peta berukuran kecil untuk putaran lebih pendek.
+upgrades.proberange2.title,Jarak Jauh
+reward.rewardkeeper2skin5.title,Assessor Skin
+upgrades.jetpackspeed2.desc,Meningkatkan paket jet untuk bergerak lebih cepat.
+upgrades.artilleryrotation2.desc,Memutar mortir anda lebih cepat.
+upgrades.domesupplementcombatrepair3.title,Perbaikan Tempur Cepat
+reward.rewardkeeper4skin3.desc,Unlock a new keeper skin for the Beastmaster.
+multiplayer.host.splitscreen.desc.ps5,Use the wireless controllers in the loadout to spawn additional keepers. Up to four keepers can share one screen. Can be combined with online multiplayer.
+upgrades.keeper2pinballdamage2.desc,Meningkatkan waktu isi ulang lebih lama lagi untuk bola kinetik yang lebih kuat.
+level.tutorial.ninja.rope,Rope
+options.keybindings.rebinding.error.keyboard,Tidak dapat mengatur ini sebagai input keyboard.
+upgrades.domesupplementcombatrepair2.desc,"Perbaikan otomatis lebih kuat, memulihkan lebih banyak kesehatan struktural."
+properties.dome.autohealamount,Perbaikan {}hp
+properties.repellent.growthtime,Jangka Waktu Produksi (siklus) {}
+properties.keeper.domefuel,Tambah Bahan Bakar {}
+options.accessibility.critters,Hilangkan Kreatur Kecil
+level.tutorial.assessor.reflect.desc1.switch,Press|to toggle a reflective field around you.
+upgrades.probelongmarker2.title,Penanda Tahan Lama
+upgrades.converterefficientwater.title,Eficien Konversi Air
+upgrades.assignmentssendcobalt.title,Antarkan Kobalt
+properties.monsters.waveinterval,Waktu Antar Gelombang {}s
+options.keybindings.rebinding.error.gamepad,Tidak dapat mengatur ini sebagai input gamepad.
+options.input.gamepad.twinstick.ps5,Kontrol Twin-Stick
+properties.extractor.units,Cacing yang Dihasilkan {}
+loadout.mode.doubleiron.desc,Endapan besi lebih kaya.
+telemetry.title,Enable Online Multiplayer?
+multiplayer.host.local.desc,Players in your local network can join.
+properties.laser.dps,Kerusakan {}
+level.tutorial.assessor.spheres.desc1.switch,Press| to shoot a kinetic sphere in the direction in which you are facing.
+upgrades.spirecapacity.desc,Meningkatkan jumlah tembakan yang bisa digunakan sebelum harus isi ulang.
+upgrades.doublelaser.title,Dobel Laser
+options.keybindings.text,"Atur settingan kontrol sesuai keinginanmu.
+Kamu dapat mengatur tombol yang sama untuk kategori berbeda (misalnya, menggerakan keeper dan menggunakan senjata dome dengan menggunakan tombol yang sama.)"
+properties.repellent.battleabilityduration,Durasi Kemampuan {}s
+options.input.controls.keybindings.switch,Button Bindings
+options.keybindings.gamepad.xbox.menu,Start
+upgrades.shieldstrength1.title,Kekuatan 1
+properties.converter.watertoiron,1 Air untuk {} Besi
+upgrades.stunlaserstun2.title,Kekuatan Setrum 2
+upgrades.drillbotstrength2.desc,Tambahkan kekuatan mengali Drillbert.
+upgrades.dome1.title,Laser Kubah
+options.keybindings.rebinding.error.gamepad.xbox,Cannot set this as a Controller input.
+loadout.assignment.shop,Hadiah Guild Penjaga
+upgrades.orchardbattlerootingmore.desc,Menumbuhkan akar lebih banyak yang bertahan lebih lama.
+actionhint.cancel,Batalkan
+exhibition.level.instruction,Tekan apa saja untuk lanjut main!
+upgrades.converterefficientwater.desc,Meningkatkan proses konversi agar lebih efisien.
+upgrades.teslapower4.desc,Tingkatkan kekuatan tembakan tesla.
+properties.spire.splitshot,Proyektil yang Terbagi
+assignment.weakwalls.title,Risiko Tinggi
+title.navbar.quit,Keluar ke Desktop
+upgrades.autocannonrateoffire1.desc,Meningkatkan laju tembakan.
+upgrades.laserstrength3.desc,"Super-duper memperkuatkan daya lasermu, tapi itu akan hampir tidak bergerak jika sedang menembak."
+loadout.mode.automateddefense.desc,"Mulai dengan seluruh peralatan defensif dan otonomi peralatan, namun tanpa senjata utama. Biarkan kubahmu yang bekerja!"
+level.gameover.prestige.score.rankunchanged,No change in rank.
+properties.keeper2.directmininghardness,Pengaruh Kekerasan Batuan {.percent}
+level.gameover.retry,Start another run
+options.input.controls.keybindings.button.xbox,Change Button Bindings
+upgrades.keeper4autospawnminers.title,Eager Squad
+modding.modio.declined,Please accept conditions if you want to access mods
+upgrades.repellentoverchargeduration1.desc,Tingkatkan dampak dari pengisian daya berlebihan pada kemampuan bertempur.
+upgrades.assignmentsemergencycontribution5.title,Emergency Contribution 16
+upgrades.keeper2pinballdamage2.title,Bola Kinetik 2
+upgrades.teslaspeed3.desc,Arahan garis bidik bergerak lebih cepat.
+upgrades.domesupplementmeleedamagereduction2.desc,Perkuat kubahnya lebih lanjut untuk menerima lebih sedikit kerusakan akibat serangan jarak dekat.
+properties.extractor.processingtime,Durasi Ekstraksi {}s
+upgrades.keeper3.desc,A nimble keeper who moves swiftly using rope and skillful jumps. Mines by throwing explosive kunai.
+assignment.acidrain.title,Acid Rain
+upgrades.droneyardparasites3.desc,Tingkatkan lebih lanjut dampak melemahkan dari pesawat parasit tanpa awak anda.
+upgrades.domesupplementelectrifiedsurface1.desc,Tambahkan lapisan elektrik responsif pada lambung kubah yang melukai monster yang menyerang dengan jarak dekat.
+unlock.buy.keeperdlc.ps5,Unlocked by add-on '%s'.
+upgrades.keeper3shurikenstrength2.desc,Increase Shuriken explosion power even more.
+upgrades.teslapower3.title,Kekuatan Tembakan 3
+upgrades.stationextensionrevealdistance2.desc,Meningkatkan jarak di mana batuan dan sumber daya di sekitar ruang stasiun terungkap.
+upgrades.keeper3shurikencooldown2.title,Incessant Shuriken
+properties.orchard.buffduration,Durasi Peningkatan (siklus) {}
+loadout.prestige.provocation.description,"Provokasi monster untuk menghasilkan gelombang yang lebih kuat dan mendapatkan lebih banyak prestise. Pengganda berkurang setiap siklus, dan permainan berakhir jika nilai pengganda jatuh di bawah nol."
+level.tutorial.probe.popup_1,Kenai | untuk memancarkan detak alat uji.
+level.tutorial.repellent.popup_2,"When close to it, hit | to activate it."
+multiplayer.join.profile,Profile
+level.tutorial.probe.popup_3,"It reveals some of the nearby resources.
+Recharge back at the station."
+level.tutorial.repellent.popup_1,Your repellent is ready to delay the next wave.
+upgrades.keeper4ramping2.desc,"Increase your mining strength, peak speed, and momentum retention."
+options.game.kunaicarrierbeforegadgets,Throw Kunai Carrier before Gadgets
+properties.probe.permanentrevealresources,Sumber Daya Terungkap Secara Permanen
+upgrades.keeper2bundle4.title,Bundel Kuat
+options.audio.volumes.musicvolume,Music
+options.input.controls.useindividualsettings,Use individual keeper settings
+upgrades.keeper4squadsmarts.desc,Mining squads prioritize special tiles and tiles close to resources.
+upgrades.domesupplementscraprepair2.title,Restorasi
+upgrades.orchardduration3.desc,Efek postif dari buah menjadi lebih kuat dan bertahan lebih lama lagi.
+options.input.controls.touch,Touch
+level.gameover.keepgadget.none,None
+upgrades.stunlaserautonomy1.title,Otonomi
+upgrades.swordexplosivereflection.title,Pantulan Meledak
+upgrades.probelongmarker1.desc,"Tingkatkan modul memori pada alat penguji, yang akan memperlihatkan penanda lebih lama lagi."
+upgrades.resourcepackercharges.desc,Tingkatkan kapasitas muatan penyusun yang dapat anda simpan dalam pakaian Anda.
+options.keybindings.action.dome.fire,Tembak
+upgrades.drilladditionalsides.desc,Dapatkan lebih banyak bor samping dengan fungsi yang sama seperti yang pertama.
+loadout.difficulty.veryeasy.description,"Masih tidak mudah, tetapi lebih santai dibandingkan dengan tingkat kesulitan lainnya."
+properties.stunlaser.stunstrength,Kekuatan Setrum {}
+properties.resourcepacker.packcount,Ukuran Bundel {}
+upgrades.keeperonewayteleporter.title,Alat Teleportasi Satu Arah
+upgrades.keeper3kunaidamage4.title,Kunai Impact
+upgrades.drill4.title,Kekuatan Bor 4
+options.game.directionsnapping,Selaraskan Aim Keeper sesuai Arah Mata Angin
+upgrades.artillerymachinegun3.title,Tembak Cepat 2
+upgrades.stunlaserspeed2.title,Kecepatan 2
+properties.artillery.machinegunreloadspeed,Kecepatan Isi Ulang Peluru {}s
+options.game.screenshake,Getaran Layar
+upgrades.proberechargeafterbattle.desc,"Alat uji akan mengisi daya secara otomatis seiring waktu, menjadikan ruang pengisian daya tidak diperlukan lagi. Membebaskan celah ruang perangkat di ruang bawah tanah."
+upgrades.jetpackstrength2.title,Kekuatan Membawa 2
+loadout.versus.condition.irondelivery.title,Iron Delivery
+upgrades.teslaspeed4.desc,Arahan garis bidik bergerak lebih cepat.
+level.assignment.badges.toggle,Dapatkan medali dengan menyelesaikan misi. Gunakan medali tersebut untuk mendapatkan hadiah Guild Penjaga. Anda bisa menonaktifkan hadiah setelah membelinya jika anda ingin bermain tanpa hadiah tersebut.
+loadout.versus.wincondition,Win Condition
+upgrades.converterefficientwatershort.title,Perawatan Cepat
+properties.keeper2.directminingdamage,Kerusakan Penambangan Kompresi {}
+upgrades.assignmentssendiron.desc,"Antarkan besi ke Guild Keeper. Untuk menyelesaikan misi ini, kamu harus mengirimkan semua paket yang tersedia."
+upgrades.keeper3carrylimit1.title,Carry Capacity 1
+assignment.goaltype.survive,Bertahan hidup
+upgrades.shield.title,Perisai
+level.station.battle.navbar.stabspeedup,Stab Speedup
+upgrades.keeper3quadjump.desc,Perform up to three additional jumps while airborne.
+properties.laser.aimline,Garis Arahan
+properties.domearmor.pulsestunduration,Durasi Pulse {}s
+level.tutorial.assessor.carry.desc2.switch,Press|to shoot them as a bundle in the direction in which you are facing.
+level.tutorial.ninja.carry.desc1.switch,Press| to throw a kunai carrying resources in the direction you are aiming with your %s.
+upgrades.orchardovercharge.desc,"Gunakan air untuk memberikan daya berlebih untuk kebun anda, meningkatkan kemampuan bertempur kebun."
+upgrades.missile.abilityname,Misil
+upgrades.resourcepackercount2.desc,Tingkatkan seberapa banyak sumber daya yang dapat di kemas menjadi satu bundel.
+assignment.bigmapsparseresources.desc,"Sumber daya jarang dan tersebar di planet besar ini, tetapi batuannya sangat rapuh."
+properties.spire.stuntrap,Perangkap Energi
+playerlist.block,Block
+level.tutorial.sworddome.stabbing.desc,Launch the sword and stab distant enemies.
+properties.sword.sliceacceleration,Kecepatan Pedang {}
+loadout.team.join,Join
+assignment.weapondefect.desc,"Senjata utama kubahmu sudah hancur, jadi bertahanlah hidup dengan cara lain."
+upgrades.repellentbattlehealthreduction.title,Layu
+loadout.versusmod.versusmodifiertoughstart,Tough Start
+title.navbar.multiplayer,Multiplayer
+keybindings.reset.title.xbox,Button Bindings Reset
+upgrades.extractorquickextraction.desc,"Ubah cacing anda menjadi sangat aktif, sehingga dapat menggali gugusan besi jauh lebih cepat."
+upgrades.mushroomfarmquickgrowth.title,Pertumbuhan Cepat
+upgrades.repellentbattlehealthreduction.desc,"Melemahkan semua monster, menyebabkan mereka menerima lebih banyak kerusakan saat terkena serangan."
+loadout.versusmod.versusmodifierstrongmonsters,Healthy Monsters
+leaderboard.failed,Failed to load leaderboard.
+properties.sword.reflectprojectilesexplosive,Proyektil Energi yang Dipantulkan bersifat eksplosif
+level.station.navbar.upgrades,Upgrade
+upgrades.artillerymachinegun3.desc,Tingkatkan senjata anti udara anda.
+level.gameover.unlock.pet,New pet unlocked!
+upgrades.domesupplementelectrifiedsurface2.title,Lambung Listrik 2
+upgrades.keeper3shuriken2.desc,"Reduce the Shuriken cooldown, allowing you to throw them more frequently."
+upgrades.artillerysplash2.desc,Menembakkan dua peluru mortir secara cepat beruntun.
+loadout.mode.hud,HUD
+upgrades.keeper4flexible2.title,Agility 2
+upgrades.shieldbattlereflectshortuses.desc,Memantul lebih sering untuk waktu yang lebih singkat.
+upgrades.rocketlauncherdamage2.title,Misil Mematikan
+upgrades.domesupplementscraprepair1.title,Perbaikan Memo
+upgrades.keeper2bundle3.title,Pusat Gravitasi
+upgrades.keeper2bundle2.desc,Mengaktifkan kendali arah dari bundel yang jatuh pada jarak dekat.
+upgrades.keeper3shurikencooldown2.desc,Reduces the Shuriken cooldown even further.
+upgrades.suitblaster.title,Blaster Pakaian
+upgrades.prestigeiron.title,Kirim Besi
+properties.stunlaser.cooldown,Waktu Jeda {}s
+options.input.controls.keepersettings.desc,"Keepers use the global settings by default. You can override them here with individual settings per keeper. For example, you may want different snapping settings depending on the keeper or action."
+options.keybindings.action.keeper.gravityball,Tembak
+upgrades.liftorbs.desc,Pasang sebuah bola pengangkat tambahan.
+options.input.controls.mouse.gamepad,"Gamepad dapat otomatis dideteksi, maupun saat tidak lagi memakainya."
+properties.probe.detectchambers,Deteksi Ruangan
+landing.proceed.ps5,Tekan dimana saja untuk mulai
+upgrades.condenserautocollect.title,Pengkoleksi Otomatis
+multiplayer.error.hostcrossplaydisabled,Can't join lobby because host has crossplay disabled and is on a different platform.
+upgrades.repellent.title,Pengusir
+loadout.team.color,Team Color
+options.game.tutorials.resettutorials,Reset Tutorial
+options.accessibility.critters.explanation,"Hilangkan mahkluk seperti cacing, serangga, atau laba-laba yang muncul di pertambangan sebagai efek visual. (Tidak mempengaruhi gameplay)"
+upgrades.prospectionmeterrange1.desc,Meningkatkan jangkauan deteksi dari meteran tambang.
+upgrades.drillsidepull.title,Transportasi Mineral
+options.accessibility.highlightmonsters.explanation,Aktifkan garis tepi pada monster untuk visibilitas lebih baik.
+upgrades.keeper2bundle1.desc,Menampilkan penanda tepat di bawah kubah untuk menunjukkan tempat menembak bundel ke atas.
+upgrades.assignmentsemergencycontribution6.title,Emergency Contribution 20
+upgrades.keeper4ramping3.title,Momentum 3
+upgrades.swordblade1.desc,Meningkatkan kekuatan memotong dan kecepatan pedangmu.
+upgrades.probedetectchambers.title,Deteksi Ruangan
+loadout.mode.shortcycles,Short Cycles
+upgrades.proberange3.desc,Tingkatkan jarak alat penguji.
+upgrades.prestigespeedup.title,Singkatkan Ronde
+loadout.prestige.endless.description,Tidak ada batasan waktu atau sumber daya untuk putaran yang sangat panjang.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"Set the value so that the meter does not flicker when only touching the sticks, without pushing them.
+The meter should flicker when moving the stick."
+upgrades.blastminingblast3.title,Ledakan 3
+upgrades.swordextendlong1.desc,Meningkatkan kekuatan tusuk dan kemampuan untuk dipandu dalam penerbangan.
+properties.autocannon.rateoffire,Kecepatan Tembakan {.percent}
+upgrades.assignmentsemergencycontribution4.title,Emergency Contribution 11
+assignment.minorvision.desc,The dark shadows on this planet consume all light.
+options.audio.volumes,Volume
+unlock.host.locked.ps5,Host does not own the add-on '%s'.
+loadout.versusmod.versusmodifiershortcycles.desc,The time between monster waves is shorter.
+upgrades.keeper2pinballexplode2.title,Peningkatan Ledakan
+multiplayer.host.local,Local
+options.video.graphicsmode.fullscreen,Layar Penuh
+properties.keeper3.kunaidamage,Kunai Damage {}
+options.game.screenshake.shakewhenmining,Getar Saat Menambang
+upgrades.dome2.title,Kubah Pedang
+properties.autocannon.damage,Kerusakan Peluru {}
+loadout.mode.doubleiron,Massa Besi
+upgrades.keeper4punch1.title,Frenzy
+level.gameover.unlock.versus,Versus mode unlocked!
+upgrades.artillerydoublemachinegun.desc,Pasang laras kedua untuk senjata anti-udara pada kubah anda.
+level.converter.popup.conversion.time,over {time} cycles
+options.translation.title,PILIH BAHASA KAMU
+loadout.prestige.pro.title,Pengaturan khusus
+multiplayer.host.title,Host a multiplayer session
+properties.keeper4.movespeed,Kecepatan Bergerak {}
+options.input.gamepad.thumbstick.xbox,Stick
+upgrades.furnacelastingironfiring.title,Bahan Bakar Besi Tahan Lama
+upgrades.shieldoverchargestrength1.title,Kekuatan Perisai Daya Berlebih 1
+multiplayer.error.modsmismatched,Your modlist does not match the host. Unable to join.
+upgrades.laserhitprojectiles.desc,Mengkenakan proyektil energi dengan laser segera melarutkan mereka.
+upgrades.probepermanentrevealtiles.desc,Semua area yang ditelusuri oleh alat penguji terungkap secara permanen.
+options.keybindings.action.keeper.jump,Jump
+upgrades.repellentdelay2.title,Tunda 2
+upgrades.keeper3shuriken1.title,Shuriken
+upgrades.probelongmarker2.desc,Penanda sumber daya akan bertahan hingga banyak siklus berikutnya.
+properties.shockwave.stunduration,Durasi Setrum {}s
+level.tutorial.teleporter.teleport1.switch,"When close to the portal, press | to teleport back."
+options.game.alwaysshowping,Always show Server Ping
+loadout.choices.locked,Belum terbuka.
+upgrades.prospectionmetersand1.title,Pengukur Kobalt
+upgrades.drill2.title,Kekuatan Bor 2
+level.gameover.findimages,Saved to
+level.tutorial.resourcepacker.popup_1.switch,"When close to resources, press | to pack them into a compact bundle that is easier to transport."
+reward.rewardpostrunshowmonstercount.title,Statistik Pertempuran Tambahan
+upgrades.drill.title,Alat Bor
+upgrades.versusincreasewave1.desc,Permantently increase the monster wave strength for the other team.
+upgrades.swordstabfast1.desc,Menusuk lebih cepat dan lebih sering.
+properties.sword.slicebrake,Penurunan Kecepatan saat Iris {.percent}
+upgrades.lasermove3.desc,Gerakan laser maks.
+upgrades.prestigewatermultiplier.desc,Kirim balik air. Meningkatkan seberapa banyak poin prestise yang kamu dapat setelah tiap gelombang.
+upgrades.domesupplementresurrection1.desc,"Alih-alih hancur, kubah anda akan sembuh sepenuhnya dan menjadi kebal untuk beberapa waktu. Hanya dapat digunakan sekali."
+upgrades.swordextendlong3.title,Tusuk Panjang 3
+properties.repellent.wavedelay,Penundaan Gelombang (siklus) {}
+upgrades.domewavepathtodome.desc,"Saat peringatan ronde berbunyi, itu juga akan memberi petunjukkan jalan terdekat ke kubah kamu."
+level.tutorial.ninja.carry,Kunai Carrier
+upgrades.dome4.desc,Kubah canggih yang memanfaatkan kekuatan listrik hingga tingkat yang belum pernah terlihat sebelumnya.
+upgrades.prospectionmeterwater2.title,Kompas Air
+multiplayer.techtree.keeperexclusivegadget,This gadget applies to only your keeper.
+options.keybindings.action.dome,Dome
+upgrades.drillbotbuff1.title,Makanan
+versus.corruption.desc,Choose a corruption that will affect the monsters attacking the other team!
+upgrades.swordstabshoot.title,Javelin
+properties.dome.projectiledamagereduction,Pengurangan Kerusakan Proyektil {.percent}
+upgrades.drillbotbuffstrength2.desc,"Setelah mendapat makanan, Drillbert akan bekerja jauh lebih lama sebelum mengantuk."
+leaderboard.global,Global
+options.game.blocklist.unblockall,Unblock all
+upgrades.swordlongblade1.title,Pedang Panjang 1
+properties.mushroomfarm.drillbuff,Peningkatan Kekuatan Penambangan {}
+properties.spire.splitshotspeed,Kecepatan Tembakan Terpisah {}
+options.keybindings.action.dome.upgrade,Upgrade
+upgrades.teslaspeed3.title,Kecepatan Garis Bidik 3
+upgrades.domehealthmeter.title,Meter Nyawa
+properties.extractor.additionalresources,Sumber Daya Tambahan {} 
+upgrades.domesupplementcombatrepair3.desc,"Perbaikan otomatis terpicu lebih awal, setelah menerima lebih sedikit kerusakan."
+upgrades.furnacelastingironfiring.desc,Menjadikan setiap potongan besi bertahan lebih lama di pemanas.
+properties.dome.resurrectinvulnerability,Kekebalan setelah Bangkit Kembali {}s
+upgrades.assignmentssendwater.desc,"Deliver water to the Keeper's Guild. To succeed with the assignment, you need to send back all the available deliveries."
+options.game.autopickupresources,Automatically pick up Resources
+upgrades.repellentbattledamageovertime.desc,Semua monster mendapatkan sedikit kerusakan untuk setiap detik gas beracun bertahan.
+upgrades.artillerydirecthit3.desc,Tingkatkan potensi penghancuran dari peluru mortir anda.
+upgrades.domearmorprojectile1.title,Zirah Proyektil 1
+upgrades.keeper4catgoblindig3.desc,Catgoblins will destroy tiles while digging.
+upgrades.stunlaserarea.desc,Menciptakan ledakan setrum di sekitar target yang menyetrum semua monster di sekitarnya. Area tersebut membesar dan menyebabkan lebih banyak kerusakan semakin banyak monster di dalamnya.
+level.tutorial.teleporter.carry2,Hold | to pick up the portal again when close to it.
+level.tutorial.teleporter.carry3,"If you hit |, you will teleport back."
+upgrades.keeper2pinballreflect.title,Medan Pantulan
+upgrades.probepermanentrevealtiles.title,Ungkap Batuan
+loadout.versusmod.versusmodifierfastmonsters.desc,Monsters move faster.
+level.tutorial.teleporter.carry1,You can move the portal anywhere you want.
+level.tutorial.pickup.popup_1.switch,Press | to pick up a resource.
+options.input.gamepad.autoswitch,Deteksi Otomatis pada Gamepad Utama
+options.accessibility,Aksesibilitas
+upgrades.teslapersistance2.desc,Bola elektro lebih besar dan bertahan lebih lama.
+properties.sword.reflectionacceleration,Kecepatan Proyektil yang Dipantulkan {.percent}
+upgrades.artillerygrenadefastreload.title,Isi Ulang Cepat
+upgrades.keeper2pinballreflect.desc,Tempatkan medan pantulan tidak bergerak yang memantulkan bola kinetik. Bola akan sedikit diperkuat setelah setiap pantulan.
+options.keybindings.action.keeper,Keeper
+upgrades.drillbotbuffstrength1.desc,Makanan membuat Drillbert berernegi lebih lama.
+upgrades.versussendiron.desc,Deliver iron to the Keeper's Guild. Send back all available deliveries to achieve victory over the opposing team.
+upgrades.keeper2pinballmorespheres1.desc,Tingkatkan jumlah bola-bola kinetik yang dapat anda bawa.
+properties.rocketlauncher.rechargetime,Waktu untuk Mengisi Ulang {}s
+upgrades.domesupplementadditionalcellar.title,Ruang Bawah Tanah yang Dalam
+upgrades.blastminingstickycharge.title,Peledak Tempel Terarah
+level.tutorial.assessor.explode.desc1,Hit|to explode all spheres in your vicinity.
+upgrades.furnacestrongironfiring.title,Bahan Bakar Besi yang Ditingkatkan
+assignment.monstermasses.title,Massa Monster
+options.input.gamepad.gamepadstickdeadzone.switch,Stick Dead Zone
+properties.stunlaser.areastunstrength,Efisiensi Area Setrum {.percent}
+upgrades.dome1health2.desc,Tingkatkan secara permanen integritas struktural kubah anda.
+upgrades.probepermanentrevealresources.title,Ungkap Sumber Daya
+upgrades.swordfastreflection.desc,Proyektil yang di pantul akan terbang kembali lebih cepat.
+properties.autocannon.shotgun,Peluru Senapan Sebar {}
+loadout.difficulty.medium,Brutal
+multiplayer.join.joincodeinput,Enter join code
+properties.keeper4.maxspeedupatpunches,Fastest Speed After {} Punches
+properties.monstermodifiers.health,Nyawa Monster {.percent}
+loadout.versusmod.versusmodifierfastmonsters,Fast Monsters
+upgrades.shieldoverchargestrength1.desc,Meningkatkan seberapa banyak kerusakan yang dapat diserap oleh perisai daya berlebih.
+properties.probe.charges,Muatan {}
+reward.rewardthreechoicessupplement.title,Penawaran Tiga Suplemen
+upgrades.domesupplementscraprepair1.desc,Perbaiki kubah anda dengan cara kasar menggunakan besi. Mengurangi kesehatan struktural secara keseluruhan.
+level.tutorial.tesla.panel1content1,Move the reticle across the screen to aim.
+upgrades.shockwavebig.desc,Gelombang kejut menyebabkan kerusakan besar yang bahkan bisa memusnahkan beberapa monster yang lebih kuat.
+multiplayer.continue.allowmultiplayererror,Unable to continue online multiplayer because you don't have Enable Online Play checked in the options menu.
+loadout.hint.multiplayer.playerminimum,Need at least two players to start a multiplayer run.
+upgrades.artillerymachinegunhoming1.title,Roket Kendali 2
+upgrades.repellentbattleslowdownstun2.title,Kelumpuhan Kuat
+upgrades.shockwave.abilityname,Gelombang Kejut
+upgrades.jetpackspeed1.title,Kecepatan 1
+upgrades.teleporterteleportduration1.title,Durasi Teleportasi
+upgrades.autocannonrateoffire3.title,Senapan Mesin 3
+properties.monstermodifiers.totalrunweightmodifier,Pengganda Kekuatan Gelombang {.percent}
+upgrades.swordstabfast1.title,Tusukan Cepat 1
+upgrades.swordstabfast3.title,Tusukan Cepat 3
+properties.tesla.quickshotstrength,Tingkat Kekuatan Tembakan Cepat {.percent}
+upgrades.keeper2pinballdamage3.desc,Meningkatkan waktu isi ulang lebih lama lagi untuk bola kinetik yang lebih kuat.
+title.navbar.options,Opsi
+upgrades.domearmormelee2.desc,Kurangi jumlah kerusakan yang diterima kubah dari serangan jarak dekat.
+upgrades.shieldbattleelectroblast.title,Ledakan Elektro
+properties.spire.stuntrapradius,Radius {}
+options.audio.volumes.ambiencevolume,Ambience
+loadout.mode.drillbert.desc,Mulai dengan Drillbert dan 
+loadout.versus.team.closed,closed
+properties.keeper4.goblinnapduration,Catgoblin Nap Duration {}s
+properties.keeper2.reflectnexthitdamage,Kerusakan Tambahan pada Gempuran Berikutnya {.percent}
+upgrades.orchardbattlerootingmore.title,Akar yang Kuat
+multiplayer.error.connection,Failed to connect.
+keeperdlc.load.missing.ps5,"Cannot load save, it contains unavailable add-on content. Please ensure 'The Lost Keepers' add-on is available."
+level.tutorial.fruit.popup_2.switch,"When next to it, press | to consume it."
+loadout.versusmod.versusmodifierlittlecobalt,Cobalt Shortage
+reward.rewardpet12.desc,Unlock the dog as a pet for your dome.
+multiplayer.host.joincodelabel,Join Code
+upgrades.swordstabfast2.desc,Menusuk lebih cepat dan lebih sering.
+properties.dome.incomingdamagemodifier,Kerusakan Didapat {.percent}
+properties.sword.stabexplosivedamage,Kerusakan Bom {}
+properties.blastmining.bombs,Muatan Ledakan {}
+properties.resourcepacker.charges,Muatan {}
+upgrades.assignmentsemergencycontribution1.desc,Send this package before the 2nd wave ends or fail this assignment.
+properties.artillery.machinegunbarrels,Meriam Anti Udara {}
+properties.artillery.gunaimline,Penglihatan Laser
+upgrades.jetpackstrength4.desc,Mempertajam paket jet untuk membawa lebih banyak sumber daya.
+loadout.mode.nomonsters.desc,Mendarat pada dunia tanpa monster sama sekali.
+telemetry.eula,Read EULA
+upgrades.condenserspeed1.title,Kecepatan Produksi 1
+upgrades.mushroomstack.desc,"Tumpuk durasi setiap bonus tambahan, sehingga mendapatkan bonus tambahan yang lebih tahan lama dengan konsumsi banyak jamur."
+upgrades.keeper2pinballexplode2.desc,Tingkatkan kekuatan ledakan dari bola-bola kinetik.
+versus.message.disruption,The other team just strengthened your monster waves permanently.
+loadout.mode.strongmonsters.desc,Monsters will deal double damage.
+upgrades.tesla.desc,Memperkenalkan keajaiban listrik kepada apa pun yang ada di luar sana. Lebih baik diarahkan ke wajah. Dengan beberapa ribu volt.
+properties.drillbot.turnaround,Putar arah ketika menabrak dinding keras
+upgrades.keeper2movement3.desc,Meningkatkan generator gravitasi untuk bergerak paling cepat.
+level.tutorial.onewayteleporter2,Press|to place the portal. Press again to teleport back to it.
+upgrades.domearmormelee2.title,Zirah Serangan Jarak Dekat 2
+upgrades.drillbotbuffstrength2.title,Tambahan Taurin
+level.tutorial.onewayteleporter3,It recharges automatically.
+upgrades.keeper4extraresource.desc,Catgoblins will sometimes harvest an extra resource from a tile by carefully digging.
+upgrades.drillbotduo.desc,"Bawa Diggory dan Minerva, sepupu Drillbert, untuk membantu menambang. Dalam lingkungan menenangkan, mereka takkan ketakutan saat gelombang musuh dan terus menggali."
+properties.tesla.perfecttimingwindow,Rentang Waktu {}s
+loadout.mode.strongmonsters,Pemukul Berat
+pause.quittotitlescreen,Keluar ke Menu Utama
+properties.keeper3.shurikenstrength,Radius ledakan (ubin) {}
+telemetry.privacy,Informasi lainnya tentang praktik data kami dapat ditemukan di Kebijakan Privasi: http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,Misil-misil menjadi lebih mematikan.
+keybindings.reset.doreset,Reset tombol pintasan saya
+upgrades.keeper3carrylimit3.desc,Increase the number of resources you can haul on your Kunai carrier.
+upgrades.autocannondoublefirerate.desc,Meriam otomatis menembak lebih cepat. Mudah dan efektif.
+upgrades.autocannon.title,Meriam Otomatis
+upgrades.artillerymachinegunhoming2.title,Roket Kendali 2
+level.tutorial.assessor.carry.desc1_1.switch,"Once locked onto you, they will follow you even if you release the collect button."
+upgrades.swordlongblade1.desc,Pasang sebuah pedang lebih panjang dan lincah.
+loadout.team.players,Players
+level.tutorial.fullscreen.back,Kembali
+options.keybindings.action.keeper.rope,Fling Rope
+upgrades.mushroomfarm.title,Peternakan Jamur
+loadout.prestige.title,Pilih Variasi Prestise
+upgrades.prospectionmeterrange1.title,Jarak 1
+upgrades.keeper3doublejump.title,Double Jump
+upgrades.keeper3kunaibounce1.desc,"Display the Kunai's predicted bounce path and landing point. Each bounce reverberates through the stone, revealing nearby tiles."
+upgrades.repellentbattlelongerhealthreduction.title,Melayukan Intens
+loadout.versusmod.versusmodifierlittlewater,Water Shortage
+upgrades.mushroomfarmdrill1.title,Tambang Jamur 1
+loadout.versusmod.versusmodifierscatterediron,Scattered Iron
+level.converter.popup.conversion.convert,convert
+properties.droneyard.overchargebattledronecount,Pesawat Tempur Tanpa Awak Tambahan {.percent}
+reward.rewardfreerolls1.desc,One free reroll of the gadget or supplement choices per run.
+multiplayer.host.splitscreen,Enable Local Split Screen
+properties.converter.cobalttoiron,1 Kobalt untuk {} Besi
+loadout.mode.automateddefense,Pertahanan Otomatis
+options.input.gamepad.gamepadstickdeadzone.xbox,Stick Dead Zone
+level.converter.popup.explanation,Pick a resource conversion to start!
+upgrades.dome1health2.title,Nyawa 2
+upgrades.stunlaserduration3.desc,Laser setrum mendingin sangat cepat dan memiliki laju tembakan yang sangat lama.
+upgrades.assignmentsemergencycontribution5.desc,Send this package before the 16th wave ends or fail this assignment.
+pause.gamepadcontrols.use,Gunakan
+properties.spire.stunmonsters,Melumpuhkan Monster
+upgrades.assignmentssendcobalt.desc,"Kirimkan kobalt ke Perkumpulan Penjaga. Untuk dapat berhasil dalam tugas ini, anda perlu mengirimkan kembali semua pengiriman yang tersedia."
+upgrades.mushroomfarmspeed1.desc,Tingkatkan bonus tambahan kecepatan yang didapatkan dari konsumsi jamur.
+upgrades.keeper2pinballmorespheres1.title,Persediaan Bola
+upgrades.rocketlauncherrockets2.desc,Tingkatkan jumlah misil yang bisa anda tembak.
+options.keybindings.gamepad.xbox.menu.xbox,Menu Button
+upgrades.swordstabfast3.desc,Tusukan lebih cepat dan lebih sering.
+properties.shield.overchargestrength,Kekuatan Daya Berlebih {}hp
+upgrades.droneyarddronespeed1.desc,Tingkatkan kecepatan pesawat transportasi tanpa awak anda.
+upgrades.liftorbs.title,Bebola Tambahan
+properties.keeper3.carrylimit,Kunai Carrier Capacity {}
+options.video.graphicsmode.photosensitive,Mode Photosensitivity
+upgrades.keeper2pinballdamage1.title,Bola Kinetik 1
+reward.rewardkeeper3skin1.title,Infiltrator Skin
+level.tutorial.ninja.gadgetpickup.desc1,Gadgets are not automatically picked up.
+properties.converter.ironperwater,{} Besi untuk setiap Air
+properties.spire.capacity,Jumlah tembakan sebelum Pengisian Ulang {}
+level.tutorial.ninja.gadgetpickup.desc2,Hold| to pick up a gadget.
+loadout.versusmod.versusmodifierlittlewater.desc,The map contains minimal water deposits.
+upgrades.drillbotstrength3.desc,Tambahkan kekuatan mengali Drillbert.
+upgrades.spirestuntrap3.title,Perangkap Monster
+upgrades.shredgadgettocobalt.desc,Sobek alatnya dan dapatkan {amount} kobalt.
+upgrades.converterefficientcobalt.title,Eficien Konversi Kobalt
+options.input.vibration.strength.switch,Kekuatan Getaran
+properties.sword.reflectprojectiles,Pantulkan Proyektil Energi
+reward.rewardfreerolls2.desc,One additional free reroll of the gadget or supplement choices per run.
+level.tutorial.station.popup_2.switch,Move to the station and press | to enter it.
+upgrades.versus.desc,"Two domes, two teams, competing against each other until only one remains."
+upgrades.dome2.desc,"Kubah eksperimental dengan pedang kuat yang membutuhkan penguasaan, namun dapat dengan mudah mendominasi bahkan penyerang terkuat sekalipun."
+upgrades.drillmagnetic.desc,"Pelindung bor bawah bersifat seperti magnet, sehingga menjaga semua sumber daya yang ditambang tetap di tempat."
+assignment.harmfuliron.title,Hazardous Iron
+level.tutorial.sworddome.stabbing,Stab
+options.input.gamepad.icons,Ikon
+upgrades.shredgadgettoiron.desc,Sobek alatnya dan dapatkan {amount} besi.
+upgrades.assignmentsemergencycontribution6.desc,Send this package before the 20th wave ends or fail this assignment.
+properties.droneyard.battledroneshots,Tembakan per Pesawat Tanpa Awak {}
+level.gameover.lose.title,THE DOME IS LOST
+loadout.difficulty.title,Tingkat Kesulitan
+properties.artillery.maxrotation,Rotasi Maksimum {}°
+upgrades.shockwavestun2.desc,Tingkatkan kemampuan setrum dari gelombang kejut.
+unlock.host.locked,Host does not own the DLC '%s'.
+multiplayer.host.splitscreen.desc,Use gamepads in the loadout to spawn additional keepers. Up to four keepers can share one screen. Can be combined with local network or online multiplayer.
+telemetry.explanation,"For online multiplayer, connect to our service to discover other players and join their games, or host games on your side.
+This is optional and you are free to enable/disable this. Repeatedly connecting to a backend—even with an anonymous account—is relevant under GDPR.
+We don't collect your personal information and there is also no telemetry tracking your runs.
+If you don't enable online multiplayer, you can still play multiplayer on one device in splitscreen or on your local network.
+
+You can change this setting any time in the options."
+gadget.slot.supplement,Supplement
+upgrades.droneyardovercharge2.desc,"Pesawat tanpa awak menjadi lebih kuat setelah 
+pengisian daya berlebihan lapangan."
+level.furnace.popup.fuel.burn,Each|lasts for {cycles} cycles and delays the monsters by an additional {seconds} seconds.
+options.input.controls.nooptions,There are no individual %s settings for this keeper available.
+upgrades.versusshowinventory.desc,Allows you to see the other team's inventory when monitoring their dome.
+properties.keeper1.drillstrength,Kekuatan Bor {}
+upgrades.keeper1.desc,"Seorang yang terampil, profesional efisien dengan kemampuan menambang yang baik sekali."
+leaderboard.friends,Friends
+gadget.slot.activegadget,Secondary Combat Ability
+upgrades.keeper2.desc,Penambang canggih yang menggunakan energi kinetik eksperimental dan teknologi gravitasi.
+upgrades.keeper2pinballsplit2.title,Peningkatan Pembelahan
+upgrades.keeper2movement1.title,Penggerakan Gravitasi 1
+properties.keeper2.explodespheres,Bola-bola Meledak
+upgrades.keeper3kunaidamage4.desc,Increase the mining power of your kunai. Kunai are especially weak against very dense rock.
+upgrades.spireautonomy1.desc,Sebuah AI sederhana akan mengendalikan menara bahkan saat anda tidak berada di dalam ruang kendali.
+properties.droneyard.dronespeed,Kecepatan Pesawat Tanpa Awak {}
+upgrades.teslaquickshot.title,Tembakan Cepat
+assignment.megacreeps.title,Survival of the Fittest
+upgrades.shieldbattleactivateondepletion.title,Aktifkan saat Kehabisan
+versus.corruptionbigwave.title,Killer Wave
+upgrades.lasermove3.title,Kecepatan Bergerak 3
+upgrades.swordelectrified.title,Pedang Disetrum
+upgrades.artillerymachinegun1.title,Peningkatan Senjata Anti Udara
+level.tutorial.beastmaster.move.desc2,You can only move if there is something to grab onto.
+options.accessibility.fontsize.small,Kecil
+assignment.unpredictable.desc,"The planet's atmosphere is interfering with the dome's proximity meter, preventing enemy waves from being tracked."
+level.tutorial.beastmaster.move.desc1,Use the tentacles to move through the mine.
+upgrades.suitblasterdirectional.desc,"Saat bergerak ke arah tertentu, blaster pakaian akan meledak membentuk terowongan panjang. Ledakan melintang masih bisa dicapai dengan tidak bergerak saat memicu blaster baju besi."
+level.tutorial.teleporter.take1,Your teleporter has a station and a portal. You can teleport between them.
+options.audio.music.ost.mode.fixed.desc,"Putar musik dari Keeper soundtrack berikut, meski menggunakan Keeper yang berbeda."
+level.tutorial.teleporter.take2,Grab the Portal and place it where you like.
+level.gameover.assignment.failed,Anda gagal menyelesaikan misi Guild Penjaga.
+telemetry.manage,Disable online services
+modding.restart,Restart
+upgrades.orchardbattlerootingexplosion.title,Mangsa Peledak
+level.gameover.unlock.skin,Pakaian baru terbuka!
+upgrades.jetpackspeed3.desc,Meningkatkan paket jet untuk bergerak lebih cepat.
+upgrades.repellentoverchargeduration2.title,Kelebihan Daya Intens
+upgrades.prospectionmeterwater1.desc,Tampilkan jarak ke deposit air terdekat.
+loadout.prestige.miner.description,Fokus pada penambangan yang paling efisien di dunia tanpa monster. Bertahan selama 20 siklus.
+upgrades.shieldbattlereflect.desc,Picu kemampuan tempur aktif yang dapat memantulkan proyektil mendatang untuk sementara waktu.
+upgrades.stunlaserstun1.desc,Tingkatkan kekuatan sinar setrum.
+multiplayer.error.gameresolved,This match has already ended.
+upgrades.shieldbattlereflect.title,Pantulan
+options.audio.volumes.mastervolume,Master
+upgrades.keeper2pinballdamage4.title,Bola Kinetik 4
+leaderboard.loading,Loading...
+upgrades.droneyardparasites2.title,Pesawat Parasit Tanpa Awak 2
+playerlist.title,Player List
+upgrades.versusincreasewave2.desc,Permantently increase the monster wave strength for the other team.
+upgrades.rocketlauncher.title,Peluncur Misil
+upgrades.liftspeed1.title,Kecepatan
+upgrades.rocketlauncherrockets2.title,Rentetan 2
+level.tutorial.blastmining.popup_1,Ambil Muatan Ledak dan jatuhkan di tempat di mana anda ingin membersihkan batuan.
+upgrades.keeper3slidecontrol.title,Slide Control
+properties.furnace.wavedelay,Penundaan Dasar {}s
+upgrades.mushroomfarmspeed2.desc,Tingkatkan bonus tambahan kecepatan yang didapatkan dari konsumsi jamur.
+upgrades.dome3.title,Kubah Artileri
+properties.converter.ironirontime,Jangka Waktu Konversi Besi ke Besi (siklus) {}
+properties.laser.movespeed,Kecepatan Bergerak {}
+properties.stunlaser.damagepermonster,Kerusakan Area per Monster {}dps
+upgrades.stunlaser.title,Laser Setrum
+title.navbar.credits,Kredit
+upgrades.drillbotbuffstrength1.title,Makanan Bergizi
+level.tutorial.pickup.popup_1,Hit | to pick up a resource.
+level.tutorial.pickup.popup_3,Hold to pick up many.
+upgrades.blastminingtriple.title,Muatan Tiga Kali Lipat
+upgrades.prospectionmeterscandelay1.desc,Meningkatkan seberapa cepat pembaruan meterannya.
+upgrades.furnacelastingwaterfiring.desc,Membuat setiap satuan air bertahan lebih lama di pemanas.
+upgrades.versusincreasewave2.title,Sabotage 2
+upgrades.artillerymachinegun4.desc,Pasang laras senjata yang diperkuat yang dapat menangani tingkat tembakan ekstrim.
+upgrades.teslaspeed4.title,Kecepatan Garis Bidik 4
+upgrades.swordextendlong3.desc,Kekuatan dan durasi tusuk yang sangat besar.
+demo.end.title,Terima kasih sudah bermain demo ini!
+upgrades.stationextensiontubemovement.title,Lintas Tabung Hampa Udara
+upgrades.keeper4squad3.title,Massive Squad
+upgrades.orchardbattleshield.desc,Tanam kanopi tanaman rambat di kubahmu untuk melindungi kubah dari proyektil.
+properties.droneyard.battledronestrength,Efek Parasit {.percent}
+options.game.kunaicarriersnapping,Snap Kunai Carrier Aim to Cardinal Directions
+options.input.vibration.strength.xbox,Kekuatan Getaran
+upgrades.keeper2pinballspherelifetime.title,Masa Aktif Bola
+upgrades.furnace.title,Perapian
+upgrades.shockwavedamage1.title,Kerusakan Gelombang Kejut 1
+properties.orchard.drillbuff,Peningkatan Kekuatan Penambangan {}
+level.tutorial.station.popup_4,Kemudian kenai | untuk memasuki mode pertempuran dan bertahan.
+level.tutorial.teleporter_2,"Use the Teleporter Station to teleport to the Portal, and vice versa."
+level.tutorial.station.popup_2,Move to the station and hit | to enter it.
+pause.resumegame,Lanjutkan permainan
+actionhint.tap,Tekan
+level.tutorial.station.popup_1,Your dome is under attack!
+multiplayer.error.kicked,Kicked from the multiplayer session.
+telemetry.allow.ps5,Accept EULA
+landing.proceed.switch,Tekan dimana saja untuk mulai
+upgrades.condenserautoovercharge.title,Daya Berlebih Otomatis
+upgrades.keeper2pinballdestroyadjacenttiles.title,Benturan Berjenjang
+level.converter.popup.queue,Automatically Repeat Conversion
+loadout.abort,Batalkan
+loadout.versus.condition.deathmatch.title,Last Dome Standing
+upgrades.domearmorprojectile1.desc,Kurangi jumlah kerusakan yang diterima kubah dari serangan proyektil.
+options.keybindings.action.general.move,Gerak
+upgrades.keeper3kunaicooldown2.title,Rapid Throw
+upgrades.artilleryrotation2.title,Putaran Cepat
+loadout.gadget.additional.desc,Pilih satu perangkat tambahan!
+level.gameover.unlock.assignment,Assignments unlocked!
+upgrades.domesupplementprojectiledamagereduction1.desc,Tingkatkan defleksi kubah untuk mengurangi kerusakan proyektil. Kerusakan jarak dekat tidak terpengaruh.
+upgrades.blastminingproductiontime1.desc,Kurangi waktu di butuhkan untuk membuat sebuah peledak.
+upgrades.autocannonshotgun1.title,Senapan Sebar 1
+loadout.hint.loadout,Selesaikan peralatanmu!
+assignment.condition.deliveriron,Antarkan %d besi
+upgrades.drillbotduo.title,Teman Pemberani
+level.tutorial.assessor.carry.desc1_1.xbox,"Once locked onto you, they will follow you even if you release the collect button."
+multiplayer.error.nomods,No mods should be installed.
+options.input.controls.keybindings.xbox,Button Bindings
+upgrades.domearmorprojectile2.title,Zirah Proyektil 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"Set the value so that the meter does not flicker when only touching the sticks, without pushing them.
+The meter should flicker when moving the stick."
+upgrades.domesupplementcombatrepair2.title,Perbaikan Tempur Menyeluruh
+level.gadgetchoice.title,PILIH SATU PERANGKAT!
+properties.teleporter.slowdown,Perlambatan Angkutan {.percent}
+upgrades.teslaspeed1.title,Kecepatan Garis Bidik 1
+assignment.weapondefect.title,Senjata Catat
+properties.suitblaster.directionalexplosions,Ledakan Terarah
+options.translation.community.title,Komunitas Translator
+options.audio.music.ost.mode,Setelan Soundtrack
+upgrades.teleporterteleportresourcesback.title,Teleportasi Sumber Daya
+upgrades.orchardbattleshield.title,Kanopi Tanaman Rambat
+properties.drill.sides,Bor Samping {}
+upgrades.teslaorbstun.desc,Bola-bola elektro memberikan kejutan lebih tinggi.
+upgrades.repellentoverchargeduration2.desc,Tingkatkan dampak dari pengisian daya berlebihan pada kemampuan bertempur.
+properties.keeper2.totalspheres,Bola-bola {}
+options.keybindings.action.general.up,Atas
+pause.quit.popup,"Apakah anda yakin ingin keluar?
+Tekan lagi untuk konfirmasi.
+(Progres anda akan disimpan)"
+upgrades.drillbotduplicate.desc,"Drillbert dapat kembar mirip, Drilliam."
+properties.suitblaster.radius,Radius ledakan (ubin) {}
+assignment.bigmapsparseresources.title,Tanah Tandus
+upgrades.converterqueue.title,Konversi Otomatis
+multiplayer.error.otherprestigeplayerquit,The game was ended because your teammate left the game. Your game has been saved and you can continue the game by selecting multiplayer under the continue menu.
+level.tutorial.teleporter.teleport1,"When close to the portal, hit | to teleport back."
+level.tutorial.teleporter.teleport2,You can also teleport in the other direction.
+playerlist.report,Report
+upgrades.swordextendlong1.title,Tusuk Panjang 1
+upgrades.spiresplit3.desc,Proyektil yang terbelah dapat meledak dari sudut apa pun.
+upgrades.keeper3kunaicooldown3.desc,Throw Kunais more quickly.
+exhibition.title.press.anything,Tekan apa saja untuk main
+multiplayer.techtree.keeperexclusivesupplement,This supplement applies to only your keeper.
+options.input.gamepad.twinstick.xbox,Kontrol Twin-Stick
+gadget.slot.domesupplement,Dome Supplement
+loadout.mode.maze,Labirin
+upgrades.teleporter.title,Teleportasi
+properties.keeper4.holesquad,Mining Squad Size {}
+level.tutorial.fruit.popup_1,Your orchard just grew its first fruit.
+upgrades.teslatiming1.desc,Menghasilkan tembakan yang jauh lebih kuat dengan menembak tepat pada saat tesla diisi ulang.
+upgrades.converterefficientwaterlong.title,Perawatan Intensif
+level.tutorial.fruit.popup_2,"When next to it, hit | to consume it."
+unlock.buy.keeperdlc.xbox,Unlocked by add-on '%s'.
+upgrades.autocannonspeed1.desc,Oles gigi meriam dengan pelumas untuk meningkatkan kecepatan gerakan secara signifikan.
+upgrades.probepermanentrevealresources.desc,Sumber daya yang terdeteksi akan terungkap secara permanen daripada hanya diidentifikasi dengan tanda.
+properties.teleporter.teleportresourcescooldown,Waktu Tunggu Pemindahan Sumber Daya {}d
+upgrades.spire.desc,Sebuah Menara pertahanan yang menembak jatuhkan proyektil mendatang.
+reward.rewardkeepersupplements.title,Suplemen Penjaga
+upgrades.condenser.desc,Tambahkan mesin di bawah kubah yang secara perlahan menghasilkan air melalui kondensasi.
+upgrades.spiresplit3.title,Pembelah Tanah
+properties.drillbot.plantgrowthtime,Jangka Waktu Pertumbuhan Makanan Kecil (siklus) {}
+modding.modio.showdownloaded,Show Downloaded Mods
+upgrades.stunlaserspeed1.title,Kecepatan 1
+upgrades.resourcepackercharges.title,Muatan
+upgrades.swordblade1.title,Meningkatkan Potong
+loadout.versus.modifiers.desc,Choose modifiers for this run that will affect both your team and the other team. Modifiers are optional.
+options.keybindings.gamepad.xbox.view,Kembali
+options.accessibility.backgrounds.explanation,Ganti latar belakang di setiap dunia dengan sebuah warna terang untuk mengurangi derau visual pada pertarungan.
+upgrades.dome1health1.title,Nyawa 1
+loadout.prestige.pro.randomorder,Urutan Acak
+assignment.superhardrockwithholes.desc,Batuan sangat padat tetapi penuh dengan gua alami.
+upgrades.droneyardparasites.title,Drone Parasitik
+actionhint.hold,Tahan
+properties.spire.timebetweenshots,Waktu Penargetan {}s
+properties.game.cyclespeed,Kecepatan Siklus {.percent}
+upgrades.artillerydirecthit3.title,Pembasmi Monster 3
+loadout.mode.drillbert,Mode Drillbert
+upgrades.prestigecobalt.title,Kirim Kobalt
+upgrades.rocketlauncher.desc,Menembakkan misil yang mencari target monster. Harus diaktifkan secara manual.
+level.station.battle.navbar.exit,Exit
+options.game.events.enableseasonal,Izinkan Konten Musiman
+options.audio.music.ost.mode.fixed,Tetap
+assignment.ironcontribution.desc,Guild sangat membutuhkan besi dan meminta anda untuk mengantarkan besi dengan jumlah besar secepatnya.
+properties.rocketlauncher.damageperrocket,Kerusakan {}
+upgrades.keeper4.title,Beastmaster
+upgrades.laserbend.title,Pemutar Kepala Laser
+unlock.host.locked.switch,Host does not own the downloadable content '%s'.
+level.supplementchoice.reroll.free, (%s) Reroll
+loadout.versusmod.versusmodifierconcentratediron,Concentrated Iron
+options.keybindings.rebinding.apply,Terapkan
+properties.repellent.battledamageovertime,Monster menerima kerusakan {} per detik
+upgrades.repellentdelay1.title,Tunda 1
+upgrades.converterefficientwatershort.desc,Membuat proses konversi air menjadi lebih cepat.
+upgrades.domesupplementcombatrepair1.title,Perbaikan Tempur 1
+level.tutorial.sworddome.slicing,Slice
+properties.drillbot.scared,Takut monster
+title.navbar.updates.close,Tutup
+upgrades.condenserspeed2.desc,Mengurangi waktu diperlukan untuk mengembun satu air lebih jauh.
+upgrades.prospectionmeteriron2.desc,Tampilkan arah ke deposit besi terdekat.
+upgrades.keeper3carrylimit2.title,Carry Capacity 2
+loadout.versus.condition.irondelivery.desc,The team that delivers %s iron first wins.
+properties.mushroomfarm.speedbuffduration,Durasi Peningkatan Kecepatan {}s
+upgrades.keeper4punch1.desc,"Your tentacle mining slowly builds up enourmous strength, but resets when changing direction."
+exhibition.level.heading,Apakah kamu masih di sini?
+keeperdlc.load.missing.xbox,"Cannot load save, it contains unavailable add-on content. Please ensure 'The Lost Keepers' add-on is available."
+upgrades.domesupplementresurrection2.desc,Memberikan kebangkitan lagi.
+actionhint.release,Lepas
+level.gameover.stats.monsterskilled,Monsters Killed
+level.gameover.timelapse,Timelapse
+upgrades.drill4.desc,Mengkuatkan bornya untuk mengali lebih cepat.
+upgrades.prospectionmetersand1.desc,Tampilkan jarak ke deposit kobalt terdekat.
+assignment.instagip.desc,The monsters on this planet are unnaturally brutal. Their attacks deal devastating damage to your dome.
+landing.proceed.xbox,Tekan dimana saja untuk mulai
+upgrades.drillsides.desc,Tambahkan bor samping ke bor pusat yang dapat dipindahkan sesuai kebutuhan.
+properties.dome.meleedamagereduction,Pengurangan Kerusakan Serangan Jarak Dekat {.percent}
+options.keybindings.action.keeper.throw,Throw Kunai
+level.station.battle.navbar.artilleryflak,Senapan Mesin
+upgrades.teleporterlightweight.desc,Membawa portal hanya sedikit memperlambat anda.
+level.gameover.backtomainmenu,Kembali ke menu utama
+properties.sword.stabarrowhead,Menambah Ukuran Ujung Panah
+loadout.versus.team.open,open
+level.gameover.stats.mapsize,Ukuran Peta
+upgrades.domesupplementelectrifiedsurface2.desc,Tingkatkan jumlah kerusakan yang diterima monster saat mengenai kubah.
+upgrades.prestigecobalt.desc,Kirim balik kobalt. Meningkatkan seberapa banyak poin prestise yang kamu dapat setelah tiap gelombang.
+options.video.renderscale.reset,Atur Ulang
+options.keybindings.text.xbox,"Edit the control mapping to your liking.
+You can map the same Button across multiple categories (i.e. using the same buttons to move your keeper as well as the dome weapon.)"
+options.audio.music.frequency,Frekuensi (# ronde tanpa musik)
+upgrades.rocketlauncherrockets3.desc,Tingkatkan jumlah misil yang bisa anda tembak.
+options.input.controls.mouse.menus,Gunakan Mouse saat di Menu
+upgrades.artillerysplash4.title,Peluru Empat Kali Lipat
+upgrades.keeper4catgoblindig3.title,Frenzied Digging
+properties.keeper4.catgoblincount,Catgoblin Count {}
+loadout.mode.hud.desc,Mulai dengan HUD yang telah ditingkatkan sepenuhnya.
+upgrades.drillbotsleepless.title,Latihan Dasar
+assignment.maze.desc,"Planet ini memiliki peta seperti labirin, penuh dengan koridor dan struktur tak imbang."
+level.tutorial.drop.popup_2.switch,Press | to drop one. Hold to drop many.
+upgrades.artillerysplash2.title,Peluru Ganda
+loadout.select,Pilih
+level.gameover.prestige.uploading.failed,"Uploading failed, trying again..."
+level.assignment.badges.available,Lencana Tersedia: %d
+level.tutorial.beastmaster.goblins,Catgoblins
+properties.autocannon.spray,Semburan Peluru {.percent}
+upgrades.versusspycam.title,Spy Cam
+upgrades.shredgadgettoiron.title,Sobek ke Besi
+upgrades.teslapersistance3.desc,Bola elektro lebih besar dan bertahan lebih lama.
+upgrades.suitblasterspeed2.title,Kecepatan Pengisian 2
+properties.shield.battleuses,Penggunan setiap Pertempuran {}
+properties.prospectionmeter.range,Jarak (ubin) {}
+upgrades.droneyard.desc,Pasang lapangan untuk memproduksi pesawat tanpa awak yang digunakan dalam transportasi sumber daya dan pertempuran.
+upgrades.domearmorpulse.title,Detak Reaktif
+title.navbar.multiplayer.host,Host Multiplayer
+upgrades.spireburst.desc,"Menembak secara beruntun, secara efektif berthan terhadap serangan bersamaan."
+upgrades.domearmor.desc,"Pasang pelat pelindung yang kokoh pada kubah anda, sehingga lebih tahan lama."
+options.input.controls.mouse.gamepad.xbox,Switching to a Controller and back is automatically detected
+unlock.difficulty.hard,Menangkan putaran dengan tingkat kesulitan brutal untuk membukanya.
+versus.corruptionmonsterhealth.title,Healthy Monsters
+properties.probe.markerretention,Penyimpanan Penanda {}s
+loadout.hint.gamemodecompletion,Atur mode permainan anda sepenuhnya!
+upgrades.suitblasterdirectional.title,Muatan Terarah
+loadout.secondstage.cancel,Batalkan
+unlock.host.locked.xbox,Host does not own the add-on '%s'.
+loadout.versusmod.versusmodifiernorelics,No Relics
+upgrades.autocannondoublefirerate.title,Meriam Tembak Cepat
+upgrades.blastmining.desc,Menghasilkan muatan peledak untuk tambang peledak. Bawa ke dalam tambang dan lepaskan untuk meledakkan.
+upgrades.converterqueue.desc,"Setelah proses konversi selesai, sumber daya yang dihasilkan secara otomatis akan dikeluarkan dan proses konversi yang sama akan dimulai lagi, jika ada cukup sumber daya di stock persediaan."
+modding.modio.fetchsubscriptionsfailed,Error fetching mod.io subscriptions!
+upgrades.orchardbattleshieldsecondlayer.desc,Tumbuhkan lapisan baru tanaman rambat untuk kanopi.
+unlock.generic,Buka dengan memenangkan satu putaran.
+loadout.versusmod.versusmodifiersoftrock.desc,The map has more soft rock.
+upgrades.assignments.desc,Terima tantangan misi dari Guild Keepers dan buktikan kemampuanmu.
+properties.probe.autorecharge,Pengisian Ulang Otomatis
+assignment.instagip.title,Brutal Monsters
+upgrades.artillerysplash3.desc,Memperbaiki mortir anda untuk menembakkan peluru yang memiliki radius ledakan sangat besar.
+multiplayer.join.button,Join
+pause.gamepadcontrols.move,Gerak
+upgrades.condenserautoovercharge.desc,Jaga perangkat utama anda tetap berlebih daya secara permanen tanpa menggunakan air. Produksi air akan ditunda setelah pengisian daya berlebihan.
+multiplayer.continue.deviceselection.title,Choose your Keeper!
+upgrades.autocannonautonomy.desc,Meriam otomatis menyala aktif walaupun ketika anda tidak berada di dalam ruang kendali.
+upgrades.swordaimline.title,Garis Arahan
+multiplayer.join.joinfromcode,Join
+properties.artillery.rotationspeedwhilemachinegun,Kecepatan Rotasi ketika Menembak {.percent}
+level.tutorial.artillery.panel2header,Anti Air Gun
+level.gameover.keepgadget.title,Select a gadget to keep for your next run
+upgrades.domearmorprojectile2.desc,Kurangi jumlah kerusakan yang diterima kubah dari serangan proyektil.
+upgrades.shieldbattledestructionprevention.title,Pertahanan Terakhir
+upgrades.domeresourcecounters.desc,Menampilkan jumlah sumber daya yang disimpan saat ini dan secara otomatis memperbaiki kubah selama pertempuran menggunakan kobalt anda.
+upgrades.spirestuntrap1.title,Perangkap Energi
+upgrades.prospectionmeteriron2.title,Kompas Besi
+loadout.mode.hyperactive,Cepat dan Lemah
+upgrades.prospectionmeterwater2.desc,Tampilkan arah ke deposit air terdekat.
+options.video.stretchmode,Mode Luas
+level.gameover.prestige.title,PRESTIGE RUN FINISHED
+upgrades.droneyardovercharge1.title,Lapangan Daya Berlebih Pesawat Tanpa Awak
+level.station.navbar.exit,Exit
+upgrades.teslaorbdamage.title,Superkonduktivitas
+upgrades.proberechargeafterbattle.title,Alat Uji tanpa Kendali
+upgrades.assignmentssendwater.title,Deliver Water
+upgrades.probecharges.title,Muatan Alat Penguji
+pause.gamepadcontrols.pickup,Ambil
+upgrades.prospectionmeter.title,Meteran Tambang
+upgrades.condenserspeed2.title,Kecepatan Produksi 2
+loadout.mode.hyperactive.desc,"Monster bergerak lebih cepat, tetapi memiliki nyawa yang lebih sedikit."
+upgrades.teleporterlightweight.title,Portal Ringan
+versus.corruptionstunresistance.title,Stun Resistance
+loadout.versusmod.versusmodifierpoorirondeposits,Thin Iron Deposits
+level.gameover.prestige.uploading.finalfailed,Uploading new score failed. Sorry!
+modding.currentprofile,(Profil Saat Ini)
+upgrades.versussendiron.title,Antarkan Besi
+loadout.assignment.title,Pilih Misi Anda
+options.keybindings.rebinding,Atur Ulang Tombol
+upgrades.teslaspeed2.title,Kecepatan Garis Bidik 2
+level.tutorial.beastmaster.hole_1,Hold| to dig a hole in the back wall.
+level.tutorial.beastmaster.hole_2,"A catgoblin will soon emerge, connecting it to their tunnel system."
+upgrades.keeper3shurikenstrength2.title,Massive Shuriken
+upgrades.versusspycam.desc,Receive a new station which allows you to monitor the other team's dome.
+loadout.versusmod.versusmodifiershortcycles,Short Cycles
+options.accessibility.fontsize.large,Besar
+reward.rewardcentralmarker.desc,Tandai pusat tambang dengan garis vertikal.
+upgrades.shieldstrength3.desc,Tambahkan lebih banyak kerusakan yang perisai kubah bisa diserap.
+options.game.movementsnapping,Snap Movement to Cardinal Directions
+upgrades.laseraimline.title,Penglihatan Laser
+upgrades.converterironduplication.title,Pemurnian Besi
+upgrades.jetpackspeed4.desc,Meningkatkan paket jet untuk bergerak lebih cepat.
+options.keybindings.gamepad,Gamepad
+upgrades.teslapower1.title,Kekuatan Tembakan 1
+gadget.slot.mineshaft,Mine Shaft
+keybindings.reset.title,Reset Tombol Pintasan
+upgrades.autocannonrateoffire2.desc,Meningkatkan lebih cepat laju tembakan.
+multiplayer.join.localonly,Only searching for local games. Enable Online Multiplayer?
+upgrades.keeper3aerialmastery.title,Aerial Mastery
+upgrades.extractordestruction.desc,"Alih-alih layu di dalam terowongan mereka, cacing-cacing akan membuat batuan yang mereka gali runtuh, sehingga juga menghancurkan sebagian batuan di sekitarnya."
+properties.shield.battleabilityduration,Durasi Kemampuan {}s
+upgrades.keeper4squad3.desc,Increases the number of Catgoblins in the squad and their endurance.
+level.gameover.prestige.score.rankimproved,Anda meningkatkan pangkat anda ke {rank}.
+options.game.tutorials.noneunlocked,No tutorials unlocked.
+upgrades.droneyardparasites2.desc,Meningkatkan efektivitas pesawat parasit tanpa awak anda.
+loadout.prestige.provocation,Provokasi
+network.error.generic,Network error.
+options.game.ropesnapping,Snap Rope and Aim Indicator to Cardinal Directions
+upgrades.keeper4catgoblindig1.title,Catgoblin Digging
+level.gameover.manualmove,Manual Camera
+upgrades.domesupplementcombatrepair1.desc,Secara otomatis memperbaiki kubah satu kali selama pertempuran setelah menerima lebih dari jumlah kerusakan tertentu. Tidak mengkonsumsi kobalt.
+upgrades.prospectionmeterscandelay1.title,Peningkatan Kecepatan Penulusuran
+assignment.goaltype,Sasaran
+properties.keeper1.speedlosspercarry,Perlambatan saat Membawa {}
+upgrades.extractor.desc,Membiakkan cacing penggali mudah dibawa yang menempel pada gugusan besi dan secara efisien menggali sumber daya seiring waktu berjalan.
+unlock.mapsize.huge,Menangkan putaran di peta besar untuk membukanya.
+upgrades.liftcarrykeeper2.desc,Lift meningkatkan kecepatan anda lebih banyak lagi.
+loadout.mapsize.title,Ukuran Peta
+loadout.difficulty.hard,Anda yang meminta
+upgrades.rocketlauncherdamage1.title,Misil Ditingkatkan
+versus.corruptionfastmonsters.title,Swift Monsters
+multiplayer.host.online.desc,Players from around the world can join.
+upgrades.keeper4speed3.desc,Greatly increases movement speed.
+network.error.offline,The connection to the network has been lost. Please check your network connection.
+level.tutorial.ninja.carry.desc1_1,Resources are automatically picked up by walking over them.
+upgrades.resourcepackerconstant.desc,"Pengisian ulang hampir instan membuat penggunaan hampir tak terbatas, selain meningkatkan ukuran dan skala bundel."
+loadout.versusmod.versusmodifiersecondweapon.desc,Each team with more than one keeper starts with the second station's weapon unlocked.
+assignment.logistics.desc,The Keeper's Guild discovered abundant water on this planet and tasks you with handling the logistics.
+properties.shockwave.damage,Kerusakan {}
+pause.gamepadcontrols.back,Kembali

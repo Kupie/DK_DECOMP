@@ -1,0 +1,27 @@
+[gd_resource type="ShaderMaterial" load_steps=8 format=3 uid="uid://ch2r8fx68b31u"]
+
+[ext_resource type="Shader" path="res://content/map/chamber/relicswitch/NewCable/cable_segment_inactive.gdshader" id="1"]
+[ext_resource type="Texture2D" uid="uid://dr3w3wqou7j80" path="res://content/map/chamber/relicswitch/cable_glow_tex.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://bpixvaodk0csb" path="res://systems/style/palettes/palette_1_2.png" id="3"]
+
+[sub_resource type="Gradient" id="6"]
+interpolation_mode = 1
+offsets = PackedFloat32Array(0, 0.134935, 0.419593, 0.678373)
+colors = PackedColorArray(0.12549, 0.0705882, 0.313726, 1, 0, 0.203922, 0.313726, 1, 0.0313726, 0.301961, 0.313726, 1, 0.0627451, 0.356863, 0.313726, 1)
+
+[sub_resource type="GradientTexture2D" id="7"]
+gradient = SubResource("6")
+
+[sub_resource type="Gradient" id="Gradient_sb4mv"]
+offsets = PackedFloat32Array(0, 0.5, 1)
+colors = PackedColorArray(0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1)
+
+[sub_resource type="GradientTexture1D" id="GradientTexture1D_n0l3k"]
+gradient = SubResource("Gradient_sb4mv")
+
+[resource]
+shader = ExtResource("1")
+shader_parameter/palette = ExtResource("3")
+shader_parameter/gradient = SubResource("GradientTexture1D_n0l3k")
+shader_parameter/color = SubResource("7")
+shader_parameter/glow = ExtResource("2")

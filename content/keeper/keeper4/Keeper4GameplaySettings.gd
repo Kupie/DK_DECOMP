@@ -1,0 +1,89 @@
+extends Object
+class_name Keeper4GameplaySettings
+
+
+const MULTI_CARRY_ALL: bool = true
+const MAX_CARRY: int = 3
+
+
+const SPEED_BUFF_SCALE: float = 2.3
+
+
+const GRAVITY: float = 400.0
+const MAX_FALL_SPEED: float = 200.0
+const AIR_CONTROL_SPEED: float = 200.0
+const TENTACLE_MOVE_SPEED_SCALE: int = 8
+const TENTACLE_MOVE_SPEED_MAX: float = 1200.0
+const TENTACLE_LENGTH_CONSTRAINT_BUFFER: float = 5.0
+const MOVE_ACCELERATION: float = 3.0
+const MOVE_DECELERATION: float = 6.0
+const THROW_FORCE: = 250.0
+const THROW_MIN_GRAVITY_SCALE: = 0.2
+
+
+const MINING_SEARCH_MAX_DISTANCE: float = 50.0
+const MINING_TENTACLE_COUNT: int = 2
+const MINING_TRIGGER_TIME: float = 0.14
+
+
+const MINING_POSITION_SPEED_MULTIPLIER_MIN: float = 1.2
+const MINING_POSITION_SPEED_MULTIPLIER_MAX: float = 1.6
+const MINING_POSITION_OFFSET: float = 24.0
+const MINING_OSCILLATION_SPEED: float = 12.0
+const MINING_OSCILLATION_AMPLITUDE: float = 2.0
+const ALIGNMENT_THRESHOLD: float = 2.0
+
+
+const ATTACH_SPARK_COUNT: int = 1
+const ATTACH_DIRT_COUNT: int = 1
+const ATTACH_IMPULSE_MIN: float = 15.0
+const ATTACH_IMPULSE_MAX: float = 50.0
+const ATTACH_SCALE: float = 0.5
+
+const DETACH_SPARK_COUNT: int = 1
+const DETACH_DIRT_COUNT: int = 1
+const DETACH_IMPULSE_MIN: float = 10.0
+const DETACH_IMPULSE_MAX: float = 40.0
+const DETACH_SCALE: float = 0.35
+
+const METAL_ATTACH_SPARK_COUNT: int = 3
+const METAL_ATTACH_IMPULSE_MIN: float = 20.0
+const METAL_ATTACH_IMPULSE_MAX: float = 60.0
+const METAL_ATTACH_SCALE: float = 0.4
+
+const METAL_DETACH_SPARK_COUNT: int = 2
+const METAL_DETACH_IMPULSE_MIN: float = 15.0
+const METAL_DETACH_IMPULSE_MAX: float = 50.0
+const METAL_DETACH_SCALE: float = 0.3
+
+
+const HOLE_RADIUS: float = 5.0 * 24.0
+const HOLE_RADIUS_SQ: float = HOLE_RADIUS * HOLE_RADIUS
+const HOLE_TOTAL_PUNCHES: int = 6
+const HOLE_PUNCH_BASE_INTERVAL: float = 0.35
+const HOLE_SPAWN_PUNCH_DURATION: float = 0.25
+const HOLE_PUNCH_PITCH: float = 0.5
+const HOLE_PUNCH_HIT_PERCENT: float = 0.6
+const HOLE_CANCEL_DISTANCE: float = 24.0
+const HOLE_RETREAT_DISTANCE: float = 16.0
+const HOLE_RETREAT_TIMEOUT: float = 0.2
+const HOLE_VANISH_TIMEOUT: float = 300.0
+const HOLE_UNSTABLE_TIMEOUT: float = 1.0
+const HOLE_STABILITY_CHECK_INTERVAL: float = 2.0
+const HOLE_MIN_SCALE: float = 0.15
+const HOLE_MAX_SCALE: float = 0.7
+const HOLE_VINE_TILE_RANGE: int = int(HOLE_RADIUS / 24.0)
+const HOLE_STABILITY_HORIZONTAL_TILES: int = 2
+const SURFACE_PUNCH_SPEED_SCALE: float = 1.2
+
+
+const SQUAD_SPAWN_INTERVAL: float = 0.25
+const SQUAD_TRIGGER_KNOCK_COUNT: int = 3
+const SQUAD_TRIGGER_RANGE: float = 2.0 * 24.0
+const SQUAD_MINE_DAMAGE_PERCENT: float = 0.15
+const SQUAD_HOP_PAUSE: float = 0.3
+const SQUAD_HOP_PAUSE_VARIANCE: float = 0.2
+
+
+const GOBLIN_PAUSE_AFTER_GRAB: = Vector2(0.6, 1.0)
+const GOBLIN_WANDER_WAIT_AFTER_HOP: float = 1.0

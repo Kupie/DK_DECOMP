@@ -1,0 +1,229 @@
+[gd_scene load_steps=28 format=3 uid="uid://pe573jral4vx"]
+
+[ext_resource type="Script" path="res://content/gadgets/shockwave/ShockwaveHammer.gd" id="1"]
+[ext_resource type="Shader" path="res://content/gadgets/shockwave/shockwavehammer.gdshader" id="2"]
+[ext_resource type="Texture2D" uid="uid://ccqqc5rjgjkom" path="res://systems/style/palettes/index_palette.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://4ytqhv2xg533" path="res://content/gadgets/shockwave/shockhammer_sheet.png" id="4"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="5"]
+[ext_resource type="AudioStream" uid="uid://cevdmorhy25k1" path="res://content/sounds/Locations/Shockwave/Shockwave_init.wav" id="6"]
+[ext_resource type="AudioStream" uid="uid://ddbkcbaa451i5" path="res://content/sounds/Locations/Stunlaser/Activate.wav" id="7"]
+[ext_resource type="AudioStream" uid="uid://b8enpgmcuyjp4" path="res://content/sounds/Weapons/tesla/kill.wav" id="8"]
+[ext_resource type="AudioStream" uid="uid://ddt6mttwwpuy6" path="res://content/sounds/relic-pulse.wav" id="9"]
+[ext_resource type="Texture2D" uid="uid://c11xveshiyl1y" path="res://content/gadgets/teleporter/teleport_beam.png" id="10"]
+[ext_resource type="AudioStream" uid="uid://bfc40ookcufxt" path="res://content/sounds/Locations/Shockwave/Shockwave_End.wav" id="11"]
+
+[sub_resource type="Curve" id="Curve_os1os"]
+min_value = -1.0
+_data = [Vector2(0, -0.0137972), 0.0, 0.0, 0, 0, Vector2(0.899506, -0.161968), 0.203504, 0.203504, 0, 0, Vector2(1, 1), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_a42ac"]
+resource_local_to_scene = true
+shader = ExtResource("2")
+shader_parameter/flash_rate = 0.0
+shader_parameter/flash_magnitude = 0.0
+shader_parameter/palette = ExtResource("3")
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_avcnh"]
+resource_local_to_scene = true
+shader = ExtResource("2")
+shader_parameter/flash_rate = 0.0
+shader_parameter/flash_magnitude = 0.0
+shader_parameter/palette = ExtResource("3")
+
+[sub_resource type="AtlasTexture" id="57"]
+atlas = ExtResource("10")
+region = Rect2(192, 128, 64, 64)
+
+[sub_resource type="AtlasTexture" id="46"]
+atlas = ExtResource("10")
+region = Rect2(0, 0, 64, 64)
+
+[sub_resource type="AtlasTexture" id="47"]
+atlas = ExtResource("10")
+region = Rect2(64, 0, 64, 64)
+
+[sub_resource type="AtlasTexture" id="48"]
+atlas = ExtResource("10")
+region = Rect2(128, 0, 64, 64)
+
+[sub_resource type="AtlasTexture" id="49"]
+atlas = ExtResource("10")
+region = Rect2(192, 0, 64, 64)
+
+[sub_resource type="AtlasTexture" id="50"]
+atlas = ExtResource("10")
+region = Rect2(0, 64, 64, 64)
+
+[sub_resource type="AtlasTexture" id="51"]
+atlas = ExtResource("10")
+region = Rect2(64, 64, 64, 64)
+
+[sub_resource type="AtlasTexture" id="52"]
+atlas = ExtResource("10")
+region = Rect2(128, 64, 64, 64)
+
+[sub_resource type="AtlasTexture" id="53"]
+atlas = ExtResource("10")
+region = Rect2(192, 64, 64, 64)
+
+[sub_resource type="AtlasTexture" id="54"]
+atlas = ExtResource("10")
+region = Rect2(0, 128, 64, 64)
+
+[sub_resource type="AtlasTexture" id="55"]
+atlas = ExtResource("10")
+region = Rect2(64, 128, 64, 64)
+
+[sub_resource type="AtlasTexture" id="56"]
+atlas = ExtResource("10")
+region = Rect2(128, 128, 64, 64)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_u72p6"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("57")
+}, {
+"duration": 1.0,
+"texture": SubResource("46")
+}, {
+"duration": 1.0,
+"texture": SubResource("47")
+}, {
+"duration": 1.0,
+"texture": SubResource("48")
+}, {
+"duration": 1.0,
+"texture": SubResource("49")
+}, {
+"duration": 1.0,
+"texture": SubResource("50")
+}, {
+"duration": 1.0,
+"texture": SubResource("51")
+}, {
+"duration": 1.0,
+"texture": SubResource("52")
+}, {
+"duration": 1.0,
+"texture": SubResource("53")
+}, {
+"duration": 1.0,
+"texture": SubResource("54")
+}, {
+"duration": 1.0,
+"texture": SubResource("55")
+}, {
+"duration": 1.0,
+"texture": SubResource("56")
+}, {
+"duration": 1.0,
+"texture": SubResource("57")
+}],
+"loop": false,
+"name": &"default",
+"speed": 20.0
+}]
+
+[node name="ShockwaveHammer" type="Node2D" groups=["pauseL"]]
+z_index = -100
+script = ExtResource("1")
+crashCurve = SubResource("Curve_os1os")
+
+[node name="Sprite1" type="Sprite2D" parent="."]
+texture_filter = 1
+material = SubResource("ShaderMaterial_a42ac")
+texture = ExtResource("4")
+offset = Vector2(10, -5)
+flip_h = true
+vframes = 4
+
+[node name="Sprite2" type="Sprite2D" parent="."]
+texture_filter = 1
+material = SubResource("ShaderMaterial_avcnh")
+texture = ExtResource("4")
+offset = Vector2(-10, -5)
+vframes = 4
+
+[node name="ActivateSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("6")
+volume_db = -7.338
+pitch_scale = 1.96
+bus = &"World"
+
+[node name="Activate2Sound" parent="." instance=ExtResource("5")]
+stream = ExtResource("6")
+volume_db = 0.157
+pitch_scale = 1.12
+bus = &"World"
+
+[node name="Activate1Sound" parent="." instance=ExtResource("5")]
+stream = ExtResource("6")
+volume_db = -3.122
+pitch_scale = 1.73
+bus = &"World"
+
+[node name="StopSound" parent="." instance=ExtResource("5")]
+volume_db = -2.185
+pitch_scale = 1.35
+bus = &"World"
+streams = [ExtResource("7")]
+
+[node name="CannotFireSound" parent="." instance=ExtResource("5")]
+volume_db = -9.68
+pitch_scale = 1.35
+bus = &"World"
+randomVolume = 2.08165e-12
+randomPitch = 2.08165e-12
+streams = [ExtResource("7")]
+
+[node name="FireSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("8")
+volume_db = -7.338
+pitch_scale = 1.42
+bus = &"World"
+
+[node name="FireSound2" parent="FireSound" instance=ExtResource("5")]
+stream = ExtResource("9")
+volume_db = -2.185
+pitch_scale = 1.69
+bus = &"Weapon"
+
+[node name="Fire2Sound" parent="." instance=ExtResource("5")]
+stream = ExtResource("8")
+volume_db = -0.311
+pitch_scale = 0.95
+bus = &"World"
+
+[node name="FireSound2" parent="Fire2Sound" instance=ExtResource("5")]
+stream = ExtResource("9")
+volume_db = -2.185
+pitch_scale = 1.69
+bus = &"Weapon"
+
+[node name="Fire1Sound" parent="." instance=ExtResource("5")]
+stream = ExtResource("8")
+volume_db = -2.185
+pitch_scale = 1.35
+bus = &"World"
+
+[node name="FireSound2" parent="Fire1Sound" instance=ExtResource("5")]
+stream = ExtResource("9")
+volume_db = -2.185
+pitch_scale = 1.69
+bus = &"Weapon"
+
+[node name="ImpactFx" type="AnimatedSprite2D" parent="."]
+z_index = 1
+z_as_relative = false
+texture_filter = 1
+sprite_frames = SubResource("SpriteFrames_u72p6")
+frame = 12
+frame_progress = 1.0
+
+[node name="ReadySound" parent="." instance=ExtResource("5")]
+volume_db = 0.786
+pitch_scale = 1.35
+bus = &"Weapon"
+streams = [ExtResource("11")]

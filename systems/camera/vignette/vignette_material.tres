@@ -1,0 +1,18 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://cjyx824tokjtf"]
+
+[ext_resource type="Shader" path="res://systems/camera/vignette/vignette.gdshader" id="1"]
+
+[resource]
+resource_local_to_scene = true
+shader = ExtResource("1")
+shader_parameter/zoom = Vector2(1, 1)
+shader_parameter/color_conversion = Vector3(0.8, 0.8, 0.8)
+shader_parameter/vignette_alpha = 1.0
+shader_parameter/light_cutout_offset = Vector2(0.412, 0.668)
+shader_parameter/light_cutout_scale = Vector2(0.233, 0.143)
+shader_parameter/aspect_ratio = 1.777
+shader_parameter/nmb_of_targets = 1
+shader_parameter/target_center_offsets_and_strengths = null
+shader_parameter/brightness_bias = 3.0
+shader_parameter/brightness_bands = 3
+shader_parameter/light_cutouts = null

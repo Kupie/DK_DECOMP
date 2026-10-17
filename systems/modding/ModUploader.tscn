@@ -1,0 +1,101 @@
+[gd_scene load_steps=4 format=3 uid="uid://dapvh1l5p2nkl"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://systems/modding/ModUploader.gd" id="2"]
+[ext_resource type="LabelSettings" uid="uid://b5aow2qb2h3pe" path="res://gui/fontsettings/HeadingFontSettings.tres" id="3"]
+
+[node name="ModUploader" type="CenterContainer"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 0
+size_flags_vertical = 0
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="FileDialog" type="FileDialog" parent="."]
+unique_name_in_owner = true
+title = "Open a File"
+ok_button_text = "Open"
+file_mode = 0
+access = 2
+filters = PackedStringArray("*.zip")
+use_native_dialog = true
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+alignment = 1
+
+[node name="Label" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "Uploader"
+label_settings = ExtResource("3")
+horizontal_alignment = 1
+
+[node name="instructions" type="RichTextLabel" parent="VBoxContainer"]
+custom_minimum_size = Vector2(500, 350)
+layout_mode = 2
+bbcode_enabled = true
+text = "1) Select the mod (.zip)  you want to upload (needs to be compatible with [url]ModLoader[/url])
+
+2) Select a preview image if it's the first time uploading the mod or if you want to change it
+
+3) Add the mod's workshop ID if you're updating it, leave empty if it's a new mod
+
+4) Upload it and take note of the workshop ID if it's a new mod. Use it when you want to update it
+
+5) Check and edit your mod in the Steam Workshop, then set it public when it's ready"
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="ModPath" type="TextEdit" parent="VBoxContainer/HBoxContainer2"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(700, 50)
+layout_mode = 2
+placeholder_text = "Mod zip Path"
+wrap_mode = 1
+
+[node name="Browse" type="Button" parent="VBoxContainer/HBoxContainer2"]
+layout_mode = 2
+text = "Browse"
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="PreviewPath" type="TextEdit" parent="VBoxContainer/HBoxContainer3"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(700, 50)
+layout_mode = 2
+placeholder_text = "Preview Image Path (leave empty to not update)"
+wrap_mode = 1
+
+[node name="Preview" type="Button" parent="VBoxContainer/HBoxContainer3"]
+layout_mode = 2
+text = "Browse"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+
+[node name="ID" type="TextEdit" parent="VBoxContainer/HBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(700, 50)
+layout_mode = 2
+placeholder_text = "workshop ID  (leave empty to create new)"
+wrap_mode = 1
+
+[node name="Upload" type="Button" parent="VBoxContainer/HBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Upload"
+
+[node name="output" type="TextEdit" parent="VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(400, 200)
+layout_mode = 2
+placeholder_text = "OUTPUT"
+
+[connection signal="pressed" from="VBoxContainer/HBoxContainer2/Browse" to="." method="_on_browse_pressed"]
+[connection signal="pressed" from="VBoxContainer/HBoxContainer3/Preview" to="." method="_on_preview_pressed"]
+[connection signal="pressed" from="VBoxContainer/HBoxContainer/Upload" to="." method="_on_upload_pressed"]

@@ -1,0 +1,31 @@
+[gd_resource type="ShaderMaterial" load_steps=7 format=3 uid="uid://8cm3tsn8y6ea"]
+
+[ext_resource type="Shader" path="res://content/weapons/tesla/tesla_backside_cable_shader.gdshader" id="1"]
+[ext_resource type="Texture2D" uid="uid://daff4tw2ipany" path="res://systems/style/palettes/palette_1_1.png" id="2"]
+
+[sub_resource type="Gradient" id="114"]
+offsets = PackedFloat32Array(0.158088, 0.919118, 1)
+colors = PackedColorArray(0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1)
+
+[sub_resource type="GradientTexture2D" id="115"]
+gradient = SubResource("114")
+height = 16
+repeat = 1
+
+[sub_resource type="Gradient" id="116"]
+interpolation_mode = 1
+offsets = PackedFloat32Array(0, 0.0858586, 0.257353, 0.544118, 0.757353)
+colors = PackedColorArray(0.282353, 0.376471, 0, 1, 0.313726, 0.376471, 0, 1, 0.345098, 0.427451, 0, 1, 0.376471, 0.6, 0, 1, 0.407843, 0.941176, 0, 1)
+
+[sub_resource type="GradientTexture2D" id="117"]
+gradient = SubResource("116")
+width = 128
+
+[resource]
+resource_local_to_scene = true
+shader = ExtResource("1")
+shader_parameter/fill = 0.0
+shader_parameter/power = 0.0
+shader_parameter/palette = ExtResource("2")
+shader_parameter/gradient = SubResource("115")
+shader_parameter/gradient_color = SubResource("117")

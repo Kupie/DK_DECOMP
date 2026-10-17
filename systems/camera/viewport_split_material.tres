@@ -1,0 +1,9 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://da530yssnujcu"]
+
+[ext_resource type="Shader" path="res://systems/camera/viewport_split_glow.gdshader" id="1"]
+
+[resource]
+resource_local_to_scene = true
+shader = ExtResource("1")
+shader_parameter/blend_left = 1.0
+shader_parameter/blend_right = 0.0

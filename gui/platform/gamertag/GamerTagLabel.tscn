@@ -1,0 +1,63 @@
+[gd_scene load_steps=6 format=3 uid="uid://cqehgtpgprwcl"]
+
+[ext_resource type="Script" path="res://gui/platform/gamertag/GamerTagLabel.gd" id="1"]
+[ext_resource type="PackedScene" uid="uid://difanam1ljo2j" path="res://stages/loadout/LoadoutChoice.tscn" id="2"]
+[ext_resource type="Texture2D" uid="uid://dr14ltulbc4cj" path="res://gui/platform/Platform_icon_Xbox.png" id="3"]
+[ext_resource type="FontFile" uid="uid://da5sm0wftl5or" path="res://gui/fonts/Kollektif.ttf" id="4"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_yc2ow"]
+font = ExtResource("4")
+
+[node name="GamerTagLabel" type="HBoxContainer"]
+offset_right = 238.0
+offset_bottom = 78.0
+theme_override_constants/separation = 4
+script = ExtResource("1")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+alignment = 1
+
+[node name="IconRichTextLabel" type="RichTextLabel" parent="VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+bbcode_enabled = true
+text = "[img=35]res://gui/platform/Platform_icon_Xbox.png[/img]"
+fit_content = true
+autowrap_mode = 0
+
+[node name="IconLoadoutChoice" parent="." instance=ExtResource("2")]
+unique_name_in_owner = true
+visible = false
+layout_mode = 2
+icon = ExtResource("3")
+
+[node name="IconButton" type="Button" parent="."]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(40, 40)
+layout_mode = 2
+
+[node name="IconTextureRect" type="TextureRect" parent="IconButton" groups=["unstyled"]]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -21.0
+offset_right = 20.0
+offset_bottom = 19.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+texture = ExtResource("3")
+expand_mode = 3
+
+[node name="NameLabel" type="Label" parent="." groups=["splitscreen_scalable_font"]]
+unique_name_in_owner = true
+layout_mode = 2
+text = "GAMERTAG HOLDER"
+label_settings = SubResource("LabelSettings_yc2ow")
+vertical_alignment = 1

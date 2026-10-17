@@ -1,0 +1,71 @@
+[gd_scene load_steps=9 format=3 uid="uid://csiut4i08ma7m"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="StyleBox" uid="uid://d0e6hxlj6ehem" path="res://gui/panels/panel_inside_dark.tres" id="2"]
+[ext_resource type="Script" path="res://stages/loadout/color_choice.gd" id="3"]
+[ext_resource type="PackedScene" uid="uid://02emll07tpim" path="res://content/shared/Usable.tscn" id="4"]
+[ext_resource type="StyleBox" uid="uid://dn7txqk3w8m3g" path="res://gui/buttons/button_focus_expand_beyond_parent.tres" id="5"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="6"]
+[ext_resource type="Material" uid="uid://ooltj4cifkjq" path="res://systems/style/materials/palette_swap_unmodulated.tres" id="7"]
+[ext_resource type="Texture2D" uid="uid://cmnyitowitaah" path="res://content/techtree/panels/lock_icon.png" id="8"]
+
+[node name="ColorChoice" type="PanelContainer"]
+texture_filter = 1
+offset_right = 24.0
+offset_bottom = 24.0
+size_flags_horizontal = 3
+theme = ExtResource("1")
+theme_override_styles/panel = ExtResource("2")
+script = ExtResource("3")
+
+[node name="Usable" parent="." instance=ExtResource("4")]
+unique_name_in_owner = true
+position = Vector2(62, 103)
+modulateOnFocus = NodePath(".")
+
+[node name="ColorRect" type="Control" parent="."]
+custom_minimum_size = Vector2(100, 50)
+layout_mode = 2
+mouse_filter = 2
+
+[node name="ColorRect1" type="ColorRect" parent="ColorRect"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(116, 58)
+layout_mode = 2
+offset_left = -8.0
+offset_top = -4.0
+offset_right = 38.0
+offset_bottom = 34.0
+mouse_filter = 2
+
+[node name="ColorRect2" type="ColorRect" parent="ColorRect"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(108, 66)
+layout_mode = 2
+offset_left = -4.0
+offset_top = -8.0
+offset_right = 34.0
+offset_bottom = 38.0
+mouse_filter = 2
+
+[node name="SelectedPanel" type="Panel" parent="."]
+layout_mode = 2
+mouse_filter = 2
+theme_override_styles/panel = ExtResource("5")
+
+[node name="Tween" parent="." instance=ExtResource("6")]
+
+[node name="LockIcon" type="TextureRect" parent="." groups=["styleShaderCallback", "styled"]]
+visible = false
+material = ExtResource("7")
+custom_minimum_size = Vector2(32, 36)
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_vertical = 0
+texture = ExtResource("8")
+expand_mode = 4
+stretch_mode = 5
+
+[connection signal="gui_input" from="." to="." method="_on_LoadoutChoice_gui_input"]
+[connection signal="mouse_entered" from="." to="." method="_on_LoadoutChoice_mouse_entered"]
+[connection signal="mouse_exited" from="." to="." method="_on_LoadoutChoice_mouse_exited"]

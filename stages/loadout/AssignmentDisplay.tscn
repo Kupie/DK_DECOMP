@@ -1,0 +1,137 @@
+[gd_scene load_steps=10 format=3 uid="uid://cd4ap72bll5wp"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="StyleBox" uid="uid://byyuq0hu8kq2y" path="res://gui/panels/panel_inside_frame.tres" id="2"]
+[ext_resource type="Script" path="res://stages/loadout/AssignmentDisplay.gd" id="3"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="4"]
+[ext_resource type="FontVariation" uid="uid://cmphosyxqvcqp" path="res://gui/fonts/FontSmall.tres" id="5"]
+[ext_resource type="PackedScene" uid="uid://difanam1ljo2j" path="res://stages/loadout/LoadoutChoice.tscn" id="6"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="7"]
+[ext_resource type="AudioStream" uid="uid://qeesjo0mfbpb" path="res://content/sounds/UI/ChooseRegular.wav" id="8"]
+[ext_resource type="AudioStream" uid="uid://bmhabuou0gle5" path="res://content/sounds/UI/ChooseChallenge.wav" id="9"]
+
+[node name="AssignmentChoice" type="PanelContainer"]
+texture_filter = 1
+custom_minimum_size = Vector2(450, 200)
+offset_right = 330.0
+offset_bottom = 200.0
+size_flags_horizontal = 3
+size_flags_vertical = 0
+mouse_filter = 2
+theme = ExtResource("1")
+theme_override_styles/panel = ExtResource("2")
+script = ExtResource("3")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 4
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 4
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/separation = 5
+
+[node name="TitleLabel" type="Label" parent="MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 3
+text = "assignment.chosen.todo"
+label_settings = ExtResource("4")
+horizontal_alignment = 1
+
+[node name="DescriptionLabel" type="Label" parent="MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme_override_fonts/font = ExtResource("5")
+text = "Survive with a very fragile dome."
+autowrap_mode = 3
+
+[node name="SpacerChallengeMode" type="Control" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 24)
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 6
+
+[node name="ButtonRegular" parent="MarginContainer/VBoxContainer/HBoxContainer" instance=ExtResource("6")]
+unique_name_in_owner = true
+layout_mode = 2
+titleLocId = "assignment.mode.regular"
+
+[node name="ButtonChallenge" parent="MarginContainer/VBoxContainer/HBoxContainer" instance=ExtResource("6")]
+unique_name_in_owner = true
+layout_mode = 2
+titleLocId = "assignment.mode.challenge"
+
+[node name="Control" type="Control" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 24)
+layout_mode = 2
+
+[node name="GridContainer" type="VBoxContainer" parent="MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/separation = -5
+
+[node name="Label1" type="Label" parent="MarginContainer/VBoxContainer/GridContainer"]
+texture_filter = 4
+layout_mode = 2
+size_flags_vertical = 0
+theme_override_fonts/font = ExtResource("5")
+text = "assignment.goaltype"
+label_settings = ExtResource("4")
+
+[node name="GoalLabel" type="Label" parent="MarginContainer/VBoxContainer/GridContainer"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme_override_fonts/font = ExtResource("5")
+autowrap_mode = 3
+
+[node name="Control2" type="Control" parent="MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(0, 16)
+layout_mode = 2
+
+[node name="Conditions" type="VBoxContainer" parent="MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+mouse_filter = 2
+theme_override_constants/separation = -5
+
+[node name="LabelCondition" type="Label" parent="MarginContainer/VBoxContainer/Conditions"]
+texture_filter = 4
+layout_mode = 2
+size_flags_vertical = 0
+theme_override_fonts/font = ExtResource("5")
+text = "assignment.circumstance"
+label_settings = ExtResource("4")
+
+[node name="ConditionValueLabel" type="Label" parent="MarginContainer/VBoxContainer/Conditions"]
+unique_name_in_owner = true
+texture_filter = 4
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 0
+theme_override_fonts/font = ExtResource("5")
+autowrap_mode = 3
+
+[node name="SfxChooseRegular" parent="." instance=ExtResource("7")]
+stream = ExtResource("8")
+maxAudibleDistance = 0
+
+[node name="SfxChooseChallenge" parent="." instance=ExtResource("7")]
+stream = ExtResource("9")
+maxAudibleDistance = 0
+
+[connection signal="select" from="MarginContainer/VBoxContainer/HBoxContainer/ButtonRegular" to="." method="_on_button_regular_select"]
+[connection signal="select" from="MarginContainer/VBoxContainer/HBoxContainer/ButtonChallenge" to="." method="_on_button_challenge_select"]

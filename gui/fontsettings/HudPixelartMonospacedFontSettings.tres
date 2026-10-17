@@ -1,0 +1,8 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://c0e6v16htcgxc"]
+
+[ext_resource type="FontVariation" uid="uid://cfbppd3432m0s" path="res://gui/fonts/FontHudPixelartMonospaced.tres" id="1"]
+
+[resource]
+font = ExtResource("1")
+font_size = 48
+font_color = Color(0.878431, 0.807843, 0.862745, 1)

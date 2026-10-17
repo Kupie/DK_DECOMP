@@ -1,0 +1,91 @@
+[gd_scene load_steps=4 format=3 uid="uid://domev1sx5m3vo"]
+
+[ext_resource type="StyleBox" uid="uid://byyuq0hu8kq2y" path="res://gui/panels/panel_inside_frame.tres" id="1"]
+[ext_resource type="Script" path="res://tool/WaveDesigner/WavePart.gd" id="2"]
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="3"]
+
+[node name="WavePart" type="PanelContainer"]
+custom_minimum_size = Vector2(2000, 250)
+anchor_right = 1.0
+anchor_bottom = 1.0
+pivot_offset = Vector2(-2682, -60)
+theme_override_styles/panel = ExtResource("1")
+script = ExtResource("2")
+
+[node name="WaveElementConnectors" type="Control" parent="."]
+layout_mode = 2
+size_flags_horizontal = 0
+size_flags_vertical = 0
+mouse_filter = 2
+
+[node name="WaveElementContainer" type="Control" parent="."]
+layout_mode = 2
+size_flags_horizontal = 0
+size_flags_vertical = 0
+mouse_filter = 2
+
+[node name="Controls" type="VBoxContainer" parent="."]
+layout_mode = 2
+size_flags_horizontal = 0
+mouse_filter = 2
+theme = ExtResource("3")
+
+[node name="GridContainer" type="GridContainer" parent="Controls"]
+layout_mode = 2
+columns = 2
+
+[node name="UpButton" type="Button" parent="Controls/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+focus_mode = 0
+text = "up"
+
+[node name="DeleteButton" type="Button" parent="Controls/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+focus_mode = 0
+text = "delete"
+
+[node name="DownButton" type="Button" parent="Controls/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+focus_mode = 0
+text = "down"
+
+[node name="LayoutButton" type="Button" parent="Controls/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+focus_mode = 0
+text = "layout"
+
+[node name="Label2" type="Label" parent="Controls/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+text = "Spawn at"
+
+[node name="LineEdit" type="LineEdit" parent="Controls/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+
+[node name="Label3" type="Label" parent="Controls/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+text = "Weight: "
+
+[node name="WeightLabel" type="Label" parent="Controls/GridContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 6
+
+[connection signal="gui_input" from="." to="." method="_on_WavePart_gui_input"]
+[connection signal="pressed" from="Controls/GridContainer/UpButton" to="." method="_on_UpButton_pressed"]
+[connection signal="pressed" from="Controls/GridContainer/DeleteButton" to="." method="_on_DeleteButton_pressed"]
+[connection signal="pressed" from="Controls/GridContainer/DownButton" to="." method="_on_DownButton_pressed"]
+[connection signal="pressed" from="Controls/GridContainer/LayoutButton" to="." method="layout"]

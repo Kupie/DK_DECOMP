@@ -1,0 +1,919 @@
+[gd_scene load_steps=100 format=3 uid="uid://dka0jbq45b2kq"]
+
+[ext_resource type="Script" path="res://content/keeper/keeper3/Keeper3.gd" id="1"]
+[ext_resource type="SpriteFrames" uid="uid://bktiwunyxs8qh" path="res://content/keeper/keeper3/spriteframes-skin0-color0.tres" id="2"]
+[ext_resource type="PackedScene" uid="uid://bshpnrnvktmnk" path="res://content/keeper/keeper3/StarSprite.tscn" id="3"]
+[ext_resource type="Texture2D" uid="uid://nr75wfygpeyv" path="res://white_dot.png" id="4"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="5"]
+[ext_resource type="AudioStream" uid="uid://dm3mo8c43aq4c" path="res://content/sounds/keeper3/ready.wav" id="6"]
+[ext_resource type="AudioStream" uid="uid://belptag4lebbe" path="res://content/sounds/keeper3/shurikenready_2.wav" id="7"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="8"]
+[ext_resource type="PackedScene" uid="uid://btnjohc53vjf6" path="res://content/shared/sounds/TileHitSounds.tscn" id="9"]
+[ext_resource type="AudioStream" uid="uid://crayq1yfniwhq" path="res://content/sounds/keeper1/ResourceAttach.wav" id="10"]
+[ext_resource type="AudioStream" uid="uid://bwultfxnxqswd" path="res://content/sounds/keeper3/notready_1.wav" id="11"]
+[ext_resource type="AudioStream" uid="uid://df4d5kishvpyv" path="res://content/sounds/keeper1/Drop.wav" id="12"]
+[ext_resource type="AudioStream" uid="uid://bwrvu01ga4dyt" path="res://content/sounds/Locations/Teleport/TeleportInit.wav" id="13"]
+[ext_resource type="AudioStream" uid="uid://bri5blprws0cw" path="res://content/sounds/Locations/Teleport/TeleportDone_v2.wav" id="14"]
+[ext_resource type="AudioStream" uid="uid://cvyuirbtrf15n" path="res://content/sounds/keeper1/DragResourcesLoop.wav" id="15"]
+[ext_resource type="AudioStream" uid="uid://dd03lbnks2drr" path="res://content/sounds/keeper3/reel_out.wav" id="16"]
+[ext_resource type="AudioStream" uid="uid://d4jwdxa1h1n33" path="res://content/sounds/keeper3/reeling that sounds expensive.3.wav" id="17"]
+[ext_resource type="AudioStream" uid="uid://d0cq6kp7bivlc" path="res://content/sounds/keeper3/reel_01.wav" id="18"]
+[ext_resource type="AudioStream" uid="uid://bywhfes4kctsi" path="res://content/sounds/keeper3/reel_02.wav" id="19"]
+[ext_resource type="AudioStream" uid="uid://b2nybq46jvpn7" path="res://content/sounds/keeper3/reel_03.wav" id="20"]
+[ext_resource type="AudioStream" uid="uid://d0vwaayjgugjv" path="res://content/sounds/Amb/wind_Polar light.wav" id="21"]
+[ext_resource type="AudioStream" uid="uid://c7ri13w57lqui" path="res://content/sounds/carryline-break.wav" id="22"]
+[ext_resource type="AudioStream" uid="uid://08fn1pep6du6" path="res://content/sounds/keeper1/jetpacktest_2.wav" id="23"]
+[ext_resource type="AudioStream" uid="uid://o8kofawlsnxo" path="res://content/sounds/keeper3/shuriken_move_01.wav" id="24"]
+[ext_resource type="AudioStream" uid="uid://b64jy2d5r3kmx" path="res://content/sounds/keeper3/shuriken_move_02.wav" id="25"]
+[ext_resource type="AudioStream" uid="uid://b4wuvx6i16x4x" path="res://content/sounds/keeper3/shuriken_move_03.wav" id="26"]
+[ext_resource type="AudioStream" uid="uid://piosj5f1bs08" path="res://content/sounds/keeper3/shuriken_move_04.wav" id="27"]
+[ext_resource type="AudioStream" uid="uid://lnbu3fk08jke" path="res://content/sounds/keeper3/stepdeep_01.wav" id="28"]
+[ext_resource type="AudioStream" uid="uid://2jggydls3yog" path="res://content/sounds/keeper3/stepdeep_02.wav" id="29"]
+[ext_resource type="AudioStream" uid="uid://cp73w4hiaplaf" path="res://content/sounds/keeper3/stepdeep_03.wav" id="30"]
+[ext_resource type="AudioStream" uid="uid://gxw0o6v1dt88" path="res://content/sounds/keeper3/stepdeep_04.wav" id="31"]
+[ext_resource type="AudioStream" uid="uid://td0e675cy5n2" path="res://content/sounds/keeper3/stepdeep_05.wav" id="32"]
+[ext_resource type="AudioStream" uid="uid://db1teqcs3fwn2" path="res://content/sounds/keeper3/stepdeep_06.wav" id="33"]
+[ext_resource type="AudioStream" uid="uid://dhioj063hfb3g" path="res://content/sounds/keeper3/stepdeep_07.wav" id="34"]
+[ext_resource type="AudioStream" uid="uid://c8to0hv60afyn" path="res://content/sounds/keeper3/stepdeep_08.wav" id="35"]
+[ext_resource type="AudioStream" uid="uid://bn300u1ae0cwu" path="res://content/sounds/keeper3/land_tools_01.wav" id="36"]
+[ext_resource type="AudioStream" uid="uid://bgwoi0hqnexpx" path="res://content/sounds/keeper3/land_tools_02.wav" id="37"]
+[ext_resource type="AudioStream" uid="uid://dt8vgdk6tm88v" path="res://content/sounds/keeper3/land_tools_03.wav" id="38"]
+[ext_resource type="AudioStream" uid="uid://dywvyxidu0hn5" path="res://content/sounds/keeper3/Lowech_76.wav" id="39"]
+[ext_resource type="AudioStream" uid="uid://5j52rxp3e1uv" path="res://content/sounds/keeper3/dirt_01.wav" id="40"]
+[ext_resource type="AudioStream" uid="uid://i2l517uypwxi" path="res://content/sounds/keeper3/dirt_02.wav" id="41"]
+[ext_resource type="AudioStream" uid="uid://ckos0hbqqwrvf" path="res://content/sounds/keeper3/land_tools_04.wav" id="42"]
+[ext_resource type="AudioStream" uid="uid://b2jio6gya2we8" path="res://content/sounds/keeper3/jump_tools_01.wav" id="43"]
+[ext_resource type="AudioStream" uid="uid://5q8lpfbfv2pc" path="res://content/sounds/keeper3/jump.wav" id="44"]
+[ext_resource type="AudioStream" uid="uid://cjrgfhylbmrom" path="res://content/sounds/keeper3/sfx_jump.wav" id="45"]
+[ext_resource type="AudioStream" uid="uid://dtkth6k7bmd2y" path="res://content/sounds/keeper3/notready.wav" id="46"]
+[ext_resource type="AudioStream" uid="uid://c35icpgguwhfr" path="res://content/sounds/keeper3/hookshot_fire.wav" id="47"]
+[ext_resource type="AudioStream" uid="uid://cc3rtnvr0o501" path="res://content/sounds/keeper3/ropestick.wav" id="48"]
+[ext_resource type="AudioStream" uid="uid://dcdi3xanadefr" path="res://content/sounds/keeper3/temp_rope_stretch.wav" id="49"]
+[ext_resource type="AudioStream" uid="uid://dkffo17mfvm5i" path="res://content/sounds/keeper3/elastic_rope_loop.wav" id="50"]
+[ext_resource type="AudioStream" uid="uid://c0g5dn5ohg4pq" path="res://content/sounds/keeper3/konai_throw_01.wav" id="51"]
+[ext_resource type="AudioStream" uid="uid://cfa8mceayu56r" path="res://content/sounds/keeper3/konai_throw_02.wav" id="52"]
+[ext_resource type="AudioStream" uid="uid://cq72vmcyg67bc" path="res://content/sounds/keeper3/konai_throw_03.wav" id="53"]
+[ext_resource type="AudioStream" uid="uid://c41tx3vhpe28x" path="res://content/sounds/keeper3/konai_throw_04.wav" id="54"]
+[ext_resource type="AudioStream" uid="uid://thb7nlxmkofr" path="res://content/sounds/keeper3/Arrow_swish_02.wav" id="55"]
+[ext_resource type="AudioStream" uid="uid://cyumgawtxchsv" path="res://content/sounds/keeper3/Arrow_swish_03.wav" id="56"]
+[ext_resource type="AudioStream" uid="uid://dm511exxcud3o" path="res://content/sounds/keeper3/Arrow_swish_04.wav" id="57"]
+[ext_resource type="AudioStream" uid="uid://cf30oivk68xdg" path="res://content/sounds/Resources/Retro Water Drop 01.wav" id="58"]
+[ext_resource type="AudioStream" uid="uid://dm1gw3ao7oh4n" path="res://content/sounds/keeper3/shuriken throw.wav" id="59"]
+[ext_resource type="AudioStream" uid="uid://lce7faxt76rm" path="res://content/sounds/Weapons/tesla/reload_01.wav" id="60"]
+[ext_resource type="AudioStream" uid="uid://c7a256dk445tp" path="res://content/sounds/keeper3/clikstuff.wav" id="61"]
+[ext_resource type="AudioStream" uid="uid://c48jy4wsftpr8" path="res://content/sounds/keeper3/slide_loop_04.wav" id="62"]
+[ext_resource type="AudioStream" uid="uid://b5xmow7ln48xi" path="res://content/sounds/keeper3/slide_loop_03.wav" id="63"]
+[ext_resource type="AudioStream" uid="uid://lxcmfl40d83n" path="res://content/sounds/keeper3/slide_loop_02.wav" id="64"]
+[ext_resource type="Texture2D" uid="uid://byib2a8ujev3h" path="res://content/weapons/artillery/smoketrail_sheet_alpha.png" id="65"]
+[ext_resource type="PackedScene" uid="uid://bwkwfuyncteq8" path="res://content/keeper/keeper3/KunaiTrajectoryPredictor.tscn" id="66"]
+[ext_resource type="Texture2D" uid="uid://dy2gqg3mhawsv" path="res://content/keeper/keeper2/player1/aim_indicator.png" id="67"]
+[ext_resource type="PackedScene" uid="uid://cqehgtpgprwcl" path="res://gui/platform/gamertag/GamerTagLabel.tscn" id="68"]
+[ext_resource type="PackedScene" uid="uid://b2h44hc2kfrtw" path="res://content/keeper/buffed_sprite.tscn" id="69"]
+[ext_resource type="Script" path="res://content/keeper/keeper3/Keeper3Synchronizer.gd" id="70"]
+[ext_resource type="PackedScene" uid="uid://d3gm6kfh4rajs" path="res://content/keeper/KeeperLight.tscn" id="71"]
+[ext_resource type="SpriteFrames" uid="uid://dsmuqipnvnt8h" path="res://content/keeper/keeper3/kunai_throw_vfx_sprite_frames.tres" id="72"]
+
+[sub_resource type="CircleShape2D" id="4"]
+radius = 22.0227
+
+[sub_resource type="CircleShape2D" id="95"]
+radius = 30.0
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_specialKunaiReady"]
+lifetime_randomness = 0.35
+emission_shape = 2
+emission_sphere_radius = 4.5
+direction = Vector3(0, 0, 0)
+spread = 360.0
+initial_velocity_min = 18.0
+initial_velocity_max = 34.0
+angular_velocity_min = -90.0
+angular_velocity_max = 90.0
+gravity = Vector3(0, 0, 0)
+scale_min = 0.75
+
+[sub_resource type="CircleShape2D" id="170"]
+radius = 5.0
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_6nrck"]
+streams_count = 3
+stream_0/stream = ExtResource("18")
+stream_1/stream = ExtResource("19")
+stream_2/stream = ExtResource("20")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_i4vgr"]
+streams_count = 4
+stream_0/stream = ExtResource("24")
+stream_1/stream = ExtResource("25")
+stream_2/stream = ExtResource("26")
+stream_3/stream = ExtResource("27")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_hhn5u"]
+streams_count = 8
+stream_0/stream = ExtResource("28")
+stream_0/weight = 1.61e-43
+stream_1/stream = ExtResource("29")
+stream_1/weight = 6.4e-44
+stream_2/stream = ExtResource("30")
+stream_2/weight = 1.56e-43
+stream_3/stream = ExtResource("31")
+stream_3/weight = 1.4e-43
+stream_4/stream = ExtResource("32")
+stream_4/weight = 1.6e-43
+stream_5/stream = ExtResource("33")
+stream_6/stream = ExtResource("34")
+stream_7/stream = ExtResource("35")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_7dy1m"]
+streams_count = 4
+stream_0/stream = ExtResource("30")
+stream_1/stream = ExtResource("31")
+stream_2/stream = ExtResource("32")
+stream_3/stream = ExtResource("35")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_1j7fu"]
+streams_count = 3
+stream_0/stream = ExtResource("36")
+stream_1/stream = ExtResource("37")
+stream_2/stream = ExtResource("38")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_6ck2p"]
+streams_count = 2
+stream_0/stream = ExtResource("40")
+stream_1/stream = ExtResource("41")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_vnqkk"]
+streams_count = 4
+stream_0/stream = ExtResource("36")
+stream_1/stream = ExtResource("37")
+stream_2/stream = ExtResource("38")
+stream_3/stream = ExtResource("42")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_jj5nl"]
+streams_count = 4
+stream_0/stream = ExtResource("36")
+stream_1/stream = ExtResource("37")
+stream_2/stream = ExtResource("38")
+stream_3/stream = ExtResource("42")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_0pp2i"]
+streams_count = 1
+stream_0/stream = ExtResource("43")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_t6xor"]
+streams_count = 4
+stream_0/stream = ExtResource("51")
+stream_0/weight = 1.4e-43
+stream_1/stream = ExtResource("52")
+stream_1/weight = 1.63e-43
+stream_2/stream = ExtResource("53")
+stream_2/weight = 1.53e-43
+stream_3/stream = ExtResource("54")
+stream_3/weight = 1.4e-43
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_ntrv4"]
+streams_count = 3
+stream_0/stream = ExtResource("55")
+stream_1/stream = ExtResource("56")
+stream_2/stream = ExtResource("57")
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_fbvry"]
+streams_count = 3
+stream_0/stream = ExtResource("62")
+stream_1/stream = ExtResource("63")
+stream_2/stream = ExtResource("64")
+
+[sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_g5lx1"]
+particles_animation = true
+particles_anim_h_frames = 8
+particles_anim_v_frames = 1
+particles_anim_loop = false
+
+[sub_resource type="Gradient" id="Gradient_vw7bg"]
+offsets = PackedFloat32Array(0, 0.281337, 0.610909, 1)
+colors = PackedColorArray(0.439216, 0.0980392, 0.627451, 1, 0.439216, 0.0980392, 0.627451, 0.760784, 0.439216, 0.0980392, 0.627451, 0.568627, 0.439216, 0.0980392, 0.627451, 0)
+
+[sub_resource type="GradientTexture1D" id="GradientTexture1D_i5iqv"]
+gradient = SubResource("Gradient_vw7bg")
+
+[sub_resource type="Curve" id="Curve_pnci0"]
+max_value = 30.0
+_data = [Vector2(0, 0), 0.0, -18.0149, 0, 0, Vector2(0.494131, 12.4398), 63.0568, 0.0, 0, 0]
+point_count = 2
+
+[sub_resource type="CurveTexture" id="CurveTexture_wqsbh"]
+curve = SubResource("Curve_pnci0")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_l4cdt"]
+lifetime_randomness = 0.25
+particle_flag_disable_z = true
+emission_shape_scale = Vector3(1, 0, 1)
+emission_shape = 3
+emission_box_extents = Vector3(1, 3, 1)
+angle_min = 1.07288e-05
+angle_max = 360.0
+direction = Vector3(0, -1, 0)
+initial_velocity_min = 5.0
+initial_velocity_max = 10.0
+gravity = Vector3(0, 10, 0)
+damping_curve = SubResource("CurveTexture_wqsbh")
+scale_over_velocity_max = 44.94
+color_ramp = SubResource("GradientTexture1D_i5iqv")
+anim_speed_min = 1.0
+anim_speed_max = 1.0
+anim_offset_max = 0.8
+
+[sub_resource type="Gradient" id="Gradient_1n8jo"]
+offsets = PackedFloat32Array(0, 0.281337, 0.610909, 1)
+colors = PackedColorArray(0.439216, 0.0980392, 0.627451, 1, 0.439216, 0.0980392, 0.627451, 0.760784, 0.439216, 0.0980392, 0.627451, 0.568627, 0.439216, 0.0980392, 0.627451, 0)
+
+[sub_resource type="GradientTexture1D" id="GradientTexture1D_wxk6b"]
+gradient = SubResource("Gradient_1n8jo")
+
+[sub_resource type="Curve" id="Curve_n732d"]
+max_value = 30.0
+_data = [Vector2(0, 0), 0.0, -18.0149, 0, 0, Vector2(0.494131, 12.4398), 63.0568, 0.0, 0, 0]
+point_count = 2
+
+[sub_resource type="CurveTexture" id="308"]
+curve = SubResource("Curve_n732d")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_7u06r"]
+lifetime_randomness = 0.4
+particle_flag_disable_z = true
+emission_shape_scale = Vector3(1, 0, 1)
+emission_shape = 3
+emission_box_extents = Vector3(1, 50, 1)
+angle_min = 1.07288e-05
+angle_max = 360.0
+direction = Vector3(1, -0.7, 0)
+spread = 70.0
+initial_velocity_max = 50.0
+gravity = Vector3(0, 10, 0)
+damping_curve = SubResource("308")
+scale_over_velocity_max = 44.94
+color_ramp = SubResource("GradientTexture1D_wxk6b")
+anim_speed_min = 1.0
+anim_speed_max = 1.0
+anim_offset_max = 0.8
+
+[node name="Keeper" type="CharacterBody2D" node_paths=PackedStringArray("keeper_sprite", "keeper_light", "trail_particles", "synchronizer") groups=["gamepadListeners", "keeper", "lostL", "pauseL"]]
+z_index = 25
+texture_filter = 1
+collision_layer = 16384
+floor_max_angle = 0.15708
+floor_snap_length = 0.0
+platform_floor_layers = 1
+platform_wall_layers = 1
+script = ExtResource("1")
+techId = "keeper3"
+hasMouseGameplay = true
+keeper_sprite = NodePath("Visuals/Sprite2D")
+keeper_light = NodePath("Light3D")
+trail_particles = NodePath("Trail")
+synchronizer = NodePath("KeeperSynchronizer")
+
+[node name="UseArea" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 4
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="UseArea"]
+shape = SubResource("4")
+
+[node name="CarryArea" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 32
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="CarryArea"]
+shape = SubResource("95")
+
+[node name="Visuals" type="Node2D" parent="."]
+
+[node name="Sprite2D" type="AnimatedSprite2D" parent="Visuals"]
+light_mask = 0
+position = Vector2(0, 1)
+sprite_frames = ExtResource("2")
+animation = &"fall_left"
+offset = Vector2(0, -4)
+
+[node name="SpecialKunaiStar" parent="." instance=ExtResource("3")]
+z_index = -1
+position = Vector2(0, -3)
+
+[node name="SpecialKunaiReadyVfx" type="GPUParticles2D" parent="SpecialKunaiStar"]
+modulate = Color(1, 0.843137, 0.368627, 0.92549)
+z_index = 2
+emitting = false
+amount = 48
+process_material = SubResource("ParticleProcessMaterial_specialKunaiReady")
+texture = ExtResource("4")
+lifetime = 0.45
+one_shot = true
+speed_scale = 1.1
+
+[node name="ShurikenReadySound" parent="SpecialKunaiStar" instance=ExtResource("5")]
+stream = ExtResource("6")
+volume_db = -5.938
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="ShurikenReadySound2" parent="SpecialKunaiStar/ShurikenReadySound" instance=ExtResource("5")]
+stream = ExtResource("7")
+volume_db = 0.435
+pitch_scale = 0.87
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="ChainSpawnPivot" type="Node2D" parent="."]
+
+[node name="PlayerCollision" type="CollisionShape2D" parent="."]
+shape = SubResource("170")
+
+[node name="Tween" parent="." instance=ExtResource("8")]
+
+[node name="TileHitSounds" parent="." instance=ExtResource("9")]
+
+[node name="StateMachine" type="Node" parent="."]
+
+[node name="Pickup" parent="." instance=ExtResource("5")]
+stream = ExtResource("10")
+max_polyphony = 20
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 300.0
+
+[node name="Pickup2" parent="Pickup" instance=ExtResource("5")]
+stream = ExtResource("11")
+pitch_scale = 0.9
+max_polyphony = 20
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.2
+maxAudibleDistance = 300.0
+
+[node name="Drop" parent="." instance=ExtResource("5")]
+stream = ExtResource("12")
+volume_db = -6.891
+pitch_scale = 1.74
+max_polyphony = 20
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 300.0
+
+[node name="TeleportInit" parent="." instance=ExtResource("5")]
+stream = ExtResource("13")
+pitch_scale = 0.91
+bus = &"Keeper"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="TeleportDone" parent="." instance=ExtResource("5")]
+stream = ExtResource("14")
+volume_db = 3.714
+bus = &"Keeper"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="CarryLine" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("15")
+volume_db = -8.739
+bus = &"NoMusic"
+
+[node name="CarryLineStretch" parent="." instance=ExtResource("5")]
+stream = ExtResource("16")
+volume_db = -5.826
+bus = &"NoMusic"
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+loop = true
+
+[node name="CarryLineStretch2" parent="CarryLineStretch" instance=ExtResource("5")]
+stream = ExtResource("17")
+volume_db = 4.661
+bus = &"NoMusic"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 300.0
+
+[node name="CarryLineContract" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_6nrck")
+volume_db = -8.448
+pitch_scale = 1.1
+bus = &"NoMusic"
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+
+[node name="AirborneSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("21")
+volume_db = 8.667
+pitch_scale = 0.6
+bus = &"NoMusic"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 300.0
+fadeInTime = 2.0
+fadeOutTime = 0.5
+
+[node name="CarryLineBreak" parent="." instance=ExtResource("5")]
+stream = ExtResource("22")
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 300.0
+
+[node name="MoveSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("23")
+volume_db = -12.0
+pitch_scale = 1.08
+bus = &"Keeper"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 300.0
+fadeInTime = 0.1
+fadeOutTime = 0.1
+loop = true
+
+[node name="MoveShurikenSound" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_i4vgr")
+volume_db = -10.18
+pitch_scale = 1.08
+bus = &"Keeper"
+maxAudibleDistance = 300.0
+fadeInTime = 0.1
+fadeOutTime = 0.1
+loop = true
+
+[node name="Stepsound" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_hhn5u")
+volume_db = 4.543
+bus = &"Keeper"
+showNameOnPlay = true
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="Stepladdersound" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_7dy1m")
+volume_db = -5.444
+pitch_scale = 1.1
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="Stepladdersound2" parent="Stepladdersound" instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_1j7fu")
+volume_db = -20.796
+pitch_scale = 1.04
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+randomPitch = 0.2
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="LadderSpawnSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("39")
+volume_db = 6.558
+pitch_scale = 1.56
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="Landsound" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_6ck2p")
+volume_db = -14.095
+pitch_scale = 1.35
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="Landsound2" parent="Landsound" instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_vnqkk")
+volume_db = -12.929
+pitch_scale = 1.36
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="WallgrabSound" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_jj5nl")
+volume_db = -7.759
+pitch_scale = 1.9
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="WallgrabSound2" parent="WallgrabSound" instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_jj5nl")
+volume_db = -12.384
+pitch_scale = 1.63
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+randomPitch = 0.2
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="WallJumpSound" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_jj5nl")
+volume_db = -7.869
+pitch_scale = 1.48
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="Jumpsoundvar" parent="WallJumpSound" instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_0pp2i")
+volume_db = -4.58
+pitch_scale = 1.45
+bus = &"Keeper"
+showNameOnPlay = true
+randomPitch = 0.3
+fadeOutTime = 0.1
+
+[node name="DoublejumpSound" parent="WallJumpSound" instance=ExtResource("5")]
+stream = ExtResource("44")
+volume_db = -1.122
+pitch_scale = 1.45
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="Jumpsound" parent="." instance=ExtResource("5")]
+stream = ExtResource("44")
+volume_db = 0.211
+pitch_scale = 1.13
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+randomPitch = 0.4
+fadeOutTime = 0.1
+
+[node name="Jumpsoundvar" parent="Jumpsound" instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_0pp2i")
+volume_db = -4.58
+pitch_scale = 1.45
+bus = &"Keeper"
+showNameOnPlay = true
+randomPitch = 0.3
+fadeOutTime = 0.1
+
+[node name="DoublejumpSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("44")
+volume_db = 1.5
+pitch_scale = 1.1
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="Jumpsoundvar2" parent="DoublejumpSound" instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_0pp2i")
+volume_db = -1.376
+pitch_scale = 1.45
+bus = &"Keeper"
+showNameOnPlay = true
+randomPitch = 0.3
+fadeOutTime = 0.1
+
+[node name="TriplejumpSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("44")
+volume_db = 1.5
+pitch_scale = 1.23
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="Jumpsoundvar3" parent="TriplejumpSound" instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_0pp2i")
+volume_db = -1.376
+pitch_scale = 1.45
+bus = &"Keeper"
+showNameOnPlay = true
+randomPitch = 0.3
+fadeOutTime = 0.1
+
+[node name="QuadrupleJumpSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("44")
+volume_db = 1.5
+pitch_scale = 1.41
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="Jumpsoundvar4" parent="QuadrupleJumpSound" instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_0pp2i")
+volume_db = -1.376
+pitch_scale = 1.45
+bus = &"Keeper"
+showNameOnPlay = true
+randomPitch = 0.3
+fadeOutTime = 0.1
+
+[node name="SpinSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("45")
+volume_db = 0.735
+pitch_scale = 0.95
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="DashSound" parent="." instance=ExtResource("5")]
+stream = ExtResource("44")
+volume_db = 8.892
+pitch_scale = 0.57
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="EmptyBombsound" parent="." instance=ExtResource("5")]
+stream = ExtResource("46")
+volume_db = -6.838
+pitch_scale = 1.27
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="ThrowRope" parent="." instance=ExtResource("5")]
+stream = ExtResource("47")
+volume_db = -4.593
+pitch_scale = 1.19
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="RopeStick" parent="." instance=ExtResource("5")]
+stream = ExtResource("48")
+volume_db = 4.957
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+maxAudibleDistance = 300.0
+fadeOutTime = 0.1
+
+[node name="RopeStretch" parent="." instance=ExtResource("5")]
+stream = ExtResource("49")
+volume_db = 7.0
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="RopeCharge" parent="." instance=ExtResource("5")]
+stream = ExtResource("50")
+volume_db = 7.0
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+loop = true
+
+[node name="FastThrowSound" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_t6xor")
+volume_db = 1.008
+pitch_scale = 1.03
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="FastThrowSound2" parent="FastThrowSound" instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_ntrv4")
+volume_db = 2.241
+pitch_scale = 0.79
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="ThrowBomb" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_t6xor")
+volume_db = -2.281
+pitch_scale = 0.75
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="ThrowResources" parent="." instance=ExtResource("5")]
+stream = ExtResource("58")
+volume_db = -2.281
+pitch_scale = 0.96
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="ThrowShuriken" parent="." instance=ExtResource("5")]
+stream = ExtResource("59")
+volume_db = -2.549
+pitch_scale = 0.95
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="ThrowShurikenUpgraded" parent="." instance=ExtResource("5")]
+stream = ExtResource("59")
+volume_db = -2.549
+pitch_scale = 0.95
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="ThrowShurikenUpgraded2" parent="ThrowShurikenUpgraded" instance=ExtResource("5")]
+stream = ExtResource("59")
+volume_db = -2.549
+pitch_scale = 0.95
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="ThrowChargedBomb" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_t6xor")
+volume_db = 3.0
+pitch_scale = 0.91
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="ThrowChargedBomb2" parent="ThrowChargedBomb" instance=ExtResource("5")]
+stream = ExtResource("39")
+volume_db = 3.0
+pitch_scale = 0.91
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="FirstClick" parent="." instance=ExtResource("5")]
+stream = ExtResource("60")
+volume_db = -17.482
+pitch_scale = 2.41
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+
+[node name="FirstClick2" parent="FirstClick" instance=ExtResource("5")]
+stream = ExtResource("61")
+volume_db = -19.882
+pitch_scale = 0.92
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 5.0
+fadeInTime = 0.6
+fadeOutTime = 0.1
+
+[node name="WallSliding" parent="." instance=ExtResource("5")]
+stream = SubResource("AudioStreamRandomizer_fbvry")
+volume_db = -14.812
+pitch_scale = 1.22
+bus = &"Keeper"
+showNameOnPlay = true
+randomVolume = 0.0
+fadeOutTime = 0.1
+loop = true
+
+[node name="AudioListener2D" type="AudioListener2D" parent="."]
+
+[node name="StepDust" type="GPUParticles2D" parent="."]
+z_index = -2
+z_as_relative = false
+material = SubResource("CanvasItemMaterial_g5lx1")
+position = Vector2(0, 4)
+emitting = false
+process_material = SubResource("ParticleProcessMaterial_l4cdt")
+texture = ExtResource("65")
+one_shot = true
+randomness = 1.0
+visibility_rect = Rect2(2, 2, 2, 2)
+
+[node name="WallSlideDust" type="GPUParticles2D" parent="."]
+z_index = -2
+z_as_relative = false
+material = SubResource("CanvasItemMaterial_g5lx1")
+emitting = false
+process_material = SubResource("ParticleProcessMaterial_7u06r")
+texture = ExtResource("65")
+lifetime = 0.5
+one_shot = true
+explosiveness = 1.0
+randomness = 1.0
+visibility_rect = Rect2(0, 0, 0, 0)
+
+[node name="WallJumpDust" type="GPUParticles2D" parent="."]
+z_index = -2
+z_as_relative = false
+material = SubResource("CanvasItemMaterial_g5lx1")
+emitting = false
+process_material = SubResource("ParticleProcessMaterial_7u06r")
+texture = ExtResource("65")
+lifetime = 0.5
+one_shot = true
+explosiveness = 1.0
+randomness = 1.0
+visibility_rect = Rect2(0, 0, 0, 0)
+
+[node name="Trail" type="GPUParticles2D" parent="."]
+material = SubResource("CanvasItemMaterial_g5lx1")
+position = Vector2(0, 4)
+emitting = false
+amount = 1
+amount_ratio = 0.0
+process_material = SubResource("ParticleProcessMaterial_l4cdt")
+texture = ExtResource("65")
+lifetime = 0.3
+one_shot = true
+randomness = 1.0
+visibility_rect = Rect2(2, 2, 2, 2)
+
+[node name="RayCastCeilingCheck" type="RayCast2D" parent="."]
+target_position = Vector2(0, -13)
+
+[node name="RayCastLeft" type="RayCast2D" parent="."]
+target_position = Vector2(-8, 0)
+
+[node name="RayCastRight" type="RayCast2D" parent="."]
+target_position = Vector2(8, 0)
+
+[node name="KunaiTrajectoryPredictor" parent="." instance=ExtResource("66")]
+
+[node name="AimIndicator" type="Node2D" parent="."]
+z_index = 12
+
+[node name="Sprite2D" type="Sprite2D" parent="AimIndicator"]
+texture_filter = 1
+position = Vector2(26, 0)
+rotation = 1.57079
+texture = ExtResource("67")
+
+[node name="NameTagPositioner" type="Node2D" parent="."]
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="NameTagPositioner"]
+offset_left = -30.0
+offset_top = -29.0
+offset_right = 210.0
+offset_bottom = 49.0
+scale = Vector2(0.25, 0.25)
+alignment = 2
+
+[node name="NameLabel" parent="NameTagPositioner/VBoxContainer2" groups=["keeper-name-label"] instance=ExtResource("68")]
+unique_name_in_owner = true
+layout_mode = 2
+alignment = 1
+icon_size = 35
+
+[node name="BuffedSprite" parent="." instance=ExtResource("69")]
+unique_name_in_owner = true
+visible = false
+position = Vector2(0, -1)
+
+[node name="KeeperSynchronizer" type="Node" parent="."]
+script = ExtResource("70")
+target_connection_states = [3, 6, 10]
+
+[node name="Light3D" parent="." instance=ExtResource("71")]
+
+[node name="KunaithrowVfx" type="AnimatedSprite2D" parent="."]
+sprite_frames = ExtResource("72")
+animation = &"kunaithrow"
+frame = 6
+frame_progress = 1.0
+offset = Vector2(5, -0.5)
+
+[connection signal="area_entered" from="UseArea" to="." method="_on_UseArea_usable_entered"]
+[connection signal="area_exited" from="UseArea" to="." method="_on_UseArea_usable_exited"]
+[connection signal="body_entered" from="UseArea" to="." method="_on_UseArea_usable_entered"]
+[connection signal="body_exited" from="UseArea" to="." method="_on_UseArea_usable_exited"]
+[connection signal="body_entered" from="CarryArea" to="." method="_on_CarryArea_body_entered"]
+[connection signal="body_exited" from="CarryArea" to="." method="_on_CarryArea_body_exited"]

@@ -1,0 +1,74 @@
+[gd_scene load_steps=10 format=3 uid="uid://q3bgnm8d5ck3"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://stages/loadout/KeeperChoice.gd" id="2"]
+[ext_resource type="Texture2D" uid="uid://175ljroa51wy" path="res://content/icons/loadout_keeper3-skin0.png" id="3"]
+[ext_resource type="PackedScene" uid="uid://02emll07tpim" path="res://content/shared/Usable.tscn" id="4"]
+[ext_resource type="StyleBox" uid="uid://dn7txqk3w8m3g" path="res://gui/buttons/button_focus_expand_beyond_parent.tres" id="5"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="6"]
+[ext_resource type="Material" uid="uid://ooltj4cifkjq" path="res://systems/style/materials/palette_swap_unmodulated.tres" id="7"]
+[ext_resource type="Texture2D" uid="uid://cmnyitowitaah" path="res://content/techtree/panels/lock_icon.png" id="8"]
+
+[sub_resource type="RectangleShape2D" id="1"]
+size = Vector2(80, 80)
+
+[node name="KeeperChoice" type="PanelContainer" groups=["keeper-choice"]]
+texture_filter = 1
+offset_right = 24.0
+offset_bottom = 24.0
+size_flags_horizontal = 3
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 2
+
+[node name="Sprite2D" type="TextureRect" parent="VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+texture = ExtResource("3")
+stretch_mode = 5
+
+[node name="NameLabel" type="Label" parent="VBoxContainer"]
+unique_name_in_owner = true
+visible = false
+custom_minimum_size = Vector2(160, 30)
+layout_mode = 2
+horizontal_alignment = 1
+autowrap_mode = 1
+text_overrun_behavior = 3
+
+[node name="Area2D" type="Area2D" parent="."]
+collision_layer = 8388608
+collision_mask = 8388608
+
+[node name="CS" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(63, 63)
+shape = SubResource("1")
+
+[node name="Usable" parent="." instance=ExtResource("4")]
+
+[node name="SelectedPanel" type="Panel" parent="."]
+visible = false
+layout_mode = 2
+mouse_filter = 2
+theme_override_styles/panel = ExtResource("5")
+
+[node name="Tween" parent="." instance=ExtResource("6")]
+
+[node name="LockIcon" type="TextureRect" parent="." groups=["styleShaderCallback", "styled"]]
+visible = false
+material = ExtResource("7")
+custom_minimum_size = Vector2(32, 36)
+layout_mode = 2
+size_flags_horizontal = 8
+size_flags_vertical = 0
+texture = ExtResource("8")
+expand_mode = 4
+stretch_mode = 5
+
+[connection signal="gui_input" from="." to="." method="_on_KeeperChoice_gui_input"]
+[connection signal="mouse_entered" from="." to="." method="_on_KeeperChoice_mouse_entered"]
+[connection signal="mouse_exited" from="." to="." method="_on_KeeperChoice_mouse_exited"]

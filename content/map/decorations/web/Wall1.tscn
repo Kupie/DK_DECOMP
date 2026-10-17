@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://content/map/decorations/fuzzy/fuzzy plant4.png" type="Texture2D" id=1]
+[ext_resource path="res://content/map/decorations/BorderDecoration.gd" type="Script" id=2]
+
+[node name="Fuzzy" type="Sprite2D" groups=["decoration"]]
+texture = ExtResource( 1 )
+offset = Vector2( -1, 0 )
+script = ExtResource( 2 )
+randY = Vector2( -3, 6 )

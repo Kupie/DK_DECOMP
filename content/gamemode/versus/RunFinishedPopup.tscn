@@ -1,0 +1,166 @@
+[gd_scene load_steps=9 format=3 uid="uid://cy06ex48thswp"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://content/gamemode/versus/run_finished_popup.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="3"]
+[ext_resource type="StyleBox" uid="uid://dkv8plo4j2b22" path="res://gui/panels/panel_outside.tres" id="4"]
+[ext_resource type="LabelSettings" uid="uid://b5aow2qb2h3pe" path="res://gui/fontsettings/HeadingFontSettings.tres" id="5"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="6"]
+[ext_resource type="PackedScene" uid="uid://bgvgpy4a60vvg" path="res://content/gamemode/RunStats.tscn" id="7"]
+[ext_resource type="PackedScene" uid="uid://b3qld2y8s0t2h" path="res://content/gamemode/unlockables/SpecialUnlocks.tscn" id="8"]
+
+[node name="RunFinishedPopup" type="CenterContainer" node_paths=PackedStringArray("titleLabel", "mainMenuButton", "mineViewButton", "clientDisconnectButton", "startAnotherRunButton")]
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme = ExtResource("1")
+script = ExtResource("2")
+titleLabel = NodePath("PanelContainer/MarginContainer/VBoxContainer/MarginContainer/TitleLabel")
+mainMenuButton = NodePath("PanelContainer/MarginContainer/VBoxContainer/NavigationButtons/MainMenuButton")
+mineViewButton = NodePath("PanelContainer/MarginContainer/VBoxContainer/NavigationButtons/MineViewButton")
+clientDisconnectButton = NodePath("PanelContainer/MarginContainer/VBoxContainer/NavigationButtons/ClientDisconnectButton")
+startAnotherRunButton = NodePath("PanelContainer/MarginContainer/VBoxContainer/NavigationButtons/AnotherRunButton")
+
+[node name="Tween" parent="." instance=ExtResource("3")]
+
+[node name="PanelContainer" type="PanelContainer" parent="."]
+custom_minimum_size = Vector2(1300, 0)
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_styles/panel = ExtResource("4")
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 30
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="TitleLabel" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/MarginContainer"]
+texture_filter = 4
+layout_mode = 2
+text = "SOMEONE WON"
+label_settings = ExtResource("5")
+horizontal_alignment = 1
+
+[node name="HBoxContainer" type="GridContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/h_separation = 32
+theme_override_constants/v_separation = 4
+columns = 2
+
+[node name="Team1Container" type="PanelContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 7
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Team1Container"]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Team1Container/MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 200
+
+[node name="VBoxContainer" type="VBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Team1Container/MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="LabelTeam1Title" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Team1Container/MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Team1"
+label_settings = ExtResource("6")
+horizontal_alignment = 1
+
+[node name="KeeperNameContainerTeam1" type="GridContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Team1Container/MarginContainer/HBoxContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 4
+columns = 5
+
+[node name="Team2Container" type="PanelContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 7
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Team2Container"]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Team2Container/MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 200
+
+[node name="VBoxContainer2" type="VBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Team2Container/MarginContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="LabelTeam2Title" type="Label" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Team2Container/MarginContainer/HBoxContainer/VBoxContainer2"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Team2"
+label_settings = ExtResource("6")
+horizontal_alignment = 1
+
+[node name="KeeperNameContainerTeam2" type="GridContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/Team2Container/MarginContainer/HBoxContainer/VBoxContainer2"]
+layout_mode = 2
+size_flags_horizontal = 4
+columns = 5
+
+[node name="PanelContainer" type="PanelContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="RunStatsTeam1" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PanelContainer/MarginContainer" instance=ExtResource("7")]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 4
+
+[node name="PanelContainer2" type="PanelContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="MarginContainer" type="MarginContainer" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PanelContainer2"]
+layout_mode = 2
+
+[node name="RunStatsTeam2" parent="PanelContainer/MarginContainer/VBoxContainer/HBoxContainer/PanelContainer2/MarginContainer" instance=ExtResource("7")]
+unique_name_in_owner = true
+layout_mode = 2
+size_flags_horizontal = 4
+
+[node name="SpecialUnlocks" parent="PanelContainer/MarginContainer/VBoxContainer" instance=ExtResource("8")]
+layout_mode = 2
+
+[node name="NavigationButtons" type="HBoxContainer" parent="PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="MainMenuButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/NavigationButtons"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "level.gameover.backtomainmenu"
+
+[node name="ClientDisconnectButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/NavigationButtons"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "level.gameover.clientdisconnect"
+
+[node name="MineViewButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/NavigationButtons"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "level.gameover.mineview"
+
+[node name="AnotherRunButton" type="Button" parent="PanelContainer/MarginContainer/VBoxContainer/NavigationButtons"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "level.gameover.retry"
+
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/NavigationButtons/MainMenuButton" to="." method="_on_MainMenuButton_pressed"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/NavigationButtons/ClientDisconnectButton" to="." method="_on_ClientDisconnectButton_pressed"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/NavigationButtons/MineViewButton" to="." method="_on_MineViewButton_pressed"]
+[connection signal="pressed" from="PanelContainer/MarginContainer/VBoxContainer/NavigationButtons/AnotherRunButton" to="." method="_on_another_run_button_pressed"]

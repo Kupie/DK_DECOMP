@@ -1,0 +1,15 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://crh30pyhgcdb"
+
+[deps]
+
+source_file="res://systems/localization/translations/localization_ro_RO.csv"
+dest_files=["res://systems/localization/translations/localization_ro_RO.ro_RO.translation"]
+
+[params]
+
+compress=true
+delimiter=0

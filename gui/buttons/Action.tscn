@@ -1,0 +1,68 @@
+[gd_scene load_steps=5 format=3 uid="uid://y24moy72idmu"]
+
+[ext_resource type="Texture2D" uid="uid://coqrko8smx6p3" path="res://gui/icons/blank_key.png" id="1"]
+[ext_resource type="Script" path="res://gui/buttons/Action.gd" id="2"]
+[ext_resource type="LabelSettings" uid="uid://bt8ja72pv60g8" path="res://gui/fontsettings/ActionHintFontSettings.tres" id="3"]
+[ext_resource type="FontFile" uid="uid://si1dqc317hp2" path="res://gui/fonts/joystix.monospace.ttf" id="4"]
+
+[node name="Action" type="TextureRect" groups=["gamepadListeners", "keybindingListeners"]]
+texture_filter = 1
+offset_right = 31.0
+offset_bottom = 31.0
+texture = ExtResource("1")
+expand_mode = 1
+stretch_mode = 5
+script = ExtResource("2")
+
+[node name="Label" type="Label" parent="."]
+texture_filter = 1
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -1.0
+offset_bottom = -3.0
+grow_horizontal = 2
+grow_vertical = 2
+text = "Q"
+label_settings = ExtResource("3")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="hold" type="Label" parent="."]
+visible = false
+texture_filter = 1
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -18.0
+offset_top = -29.0
+offset_right = 18.0
+offset_bottom = -31.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("4")
+theme_override_font_sizes/font_size = 12
+text = "actionhint.hold"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="tap" type="Label" parent="."]
+visible = false
+texture_filter = 1
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -9.0
+offset_top = -29.0
+offset_right = 9.0
+offset_bottom = -31.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("4")
+theme_override_font_sizes/font_size = 12
+text = "actionhint.tap"
+horizontal_alignment = 1
+vertical_alignment = 1

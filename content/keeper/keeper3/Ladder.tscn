@@ -1,0 +1,169 @@
+[gd_scene load_steps=3 format=3 uid="uid://ithj2bpurb03"]
+
+[ext_resource type="Texture2D" uid="uid://jlkcm6c717f6" path="res://content/dome/dome2/dome/dome02_shine.png" id="1"]
+
+[sub_resource type="Curve" id="Curve_o17hh"]
+_data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(1, 1), 0.0, 0.0, 0, 0]
+point_count = 2
+
+[node name="Ladder" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+visible = false
+z_index = 1000
+scale = Vector2(0.432432, 0.0942679)
+texture = ExtResource("1")
+
+[node name="Sprite2D4" type="Sprite2D" parent="."]
+visible = false
+z_index = 1000
+position = Vector2(-2.47955e-05, 6.48791)
+scale = Vector2(0.432432, 0.0942679)
+texture = ExtResource("1")
+
+[node name="Sprite2D5" type="Sprite2D" parent="."]
+visible = false
+z_index = 1000
+position = Vector2(-2.47955e-05, 14.4879)
+scale = Vector2(0.432432, 0.0942679)
+texture = ExtResource("1")
+
+[node name="Sprite2D6" type="Sprite2D" parent="."]
+visible = false
+z_index = 1000
+position = Vector2(-2.47955e-05, 22.4879)
+scale = Vector2(0.432432, 0.0942679)
+texture = ExtResource("1")
+
+[node name="Sprite2D7" type="Sprite2D" parent="."]
+visible = false
+z_index = 1000
+position = Vector2(-2.47955e-05, 30.4879)
+scale = Vector2(0.432432, 0.0942679)
+texture = ExtResource("1")
+
+[node name="Sprite2D8" type="Sprite2D" parent="."]
+visible = false
+z_index = 1000
+position = Vector2(-2.47955e-05, 38.4879)
+scale = Vector2(0.432432, 0.0942679)
+texture = ExtResource("1")
+
+[node name="Sprite2D9" type="Sprite2D" parent="."]
+visible = false
+z_index = 1000
+position = Vector2(-2.47955e-05, 46.4879)
+scale = Vector2(0.432432, 0.0942679)
+texture = ExtResource("1")
+
+[node name="Sprite2D10" type="Sprite2D" parent="."]
+visible = false
+z_index = 1000
+position = Vector2(-2.47955e-05, 54.4879)
+scale = Vector2(0.432432, 0.0942679)
+texture = ExtResource("1")
+
+[node name="Sprite2D11" type="Sprite2D" parent="."]
+visible = false
+z_index = 1000
+position = Vector2(-2.47955e-05, 62.4879)
+scale = Vector2(0.432432, 0.0942679)
+texture = ExtResource("1")
+
+[node name="Line2D" type="Line2D" parent="."]
+position = Vector2(-16, 56)
+scale = Vector2(1, 5.375)
+points = PackedVector2Array(0, 1.48837, 0, -12)
+width = 2.0
+width_curve = SubResource("Curve_o17hh")
+default_color = Color(0.0941176, 0.352941, 0.156863, 1)
+sharp_limit = 1.0
+
+[node name="Line2D2" type="Line2D" parent="."]
+position = Vector2(16, 56)
+scale = Vector2(1, 5.375)
+points = PackedVector2Array(0, 1.48837, 0, -12)
+width = 2.0
+width_curve = SubResource("Curve_o17hh")
+default_color = Color(0.0941176, 0.352941, 0.156863, 1)
+sharp_limit = 1.0
+
+[node name="Line2D3" type="Line2D" parent="."]
+position = Vector2(16, 0)
+rotation = -1.57079
+scale = Vector2(1, 5.375)
+points = PackedVector2Array(0, 0, -6.86646e-05, -5.95349)
+width = 2.0
+width_curve = SubResource("Curve_o17hh")
+default_color = Color(0.0941176, 0.352941, 0.156863, 1)
+sharp_limit = 1.0
+
+[node name="Line2D4" type="Line2D" parent="."]
+position = Vector2(16, 8)
+rotation = -1.57079
+scale = Vector2(1, 5.375)
+points = PackedVector2Array(0, 0, -6.86646e-05, -5.95349)
+width = 2.0
+width_curve = SubResource("Curve_o17hh")
+default_color = Color(0.0941176, 0.352941, 0.156863, 1)
+sharp_limit = 1.0
+
+[node name="Line2D5" type="Line2D" parent="."]
+position = Vector2(16, 16)
+rotation = -1.57079
+scale = Vector2(1, 5.375)
+points = PackedVector2Array(0, 0, -6.86646e-05, -5.95349)
+width = 2.0
+width_curve = SubResource("Curve_o17hh")
+default_color = Color(0.0941176, 0.352941, 0.156863, 1)
+sharp_limit = 1.0
+
+[node name="Line2D6" type="Line2D" parent="."]
+position = Vector2(16, 24)
+rotation = -1.57079
+scale = Vector2(1, 5.375)
+points = PackedVector2Array(0, 0, -6.86646e-05, -5.95349)
+width = 2.0
+width_curve = SubResource("Curve_o17hh")
+default_color = Color(0.0941176, 0.352941, 0.156863, 1)
+sharp_limit = 1.0
+
+[node name="Line2D7" type="Line2D" parent="."]
+position = Vector2(16, 32)
+rotation = -1.57079
+scale = Vector2(1, 5.375)
+points = PackedVector2Array(0, 0, -6.86646e-05, -5.95349)
+width = 2.0
+width_curve = SubResource("Curve_o17hh")
+default_color = Color(0.0941176, 0.352941, 0.156863, 1)
+sharp_limit = 1.0
+
+[node name="Line2D8" type="Line2D" parent="."]
+position = Vector2(16, 40)
+rotation = -1.57079
+scale = Vector2(1, 5.375)
+points = PackedVector2Array(0, 0, -6.86646e-05, -5.95349)
+width = 2.0
+width_curve = SubResource("Curve_o17hh")
+default_color = Color(0.0941176, 0.352941, 0.156863, 1)
+sharp_limit = 1.0
+
+[node name="Line2D9" type="Line2D" parent="."]
+position = Vector2(16, 48)
+rotation = -1.57079
+scale = Vector2(1, 5.375)
+points = PackedVector2Array(0, 0, -6.86646e-05, -5.95349)
+width = 2.0
+width_curve = SubResource("Curve_o17hh")
+default_color = Color(0.0941176, 0.352941, 0.156863, 1)
+sharp_limit = 1.0
+
+[node name="Line2D10" type="Line2D" parent="."]
+position = Vector2(16, 56)
+rotation = -1.57079
+scale = Vector2(1, 5.375)
+points = PackedVector2Array(0, 0, -6.86646e-05, -5.95349)
+width = 2.0
+width_curve = SubResource("Curve_o17hh")
+default_color = Color(0.0941176, 0.352941, 0.156863, 1)
+sharp_limit = 1.0

@@ -1,0 +1,2204 @@
+﻿key,eu_ES
+upgrades.teslapersistance1.title,Esfera iraunkorrak 1
+upgrades.keeper4ramping1.title,Inertzia
+upgrades.stationextensionupgrades.desc,Erosi hobekuntzak urrunetik estazioa erabiliz.
+upgrades.sword.title,Ezpata
+upgrades.autocannonimproved.desc,Kanoi automatikoaren ezaugarri oro hobetzen du.
+upgrades.drillbotstrength1.title,Indarra 1
+properties.monstermodifiers.timebetweenwavesmodifier,Zikloen luzera {.percent}
+level.gameover.unlock.modifiers,Jokaldi aldaera berria lortu duzu!
+keybindings.reset.explanation.ps5,Zure botoi loturak berrezarri egin dira oraintsu egin den eguneraketa baten ondorioz. Kontrolen sarrera eskeman aldaketa handiak egin ditugu. Barkatu eragozpenak!
+reward.rewardrerolloffers2.desc,Erabili ura hainbat aldiz gadget edo gehigarri eskaintzak birjaurtitzeko.
+upgrades.proberecharge.desc,Zunda bere kabuz kargatuko da denboran zehar.
+versus.corruptionmonsterdamage.title,Munstro hilgarriak
+loadout.start.area.press,Sakatu | zure jokaldia hasteko!
+upgrades.shieldbattleblastdamage.title,Leherketa hilgarria
+properties.monstermodifiers.move_speed,Munstroen mugimendu abiadura {.percent}
+upgrades.mushroomfarmspeed1.title,Onddo abiadura 1
+upgrades.chainsawdamage1.title,Zerraren tamaina 1
+properties.orchard.battlerootexplosion,Leherketa kaltea {}
+level.tutorial.assessor.bundleguide.desc2,Sakatu | norabide bat ezarri gabe geldi geratuko den multzo bat ezartzeko.
+upgrades.swordtargetlock.desc,"Jaurtitzean, ezpatak antzematen duen lehen munstroa hautatzen du jomugatzat."
+reward.rewardautomatedweapons.desc,Bigarren mailako armak automatiko bilakatu.
+options.input.gamepad,Agintea
+playerlist.profile,Profila ikusi
+upgrades.stunlaserstun1.title,Zorabio indarra 1
+properties.condenser.overchargedelay,Ekoizpenaren atzerapena (zikloak) {}
+exhibition.level.description,Menu nagusira itzultzen...
+keybindings.reset.explanation.switch,Zure botoi loturak berrezarri egin dira oraintsu egin den eguneraketa baten ondorioz. Kontrolen sarrera eskeman aldaketa handiak egin ditugu. Barkatu eragozpenak!
+upgrades.shockwave.title,Talka uhin mailuak
+properties.keeper3.shurikencooldown,Shurikenaren lehengoratze denbora {} seg
+title.navbar.leaderboard,Ospea
+modding.prestigewhitelist,"Ospe moduan onartua izan beharko litzatekeen modifikazio bat baldin badaukazu, esaiguzu Discord bidez eta aztertuko dugu. Onartutako modifikazioek ez dute jokoaren oreka aldatzen, erabilerraztasuna hobetu edo aldaketa kosmetikoak gehitzen dituzte."
+upgrades.extractordoublebuild.desc,Zizareen hazkundea hobetzen du.
+upgrades.chainsawdamage3.title,Zerraren tamaina 3
+modding.modio.error,Mod.IO akatsa
+loadout.versusmod.versusmodifiermirroredmap.desc,"Kupula azpiko mapak berdinak dira, ispilu batekin kopiatuak izango balira bezala."
+actionhint.blast,Leherketa
+multiplayer.host.crossplay,Joko gurutzatua aktibatu
+properties.converter.ironpercobalt,{} burdina kobalto bakoitzeko
+upgrades.shieldovercharge.desc,"Ura erabiliz ezkutua gainkargatu, hurrengo uhinean ekidingo dituen kalteak handituz."
+properties.droneyard.overchargebattledronestrength,Borroka droneak indartu {.percent}
+options.game.showkeeperaimindicator,Erakutsi Zaindariaren apuntatze adierazlea
+upgrades.autocannonautonomy.title,Autonomia
+properties.keeper4.holesquadduration,Meatze brigadaren iraupena {} seg
+level.gameover.saveimages,Gorde
+options.game.screenshake.shakeintensity,Astintzearen intentsitatea
+upgrades.keeper2pinballspherelifetime.desc,Esfera zinetikoek hegan iraungo duten denbora handitzen du. 
+upgrades.swordreflection2.title,Islatzea 2
+upgrades.lift.title,Igogailua
+assignment.circumstance,Baldintzak
+options.input,Kontrol-sarrerak
+properties.keeper2.spheresplit,Datozen esferak banatzea
+properties.tesla.damage,Deskargaren kaltea {}
+options.game.events.allowtelemetry,Internet bidezko multijokalaria aktibatu
+properties.keeper1.maxspeed,Abiadura maximoa {}
+level.tutorial.tesla.panel3content1,Tesla kupula gaitasun askoduna da. Dauzkan abilezia guztien elkarlanaren bidez lortuko duzu arrakasta.
+level.tutorial.sworddome.reflecting.desc,"Erabili ezpataren ezkutua jaurtigaiak gelditzeko, baita islatzeko ere."
+options.game.bundlesnapping,Multzoen apuntatzea norabide kardinaletara mugatu
+upgrades.spiresustain.title,Tirokatze mantendua
+reward.rewardpermanentinventory.title,Inbentario egonkorra
+properties.furnace.ironduration,Burdinaren erretze denbora (zikloak) {}
+level.gameover.assignment.badges.more,Misio honen erronka modua gaindituz gero beste domina bat lortuko duzu.
+upgrades.droneyardovercharge2.title,Gainkarga hobetua
+multiplayer.error.joincodefailed,Ez da eman duzun kodea duen gelarik aurkitu.
+properties.laser.movespeedwhilefiring,Tirokatze bitarteko abiadura {.percent}
+upgrades.keeper3shurikencooldown1.title,Shuriken azkarragoa
+upgrades.orchardduration2.desc,Fruituaren eragin positiboak are indartsuagoak eta iraunkorragoak dira.
+options.input.controls,Kontrolak
+upgrades.droneyardovercharge3.desc,Dronegunea gainkargatu ondoren drone gehiago izango dituzu.
+upgrades.blastminingimpactdetonation.desc,Lehergailuak gainazal bat ukitzean egingo du eztanda. Leherketa talkaren norabidearekiko orekatuko da.
+upgrades.drillbotstrength3.title,Indarra 3
+level.gameover.clientdisconnect,Ostalariarengandik deskonektatu
+upgrades.swordstabexplode.desc,"Ezpatak lehergailu bat darama, sastakatzen duen lehen etsaiaren aurka egiten du eztanda."
+properties.keeper4.minpunchdelay,Garrokada azkarrena {} seg
+options.audio.music,Musika
+upgrades.keeper3carrylimit3.title,Garraiatze ahalmena 3
+upgrades.keeper4swiftpunch.desc,Mea ateratzean hasierako abiadura handitzen du.
+assignment.showdown.desc,Planeta honetako munstroak eraso bakar baina bortitza prestatzen ari dira.
+properties.suitblaster.chargespeedpercharge,Lehergailu kargatze abiadura gehigarria (lehergailuko) {.percent}
+loadout.versusmod.versusmodifierhardrock,Arroka gogorra
+properties.keeper4.catgoblinminingspeed,Katugoblinen erauzketa abiadura {.percent}
+keeperdlc.title,Zaindari DLCa
+upgrades.drillbotduplicate.title,Bikia
+properties.mushroomfarm.drillbuffduration,Zulatze indarraren iraupena {} seg
+upgrades.droneyardbattlegridlong1.desc,Iraupen handiagoa izango duten drone gehiago agertuko dira.
+level.gameover.prestige.uploading.inprocess,Puntuazioa sarera igotzen...
+upgrades.furnace.desc,Ezarri tximiniadun labe bat. Keak munstroen hurrengo uhina atzeratuko du.
+leaderboard.needsOnlineServices.ps5,Onartu AELKa ezarpenetan rankingak ikusi ahal izateko.
+options.game.multiplayer,Multijokalaria
+upgrades.shieldbattledestructionprevention.desc,"Epe luzeko immunitatea izango duzu zure kupula apurtzear dagoenean.
+Erabili ondoren, zure ezkutua ez da kargatuko hurrengo borrokarako. Azken hatsa berriz aktibatu ahal izateko 2 uhin biziraun beharko ditu jokalariak."
+properties.keeper2.bundlestopcenter,Erdigune grabitate eremua
+upgrades.chainsawdamage2.title,Zerraren tamaina 2
+upgrades.keeper2rotationalmining1.title,Konpresio bidezko meatzaritza 1
+upgrades.swordlargeblade1.title,Aho pisutsua 1
+loadout.difficulty.veryeasy,Normala
+level.tutorial.assessor.spheres.desc2,Zure esfera kopurua mugatua da eta automatikoki kargatzen da denbora pasa ahala.
+level.tutorial.assessor.spheres.desc1,Sakatu | begira ari zaren norabidean esfera zinetikoak jaurtitzeko.
+upgrades.repellentdelay3.desc,Munstroen hurrengo uhina oraindik are gehiago atzeratzen du.
+upgrades.artillerydirecthit1.desc,Hobetu morteroa bete-betean jotako jaurtigaiak kaltegarriagoak izan daitezen.
+reward.rewardpet12.title,Txakurra
+upgrades.keeper2movement4.desc,Askoz azkarrago mugitu baliabideak batzean eta garraiatzean.
+properties.sword.stabspeed,Sastakatze abiadura {.percent}
+upgrades.artillerysplash3.title,Lehergailuen hedapena 2
+properties.drillbot.amount,Zulatze kolpeak {}
+options.game.autopickupkunaicarrier,Kunai garraiagailua automatikoki hartu
+upgrades.stunlaserautonomy1.desc,Laser zorabiatzailea kontrol gelatik kanpo zaudenean ere aktibatzen da.
+properties.laser.stun,Zorabioaren indarra {}
+level.gameover.continue,Jarraitu
+multiplayer.host.joincodeunavailable,Eskuraezina
+upgrades.shieldbattlelongerafterdepletion.desc,Leherketak luzaroago iraungo du ezkutua agortu ondoren aktibatzen bada.
+level.tutorial.assessor.mining.desc,"Harri bakar bat kentzeko, jarraitu haren aurka sakatzen."
+upgrades.teleporterteleportresourcesback.desc,Atariak automatikoki xurgatzen ditu inguruko baliabideak eta kupulara bidaltzen ditu.
+keybindings.reset.doreset.ps5,Nire botoi loturak berrezarri
+upgrades.jetpackstrength1.title,Garraiatze indarra 1
+level.tutorial.beastmaster.squad_1,Mantendu | zulo batetik hurbil meatze brigada bati deitzeko.
+loadout.prestige.pro.explanation,"Murriztu ausazkotasuna eta zehaztu ordena finko bat gadget, gehigarri eta haitzuloentzat."
+level.tutorial.beastmaster.squad_3,Brigada bakarra aritu ohi da lanean aldi berean.
+upgrades.swordelectrified.desc,"Korronte elektrikoa ezartzen da ezpataren ahoan zehar, ukitze hutsarekin kaltegarria dena."
+level.tutorial.beastmaster.squad_2,Zulo inguruko harriak erauziko dituzte ausaz.
+upgrades.drill1.title,Zulagailu indarra 1
+loadout.start.area.move,"Hasteko, mugitu zaindari guztiak hona!"
+level.station.upgrademenu.close,Itxi
+upgrades.rocketlauncherrestock.title,Misilak hornitu
+upgrades.chainsawdamage2.desc,Zerra biribilak munstroei kalte are handiagoa eragiten die.
+level.station.battle.navbar.artilleryshoot,Morteroa
+upgrades.repellentdelay3.title,Atzerapena 3
+upgrades.suitblasterspeed1.title,Kargatze denbora 1
+level.gameover.stats.additional,Estatistika zehatzak
+options.audio.music.ost.mode.adaptive,Egokitua (gomendatua)
+upgrades.furnacestrongwaterfiring.title,Ur erregai hobetua
+properties.dome.meleethorndamage,Itzulitako kaltea {}
+upgrades.repellentbattlelongerhealthreduction.desc,Ikus daitezkeen munstro guztien ahuldura handitzen du.
+level.tutorial.tesla.panel3header,Hainbat abilezia
+versus.corruptionstunresistance.desc,Munstroak zorabioarekiko eta geldotzearekiko oso erresistenteak izango dira.
+level.tutorial.assessor.spheres,Esfera zinetikoak
+upgrades.chainsawdouble.title,Zerra biribil bikoitza
+upgrades.keeper4squad1.desc,Katugoblin meatzari brigada berezia deitzen du inguruko harriak erauzteko. Baliabideen bila arakatzeko trebetasun handia daukate.
+versus.message.corruption,Beste taldeak munstroen madarikazio bat bidali dizu.
+options.keybindings.action.keeper.gadget1,Gadget 1
+options.keybindings.action.keeper.gadget2,Gadget 2
+upgrades.shieldbattlereflectspeed.title,Islatze azkartua
+properties.monsters.additionalstartweight,Uhinen pisu gehigarria {}
+level.gameover.stats.damagedealt,Eragindako kaltea
+properties.keeper2.reflectspeed,Esferen abiadura handitzea {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,Abilezia gehigarriaren iraupena {} seg
+properties.converter.ironcobalttime,Burdina kobalto bihurtze denbora (zikloak) {}
+upgrades.droneyardbattlegrid.desc,Inguruko munstroengandik babesteko borroka drone taldea ezartzen du.
+upgrades.suitblasterradius1.desc,Leherketaren erradioa handitzen du.
+upgrades.droneyardbattlegridquick1.title,Drone azkarrak
+options.input.controls.keybindings.button.ps5,Botoi loturak aldatu
+multiplayer.host.ping,Zerbitzariaren pinga: %dmseg
+title.navbar.singleplayer,Jokalari bakarra
+options.video.renderhalfres.enable,Bereizmen erdia adierazi
+level.gameover.stats.destroyedblocks,Suntsitutako blokeak
+upgrades.converterefficientwaterlong.desc,"Ur bihurketa aldatu, emaitza handiak ematen dituen prozesu luzeagoa bilakatuz."
+level.gameover.restart,Jokaldia berrabiarazi
+options.video.stretchmode.scaled,Eskalatua
+level.tutorial.beastmaster.mine.desc1,Harriak zulatzeko segi haien aurka sakatzen.
+level.tutorial.beastmaster.mine.desc2,Zulatze abiadura kolpez kolpe handitzen doa.
+upgrades.domesupplementscraprepair2.desc,Berreskuratu kupularen egitura osotasuna txatar konponketak eginez.
+upgrades.keeper2bundle3.desc,"Meategiaren erdigunera jaurtitako baliabide multzoak kupula azpian geldituko dira, hegaz jarraitu ordez."
+leaderboard.fellowkeepers,Elkartearen rankinga
+upgrades.autocannon.desc,Kupulan kanoi automatiko bat ezartzen du. Munstroei kalte handia eragiten die.
+properties.orchard.battlerootcatchduration,Tranparen iraupena {} seg
+upgrades.laseraimline.desc,"Laserrak joko duen itua adierazi, errazago apuntatzeko."
+upgrades.teslapersistance2.title,Esfera iraunkorrak 2
+upgrades.repellentoverchargeduration2.desc,Borroka abilezien gainkargaren eragina gehiago handitzen du.
+actionhint.teleport,Teleportatu
+loadout.difficulty.medium.description,Dome Keeperren jatorrizko zailtasun maila.
+upgrades.swordlargeblade2.title,Aho pisutsua 2
+loadout.prestige.endless,Amaigabea
+upgrades.teslanurture.title,Esfera elektrikoak elikatzea
+upgrades.shieldbattleelectroblast.desc,"Kupula inguruan eremu hilgarria sortzen duen borroka abilezia, epe laburreko iraupena dauka."
+options.game.blocklist.desc,"Blokeatu dituzun erabiltzaileen zerrenda.
+Hurrengo jokaldietan ezin izango duzu jokatu blokeatutako erabiltzaile batekin Internet bidez.
+Blokeatutako norbaiti buruz iritziz aldatzen baduzu, behean desblokeatu dezakezu.
+%s erabiltzaile blokeatu ditzakezu."
+actionhint.cancel,Ezeztatu
+upgrades.shockwavestun2.title,Talka uhin zorabioa 2
+upgrades.liftcapacity1.desc,Esferek baliabide gehiago garraia ditzakete.
+upgrades.domewavemeter.title,Etsaien gertutasun neurgailua
+level.gameover.assignment.win.title,MISIOA EGINDA
+gadget.slot.cellar,Sotoa
+options.game.ropecamerafollow,Soka erabiltzean kameraren aurrera begiratze indarra
+properties.probe.autorecharge,Kargatze automatikoa
+level.tutorial.repair.usecobalt,Kobaltoa erabili dezakezu zure kupula konpontzeko. Kupularen hobekuntza zuhaitzeko hobekuntzetako bat da.
+level.supplementchoice.title,HAUTATU GEHIGARRI BAT!
+options.keybindings.action.general.right,Eskuinera
+gadget.slot.keepersuit,Zaindariaren jantzia
+assignment.cobaltcontribution.desc,Zaindarien Elkarteak premiazko kobalto beharrizana dauka eta kobalto kopuru handia azkar bidaltzeko eskatu dizu.
+upgrades.prestigefinish.desc,Planetatik irten eta etxera itzuli.
+loadout.mapsize.huge.description,"Mapa erraldoia, jokaldi luzeenetarako."
+options.game.events,Ekitaldiak
+loadout.versusmod.versusmodifierrichirondeposits.desc,Burdina sedimentuak txikiak dira baina bakoitzak baliabide ugari dauka.
+loadout.mode.shortcycles.desc,Denbora gutxiago daukazu uhinen artean.
+multiplayer.error.lobby.host,Gela sortzean akatsa gertatu da.
+level.tutorial.sworddome.reflecting,Islatu
+level.tutorial.artillery.panel3header,Leherketak eta bete-betean jotako kolpeak
+assignment.rareiron.title,Burdina eskasia
+level.tutorial.assessor.carry.desc1_1,"Behin zugana lotuta, biltzeko tekla askatzen baduzu ere, baliabideek jarraitu egingo zaituzte."
+level.station.battle.navbar.slice,Moztu
+upgrades.furnacewaterfiring.title,Ur erregaia
+upgrades.drill.desc,"Meategian sakontzen duen erdiguneko zulagailua, hautazko albo-zulagailua daukana."
+level.gameover.stats.additionalgadget,Gadget gehigarria
+level.tutorial.tesla.panel2content1,Mantendu | deskarga bat kargatzeko.
+level.tutorial.tesla.panel2content2,"Deskarga jaurtitzeko, askatu soilik erabat kargatu ondoren. Erabat kargatu baino lehen askatuz gero ez da ezer gertatuko."
+upgrades.teslapersistance3.desc,Esfera elektrikoak oraindik are handiagoak dira eta oraindik are luzaroago irauten dute.
+upgrades.blastminingtriple.desc,"Hainbat lehergailu ekoizten ditu, bakarra ekoiztu beharrean."
+properties.droneyard.battledronecount,Borroka droneak {}
+options.ok,Ados
+loadout.versusmod.versusmodifiermanycaverns,Mapa leizetsua
+upgrades.lasermove1.desc,Laserra azkarrago mugitzen da.
+upgrades.domewavewarner.desc,"Uhinen ohartarazle egokituak neurgailu bat dauka, kupula berehala erasotuko dutenean abisatzen du. Denbora pasa ahala bere zehaztasuna hobetuko da."
+upgrades.dome4.title,Tesla Kupula
+upgrades.keeper4squad1.title,Tunel brigada
+upgrades.keeper4autospawnminers.desc,"Tunel bat zulatzen den bakoitzean, meatze brigada bat agertuko da automatikoki."
+assignment.unpredictable.title,Etendako komunikazioak
+upgrades.blastminingblast3.desc,Leherketaren indarra gorenera handitzen du.
+upgrades.domewavepathtodome.title,Irteera bidea
+level.tutorial.probe.popup_1,Sakatu | uhin bat sortzeko.
+upgrades.teslapower4.desc,Hobetu tesla deskargaren indarra maila gorenera.
+loadout.versus.modifiers.title,Modifikatzaileak
+properties.furnace.irondelay,Burdinaren atzerapena {} seg
+actionhint.pickup,Hartu
+demo.end.subtitle,"Bideojoko osoak eduki piloa eskaintzen du. Ongi pasatzen ari bazara, mesedez, hausnartu bertsio osoa erosteari buruz. Hauek dira eskaintzen dituen gauzetako batzuk:"
+loadout.versusmod.versusmodifierironinflation.desc,"Hobekuntza guztiek eskatzen dute burdina kopuru bikoitza, baina burdina sedimentuak aberatsagoak dira."
+upgrades.artilleryprojectileerasure.title,Jaurtigaien sakabanaketa
+options.video.brightness.reset,Berrezarri
+upgrades.domesandrepair.desc,Konpondu zure kupulak jasotako kaltea kobaltoa erabiliz.
+upgrades.swordlongblade2.title,Aho luzea 2
+pause.restartrun,Jokaldia berrabiarazi
+options.input.gamepad.thumbstick,Joko-palanka
+level.tutorial.caves,Kobazuloak
+options.input.gamepad.gamepadstickdeadzone.ps5,Joko palankaren gune itsua
+upgrades.keeper3shuriken2.title,Shuriken azkarra
+upgrades.condenserspeed1.desc,Ur unitate bat ekoizteko denbora murrizten du.
+properties.monsters.fixedweight,Uhinen indar finkoa {}
+properties.versus.ironcontribution,Burdinaren ekarpena {}
+multiplayer.join.title,Multijokalari saio batera sartu
+upgrades.assignmentssendwater.title,Ura bidali
+upgrades.keeper3kunaibounce2.title,Erresonantzia sakona
+upgrades.swordtargetlock.title,Jomuga hautaketa
+upgrades.artillerymachinegun4.title,Tirokatze azkarreko arma
+upgrades.mushroomfarmdrill2.title,Onddo meatzaritza 2
+upgrades.stunlaser.desc,Ezarri munstroak automatikoki bilatu eta zorabiatzen dituen laserra.
+upgrades.shieldbattleinvulnerable.title,Immunitatea
+loadout.hint.dome,Hautatu kupula bat!
+loadout.versusmod.versusmodifierrichirondeposits,Burdina sedimentu dentsoak
+upgrades.chainsawdouble.desc,"Ezarri beste zerra biribil bat, kupularen alde biak defendatzeko."
+properties.lift.capacity,Esferek garraiatzen duten baliabide kopurua {}
+properties.keeper2.bundlecentralmarker,Erdigune markagailua
+upgrades.autocannonrateoffire1.title,Metrailadorea 1
+loadout.versusmod.versusmodifierwindingmap,Mapa bihurgunetsua
+upgrades.prospectionmetersand2.title,Kobalto iparrorratza
+properties.lift.orbs,{} Esferak
+upgrades.keeper3doublejump.desc,Egin salto berriz airean zaudela.
+upgrades.droneyardparasites3.title,Drone bizkarroiak 3
+upgrades.keeper4doublesquad.title,Bigarren brigada
+upgrades.relichunt.title,Erlikia ehiza
+upgrades.orchardbattlerooting.desc,"Borrokatzean aktibatu kupula kanpoaldean agerrarazteko. Zapaltzean, tamaina ertaineko munstroak harrapatuko dituzte."
+upgrades.prospectionmetergadget.title,Eraginkortasun handiko neurgailua
+properties.sword.reflection,Ezkutuaren tamaina handitu
+upgrades.extractorresources1.desc,"Kontu handiz lan egiten duten zizareak hazi, burdina gehiago erauzi dezaten."
+properties.dome.autohealdamagethreshold,Aktibatu {}op baino gehiagoko kaltea jasotzean
+upgrades.keeper2rotationalmining2.desc,Harria zulatzeko abiadura hobetu.
+properties.tesla.persistencestunstrength,Esfera elektrikoen zorabio indarra {}
+level.gameover.stats.timeplayed,Jokatutako denbora
+properties.sword.stabdamage,Sastakadaren kaltea {}
+properties.monsters.additionalwaveweight,Uhinen indar gehigarria {.percent}
+options.game.playerindicatorsinmultiplayer,Multijokalarian jokalarien adierazleak erakutsi
+properties.mushroomfarm.speedbuff,Mugimendu abiaduraren hobekuntza {}
+level.tutorial.drillbot.carry,Hartu Drillbert bere tokitik eta kokatu harriak zulatzea nahi duzun lekuan.
+loadout.secondstage.cancel,Ezeztatu
+assignment.inversegravity.desc,Planetak alderantzizko grabitatea dauka.
+level.tutorial.drop.popup_2,Sakatu | ale bat askatzeko. Mantendu hainbat ale askatzeko.
+upgrades.droneyardbattlegridquick1.desc,Droneak erritmo azkarragoan agertuko dira.
+upgrades.mushroomfarmautopickup.desc,Onddoen ondotik pasatze hutsarekin kontsumitzeko ahalmena.
+level.tutorial.drop.popup_1,Baliabideak garraiatzeak geldotu egiten zaitu.
+properties.sword.retractspeed,Itzultze denbora {}
+reward.rewardkeeper1skin5.title,Ingeniari jantzia
+upgrades.keeper4.desc,"Garro trebeak erabiliz meategiak zeharkatzen dituen zaindari misteriotsua, morroi Katugoblinei aginduak emanez."
+assignment.condition.deliverwater,Bidali %d ur
+loadout.difficulty.hard.description,"Beno, azken finean zure kupula da..."
+upgrades.keeper4speed2.title,Mugimendu abiadura 2
+loadout.versusmod.versusmodifierhardrock.desc,Mapak arroka gogor gehiago dauka.
+properties.furnace.maxironstack,Burdinaren pilaketa maximoa {}
+upgrades.rocketlauncherdamage2.desc,Misilak are hilgarriagoak dira.
+upgrades.artilleryrotation1.desc,Handitu morteroaren errotazio esparrua.
+level.furnace.popup.fuel.add,Pilatu | bat erretzeko edo lurruntzeko.
+reward.rewardpostrunshowmonstercount.desc,"Jokaldi osteko borroka estatistika gehigarriak erakusten ditu, adibidez, munstro mota bakoitzeko zenbat kalte jaso duzun."
+upgrades.extractordoublebuild.title,Zizare bikoitzak
+multiplayer.error.otherteamquit,"Jokaldia eten egin da beste taldeko kide guztiak jokotik irten direlako. Zure jokaldia gordeta dago eta jarrai zenezake, jarraitzeko menuaren azpian multijokalaria aukera hautatuz."
+upgrades.blastminingproductiontime1.title,Ekoizpen denbora
+upgrades.chainsawdamage3.desc,Zerra biribilak munstroei oraindik kalte are handiagoa eragiten die.
+multiplayer.continue.deviceselection.originalplayer,Jatorrizko jokalaria
+upgrades.shieldbattleinvulnerable.desc,"Kupulari immunitatea ematen dion borroka abilezia, epe laburreko iraupena dauka."
+level.gameover.unlock.drillbert,Drillberten aldaera lortu duzu!
+multiplayer.host.splitscreen.desc.ps5,Zaindari gehiago agerrarazteko erabili aginteak aukeraketa menuan. Gehienez lau jokalarik parteka dezakete pantaila bakarra. Internet bidezko multijokalariarekin konbina daiteke.
+loadout.mapsize.large,Handia
+level.furnace.popup.explanation,Gehitu baliabideak erregai sortan. Baliabideak bata bestearen ondoren erretzen dira.
+upgrades.liftcapacity1.title,Garraiatze ahalmena
+upgrades.shockwavebig.title,Uhin hilgarria
+upgrades.extractorresources2.desc,Harrian dagoen burdina partikula guztiak erauziko dituzten zizareak hazten ditu.
+level.tutorial.ninja.shuriken.desc1,Sakatu | birritan shuriken bat jaurtitzeko.
+level.tutorial.ninja.shuriken.desc2,Shurikenak denbora pasa ahala kargatzen dira.
+upgrades.droneyarddronespeed1.title,Droneen abiadura
+properties.stunlaser.stunarea,Zorabio eremua
+assignment.weakmining.title,Meatze arazoa
+options.game.events.allowtelemetry.ps5,AELKa onartu
+upgrades.keeper3kunaibounce2.desc,Bote bakoitzean erakusten diren lauzen irismena handitzen du.
+assignment.projectilehell.title,Jaurtigai infernua
+options.input.controls.mouse.gamepad.ps5,Agintera aldatzea eta sagua erabiltzera itzultzea automatikoki detektatzea
+reward.rewardpermanenthealthmeter.title,Egitura osotasun neurgailu iraunkorra
+properties.game.fixedtimelimit,Denbora muga: {} minutu
+upgrades.drillbot.title,Drillbert
+options.video.performance,Errendimendua
+properties.furnace.waterduration,Uraren lurruntze denbora (zikloak) {}
+level.gameover.win.team.profile,Profila
+upgrades.droneyardbattlegrid.title,Borroka droneak
+loadout.prestige.countdown.description,Lortu ahalik eta ospe gehien 20 ziklotan. Ospe biderkatzailea 20 zenbakian hasten da eta 1 jaisten da ziklo bakoitzean.
+level.tutorial.ninja.carry.desc1,Sakatu | baliabideak daramatzan kunai bat jaurtitzeko honekin apuntatzen ari zaren bitartean: %s.
+level.gameover.miner.title,MEATZE MISIOA AMAITUTA
+loadout.mapsize.medium.description,"Batez besteko tamainadun mapa, ganorazko jokaldi baterako."
+upgrades.assignmentsemergencycontribution2.desc,Bidali pakete hau 4. txandarako edo bestela misioak porrot egingo du.
+level.gameover.unlocknewelementbutton,Hautatu zure lorpena
+upgrades.repellentbattlestrongerslowdown2.desc,Lanbroak munstroak are gehiago geldotzen ditu eta are luzaroago irauten du.
+upgrades.orchardovercharge2.desc,Gainkargaren borroka gaitasuna handitzen du.
+modding.steamworkshop,Ireki Steam Workshop
+upgrades.drillbotstrength2.title,Indarra 2
+reward.rewardkeeper1skin5.desc,Lortu Ingeniariarentzako jantzi berri bat.
+options.keybindings.rebinding.error.gamepad,Hau ezin da aginte loturatzat ezarri.
+properties.keeper2.actioncooldown,Ekintzaren lehengoratze denbora {} seg
+pause.godot,Godot erabiliz eginda
+loadout.mode.nomonsters,Munstrorik ez
+properties.teleporter.teleportduration,Teleportatze iraupena {} seg
+level.paused,Pausatuta
+upgrades.teslaautoaim.desc,"Apuntatzeko ituak erradio txiki bat lortzen du bere inguruan, bertan dagoen munstro hurbilenari erasoko dio automatikoki."
+upgrades.domearmorpulse.desc,"Kupularen armadurak jasotako erasoen energia zinetikoaren zati bat pilatzen du. Ondoren, uhin indartsutan askatzen du, etsaiak zorabiatuz."
+upgrades.teslapower2.title,Deskargaren indarra 2
+modding.close,Itxi
+upgrades.stunlaserduration2.desc,"Laser zorabiatzailea are azkarrago kargatzen da, eta are luzaroago tirokatzen du."
+level.station.battle.navbar.move,Mugitu
+upgrades.repellentbattleslowdown.title,Geldotzea
+properties.drillbot.buffstrength,Azkartze indartua {.percent}
+options.input.controls.keybindings.button.switch,Botoi loturak aldatu
+upgrades.keeper4speed1.title,Mugimendu abiadura 1
+upgrades.stunlaserduration2.title,Tirokatze ahalmena 2
+modding.profile.delete,Profila ezabatu
+upgrades.dome1health1.desc,Zure kupularen egitura osotasuna handitzen du iraunkorki.
+assignment.logistics.title,Amesgaizto logistikoa
+level.gameover.prestige.score.finalscore,Zure amaierako puntuazioa da...
+upgrades.prestige.desc,"Lor ezazu ospea Zaindarien Elkartean ahalik eta baliabide gehien bidaliz, baina egizu planetatik ihes menderatua izan baino lehen!"
+properties.chainsaw.damage,Kaltea segundoko {}
+upgrades.autocannonshotgun2.desc,Eskopetaren indarra handitzen du.
+reward.rewardthreechoicesgadget.title,Hiru gadget eskaintza
+options.input.gamepad.twinstick.xbox,Kontrolak bi joko palankarekin
+upgrades.domewavewarner.title,Uhin ohartarazle egokitua
+upgrades.mushroomfarmdrill2.desc,Onddoak jateagatik lortutako zulatze hobekuntza gehiago indartzen du.
+properties.suitblaster.chargespeed,Ziklo bakoitzeko lehergailuak {}
+loadout.player.color,Zaindariaren kolorea
+level.assignment.badges.unlock,Irabazi %d domina gehiago hau lortzeko.
+assignment.projectilehell.desc,Planeta jaurtigaiak botatzen dituzten piztia hegalariz beteta dago.
+properties.shield.overchargebattleabilityduration,Abilezia gehigarriaren iraupena {.percent}
+properties.orchard.battleshieldhp,Indarra {}op
+properties.keeper2.reflectsphere,Islatze eremua
+upgrades.probecharges.desc,Zunda beste behin erabili daiteke.
+upgrades.resourcepackerconstant.title,Pilatzaile aditua
+upgrades.droneyardbattlegridlong2.desc,Luzaroan iraungo duten drone gehiago askatzen ditu.
+upgrades.swordreflection2.desc,Ezkutu are handiagoa.
+upgrades.orchardovercharge3.title,Gainkarga indartsua
+upgrades.assignmentsemergencycontribution4.desc,Bidali pakete hau 11. txandarako edo bestela misioak porrot egingo du.
+upgrades.droneyardovercharge3.title,Gainkarga hedatua
+level.gameover.assignment.lose.title,MISIOAK PORROT EGIN DU
+actionhint.pack,Multzoa
+upgrades.stationextensionminimap.title,Kartografia
+properties.tesla.orbdamage,Esfera elektrikoen kaltea
+properties.furnace.maxwaterstack,Uraren pilaketa maximoa {}
+loadout.versusmod.versusmodifiermirroredmap,Mapa islatua
+upgrades.artilleryrotation1.title,Errotazio zabala
+upgrades.drillsidespeed2.desc,Albo-zulagailuen abiadura gehiago handitzen du.
+level.tutorial.resourcepacker.popup_1,"Baliabideetatik hurbil zaudenean sakatu | multzo trinko batean pilatzeko, errazago garraiatzeko."
+properties.orchard.overchargeabilityuses,Abileziaren erabilera gehigarriak {}
+options.input.controls.gamepadusage,Agintearen erabilera
+options.keybindings.restoredefault,Berrezarri jatorrizkoa
+options.input.gamepad.ps5,Agintea
+upgrades.stationextensionresolution.title,Bereizmen handiko pantaila
+upgrades.shieldbattlelongerafterdepletion.title,Agortutakoan indartzea
+telemetry.manage.ps5,AELKa ezeztatu
+level.gameover.stats.damagereceived,Jasotako kaltea
+modding.modio.moddownloadfailed,Akatsa Mod.IO modifikazio bat jaistean!
+loadout.versusmod.versusmodifierironinflation,Burdina inflazioa
+reward.rewardpermanentwavecount.title,Ziklo kontagailu egonkorra
+upgrades.jetpackstrength3.desc,Hobetu jetpacka oraindik are baliabide gehiago garraiatzeko.
+level.gameover.unlock.gadget,Gadget berria
+upgrades.stationextension.desc,"Estazio mugikor bat da, kupula azpiko burdinbide batean doana. Sar zaitez estazioan kupula urrunetik kontrolatzeko, meategi barnetik."
+loadout.versusmod.versusmodifierpoorirondeposits.desc,"Burdina sedimentuak oso hedatuta daude, baina bakoitzak baliabide kopuru txikia dauka."
+upgrades.repellentbattlestrongerslowdown2.title,Geldotze gorena
+upgrades.converterirontocobalt.desc,Kobaltoa burdina bihurtu eta alderantziz.
+loadout.dome,Kupula
+upgrades.orchardduration3.title,Fruitua 3
+level.gameover.stats.resourcesmined,Ateratako baliabideak
+options.input.gamepad.thumbstick.ps5,Joko-palanka
+upgrades.keeper1powerdrill.desc,"Lortu zeharo hobetua izan den zulagailua, harri gogorrena erraz zula dezakeena, lehen zulatzea ezinezkoa zen harri sakona barne."
+upgrades.domesecondweapon.title,Bigarren estazioan arma ezartzea
+actionhint.fire,Erasotu
+versus.corruptionfastprojectiles.title,Jaurtigai azkarrak
+level.gameover.unlock.dome,Kupula berria
+loadout.versus.modifiers.limit,%d modifikatzaile hautatuta %d modifikazio artetik.
+upgrades.swordstabfast2.title,Sastakada azkarra 2
+properties.blastmining.growthtime,Ekoizpen denbora (zikloak) {}
+options.keybindings.rebinding.inputprocessor.ps5,Sakatu botoi bat ekintza honetarako…
+level.gameover.stats.difficulty,Zailtasuna
+assignment.inversegravity.title,Buruz behera
+assignment.acidrain.desc,Planetaren euri azidoak bizitza oro ezabatzen du eta kupularen armadura zeharkatzen du.
+upgrades.keeper4doublesquad.desc,"Beste brigada bat lortu, deitzean lanerako prest egongo dena."
+upgrades.keeper4powerfulfirstpunch.desc,Lauza baten kontra egindako lehen kolpea aparteko indarrarekin egiten da.
+multiplayer.host.start,Saioa sortu
+upgrades.mushroomfarmspeed2.title,Onddo abiadura 2
+demo.end.more1,Kupula gehiago!
+demo.end.more2,Zaindari Balioztatzailea!
+upgrades.swordreflection1.desc,Ezkutuaren tamaina handitu eta jaurtigaiak islatzea baimentzen du.
+demo.end.more3,Gadget pilo bat gehiago!
+upgrades.chainsawspeed1.title,Zerraren abiadura
+assignment.treefarm.desc,"Planetako baliabideak urriak dira, baina zuhaitz mineralen hainbat hazi aurki daitezke."
+demo.end.more4,Gehigarri indartsuak!
+options.input.gamepad.gamepadstickdeadzone.text,"Doitu balioa neurgailuak ez dezan kliskatu joko palankaren ukitze hutsarekin.
+Neurgailuak kliska egin beharko luke joko-palanka normaltasunez mugitzen denean."
+actionhint.probe,Zunda
+level.gameover.keepgadget.keeping,Mantendu nahi duzun gadgeta: {gadget}
+upgrades.keeper3aerialmastery.desc,"Erortzen ari zarenean kontrola handitzen du, eta airean egindako salto bakoitzak aurrekoak baino gorago eramango zaitu."
+upgrades.drillbot.desc,Adoptatu ezazu zuloak egitea gogoko duen izaki maitagarri bat. Eraman ezazu meategira eta utzi nahi duzun tokian lan egiten. Itzul zaitez eta esnatu ezazu lo geratu bada.
+upgrades.laserstrength4.title,Indarra 4
+upgrades.artillerydoublemachinegun.title,Kanoi bikoitza
+upgrades.laserbend.desc,"Laserraren kanoiaren mutur birakariak automatikoki doitzen du bere norabidea, apuntatze akatsak zuzenduz."
+upgrades.teslaquickshot2.title,Deskarga azkar indartua
+properties.droneyard.battledronespawntime,Drone agerpen denbora {} seg
+upgrades.prospectionmetersand2.desc,Kobalto baliabide hurbilenarekiko norabidea adierazten du.
+upgrades.keeper2pinballreflect2.title,Islatze hobetua
+loadout.secondstage.start,Jokaldia hasi
+level.tutorial.extractor.popup_1,Hartu zizareak eta askatu burdina duen harri batetik hurbil. Harritik burdina erauzten joango dira denboran zehar.
+upgrades.spirestuntrap2.desc,Energia tranparen eraginkortasuna hobetzen du jaurtigai gehiago harrapatzeko.
+loadout.versus.condition.deathmatch.desc,Luzaroago bizirauten taldea irabazle.
+loadout.versusmod.versusmodifiertoughstart.desc,Munstro uhinak nahiko gogor hasten dira.
+level.tutorial.drillingrig.popup2,"Albo-zulagailu batetik hurbil zaudenean, mantendu | leize zuloan zehar mugitu ahal izateko."
+level.tutorial.drillbot.sleeping2,"Drillbertengandik hurbil, sakatu | esnarazteko."
+upgrades.teleporterteleportitems.title,Objektuak teleportatzea
+level.tutorial.drillingrig.popup1,"Zure zulaketa dorreak albo-zulagailua dauka, mea horizontalki ateratzen duena."
+level.tutorial.ninja.drop.desc1,"Sakatu | lurrean zauden bitartean zure %s erabiliz beherantz apuntatuz, daramatzazun objektu guztiak askatzeko."
+upgrades.stationextension.title,Lurrazpiko estazioa
+upgrades.keeper2pinballreflect2.desc,Esferak gehiago indartzen dira islatuak izan ondoren.
+properties.sword.stabrange,Irismena {}
+pause.disconnect.popup.ps5,Ezin duzu aginte nagusia indargabetu.
+options.game.systemcursor,Erabili saguaren jatorrizko kurtsorea
+upgrades.artillerygrenadefastreload.desc,Gutxitu zure morteroaren kargatze denbora nabarmenki.
+upgrades.stationextensionrevealdistance1.title,Harri hurbilen eskaneatzea
+loadout.mode.secondweapon,Bigarren arma jadanik lortuta
+options.video.reducedparticles,Partikula efektu murriztua
+properties.monsters.finalwavefixedstrength,Azken uhinaren indarra {}
+versus.corruptionfastmonsters.desc,"Munstroak azkarragoak izango dira, modu iraunkorrean."
+upgrades.spirestuntrap1.desc,Etsaien jaurtigai bat kolpatzean jaurtigai gehiago harrapatzeko gai den energia tranpa sortzen du. Tranpak harrapa dezakeen jaurtigai kopurua etsaiaren jaurtigaiaren potentziaren araberakoa da.
+versus.corruptionfastprojectiles.desc,Munstroen jaurtigaiak askoz azkarrago joango dira.
+options.input.gamepad.twinstick.switch,Joko-palanka bikoitzen kontrola (Joy-Con bakarrarekin desaktibatuta)
+upgrades.autocannonrateoffire2.title,Metrailadorea 2
+upgrades.chainsaw.title,Zerra biribila
+options.input.vibration.strength,Bibrazioaren indarra
+savegame.corrupted.title,Gordetako fitxategia galdu da
+properties.keeper1.drillstrength,Zulagailuaren indarra {}
+properties.prestige.multiplier,Ospearen biderkatzailea uhin bakoitzeko {}
+upgrades.artillerysplash4.desc,Eragin suntsipena borrokalekuan zehar lehergarritasun handiko 4 jaurtigai bata bestearen atzetik jaurtiz.
+upgrades.condenserdoublestorage.desc,Kondentsadoreak bi ur unitate ekoiztu eta pilatuko ditu lan egiteari utzi baino lehen.
+upgrades.shieldbattleactivateondepletion.desc,Immunitatea beste behin aktibatzen da automatikoki ezkutua agortzen denean.
+upgrades.chainsawspeed1.desc,Zerra arinago mugituko da alde batetik bestera.
+upgrades.teleporterteleportduration2.title,Teleportagailuaren iraupena 2
+properties.orchard.overchargeabilitystrength,Abileziaren indar gehigarria {.percent}
+modding.modio.loginfailed,Xbox kontua erabiliz Mod.IOn saioa hasteak huts egin du!
+upgrades.rocketlauncherrockets3.title,Misil sorta 3
+leaderboard.needsOnlineServices,Rankinga ikusteko Internet bidezko zerbitzuak aktibatu behar dira.
+options.game.blocklist,Blokeatutako erabiltzaileen zerrenda
+upgrades.keeper4squad3.desc,Katugoblinen kopurua eta erresistentzia gehiago handitzen ditu.
+reward.rewardweaponsupplements.desc,Zure armarentzako zeharo indartsuak diren gehigarriak aurkitu.
+upgrades.domesupplementadditionalcellar.desc,"Gehitu beste maila bat zure sotoari, zure gadgetentzako beste bi gune gehituz."
+level.tutorial.assessor.bundle.desc1,Sakatu | baliabideak dituzun bitartean multzo moduan jaurtitzeko.
+loadout.difficult.harder,Zailagoa
+playerlist.close,Itxi
+upgrades.keeper3rocketcarrier.title,Suziri garraiagailua
+level.tutorial.assessor.spheres.desc1.aiming,Sakatu | esfera zinetiko bat jaurtitzeko honekin apuntatzen ari zaren bitartean: %s.
+level.gameover.unlock.gamemode,Joko modu berria
+upgrades.rocketlauncherrockets1.title,Misil sorta 1
+upgrades.autocannonspeed1.title,Abiadura
+upgrades.spiresustain.desc,"Berriz kargatzeko denbora ia ezer ezera hobetu, tirokatze erritmo jarraituagoa lortzeko."
+upgrades.extractorresources1.title,Zizare arretatsuak
+multiplayer.host.splitscreen.desc.switch,Zaindari gehiago agerrarazteko erabili aginteak aukeraketa menuan. Gehienez lau jokalarik parteka dezakete pantaila bakarra. Internet bidezko multijokalariarekin konbina daiteke.
+level.assignment.badges,Dominak
+upgrades.prestigefinish.title,Planetatik irten
+properties.sword.slicebounceback,Ertza kolpatzean jauzia
+properties.droneyard.transportdronecount,Drone garraiatzaileak {}
+upgrades.drilladditionalsides.title,Albo-zulagailu gehigarria
+upgrades.shieldbattleblastdamage.desc,Leherketa elektrikoaren indarra eta erabilera kopurua handitzen ditu.
+upgrades.extractordestruction.title,Meategiaren inplosioa
+properties.sword.electricdamage,Ezpata elektrifikatuaren kaltea {}
+properties.mushroomfarm.growthtime,Hazkunde denbora (zikloak) {}
+upgrades.keeper3carrylimit2.desc,Kunai garraiagailuak eraman ditzakeen baliabide kopurua gehiago handitzen du.
+options.accessibility.fontsize,Letra tipoa
+upgrades.keeper4punch2.title,Eroaldia 2
+upgrades.laser.desc,Zure kupularekin batera mugitzen den laser zehatza. Jatorriz asteroide meatzaritzan erabilia.
+loadout.hint.multiplayer.playermaximum,8 jokalari edo gutxiago behar dira multijokalari jokaldi bat hatseko.
+upgrades.drillsides.title,Albo-zulagailua
+upgrades.mushroomfarmautopickup.title,Mokadu azkarra
+options.input.controls.mouseusage,Saguaren erabilera
+properties.tesla.reticlemaxspeed,Ituaren abiadura {}
+upgrades.swordstabshoot.desc,"Ezpata kable bidez itzularazi ordez, bulkada prestatu eta ondoren xabalina moduan jaurtitzen da kupulatik at."
+properties.condenser.autocollect,Biltegiratze automatikoa
+level.gameover.back,Atzera
+loadout.mapsize.small,Txikia
+loadout.hint.gamemode,Hautatu jokatzeko modua!
+upgrades.swordlargeblade3.title,Aho pisutsua 3
+level.tutorial.ninja.controls,Zaindari hau agintearekin edo saguarekin eta teklatuarekin kontrolatu daiteke soilik.
+telemetry.explanation.ps5,"Onartu gure AELKa Internet bidezko multijokalarian sartzeko.
+Onartzen ez baduzu ere, tokiko multijokalaria pantaila banandu bidez erabiltzeko gaitasuna mantenduko duzu.
+
+Aukera hau nahi duzunean aldatu dezakezu ezarpenetan."
+multiplayer.techtree.keeperexclusiveupgrades,Hobekuntza hauek zure zaindariari ezarriko zaizkio soilik.
+assignment.heavyhitters.desc,Planeta aurrez aurre borrokatzen duten munstroz beteta dago.
+options.input.controls.mouse.domes,Erabili sagua Kupulak kontrolatzeko
+loadout.mode.toughstart,Hasiera latza
+upgrades.swordaimline.desc,"Laser bidez egindako lerroa, ezpataren urrutiko sastakadak errazteko."
+upgrades.assignmentssendiron.title,Burdina bidali
+upgrades.domearmormelee1.title,Aurrez aurreko armadura 1
+assignment.showdown.title,Liskar itzela
+upgrades.keeper3shuriken1.desc,"Erradio txikidun leherketa egiten duen shurikena lortu, automatikoki kargatzen dena."
+upgrades.teslatiming1.title,Erritmo bikaina
+upgrades.stationextensionrevealdistance2.title,Harriak eskaneatzea
+loadout.prestige.pro.gadgetorder,Gadgeten ordena
+upgrades.prospectionmeterwater1.title,Ur neurgailua
+properties.teleporter.teleportresources,Baliabideak teleportatzea
+options.video.stretchmode.scaled.text,"Joko bereizmen finko batean adierazten du eta eskala bidez moldatzen du zure bereizmenera.
+Pixelatua izan daiteke, batez ere letra-tipoan, baina ez da akats grafikorik egongo pixel lerroetan."
+modding.modio.decline,Ezeztatu
+level.station.battle.navbar.stab,Sastakatu
+properties.keeper3.bouncesonarrange,Sonarraren irismena (lauzak) {}
+assignment.cobaltcontribution.title,Kobalto ekarpena
+upgrades.keeper2pinballsplit.desc,"Esfera zinetikoak bitan banandu, jatorrizko ibilbidearekiko perpendikularki jaurtiz."
+options.input.gamepad.switch,Agintea
+upgrades.stunlaserduration1.desc,"Laser zorabiatzailea azkarrago kargatzen da, eta luzaroago tirokatzen du."
+properties.spire.stuntrapduration,Iraupena {} seg
+loadout.mapsize.medium,Ertaina
+upgrades.keeper4swiftpunch.title,Kolpe azkarrak
+upgrades.domewavecount.title,Zikloen kontagailua
+level.gadgetchoice.slot,Tartea: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,Hartu mizelio esporak onddoaren enborretik eta utzi harri gainean. Batzuetan hobekuntza onddoa agertuko da.
+options.game.languages,Hizkuntzak
+upgrades.autocannonshotgun2.title,Eskopeta 2
+upgrades.drillbotturnaround.title,Baldintzapen aurreratua
+level.tutorial.overcharge.popup_2,Hurbildu zaitez eta sakatu | gainkargatzeko.
+level.tutorial.overcharge.popup_3,"Horrek | bat kontsumituko du, nahikoak edukiz gero egin daiteke soilik."
+level.tutorial.overcharge.popup_1,"Orain zure lehen gadgeta gainkargatu dezakezu, hurrengo borrokarako indartuz."
+modding.modio.modio,Mod.IO
+upgrades.liftorbless.desc,"Esferak erabili beharrean, igogailu eremu barruan dauden baliabide guztiak igoko dira, alderantzizko grabitate eremu bati esker. Esferetan inbertitutako baliabideen berreskurapen partziala dakar."
+level.station.navbar.battle,Guda
+options.keybindings.rebinding.error.mouse,Hau ezin da sagu loturatzat ezarri.
+options.input.gamepad.autoswitch,Lehenetsitako agintearen detekzio automatikoa
+properties.lift.keeperupwardsspeed,Zaindariaren igogailu abiadura {}
+loadout.keeper,Zaindaria
+level.gameover.unlock.keeper,Zaindari berria
+options.keybindings.rebinding.inputprocessor,Sakatu tekla berri bat ekintza honetarako…
+options.input.gamepad.xbox,Agintea
+upgrades.keeper4extraresource.title,Katugoblin arretatsuak
+upgrades.shieldoverchargestrength2.title,Ezkutuaren gainkarga indarra 2
+loadout.mode.domesupplements,Gehigarri hirukoitzak
+upgrades.converter.desc,"Baliabideak beste baliabide bihurtu ditzake, zure inbentarioa orekatzeko oso lagungarria da."
+assignment.minorvision.title,Iluntasuna
+upgrades.shieldstrength1.desc,Ezkutuak ekidingo dituen kalteak handitzen ditu.
+properties.stationextension.tilerevealdistance,Distantzia erakutsi (lauzak) {} 
+loadout.mode.toughstart.desc,Uhin gogorragoak hasieratik.
+upgrades.liftcarrykeeper1.desc,Igogailuak zaindaria azkarrago igo dadila baimentzen du.
+options.input.controls.mouse.aim,Sagua erabili apuntatzeko
+upgrades.spireprojectileslowdown.desc,Obeliskoak modu jarraituan geldotzen ditu etsaien jaurtigai guztiak.
+assignment.chosen.title,Zure Zaindarien Elkarteko misioa
+upgrades.furnacestrongwaterfiring.desc,Ura lurruntzean munstroen atzerapena handitzen du.
+properties.dome.healthfractionrepair,Konponketa op guztien {.percent}
+level.tutorial.assessor.carry,Grabitate bidezko bilketa
+upgrades.laserhitprojectiles.title,Jaurtigaiak disolbatzea
+upgrades.teslaorbstun.title,Zorabio sakona
+reward.rewardgadgetsupplements.title,Gadgeten gehigarriak
+options.input.controls.keepersettings.individual,Zaindari bakoitzeko ezarpenak
+upgrades.teslapower2.desc,Hobetu tesla deskargaren indarra are gehiago.
+properties.acidrain.fixeddamageperminute,Minutuko sortutako kaltea (DPM) {}
+demo.end.more,Eta askoz gehiago:
+landing.proceed.xbox,Sakatu botoi bat jarraitzeko
+modding.modio.ugcterms.content2,"Jarraituz gero, zure Xbox Live identifikatzailea erabiliko da Mod.IOn zure izena emateko. Aurrera egiteko, Mod.IOren baldintzak irakurri eta onartu beharko dituzu:"
+upgrades.keeper4catgoblinamount.title,Kumaldi hedatua
+modding.modio.ugcterms.content3,[i]Baldintzak zure sistemaren lehenetsitako nabigatzailea erabiliz agerraraziko dira.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,Geldotze hobetua
+upgrades.spiresplit1.title,Jaurtigaiak zatitzea
+upgrades.suitblasterradius2.title,Leherketaren erradioa 2
+properties.keeper4.punchstrength,Garroen indarra {}
+modding.modio.ugcterms.content1,"Erabiltzaileek sortutako edukiari (ESE) dagokionez, sarbidea izateko, jaisteko eta kudeatzeko, bideojoko honek [b]mod.io[/b] zerbitzua erabiltzen du."
+upgrades.versus.title,Versus
+upgrades.swordstabexplode.title,Sastakada lehergailu bidalketa
+modding.modlist.title,Aktibatutako modifikazioak
+options.game.kunaisnapping,Kunaien apuntatzea norabide kardinaletara mugatu
+loadout.versusmod.versusmodifiersecondweapon,Bigarren arma jadanik lortuta
+upgrades.teleporterteleportduration1.desc,Zeure burua arinago teleportatuko duzu.
+options.input.controls.keybindings.button,Tekla loturak aldatu
+upgrades.domearmor.title,Kupularen armadura
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"Doitu balioa neurgailuak ez dezan kliskatu joko palankaren ukitze hutsarekin.
+Neurgailuak kliska egin beharko luke joko-palanka normaltasunez mugitzen denean."
+options.translation.community.desc,"Hizkuntza hauek gure komunitate maiteak itzultzen ditu. Nahi baduzu, batu zaitez ekimenera!"
+level.tutorial.beastmaster.mine,Meatzea
+upgrades.keeper4speed1.desc,Mugimendu abiadura handitzen du.
+properties.repellent.overchargebattleabilityduration,Abileziaren iraupen gehigarria {.percent}
+upgrades.shockwavedamage2.desc,Talka uhinak sortutako kaltea are gehiago handitzen du.
+network.error.offline.xbox,"Xbox sarearekiko konexioa eten egin da. Mesedez, ziurtatu zure sare konexioa ondo dabilela eta saia zaitez berriz."
+properties.condenser.waterstorage,Ur biltegiratze kopurua {}
+loadout.versusmod.versusmodifierstrongmonsters.desc,Munstroak akabatzea zailagoa da.
+title.navbar.modding,Modifikazioak
+upgrades.dome3.desc,"Mortero indartsua erabiliz suntsipena eragiten duen kupula militarra. Arma antiaereoa ere dakar, babes ahalmen oro edukitzeko."
+upgrades.keeper4powerfulfirstpunch.title,Lehen zartakoa
+properties.sword.brake,Ezpata balazta {}
+level.tutorial.suitblaster.popup_1,"Sakatu | jantzi lehergailua erabiltzeko, zure inguruko erradio batean harriak suntsitzeko."
+properties.stunlaser.firetime,Tirokatze denbora {} seg
+level.tutorial.suitblaster.popup_2,Automatikoki kargatzen da denboran zehar.
+properties.droneyard.battleabilityuses,Borroka bakoitzeko erabilpenak {}
+upgrades.keeper4ramping1.desc,Zulatze abiadura areagotzen doa etengabe zulatuz gero. Inertzia galduz doa zulatzeari uzten diozunean.
+level.gameover.unlockpicker.title,HAUTATU LORTU NAHI DUZUNA
+options.input.gamepad.autoswitch.ps5,Lehenetsitako agintearen detekzio automatikoa
+upgrades.suitblaster.desc,Zure inguruko harriak suntsitzen dituen jantzi lehergailua ezartzen du.
+upgrades.spiresplit1.desc,"Kolpatutako jaurtigaiak txikiagoak diren batzuetan zatitzen dira, etsaiak kaltetuz. Etsaiaren jaurtigaiaren potentziaren araberakoa izango da jaurtigai txikien kopurua."
+properties.versus.additivewave,Handitutako uhinaren indarra (beste taldea) {}
+properties.keeper3.aircontrol,Kontrola airean {.percent}
+multiplayer.error.keepertaken,"Hautatutako zaindaria jadanik aukeratua izan da. Mesedez, saiatu beste zaindari bat hautatzen."
+assignment.mode.challenge,Erronka
+upgrades.keeper3shurikenstrength1.desc,"Shurikenaren leherketa handitzen du, lauzak erradio handiagoan suntsituz."
+pause.invite,Laguna gonbidatu
+options.accessibility.fontsize.medium,Ertaina
+upgrades.keeper2pinballdestroyadjacenttiles.desc,Esfera zinetiko batek arroka bloke bat suntsitzen duen bakoitzean perpendikularki dauzkan beste blokeak ere suntsitzen dira.
+upgrades.furnaceironfiring.title,Burdina erregaia
+upgrades.furnaceslowdown.desc,"Keari osagai toxikoak gehitzen dizkio, munstroen nerbio sistemei eragin eta etsaien mugimendua geldotzeko."
+upgrades.swordlargeblade2.desc,"Ezpata erraldoia da. Geldoago mugitzen da, baina kalte itzelak eragiten ditu."
+upgrades.blastminingblast1.desc,Leherketaren indarra handitzen du.
+upgrades.stationextensionrevealdistance1.desc,Estaziotik hurbil dauden harriak eta baliabideak automatikoki erakusten dira.
+leaderboard.season,{season}. denboraldia
+multiplayer.host.crossplay.enabled,Joko gurutzatua aktibatuta
+multiplayer.techtree.keepersharedupgrades,Hobekuntza hauek gadget hau daukaten zaindarien artean partekatzen dira.
+loadout.versusmod.versusmodifierlongcycles.desc,Munstroen uhinen arteko denbora tarteak luzeagoak dira.
+upgrades.artillerydirecthit2.title,Munstro suntsitzailea 2
+upgrades.stationextensionresolution.desc,Kupularen eta haren inguruaren irudi zehatzagoa izango duzu.
+options.keybindings.action.general.use,Erabili
+loadout.relichunt.modifiers,Jokaldiaren modifikatzaileak
+assignment.heavyhitters.title,Kolpatzaile gogorrak
+upgrades.furnacelastingwaterfiring.title,Ur erregai iraunkorra
+properties.shield.battleblastdamage,Segundoro egindako kalte elektrikoa {}
+multiplayer.error.timeout,Konektatzeko epea amaitu da.
+multiplayer.join.discovering,Saioak bilatzen...
+properties.condenser.growthtime,Ekoizpen denbora (zikloak) {}
+level.gameover.assignment.badges,Zaindarien Elkarteko sariak lortzeko erabili daitekeen domina berri bat eskuratu duzu.
+upgrades.drill2.desc,Zulagailua indartu are azkarrago zula dezan.
+level.corruptionchoice.title,HAUTATU MADARIKAZIO BAT!
+properties.artillery.grenadedamage,Jaurtigaiak sortutako kaltea {}
+level.tutorial.fullscreen.continue,Jarraitu
+options.game.spheresnapping,Esferen apuntatzea norabide kardinaletara mugatu
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Mugimendua detektatzean:
+options.input.gamepad.icons.automatic,Automatikoak
+reward.rewardkeeper4skin3.title,Piztiazain jantzia
+upgrades.prestige.title,Ospea
+upgrades.keeper3shurikenstrength1.title,Shuriken indartsuak
+upgrades.spiresplit2.desc,Zatitutako jaurtigaiak azkarragoak eta ugariagoak dira.
+upgrades.swordlargeblade1.desc,"Ezpata zabalagoa eta luzeagoa, kaltegarriagoa."
+upgrades.droneyardbattlegridlong1.title,Iraupen handiko droneak
+properties.stunlaser.speed,Abiadura {}
+upgrades.repellentbattleslowdownstun2.desc,Esporak sarriago erabili eta munstroak luzaroago geldiarazten ditu.
+upgrades.drillsidespeed1.desc,Albo-zulagailuen abiadura handitzen du.
+level.tutorial.ninja.bombs.desc1,Mantendu | mea ateratzeko kunai bat jaurtitzeko honekin apuntatzen ari zaren bitartean: %s.
+loadout.mode.maze.desc,"Mapa labirinto modukoa da, adar askoduna, bihurgune eta bat-bateko amaierekin."
+upgrades.domesupplementprojectiledamagereduction2.desc,Desbideratzea gehiago hobetu jaurtigaien kaltea murrizteko.
+level.tutorial.ninja.bombs.desc2,Kunaiek jauzi egingo dute angelu aldapatsudun horma bat kolpatzen dutenean.
+upgrades.domesupplementmeleedamagereduction1.desc,"Kupularen kroskoa indartu, aurrez aurreko kolpeek kalte gutxiago egin dezaten."
+upgrades.chainsawautonomy.title,Autonomia
+options.input.gamepad.gamepadstickdeadzone,Joko-palankaren gune itsua
+upgrades.teslapower3.desc,Hobetu tesla deskargaren indarra oraindik are gehiago.
+level.tutorial.artillery.panel1header,Morteroa
+upgrades.keeper4punch3.title,Eroaldia 3
+upgrades.furnaceslowdown.title,Ke geldoarazlea
+upgrades.teslaspeed1.desc,Apuntatzeko itua azkarrago mugitzen da.
+upgrades.teslaquickshot2.desc,Deskarga azkarra askoz indartsuagoa da.
+level.tutorial.repair.findcobalt,Saiatu kobalto apur bat bilatzen. Zure kupula konpon dezakezu hori erabiliz. Baliabide oso urria eta amaikorra da.
+title.navbar.newgame,Jokaldi berria
+options.keybindings.action.dome.battle,Borroka modua
+upgrades.keeper2pinballsplit.title,Esfera banaketa
+reward.rewardcentralmarker.title,Erdigune markagailua
+options.keybindings.gamepad,Agintea
+options.video.stretchmode.rezised.text,"Jokoa jatorrizko pantailan edo leihoaren bereizmenean adierazten du.
+Irudia zehatza da, baina akats grafikoak izan ditzake, pixel bakarreko zabaleradun lerroak ager daitezke."
+options.audio,Audioa
+upgrades.domehealthmeter.desc,Adierazi kupularen egitura osotasuna.
+upgrades.shieldbattlereflectshortuses.title,Islatze neurtua
+loadout.zoom1,Hurbil
+loadout.zoom2,Urrun
+upgrades.orchardovercharge.title,Baratzea gainkargatu
+upgrades.keeperonewayteleporter.desc,Norabide bakarreko teleportagailu pertsonala lortu. Ezarri erabilera bakarreko ataria nonahi eta itzul zaitez hara nahi duzunean.
+options.input.controls.gamepadusage.ps5,Agintearen erabilera
+properties.orchard.battleroots,Lurrean sustraiak hazi {}
+upgrades.mushroomfarm.desc,"Sotoan onddo haztegia ezartzen du, onddoak meategian landatu daitezke abiadura eta zulatze hobekuntzak lortzeko."
+keybindings.reset.title.ps5,Botoi loturak berrezarri
+multiplayer.continue.deviceselection.cancel,Hautatutakoa ezeztatu
+loadout.hint.selection,Sakatu | aukera bat hautatzeko.
+upgrades.orchardbattleshieldsecondlayer.title,Adaburu geruza bikoitza
+properties.artillery.grenades,Jaurtigaiak {}
+upgrades.drill3.title,Zulagailu indarra 3
+assignment.weakcarry.title,Arazo logistikoa
+upgrades.shockwavestun1.title,Talka uhin zorabioa 1
+upgrades.domesupplementprojectiledamagereduction1.title,Kupularen kroskoaren desbideratzea
+properties.keeper3.maxjumps,{} salto
+upgrades.converterefficientcobalt.desc,"Bihurketa hobetu, eraginkorragoa izan dadin."
+properties.furnace.waterdelay,Uraren atzerapena {} seg
+gadget.slot.keepersupplement,Zaindariaren gehigarria
+upgrades.keeper4ramping2.title,Inertzia 2
+upgrades.orchardduration1.title,Fruitua 1
+upgrades.domesupplementprojectiledamagereduction2.title,Desbideratze hobetua
+loadout.pet,Maskota
+reward.rewarddomesupplements.desc,Zure kupularentzako zeharo indartsuak diren gehigarriak aurkitu.
+properties.prestige.score,Ospea {}
+properties.keeper3.kunaicooldown,Kunaiaren lehengoratze denbora {} seg
+upgrades.stunlaserarea.title,Zorabio eremua
+upgrades.blastminingblast2.desc,Leherketaren indarra gehiago handitzen du.
+reward.rewardrerolloffers2.title,Ur birjaurtitzea
+upgrades.artillerysplash1.title,Lehergailuen hedapena 1
+upgrades.drillwidetunnel.title,Tunel zabala
+modding.modio.ugcterms.title,Erabiltzaileek sortutako edukiaren erabilera baldintzak
+options.input.controls.keepersettings.title,Zaindarien kontrol-sarrerak
+loadout.team.join,Bildu
+upgrades.domearmorhealth1.desc,"Armaduraren iraunkortasuna handitu, egitura osotasuna handituz."
+reward.rewardgadgetsupplements.desc,Zure gadgetentzako zeharo indartsuak diren gehigarriak aurkitu.
+properties.laser.movespeedmod,Mugimendu abiadura modifikatzailea {.percent}
+upgrades.domeresourcecounters.title,Inbentarioaren kudeaketa
+level.tutorial.tesla.panel2header,Deskarga jaurtitzea
+upgrades.jetpackstrength2.desc,Hobetu jetpacka are baliabide gehiago garraiatzeko.
+upgrades.teslapower4.title,Deskargaren indarra 4
+properties.orchard.battleabilityuses,Borroka bakoitzeko erabilpenak {}
+loadout.gadget.additional.unlock,"Oraindik lortu ez dituzun gadgetak daude. Gadget bat lortzeko, irabazi edozein jokaldi meategian gadget bat aurkitu eta kupulan ezarri ondoren."
+properties.laser.hitprojectiles,laserrak energia jaurtigaiak kolpatzen ditu
+properties.keeper2.minspeed,Abiadura minimoa {.percent}
+properties.laser.dpsmod,Kalte modifikatzailea {.percent}
+properties.prospectionmeter.scandelay,Eskaneatzearen atzerapena {} seg
+level.tutorial.artillery.panel1content2,"Zenbat eta gehiago mantendu, urrunago joango da jaurtigaia."
+level.tutorial.artillery.panel1content1,Mantendu | morteroa kargatu eta askatu tirokatzeko.
+options.keybindings.rebinding.capture,Gorde
+assignment.mode.regular,Arrunta
+upgrades.teslaautoaim.title,Apuntatze automatikoa
+upgrades.orchardduration1.desc,Fruituaren eragin positiboak indartsuagoak eta iraunkorragoak dira.
+options.title,EZARPENAK
+upgrades.probedetectchambers.desc,"Orain zundak ganberak ere detektatzen ditu, ganberen gadgetak bezala."
+upgrades.dome1.desc,"Meatzaritza kupula arrunta, laser zehatza daukana."
+upgrades.repellentbattlestrongerslowdown1.desc,Lanbroak munstroak gehiago geldotzen ditu eta luzaroago irauten du.
+upgrades.resourcepacker.desc,"Ezarri baliabide pilatzaile bat zure jantzian. Gailu horrek hainbat baliabide konprima ditzake multzo bihurtuz, garraiatzeko errazago bilakatuz."
+properties.keeper4.goblinextraresourcechance,Baliabide gehigarriaren probabilitatea {.percent}
+properties.orchard.speedbuff,Mugimendu abiaduraren hobekuntza {}
+keybindings.reset.explanation.xbox,Zure botoi loturak berrezarri egin dira oraintsu egin den eguneraketa baten ondorioz. Kontrolen sarrera eskeman aldaketa handiak egin ditugu. Barkatu eragozpenak!
+upgrades.keeper2rotationalmining2.title,Konpresio bidezko meatzaritza 2
+upgrades.keeper3rocketcarrier.desc,"Kunai garraiagailua ordezkatu, zerbait kolpatu arte lerro zuzenean doazen suziri bidezko bertsioa erabiliz."
+properties.blastmining.damage,Kaltea {}
+options.video.renderscale,Adierazpenaren eskala
+modding.profile.title,Profila hautatu
+options.keybindings.action.general.left,Ezkerrera
+properties.versus.multiplicativeewave,Handitutako uhinaren indarra (beste taldea) {.percent}
+level.tutorial.drillbot.sleeping1,"Drillbert loak hartzen du tarte bat pasatu ondoren, edo zulatu ezin duen horma bat aurkitzen duenean."
+level.tutorial.drillbot.sleeping2.switch,"Drillbertengandik hurbil, sakatu | esnarazteko."
+upgrades.laserstrength4.desc,"Hobetu zure laserraren indarra zeharo, baina ia ez da mugituko tiro egiten duen bitartean."
+upgrades.orchardovercharge2.title,Gainkarga hobetua
+level.tutorial.drillbot.sleeping3,"Esnatuta dagoela, sakatu | bira eman dezan."
+modding.prestigeforbidden,Ezin duzu Ospe jokaldi bat hasi modifikazio hauekin.
+upgrades.laser.title,Laserra
+upgrades.domesupplementelectrifiedsurface1.title,Krosko elektrifikatua 1
+pause.quitgame,Jokotik irten
+upgrades.swordlargeblade3.desc,"Ezpata itzela. Oso oso indartsua, baina geldoa."
+upgrades.relichunt.desc,Aurkitu sakon-sakon lurperatutako erlikia eta ekarri berriz Zaindarien Elkartera.
+properties.spire.rechargetime,Kargatze denbora {} seg
+upgrades.repellentdelay1.desc,Munstroen hurrengo uhina gehiago atzeratzen du.
+savegame.corrupted.desc,"Zure gordetako azken fitxategia galdu egin da, segur aski gordetzean gertatutako akats batengatik. Aurretiaz gordetako fitxategia erabiliko dugu."
+multiplayer.host.online,Internet bidezkoa
+keybindings.reset.doreset.switch,Nire botoi loturak berrezarri
+options.cancel,Ezeztatu
+upgrades.keeper4catgoblindig2.title,Erauzketa eraginkorra
+upgrades.furnacewaterfiring.desc,"Labean ura lurrundu, munstroen atzerapena luzatzeko."
+upgrades.shockwavedamage2.title,Talka uhin kaltea 2
+upgrades.proberange1.desc,Zundaren irismena handitzen du.
+pause.options,Ezarpenak
+keeperdlc.load.missing.switch,"Ezin da gordetako jokaldia kargatu, eskuratuta ez dagoen eduki jaitsigarria daukalako. Mesedez, ziurtatu 'The Lost Keepers' eduki jaitsigarria eskuragarri dagoela."
+actionhint.release,Askatu
+upgrades.assignmentsemergencycontribution3.title,Larrialdi ekarpena 7
+options.game.shootbundlebeforegadgets,Baliabide multzoak jaurti gadgetak jaurti baino lehen
+options.video,Bideoa
+upgrades.blastmining.title,Meatze lehergailua
+modding.modio.subscriptions,Erakutsi Mod.IO harpidetzak
+level.gameover.proceedtounlock,Lortu elementu berri bat
+upgrades.prospectionmeter.desc,Baliabide hurbilenarekiko distantzia adierazten duen neurgailua.
+properties.keeper2.spherereload,Esferak kargatzeko denbora {} seg
+options.keybindings.apply,Aplikatu
+upgrades.teslaquickshot.desc,"Deskarga jaurti ondoren, ahulagoa den deskarga bakar bat gehiago jaurti dezakezu, botoi berbera sakatuz."
+level.tutorial.tesla.panel1header,Ituaren mugimendua
+upgrades.tesla.title,Tesla
+properties.tesla.persistance,Esfera elektrikoen iraupena {} seg
+upgrades.repellentbattleslowdownstun1.title,Paralisia
+upgrades.probelongmarker1.title,Seinale memoria
+modding.modio.tokenerror,Token hornitzailera konektatzean akatsa gertatu da!
+upgrades.stationextensionupgrades.title,Urrutiko hobekuntzak
+upgrades.prestigewater.desc,Ura bidali. Munstro uhin bakoitzaren ondoren jasotzen duzun puntu kopurua handitzen du.
+upgrades.artillerydirecthit2.desc,Hobetu morteroa bete-betean jotako jaurtigaiak are kaltegarriagoak izan daitezen.
+upgrades.mushroomfarmquickgrowth.desc,Onddoak azkarrago hazten dira sotoan.
+network.error.notsignedin.ps5,Sartu PlayStation™Network sarean Internet bidezko ezaugarriak eskuragarri izateko
+options.input.controls.keybindings.ps5,Botoi loturak
+multiplayer.error.clientcrossplaydisabled,Gela honetara sartzeko joko gurutzatua aktibatu behar da.
+upgrades.keeper3carrylimit1.desc,Kunai garraiagailuak eraman ditzakeen baliabide kopurua handitzen du.
+level.supplementchoice.reroll,Birjaurti
+upgrades.orchardbattlerootingexplosion.desc,"Aktibatu berriz harrapatuta dauden munstro guztiak lehertu daitezen, ingurukoak kaltetuz."
+upgrades.rocketlauncherrestock.desc,"Hustu ondoren, misilen siloko ale guztiak berriz hornituko dira"
+upgrades.droneyardbattlegridquick2.title,Bat-bateko droneak
+assignment.denseiron.title,Burdina dentsoa
+options.input.controls.gamepadusage.switch,Agintearen erabilera
+level.tutorial.ninja.bombs,Kunaia
+upgrades.domearmorhealth2.desc,"Armaduraren iraunkortasuna gehiago handitu, egitura osotasuna handituz."
+loadout.title,Ekipamendua
+multiplayer.continue.deviceselection.team,Taldea
+properties.keeper3.kunaiweaknessagainsthardrock,Kunaiaren ahultasuna harri gogorraren aurka {.percent}
+level.tutorial.repellent.popup_2,"Hurbil zaudenean, sakatu | aktibatzeko."
+upgrades.chainsawdamage1.desc,Zerra biribilak munstroei kalte handiagoa eragiten die.
+level.tutorial.artillery.panel3content1,"Morteroaren jaurtigaiek eztanda eremu bat daukate, baina bete-betean jotzean kalte handiagoa eragiten dute. Ezin dute kupula kaltetu."
+level.gameover.unlock.regulargadget,Misioetarako gadget berria lortu duzu!
+options.keybindings.gamepad.ps5,Agintea
+options.input.gamepad.thumbstick.switch,Joko-palanka
+upgrades.artilleryshotstun.title,Leherketa gorgarria
+upgrades.assignments.title,Elkarteko misioa
+upgrades.rocketlauncherrockets3.desc,Jaurti dezakezun misil kopurua are gehiago handitzen du.
+level.tutorial.assessor.bundleguide.desc1,Orain geldi dauden multzoak gidatu ditzakezu.
+level.tutorial.assessor.mining,Konpresio bidezko meatzaritza
+level.tutorial.assessor.bundleguide.desc3,"Hurbil bazaude, baliabide multzoak jarraitu egingo dizu."
+level.gameover.win.team,%s TALDEAK IRABAZI DU
+level.tutorial.assessor.bundleguide.desc2.switch,Sakatu | norabide bat ezarri gabe geldi geratuko den multzo bat ezartzeko.
+options.video.graphicsmode.window,Leihoa
+upgrades.artillerymachinegun1.desc,"Hobetu arma antiaereoa azkarrago tirokatu dezan. Laser bidezko itua ere badakar, hobeto apuntatzeko."
+upgrades.droneyardovercharge1.desc,"Epe batez dronegunea gainkargatzeko ura erabili, hurrengo borrokarako drone gehiago ekoizteko."
+modding.title,MODIFIKAZIOAK
+assignment.treefarm.title,Zuhaitz landetxea
+level.gameover.prestige.score.personalbest,Zure marka pertsonalik onena da!
+level.gameover.unlock.world,Mundu berria lortu duzu!
+assignment.chosen.todo,Ez da misiorik hautatu
+options.keybindings.action.dome.battleability1,Borroka abilezia 1
+loadout.versusmod.versusmodifierwindingmap.desc,Mapak labirinto itxura apur bat dauka.
+reward.rewardweaponsupplements.title,Armen gehigarriak
+upgrades.laserstrength2.title,Indarra 2
+upgrades.keeper2movement1.desc,Hobetu zure grabitate sorgailua azkarrago mugi dadin.
+options.keybindings.action.dome.battleability2,Borroka abilezia 2
+upgrades.domesecondweapon.desc,Bigarren sotoan kokatuta dagoen bigarren estazioak kontrolatzen duen arma berria ezartzen du.
+upgrades.resourcepackerquickcharge.desc,Hobetu pilaketa kargak birsortzeko abiadura.
+upgrades.laserstrength2.desc,"Hobetu zure laserraren indarra nabarmenki, baina are geldoago mugituko da tiro egiten duen bitartean."
+upgrades.autocannonimproved.title,Kanoi automatiko hobetua
+upgrades.keeper3kunaicooldown2.desc,Jaurti kunaiak are azkarrago.
+upgrades.keeper2pinballsplit2.desc,Handitu esfera bananduen iraunkortasun orokorra.
+upgrades.swordreflection1.title,Islatzea 1
+level.tutorial.ninja.drop.desc1.switch,"Sakatu | lurrean zauden bitartean zure %s erabiliz beherantz apuntatuz, daramatzazun objektu guztiak askatzeko."
+upgrades.suitblasterradius2.desc,Leherketaren erradioa gehiago handitzen du.
+options.game.dropresourcesbeforegadgets,Baliabideak askatu gadgetak askatu baino lehen
+options.translation.community.crowdin,Dome Keeper itzulpen proiektua Crowdin webgunean
+loadout.hint.playerlimitprestige,"Jokaldia hasi
+
+Puntuazioak ez dira Internetara igotzen 3 jokalarik edo gehiagok jokatzen dutenean."
+upgrades.assignmentsemergencycontribution1.title,Larrialdi ekarpena 2
+upgrades.shockwavedamage1.desc,Talka uhinak sortutako kaltea handitzen du.
+options.input.gamepad.autoswitch.switch,Lehenetsitako agintearen detekzio automatikoa
+loadout.versusmod.versusmodifierlittlecobalt.desc,Mapak oso kobalto kopuru murriztua dauka.
+upgrades.keeper1.title,Ingeniaria
+level.furnace.popup.title,Labeari erregaia eman
+upgrades.prospectionmeterrange2.title,Irismena 2
+pause.discord,Bildu zaitez gure Discord taldera
+upgrades.lasermove1.title,Mugimendu abiadura 1
+options.input.controls.mouse.gamepad.switch,Agintera aldatzea eta sagua erabiltzera itzultzea automatikoki detektatzea
+upgrades.jetpackspeed3.title,Abiadura 3
+upgrades.chainsawautonomy.desc,"Zerra biribilak zure kupula babestuko du, baita kontrol gelan ez zaudenean ere."
+properties.extractor.buildcycles,Zizareen hazkundea (zikloak) {}
+upgrades.stunlaserstun2.desc,"Laser zorabiatzailearen izpia are gehiago indartzen du, munstro indartsuenei ere eragin handia eginez."
+upgrades.teleporter.desc,"Bi norabideko teleportagailua, sotoko estazioa atari mugikor batekin lotzen duena."
+upgrades.droneyarddrones.title,Drone garraiatzaileak
+level.tutorial.assessor.spheres.desc1.aiming.switch,Sakatu | esfera zinetiko bat jaurtitzeko honekin apuntatzen ari zaren bitartean: %s.
+upgrades.liftspeed1.desc,Esferak arinago mugitzen dira.
+properties.prestige.provokedwavestrength,Munstroen zirikatzea {.percent}
+upgrades.artillery.desc,Jaurtigai leherkorrak jaurtitzen dituen mortero handia eta arma antiaereo azkarra konbinatzen ditu.
+upgrades.shredgadgettocobalt.title,Txikitu kobaltoa lortzeko
+level.gameover.stats.distancetravelled,Bidaiatutako distantzia
+loadout.mode,Jokaldi modua
+loadout.difficult.easier,Errazagoa
+upgrades.domearmorhealth1.title,Armaduraren iraunkortasuna 1
+options.game.playernamesinmultiplayer,Multijokalarian jokalarien izenak erakutsi
+properties.sword.slicedamage,Mozketa kaltea {}
+options.keybindings.action.general,Orokorra
+upgrades.keeper4punch2.desc,Zure zulatze indarra eta zulatze abiadura maximoa handitzen ditu.
+upgrades.keeper4catgoblinsleeptime.title,Kafeina pilulak
+upgrades.condenserdoublestorage.title,Biltegiratze bikoitza
+upgrades.drillbotbuffguidance.desc,Drillbertengana joateko norabidea erakusten du gozoki bat eramatean.
+loadout.versusmod.versusmodifierscatterediron.desc,"Burdina sedimentuak txikiak eta sakabanatuak dira, baina baliabide ugari dauzkate."
+upgrades.proberange3.title,Irismen oso handia
+upgrades.sword.desc,"Ezpata gogor eta iraunkorra, inertzia lortuz gero are indartsuagoa. Munstroak sastakatzeko jaurti daiteke eta etsaien jaurtigaiak blokeatzeko ezkutu txikia dauka."
+properties.rocketlauncher.rockets,Suziriak {}
+keybindings.reset.explanation,Zure tekla loturak berrezarri egin dira oraintsu egin den eguneraketa baten ondorioz. Kontrolen sarrera eskeman aldaketa handiak egin ditugu. Barkatu eragozpenak!
+upgrades.shield.desc,Zenbait kalte ekidingo dituen ezkutua da. Automatikoki kargatzen da.
+multiplayer.error.lobbyfull,Gela beteta dago.
+upgrades.keeper3kunaibounce1.title,Norabide laguntza
+loadout.team.selection,%sra bildu
+level.tutorial.sworddome.slicing.desc,"Zenbat eta ezpata azkarrago astindu, handiagoa izango da ebakiaren kaltea."
+properties.drill.sidetimepertile,Albo zulagailuaren denbora lauzako {} seg
+upgrades.suitblasterradius1.title,Leherketaren erradioa 1
+upgrades.resourcepackerquickcharge.title,Kargatze azkarra
+versus.corruptionmonsterdamage.desc,"Munstroek askoz kalte gehiago eragingo dute, jaurtigaiak barne."
+properties.dome.autohealamount,Konponketa {}op
+loadout.team,%s taldea
+options.keybindings.action.general.down,Behera
+properties.blastmining.radius,Leherketaren erradioa (lauzak) {}
+loadout.proceed,Jarraitu
+level.tutorial.suitblaster.popup_1.switch,"Sakatu | jantzi lehergailua erabiltzeko, zure inguruko erradio batean harriak suntsitzeko."
+upgrades.resourcepackercount2.title,Multzoaren tamaina 2
+properties.sword.extendspeed,Ezpata luzatze abiadura {}
+upgrades.autocannondamage1.title,Bala pisutsuak
+properties.sword.aimline,Apuntatze aurreikuspena
+options.translation.community,%{completion} eginda
+properties.spire.stuntrapabsorption,Kaltearen xurgatzea {.percent}
+upgrades.keeper4speed2.desc,Mugimendu abiadura gehiago handitzen du.
+upgrades.keeper4ramping4.title,Inertzia 4
+upgrades.orchard.desc,Landatu zuhaitz fruitudun bat kupulan. Fruituek zure mugimendua eta meatze ahalmena hobetuko dute denbora batez.
+pause.restart.popup,"Ziur al zaude jokaldia berrabiarazi nahi duzula?
+Sakatu berriz baieztatzeko."
+multiplayer.error.versionmismatch,Zure jokoaren bertsioa eta ostalariaren bertsioa ez dira bateragarriak. Ostalariaren bertsioa: {}
+assignment.condition.freegadget.plural,Hasierako bi gadget gehiago
+upgrades.artillerydirecthit1.title,Munstro suntsitzailea 1
+options.input.controls.mouse,Sagua
+upgrades.keeper4catgoblindig1.desc,Katugoblinek baliabideak erauz ditzakete lauzak hautsi gabe.
+reward.rewardpet11.title,Ur-oreina
+upgrades.artillerymachinegun2.title,Tirokatze azkarra 1
+upgrades.teslaorbs.title,Esfera elektrikoa
+properties.keeper2.spherespeed,Esferen abiadura {}
+properties.artillery.machinegunpenetration,Balen zeharkatze ahalmena {}
+level.station.upgrademenu.cost,Kostua
+keeperdlc.load.missing,"Ezin da gordetako jokaldia kargatu, eskuratuta ez dagoen DLC edukia daukalako. Mesedez, ziurtatu 'The Lost Keepers' DLCa eskuragarri dagoela."
+upgrades.drillbotstrength2.desc,Drillberten zuloak egiteko gaitasuna gehiago handitzen du.
+properties.resourcepacker.rechargetime,Birsortze denbora {} seg
+level.converter.popup.queue.block,Bihurketa hau prozesatzen ari da eta {time} seg barru amaituko da.
+properties.keeper2.maxspeed,Abiadura maximoa {}
+level.converter.popup.conversion.to,->
+upgrades.blastminingblast2.title,Leherketa 2
+upgrades.suitblasterspeed2.desc,Jantziak are azkarrago kargatzen du lehergailua.
+options.audio.music.ost.mode.adaptive.desc,"Zaindari bat erabiltzean, bere soinu banda entzungo da soilik."
+title.navbar.updates,Eguneraketak
+upgrades.orchardbattlerooting.title,Sustrai korapilatzaileak
+options.keybindings.action,Ekintza
+upgrades.keeper4flexible3.title,Bizkortasuna 3
+unlock.buy.keeperdlc,DLC honekin lortzen da: '%s'.
+upgrades.keeper4flexible2.desc,Zure zulatze indarra eta hasierako zulatze abiadura handitzen ditu.
+loadout.prestige.countdown,Atzera kontua
+assignment.weakcarry.desc,"Zaindariaren garraiatze tresnak ezin dira hobetu, beraz, gadgeten bidezko garraiatzea erabili beharko duzu."
+upgrades.liftcarrykeeper2.title,Zaindariaren igoera 2
+upgrades.domewavecount.desc,Zenbat uhin biziraun dituzun adierazten dituen kontagailua ezartzen du.
+loadout.gadget.additional,Gadget gehigarria
+upgrades.prestigewater.title,Ura bidali
+upgrades.condenser.title,Kondentsadorea
+loadout.prestige.pro.supplementorder,Gehigarrien ordena
+assignment.goaltype.delivery.failed,"Zure helburua {goal} zen, baina {amount} bakarrik lortu dituzu."
+options.keybindings.gamepad.switch,Agintea
+assignment.condition.duration,%d ziklotan bukatu
+options.game.hideactionhint,Ezkutatu ekintzei buruzko aholkuak kupulatik kanpo
+options.video.graphicsmode,Grafikoen ezarpenak
+level.tutorial.assessor.carry.desc1_1.ps5,"Behin zugana lotuta, biltzeko botoia askatzen baduzu ere, baliabideek jarraitu egingo dizute."
+assignment.goaltype.relic,Erlikia atera
+upgrades.stationextensionminimap.desc,Estazio mugikorrera sartzean minimapa bat erakusten du. Minimapak deskubritutako eremua eta harrien lauza batzuk erakusten ditu.
+assignment.ironcontribution.title,Burdina ekarpena
+properties.keeper4.speedupretention,Abiadura mantentzea {.percent}
+loadout.prestige.description,Bidali baliabideak mundutik kanpo Zaindarien Elkartean ospea lortzeko.
+upgrades.keeper3.title,Infiltratzailea
+properties.shield.battleactivateondepletion,Ezkutua agortzean abilezia aktibatzea
+upgrades.jetpackspeed2.title,Abiadura 2
+properties.dome.maxhealth,Egitura osotasun maila {}op
+upgrades.laserstrength1.title,Indarra 1
+properties.artillery.grenadereloadspeed,Jaurtigaien kargatze denbora {}
+properties.tesla.perfecttimingmultiplier,Deskargaren biderkatzailea {.percent}
+upgrades.orchardbattleshieldstrong.desc,Huntz adaburua indartzen du.
+loadout.difficulty.easy.description,Alderdi askotan apur bat errukitsuagoa.
+upgrades.drillsidespeed1.title,Zulaketa abiadura 1
+loadout.prestige.miner,Meatzaria
+upgrades.keeper4catgoblindig2.desc,Katugoblinek azkarrago erauzten dute.
+upgrades.spireburst.title,Tirokatze segidak
+options.input.vibration.strength.ps5,Bibrazioaren indarra
+upgrades.swordexplosivereflection.desc,Islatutako jaurtigaiak lehertu egiten dira zerbaitekin talka egitean.
+level.tutorial.drillbot.handling2,Sakatu | lurrean dagoela norabidea aldatu dezan.
+loadout.mapsize.large.description,"Mapa handia, ordubete baino gehiagorako."
+upgrades.artillerymachinegunhoming2.desc,Suziri indartsuagoak erabiltzen ditu.
+upgrades.keeper3quadjump.title,Salto anitza
+properties.artillery.grenadesexplosionradius,Jaurtigaien leherketa eremua {}
+upgrades.proberange3.desc,Zundaren irismena are gehiago handitzen du.
+properties.drillbot.buffextraamount,Horma gogorra topatzean bira eman
+versus.corruptionbigwave.desc,Munstroen hurrengo uhina erraldoia izango da.
+level.tutorial.artillery.panel2content1,Mantendu | arma antiaereoa erabiltzeko.
+level.tutorial.artillery.panel2content2,Arerio hegalarien aurka oso eraginkorra da.
+upgrades.drillwidetunnel.desc,"Beheranzko beste bi zulagailu ezartzen ditu, tunel zabalagoa egiteko."
+upgrades.keeper2pinballdamage4.desc,Esfera zinetikoak hobetzen ditu.
+level.gameover.unlock.difficulty,Zailtasun maila berria lortu duzu!
+loadout.prestige.fairness.headline,Bidezko lehiaketa
+upgrades.prestigeprovoke.desc,"Etorkizuneko munstro uhinen indarra handitzen du, jasotako ospea handitzeko."
+options.audio.volumes.soundvolume,Soinua
+multiplayer.continue.deviceselection.keeper,Zaindaria
+upgrades.teslaspeed4.desc,Apuntatzeko itua abiadura azkarrenean mugitzen da.
+upgrades.artillerymachinegun2.desc,Hobetu zure arma antiaereoa azkarrago tirokatu dezan.
+properties.spire.splitadditionalprojectiles,Zatitutako jaurtigai gehigarriak {.percent}
+upgrades.artillery.title,Artilleria
+level.tutorial.assessor.bundle.desc1.switch,Sakatu | baliabideak dituzun bitartean multzo moduan jaurtitzeko.
+properties.orchard.battleabilityduration,Abileziaren iraupena {} seg
+loadout.zoom,Kameraren zooma
+level.tutorial.assessor.bundle.desc2,Begiratzen ari zaren norabidean egingo du hegan disolbatu arte.
+options.keybindings.rebinding.inputprocessor.switch,Sakatu botoi bat ekintza honetarako…
+properties.converter.irontoiron,Burdina 1 {} burdinaren truke
+options.keybindings.action.general.back,Ezeztatu
+upgrades.keeper1powerdrill.title,Zulagailu indartsua
+assignment.emergency.desc,"Elkartea arriskuan dago eta larrialdi ekarpenak behar ditu, garaiz bidali!"
+multiplayer.host.crossplay.disabled,Joko gurutzatua desaktibatuta
+properties.upgrade.gameover,Jokaldia bukatu
+loadout.mode.secondweapon.desc,Zaindari bat baino gehiago dauzkan talde oro hasiko da bigarren estazioko arma jadanik prest duela.
+telemetry.allow,Internet bidezko zerbitzuak aktibatu
+options.accessibility.vignette,Desaktibatu bineta efektua
+options.game.tutorials,Tutorialak
+properties.dome.autorepair,Kupularen konponketa automatikoa
+upgrades.swordreflection3.title,Islatzea 3
+upgrades.drillsidepull.desc,Lortutako baliabideak albo-zulagailuetatik erdigunerantz garraiatuko ditu.
+upgrades.keeper2movement4.title,Abiadura gorena
+upgrades.shockwavestun2.desc,Talka uhinaren zorabio ahalmena are gehiago handitzen du.
+assignment.condition.freegadget.singular,Hasierako gadget bat gehiago
+title.message.close,Itxi
+reward.rewardfreerolls2.title,Eskaintzen birjaurtitze gehigarria
+upgrades.orchardbattleshieldstrong.title,Adaburu iraunkorra
+upgrades.spirecapacity.title,Tiro kopurua
+upgrades.keeper2.title,Balioztatzailea
+upgrades.keeper2movement2.title,Mugimendu grabitazionala 2
+upgrades.furnacestrongironfiring.desc,Burdina erretzean munstroen atzerapena handitzen du.
+upgrades.keeper2pinballdamage3.title,Esfera zinetikoak 3
+upgrades.autocannondamage1.desc,"Balen tamaina handitzen du, kalte handiagoa eragiteko."
+loadout.versusmod.versusmodifiermanycaverns.desc,Meategiak hainbat leize natural dauzka.
+options.game.other,Besteak
+upgrades.drillsidespeed2.title,Zulaketa abiadura 2
+upgrades.mushroomfarmdrill1.desc,Onddoak jateagatik lortutako zulatze hobekuntza indartzen du.
+properties.autocannon.speed,Tiroen arteko denbora {} seg
+upgrades.keeper4flexible1.desc,"Zulatzeko estilo malgua, ganorazko abiaduraz hasten da baina indar goren baxuagoa dauka."
+title.navbar.credits.close,Itxi
+level.furnace.popup.fuel.stack,Indarrean dagoen sorta:
+upgrades.laserstrength3.title,Indarra 3
+upgrades.domesupplementresurrection2.title,Beste behin
+upgrades.artilleryprojectileerasure.desc,Zure morteroaren leherketak etsaien jaurtigai guztiak disolbatzen ditu bere eztanda eremuan.
+level.gameover.assignment.completed,Zorionak! Misioa behar bezala egin duzu. Zaindarien Elkarteak egindako ahaleginak estimatzen ditu.
+properties.tesla.radius,Deskargaren erradioa {}
+properties.keeper2.bundlespeed,Multzoaren abiadura {}
+keybindings.reset.show,Utzi lehenik begirada bat ematen
+options.input.controls.gamepadusage.xbox,Agintearen erabilera
+assignment.maze.title,Labirintoa
+upgrades.blastminingstickycharge.desc,"Lehergailuak ukitzen duten lehen horman itsasten dira eta tunelak zulatzen dituzte, eztanda biribila egin beharrean."
+properties.prestige.baseperwave,Oinarrizko Ospea uhin bakoitzeko {}
+level.gameover.mineview,Meategia erakutsi
+unlock.mapsize.medium,Gainditu jokaldi bat mapa txiki batean hau lortzeko.
+upgrades.teslanurture.desc,"Dagoeneko indarrean dauden esfera elektrikoak indartu, bertan berriz deskarga eginez. Esfera handiagoa eta iraunkorragoa bilakatuko da."
+upgrades.jetpackspeed4.desc,Jetpacka hobetu mugimendu abiadura azkarrena izan dezan.
+upgrades.domearmormelee2.desc,Aurrez aurreko kalteen aurka erresistentzia are handiagoa izango du kupulak.
+loadout.prestige.friend.mode,Lagunarteko modua
+upgrades.domearmorhealth2.title,Armaduraren iraunkortasuna 2
+properties.artillery.machinegundamage,Balek sortutako kaltea {}
+upgrades.swordextendlong2.title,Sastakada luzea 2
+upgrades.lasermove2.title,Mugimendu abiadura 2
+upgrades.shieldstrength2.title,Indarra 2
+properties.keeper3.slidecontrol,Kontrola irristatzean {.percent}
+reward.rewardpet11.desc,Lortu ur-oreina zure kupularako animalia moduan.
+properties.tesla.nurture,Esferak elikatzea
+properties.lift.speed,Esferen abiadura
+upgrades.lasermove2.desc,Laserra are azkarrago mugitzen da.
+loadout.mode.longtime,Ziklo luzeak
+options.accessibility.highlightmonsters,Munstroak nabarmendu
+upgrades.furnacebasedelay.desc,Kearen gaitasuna handitzen du munstro uhinen atzerapena handitzeko.
+upgrades.doublelaser.desc,"Bigarren laser bat ezarriko du, baina laserraren indarra ere banatuko da."
+properties.converter.ironwatertime,Burdina ur bihurtze denbora (zikloak) {}
+options.keybindings.rebinding.inputprocessor.xbox,Sakatu botoi bat ekintza honetarako…
+title.message.title,Oharra
+upgrades.jetpackspeed4.title,Abiadura 4
+upgrades.drill1.desc,Zulagailua indartu azkarrago zula dezan.
+upgrades.extractorresources2.title,Zizare zehatzak
+unlock.buy.keeperdlc.ps5,Gehigarri honekin lortzen da: '%s'.
+level.tutorial.assessor.split.desc1,Sakatu | datorren esfera bat banatzeko.
+upgrades.keeper2pinballdamage1.desc,Kargatze denbora luzatu esfera zinetiko indartsuagoak egiteko.
+upgrades.teleporterteleportduration2.desc,Zeure burua are arinago teleportatuko duzu.
+level.tutorial.assessor.split.desc2,"Esferak berriz banatu ditzakezu, baina bakoitzean ahulagoak bihurtzen dira."
+options.accessibility.backgrounds,Atzealde sinpleak
+assignment.weakwalls.desc,"Planeta honetako atmosfera suntsigarria da, bai zure kupularentzat zein munstroentzat, guztiek pairatuko dituzue kalte handiagoak."
+multiplayer.error.disconnected,Ostalariarengandik deskonektatuta.
+properties.autocannon.timebetweenshots,Tiroen arteko denbora {} seg
+upgrades.laserstrength1.desc,"Hobetu zure laserraren indarra, baina geldoago mugituko da tiro egiten duen bitartean."
+upgrades.artillerydirecthit4.desc,Munstro handienak ere suntsitzeko bereziki sortutako jaurtigaiak.
+upgrades.teslapersistance3.title,Esfera iraunkorrak 3
+level.gameover.stats.timeplayed.unit,m
+level.tutorial.drillbot.sleeping3.switch,"Esnatuta dagoela, sakatu | bira eman dezan."
+upgrades.autocannonshotgun1.desc,Sakabanatzen diren zenbait jaurtigai botatzen ditu.
+upgrades.probe.desc,"Gehitu zunda bat zure jantziari, aktibatzean inguruan dauden baliabideak jakitera ematen dituen uhin bat sortzen du. Kupula azpiko gunean kargatu behar da."
+upgrades.droneyardparasites.desc,"Askatu aurkitzen dituzten munstro indartsuenetara heldu eta ahulduko dituzten droneak. Ondoren, munstroek kalte handiagoak pairatuko dituzte eta behin eta berriro zorabiatuko dira."
+properties.stunlaser.trackingInCooldown,Kargatu bitartean apuntatzea
+upgrades.domewavemeter.desc,Munstroen hurrengo uhina heldu arte geratzen den denbora adierazten du.
+properties.sword.stabexplosive,Puntan jarritako lehergailua
+loadout.gadget,Lehen gadgeta
+properties.stunlaser.areagrowthpermonster,Munstro bakoitzeko eremu hazkundea {}
+upgrades.swordfastreflection.title,Islatze azkartua
+level.tutorial.assessor.explode.desc1,Sakatu | zure inguruko esferak lehertzeko.
+reward.rewardkeeper3skin1.desc,Lortu Infiltratzailearentzako jantzi berri bat.
+properties.shockwave.stunstrength,Zorabioaren indarra {}
+upgrades.resourcepackercount1.title,Multzoaren tamaina 1
+reward.rewardkeepersupplements.desc,Zure zaindariarentzako zeharo indartsuak diren gehigarriak aurkitu.
+upgrades.spirestuntrap3.desc,Energia tranpa munstroak geldiarazteko gai da baita ere.
+upgrades.lift.desc,Meategiko baliabideak kupulara automatikoki igotzen dituen igogailua ezartzen du.
+upgrades.orchard.title,Baratzea
+pause.playerlist,Jokalari zerrenda
+upgrades.keeper2bundle2.title,Multzoen gidaritza
+assignment.weakmining.desc,"Zaindariaren meatze tresnak ezin dira hobetu, beraz, gadgetak erabili beharko dituzu harria zulatzeko."
+upgrades.converter.title,Baliabide bihurgailua
+properties.repellent.battlemonstervulnerability,Munstroei eragindako kalte gehigarria {.percent}
+level.gameover.revealresources,Baliabideak erakutsi
+upgrades.jetpackstrength4.desc,Hobetu jetpacka baliabide kopuru handiena garraia dezan.
+options.input.controls.touch.fliphud,HUDa biratu
+properties.keeper2.bundleguide,Hurbiletik gidatzea
+upgrades.furnaceironfiring.desc,"Labean burdina erre, munstroen atzerapena luzatzeko."
+upgrades.swordlongblade2.desc,Ezpataren abiadura handitzen du. Ezpatak errebotatu egiten du lurra kolpatzean.
+options.input.controls.mouse.keepers,Erabili sagua Zaindariak kontrolatzeko
+loadout.mode.domesupplements.desc,Gehigarriak hiru aldiz jaso eta kupula gehigarrientzako hiru tarterekin ekipatu.
+reward.rewardautomatedweapons.title,Arma automatikoak
+versus.corruptionmonsterhealth.desc,Munstroek askoz osasun maila handiagoa izango dute.
+upgrades.keeper3slidecontrol.desc,Hormetan irristatzean kontrola handitzen du.
+options.keybindings.action.dome.fire,Eraso
+options.keybindings.gamepad.xbox.view.xbox,Ikusi botoia
+level.gameover.win.title,ZURE KUPULA SALBATU DA
+upgrades.versusincreasewave1.title,Sabotajea 1
+options.video.graphicsmode.borderlesswindow,Leiho ertzgabea
+properties.artillery.rotationspeed,Errotazio abiadura {}
+upgrades.probe.title,Zunda
+reward.rewardkeeper2skin5.desc,Lortu Balioztatzailearentzako jantzi berri bat.
+upgrades.artillerydirecthit4.title,Munstro suntsitzailea 4
+properties.keeper4.squadcount,Brigada kopurua {}
+upgrades.keeper3kunaicooldown3.title,Milaka kunai
+upgrades.prospectionmeterrange2.desc,Prospekzio neurgailuaren detekzio eremua gehiago handitzen du.
+level.gameover.unlock.mapsize,Mapa tamaina berria lortu duzu!
+loadout.prestige.friend.desc,"Ospe modua zailtasun maila baxuagoan jokatu, lagunekin soilik lehiatu aparteko rankingean."
+upgrades.jetpackstrength4.title,Garraiatze indarra 4
+options.input.controls.virtualjoystickopacity,Joko-palanka birtualaren opakutasuna
+upgrades.repellentovercharge.title,Uxagarria gainkargatu
+upgrades.suitblastermaxcharge.desc,"Zure jantziak garraia ditzakeen lehergailu kopurua handitzen du. Zenbat eta lehergai gehiago eduki, are azkarrago kargatuko dira."
+upgrades.stationextensiontubemovement.desc,Sartu estazioan eta bidaiatu azkar kupulara hodi xurgatzailea erabiliz. Gorantz joateko balio du soilik.
+upgrades.domesupplementmeleedamagereduction1.title,Kroskoa indartu
+upgrades.keeper4catgoblinsleeptime.desc,Katugoblinen lo-kuluxken iraupena txikitzen dute.
+upgrades.prestigespeedup.desc,Uhinen arteko denbora laburtzen du.
+upgrades.keeper3kunaicooldown1.title,Jaurtitze azkarra
+upgrades.spire.title,Obeliskoa
+multiplayer.join.sessions,Saioak
+options.input.controls.keybindings,Tekla loturak
+multiplayer.host.crossplay.desc.xbox,Joko gurutzatuaren aukerak beste plataformetako lagunekin jokatzea baimentzen du.
+upgrades.teslaorbs.desc,Deskarga bakoitzak esfera elektriko bat uzten du lorratz moduan. Kaltea eragiten du denboran zehar eta etsaiak zorabiatzen ditu.
+upgrades.prestigeiron.desc,Burdina bidali. Munstro uhin bakoitzaren ondoren jasotzen duzun puntu kopurua handitzen du.
+upgrades.keeper2pinballexplode.title,Esferak lehertu
+level.tutorial.assessor.split.desc1.switch,Sakatu | datorren esfera bat banatzeko.
+properties.artillery.machinegunhoming,Suziri gidatuak
+upgrades.spirespeedup.desc,Tiroen arteko epea txikitzen du.
+level.tutorial.drillbot.handling1,Mantendu | Drillbert berriz hartzeko.
+keybindings.reset.doreset.xbox,Nire botoi loturak berrezarri
+level.tutorial.drillbot.handling2.switch,Sakatu | lurrean dagoela norabidea aldatu dezan.
+upgrades.artillerysplash1.desc,Hobetu zure morteroa jaurtigaiek eztanda erradio handiagoa izan dezaten.
+upgrades.shockwave.desc,Intentsitate handiko uhinak sortzen dituzten bi mailu ezartzen ditu kupula kanpoaldean. Eskuz aktibatu behar dira.
+options.game.blocklist.unblock,Desblokeatu
+properties.drillbot.buffamount,Zulatze kolpe indartuak {}
+upgrades.teslaorbdamage.desc,"Esferek elektrizitate askoz gehiago daramate, denboran zehar kalte handiagoa eraginez."
+loadout.versusmod.versusmodifierconcentratediron.desc,"Burdina sedimentuak urriak dira, baina oso handiak dira."
+upgrades.keeper4squad2.title,Brigada handia
+upgrades.keeper4flexible1.title,Bizkortasuna
+upgrades.swordreflection3.desc,Ezkutuaren tamaina gorena.
+unlock.prestige.promode,Gainditu jokaldi bat gutxienez 1000 puntuko ospe puntuazioa lortuz hau lortzeko.
+loadout.mapsize.huge,Erraldoia
+upgrades.artillerymachinegunhoming1.desc,Ordezkatu balak munstroak automatikoki bilatzen dituzten suziri adimentsuen truke.
+upgrades.repellentovercharge.desc,"Ura erabili uxagarria gainkargatzeko, uxagarriaren borroka gaitasuna hobetzeko."
+loadout.prestige.pro.caveorder,Haitzuloen ordena
+upgrades.spiresplit2.title,Zatiketa azkarra
+properties.laser.bend,laserrak automatikoki apuntatzen du {}°
+modding.modio.ugcterms.link1,Erabilera baldintzak
+upgrades.drillmagnetic.title,Estaldura magnetikoa
+assignment.condition.deliveremergency,Egin %d larrialdi bidalketa
+modding.modio.ugcterms.link2,Pribatutasun politika
+assignment.denseiron.desc,"Planeta honetako burdina bereziki dentsoa da, zulatzeko zaila."
+level.station.upgrademenu.inventory,Inbentarioa
+upgrades.repellentbattleslowdownstun1.desc,"Lanbroan espora leherkariak ezartzen ditu, munstroak une labur batez geldiarazten dituztenak."
+upgrades.spirestuntrap2.title,Katalizatzaile tranpa
+properties.keeper2.explodespheresradius,Leherketaren erradioa (lauzak) {}
+loadout.prestige.cobalt,Kobalto kopuru finkoa
+upgrades.spireautonomy1.title,Autonomia
+upgrades.suitblastermaxcharge.title,Lehergailu gehiago
+upgrades.stunlaserspeed2.desc,Laser zorabiatzailea are azkarrago mugitzen da eta munstroak bilatzen jarraitzen du kargatzen ari den bitartean.
+properties.suitblaster.maxcharge,Gehienezko lehergailu kopurua {}
+upgrades.prospectionmetergadget.desc,Ganbera hurbilenarekiko distantzia erakusten du eta distantzia nabarmenki hobetzen du.
+properties.stunlaser.cooldown,Kargatze denbora {} seg
+assignment.monstermasses.desc,Planeta honetan maila txikiko munstro piloa dago.
+telemetry.title.ps5,Azken Erabiltzailearen Lizentzia Kontratua
+properties.condenser.autoovercharge,Gainkarga automatikoa
+assignment.rareiron.desc,Planeta honek meatze misio arruntek baino askoz burdina gutxiago dauka.
+level.converter.popup.title,Baliabideak bihurtu
+upgrades.chainsaw.desc,"Ezarri kupularen kroskoan zehar doan zerra biribila, hurbil dauden munstroak kaltetuko ditu."
+versus.inventory.title,Beste taldearen informazioa
+loadout.versusmod.versusmodifiernorelics.desc,Meategiak ez dauka erlikiarik.
+level.gameover.stats.wavessurvived,Biziraundako uhinak
+upgrades.stunlaserduration1.title,Tirokatze ahalmena 1
+upgrades.resourcepackercount2.desc,Handitu are gehiago multzo bakoitzean pilatu daitekeen baliabide kopurua.
+level.tutorial.teleporter.carry3,"| sakatzen baduzu, teleportatu egingo zara."
+gadget.slot.domesurface,Kupula gainazala
+upgrades.converterirontocobalt.title,Kobalto bihurketa
+options.audio.music.ost.mode.desc,Zaindari bakoitzak bere soinu banda dauka. Hauek noiz entzuten diren alda dezakezu.
+assignment.condition.deliversand,Bidali %d kobalto
+options.accessibility.photosensitivity.explanation,Argien distira txikitzen du.
+upgrades.keeper2bundle4.desc,Baliabideen multzoak azkarrago mugitzen dira eta gehiago irauten dute elkarri lotuta.
+upgrades.domesupplementmeleedamagereduction2.title,Indartze areagotua
+upgrades.keeper2bundle1.title,Erdigune markagailua
+upgrades.repellentbattleslowdown.desc,Munstro guztiak geldotzen dituen lanbro bat agerrarazten du.
+options.game.splitscreenfontscale,Testu handiagoa erakutsi pantaila bananduan jokatzean
+upgrades.blastminingimpactdetonation.title,Talka leherketa
+loadout.relichunt.title,Hautatu egoera bat
+upgrades.assignmentsemergencycontribution2.title,Larrialdi ekarpena 4
+upgrades.stunlaserspeed1.desc,Laser zorabiatzailea azkarrago mugitzen da.
+upgrades.keeper2movement2.desc,Hobetu zure grabitate sorgailua are azkarrago mugi dadin.
+loadout.prestige.pro.customorder,Ordena pertsonalizatua
+options.translation.community.desc.seavenplatforms,Hizkuntza hauek gure komunitate maiteak itzultzen ditu Crowdin webgunean.
+properties.shield.battledestructionprevention,Iraupen gehigarria {} seg
+upgrades.spirespeedup.title,Hozte sistema hobetua
+upgrades.shieldovercharge.title,Ezkutua gainkargatu
+level.tutorial.station.popup_4,Ondoren sakatu | borroka moduan sartu eta babesteko.
+options.keybindings.action.keeper.drop,Askatu
+options.accessibility.vignette.explanation,"Desaktibatu meategiaren gune sakonenetan agertzen den bineta efektua, irudia iluntzen duena."
+upgrades.keeper4speed3.title,Mugimendu abiadura 3
+title.navbar.splitscreen,Pantaila banandua
+upgrades.extractorquickextraction.title,Zizare azkarrak
+pause.disconnect,Deskonektatu
+properties.map.ironadditionalhealth,Burdinaren gogortasun gehigarria {}
+properties.keeper2.reflectlifetime,Islatze eremuaren iraupena {} seg
+loadout.versusmod.versusmodifiersoftrock,Arroka biguna
+upgrades.repellentoverchargeduration1.title,Gainkarga hobetua
+upgrades.teleporterteleportitems.desc,"Zuk garraia dezakezun edozer teleportatu dezakezu, baliabideak eta objektu handiak izan ezik."
+upgrades.shieldstrength2.desc,Ezkutuak ekidingo dituen kalteak gehiago handitzen ditu.
+unlock.mapsize.large,Gainditu jokaldi bat mapa ertain batean hau lortzeko.
+upgrades.shieldoverchargestrength2.desc,Ezkutu gainkargatuak ekiditen dituen kalteak gehiago handitzen ditu.
+properties.drill.extensionspeed,Albo-luzatze abiadura {}
+properties.orchard.growthtime,Hazkunde denbora (zikloak) {}
+upgrades.drillbotbuff1.desc,"Gozokiak kupula azpiko habian haziko dira. Eraman Drillberti, poz-pozik jango ditu, energia gehiago eskuratuz."
+properties.repellent.battleslowdown,Munstroen geldotzea {.percent}
+level.station.upgrademenu.buy,Erosi
+keybindings.reset.title.switch,Botoi loturak berrezarri
+title.navbar.multiplayer.join,Multijokalari saioan sartu
+multiplayer.host.crossplay.desc,"Joko gurutzatuak beste plataformetako jokalariekin jokatzea baimentzen du. Adibidez, PC eta kontsoletako jokalariek batera jokatzeko."
+properties.probe.range,Irismena (lauzak) {}
+modding.modio.connectionfailed,Mod.IOra konektatzean akatsa!
+properties.dome.resurrectcharges,Geratzen diren berpizteak {}
+upgrades.mushroomstack.title,Onddo pilaketa
+multiplayer.error.lobby.join,Gelara sartzean akatsa gertatu da.
+pause.title,Pausa
+level.furnace.popup.fuel.cycles,Geratzen diren zikloak: {cycles}
+level.gameover.unlock.gamemodevariant,Joko modu aldaera berria
+upgrades.keeper2movement3.title,Mugimendu grabitazionala 3
+upgrades.keeper3kunaicooldown3.desc,Jaurti kunaiak abiadura azkarrenean.
+upgrades.repellentbattledamageovertime.title,Gas toxikoak
+reward.rewardfreerolls1.title,Eskaintzak birjaurti
+assignment.superhardrockwithholes.title,Gazta suitzarra
+modding.restartneeded,Modifikazioek ondo funtziona dezaten bideojokoa berrabiarazi behar duzu.
+upgrades.versusshowinventory.title,Inbentario espioitza
+level.tutorial.assessor.carry.desc1,"Mantendu | baliabideak erakartzeko, zugana lotzen diren arte."
+level.tutorial.assessor.carry.desc2,Sakatu | begira ari zaren norabidean baliabide multzoa jaurtitzeko.
+demo.unavailable,Demoan eskuraezina
+assignment.harmfuliron.desc,"Planeta honetako burdina arriskutsua eta erreaktiboa da, zure kupula kaltetzen du erauzia denean."
+upgrades.keeper4flexible4.title,Bizkortasuna 4
+properties.dome.reducedhealth,Galdutako egitura osotasuna {}op
+upgrades.keeper4catgoblinamount.desc,"Katugoblin gehiago hazi, misioan lagundu diezazuten."
+properties.keeper2.spherebasedamage,Esferen oinarrizko kaltea {}
+level.gameover.showimages,Ireki
+properties.keeper4.maxpunchdelay,Garrokada geldoena {} seg
+upgrades.converterironduplication.desc,"Burdina bihurtu, kopuru askoz handiagodun burdina lortuz."
+upgrades.liftorbless.title,Grabitate igogailua
+upgrades.artilleryshotstun.desc,Morteroaren leherketak hain dira indartsuak une batez inguruko munstroak zorabiatzen dituztela.
+upgrades.keeper4squadsmarts.title,Erauzketa adimentsua
+options.video.graphicsmode.enablevsync,Sinkronizazio bertikala aktibatu
+upgrades.repellentdelay2.desc,Munstroen hurrengo uhina are gehiago atzeratzen du.
+properties.spire.splitshotground,360° zatiketa
+upgrades.autocannonrateoffire3.desc,Tirokatze erritmo gorena.
+upgrades.furnacebasedelay.title,Ke zorabiatzailea
+properties.sword.stabcooldown,Ezpata luzatze denbora {} seg
+upgrades.resourcepacker.title,Baliabide pilatzailea
+properties.probe.permanentrevealrock,Harriak betiko erakustea
+upgrades.prestigeprovoke.title,Munstroak zirikatu
+loadout.hint.teams,Talde bakoitzak gutxienez jokalari bana behar du!
+upgrades.proberange1.title,Irismen ertaina
+upgrades.condenserautocollect.desc,"Ur bilketa automatizatzen du, jadanik ez da beharrezkoa eskuz biltzea."
+title.navbar.continue,Jarraitu
+upgrades.drillbotbuffguidance.title,Gozoki bilatzailea
+options.video.stretchmode.rezised,Egokitua
+upgrades.shieldbattlereflectspeed.desc,"Islatutako jaurtigaiak azkarrago doaz, erasotzailea kolpatzeko probabilitatea handituz."
+properties.keeper2.spherebaselifetime,Esferen iraupena {} seg
+properties.resourcepacker.packscale,Txikiagotze eskala {.percent}
+properties.chainsaw.speed,Mugimendu abiadura {}
+properties.probe.rechargetime,Kargatze denbora (zikloak) {}
+upgrades.blastminingblast1.title,Leherketa 1
+upgrades.liftcarrykeeper1.title,Zaindariaren igoera 1
+loadout.versusmod.versusmodifierlongcycles,Ziklo luzeak
+options.keybindings.action.dome.secondary,Bigarren abilezia
+upgrades.extractor.title,Burdina zizareak
+level.tutorial.assessor.reflect.desc2,Zugana datozen esferak islatu egingo dira. Esferak indartu ere egingo dira.
+options.keybindings.keyboard,Teklatua
+level.tutorial.assessor.reflect.desc1,Sakatu | zure inguruan islatze gune bat ezartzeko.
+level.tutorial.beastmaster.move,Mugimendua
+level.gameover.automove,Kamera automatikoa
+upgrades.keeper4punch4.title,Eroaldia 4
+properties.shockwave.damagemod,Kalte gehigarria {.percent}
+upgrades.drillbotsleepless.desc,Drillbertek luzaroan egingo du lan loak hartu baino lehen.
+upgrades.keeper2pinballexplode.desc,"Zure inguruko esfera guztiak lehertu, pilatuta izan duten energia zinetikoa askatuz."
+reward.rewardpermanentwavemeter.title,Etsaien hurbiltasun neurgailu egonkorra
+upgrades.keeper3shurikencooldown1.desc,Shurikenaren lehengoratze denbora gehiago txikitzen du.
+upgrades.droneyard.title,Dronegunea
+level.gameover.unlock.promode,Profesionalen Ospe ezarpenak lortuta!
+upgrades.swordextendlong2.desc,Sastakada indar are handiagoa eta hegaz doan bitartean zehatzago maneiatzeko aukera.
+upgrades.drillbotturnaround.desc,"Harri suntsiezin bat topatzean, lo egin ordez Drillbertek bira emango du."
+loadout.prestige.fairness.desc,"Maite dugu jokalariak Ospea jokatzeko moduan puntuazio altuenak lortzeagatik lehiatzen ikustea eta estrategia hobeak bilatzen aritzea. Lehiaketa modu garbian eta gozagarrian mantendu nahi dugu, garrantzitsua da guztiok baldintza berdinetan jokatzea.
+
+Mesedez, ulertu zure jokaldiak ez onartuak moduan salatuak edo ezabatuak izan daitezkeela iruzurra egin duzula somatuz gero. Iruzurtzat hartzen dugu Ospea jokatzeko moduan abantaila ematen duen oro, jokaldi arrunt batean gertatuko ez litzatekeena. Horien artean daude gordetako fitxategien manipulazioa edo aztertzea, baita gehiegizko birkargatzea, onartuta ez dauden modifikazioak erabiltzea edo jokoaren akatsen erabilera errepikatua.
+Ranking arruntetan lehiatzetik betiko kanporatua izan zaitezke, zure jokaldian iruzurra egitearen zantzu nabarmenak baldin badaude.
+
+Zerbait ilegaltzat hartzen den edo ez jakiteko zalantzak badituzu, galdetu gure Discordean edo bidali email bat dome@bippinbits.com helbidera. Modu okerrean kanporatu zaitugula uste baduzu, idatzi mezu bat.
+
+Ondo pasa!"
+assignment.emergency.title,Larrialdia
+upgrades.droneyardbattlegridlong2.title,Drone tropela
+properties.repellent.battleuses,Borroka bakoitzeko erabilpenak {}
+loadout.difficulty.easy,Zaila
+level.tutorial.mineraltree1,"Zuhaitz mineral bat aurkitu duzu. Harrietan murgiltzen diren sustraiak hazten ditu. Errotutako mineral mota ematen du fruitu moduan.
+Askatu harri batean hazia ereiteko."
+options.keybindings.action.keeper.pickup,Hartu
+gadget.slot.domebackside,Kupularen atzealdea
+assignment.megacreeps.desc,Planetan honetan munstro handi eta indartsuenak aurkituko dituzu soilik.
+options.keybindings.rebinding.error.gamepad.ps5,Hau ezin da aginte loturatzat ezarri.
+modding.profile.new,Profil berria
+upgrades.suitblasterspeed1.desc,Jantziak azkarrago kargatzen du lehergailua.
+properties.domearmor.pulsedamagethreshold,Uhinaren kalte esparrua {}
+options.game.autopause,Pausatu jokoa leihotik kanpo aritzerakoan
+savegame.wiped.desc,"Zure gordetako fitxategi guztiak galdu dira, segur aski gordetzean gertatutako akats batengatik.
+Saiatu gordetako fitxategia laino biltegitik berreskuratzen, bestela, zure jokoan egindako garapena galduko da."
+properties.shield.maxstrength,Indarra {}op
+level.tutorial.ninja.rope.desc1,Mantendu | soka jaurtitzeko honekin apuntatzen ari zaren bitartean: %s.
+level.gameover.unlock.gadgetability,Borroka abilezia gadget berria
+level.tutorial.ninja.rope.desc2,Mantendu | salto egiteko.
+upgrades.repellent.desc,"Munstroak uxatzen dituen likidoa ekoizten duen ontzia da. Aktibatu kupula kanpoaldean isurtzeko, horrela hurrengo eraso uhina atzeratzeko."
+modding.modio.report,Modifikazioa salatu
+properties.artillery.directhitdamage,Bete-betean jotzean kaltea {.percent}
+upgrades.spireprojectileslowdown.title,Jaurtigai geldotzea
+properties.keeper2.bundleduration,Multzoaren iraupena {} seg
+upgrades.domesandrepair.title,Kobalto konponketa
+upgrades.assignmentsemergencycontribution3.desc,Bidali pakete hau 7. txandarako edo bestela misioak porrot egingo du.
+upgrades.stunlaserduration3.title,Tirokatze ahalmena 3
+properties.orchard.battleshields,Babes geruzak {}
+options.video.brightness,Distira
+demo.end.misc1,4 aldaera dauzkan Ospe modu lehiakorra
+upgrades.droneyarddrones.desc,Baliabideak garraiatzen dituzten drone kopurua handitzen du.
+demo.end.misc3,Lehen mailako gadget gehiago
+options.game,Jokoa
+loadout.mode.longtime.desc,"Uhinen arteko denbora tartea bikoitza da, baina uhinak indartsuagoak izango dira."
+demo.end.misc2,Misio erronkari pila bat
+demo.end.misc5,Haitzulo gehiago
+demo.end.misc4,Mapa tamaina gehiago
+upgrades.orchardduration2.title,Fruitua 2
+reward.rewarddomesupplements.title,Kupularen gehigarriak
+demo.end.misc6,Munstro gehiago
+upgrades.keeper2rotationalmining1.desc,"Harria abiadura jarraian zulatu, harriaren dentsitatea ardura gabe."
+upgrades.droneyardbattlegridquick2.desc,"Drone guztiak oso azkar agertuko dira, borrokaren hasieratik egongo dira prest."
+loadout.choices.comingsoon,"Oraindik ez dago eskuragarri, baina laster iritsiko da."
+properties.keeper2.splitlifetime,Esfera bananduen iraupena {.percent}
+options.input.controls.mouse.sword,Erabili sagua Ezpata Kupularen erasoa kontrolatzeko
+level.tutorial.beastmaster.goblins.desc1,Mantendu | horman zulo bat egin eta zure Katugoblinak sar daitezen.
+upgrades.drill4.desc,Zulagailua indartu zulatze abiadura handiena izan dezan.
+upgrades.jetpackstrength3.title,Garraiatze indarra 3
+upgrades.shieldstrength3.title,Indarra 3
+level.tutorial.beastmaster.goblins.desc2,Zulotik hurbil dauden baliabideak biltzen laguntzen dute.
+upgrades.domesupplementresurrection1.title,Kupula berpiztea
+loadout.mapsize.small.description,"Mapa txikia, jokaldi laburretarako."
+upgrades.proberange2.title,Irismen handia
+reward.rewardkeeper2skin5.title,Balioztatzaile jantzia
+upgrades.jetpackspeed2.desc,Hobetu jetpacka are azkarrago mugitzeko.
+upgrades.artilleryrotation2.desc,Handitu morteroaren biraketa abiadura.
+upgrades.domesupplementcombatrepair3.title,Borroka konponketa azkarra
+reward.rewardkeeper4skin3.desc,Lortu Piztiazainarentzako jantzi berri bat.
+multiplayer.host.splitscreen.desc.xbox,Zaindari gehiago agerrarazteko erabili aginteak aukeraketa menuan. Gehienez lau jokalarik parteka dezakete pantaila bakarra. Internet bidezko multijokalariarekin konbina daiteke.
+upgrades.keeper2pinballdamage3.desc,Kargatze denbora oraindik are gehiago luzatu esfera zinetiko oraindik are indartsuagoak egiteko.
+level.tutorial.ninja.rope,Soka
+options.keybindings.rebinding.error.keyboard,Hau ezin da teklatu loturatzat ezarri.
+upgrades.domesupplementcombatrepair2.desc,"Konponketa automatiko hobea da, egitura gehiago konponduz."
+properties.dome.baserepair,Konponketa {}op
+properties.repellent.growthtime,Ekoizpen denbora (zikloak) {}
+properties.keeper.domefuel,Erregaia gehitu {}
+options.accessibility.critters,Zomorroak desaktibatu
+level.tutorial.assessor.reflect.desc1.switch,Sakatu | zure inguruan islatze gune bat ezartzeko.
+upgrades.probelongmarker2.title,Seinale iraunkorrak
+upgrades.converterefficientwater.title,Ur bihurketa eraginkorra
+upgrades.assignmentssendcobalt.title,Kobaltoa bidali
+properties.monsters.waveinterval,Tiroen arteko denbora {} seg
+options.keybindings.rebinding.error.gamepad.switch,Hau ezin da aginte loturatzat ezarri.
+options.input.gamepad.twinstick,Bi joko palankadun kontrolak
+properties.extractor.units,Hazitako zizareak {}
+loadout.mode.doubleiron.desc,Burdina sedimentuek askoz baliabide gehiago dauzkate.
+telemetry.title,Internet bidezko multijokalaria aktibatu?
+multiplayer.host.local.desc,Tokiko sareko jokalariak sartu daitezke.
+properties.laser.dps,Kaltea {}
+level.tutorial.assessor.spheres.desc1.switch,Sakatu | begira ari zaren norabidean esfera zinetikoak jaurtitzeko.
+upgrades.spirecapacity.desc,Berriz kargatu baino lehen jaurti ditzakeen tiroen kopurua handitzen du.
+upgrades.doublelaser.title,Laser bikoitza
+options.keybindings.text,"Editatu kontrol eskema zure gustura.
+Tekla berbera erabil dezakezu kategoria ezberdinetan (adibidez, tekla berbera erabili zaindaria zein kupula kontrolatzeko)."
+properties.repellent.battleabilityduration,Abileziaren iraupena {} seg
+options.input.controls.keybindings.switch,Botoi loturak
+options.keybindings.gamepad.xbox.menu,Hasi
+upgrades.shieldstrength1.title,Indarra 1
+properties.converter.watertoiron,Ur 1 {} burdinaren truke
+upgrades.stunlaserstun2.title,Zorabio indarra 2
+upgrades.drillbotstrength1.desc,Drillberten zuloak egiteko gaitasuna handitzen du.
+upgrades.dome1.title,Laser Kupula
+options.keybindings.rebinding.error.gamepad.xbox,Hau ezin da aginte loturatzat ezarri.
+loadout.assignment.shop,Zaindarien Elkarteko sariak
+upgrades.orchardbattlerootingmore.desc,Sustrai gehiago eta iraupen luzeagodunak.
+options.keybindings.cancel,Ezeztatu
+exhibition.level.instruction,Sakatu edozein tekla jokatzen jarraitzeko!
+upgrades.converterefficientwater.desc,"Bihurketa hobetu, eraginkorragoa izan dadin."
+upgrades.teslapower1.desc,Hobetu tesla deskargaren indarra.
+properties.spire.splitshot,Zatitutako jaurtigaiak
+assignment.weakwalls.title,Arrisku handia
+title.navbar.quit,Mahaigainera irten
+upgrades.autocannonrateoffire1.desc,Tirokatze erritmoa handitzen du.
+upgrades.laserstrength3.desc,Hobetu zure laserraren indarra are gehiago.
+loadout.mode.automateddefense.desc,"Hasi defentsa gadget guztiekin eta gadgeten autonomia hobekuntzarekin, baina arma nagusirik gabe. Utziozu zure kupulari lana egiten!"
+level.gameover.prestige.score.rankunchanged,Zure maila ez da aldatu.
+properties.keeper2.directmininghardness,Harriaren gogortasunaren eragina {.percent}
+level.gameover.retry,Jokaldi berria hasi
+options.input.controls.keybindings.button.xbox,Botoi loturak aldatu
+upgrades.keeper4autospawnminers.title,Brigada gogotsuak
+modding.modio.declined,"Mesedez, modifikazioetara sarbidea izateko, onar itzazu baldintzak"
+upgrades.orchardovercharge3.desc,Gainkargaren borroka gaitasuna gehiago handitzen du.
+upgrades.assignmentsemergencycontribution5.title,Larrialdi ekarpena 16
+upgrades.keeper2pinballdamage2.title,Esfera zinetikoak 2
+upgrades.teslaspeed2.desc,Apuntatzeko itua are azkarrago mugitzen da.
+upgrades.domesupplementmeleedamagereduction2.desc,"Kupularen kroskoa gehiago indartu, aurrez aurreko kolpeek kalte gutxiago egin dezaten."
+properties.extractor.processingtime,Erauzketaren iraupena {}
+upgrades.keeper3.desc,"Zaindari liraina, soka erabiliz zein saltoak eginez abileziaz mugitzen dena. Kunai indartsuak jaurtitzen ditu."
+assignment.acidrain.title,Euri azidoa
+upgrades.droneyardparasites3.desc,Drone bizkarroien ahultze gaitasuna hobetzen du.
+upgrades.domesupplementelectrifiedsurface1.desc,Kupularen kroskoan etsaiak elektrifikatzen dituen geruza bat ezartzen du. Kroskoa ukitzen duten etsaiak kaltetzen ditu.
+unlock.buy.keeperdlc.switch,Gehigarri honekin lortzen da: '%s'.
+upgrades.keeper3shurikenstrength2.desc,Shurikenaren leherketa gehiago handitzen du.
+upgrades.teslapower3.title,Deskargaren indarra 3
+upgrades.stationextensionrevealdistance2.desc,Estazioaren harriak eta baliabideak erakusteko gaitasunaren irismena handitzen du.
+upgrades.keeper3shurikencooldown2.title,Shuriken etengabea
+properties.orchard.buffduration,Hobekuntzaren iraupena (zikloak) {}
+loadout.prestige.provocation.description,"Zirikatu munstroak, uhin indartsuagoak bidal ditzaten, ospe handiagoa lortzeko. Ziklo bakoitzean biderkatzailea txikituko da, eta jokaldia bukatuko da zero azpitik jaisten bada."
+level.tutorial.probe.popup_1.switch,Sakatu | uhin bat sortzeko.
+level.tutorial.repellent.popup_2.switch,"Hurbil zaudenean, sakatu | aktibatzeko."
+multiplayer.join.profile,Profila
+level.tutorial.probe.popup_3,"Inguruko zenbait baliabide erakusten ditu.
+Kargatu berriro ere estazioan."
+level.tutorial.repellent.popup_1,Zure uxagarria hurrengo uhina atzeratzeko prest dago.
+upgrades.keeper4ramping2.desc,"Zure zulatze indarra, abiadura gorena eta inertzia mantentzeko ahalmena handitzen ditu."
+options.game.kunaicarrierbeforegadgets,Kunai garraiagailua jaurti gadgetak jaurti baino lehen
+properties.probe.permanentrevealresources,Baliabideak betiko erakustea
+upgrades.keeper2bundle4.title,Multzo indartsua
+options.audio.volumes.musicvolume,Musika
+options.input.controls.useindividualsettings,Zaindari bakoitzeko ezarpenak erabili
+upgrades.keeper4squadsmarts.desc,Meatze brigadek lauza bereziak eta baliabideetatik hurbil dauden lauzak lehenesten dituzte.
+upgrades.domesupplementscraprepair2.title,Berrosotzea
+upgrades.orchardduration3.desc,Fruituaren eragin positiboak oraindik are indartsuagoak eta iraunkorragoak dira.
+options.input.controls.touch,Ukimenezkoa
+level.gameover.keepgadget.none,Bat ere ez
+upgrades.stunlaserautonomy1.title,Autonomia
+upgrades.swordexplosivereflection.title,Islatze leherkorra
+upgrades.probelongmarker1.desc,"Zundaren seinale memoria hobetzen du, seinaleek luzaroago iraungo dute."
+upgrades.resourcepackercharges.desc,Handitu zure jantziak eduki ditzakeen pilaketa kargak.
+level.station.battle.navbar.shoot,Tiro egin
+upgrades.drilladditionalsides.desc,"Albo-zulagailu berriak ezartzen ditu, aurrekoen funtzionalitate berdinekin."
+loadout.difficulty.veryeasy.description,"Ez da erraza, baina beste zailtasun mailak baino lasaiagoa da."
+properties.stunlaser.stunstrength,Zorabio indarra {}
+properties.resourcepacker.packcount,Multzo tamaina {}
+upgrades.keeperonewayteleporter.title,Norabide bakarreko teleportagailua
+upgrades.keeper3kunaidamage4.title,Kunai talka
+upgrades.drill4.title,Zulagailu indarra 4
+options.game.directionsnapping,Zaindariaren apuntatzea norabide kardinaletara mugatu
+upgrades.artillerymachinegun3.title,Tirokatze azkarra 2
+upgrades.stunlaserspeed2.title,Abiadura 2
+properties.artillery.machinegunreloadspeed,Balen kargatze denbora {}
+options.game.screenshake,Pantaila astintzea
+upgrades.proberechargeafterbattle.desc,"Zunda bere kabuz kargatuko da, zunda estazioa ez da beharrezkoa izango. Sotoan beste gadgetentzako tarte bat utziko du."
+upgrades.jetpackstrength2.title,Garraiatze indarra 2
+loadout.versus.condition.irondelivery.title,Burdina bidalketa
+upgrades.teslaspeed3.desc,Apuntatzeko itua oraindik are azkarrago mugitzen da.
+level.assignment.badges.toggle,"Lortu dominak misioak eginez. Erabili dominak Zaindarien Elkarteko sariak lortzeko. Horiek gabe jokatu nahi izanez gero, sariak desaktiba ditzakezu erosi ondoren."
+loadout.versus.wincondition,Garaipen baldintza
+upgrades.converterefficientwatershort.title,Tratamendu azkarra
+properties.keeper2.directminingdamage,Konpresio bidezko meatzaritzaren kaltea {}
+upgrades.assignmentssendiron.desc,"Bidali burdina Zaindarien Elkartera. Misioan arrakasta lortzeko, egin eskuragarri dituzun bidalketa guztiak."
+upgrades.keeper3carrylimit1.title,Garraiatze ahalmena 1
+assignment.goaltype.survive,Biziraun
+upgrades.shield.title,Ezkutua
+level.station.battle.navbar.stabspeedup,Sastakada bizkortu
+upgrades.keeper3quadjump.desc,Airean zaudela hiru salto gehigarri egiteko gaitasuna.
+properties.artillery.gunaimline,Apuntatze laserra
+properties.domearmor.pulsestunduration,Uhinaren zorabiatze iraupena {} seg
+level.tutorial.assessor.carry.desc2.switch,Sakatu | begira ari zaren norabidean baliabide multzoa jaurtitzeko.
+level.tutorial.ninja.carry.desc1.switch,Sakatu | baliabideak daramatzan kunai bat jaurtitzeko honekin apuntatzen ari zaren bitartean: %s.
+upgrades.orchardovercharge.desc,"Ura erabili baratzea gainkargatzeko, baratzearen borroka gaitasuna hobetzeko."
+upgrades.missile.abilityname,Misilak
+upgrades.resourcepackercount1.desc,Handitu multzo bakoitzean pilatu daitekeen baliabide kopurua.
+assignment.bigmapsparseresources.desc,"Baliabideak urriak dira eta oso sakabanatuta daude, baina harria oso hauskorra da."
+properties.spire.stuntrap,Energia tranpa
+playerlist.block,Blokeatu
+level.tutorial.sworddome.stabbing.desc,Jaurti ezpata eta sastakatu urruneko etsaiak.
+properties.sword.sliceacceleration,Ezpata abiadura {}
+multiplayer.join.button,Sartu
+assignment.weapondefect.desc,"Zure kupularen arma nagusia suntsituta dago, beste tresna batzuen bidez biziraun beharko duzu."
+upgrades.repellentbattlehealthreduction.title,Ahuldura
+loadout.versusmod.versusmodifiertoughstart,Hasiera latza
+title.navbar.multiplayer,Multijokalaria
+keybindings.reset.title.xbox,Botoi loturak berrezarri
+upgrades.extractorquickextraction.desc,"Zizareak eboluzionatu, hiperaktiboak izan daitezen. burdina askoz azkarrago erauziko dute."
+upgrades.mushroomfarmquickgrowth.title,Hazkunde azkarra
+upgrades.repellentbattlehealthreduction.desc,"Ahuldu munstro guztiak, kolpatzen dituzunean kalte handiagoak jasoko dituzte."
+loadout.versusmod.versusmodifierstrongmonsters,Munstro osasuntsuak
+leaderboard.failed,Akatsa puntuazio zerrenda kargatzean.
+properties.sword.reflectprojectilesexplosive,Islatutako energia jaurtigaiak lehertaraztea
+level.station.navbar.upgrades,Hobekuntzak
+upgrades.artillerymachinegun3.desc,Hobetu zure arma antiaereoa are azkarrago tirokatu dezan.
+level.gameover.unlock.pet,Maskota berria lortuta!
+upgrades.domesupplementelectrifiedsurface2.title,Krosko elektrifikatua 2
+upgrades.keeper3shuriken2.desc,"Shurikenaren lehengoratze denbora txikitzen du, sarriago jaurti ahal izateko."
+upgrades.artillerysplash2.desc,Jaurti morteroaren 2 jaurtigai bata bestearen atzetik.
+loadout.mode.hud,HUDa
+upgrades.keeper4flexible2.title,Bizkortasuna 2
+upgrades.shieldbattlereflectshortuses.desc,Sarriago islatzen du.
+upgrades.rocketlauncherdamage2.title,Misil hilgarriak
+upgrades.domesupplementscraprepair1.title,Txatar-konponketa
+upgrades.keeper2bundle3.title,Grabitate erdigunea
+upgrades.keeper2bundle2.desc,Eroritako baliabide multzo baten norabide kontrola baimentzen du hurbiletik egiten denean.
+upgrades.keeper3shurikencooldown2.desc,Shurikenaren lehengoratze denbora are gehiago txikitzen du.
+upgrades.suitblaster.title,Jantzi lehergailua
+upgrades.prestigeiron.title,Burdina bidali
+properties.shockwave.cooldown,Abilezia lehengoratze denbora {} seg
+options.input.controls.keepersettings.desc,"Zaindariek jatorriz ezarpen orokorrak erabiltzen dituzte. Zaindari bakoitzeko salbuespenak ezar daitezke. Adibidez, ekintzaren edo zaindariaren arabera kontrolak mugatu ditzakezu."
+options.keybindings.action.keeper.gravityball,Tirokatu
+upgrades.liftorbs.desc,Igogailuko esfera gehiago.
+options.input.controls.mouse.gamepad,Agintera aldatzea eta itzultzea automatikoki detektatzea.
+properties.probe.detectchambers,Ganberak detektatzea
+landing.proceed,Sakatu edozein tekla jarraitzeko
+upgrades.condenserautocollect.title,Bilketa automatikoa
+multiplayer.error.hostcrossplaydisabled,Ezin da gelara sartu ostalariak joko gurutzatua desaktibatuta duelako eta beste plataforma batean dagoelako.
+upgrades.repellent.title,Uxagarria
+loadout.team.color,Taldearen kolorea
+options.game.tutorials.resettutorials,Tutorialak berrezarri
+options.accessibility.critters.explanation,"Desaktibatu zizare, koko eta armiarma itxurako izakiak, meategian agertzen direnak. (Ez dute eraginik jokoan)"
+upgrades.prospectionmeterrange1.desc,Prospekzio neurgailuaren detekzio eremua handitzen du.
+upgrades.drillsidepull.title,Mineralak garraiatzea
+options.accessibility.highlightmonsters.explanation,"Munstroak errazago ikusteko, haien inguruko silueta nabarmendu."
+upgrades.keeper2bundle1.desc,"Erakutsi kupula azpian agertzen den seinale bat, baliabide sortak gorantz nondik jaurti jakiteko."
+upgrades.assignmentsemergencycontribution6.title,Larrialdi ekarpena 20
+upgrades.keeper4ramping3.title,Inertzia 3
+upgrades.swordblade1.desc,Hobetu ezpataren mozketa indarra eta abiadura.
+upgrades.probedetectchambers.title,Ganberak detektatzea
+loadout.mode.shortcycles,Ziklo laburrak
+upgrades.proberange2.desc,Zundaren irismena gehiago handitzen du.
+upgrades.prestigespeedup.title,Zikloak laburtu
+loadout.prestige.endless.description,Mugarik ez denboran edo baliabideetan jokaldi oso luzeetarako.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"Doitu balioa neurgailuak ez dezan kliskatu joko palankaren ukitze hutsarekin.
+Neurgailuak kliska egin beharko luke joko-palanka normaltasunez mugitzen denean."
+upgrades.blastminingblast3.title,Leherketa 3
+upgrades.swordextendlong1.desc,Sastakada indar handiagoa eta hegaz doan bitartean maneiatzeko aukera.
+properties.autocannon.rateoffire,Tirokatze erritmoa {.percent}
+upgrades.assignmentsemergencycontribution4.title,Larrialdi ekarpena 11
+assignment.minorvision.desc,Planeta honetako itzal ilunek argi guztia iluntzen dute.
+options.audio.volumes,Bolumenaren kontrolak
+unlock.host.locked.ps5,Ostalariak ez dauka gehigarri hau: '%s'.
+loadout.versusmod.versusmodifiershortcycles.desc,Munstroen uhinen arteko denbora tarteak laburragoak dira.
+upgrades.keeper2pinballexplode2.title,Leherketa hobetua
+multiplayer.host.local,Tokikoa
+options.video.graphicsmode.fullscreen,Pantaila osoa
+properties.keeper3.kunaidamage,Kunaiaren kaltea {}
+options.game.screenshake.shakewhenmining,Mea ateratzean astintzea
+upgrades.dome2.title,Ezpata Kupula
+properties.autocannon.damage,Balek sortutako kaltea {}
+loadout.mode.doubleiron,Burdina mordoa
+upgrades.keeper4punch1.title,Eroaldia
+level.gameover.unlock.versus,Versus modua lortu duzu!
+upgrades.artillerydoublemachinegun.desc,Bigarren kanoi bat ezartzen dio zure kupulako arma antiaereoari.
+level.converter.popup.conversion.time,{time} ziklo baino gehiago
+options.translation.title,HAUTATU ZURE HIZKUNTZA
+loadout.prestige.pro.title,Ezarpen pertsonalizatuak
+multiplayer.host.title,Multijokalari saioa sortu
+properties.laser.movespeed,Mugimendu abiadura {}
+options.input.gamepad.thumbstick.xbox,Joko-palanka
+upgrades.furnacelastingironfiring.title,Burdina erregai iraunkorra
+upgrades.shieldoverchargestrength1.title,Ezkutuaren gainkarga indarra 1
+multiplayer.error.modsmismatched,Zure modifikazio zerrendak ez du bat egiten ostalariarenarekin. Ezin zara sartu.
+upgrades.laserhitprojectiles.desc,Laserrarekin jaurtigaiak jotzean hauek berehala disolbatzen dira.
+upgrades.probepermanentrevealtiles.desc,Zundak aztertutako eremua betiko agertuko da.
+options.keybindings.action.keeper.jump,Salto egin
+upgrades.repellentdelay2.title,Atzerapena 2
+upgrades.keeper3shuriken1.title,Shurikena
+upgrades.probelongmarker2.desc,Baliabideen seinaleek hainbat ziklo iraungo dute.
+properties.shockwave.stunduration,Zorabioaren iraupena {} seg
+level.tutorial.teleporter.teleport1,"Ataritik gertu zaudenean, sakatu | teleportatzeko."
+options.game.alwaysshowping,Zerbitzariaren pinga beti erakutsi
+loadout.choices.locked,Oraindik lortu gabe.
+upgrades.prospectionmetersand1.title,Kobalto neurgailua
+upgrades.drill2.title,Zulagailu indarra 2
+level.gameover.findimages,Gorde hemen
+level.tutorial.resourcepacker.popup_1.switch,"Baliabideetatik hurbil zaudenean sakatu | multzo trinko batean pilatzeko, errazago garraiatzeko."
+reward.rewardpostrunshowmonstercount.title,Borroka estatistika gehigarriak
+upgrades.drill.title,Zulaketa dorrea
+upgrades.versusincreasewave1.desc,Beste taldearen munstro uhinak betiko indartzen ditu.
+upgrades.swordstabfast1.desc,Sastakatu azkarrago eta sarriago.
+properties.sword.slicebrake,Mozketagatik galdutako abiadura {.percent}
+upgrades.lasermove3.desc,Laserraren mugimendu abiadura maximoa.
+upgrades.prestigewatermultiplier.desc,Ura bidali. Uhin bakoitzaren ostean ospe puntu gehiago jasoko dituzu.
+upgrades.domesupplementresurrection1.desc,"Suntsitu ordez, zure kupula erabat osotuko da eta erasoezina bilakatuko da denbora batez. Erabilera bakarra."
+upgrades.swordextendlong3.title,Sastakada luzea 3
+properties.repellent.wavedelay,Uhinen atzerapena (zikloak) {}
+upgrades.domewavepathtodome.desc,Uhin ohartarazleak abisatzean kupulara itzultzeko bide laburrena ere adieraziko du.
+level.tutorial.ninja.carry,Kunai garraiagailua
+upgrades.dome4.desc,Elektrizitatearen boterea inoiz ikusi ez den moduan erabiltzen duen kupula berri-berria.
+upgrades.prospectionmeterwater2.title,Ur iparrorratza
+multiplayer.techtree.keeperexclusivegadget,Gadget hau zure zaindariari ezarriko zaio soilik.
+options.keybindings.action.dome,Kupula
+upgrades.drillbotbuff1.title,Gozokiak
+versus.corruption.desc,Hautau beste taldeari erasoko dioten munstroei eragingo dien madarikazio bat.
+upgrades.swordstabshoot.title,Xabalina
+properties.dome.projectiledamagereduction,Jaurtigaien kaltearen murrizketa {.percent}
+upgrades.drillbotbuffstrength2.desc,"Gozoki bat jan ondoren, Drillbertek are gehiago iraungo du lanean lo geratu baino lehen."
+leaderboard.global,Globala
+options.game.blocklist.unblockall,Desblokeatu guztiak
+upgrades.swordlongblade1.title,Aho luzea 1
+properties.mushroomfarm.drillbuff,Zulatze indarraren hobekuntza {}
+properties.spire.splitshotspeed,Zatitutako jaurtigaien abiadura {}
+options.keybindings.action.dome.upgrade,Hobekuntzak
+upgrades.teslaspeed3.title,Ituaren abiadura 3
+upgrades.domehealthmeter.title,Egitura osotasun neurgailua
+properties.extractor.additionalresources,Baliabide gehigarriak {}
+upgrades.domesupplementcombatrepair3.desc,"Konponketa automatikoa goizago aktibatzen da, kalte gutxiago jasan ondoren."
+upgrades.furnacelastingironfiring.desc,Burdina baliabide bakoitza labean iraunkorrago bilakatzen du.
+properties.dome.resurrectinvulnerability,Berpizte osteko immunitatea {} seg
+upgrades.assignmentssendwater.desc,"Bidali ura Zaindarien Elkartera. Misioan arrakasta lortzeko, egin eskuragarri dituzun bidalketa guztiak."
+options.game.autopickupresources,Baliabideak automatikoki hartu
+upgrades.repellentbattledamageovertime.desc,"Munstro guztiek kalte txikia pairatzen dute segundoro, gas toxikoek dirauten bitartean."
+upgrades.artillerydirecthit3.desc,Hobetu morteroa bete-betean jotako jaurtigaiak oraindik are kaltegarriagoak izan daitezen.
+upgrades.domearmorprojectile1.title,Jaurtigaien armadura 1
+upgrades.keeper4catgoblindig3.desc,Katugoblinek lauzak erabat hautsiko dituzte erauztean.
+upgrades.stunlaserarea.desc,"Kolpatutako munstroaren inguruan zorabio eremu bat sortzen du, inguruko munstroak zorabiatzen dituena. Eremuan zenbat eta munstro gehiago egon, kalte handiagoak eta eremu handiagoa."
+level.tutorial.teleporter.carry2,"Hurbil zaudenean, mantendu | ataria berriz hartzeko."
+level.tutorial.teleporter.carry3.switch,"| sakatzen baduzu, teleportatu egingo zara."
+upgrades.keeper2pinballreflect.title,Islatze eremua
+upgrades.probepermanentrevealtiles.title,Harriak erakutsi
+loadout.versusmod.versusmodifierfastmonsters.desc,Munstroak azkarrago mugitzen dira.
+level.tutorial.teleporter.carry1,Ataria nahi duzun tokira eraman dezakezu.
+level.tutorial.pickup.popup_1,Sakatu | baliabide bat hartzeko.
+options.input.gamepad.autoswitch.xbox,Lehenetsitako agintearen detekzio automatikoa
+options.accessibility,Erabilerraztasuna
+upgrades.teslapersistance1.desc,Esfera elektrikoak handiagoak dira eta luzaroago irauten dute.
+properties.sword.reflectionacceleration,Islatutako jaurtigaien abiadura {.percent}
+upgrades.artillerygrenadefastreload.title,Kargatze bizkorra
+upgrades.keeper2pinballreflect.desc,Esfera zinetikoak islatzen dituen eremu bat ezartzen du. Esferak apur bat indartzen dira islatze bakoitzaren ostean.
+options.keybindings.action.keeper,Zaindaria
+upgrades.drillbotbuffstrength1.desc,Drillbertek jasotako energiak gehiago irauten du.
+upgrades.versussendiron.desc,Burdina bidali Zaindarien Elkartera. Egin eskuragarri dituzun bidalketa guztiak beste taldea garaitzeko.
+upgrades.keeper2pinballmorespheres1.desc,Garraia ditzakezun esfera zinetikoen kopurua handitzen du.
+properties.rocketlauncher.rechargetime,Kargatze denbora {}
+upgrades.domesupplementadditionalcellar.title,Soto sakona
+upgrades.blastminingstickycharge.title,Norabidedun lehergailu itsasgarriak
+level.tutorial.assessor.explode.desc1.switch,Sakatu | zure inguruko esferak lehertzeko.
+upgrades.furnacestrongironfiring.title,Burdina erregai hobetua
+assignment.monstermasses.title,Munstro mordoa
+options.input.gamepad.gamepadstickdeadzone.switch,Joko palankaren gune itsua
+properties.stunlaser.areastunstrength,Zorabio eremuaren eraginkortasuna {.percent}
+upgrades.dome1health2.desc,Zure kupularen egitura osotasuna handitzen du iraunkorki.
+upgrades.probepermanentrevealresources.title,Baliabideak erakutsi
+upgrades.swordfastreflection.desc,Islatutako jaurtigaiak azkarrago doaz.
+properties.autocannon.shotgun,Eskopeta balak {}
+loadout.difficulty.medium,Basatia
+multiplayer.join.joincodeinput,Idatzi jokaldira sartzeko kodea
+properties.keeper4.maxspeedupatpunches,Abiadura azkarrena {} garrokadaren ostean
+properties.monstermodifiers.health,Munstroen osasuna {.percent}
+loadout.versusmod.versusmodifierfastmonsters,Munstro azkarrak
+upgrades.shieldoverchargestrength1.desc,Ezkutu gainkargatuak ekiditen dituen kalteak handitzen ditu.
+properties.probe.charges,Kopurua {}
+reward.rewardthreechoicessupplement.title,Hiru gehigarri eskaintza
+upgrades.domesupplementscraprepair1.desc,Burdina erabiltzen duten konponketa inprobisatuak ezartzen ditu. Egitura osotasunaren maila orokorra jaisten du.
+level.tutorial.tesla.panel1content1,Mugitu itua pantailan zehar apuntatzeko.
+upgrades.shockwavebig.desc,"Talka uhinak kalte izugarria eragiten du, munstro indartsuenak ere suntsitzeko gai dena."
+multiplayer.continue.allowmultiplayererror,"Ezinezkoa da sare bidezko jokaldiak aurrera egitea, ezarpenen menuan internet bidezko multijokalaria ez baitaukazu aktibatuta."
+loadout.hint.multiplayer.playerminimum,Multijokalari jokaldi bat hasteko gutxienez 2 jokalari behar dira.
+upgrades.artillerymachinegunhoming2.title,Suziri gidatuak 2
+upgrades.repellentbattleslowdownstun2.title,Paralisi indartsua
+upgrades.shockwave.abilityname,Talka uhina
+upgrades.jetpackspeed1.title,Abiadura 1
+upgrades.teleporterteleportduration1.title,Teleportagailuaren iraupena 1
+upgrades.autocannonrateoffire3.title,Metrailadorea 3
+properties.monstermodifiers.totalrunweightmodifier,Uhinen indarraren biderkatzailea {.percent}
+upgrades.swordstabfast1.title,Sastakada azkarra 1
+upgrades.swordstabfast3.title,Sastakada azkarra 3
+properties.tesla.quickshotstrength,Deskarga azkarraren indarra {.percent}
+upgrades.keeper2pinballdamage2.desc,Kargatze denbora are gehiago luzatu esfera zinetiko are indartsuagoak egiteko.
+title.navbar.options,Ezarpenak
+upgrades.domearmormelee1.desc,Aurrez aurreko kalteen aurka erresistentzia handiagoa izango du kupulak.
+upgrades.shieldbattleelectroblast.title,Leherketa elektrikoa
+properties.spire.stuntrapradius,Erradioa {}
+options.audio.volumes.ambiencevolume,Giroa
+loadout.mode.drillbert.desc,"Meatze lehergailuarekin eta Drillbertekin hasi, baina zaindariak ezin ditu meatze abileziak hobetu. Drillbert hornidura amaigabea."
+loadout.versus.team.closed,itxita
+properties.keeper4.goblinnapduration,Katugoblinen lo-kuluxka iraupena {} seg
+properties.keeper2.reflectnexthitdamage,Hurrengo kolpean kalte gehigarria {.percent}
+upgrades.orchardbattlerootingmore.title,Sustrai indartsuak
+multiplayer.error.connection,Konektatzean akatsa gertatu da.
+keeperdlc.load.missing.ps5,"Ezin da gordetako jokaldia kargatu, eskuratuta ez dagoen eduki gehigarria daukalako. Mesedez, ziurtatu 'The Lost Keepers' eduki gehigarria eskuragarri dagoela."
+level.tutorial.fruit.popup_2,"Bere ondoan zaudenean, sakatu | kontsumitzeko."
+loadout.versusmod.versusmodifierlittlecobalt,Kobalto eskasia
+reward.rewardpet12.desc,Lortu txakurra zure kupularako animalia moduan.
+multiplayer.host.joincodelabel,Sartzeko kodea
+upgrades.swordstabfast2.desc,Sastakatu are azkarrago eta sarriago.
+properties.dome.incomingdamagemodifier,Jasotako kaltea {.percent}
+properties.sword.stabexplosivedamage,Lehergailuaren kaltea {}
+properties.blastmining.bombs,Lehergailuak {}
+properties.resourcepacker.charges,Kargak {}
+upgrades.assignmentsemergencycontribution1.desc,Bidali pakete hau 2. txandarako edo bestela misioak porrot egingo du.
+properties.artillery.machinegunbarrels,Arma antiaereoak {}
+properties.laser.aimline,Apuntatze laserra
+upgrades.jetpackstrength1.desc,Hobetu jetpacka baliabide gehiago garraiatzeko.
+loadout.mode.nomonsters.desc,Inolako munstrorik ez duen mundu batean lur hartu.
+telemetry.eula,AELKa irakurri
+upgrades.condenserspeed1.title,Ekoizpen abiadura 1
+upgrades.mushroomstack.desc,"Hobekuntza bakoitzaren iraupena pilatzen du, hainbat onddo kontsumitzeagatik lortutako hobekuntza luzatuz."
+upgrades.keeper2pinballexplode2.desc,Esfera zinetikoen leherketen tamaina handitzen du.
+versus.message.disruption,Beste taldeak zure munstroen uhinak indartu ditu modu iraunkorrean.
+loadout.mode.strongmonsters.desc,Munstroek kalte bikoitza eragingo dute.
+upgrades.tesla.desc,"Aurkeztu iezaiozu elektrizitatea den miraria hor kanpoan dagoen dena-delakoari. Ahal bada jaurti iezaiozu aurpegira, milaka voltekin."
+properties.drillbot.turnaround,Horma gogorra topatzean bira eman
+upgrades.keeper2movement3.desc,Hobetu zure grabitate sorgailua ahalik eta azkarren mugi dadin.
+level.tutorial.onewayteleporter2,Sakatu | ataria ezartzeko. Sakatu berriz atarira teleportatzeko.
+upgrades.domearmormelee2.title,Aurrez aurreko armadura 2
+upgrades.drillbotbuffstrength2.title,Taurina gehigarria
+level.tutorial.onewayteleporter3,Automatikoki kargatzen da.
+upgrades.keeper4extraresource.desc,"Arreta handiz erauziz, Katugoblinek batzuetan baliabide bat gehiago lortuko dute."
+upgrades.drillbotduo.desc,"Drillberten lehengusuak, Diggory eta Minerva, meategian laguntzera etorriko dira. Lagunartean egonda, ez dira izutuko munstroak datozenean eta harriak zulatzen jarraituko dute."
+properties.tesla.perfecttimingwindow,Denbora esparrua {} seg
+loadout.mode.strongmonsters,Kolpatzaile gogorrak
+pause.quittotitlescreen,Menu nagusira joan
+properties.keeper3.shurikenstrength,Leherketaren erradioa (lauzak) {}
+telemetry.privacy,Gure datuen kudeaketari buruzko informazio gehiago aurki daiteke gure Pribatutasun Politika atalean: http://rawfury.com/privacy-policy/
+upgrades.rocketlauncherdamage1.desc,Misilak hilgarriagoak dira.
+keybindings.reset.doreset,Berrezarri nire tekla loturak
+upgrades.keeper3carrylimit3.desc,Kunai garraiagailuak eraman ditzakeen baliabide kopurua are gehiago handitzen du.
+upgrades.autocannondoublefirerate.desc,Kanoi automatikoak askoz azkarrago egiten dut tiro. Sinplea eta eraginkorra.
+upgrades.autocannon.title,Kanoi automatikoa
+upgrades.artillerymachinegunhoming1.title,Suziri gidatuak 1
+level.tutorial.assessor.carry.desc1_1.switch,"Behin zugana lotuta, biltzeko botoia askatzen baduzu ere, baliabideek jarraitu egingo dizute."
+upgrades.swordlongblade1.desc,Ezpata luzeagoa eta azkarragoa.
+loadout.team.players,Jokalariak
+level.tutorial.fullscreen.back,Atzera
+options.keybindings.action.keeper.rope,Soka jaurti
+upgrades.mushroomfarm.title,Onddo haztegia
+loadout.prestige.title,Hautatu Ospe aldaera bat
+upgrades.prospectionmeterrange1.title,Irismena 1
+upgrades.keeper3doublejump.title,Salto bikoitza
+upgrades.keeper3kunaibounce1.desc,"Kunaiaren aurreikusitako bote norabidea eta lur hartze puntua erakusten ditu. Bote bakoitzak dardara eragiten du harrietan, inguruko lauzak ezagutzera emanez."
+upgrades.repellentbattlelongerhealthreduction.title,Ahuldura indartua
+loadout.versusmod.versusmodifierlittlewater,Ur eskasia
+upgrades.mushroomfarmdrill1.title,Onddo meatzaritza 1
+loadout.versusmod.versusmodifierscatterediron,Burdina sakabanatua
+level.converter.popup.conversion.convert,Bihurtu
+properties.droneyard.overchargebattledronecount,Borroka drone gehigarriak {.percent}
+reward.rewardfreerolls1.desc,"Doako birjaurtitze bat gadgetetan edo gehigarrietan erabiltzeko, jokaldi bakoitzeko."
+multiplayer.host.splitscreen,Pantaila banandua baimendu
+properties.converter.cobalttoiron,Kobalto 1 {} burdinaren truke
+loadout.mode.automateddefense,Defentsa automatikoa
+options.input.gamepad.gamepadstickdeadzone.xbox,Joko palankaren gune itsua
+level.converter.popup.explanation,Hautatu baliabide bihurketa bat hasteko!
+upgrades.dome1health2.title,Osotasuna 2
+upgrades.stunlaserduration3.desc,"Laser zorabiatzailea oraindik are azkarrago kargatzen da, eta oraindik are luzaroago tirokatzen du."
+upgrades.assignmentsemergencycontribution5.desc,Bidali pakete hau 16. txandarako edo bestela misioak porrot egingo du.
+pause.gamepadcontrols.use,Erabili
+properties.spire.stunmonsters,Gelditutako munstroak
+upgrades.assignmentssendcobalt.desc,"Bidali kobaltoa Zaindarien Elkartera. Misioan arrakasta lortzeko, egin eskuragarri dituzun bidalketa guztiak."
+upgrades.mushroomfarmspeed2.desc,Onddoak jateagatik lortutako abiadura hobekuntza gehiago indartzen du.
+upgrades.keeper2pinballmorespheres1.title,Esfera kopurua
+upgrades.rocketlauncherrockets1.desc,Jaurti dezakezun misil kopurua handitzen du.
+options.keybindings.gamepad.xbox.menu.xbox,Menu botoia
+upgrades.swordstabfast3.desc,Sastakatu oraindik are azkarrago eta sarriago.
+properties.shield.overchargestrength,Gainkarga indarra {}op
+upgrades.droneyarddronespeed1.desc,Drone garraiatzaileen abiadura hobetzen du.
+upgrades.liftorbs.title,Esfera gehigarriak
+properties.keeper3.carrylimit,Kunai garraiagailuaren ahalmena {}
+options.video.graphicsmode.photosensitive,Fotosentikortasun modua
+upgrades.keeper2pinballdamage1.title,Esfera zinetikoak 1
+reward.rewardkeeper3skin1.title,Infiltratzaile jantzia
+level.tutorial.ninja.gadgetpickup.desc1,Gadgetak ez dira automatikoki hartzen.
+properties.converter.ironperwater,{} burdina ur bakoitzeko
+properties.spire.capacity,Tiro kopurua {}
+level.tutorial.ninja.gadgetpickup.desc2,Mantendu | gadget bat hartzeko.
+loadout.versusmod.versusmodifierlittlewater.desc,Mapak oso ur kopuru murriztua dauka.
+upgrades.drillbotstrength3.desc,Drillberten zuloak egiteko gaitasuna are gehiago handitzen du.
+upgrades.spirestuntrap3.title,Munstro tranpa
+upgrades.shredgadgettocobalt.desc,Txikitu gadgeta eta lortu {amount} kobalto ale.
+upgrades.converterefficientcobalt.title,Kobalto bihurketa eraginkorra
+options.input.vibration.strength.switch,Bibrazioaren indarra
+properties.sword.reflectprojectiles,Energia jaurtigaiak islatzea
+reward.rewardfreerolls2.desc,"Beste doako birjaurtitze bat gadgetetan edo gehigarrietan erabiltzeko, jokaldi bakoitzeko."
+level.tutorial.station.popup_2,Joan estaziora eta sakatu | bertan sartzeko.
+upgrades.versus.desc,"Bi kupula, bi talde, elkarren aurka lehiatuz bakarra geratzen den arte."
+upgrades.dome2.desc,"Ezpata boteretsua duen kupula esperimentala, abilezia eskatzen du baina erasotzaile indartsuenak ere menderatzeko gai da."
+upgrades.drillmagnetic.desc,"Beheranzko zulagailuei estaldura magnetikoak ezartzen dizkie, ateratako baliabide guztiak bertan mantenduz."
+assignment.harmfuliron.title,Burdina arriskutsua
+level.tutorial.sworddome.stabbing,Sastakatu
+options.input.gamepad.icons,Ikonoak
+upgrades.shredgadgettoiron.desc,Txikitu gadgeta eta lortu {amount} burdina ale.
+upgrades.assignmentsemergencycontribution6.desc,Bidali pakete hau 20. txandarako edo bestela misioak porrot egingo du.
+properties.droneyard.battledroneshots,Drone bakoitzeko jaurtigaiak {}
+level.gameover.lose.title,KUPULA GALDU DA
+loadout.difficulty.title,Zailtasuna
+properties.artillery.maxrotation,Errotazio maximoa {}°
+upgrades.shockwavestun1.desc,Talka uhinaren zorabio ahalmena handitzen du.
+unlock.host.locked,Ostalariak ez dauka DLC hau: '%s'.
+multiplayer.host.splitscreen.desc,Zaindari gehiago agerrarazteko erabili aginteak aukeraketa menuan. Gehienez lau jokalarik parteka dezakete pantaila bakarra. Internet bidezko edo tokiko sareko multijokalariarekin konbina daiteke.
+telemetry.explanation,"Internet bidezko multijokalarirako, konekta zaitez beste jokalariak aurkitu eta haien jokaldietan sartzeko, edo izan zaitez ostalari.
+Hau hautazkoa da eta aktiba/desaktiba dezakezu. Behin eta berriz datu egitura batera konektatzea garrantzitsua da DBEOren arabera, kontu anonimo batekin bada ere.
+Ez dugu zure informazio pertsonala biltzen eta ez dago zure jokaldiak aztertzen dituen telemetriarik.
+Internet bidezko multijokalaria desaktibatuta ere, zure gailuan pantaila banandu bidez zein tokiko sarea erabiliz jokatu ahalko duzu.
+
+Aukera hau edonoiz alda dezakezu ezarpenetan."
+gadget.slot.supplement,Gehigarria
+upgrades.droneyardovercharge2.desc,Droneak indartsuagoak dira dronegunea gainkargatu ondoren.
+level.furnace.popup.fuel.burn,| bakoitzak {cycles} ziklo iraungo du eta munstroak {seconds} segundo gehiago atzeratuko ditu.
+options.input.controls.nooptions,"Ez dago bakarkako ezarpenik erabilgarri zaindari honentzat, gailua: %s."
+upgrades.versusshowinventory.desc,Beste taldearen kupula espiatzean inbentarioa ere ikustea baimentzen du.
+properties.drillbot.drillstrength,Zulatze indarra {}
+upgrades.keeper1.desc,Mea ateratzeko abilezia bikainak dituen profesional eraginkor eta trebea.
+leaderboard.friends,Lagunak
+gadget.slot.activegadget,Bigarren borroka abilezia
+upgrades.keeper2.desc,"Meatzari sofistikatua, energia zinetiko esperimentala eta grabitate teknologiak darabiltzana."
+upgrades.keeper2pinballsplit2.title,Banaketa hobetua
+upgrades.keeper2movement1.title,Mugimendu grabitazionala 1
+properties.keeper2.explodespheres,Esferen leherketa
+upgrades.keeper3kunaidamage4.desc,Kunaiaren zulatzeko ahalmena handitzen du. Kunaiak bereziki ahulak dira harri gogorraren aurka.
+upgrades.spireautonomy1.desc,Kontrol gelan ez zaudenean obeliskoa kontrolatuko duen AA sinple bat ezartzen du.
+properties.droneyard.dronespeed,Droneen abiadura {}
+upgrades.teslaquickshot.title,Deskarga azkarra
+assignment.megacreeps.title,Egokienen biziraupena
+upgrades.shieldbattleactivateondepletion.title,Agortzerakoan aktibatu
+versus.corruptionbigwave.title,Uhin hilgarria
+upgrades.lasermove3.title,Mugimendu abiadura 3
+upgrades.swordelectrified.title,Aho elektrifikatua
+upgrades.artillerymachinegun1.title,Arma antiaereo hobetua
+level.tutorial.beastmaster.move.desc2,Mugitzeko beharrezkoa da zerbaiti heldu ahal izatea (hormei eta zenbait gadgeti).
+options.accessibility.fontsize.small,Txikia
+assignment.unpredictable.desc,"Planeta honen atmosferak kupularen hurbiltasun sentsoreak nahasten ditu, etsaien uhinak aurreikustea galaraziz."
+level.tutorial.beastmaster.move.desc1,Erabili garroak meategiko hormetan zehar mugitzeko.
+upgrades.suitblasterdirectional.desc,"Norabide batean joatean, jantzi lehergailuak tunel luze bat zulatuko du. Leherketa erradialak egin daitezke jantzi lehergailua geldi egotean aktibatzen bada."
+level.tutorial.teleporter.take1,Teleportagailuak estazio eta atari bana dauzka. Batetik bestera teleporta zaitezke.
+options.audio.music.ost.mode.fixed.desc,"Erabili Zaindari honen soinu bandako abestiak, zein Zaindari aukeratzen duzun axola gabe."
+level.tutorial.teleporter.take2,Hartu ataria eta kokatu nahi duzun tokian.
+level.gameover.assignment.failed,Zaindarien Elkarteko misioak porrot egin du.
+telemetry.manage,Internet bidezko zerbitzuak desaktibatu
+modding.restart,Berrabiarazi
+upgrades.orchardbattlerootingexplosion.title,Harrapakin lehergarriak
+level.gameover.unlock.skin,Jantzi berria lortu duzu!
+upgrades.jetpackspeed3.desc,Hobetu jetpacka oraindik are azkarrago mugitzeko.
+upgrades.repellentoverchargeduration2.title,Gainkarga indartsua
+upgrades.prospectionmeterwater1.desc,Ur baliabide hurbilenarekiko distantzia adierazten du.
+loadout.prestige.miner.description,"Kontzentratu meatzaritza eraginkorrena lortzeko, munstrorik gabeko mundu batean. 20 ziklo irauten du."
+upgrades.shieldbattlereflect.desc,Denbora labur batez etsaien jaurtigaiak islatzeko gai den borroka abilezia aktibatzen du.
+upgrades.stunlaserstun1.desc,Laser zorabiatzailearen izpia indartzen du.
+multiplayer.error.gameresolved,Jokaldia jadanik amaituta dago.
+upgrades.shieldbattlereflect.title,Islatzea
+options.audio.volumes.mastervolume,Nagusia
+upgrades.keeper2pinballdamage4.title,Esfera zinetikoak 4
+leaderboard.loading,Kargatzen...
+upgrades.droneyardparasites2.title,Drone bizkarroiak 2
+playerlist.title,Jokalari zerrenda
+upgrades.versusincreasewave2.desc,Beste taldearen munstro uhinak betiko indartzen ditu.
+upgrades.rocketlauncher.title,Misil jaurtigailua
+upgrades.liftspeed1.title,Abiadura
+upgrades.rocketlauncherrockets2.title,Misil sorta 2
+level.tutorial.blastmining.popup_1,Hartu lehergailua eta askatu harriak suntsitu nahi dituzun tokian.
+upgrades.keeper3slidecontrol.title,Irristatze kontrola
+properties.furnace.wavedelay,Oinarrizko atzerapena {} seg
+upgrades.mushroomfarmspeed1.desc,Onddoak jateagatik lortutako abiadura hobekuntza indartzen du.
+upgrades.dome3.title,Artilleria Kupula
+properties.converter.ironirontime,Burdina burdina bihurtze denbora (zikloak) {}
+properties.keeper4.movespeed,Mugimendu abidura {}
+properties.stunlaser.damagepermonster,Munstro bakoitzeko kaltea {}
+upgrades.stunlaser.title,Laser zorabiatzailea
+title.navbar.credits,Kredituak
+upgrades.drillbotbuffstrength1.title,Gozoki elikagarriak
+level.tutorial.pickup.popup_1.switch,Sakatu | baliabide bat hartzeko.
+level.tutorial.pickup.popup_3,Mantendu asko hartzeko.
+upgrades.blastminingtriple.title,Lehergailu hirukoitzak
+upgrades.prospectionmeterscandelay1.desc,Neurgailuak zein azkar berritzen edo eguneratzen diren hobetzen du.
+upgrades.furnacelastingwaterfiring.desc,Ur baliabide bakoitza labean iraunkorrago bilakatzen du.
+upgrades.versusincreasewave2.title,Sabotajea 2
+upgrades.artillerymachinegun4.desc,Muturreko tirokatze erritmoak egin ditzaketen kanoi indartuak ezartzen ditu.
+upgrades.teslaspeed4.title,Ituaren abiadura 4
+upgrades.swordextendlong3.desc,Sastakada indar eta hegaldi iraupen itzela.
+demo.end.title,Eskerrik asko demoa jokatzeagatik!
+upgrades.stationextensiontubemovement.title,Hodi xurgatzailea
+upgrades.keeper4squad3.title,Brigada itzela
+upgrades.orchardbattleshield.desc,"Huntz adaburua hazi kupula gainean, jaurtigaietatik babesteko."
+properties.droneyard.battledronestrength,Bizkarroi efektua {.percent}
+options.game.kunaicarriersnapping,Kunai garraiagailuaren apuntatzea norabide kardinaletara mugatu
+options.input.vibration.strength.xbox,Bibrazioaren indarra
+upgrades.keeper2pinballspherelifetime.title,Esferen iraupena
+upgrades.furnace.title,Labea
+upgrades.shockwavedamage1.title,Talka uhin kaltea 1
+properties.orchard.drillbuff,Zulatze indarraren hobekuntza {}
+level.tutorial.station.popup_4.switch,Ondoren sakatu | borroka moduan sartu eta babesteko.
+level.tutorial.teleporter_2,"Erabili estazioa atarira teleportatzeko, eta alderantziz."
+level.tutorial.station.popup_2.switch,Joan estaziora eta sakatu | bertan sartzeko.
+pause.resumegame,Jokatzen jarraitu
+actionhint.tap,Sakatu
+level.tutorial.station.popup_1,Zure kupula erasopean dago!
+multiplayer.error.kicked,Multijokalari saiotik kanporatua.
+telemetry.allow.ps5,AELKa onartu
+landing.proceed.ps5,Sakatu edozein tekla jarraitzeko
+upgrades.condenserautoovercharge.title,Gainkarga automatikoa
+upgrades.keeper2pinballdestroyadjacenttiles.title,Ur jauzi suntsiketa
+level.converter.popup.queue,Bihurketa automatikoki errepikatu
+options.keybindings.rebinding.cancel,Ezeztatu
+loadout.versus.condition.deathmatch.title,Zutik dirauen azken kupula
+upgrades.domearmorprojectile1.desc,Jaurtigaien kalteen aurka erresistentzia handiagoa izango du kupulak.
+options.keybindings.action.general.move,Mugitu
+upgrades.keeper3kunaicooldown2.title,Jaurtitze azkarragoa
+upgrades.artilleryrotation2.title,Errotazio bizkorra
+loadout.gadget.additional.desc,Hautatu gadget gehigarri bat!
+level.gameover.unlock.assignment,Misioak lortu dituzu!
+upgrades.domesupplementprojectiledamagereduction1.desc,Hobetu kupularen kroskoaren desbideratzea eta murriztu jaurtigaien kaltea. Ez du eraginik aurrez aurreko erasoetan.
+upgrades.blastminingproductiontime1.desc,Lehergailu berria sortzeko denbora txikitzen du.
+upgrades.autocannonshotgun1.title,Eskopeta 1
+loadout.hint.loadout,Bukatu zure aukeraketa!
+assignment.condition.deliveriron,Bidali %d burdina
+upgrades.drillbotduo.title,Lagun ausartak
+level.tutorial.assessor.carry.desc1_1.xbox,"Behin zugana lotuta, biltzeko botoia askatzen baduzu ere, baliabideek jarraitu egingo dizute."
+multiplayer.error.nomods,Ez litzateke modifikaziorik instalatuta egon beharko.
+options.input.controls.keybindings.xbox,Botoi loturak
+upgrades.domearmorprojectile2.title,Jaurtigaien armadura 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"Doitu balioa neurgailuak ez dezan kliskatu joko palankaren ukitze hutsarekin.
+Neurgailuak kliska egin beharko luke joko-palanka normaltasunez mugitzen denean."
+upgrades.domesupplementcombatrepair2.title,Borroka konponketa sakona
+level.gadgetchoice.title,HAUTATU GADGET BAT!
+properties.teleporter.slowdown,Garraiatze geldotzea {.percent}
+upgrades.teslaspeed1.title,Ituaren abiadura 1
+assignment.weapondefect.title,Arma akastuna
+properties.suitblaster.directionalexplosions,Norabide leherketa
+options.translation.community.title,Komunitatearen itzulpenak
+options.audio.music.ost.mode,Soinu bandaren ezarpenak
+upgrades.teleporterteleportresourcesback.title,Baliabideak teleportatzea
+upgrades.orchardbattleshield.title,Huntz adaburua
+properties.drill.sides,Albo zulagailuak {}
+upgrades.teslaorbstun.desc,Esfera elektrikoek zorabio askoz handiagoa eragiten dute.
+upgrades.repellentoverchargeduration1.desc,Borroka abilezien gainkargaren eragina handitzen du.
+properties.keeper2.totalspheres,Esferak {}
+options.keybindings.action.general.up,Gora
+pause.quit.popup,"Ziur al zaude irten nahi duzula?
+Sakatu berriz baieztatzeko.
+(Jokaldia gordeta dago)"
+upgrades.drillbotduplicate.desc,"Drillberten biki berdin-berdina, Drilliam."
+properties.suitblaster.radius,Leherketaren erradioa (lauzak) {}
+assignment.bigmapsparseresources.title,Lur antzuak
+upgrades.converterqueue.title,Bihurketa automatikoa
+multiplayer.error.otherprestigeplayerquit,"Jokaldia eten egin da zure taldekidea jokotik irten delako. Zure jokaldia gordeta dago eta jarrai zenezake, jarraitzeko menuaren azpian multijokalaria aukera hautatuz."
+level.tutorial.teleporter.teleport1.switch,"Ataritik gertu zaudenean, sakatu | teleportatzeko."
+level.tutorial.teleporter.teleport2,Beste norabidean ere teleporta zaitezke.
+playerlist.report,Salatu
+upgrades.swordextendlong1.title,Sastakada luzea 1
+upgrades.spiresplit3.desc,Zatitutako jaurtigaiek edozein angelu har dezakete norabidetzat.
+upgrades.keeper3kunaicooldown1.desc,Jaurti kunaiak azkarrago.
+exhibition.title.press.anything,Sakatu edozein tekla jokatzeko
+multiplayer.techtree.keeperexclusivesupplement,Gehigarri hau zure zaindariari ezarriko zaio soilik.
+options.input.gamepad.twinstick.ps5,Bi joko palankadun kontrolak
+gadget.slot.domesupplement,Kupula gehigarria
+loadout.mode.maze,Labirintoa
+upgrades.teleporter.title,Teleportagailua
+properties.keeper4.holesquad,Meatze brigadaren tamaina {}
+level.tutorial.fruit.popup_1,Zure baratzeak bere lehen fruitua eman du.
+upgrades.teslatiming1.desc,Tesla kargatzen den une zehatzean tiro eginez gero deskarga askoz indartsuagoa jaurtiko duzu.
+upgrades.converterefficientwaterlong.title,Tratamendu intentsiboa
+level.tutorial.fruit.popup_2.switch,"Bere ondoan zaudenean, sakatu | kontsumitzeko."
+unlock.buy.keeperdlc.xbox,Gehigarri honekin lortzen da: '%s'.
+upgrades.autocannonspeed1.desc,"Kanoiaren engranajeak koipeztatzen du, mugimendu abiadura modu nabarmenean handitzeko."
+upgrades.probepermanentrevealresources.desc,"Aurkitutako baliabideak betiko agertuko dira, seinale batekin adieraziak izan ordez."
+properties.teleporter.teleportresourcescooldown,Baliabide teleportatze iraupena {} seg
+upgrades.spire.desc,"Babes obeliskoa, hurbiltzen diren jaurtigaiei tiro egiten diena."
+reward.rewardkeepersupplements.title,Zaindarien gehigarriak
+upgrades.condenser.desc,"Makina bat ezartzen du kupula azpian, kondentsazio bidez ura astiro sortzen duena."
+upgrades.spiresplit3.title,Lurrazaleko zatiketa
+properties.drillbot.plantgrowthtime,Gozokien hazkunde denbora (zikloak) {}
+modding.modio.showdownloaded,Erakutsi jaitsitako modifikazioak
+upgrades.stunlaserspeed1.title,Abiadura 1
+upgrades.resourcepackercharges.title,Kargak
+upgrades.swordblade1.title,Mozketa hobetua
+loadout.versus.modifiers.desc,"Hautatu jokaldi honentzako modifikatzaileak, talde biei eragingo diete. Modifikatzaileak hautazkoak dira."
+options.keybindings.gamepad.xbox.view,Atzera
+options.accessibility.backgrounds.explanation,"Mundu bakoitzeko atzealdeak kolore argi bakarreko atzealdearekin ordezkatu, borroketan ikus-estimuluak murrizteko."
+upgrades.dome1health1.title,Osotasuna 1
+loadout.prestige.pro.randomorder,Ausazko ordena
+assignment.superhardrockwithholes.desc,"Harria oso dentsoa da, baina haitzulo naturalez josita dago."
+upgrades.droneyardparasites.title,Drone bizkarroiak
+actionhint.hold,Mantendu
+properties.spire.timebetweenshots,Apuntatze denbora {} seg
+properties.game.cyclespeed,Zikloen abiadura {.percent}
+upgrades.artillerydirecthit3.title,Munstro suntsitzailea 3
+loadout.mode.drillbert,Drillbert modua
+upgrades.prestigecobalt.title,Kobaltoa bidali
+upgrades.rocketlauncher.desc,Munstroak bilatzen dituzten misilak jaurtitzen ditu. Eskuz aktibatu behar da.
+level.station.battle.navbar.exit,Irten
+options.game.events.enableseasonal,Denboraldiko edukia aktibatu
+options.audio.music.ost.mode.fixed,Finkoa
+assignment.ironcontribution.desc,Zaindarien Elkarteak premiazko burdina beharrizana dauka eta burdina kopuru handia azkar bidaltzeko eskatu dizu.
+properties.rocketlauncher.damageperrocket,Kaltea {}
+upgrades.keeper4.title,Piztiazaina
+upgrades.laserbend.title,Laserraren kanoi birakaria
+unlock.host.locked.switch,Ostalariak ez dauka gehigarri hau: '%s'.
+level.supplementchoice.reroll.free,(%s) birjaurti
+loadout.versusmod.versusmodifierconcentratediron,Burdina kontzentratua
+options.keybindings.rebinding.apply,Aplikatu
+properties.repellent.battledamageovertime,Munstroek segundoro jasotako kaltea {}
+upgrades.repellentdelay1.title,Atzerapena 1
+upgrades.converterefficientwatershort.desc,Ur bihurketa askoz azkarrago gertatzen da.
+upgrades.domesupplementcombatrepair1.title,Borroka konponketa
+level.tutorial.sworddome.slicing,Ebaki
+properties.drillbot.scared,Munstroen beldur
+title.navbar.updates.close,Itxi
+upgrades.condenserspeed2.desc,Ur unitate bat ekoizteko denbora gehiago murrizten du.
+upgrades.prospectionmeteriron2.desc,Burdina baliabide hurbilenarekiko norabidea adierazten du.
+upgrades.keeper3carrylimit2.title,Garraiatze ahalmena 2
+loadout.versus.condition.irondelivery.desc,%s burdina lehenik bidaltzen duen taldea irabazle.
+properties.mushroomfarm.speedbuffduration,Mugimendu abiaduraren iraupena {} seg
+upgrades.keeper4punch1.desc,"Zure garroen bidezko zulatzea areagotuz doa, oso indartsua izan arte. Norabide aldaketek areagotzea berrabiarazten dute."
+exhibition.level.heading,Hor jarraitzen al duzu?
+keeperdlc.load.missing.xbox,"Ezin da gordetako jokaldia kargatu, eskuratuta ez dagoen eduki gehigarria daukalako. Mesedez, ziurtatu 'The Lost Keepers' eduki gehigarria eskuragarri dagoela."
+upgrades.domesupplementresurrection2.desc,Beste berpizte erabilera bat ematen du.
+pause.gamepadcontrols.drop,Askatu
+level.gameover.stats.monsterskilled,Akabatutako munstroak
+level.gameover.timelapse,Egindako ibilbidea
+upgrades.drill3.desc,Zulagailua indartu oraindik are azkarrago zula dezan.
+upgrades.prospectionmetersand1.desc,Kobalto baliabide hurbilenarekiko distantzia adierazten du.
+assignment.instagip.desc,"Planeta honetako munstroak zeharo basatiak dira, haien erasoek kalte izugarriak eragiten dizkiote zure kupulari."
+landing.proceed.switch,Sakatu edozein tekla jarraitzeko
+upgrades.drillsides.desc,"Erdiguneko zulagailuari gehitzen zaion albo-zulagailua ezarri, nahi bezala mugi daiteke."
+properties.dome.meleedamagereduction,Aurrez aurreko kaltearen murrizketa {.percent}
+options.keybindings.action.keeper.throw,Kunaia jaurti
+level.station.battle.navbar.artilleryflak,Metrailadorea
+upgrades.teleporterlightweight.desc,Ataria garraiatzeak ia ez zaitu ezer geldotuko.
+level.gameover.backtomainmenu,Menu nagusira itzuli
+properties.sword.stabarrowhead,Gezi buru tamaina handitu
+loadout.versus.team.open,irekita
+level.gameover.stats.mapsize,Maparen tamaina
+upgrades.domesupplementelectrifiedsurface2.desc,Kupula kolpatzean etsaiei eragiten dien kaltea handitzen du.
+upgrades.prestigecobalt.desc,Kobaltoa bidali. Uhin bakoitzaren ostean ospe puntu gehiago jasoko dituzu.
+options.video.renderscale.reset,Berrezarri
+options.keybindings.text.xbox,"Editatu kontrol eskema zure gustura.
+Botoi berbera erabil dezakezu kategoria ezberdinetan (adibidez, botoi berbera erabili zaindaria zein kupula kontrolatzeko)."
+options.audio.music.frequency,Maiztasuna (# ziklo musikarik gabe)
+upgrades.rocketlauncherrockets2.desc,Jaurti dezakezun misil kopurua gehiago handitzen du.
+options.input.controls.mouse.menus,Erabili sagua menuetan
+upgrades.artillerysplash4.title,Jaurtigai laukoitza
+upgrades.keeper4catgoblindig3.title,Erauzketa eroa
+properties.keeper4.catgoblincount,Katugoblin kopurua {}
+loadout.mode.hud.desc,Erabat hobetutako HUD batekin hasi.
+upgrades.drillbotsleepless.title,Oinarrizko baldintzapena
+assignment.maze.desc,"Planeta honetako meategiak labirinto itxurako mapa dauka, pasabidez eta egitura irregularrez beteta."
+level.tutorial.drop.popup_2.switch,Sakatu | ale bat askatzeko. Mantendu hainbat ale askatzeko.
+upgrades.artillerysplash2.title,Jaurtigai bikoitza
+loadout.select,Aukeratu
+level.gameover.prestige.uploading.failed,"Sarera igotzeak porrot egin du, berriz saiatzen..."
+level.assignment.badges.available,Lortutako dominak: %d
+level.tutorial.beastmaster.goblins,Katugoblinak
+properties.autocannon.spray,Balen sakabanatzea {.percent}
+upgrades.versusspycam.title,Espioi kamera
+upgrades.shredgadgettoiron.title,Txikitu burdina lortzeko
+upgrades.teslapersistance2.desc,Esfera elektrikoak are handiagoak dira eta are luzaroago irauten dute.
+upgrades.suitblasterspeed2.title,Kargatze denbora 2
+properties.shield.battleuses,Borroka bakoitzeko erabilpenak {}
+properties.prospectionmeter.range,Irismena (lauzak) {}
+upgrades.droneyard.desc,Borrokarako zein baliabide garraiorako droneak ekoizteko gunea ezartzen du.
+upgrades.domearmorpulse.title,Erreakzio uhina
+title.navbar.multiplayer.host,Multijokalarian ostatu eman
+upgrades.spireburst.desc,"Tirokatze segida laburrak, datozen jaurtigaietatik babesteko."
+upgrades.domearmor.desc,"Erresistentzia handiko geruzak dituen armadura ezarri, iraunkorrago bilakatuz."
+options.input.controls.mouse.gamepad.xbox,Agintera aldatzea eta sagua erabiltzera itzultzea automatikoki detektatzea
+unlock.difficulty.hard,Gainditu jokaldi bat zailtasun basatian hau lortzeko.
+versus.corruptionmonsterhealth.title,Munstro osasuntsuak
+properties.probe.markerretention,Seinaleen iraupena {} seg
+loadout.hint.gamemodecompletion,Zehaztu jokatzeko modua erabat!
+upgrades.suitblasterdirectional.title,Norabide leherketa
+loadout.abort,Atzera egin
+unlock.host.locked.xbox,Ostalariak ez dauka gehigarri hau: '%s'.
+loadout.versusmod.versusmodifiernorelics,Erlikiarik ez
+upgrades.autocannondoublefirerate.title,Tirokatze azkarreko kanoia
+upgrades.blastmining.desc,Eztanda bidezko meatzaritzarako lehergailuak ekoizten ditu. Eraman meategira eta askatu lehertu daitezen.
+upgrades.converterqueue.desc,"Bihurketa bat amaitu ondoren, sortutako baliabideak automatikoki kanporatuko dira eta bihurketa berdin bat hasiko da, inbentarioan beharrezkoak diren baliabideak edukiz gero."
+modding.modio.fetchsubscriptionsfailed,Mod.IO harpidetzak jasotzean akatsa gertatu da!
+upgrades.orchardbattleshieldsecondlayer.desc,Beste huntz adaburu bat gehiago hazi.
+unlock.generic,Gainditu jokaldi bat hau lortzeko.
+loadout.versusmod.versusmodifiersoftrock.desc,Mapak arroka bigun gehiago dauka.
+upgrades.assignments.desc,Onartu Zaindarien Elkarteko misio erronkari bat eta erakutsi zure trebetasuna.
+upgrades.proberecharge.title,Kargatze automatikoa
+assignment.instagip.title,Munstro basatiak
+upgrades.artillerysplash3.desc,Hobetu zure morteroa jaurtigaiek eztanda erradio itzela izan dezaten.
+options.keybindings.action.keeper.gravitycollect,Bildu
+pause.gamepadcontrols.move,Mugitu
+upgrades.condenserautoovercharge.desc,Mantendu zure lehen gadgeta uneoro gainkargatuta urik erabili gabe. Ur ekoizpena atzeratu egingo da gainkargaren ondoren.
+multiplayer.continue.deviceselection.title,Hautatu zure Zaindaria!
+upgrades.autocannonautonomy.desc,Kanoi automatikoa kontrol gelan ez zaudenean ere aktibatzen da.
+upgrades.laseraimline.title,Apuntatze laserra
+multiplayer.join.joinfromcode,Sartu
+properties.artillery.rotationspeedwhilemachinegun,Errotazio denbora tirokatze bitartean {.percent}
+level.tutorial.artillery.panel2header,Arma antiaereoa
+level.gameover.keepgadget.title,Hautatu hurrengo jokaldirako gordeko duzun gadgeta
+upgrades.domearmorprojectile2.desc,Jaurtigaien kalteen aurka erresistentzia are handiagoa izango du kupulak.
+upgrades.shieldbattledestructionprevention.title,Azken hatsa
+upgrades.domeresourcecounters.desc,Biltegiratutako baliabideen kopurua adierazten du eta kupula automatikoki konpontzen du borrokan zehar kobaltoa erabiliz.
+upgrades.spirestuntrap1.title,Energia tranpa
+upgrades.prospectionmeteriron2.title,Burdina iparrorratza
+loadout.mode.hyperactive,Azkarrak eta ahulak
+upgrades.prospectionmeterwater2.desc,Ur baliabide hurbilenarekiko norabidea adierazten du.
+options.video.stretchmode,Handitzeko modua
+level.gameover.prestige.title,OSPE JOKALDIA AMAITUTA
+upgrades.droneyardovercharge1.title,Dronegunea gainkargatu
+level.station.navbar.exit,Irten
+upgrades.teslaorbdamage.title,Eroaletasun izugarria
+upgrades.proberechargeafterbattle.title,Estaziorik gabeko zunda
+upgrades.prestigewatermultiplier.title,Ura bidali
+upgrades.probecharges.title,Zundaren erabilerak
+pause.gamepadcontrols.pickup,Hartu
+upgrades.prospectionmeter.title,Prospekzio neurgailua
+upgrades.condenserspeed2.title,Ekoizpen abiadura 2
+loadout.mode.hyperactive.desc,"Munstroak askoz azkarrago mugitzen dira, baina osasun maila baxuagoa dute."
+upgrades.teleporterlightweight.title,Atari arina
+versus.corruptionstunresistance.title,Zorabioarekiko erresistentzia
+loadout.versusmod.versusmodifierpoorirondeposits,Burdina sedimentu meheak
+level.gameover.prestige.uploading.finalfailed,Puntuazioaren sarerako igoerak porrot egin du. Sentitzen dugu!
+modding.currentprofile,(Indarrean dagoen profila)
+upgrades.versussendiron.title,Burdina bidali
+loadout.assignment.title,Hautatu misio bat
+options.keybindings.rebinding,Tekla loturak ezarri
+upgrades.teslaspeed2.title,Ituaren abiadura 2
+level.tutorial.beastmaster.hole_1,Mantedu | atzealdeko horman zulo bat egiteko.
+level.tutorial.beastmaster.hole_2,"Katugoblin bat agertuko da laster, haien tunel sistemara lotuz."
+upgrades.keeper3shurikenstrength2.title,Shuriken itzela
+upgrades.versusspycam.desc,Beste taldearen kupula begiratzea baimentzen duen gunea ezartzen du.
+loadout.versusmod.versusmodifiershortcycles,Ziklo laburrak
+options.accessibility.fontsize.large,Handia
+reward.rewardcentralmarker.desc,Meategiaren erdigunea lerro bertikal baten bidez markatu.
+upgrades.shieldstrength3.desc,Ezkutuak ekidingo dituen kalteak are gehiago handitzen ditu.
+options.game.movementsnapping,Mugimendua norabide kardinaletara mugatu
+upgrades.swordaimline.title,Apuntatze laserra
+upgrades.converterironduplication.title,Burdina fintzea
+upgrades.jetpackspeed1.desc,Hobetu jetpacka azkarrago mugitzeko.
+options.keybindings.gamepad.xbox,Agintea
+upgrades.teslapower1.title,Deskargaren indarra 1
+gadget.slot.mineshaft,Meategiaren leize zuloa
+keybindings.reset.title,Tekla loturak berrezarri
+upgrades.autocannonrateoffire2.desc,Tirokatze erritmoa gehiago handitzen du.
+multiplayer.join.localonly,Tokiko saioen bila... Internet bidezko multijokalaria aktibatu?
+upgrades.keeper3aerialmastery.title,Aireko maisutasuna
+upgrades.extractordestruction.desc,"Harriak ahuldu ordez, zizareek zulatutako harriak suntsituko dituzte. Inguruko zenbait harri ere hautsiko dituzte."
+properties.shield.battleabilityduration,Abileziaren iraupena {} seg
+upgrades.keeper4squad2.desc,Katugoblinen kopurua eta erresistentzia handitzen ditu.
+level.gameover.prestige.score.rankimproved,"Zure maila hobetu duzu, {rank} mailan zaude."
+options.game.tutorials.noneunlocked,Ez dago lortutako tutorialik.
+upgrades.droneyardparasites2.desc,Drone bizkarroien eraginkortasuna hobetzen du.
+loadout.prestige.provocation,Zirikatzea
+network.error.generic,Sare akatsa.
+options.game.ropesnapping,Soka eta apuntatze adierazlea norabide kardinaletara mugatu
+upgrades.keeper4catgoblindig1.title,Katugoblinen erauzketa
+level.gameover.manualmove,Eskuz maneiatutako kamera
+upgrades.domesupplementcombatrepair1.desc,Kupula automatikoki konpontzen du kalte kopuru jakin bat jasan ondoren. Ez du kobaltorik kontsumitzen.
+upgrades.prospectionmeterscandelay1.title,Eskaneatze abiadura hobetzea
+assignment.goaltype,Helburua
+properties.keeper1.speedlosspercarry,Garraiatze geldotasuna {}
+upgrades.extractor.desc,"Zizare eramangarriak hazi, burdina daukaten harrietan ezarri eta denboran zehar burdina erauzten joango dira."
+unlock.mapsize.huge,Gainditu jokaldi bat mapa handi batean hau lortzeko.
+upgrades.liftcarrykeeper2.desc,Igogailuak zaindaria are azkarrago igo dadila baimentzen du.
+loadout.mapsize.title,Maparen tamaina
+loadout.difficulty.hard,Zuk zeuk eskatu duzu
+upgrades.rocketlauncherdamage1.title,Misil hobetuak
+versus.corruptionfastmonsters.title,Munstro azkarrak
+multiplayer.host.online.desc,Mundu mailako jokalariak sartu daitezke.
+upgrades.keeper4speed3.desc,Mugimendu abiadura are gehiago handitzen du.
+network.error.offline,"Sarearekiko konexioa eten egin da. Mesedez, ziurtatu zure sare konexioa ondo dabilela."
+level.tutorial.ninja.carry.desc1_1,Gainetik pasatzean baliabideak batzen dituzu.
+upgrades.resourcepackerconstant.desc,"Ia bat-bateko pilaketa karga birsortze erritmoa, multzoen tamaina eta eskala hobetzeaz gain."
+loadout.versusmod.versusmodifiersecondweapon.desc,Zaindari bat baino gehiago dauzkan talde oro hasiko da bigarren estazioko arma jadanik prest duela.
+assignment.logistics.desc,Elkarteak hainbat ur aurkitu zuen planeta honetan eta zuk logistika kudeatzea behar du.
+properties.shockwave.damage,Kaltea {}
+pause.gamepadcontrols.back,Atzera

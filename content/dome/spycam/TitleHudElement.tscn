@@ -1,0 +1,26 @@
+[gd_scene load_steps=3 format=3 uid="uid://whetf4e0vg4h"]
+
+[ext_resource type="Script" path="res://content/hud/HudElement.gd" id="1"]
+[ext_resource type="LabelSettings" uid="uid://ce6cjgfmffufc" path="res://gui/fontsettings/LargeFontSettings.tres" id="2"]
+
+[node name="TitleHudElement" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1")
+element_size = Vector2(14, 2)
+layoutWeights = Vector2(10, 1)
+layoutPriority = 50
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 2.0
+offset_top = 1.0
+offset_right = 330.0
+offset_bottom = 51.0
+scale = Vector2(0.25, 0.25)
+text = "versus.inventory.title"
+label_settings = ExtResource("2")

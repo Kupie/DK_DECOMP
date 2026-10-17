@@ -1,0 +1,2206 @@
+﻿key,uk_UA
+upgrades.teslapersistance1.title,Стійкі сфери 1
+upgrades.keeper4ramping1.title,Імпульс
+upgrades.stationextensionupgrades.desc,Дозволяє дистанційно купувати покращення через підземну станцію.
+upgrades.sword.title,Меч
+upgrades.autocannonimproved.desc,Покращує всі аспекти гармати.
+upgrades.laserstrength1.title,Потужність 1
+properties.monstermodifiers.timebetweenwavesmodifier,Довжина циклу {.percent}
+level.gameover.unlock.modifiers,Новий модифікатор забігу розблоковано!
+keybindings.reset.explanation.ps5,Ваші налаштування клавіш було скинуто у зв'язку зі значними змінами у схемі керування в останньому оновленні. Вибачте за незручності!
+reward.rewardrerolloffers2.desc,Використовуйте воду для багаторазової заміни при виборі ґаджетів або доповнень.
+upgrades.proberecharge.desc,Зонд поступово перезаряджається сам.
+versus.corruptionmonsterdamage.title,Смертоносні монстри
+loadout.start.area.press,Натисніть|щоб почати забіг!
+upgrades.shieldbattleblastdamage.title,Смертельний розряд
+properties.monstermodifiers.move_speed,Швидкість руху монстрів {.percent}
+upgrades.mushroomfarmspeed1.title,Грибна швидкість 1
+upgrades.chainsawdamage1.title,Розмір пили 1
+properties.orchard.battlerootexplosion,Школа вибуху {}
+level.tutorial.assessor.bundleguide.desc2.switch,"Натисніть|, не натискаючи певного напрямку, щоб встановити стаціонарний пакунок."
+upgrades.swordtargetlock.desc,"Колючи, лезо автоматично наводиться на перше чудовисько, на яке воно направлено."
+reward.rewardautomatedweapons.desc,Автоматизуй свою допоміжну зброю.
+options.input.gamepad,Контролер
+playerlist.profile,Переглянути профіль
+upgrades.stunlaserstun1.title,Сила приголомшення 1
+properties.condenser.overchargedelay,Затримка виробництва (циклів) {}
+exhibition.level.description,Повернення до головного меню через ...
+keybindings.reset.explanation.switch,Ваші налаштування клавіш було скинуто у зв'язку зі значними змінами у схемі керування в останньому оновленні. Вибачте за незручності!
+upgrades.shockwave.title,Ударний молот
+properties.keeper3.shurikencooldown,Перезаряджання сюрикена {} с
+title.navbar.leaderboard,Престиж
+modding.prestigewhitelist,"Якщо ви маєте модифікацію, котру варто верифікувати для престижу, повідомте нам у Discord і ми її перевіримо. Ми будемо верифікувати тільки ті модифікації, котрі не змінюють баланс гри, а, для прикладу, покращують доступність або є виключно косметичними."
+upgrades.extractordoublebuild.desc,Покращує виробництво хробаків.
+upgrades.chainsawdamage3.title,Розмір пили 3
+modding.modio.error,Помилка mod.io
+loadout.versusmod.versusmodifiermirroredmap.desc,Карти під куполами ідентичні — це дзеркальні копії одна одної.
+actionhint.blast,Вибух
+multiplayer.host.crossplay,Увімкнути кросплатформну гру
+properties.converter.ironpercobalt,{} заліза на кобальт
+upgrades.shieldovercharge.desc,"Вручну підживлює бар’єр, використовуючи воду, щоб він міг поглинути більше ушкоджень під час наступної хвилі."
+properties.droneyard.overchargebattledronestrength,Підсилення бойових дронів {.percent}
+options.game.showkeeperaimindicator,Індикатор наведення вартівника
+upgrades.autocannonautonomy.title,Автономність
+properties.keeper4.holesquadduration,Тривалість роботи загону шахтарів {}s
+options.keybindings.rebinding.capture,Змінити
+options.game.screenshake.shakeintensity,Потужність тремтіння
+upgrades.keeper2pinballspherelifetime.desc,"Збільшує час, котрий сфера буде літати."
+upgrades.swordreflection2.title,Відбиття 2
+upgrades.lift.title,Ліфт
+assignment.circumstance,Умови
+options.input,Введення
+properties.keeper2.spheresplit,Розділення сфер
+properties.tesla.damage,Шкода пострілу {}
+options.game.events.allowtelemetry,Увімкнути онлайн-мультиплеєр
+properties.keeper1.maxspeed,Макс. швидкість {}
+level.tutorial.tesla.panel3content1,Купол-тесла - універсальний. Використовуйте всі його здібності для успішної експлуатації.
+level.tutorial.sworddome.reflecting.desc,"Використовуйте щит меча, щоб зупиняти снаряд, або навіть їх відбивати в ворогів."
+options.game.bundlesnapping,Прив’язка напрямку вантажу до сторін світу
+upgrades.spiresustain.title,Безперервний вогонь
+reward.rewardpermanentinventory.title,Постійний інвентар
+properties.furnace.ironduration,Час спалювання заліза (циклів) {}
+level.gameover.assignment.badges.more,Успішно виконайте це завдання в ускладненому режимі для отримання додаткової емблеми.
+upgrades.droneyardovercharge2.title,Покращене підживлення
+multiplayer.error.joincodefailed,Лобі із зазначеним кодом не знайдено.
+properties.laser.movespeedwhilefiring,Швидкість під час стрільби {.percent}
+upgrades.keeper3shurikencooldown1.title,Стрімкий сюрикен
+upgrades.orchardduration2.desc,Ефект від фруктів триває ще довше.
+options.input.controls,Керування
+upgrades.droneyardovercharge3.desc,Підживлена фабрика дронів виробляє ще більше додаткових дронів.
+upgrades.blastminingimpactdetonation.desc,Заряд миттєво вибухатиме при дотику до поверхні. Вибух спрямовується у напрямку колізії.
+upgrades.laserstrength3.title,Потужність 3
+level.gameover.clientdisconnect,Від’єднатися від хоста
+upgrades.swordstabexplode.desc,"Інсталює на лезо бомбу, яка вибухає в польоті при першому контакті із ворогом."
+properties.keeper4.minpunchdelay,Найшвидший удар {} с
+options.audio.music,Музика
+upgrades.keeper3carrylimit3.title,Місткість інвентарю 3
+upgrades.keeper4swiftpunch.desc,Видобуток починається з вищою початковою швидкістю.
+assignment.showdown.desc,Монстри цієї планети готуються до єдиної колосальної атаки.
+properties.suitblaster.chargespeedpercharge,Додаткова швидкість перезаряджання за заряд {.percent}
+loadout.versusmod.versusmodifierhardrock,Тверда порода
+properties.keeper4.catgoblinminingspeed,Швидкість копання котоґоблінів {.percent}
+keeperdlc.title,Утрачені вартівники
+upgrades.drillbotduplicate.title,Близнюк
+properties.mushroomfarm.drillbuffduration,Тривалість бонусу до сили копання {}с
+upgrades.droneyardbattlegridlong1.desc,Дозволяє випускати збільшену кількість довготривалих дронів.
+level.gameover.prestige.uploading.inprocess,завантажуємо рахунок ...
+upgrades.furnace.desc,Встановлює вагранку із димарем. Чад з неї затримує наступну атаку монстрів.
+leaderboard.needsOnlineServices.ps5,"Прийміть EULA в параметрах, щоб переглянути таблицю лідерів."
+options.game.multiplayer,Багатокористувацька гра
+upgrades.shieldbattledestructionprevention.desc,"Перед самим знищенням купола активується тривала невразливість.
+Після цього бар’єр не заряджатиметься до наступного бою. «Останній бій» може активуватися знову лише через 2 хвилі.
+"
+properties.keeper2.bundlestopcenter,Центральне гравітаційне поле
+upgrades.chainsawdamage2.title,Розмір пили 2
+upgrades.keeper2rotationalmining1.title,Тискове гірництво 1
+upgrades.swordlargeblade1.title,Важке лезо 1
+loadout.difficulty.veryeasy,Звичайна
+level.tutorial.assessor.spheres.desc2,"Ваш запас сфер обмежений, але буде поповнюватися автоматично з часом."
+level.tutorial.assessor.spheres.desc1,"Натисніть |, щоб запустити кінетичну сферу у напрямку пострілу."
+upgrades.repellentdelay2.desc,Ще більше затримує наступну хвилю чудовиськ.
+upgrades.artillerydirecthit1.desc,Покращує руйнівну силу снарядів міномета для точних влучань.
+reward.rewardpet12.title,Пес
+upgrades.keeper2movement4.desc,Рухайтесь набагато швидше при зборі та перенесенні ресурсів.
+properties.sword.stabspeed,Швидкість колючої атаки {.percent} 
+upgrades.artillerysplash3.title,Вибухонебезпечність 2
+properties.drillbot.amount,Буріння {} уд.
+options.game.autopickupkunaicarrier,Автоматично підбирати носій кунаїв
+upgrades.stunlaserautonomy1.desc,Шоковий лазер працює навіть коли ви не керуєте куполом.
+properties.shockwave.stunstrength,Сила приголомшення {}
+level.gameover.continue,Продовжити
+multiplayer.host.joincodeunavailable,Недоступно
+upgrades.shieldbattlelongerafterdepletion.desc,"Розряд протримається довше, якщо його активовано після вичерпання бар’єра."
+level.tutorial.assessor.mining.desc,Для видобутку одного каменю продовжуйте тиснути на нього.
+upgrades.teleporterteleportresourcesback.desc,"Портал тепер може переміщати ресурси, але більше не може телепортувати гравця. Ви все ще можете телепортуватися з купола до портала."
+keybindings.reset.doreset.ps5,Скинути прив'язку моїх клавіш
+upgrades.jetpackstrength1.title,Вантажність 1
+level.tutorial.beastmaster.squad_1,"Утримуйте| біля входу в тунель, щоб прикликати загін шахтарів."
+loadout.prestige.pro.explanation,"Частково зменшує випадковість, визначаючи фіксований порядок ґаджетів, доповнень та печер."
+level.tutorial.beastmaster.squad_3,Працювати може лише один загін одночасно.
+upgrades.swordelectrified.desc,"Пускає лезом електричний струм, який завдає ушкоджень при дотику."
+level.tutorial.beastmaster.squad_2,Вони навмання видобуватимуть породу поблизу входу в тунель.
+upgrades.drill1.title,Сила свердла 1
+loadout.start.area.move,Перемістіть усіх вартівників сюди щоб розпочати!
+level.station.upgrademenu.close,Закрити
+upgrades.rocketlauncherrestock.title,Відновлення Ракет
+upgrades.chainsawdamage1.desc,"Збільшує шкоду, яку пила завдає монстрам."
+level.tutorial.artillery.panel1header,Міномет
+upgrades.repellentdelay3.title,Затримка 3
+upgrades.suitblasterspeed1.title,Швидкість заряду 1
+level.gameover.stats.additional,Детальна статистика
+options.audio.music.ost.mode.adaptive,Адаптивна (рекомендовано)
+upgrades.furnacestrongwaterfiring.title,Покращене водяне паливо
+properties.dome.meleethorndamage,Повернення шкоди {}
+upgrades.repellentbattlelongerhealthreduction.desc,Посилює ефект виснаження для всіх монстрів у полі зору.
+level.tutorial.tesla.panel3header,Багато здібностей
+versus.corruptionstunresistance.desc,Монстри значною мірою чинитимуть опір оглушенню та уповільненню.
+level.tutorial.assessor.spheres,Кінетичні Сфери
+upgrades.chainsawdouble.title,Подвійна циркулярна пила
+upgrades.keeper4squad1.desc,"Приклич спеціалізований загін котоґоблінів-шахтарів, щоб розкопати породу поблизу."
+versus.message.corruption,"Суперники щойно посилили монстрів, які атакують вашу команду."
+options.keybindings.action.keeper.gadget1,Ґаджет 1
+options.keybindings.action.keeper.gadget2,Ґаджет 2
+upgrades.swordfastreflection.title,Прискорене Відбиття
+properties.monsters.additionalstartweight,Додаткова сила хвилі {}
+level.gameover.stats.damagedealt,Завдано шкоди
+properties.keeper2.reflectspeed,Прискорення сфер {.percent}
+properties.shield.battleadditionalabilitydurationafterdepletion,Додаткова тривалість здібності {}с
+properties.converter.ironcobalttime,Час перетворення заліза на кобальт (циклів) {}
+upgrades.droneyardbattlegrid.desc,"Розгортає формування бойових дронів для захисту від монстрів, що наближаються."
+upgrades.suitblasterradius1.desc,Збільшує радіус вибуху.
+upgrades.droneyardbattlegridquick1.title,Швидкі дрони
+options.input.controls.keybindings.button,Змінити прив'язки клавіш
+multiplayer.host.ping,Пінг сервера: %d мс
+title.navbar.singleplayer,Одиночна гра
+options.video.renderhalfres.enable,Масштабувати на половину роздільної здатності
+level.gameover.stats.destroyedblocks,Знищено блоків
+upgrades.converterefficientwaterlong.desc,"Змінює процес конвертації води, збільшуючи його тривалість та врожайність."
+pause.restartrun,Перезапустити забіг
+options.video.stretchmode.scaled,Масштабовано
+level.tutorial.beastmaster.mine.desc1,"Щоб видобувати породу, продовжуй тиснути на неї."
+level.tutorial.beastmaster.mine.desc2,Швидкість видобутку збільшується з кожним ударом.
+upgrades.domesupplementscraprepair2.desc,"Відновлює структурну цілісність купола, втрачену від ремонту брухтом."
+upgrades.keeper2bundle3.desc,"Пакунки вистрілені до центральної осі зупиняться на ній, прямо під куполом, замість того, щоб пролетіти повз."
+leaderboard.fellowkeepers,Рейтинг гільдії
+upgrades.autocannon.desc,"Встановлює потужну автоматичну гармату на ваш купол, що завдає масивної шкоди монстрам."
+properties.orchard.battlerootcatchduration,Тривалість пастки {}с
+upgrades.laseraimline.desc,"Додає приціл для лазера, який показує куди він направлений."
+upgrades.teslapersistance2.title,Стійкі сфери 2
+upgrades.orchardovercharge2.desc,Збільшує вплив підживлення на бойові здібності.
+actionhint.teleport,Телепорт
+loadout.difficulty.medium.description,Нормальна складність гри.
+upgrades.swordlargeblade2.title,Важке лезо 2
+loadout.prestige.endless,Нескінченний
+upgrades.teslanurture.title,Живлення електричних сфер
+upgrades.shieldbattleelectroblast.desc,"Активна бойова здібність, яка на короткий час оточує купол смертоносним полем."
+options.game.blocklist.desc,"Це перелік гравців, яких ви заблокували.
+У майбутніх онлайн-іграх ви не зустрінете жодного заблокованого користувача.
+Якщо передумаєте, їх можна розблокувати нижче.
+Максимум гравців, яких ви можете заблокувати: %s."
+actionhint.cancel,Скасувати
+upgrades.shockwavestun2.title,Ударне приголомшення 2
+upgrades.liftcapacity1.desc,У сфери поміщається більше ресурсів.
+upgrades.domewavemeter.title,Радар наближення ворогів
+level.gameover.assignment.win.title,ЗАВДАННЯ ВИКОНАНО
+gadget.slot.cellar,Підвал
+options.game.ropecamerafollow,Випередження камери під час використання мотузки
+upgrades.proberecharge.title,Авто перезаряджання
+level.tutorial.repair.usecobalt,Зібраний кобальт можна використати для ремонту купола. Це поліпшення з дерева технологій купола.
+level.supplementchoice.title,ВИБЕРІТЬ ДОПОВНЕННЯ!
+options.keybindings.action.general.right,Праворуч
+gadget.slot.keepersuit,Костюм вартівника
+assignment.cobaltcontribution.desc,"Гільдія термінового потребує кобальт та вимагає від вас, щоб ви швидкого доставили його велику кількість."
+upgrades.prestigefinish.desc,Залишити цю планету і повернутись додому.
+loadout.mapsize.huge.description,Величезна карта для довгих забігів.
+options.game.events,Події
+loadout.versusmod.versusmodifierrichirondeposits.desc,"Жили заліза невеликі, проте дуже багаті."
+loadout.mode.shortcycles.desc,Між хвилями проходить менше часу.
+multiplayer.error.lobby.host,Не вдалося створити лобі.
+level.tutorial.sworddome.reflecting,Відбити
+level.tutorial.artillery.panel3header,Вибухи й точні влучання
+assignment.rareiron.title,Нестача заліза
+level.tutorial.assessor.carry.desc1_1,"Коли вони прикріплені до вас вони будуть слідувати за вами, навіть якщо ви відпустите клавішу притягування."
+level.station.battle.navbar.slice,Різати
+upgrades.furnacewaterfiring.title,Водяне паливо
+upgrades.drill.desc,"Центральний бур для глибокого занурення у шахту, з додатковим бічним бурильником."
+level.gameover.stats.additionalgadget,Додатковий ґаджет
+level.tutorial.tesla.panel2content1,Утримуйте|щоб зарядити постріл.
+level.tutorial.tesla.panel2content2,"Щоб вистрілити, відпустіть після повної зарядки. В іншому випадку - нічого не станеться."
+upgrades.teslapersistance1.desc,Збільшує розміри та час життя електричних сфер.
+upgrades.blastminingtriple.desc,Станція буде виробляти декілька зарядів за раз замість одного.
+properties.droneyard.battledronecount,Бойові дрони {}
+options.ok,ОК
+loadout.versusmod.versusmodifiermanycaverns,Карта з безліччю печер
+upgrades.lasermove1.desc,Збільшує швидкість руху лазера.
+upgrades.domewavewarner.desc,"Шкала наближення хвилі сигналізуватиме, коли час повертатися до купола, через наближення хвилі. З часом адаптується й покращує точність."
+upgrades.dome4.title,Купол Тесли
+upgrades.keeper4squad1.title,Тунельний загін
+upgrades.keeper4autospawnminers.desc,"Щоразу, коли відкривається новий вхід у тунель, з’являється загін шахтарів."
+assignment.unpredictable.title,Пошкоджений зв’язок
+upgrades.blastminingblast3.desc,Покращує вибухові заряди до неймовірної сили.
+upgrades.domewavepathtodome.title,Дорога до виходу
+level.tutorial.probe.popup_1.switch,"Натисніть |, щоб запустити імпульс зонда."
+upgrades.teslapower1.desc,Збільшує потужність пострілу тесли.
+loadout.versus.modifiers.title,Модифікатори
+properties.furnace.irondelay,Затримка від заліза {}с
+actionhint.pickup,Підібрати
+demo.end.subtitle,"Повна гра містить набагато більше контенту. Якщо вам сподобалось, будь ласка, розгляньте можливість придбання повної версії. Дещо з цього включає:"
+loadout.versusmod.versusmodifierironinflation.desc,"Усі поліпшення потребують удвічі більше заліза, зате його жили багатші."
+upgrades.artilleryprojectileerasure.title,Знищення снарядів
+options.video.brightness.reset,Скинути
+upgrades.domesandrepair.desc,"Лагодить ушкодження купола, використовуючи кобальт."
+upgrades.swordlongblade2.title,Довге лезо 2
+level.gameover.restart,Перезапуск забігу
+options.input.gamepad.thumbstick.ps5,Стік
+level.tutorial.caves,Печери
+options.input.gamepad.gamepadstickdeadzone.ps5,Мертва зона джойстику
+upgrades.keeper3shuriken2.title,Швидкий сюрикен
+upgrades.condenserspeed1.desc,Зменшує час на конденсацію однієї порції води.
+properties.monsters.fixedweight,Фіксована потужність хвилі {}
+properties.versus.ironcontribution,Залізний внесок {}
+multiplayer.join.title,Приєднатися до багатокористувацької сесії
+upgrades.prestigewater.title,Відправити воду
+upgrades.keeper3kunaibounce2.title,Глибокий резонанс
+upgrades.swordtargetlock.title,Захоплення цілі
+level.station.battle.navbar.artilleryflak,Кулемет
+upgrades.mushroomfarmdrill2.title,Грибне гірництво 2
+upgrades.stunlaser.desc,"Встановлює лазер, який автоматично наводиться й приголомшує маленьких чудовиськ."
+upgrades.shieldbattleinvulnerable.title,Невразливість
+loadout.hint.dome,Оберіть купол!
+loadout.versusmod.versusmodifierrichirondeposits,Багаті жили заліза
+upgrades.chainsawdouble.desc,Встановлює додаткову циркулярну пилу задля ефективного захисту обидвох сторін купола.
+properties.lift.capacity,Сфери перевозять {} рес.
+reward.rewardcentralmarker.title,Центральний маркер
+upgrades.autocannonrateoffire1.title,Кулемет 1
+loadout.versusmod.versusmodifierwindingmap,Карта-лабіринт
+upgrades.prospectionmetersand2.title,Компас кобальту
+properties.lift.orbs,{} сфер
+upgrades.keeper3doublejump.desc,Дає змогу стрибнути ще раз у повітрі.
+upgrades.droneyardparasites3.title,Паразитичні дрони 3
+upgrades.keeper4doublesquad.title,Другий загін
+upgrades.relichunt.title,Полювання за реліквіями
+upgrades.orchardbattlerooting.desc,"Можна задіяти під час бою, щоб за межами купола проросло коріння. Воно хапатиме всіх чудовиськ середнього розміру, які на нього наступлять."
+upgrades.prospectionmetergadget.title,Пошук артефактів
+properties.sword.reflection,Збільшення розміру захисної панелі
+upgrades.extractorresources1.desc,"Виводить особливих хробаків, які працюють ретельніше та видобувають більше заліза."
+properties.dome.autohealdamagethreshold,Активується при отриманні шкоди більше за {}міцності
+upgrades.keeper2rotationalmining2.desc,Підвищує швидкість контактного копання.
+properties.tesla.persistencestunstrength,Сила Оглушення Електросфер {}
+level.gameover.stats.timeplayed,Награно часу
+properties.sword.stabdamage,Ушкодження колючою атакою {} 
+properties.monsters.additionalwaveweight,Додаткова потужність хвилі {.percent}
+options.game.playerindicatorsinmultiplayer,Показувати імена гравців у багатокористувацькій грі
+properties.mushroomfarm.speedbuff,Бонус до швидкості руху {}
+level.tutorial.drillbot.carry,"Вийміть Свердлика з його резервуара і залиште в шахті, де він має копати."
+modding.modio.decline,Відхилити
+assignment.inversegravity.desc,Гравітаційне поле цієї планети інвертоване.
+level.tutorial.drop.popup_2,"Натисніть |, щоб викинути один. Затисніть, що викинути кілька."
+upgrades.droneyardbattlegridquick1.desc,Дозволяє випускати збільшену кількість дронів зі значно пришвидшеною частотою.
+upgrades.mushroomfarmautopickup.desc,"Автоматично споживайте гриби, коли ви пролітаєте біля них."
+level.tutorial.drop.popup_1,Вага ресурсів вас сповільнює.
+properties.sword.retractspeed,Швидкість втягування {} 
+reward.rewardkeeper1skin5.title,Скін Інженера
+upgrades.keeper4.desc,"Арканний вартівник, що пересувається шахтами за допомогою спритних щупалець і керує посіпаками-котоґоблінами."
+assignment.condition.deliverwater,Достав %d води
+loadout.difficulty.hard.description,"Що ж, вам купол втрачати."
+upgrades.keeper4speed2.title,Швидкість руху 2
+loadout.versusmod.versusmodifierhardrock.desc,На карті більше твердої породи.
+properties.furnace.maxironstack,Максимальна кількість заліза {}
+upgrades.rocketlauncherdamage2.desc,Дедалі покращує ракети.
+upgrades.artilleryrotation1.desc,Збільшує максимальний кут нахилу артилерії.
+level.furnace.popup.fuel.add,Покладіть одиницю|для спалення.
+reward.rewardpostrunshowmonstercount.desc,"Показує додаткові статистичні дані після завершення гри стосовно битви, наприклад кількість зазнаної шкоди за типом монстра."
+upgrades.extractordoublebuild.title,Подвійний хробак
+multiplayer.error.otherteamquit,"Гра завершилася, тому що всі гравці іншої команди вийшли з матчу. Прогрес збережено. Щоб продовжити гру, виберіть «Багатокористувацька гра» в меню «Продовжити»."
+upgrades.blastminingproductiontime1.title,Швидкість виробництва
+upgrades.chainsawdamage2.desc,"Збільшує шкоду, яку пила завдає монстрам."
+multiplayer.continue.deviceselection.originalplayer,Початковий гравець
+upgrades.shieldbattleinvulnerable.desc,"Активна бойова здібність, яка на короткий час робить купол невразливим до ушкоджень."
+level.gameover.unlock.drillbert,Модифікатор Свердлика розблоковано!
+multiplayer.host.splitscreen.desc.ps5,"Використовуйте геймпади на екрані спорядження, щоб додати додаткових вартівників. На одному екрані можуть грати до чотирьох вартівників. Режим розділеного екрана можливий під час гри в онлайн-мультиплеєрі."
+loadout.mapsize.large,Велика
+level.furnace.popup.explanation,Додавайте ресурси до паливного стогу. Ресурси згоряють один за одним.
+upgrades.liftcapacity1.title,Місткість
+upgrades.shockwavebig.title,Смертельна хвиля
+upgrades.extractorresources2.desc,"Виводить хробаків, спроможних винайти кожну частинку заліза у камені."
+level.tutorial.ninja.shuriken.desc1,"Двічі торкніться|, щоб запустити сюрикен."
+level.tutorial.ninja.shuriken.desc2,Сюрикени із часом відновлюються.
+upgrades.droneyarddronespeed1.title,Швидкість руху дронів
+upgrades.stunlaserarea.title,Область приголомшення
+assignment.weakmining.title,Проблема із видобутком
+options.game.events.allowtelemetry.ps5,Прийняти EULA
+upgrades.keeper3kunaibounce2.desc,"Збільшує діапазон сегментів, які відкриває резонанс."
+assignment.projectilehell.title,Пекло зі снарядів
+options.input.controls.mouse.gamepad.ps5,Перемикання і назад відбувається автоматично
+reward.rewardpermanenthealthmeter.title,Постійний індикатор міцності
+properties.game.fixedtimelimit,Часове обмеження: {} хвилин
+upgrades.drillbot.title,Свердлик
+options.video.performance,Продуктивність
+properties.furnace.waterduration,Час спалювання води (циклів) {}
+level.gameover.win.team.profile,Профіль
+upgrades.droneyardbattlegrid.title,Бойовий Стрій
+loadout.prestige.countdown.description,Множник престижу починається з високого рівня та зменшується з кожним циклом.
+level.tutorial.ninja.carry.desc1,"Натисніть |, щоб запустити кунай із ресурсами у вказаному напрямку, використовуючи %s."
+level.gameover.miner.title,ЗАБІГ ГІРНИЦТВА ЗАВЕРШЕНО
+loadout.mapsize.medium.description,Мапа середнього розміру для належних копальних сесій.
+upgrades.assignmentsemergencycontribution2.desc,"Надішли цей пакунок до 4-го раунду, інакше завдання буде провалено."
+level.gameover.unlocknewelementbutton,"Оберіть, що розблокувати"
+upgrades.repellentbattlestrongerslowdown2.desc,Туман ще більше сповільнює чудовиськ і залишається довше.
+upgrades.orchardovercharge3.desc,Збільшує вплив підживлення на бойові здібності.
+modding.steamworkshop,Відкрити майстерню Steam
+upgrades.laserstrength2.title,Потужність 2
+reward.rewardkeeper1skin5.desc,Розблокуй новий скін вартівника для Інженера.
+options.keybindings.rebinding.error.gamepad.ps5,Неможливо призначити це як введення з контролера.
+properties.keeper2.actioncooldown,Перезаряджання здібності {}с
+pause.godot,Розроблено на Godot
+loadout.mode.nomonsters,Без монстрів
+properties.teleporter.teleportduration,Час телепортації {}с
+level.paused,На паузі
+upgrades.teslaautoaim.desc,"Приціл отримує невелику ділянку, у межах якої автоматично вирівнюється до найближчого монстра."
+upgrades.domearmorpulse.desc,"Броня купола частково утримує кінетичну енергію від отриманих атак, зрештою вивільняючи її у виді сильного пульсування, приголомшуючи ворогів поруч."
+upgrades.teslapower2.title,Потужність пострілу 2
+modding.close,Закрити
+upgrades.stunlaserduration2.desc,Шоковий лазер перезаряджатиметься значно швидке та стрілятимете довше.
+level.station.battle.navbar.move,Рух
+upgrades.repellentbattleslowdown.title,Знесилення
+properties.drillbot.buffstrength,Прискорення від енергійності {.percent}
+options.input.controls.keybindings.button.ps5,Змінити прив'язки клавіш
+upgrades.keeper4speed1.title,Швидкість руху 1
+upgrades.stunlaserduration2.title,Тривалість вогню 2
+modding.profile.delete,Видалити профіль
+upgrades.dome1health1.desc,Назавжди збільшує структурну міцність купола.
+assignment.logistics.title,Логістичний кошмар
+level.gameover.prestige.score.finalscore,Ваш фінальний рахунок...
+upgrades.prestige.desc,"Заробляйте бали, відправляючи додому якомога більше ресурсів допоки ваш купол не паде або ви безпечно не залишите планету."
+properties.chainsaw.damage,Шкоди за секунду {}
+upgrades.autocannonshotgun2.desc,Збільшує потужність дробовика.
+reward.rewardthreechoicesgadget.title,Потрійні пропозиції ґаджетів
+options.input.gamepad.twinstick.xbox,Управління Двома Джойстиками
+upgrades.domewavewarner.title,Адаптивне попередження про хвилі
+upgrades.mushroomfarmdrill1.desc,Збільшує бонус до шахтарських здібностей від поглинання грибів.
+properties.suitblaster.chargespeed,Зарядів на цикл {}
+loadout.player.color,Колір вартівника
+level.assignment.badges.unlock,Заробіть ще %d емблем щоб розблокувати.
+assignment.projectilehell.desc,"Планета кишить летючими монстрами, які мечуть снарядами."
+properties.repellent.overchargebattleabilityduration,Додаткова тривалість здібності {.percent}
+properties.dome.maxhealth,Міцність {}од.
+properties.keeper2.reflectsphere,Поле відбиття
+upgrades.probecharges.desc,Додає ще один заряд до зонда.
+upgrades.resourcepackerconstant.title,Майстерне пакування
+upgrades.droneyardbattlegridlong2.desc,Дозволяє випускати дедалі збільшену кількість довготриваліших дронів.
+upgrades.swordreflection2.desc,Дедалі збільшує розмір захисної панелі.
+upgrades.orchardovercharge3.title,Інтенсивне підживлення
+upgrades.assignmentsemergencycontribution4.desc,"Надішли цей пакунок до 11-го раунду, інакше завдання буде провалено."
+upgrades.droneyardovercharge3.title,Обширне підживлення
+level.gameover.assignment.lose.title,ЗАВДАННЯ ПРОВАЛЕНО
+actionhint.pack,Пакування
+upgrades.stationextensionminimap.title,Картографія
+properties.tesla.orbdamage,Ушкодження Електросфер {}
+properties.furnace.maxwaterstack,Максимальна кількість води {}
+loadout.versusmod.versusmodifiermirroredmap,Дзеркальна карта
+upgrades.artilleryrotation1.title,Широкий оберт
+upgrades.drillsidespeed2.desc,Дедалі прискорює бічні бурильники.
+level.tutorial.resourcepacker.popup_1,"Перебуваючи поруч із ресурсами, натисніть | , щоб стиснути їх у компактний пакунок, який легше переносити."
+properties.orchard.overchargeabilityuses,Додаткові використання здібності {}
+options.input.controls.gamepadusage.ps5,Використання контролера
+options.keybindings.restoredefault,Відновити стандартні налаштування
+options.input.gamepad.ps5,Контролер
+upgrades.stationextensionresolution.title,Висока роздільність
+upgrades.shieldbattlelongerafterdepletion.title,Підсилення після вичерпання
+telemetry.manage.ps5,Відхилити EULA
+level.gameover.stats.damagereceived,Зазнано шкоди
+modding.modio.moddownloadfailed,Не вдалося завантажити мод із mod.io!
+loadout.versusmod.versusmodifierironinflation,Інфляція заліза
+reward.rewardpermanentwavecount.title,Постійний лічильник циклів
+upgrades.jetpackstrength1.desc,"Збільшує вантажність реактивного ранця, щоб переносити більше ресурсів."
+level.gameover.unlock.gadget,Новий ґаджет
+upgrades.stationextension.desc,"Встановлює рухому станцію, яка знаходиться на рейці прямо під куполом. Дозволяє дистанційно керувати куполом під час перебування у шахті."
+loadout.versusmod.versusmodifierpoorirondeposits.desc,"Жили заліза займають велику площу, але містять менше ресурсу."
+upgrades.repellentbattlestrongerslowdown2.title,Сильний застій
+upgrades.converterirontocobalt.desc,Дає можливість перетворювати кобальт на залізо і навпаки.
+loadout.dome,КУПОЛ
+upgrades.orchardduration3.title,Тривалість 3
+level.gameover.stats.resourcesmined,Ресурсів видобуто
+options.input.gamepad.thumbstick,Джойстик
+upgrades.keeper1powerdrill.desc,"Надає значно покращений бур, що може легко прокопуватися крізь найжорсткішу породу, знищуючи навіть раніше недоторкану корінну породу."
+upgrades.domesecondweapon.title,Озброїти другу станцію
+actionhint.fire,Постріл
+versus.corruptionfastprojectiles.title,Швидкі снаряди
+level.gameover.unlock.dome,Новий купол
+loadout.versus.modifiers.limit,Вибрано модифікаторів: %d з %d.
+upgrades.swordstabfast2.title,Швидкий укол 2
+properties.blastmining.growthtime,Час виробництва (циклів) {}
+options.keybindings.rebinding.inputprocessor.ps5,Натисніть нову кнопку для цієї дії…
+level.gameover.stats.difficulty,Складність
+assignment.inversegravity.title,Догори дриґом
+assignment.acidrain.desc,Кислотний дощ на планеті запобігає зародженню життя й навіть проникає через броню купола.
+upgrades.keeper4doublesquad.desc,"Отримай інший загін, завжди готовий до роботи."
+upgrades.keeper4powerfulfirstpunch.desc,Перший удар по сегменту наноситься з надзвичайною силою.
+multiplayer.host.start,Створити сесію
+upgrades.mushroomfarmspeed2.title,Грибна швидкість 2
+demo.end.more1,Більше куполів!
+demo.end.more2,Вартівник Вчений!
+upgrades.swordreflection1.desc,Збільшує площу захисної панелі та дає їй можливість відбивати енергетичні снаряди.
+demo.end.more3,Більше ґаджетів!
+upgrades.chainsawspeed1.title,Швидкість руху пили
+assignment.treefarm.desc,"Ресурсів на планеті мало, проте можна знайти багато насіння ресурсних дерев."
+demo.end.more4,Потужні доповнення!
+options.input.gamepad.gamepadstickdeadzone.text.ps5,"Встановіть значення, за якого індикатор не блиматиме, коли ви лише торкаєтеся джойстиків, не натискаючи на них.
+Якщо ви натискаєте на джойстик, індикатор має блимати під час рухання джойстиком."
+actionhint.probe,Зонд
+level.gameover.keepgadget.keeping,Гаджет для зберігання: {gadget}
+upgrades.keeper3aerialmastery.desc,Покращує контроль під час падіння й дає змогу підлітати вище з кожним стрибком у повітрі.
+upgrades.drillbot.desc,"Милий звір, що любить копати. Його потрібно занести в шахту і залишити на місці роботи. Іноді він засинає, тому його треба час від часу будити."
+upgrades.laserstrength4.title,Сила 4
+upgrades.artillerydoublemachinegun.title,Подвійний ствол
+upgrades.laserbend.desc,"Встановлює в лазер регулятор, який автоматично коригує наведення, якщо воно достатньо близько до цілі."
+upgrades.teslaquickshot2.title,Заряджений швидкий постріл
+properties.droneyard.battledronespawntime,Час виготовлення дронів {}с
+upgrades.prospectionmetersand2.desc,Показує напрям до найближчих покладів кобальту.
+upgrades.domesupplementprojectiledamagereduction2.title,Покращене відбиття
+loadout.secondstage.start,Почати забіг
+level.tutorial.extractor.popup_1,Візьміть залізних хробаків зі станції та киньте їх біля залізного кластера. Вони прикріпляться до руди та ефективно видобудуть її із часом.
+upgrades.spirestuntrap2.desc,"Підвищує ефективність енергетичної пастки, щоб вловлювати більше снарядів."
+loadout.versus.condition.deathmatch.desc,"Перемагає команда, яка протримається найдовше."
+loadout.versusmod.versusmodifiertoughstart.desc,"Хвилі монстрів від самого початку сильніші, ніж звичайно."
+level.tutorial.drillingrig.popup2,"Перебуваючи поруч із бічним бурильником, утримуйте |, щоб переміщати його вздовж бурового стовбура."
+level.tutorial.drillbot.sleeping2.switch,"Натисніть | поруч зі Свердликом, щоб розбудити його."
+upgrades.teleporterteleportitems.title,Телепортація предметів
+level.tutorial.drillingrig.popup1,"Ваша бурова установка оснащена бічним бурильником, який видобуває руду в горизонтальному напрямку."
+level.tutorial.ninja.drop.desc1,"На поверхні цільтеся вниз, використовуючи %s, і натисніть |, щоб скинути всі предмети, що переносяться."
+upgrades.stationextension.title,Підземна станція
+upgrades.keeper2pinballreflect2.desc,Сфери підсилюються сильніше при відбитті.
+properties.sword.stabrange,Дальність {} 
+pause.disconnect.popup.ps5,Не можна скинути основний безпроводовий контролер.
+options.game.systemcursor,Використовувати стандартний курсор
+upgrades.artillerygrenadefastreload.desc,Значно зменшує час перезаряджання міномета.
+upgrades.stationextensionrevealdistance1.title,Сканування каменю поблизу
+loadout.mode.secondweapon,Доступна зброя 2-ї станції
+options.video.reducedparticles,Знижені ефекти частинок
+properties.monsters.finalwavefixedstrength,Потужність останньої хвилі {}
+versus.corruptionfastmonsters.desc,Швидкість монстрів збільшиться назавжди.
+upgrades.spirestuntrap1.desc,"Збитий снаряд створює енергетичну пастку, яка вловлює більше снарядів. Скільки вона зможе впіймати, залежить від потужності збитого снаряда."
+versus.corruptionfastprojectiles.desc,Снаряди монстрів летітимуть набагато швидше.
+options.input.gamepad.twinstick.switch,Керування двома мініджойстиками (недоступно під час використання одного Joy-Con)
+upgrades.autocannonrateoffire2.title,Кулемет 2
+upgrades.chainsaw.title,Циркулярна пила
+options.input.vibration.strength,Сила вібрації
+savegame.corrupted.title,Файл збереження пошкоджено
+properties.drillbot.drillstrength,Сила свердла {}
+properties.prestige.multiplier,{} множник престижу за хвилю
+upgrades.artillerysplash4.desc,Тотальне винищення всього поля бою завдяки швидким чергам із 4-х вибухонебезпечних снарядів.
+upgrades.condenserdoublestorage.desc,Конденсатор зможе виробляти і зберігати до двох порцій води.
+upgrades.shieldbattleactivateondepletion.desc,"Після того, як бар’єр вичерпається, автоматично ввімкнеться невразливість на додатковий термін."
+upgrades.chainsawspeed1.desc,Дозволяє пилі рухатися швидше поміж обох сторін.
+upgrades.teleporterteleportduration2.title,Тривалість телепортації 2
+properties.orchard.overchargeabilitystrength,Додаткова сила здібності {.percent}
+modding.modio.loginfailed,Не вдалося ввійти на mod.io за допомогою облікового запису Xbox!
+upgrades.rocketlauncherrockets3.title,Загачування 3
+leaderboard.needsOnlineServices,"Щоб отримати доступ до таблиць лідерів, потрібно ввімкнути онлайн-сервіси."
+options.game.blocklist,Список заблокованих
+upgrades.keeper4squad2.desc,Збільшує кількість готоґоблінів у загоні та їхню витривалість.
+reward.rewardweaponsupplements.desc,Виявляє надзвичайно потужні доповнення для вашої зброї.
+upgrades.domesupplementadditionalcellar.desc,"Додає поверх до вашого льоху, надаючи дві додаткові комірки для ґаджетів."
+level.tutorial.assessor.bundle.desc1.switch,"Натисніть|під час перенесення ресурсів, щоб запустити їх як пакунок."
+loadout.difficult.harder,важче
+playerlist.close,Закрити
+upgrades.keeper3rocketcarrier.title,Ракетний носій
+level.tutorial.assessor.spheres.desc1.aiming,"Натисніть |, щоб запустити кінетичну сферу у вказаному напрямку, використовуючи %s."
+level.gameover.unlock.gamemode,Новий режим гри
+upgrades.rocketlauncherrockets1.title,Загачування 1
+upgrades.autocannonspeed1.title,Прискорення
+upgrades.spiresustain.desc,"Скорочує час перезаряджання майже до нуля, забезпечуючи дуже стабільний темп стрільби."
+upgrades.extractorresources1.title,Старанні хробаки
+multiplayer.host.splitscreen.desc.switch,"Використовуйте геймпади на екрані спорядження, щоб додати додаткових вартівників. На одному екрані можуть грати до чотирьох вартівників. Режим розділеного екрана можливий під час гри в онлайн-мультиплеєрі."
+level.assignment.badges,Емблеми
+upgrades.prestigefinish.title,Залишити планету
+properties.sword.slicebounceback,Меч відскакує від країв
+properties.droneyard.transportdronecount,Транспортні дрони {}
+upgrades.drilladditionalsides.title,Додатковий бічний бурильник
+upgrades.shieldbattleblastdamage.desc,Збільшує ушкодження та кількість використань електричного розряду.
+upgrades.extractordestruction.title,Вибух і лігві
+properties.sword.electricdamage,Ушкодження електризованим мечем {}
+properties.orchard.growthtime,Час зростання (циклів) {}
+upgrades.keeper3carrylimit1.desc,"Збільшує кількість ресурсів, які можна тягнути на носії кунаїв."
+options.accessibility.fontsize,Розмір шрифту
+upgrades.keeper4punch2.title,Шал 2
+upgrades.laser.desc,"Точний лазер, який пересувається по куполу. За походженням, був розроблений для розбивання астероїдів."
+loadout.hint.multiplayer.playermaximum,Для початку багатокористувацької гри (забігу) потрібно не більше ніж 8 гравців.
+upgrades.drillsides.title,Бічний бурильник
+upgrades.mushroomfarmautopickup.title,Швидкий укус
+options.input.controls.mouseusage,Налаштування миші
+properties.tesla.reticlemaxspeed,Швидкість прицілу {}
+upgrades.swordstabshoot.desc,"Замість того, щоб втягуватися тросом, лезо заряджається і вистрілюється з купола, як спис."
+properties.condenser.autocollect,Автоматичний збір
+level.gameover.back,Назад
+loadout.mapsize.small,Маленька
+loadout.hint.gamemode,Оберіть режим гри!
+upgrades.swordlargeblade3.title,Важке лезо 3
+level.tutorial.ninja.controls,Цим вартівником можна грати лише з використанням контролера або миші й клавіатури.
+telemetry.explanation.ps5,"Прийміть нашу угоду EULA, щоб перейти до багатокористувацької онлайн-гри.
+Якщо ви цього не зробите, то все одно зможете грати в локальну багатокористувацьку гру в режимі розділеного екрана.
+
+Це налаштування можна будь-коли змінити в параметрах."
+multiplayer.techtree.keeperexclusiveupgrades,Ці покращення впливають лише на твого вартівника.
+assignment.heavyhitters.desc,"Ця планета кишить монстрами, які атакують зблизька."
+options.input.controls.mouse.domes,Використовувати мишу для куполів
+loadout.mode.toughstart, Складний старт
+upgrades.swordaimline.desc,Додає лазерний приціл для націлювання колючих атак лезом.
+upgrades.assignmentssendiron.title,Відправити залізо
+upgrades.domearmormelee1.title,Броня для ближнього бою 1
+assignment.showdown.title,Поєдинок
+upgrades.keeper3shuriken1.desc,"Отримай метальний сюрикен, що вибухає в невеликому радіусі й автоматично відновлюється."
+upgrades.teslatiming1.title,Ідеальна активація
+upgrades.stationextensionrevealdistance2.title,Сканування каменю
+loadout.prestige.pro.gadgetorder,Порядок ґаджетів
+upgrades.prospectionmeterwater1.title,Пошук води
+properties.teleporter.teleportresources,Телепортація ресурсів
+options.video.stretchmode.scaled.text,"Відтворює гру у фіксованій роздільній здатності й масштабує її до роздільної здатності екрана.
+Можлива пікселізація, особливо у шрифтах, але без візуальних помилок, подібних до ліній неправильного кольору."
+loadout.abort,Скасувати
+level.station.battle.navbar.stab,Колоти
+properties.keeper3.bouncesonarrange,Дальність сонара (секції) {}
+assignment.cobaltcontribution.title,Кобальтовий внесок
+upgrades.keeper2pinballsplit.desc,"Розділяє активні сфери на дві, відправляючи їх перпендикулярно до початкового напрямку."
+options.input.gamepad.switch,Контролер
+upgrades.stunlaserduration1.desc,Шоковий лазер охолоджується швидше і може працювати довше.
+properties.spire.stuntrapduration,Тривалість {}с
+loadout.mapsize.medium,Середня
+upgrades.keeper4swiftpunch.title,Швидкі удари
+upgrades.domewavecount.title,Лічильник циклів
+level.gadgetchoice.slot,Комірка: {gadget_slot}
+level.tutorial.mushroomfarm.popup_1,Візьміть спори міцелію із грибового кофра та киньте їх на камінь. Час від часу вони виростатимуть у підсилювальні гриби.
+options.game.languages,Мови
+upgrades.autocannonshotgun2.title,Дробовик 2
+upgrades.drillbotturnaround.title,Серйозне тренування
+level.tutorial.overcharge.popup_2,"Наблизьтеся до нього та натисніть | , щоб підживити."
+level.tutorial.overcharge.popup_3,Це поглине одиницю | і може бути зроблено тільки за її наявності.
+level.tutorial.overcharge.popup_1,"Тепер ви можете підживлювати свій основний ґаджет, посилюючи його для наступної битви."
+modding.modio.modio,Mod.io
+upgrades.liftorbless.desc,"Замість використання ліфтових сфер, усі ресурси усередині ліфта будуть безперервно рухатися вгору завдяки зворотному гравітаційному полю. Частково відшкодовує ресурси, витрачені на сфери."
+level.station.navbar.battle,Битва
+options.keybindings.rebinding.error.mouse,Неможливо призначити це як введення з миші.
+options.input.gamepad.autoswitch,Автоматичне визначення бажаного контролера
+properties.lift.keeperupwardsspeed,Швидкість ліфта вартівника {}
+loadout.keeper,ВАРТІВНИК
+level.gameover.unlock.keeper,Новий вартівник
+options.keybindings.rebinding.inputprocessor,Натисніть нову клавішу для цієї дії...
+options.input.gamepad.xbox,Контролер
+upgrades.keeper4extraresource.title,Старанні котоґобліни
+upgrades.shieldoverchargestrength2.title,Потужність підживленого бар’єра 2
+loadout.mode.domesupplements,Потрійні доповнення
+upgrades.converter.desc,"Може перетворювати одні ресурси на інші, щоб урівноважити ваші запаси."
+assignment.minorvision.title,Темрява
+upgrades.shieldstrength1.desc,"Збільшує кількість ушкоджень, яку здатний поглинути бар’єр."
+properties.stationextension.tilerevealdistance,Діапазон виявлення {} блоків
+loadout.mode.toughstart.desc,Почніть гру з потужніших хвиль монстрів.
+upgrades.liftcarrykeeper1.desc,Ліфт прискорюватиме вас при русі всередині нього.
+options.input.controls.mouse.aim,Використовувати мишу для наведення
+upgrades.spireprojectileslowdown.desc,Шпиль буде безперервно сповільнювати усі ворожі снаряди.
+assignment.chosen.title,Ваше завдання від гільдії
+upgrades.furnacestrongwaterfiring.desc,Підвищує ефективність спалювання води в затримці монстрів.
+properties.dome.healthfractionrepair,Відремонтувати {.percent} загальної міцності
+level.tutorial.assessor.carry,Гравітаційний збір
+upgrades.laserhitprojectiles.title,Знищення снарядів
+upgrades.teslaorbstun.title,Ефект глибини
+reward.rewardgadgetsupplements.title,Доповнення ґаджетів
+options.input.controls.keepersettings.individual,Індивідуальні налаштування вартівника
+upgrades.teslapower2.desc,Збільшує потужність пострілу тесли.
+properties.acidrain.fixeddamageperminute,Шкода за хвилину {}
+demo.end.more,І багато іншого:
+landing.proceed,"Натисніть будь-яку кнопку, щоб продовжити"
+modding.modio.ugcterms.content2,"Продовжуючи, ви погоджуєтеся на використання ідентифікатора Xbox Live для автоматичного входу в mod.io. Щоб продовжити, вам необхідно ознайомитися з політиками mod.io та прийняти їхні умови:"
+upgrades.keeper4catgoblinamount.title,Збільшений виводок
+modding.modio.ugcterms.content3,[i]Ці умови відкриються в стандартному браузері вашої системи.[/i]
+upgrades.repellentbattlestrongerslowdown1.title,Застій
+properties.spire.splitshot,Розщеплення снарядів
+upgrades.suitblasterradius2.title,Радіус вибуху 2
+properties.keeper4.punchstrength,Сила удару {}
+modding.modio.ugcterms.content1,"У цій грі для доступу до користувацького контенту (UGC), його завантаження та керування ним використовується сервіс [b]mod.io[/b]."
+upgrades.versus.title,Протистояння
+upgrades.swordstabexplode.title,Вибуховий укол
+modding.modlist.title,Активні моди
+options.game.kunaisnapping,Прив’язка напрямку куная до сторін світу
+loadout.versusmod.versusmodifiersecondweapon,Доступна зброя 2-ї станції
+upgrades.teleporterteleportduration1.desc,Телепортація себе займає менше часу.
+options.input.controls.keybindings.button.switch,Змінити прив'язки клавіш
+upgrades.domearmor.title,Броня купола
+options.input.gamepad.gamepadstickdeadzone.text,"Встановіть значення, за якого індикатор не блиматиме, коли ви торкаєтеся джойстиків, не натискаючи їх.
+Якщо ви натискаєте на джойстик, індикатор має блимати під час рухання джойстиком."
+options.translation.community.desc,"Ці мови перекладені нашою чудовою спільнотою. Приєднуйся, якщо маєш бажання!"
+level.tutorial.beastmaster.mine,Видобуток
+upgrades.keeper4speed1.desc,Збільшує швидкість руху.
+properties.shield.overchargebattleabilityduration,Додаткова тривалість здібності {.percent}
+upgrades.shockwavedamage1.desc,"Збільшує шкоду, завдану ударними хвилями."
+network.error.offline.xbox,"З'єднання з мережею Xbox було втрачено. Будь ласка, перевірте підключення до мережі."
+properties.condenser.waterstorage,Зберігає {} води
+loadout.versusmod.versusmodifierstrongmonsters.desc,Монстрів буде важче вбивати.
+title.navbar.modding,Модифікації
+upgrades.dome3.desc,"Військовий купол, розроблений спричиняти розгром за допомогою надзвичайно потужного міномета. Обладнаний протиповітряною зброєю для всеосяжних захисних здібностей."
+upgrades.keeper4powerfulfirstpunch.title,Перший удар
+properties.sword.brake,Спритність меча {}
+level.tutorial.suitblaster.popup_1,"Натисніть | , щоб вистрілити костюмним бластером, знищюючи камінь у радіусі навколо."
+properties.stunlaser.firetime,Тривалість пострілу {}с
+level.tutorial.suitblaster.popup_2,Він автоматично перезаряджається з часом.
+properties.droneyard.battleabilityuses,Застосувань на бій {}
+upgrades.keeper4ramping1.desc,"Швидкість видобутку зростає під час безперервного копання. Імпульс зменшується, якщо зупинитися."
+level.gameover.unlockpicker.title,"ОБЕРІТЬ, ЩО РОЗБЛОКУВАТИ"
+options.input.gamepad.autoswitch.ps5,Автоматичне визначення бажаного контролера
+upgrades.suitblaster.desc,"Встановлює гірничодобувний бластер у ваш костюм, спроможний до вибухового руйнування каменя навколо."
+upgrades.spiresplit1.desc,"Збиті снаряди розщеплюються на кілька маленьких, які завдають шкоди ворогам. Кількість снарядів після розщеплення залежить від потужності розщепленого снаряда."
+properties.versus.additivewave,Збільшення сили хвилі (у суперників) {}
+properties.keeper3.aircontrol,Контроль у повітрі {.percent}
+multiplayer.error.keepertaken,Обраний вартівник уже зайнятий. Спробуйте взяти іншого.
+assignment.mode.challenge,Випробування
+upgrades.keeper3shurikenstrength1.desc,"Збільшує потужність вибуху сюрикена, що дає змогу знищувати сегменти в більшому радіусі."
+pause.invite,Запросити друга
+options.accessibility.fontsize.medium,Середня
+upgrades.keeper2pinballdestroyadjacenttiles.desc,"Щоразу, коли кінетична сфера руйнує блок каменю, перпендикулярні до нього блоки також руйнуються."
+upgrades.furnaceironfiring.title,Залізне паливо
+upgrades.furnaceslowdown.desc,"Додає токсичний компонент до чаду, паралізуючи нервову систему монстрів та зменшуючи швидкість їхнього руху."
+upgrades.swordlargeblade2.desc,"Встановлює велетенське лезо. Повільніше, але завдає тяжких ушкоджень."
+upgrades.blastminingblast1.desc,Збільшує потужність вибуху.
+upgrades.stationextensionrevealdistance1.desc,Камінь та ресурси навколо станції автоматично стають виявленими.
+leaderboard.season,Сезон {season}
+multiplayer.host.crossplay.enabled,Кросплей увімкнено
+multiplayer.techtree.keepersharedupgrades,Ці покращення впливають на всіх вартівників із цим ґаджетом.
+loadout.versusmod.versusmodifierlongcycles.desc,Інтервали між хвилями монстрів довші.
+upgrades.artillerydirecthit2.title,Винищувач 2
+upgrades.stationextensionresolution.desc,Впроваджує чіткіше зображення купола та території навколо.
+options.keybindings.action.general.use,Взаємодіяти
+loadout.relichunt.modifiers,Модифікатори забігу
+assignment.heavyhitters.title,Важковаговики
+upgrades.furnacelastingwaterfiring.title,Тривале водяне паливо
+properties.shield.battleblastdamage,{} шкоди розрядом на секунду
+multiplayer.error.timeout,З'єднання перервано — час очікування минув.
+multiplayer.join.discovering,Пошук сесій...
+properties.condenser.growthtime,Час виробництва (циклів) {}
+level.gameover.assignment.badges,"Ви отримали нову емблему, яку можна обміняти на винагороду від Гільдії Вартівників."
+upgrades.drill1.desc,"Підсилює свердло, збільшуючи швидкість копання."
+level.corruptionchoice.title,ВИБЕРІТЬ ПЕРЕШКОДУ!
+properties.artillery.grenadedamage,Шкода снарядів {}
+level.tutorial.fullscreen.continue,Продовжити
+options.game.spheresnapping,Прив’язка напрямку сфери до сторін світу
+options.input.gamepad.gamepadstickdeadzone.motiondetected,Виявлений рух:
+options.input.gamepad.icons.automatic,Автоматичні
+reward.rewardkeeper4skin3.title,Скін Приборкувача
+upgrades.prestige.title,Престиж
+upgrades.keeper3shurikenstrength1.title,Сильний сюрикен
+upgrades.spiresplit2.desc,Розчеплення снарядів швидше та ефективніше.
+upgrades.swordlargeblade1.desc,"Розширює і подовжує лезо, збільшуючи його силу."
+upgrades.droneyardbattlegridlong1.title,Довготривалі дрони
+properties.stunlaser.speed,Швидкість {}
+upgrades.repellentbattleslowdownstun2.desc,Дає можливість застосовувати спори частіше і знерухомвлювати чудовиськ на довше.
+upgrades.drillsidespeed1.desc,Прискорює бічні бурильники.
+level.tutorial.ninja.bombs.desc1,"Утримуйте |, щоб запустити кунай для копання у вказаному напрямку, використовуючи %s."
+loadout.mode.maze.desc,"Мапа схожа на лабіринт з безліччю поворотів, глухих кутів і вигинів."
+upgrades.domesupplementprojectiledamagereduction2.desc,Дедалі вдосконалює зміцнення корпусу задля додаткового зменшення шкоди від снарядів.
+level.tutorial.ninja.bombs.desc2,Кутай відскочить у разі потрапляння в стіну під гострим кутом.
+upgrades.domesupplementmeleedamagereduction1.desc,"Зміцнює корпус купола, зменшуючи вхідну шкоду від атак ближнього бою. Шкода від снарядів залишається незмінною."
+upgrades.chainsawautonomy.title,Автономність
+options.input.gamepad.gamepadstickdeadzone,Мертва зона стика
+upgrades.teslapower3.desc,Збільшує потужність пострілу тесли.
+level.station.battle.navbar.artilleryshoot,Мортира
+upgrades.keeper4punch3.title,Шал 3
+upgrades.furnaceslowdown.title,Паралізуючий чад
+upgrades.teslaspeed1.desc,Збільшує швидкість руху прицілу.
+upgrades.teslaquickshot2.desc,Швидкий постріл став набагато потужнішим.
+level.tutorial.repair.findcobalt,"Спробуйте знайти кобальт. Ним можна лагодити купол.
+Це рідкісний ресурс, що існує в обмеженій кількості."
+title.navbar.newgame,Нова гра
+options.keybindings.action.dome.battle,Битва
+upgrades.keeper2pinballsplit.title,Розділення сфер
+properties.keeper2.bundlecentralmarker,Маркер центральної осі
+options.keybindings.gamepad,Контролер
+options.video.stretchmode.rezised.text,"Відтворює гру в стандартній роздільності екрана або вікна.
+Зображення буде чітке, але можуть з’явитися візуальні помилки у формі ліній шириною в один піксель."
+options.audio,Звук
+upgrades.domehealthmeter.desc,Показує структурну цілісність купола.
+upgrades.shieldbattlereflectshortuses.title,Строк відбиття
+loadout.zoom1,Близько
+loadout.zoom2,Далеко
+upgrades.orchardovercharge.title,Підживлення саду
+upgrades.keeperonewayteleporter.desc,Отримайте особистий однобічний телепорт. Розташуйте одноразовий портал де завгодно та телепортуйтеся до нього у будь-який момент.
+options.input.controls.gamepadusage.switch,Використання контролера
+properties.orchard.battleroots,Зрощує {} корінь на землі
+upgrades.mushroomfarm.desc,"Вирощує гриби в вашому льоху, які можна розсаджувати у шахті для отримання бонусів до швидкості руху та шахтарських здібностей."
+keybindings.reset.title,Скидання клавіш
+multiplayer.continue.deviceselection.cancel,Скасувати вибір
+loadout.hint.selection,"Натисніть|, щоб обрати опцію."
+upgrades.orchardbattleshieldsecondlayer.title,Подвійний шар пологу
+properties.artillery.grenades,Снарядів {}
+upgrades.drill3.title,Сила свердла 3
+assignment.weakcarry.title,Логістичні проблеми
+upgrades.shockwavestun1.title,Ударне приголомшення 1
+upgrades.domesupplementprojectiledamagereduction1.title,Відхиляння корпуса купола
+properties.keeper3.maxjumps,Стрибки {}
+upgrades.converterefficientcobalt.desc,"Покращує обмін, роблячи його більш ефективним."
+properties.furnace.waterdelay,Затримка від води {}с
+gadget.slot.keepersupplement,Доповнення для вартівника
+upgrades.keeper4ramping2.title,Імпульс 2
+upgrades.orchardduration1.title,Тривалість 1
+upgrades.keeper2pinballreflect2.title,Покращене відбиття
+loadout.pet,Тваринка
+reward.rewarddomesupplements.desc,Виявляє надзвичайно потужні доповнення для вашого купола.
+properties.prestige.score,{} престижу
+properties.keeper3.kunaicooldown,Перезаряджання куная {} с
+properties.stunlaser.stunarea,Область приголомшення {}
+upgrades.blastminingblast2.desc,Потужність вибуху ще більша.
+reward.rewardrerolloffers2.title,Заміна водою
+upgrades.artillerysplash1.title,Вибухонебезпечність 1
+upgrades.drillwidetunnel.title,Широкий тунель
+modding.modio.ugcterms.title,Умови використання користувацького контенту
+options.input.controls.keepersettings.title,Налаштування керування вартівником
+options.keybindings.action.keeper.gravitycollect,Зібрати
+upgrades.domearmorhealth1.desc,"Збільшує витривалість броні, роблячи купол стійкішим."
+reward.rewardgadgetsupplements.desc,Виявляє надзвичайно потужні доповнення для ваших ґаджетів.
+properties.laser.movespeedmod,Множитель швидкості руху {.percent}
+upgrades.domeresourcecounters.title,Менеджмент ресурсів
+level.tutorial.tesla.panel2header,Стрільба
+upgrades.jetpackstrength2.desc,"Збільшує вантажність реактивного ранця, щоб переносити більше ресурсів."
+upgrades.teslapower4.title,Потужність пострілу 4
+properties.orchard.battleabilityuses,Застосувань на бій {}
+loadout.gadget.additional.unlock,"Деякі ґаджети ще не було розблоковано. Для розблокування ґаджету, успішно завершіть забіг знайшовши новий ґаджет у шахті та встановивши його в купол."
+properties.laser.hitprojectiles,лазер влучає по енергетичних снарядах
+properties.keeper2.minspeed,Мінімальна швидкість {.percent}
+properties.laser.dpsmod,Множитель шкоди {.percent}
+properties.prospectionmeter.scandelay,Затримка сканування {}с
+level.tutorial.artillery.panel1content2,"Чим довше ви утримуєте, тим далі полетить снаряд."
+level.tutorial.artillery.panel1content1,"Утримуйте|щоб зарядити міномет, потім - відпустіть для пострілу."
+level.gameover.saveimages,Зберегти
+assignment.mode.regular,Звичайний
+upgrades.teslaautoaim.title,Автоприцілювання
+upgrades.orchardduration1.desc,Ефект від фруктів триває довше.
+options.title,НАЛАШТУВАННЯ
+upgrades.probedetectchambers.desc,Зонд також може виявляти ґаджети або камери перемикачів реліквії.
+upgrades.dome1.desc,Стандартний шахтарський купол з точним лазером.
+upgrades.repellentbattlestrongerslowdown1.desc,Туман сильніше сповільнює чудовиськ і залишається довше.
+upgrades.resourcepacker.desc,"Встановлює пакувальник ресурсів у ваш костюм, спроможний пакувати та стискати декілька ресурсів в єдиний пакунок, полегшуючи їх транспортування."
+properties.keeper4.goblinextraresourcechance,Шанс на додатковий ресурс {.percent}
+properties.orchard.speedbuff,Приріст швидкості {}
+keybindings.reset.explanation.xbox,Ваші налаштування клавіш було скинуто у зв'язку зі значними змінами у схемі керування в останньому оновленні. Вибачте за незручності!
+upgrades.keeper2rotationalmining2.title,Тискове гірництво 2
+upgrades.keeper3rocketcarrier.desc,"Заміни носії кунаїв на версії з ракетним двигуном, які летять по прямій лінії до самого зіткнення."
+properties.blastmining.damage,Ушкодження {}
+options.video.renderscale,Масштабування
+modding.profile.title,Вибір профілю
+options.keybindings.action.general.left,Ліворуч
+properties.versus.multiplicativeewave,Збільшення сили хвилі (у суперників) {.percent}
+level.tutorial.drillbot.sleeping1,"Свердлик засне або через деякий час, або одразу після того, як наштовхнеться на непробивну стіну."
+level.tutorial.drillbot.sleeping2,"Біля нього натисніть |, щоб розбудити."
+upgrades.laserstrength3.desc,"Кардинально збільшує потужність лазера, але він ледве повзтиме під час стрільби."
+upgrades.orchardovercharge2.title,Покращене підживлення
+level.tutorial.drillbot.sleeping3,"Можна повернути його, натиснувши |, коли він активний."
+modding.prestigeforbidden,Неможливо почати забіг престижу з цими модифікаціями.
+upgrades.laser.title,Лазер
+upgrades.domesupplementelectrifiedsurface1.title,Електризований корпус 1
+pause.quitgame,Вийти з гри
+upgrades.swordlargeblade3.desc,"Лезо страхітливого розміру. Дуже потужне, але повільне."
+upgrades.relichunt.desc,Знайдіть глибоко поховану реліквію й поверніть її до купола.
+properties.stunlaser.cooldown,Охолодження {}с
+upgrades.repellentdelay1.desc,Збільшує час затримки до наступної хвилі чудовиськ.
+savegame.corrupted.desc,"Ваш останній файл збереження пошкоджено, імовірно, через збій системи під час запису. Буде використано попереднє збереження."
+multiplayer.host.online,Онлайн-гра
+keybindings.reset.doreset.switch,Скинути прив'язку моїх клавіш
+loadout.secondstage.cancel,Скасувати
+upgrades.keeper4catgoblindig2.title,Ефективне копання
+upgrades.furnacewaterfiring.desc,Спалюйте воду в вагранці для подовження затримки атак монстрів.
+upgrades.shockwavedamage2.title,Ударна сила 2
+upgrades.proberange1.desc,Збільшує діапазон зонда.
+pause.options,Налаштування
+keeperdlc.load.missing.switch,"Неможливо завантажити збереження — файл містить недоступний контент для завантаження. Переконайтеся, що контент для завантаження 'The Lost Keepers' доступний."
+options.keybindings.action.keeper.drop,Викинути
+upgrades.assignmentsemergencycontribution3.title,Терміновий внесок 7
+options.game.shootbundlebeforegadgets,"Стріляти спочатку пакунком ресурсів, а потім — ґаджетами"
+options.video,Відео
+upgrades.blastmining.title,Вибухівка
+modding.modio.subscriptions,Показати підписки Mod.io
+level.gameover.proceedtounlock,Відкрити новий елемент
+upgrades.prospectionmeter.desc,"Дисплей, що показує відстань до найближчих ресурсів."
+properties.keeper2.spherereload,Перезаряджання Сфер {}с
+options.keybindings.apply,Застосувати
+upgrades.teslaquickshot.desc,"Після випускання зарядженого пострілу, ви можете вистрілити один слабший постріл натискаючи кнопку пострілу."
+level.tutorial.tesla.panel1header,Рух прицілу
+upgrades.tesla.title,Тесла
+properties.tesla.persistance,Час життя електросфери {}с
+upgrades.repellentbattleslowdownstun1.title,Параліч
+upgrades.probelongmarker1.title,Маркувальна пам'ять
+modding.modio.tokenerror,Не вдалося під’єднатися до постачальника токена!
+upgrades.stationextensionupgrades.title,Дистанційні покращення
+upgrades.prestigewater.desc,"Відправити воду. Збільшує кількість очок престижу, які ви отримуєте щохвилі."
+upgrades.artillerydirecthit2.desc,Збільшує руйнівний потенціал снарядів міномета.
+upgrades.mushroomfarmquickgrowth.desc,Гриби ростуть швидше у підвалі.
+network.error.notsignedin.ps5,Увійдіть у мережу PlayStation™ для доступу до мережевих функцій
+keybindings.reset.title.ps5,Скидання клавіш
+multiplayer.error.clientcrossplaydisabled,"Щоб приєднатися до цього лобі, потрібно ввімкнути кросплей."
+upgrades.keeper3carrylimit2.desc,"Збільшує кількість ресурсів, які можна тягнути на носії кунаїв."
+level.supplementchoice.reroll,Хочу інше
+upgrades.orchardbattlerootingexplosion.desc,"Повторно задіявши коріння, можна підірвати всіх захоплених чудовиськ, завдаючи шкоди навколо них."
+upgrades.rocketlauncherrestock.desc,Ракетний склад буде повністю відновлювати запаси ракет через деякий час після спорожнення.
+upgrades.droneyardbattlegridquick2.title,Миттєві дрони
+assignment.denseiron.title,Щільне залізо
+options.input.controls.gamepadusage.xbox,Використання контролера
+level.tutorial.ninja.bombs,Кунай
+upgrades.domearmorhealth2.desc,"Збільшує витривалість броні, роблячи купол стійкішим."
+loadout.title,Спорядження
+multiplayer.continue.deviceselection.team,Команда
+properties.keeper3.kunaiweaknessagainsthardrock,Слабкість куная прости твердої породи {.percent}
+level.tutorial.repellent.popup_2.switch,"Натисніть | поруч із відлякувачем, щоб увімкнути його."
+upgrades.chainsawdamage3.desc,"Збільшує шкоду, яку пила завдає монстрам."
+level.tutorial.artillery.panel3content1,"Снаряди міномета мають радіус дії, проте точні влучання спричиняють більше пошкоджень. Вони не можуть нашкодити куполу."
+level.gameover.unlock.regulargadget,Розблоковано новий ґаджет для завдань!
+options.keybindings.gamepad.ps5,Контролер
+options.input.gamepad.thumbstick.switch,Стік
+upgrades.artilleryshotstun.title,Громовий вибух
+upgrades.assignments.title,Завдання від Гільдії
+upgrades.rocketlauncherrockets1.desc,"Збільшує кількість ракет, яку ви можете вистрелити."
+level.tutorial.assessor.bundleguide.desc1,Тепер ви можете скеровувати стаціонарні пакунки.
+level.tutorial.assessor.mining,Тискове гірництво
+level.tutorial.assessor.bundleguide.desc3,"Він буде слідувати за вами, якщо ви поблизу."
+level.gameover.win.team,КОМАНДА %s ПЕРЕМОГЛА
+level.tutorial.assessor.bundleguide.desc2,"Натисніть | стоячи на місці, щоб встановити стаціонарний пакунок."
+options.video.graphicsmode.window,У вікні
+upgrades.artillerymachinegun1.desc,"Покращує вашу протиповітряну гармату, збільшуючи її швидкострільність. В комплекті також йде лазерний приціл для кращого прицілювання."
+upgrades.droneyardovercharge1.desc,"Тимчасово підживіть фабрику дронів водою, щоб виробити більше дронів для наступної битви."
+modding.title,МОДИФІКАЦІЇ
+assignment.treefarm.title,Ферма дерев
+level.gameover.prestige.score.personalbest,Ваш новий особистий рекорд!
+level.gameover.unlock.world,Відкрито нову планету!
+assignment.chosen.todo,Завдання не обрано
+options.keybindings.action.dome.battleability1,Бойова здібність 1
+loadout.versusmod.versusmodifierwindingmap.desc,Карта трохи нагадує лабіринт.
+reward.rewardweaponsupplements.title,Доповнення зброї
+upgrades.shieldstrength2.title,Потужність 2
+upgrades.keeper2movement1.desc,"Вдосконалює ваш гравітаційний генератор, щоб пересуватися швидше."
+options.keybindings.action.dome.battleability2,Бойова здібність 2
+upgrades.domesecondweapon.desc,"Установіть нову зброю, керувати якою можна з другої станції на другому ярусі підвалу."
+upgrades.resourcepackerquickcharge.desc,Пришвидшує перезаряджання пакувальних зарядів.
+upgrades.laserstrength2.desc,"Значно збільшує потужність лазера, але ще сильніше зменшує його швидкість пересування під час стрільби."
+upgrades.autocannonimproved.title,Вдосконалена автогармата
+upgrades.keeper3kunaicooldown1.desc,Кунаї можуть летіти значно швидше.
+upgrades.keeper2pinballsplit2.desc,Збільшує час життя розділених сфер.
+upgrades.swordreflection1.title,Відбиття 1
+level.tutorial.ninja.drop.desc1.switch,"На поверхні цільтеся вниз, використовуючи %s, і натисніть |, щоб скинути всі предмети, що переносяться."
+upgrades.suitblasterradius2.desc,Збільшує радіус вибуху.
+options.game.dropresourcesbeforegadgets,"Скидати спочатку ресурси, а потім — ґаджети"
+options.translation.community.crowdin,Проєкт перекладу Dome Keeper на Crowdin
+loadout.hint.playerlimitprestige,"Почати забіг
+
+Результати не надсилаються до таблиці лідерів під час гри в режимі престижу з 3 та більше гравцями."
+upgrades.assignmentsemergencycontribution1.title,Терміновий внесок 2
+upgrades.shockwavedamage2.desc,"Збільшує шкоду, завдану ударними хвилями."
+options.input.gamepad.autoswitch.switch,Автоматичне визначення бажаного контролера
+loadout.versusmod.versusmodifierlittlecobalt.desc,На карті вкрай мало кобальтових жил.
+upgrades.keeper1.title,Інженер
+level.furnace.popup.title,Заправляйте вагранку
+upgrades.prospectionmeterrange2.title,Радіус 2
+pause.discord,Приєднуйтесь до нас в Discord
+upgrades.lasermove1.title,Швидкість руху 1
+options.input.controls.mouse.gamepad.switch,Перемикання і назад відбувається автоматично
+upgrades.jetpackspeed3.title,Швидкість 3
+upgrades.chainsawautonomy.desc,Циркулярна пила захищатиме ваш купол навіть за вашої відсутності у станції керування.
+properties.extractor.buildcycles,Виробництво хробаків (циклів) {}
+upgrades.stunlaserstun2.desc,"Збільшує силу приголомшення променя, ефективно вражаючи навіть найсильніших монстрів."
+upgrades.teleporter.desc,"Двосторонній телепорт, що з'єднує станцію в підвалі з портативним порталом."
+upgrades.droneyarddrones.title,Транспортний Дрон
+level.tutorial.assessor.spheres.desc1.aiming.switch,"Натисніть |, щоб вистрілити кінетичною сферою в напрямку прицілювання, використовуючи елемент керування (%s)."
+upgrades.liftspeed1.desc,Сфери будуть рухатися швидше.
+properties.prestige.provokedwavestrength,Провокація монстрів {.percent}
+upgrades.artillery.desc,"Поєднання міномета, що стріляє масивними вибуховими снарядами, зі швидкострільним протиповітряним кулеметом."
+upgrades.shredgadgettocobalt.title,Подрібнення на кобальт
+level.gameover.stats.distancetravelled,Пройдено відстані
+loadout.mode,Режим гри
+loadout.difficult.easier,легше
+upgrades.domearmorhealth1.title,Витривалість броні 1
+options.game.playernamesinmultiplayer,Показувати імена гравців у багатокористувацькій грі
+properties.sword.slicedamage,Ушкодження рубанням {} 
+options.keybindings.action.general,Загальні
+upgrades.keeper4punch2.desc,Підвищує силу й максимальну швидкість видобутку.
+upgrades.keeper4catgoblinsleeptime.title,Кофеїнові пігулки
+upgrades.condenserdoublestorage.title,Подвоєння резервуару
+upgrades.drillbotbuffguidance.desc,"Показує напрямок до Свердлика, коли ви несете смаколики."
+loadout.versusmod.versusmodifierscatterediron.desc,"Жила заліза невеликі й розсіяні, але зустрічаються часто."
+upgrades.proberange3.title,Величезний діапазон
+upgrades.sword.desc,"Міцний меч, ушкодження від якого пропорційні відстані розмаху через купол. Ним можна вистрілювати, щоб колоти чудовиськ, а також на ньому є захисна панель, що блокує снаряди."
+properties.rocketlauncher.rockets,Ракет {}
+keybindings.reset.explanation,Ваші налаштування клавіш було скинуто у зв'язку зі значними змінами у схемі введення в останньому оновленні. Вибачте за незручності!
+upgrades.shield.desc,"Встановлює захисний бар’єр, який поглинає частину ушкоджень. Перезаряджається автоматично."
+multiplayer.error.lobbyfull,Лобі заповнене.
+upgrades.keeper3kunaibounce1.title,Помічник із траєкторії
+loadout.team.selection,%s: приєднатися
+level.tutorial.sworddome.slicing.desc,"Чим швидше меч рухається, тим більше він завдає шкоди."
+properties.drill.sidetimepertile,Час бічного бурильника на блок {}с
+upgrades.suitblasterradius1.title,Радіус вибуху 1
+upgrades.resourcepackerquickcharge.title,Швидке перезаряджання
+versus.corruptionmonsterdamage.desc,"Монстри завдаватимуть значно більшої шкоди, зокрема й снарядами."
+properties.dome.autohealamount,Відремонтувати {}од.
+loadout.team,Команда %s
+options.keybindings.action.general.down,Униз
+properties.blastmining.radius,Радіус вибуху (клітинок) {}
+loadout.proceed,Продовжити
+level.tutorial.suitblaster.popup_1.switch,"Натисніть |, щоб вистрілити з костюмного бластера та зруйнувати камінь у радіусі навколо вас."
+upgrades.resourcepackercount2.title,Розмір пакунка 2
+properties.sword.extendspeed,Збільшена швидкість {} 
+upgrades.autocannondamage1.title,Важкі кулі
+properties.sword.aimline,Траєкторія Пострілу
+options.translation.community,Переклад силами спільноти: Завершений на {completion}%
+properties.spire.stuntrapabsorption,Поглинання шкоди {.percent}
+upgrades.keeper4speed2.desc,Додатково збільшує швидкість руху.
+upgrades.keeper4ramping4.title,Імпульс 4
+upgrades.orchard.desc,"Посадіть в куполі дерево, яке вирощує фрукти, котрі покращують вашу швидкість та силу буріння."
+pause.restart.popup,"Ви певні, що хочете перезапустити ваш забіг?
+Натисніть знову, щоб підтвердити."
+multiplayer.error.versionmismatch,Версія вашої гри не збігається з версією хоста. Версія хоста: {}
+assignment.condition.freegadget.plural,Два додаткові стартові ґаджети
+upgrades.artillerydirecthit1.title,Винищувач 1
+options.input.controls.mouse,Миша
+upgrades.keeper4catgoblindig1.desc,"Котоґобліни можуть викопувати ресурси, не знищуючи сегменти."
+reward.rewardpet11.title,Водяний олень
+upgrades.artillerymachinegun2.title,Швидкострільність 1
+upgrades.teslaorbs.title,Електросфера
+properties.keeper2.spherespeed,Швидкість сфер {}
+properties.artillery.machinegunpenetration,Пробивання куль {}
+level.station.upgrademenu.cost,Вартість
+keeperdlc.load.missing,"Неможливо завантажити збереження — файл містить контент недоступного пакета DLC. Переконайтеся, що пакет DLC 'The Lost Keepers' доступний."
+upgrades.drillbotstrength1.desc,Збільшує копальну силу Свердлика.
+properties.resourcepacker.rechargetime,Тривалість перезаряджання {}с
+level.converter.popup.queue.block,"Дана конвертація наразі в процесі обробки, завершиться через {time} секунд(и)."
+properties.keeper2.maxspeed,Макс. швидкість {}
+level.converter.popup.conversion.to,в
+upgrades.blastminingblast2.title,Сила вибуху 2
+upgrades.suitblasterspeed2.desc,Покращує швидкість заряду вибуху.
+options.audio.music.ost.mode.adaptive.desc,Під час гри за певного вартівника буде грати тільки відповідна йому музика.
+title.navbar.updates,Оновлення
+upgrades.orchardbattlerooting.title,Хапке коріння
+options.keybindings.action,Дія
+upgrades.keeper4flexible3.title,Спритність 3
+unlock.buy.keeperdlc,Доступно в DLC «%s».
+upgrades.keeper4flexible2.desc,Підвищує силу й початкову швидкість видобутку.
+loadout.prestige.countdown,Відлік
+assignment.weakcarry.desc,"Транспортувальні інструменти Хранителя пошкодженні, тому доведеться покладатися на ґаджети."
+upgrades.liftcarrykeeper2.title,Ліфт вартівника 2
+upgrades.domewavecount.desc,Інсталювати лічильник кількості пережитих хвиль.
+loadout.gadget.additional,Додатковий ґаджет
+upgrades.prestigewatermultiplier.title,Відправити воду
+upgrades.condenser.title,Конденсатор
+loadout.prestige.pro.supplementorder,Порядок доповнень
+assignment.goaltype.delivery.failed,"Вашою метою було '{goal}', але ви відправили тільки {amount}."
+options.keybindings.gamepad.switch,Контролер
+assignment.condition.duration,Завершити за %d циклів
+options.game.hideactionhint,Приховати підказки для дій поза куполом
+options.video.graphicsmode,Режим показу
+level.tutorial.assessor.carry.desc1_1.ps5,"Коли вони прикріплені до вас вони будуть слідувати за вами, навіть якщо ви відпустите клавішу притягування."
+assignment.goaltype.relic,Повернути реліквію
+upgrades.stationextensionminimap.desc,"При вході до мобільної станції буде показано мінікарту шахти. Вона показує виявлену частину шахти, і також декілька блоків вглиб каменю."
+assignment.ironcontribution.title,Залізний внесок
+properties.keeper4.speedupretention,Збереження пришвидшення {.percent}
+loadout.prestige.description,"Відправляйте ресурси з планети, щоб отримати престиж у Гільдії Вартівників."
+upgrades.keeper3.title,Інфільтратор
+properties.shield.battleactivateondepletion,Активації здібності після вичерпання бар’єра
+upgrades.jetpackspeed2.title,Швидкість 2
+properties.orchard.battleshieldhp,Міцність {}од.
+upgrades.drillbotstrength1.title,Сила 1
+properties.artillery.grenadereloadspeed,Швидкість перезаряджання снарядів {}c
+properties.tesla.perfecttimingmultiplier,Множник пострілу {.percent}
+upgrades.orchardbattleshieldstrong.desc,Лозовий полог становиться міцніше.
+loadout.difficulty.easy.description,Трохи більш поблажлива у багатьох аспектах.
+upgrades.drillsidespeed1.title,Швидкість буру 1
+loadout.prestige.miner,Гірництво
+upgrades.keeper4catgoblindig2.desc,Котоґобліни копають швидше.
+upgrades.spireburst.title,Вогонь чергами
+options.input.vibration.strength.ps5,Сила вібрації
+upgrades.swordexplosivereflection.desc,Відбиті снаряди вибухають при зіткненні.
+level.tutorial.drillbot.handling2.switch,"Натисніть |, щоб змінити напрямок, поки він перебуває на поверхні."
+loadout.mapsize.large.description,"Велика карта, для сесій, що тривають понад годину."
+upgrades.artillerymachinegunhoming2.desc,Використовуйте потужніші ракети.
+upgrades.keeper3quadjump.title,Множинний стрибок
+properties.artillery.grenadesexplosionradius,Радіус вибуху снарядів {}
+upgrades.proberange2.desc,Збільшує діапазон зонда.
+properties.drillbot.buffextraamount,Додаткове буріння {} уд.
+versus.corruptionbigwave.desc,Наступна хвиля монстрів буде величезною.
+level.tutorial.artillery.panel2content1,Утримуйте|щоб стріляти з протиповітряного кулемета.
+level.tutorial.artillery.panel2content2,Добре працює проти повітряних ворогів.
+upgrades.drillwidetunnel.desc,"Встановлює два додаткові центральні бури, роблячи тунель ширшим."
+upgrades.keeper2pinballdamage4.desc,Покращує ваші кінетичні сфери.
+level.gameover.unlock.difficulty,Відкрито нову складність!
+loadout.prestige.fairness.headline,Справедливе змагання
+upgrades.prestigeprovoke.desc,Ускладнює усі майбутні хвилі в обмін на додатковий престиж.
+options.audio.volumes.soundvolume,Звуки
+multiplayer.continue.deviceselection.keeper,Вартівник
+upgrades.teslaspeed2.desc,Збільшує швидкість руху прицілу.
+upgrades.artillerymachinegun2.desc,Збільшує швидкострільність вашої протиповітряної гармати.
+properties.spire.splitadditionalprojectiles,Додаткові снаряди від розщеплення {.percent}
+upgrades.artillery.title,Артилерія
+level.tutorial.assessor.bundle.desc1,"Натисніть | під час перенесення ресурсів, щоб запустити їх як пакунок."
+properties.orchard.battleabilityduration,Тривалість дії здібності {}с
+loadout.zoom,Наближення камери
+level.tutorial.assessor.bundle.desc2,"Він буде рухатися у напрямку наведення, доки не розпадеться."
+options.keybindings.rebinding.inputprocessor.switch,Натисніть нову кнопку для цієї дії…
+properties.converter.irontoiron,1 заліза на {} заліза
+options.cancel,Скасувати
+upgrades.keeper1powerdrill.title,Електродриль
+assignment.emergency.desc,Гільдія в небезпеці й потребує термінових і своєчасних внесків!
+multiplayer.host.crossplay.disabled,Кросплей вимкнено
+properties.upgrade.gameover,Закінчити забіг
+loadout.mode.secondweapon.desc,"Команди, які мають кілька вартівників, одразу отримують зброю з другої станції."
+telemetry.allow,Увімкнути онлайн-сервіси
+options.accessibility.vignette,Вимкнути віньєтку
+options.game.tutorials,Посібники
+properties.dome.autorepair,Автоматизований ремонт купола
+upgrades.swordreflection3.title,Відбиття 3
+upgrades.drillsidepull.desc,Видобуті ресурси будуть рухатись вздовж бічних бурильників до центрального тунелю.
+upgrades.keeper2movement4.title,Повний привід
+upgrades.shockwavestun1.desc,Збільшує приголомшливі здатності ударної хвилі.
+assignment.condition.freegadget.singular,Додатковий стартовий ґаджет
+title.message.close,Закрити
+reward.rewardfreerolls2.title,Додаткові пропозиції заміни
+upgrades.orchardbattleshieldstrong.title,Міцний полог
+upgrades.spirecapacity.title,Місткість
+upgrades.keeper2.title,Вчений
+upgrades.keeper2movement2.title,Гравітаційний рух 2
+upgrades.furnacestrongironfiring.desc,Підвищує ефективність спалювання заліза в затримці монстрів.
+upgrades.keeper2pinballdamage3.title,Кінетичні сфери 3
+upgrades.autocannondamage1.desc,Збільшує кулі для більшої шкоди.
+loadout.versusmod.versusmodifiermanycaverns.desc,У шахті багато природних печер.
+options.game.other,Інше
+upgrades.drillsidespeed2.title,Швидкість буру 2
+upgrades.mushroomfarmdrill2.desc,Збільшує бонус до шахтарських здібностей від поглинання грибів.
+properties.autocannon.speed,Швидкість руху {}
+upgrades.keeper4flexible1.desc,"Гнучкий стиль видобутку, що починається з непоганої швидкості, але має нижчу пікову силу."
+title.navbar.credits.close,Закрити
+level.furnace.popup.fuel.stack,Поточний стіг:
+upgrades.drillbotstrength3.title,Сила 3
+upgrades.domesupplementresurrection2.title,Ще одна спроба
+upgrades.artilleryprojectileerasure.desc,"Вибухи міномета розчиняють усі снаряди, що потрапляють у радіус вибуху."
+level.gameover.assignment.completed,Вітаємо! Ви успішно виконали завдання. Гільдія Вартівників визнає ваші зусилля.
+properties.tesla.radius,Радіус пострілу {}
+properties.keeper2.bundlespeed,Швидкість пакунку {}
+keybindings.reset.show,Переглянути зміни
+options.input.controls.gamepadusage,Використання контролеру
+assignment.maze.title,Лабіринт
+upgrades.blastminingstickycharge.desc,"Заряд пристає до першої поверхні, якої торкається, і пробиває в ній видовжений тунель замість округлого точкового вибуху."
+properties.prestige.baseperwave,{} базового престижу за хвилю
+level.gameover.mineview,Показати шахту
+unlock.mapsize.medium,"Успішно завершіть гру на маленькій мапі, щоб розблокувати."
+upgrades.teslanurture.desc,Надає можливість підживлення наявної електричної сфери повторним вистрілюванням в неї. Збільшує її розміри та час життя.
+upgrades.jetpackspeed1.desc,"Покращує реактивний ранець, для швидшого пересування."
+upgrades.domearmormelee1.desc,Зменшує отриману куполом шкоду від атак ближнього бою.
+loadout.prestige.friend.mode,Дружній режим
+upgrades.domearmorhealth2.title,Витривалість броні 2
+properties.autocannon.damage,Шкода кулі {}
+upgrades.swordextendlong2.title,Довгий укол 2
+upgrades.lasermove2.title,Швидкість руху 2
+upgrades.drillbotstrength2.title,Сила 2
+properties.keeper3.slidecontrol,Контроль ковзання {.percent}
+reward.rewardpet11.desc,Розблокуй водяного оленя як домашнього улюбленця свого купола.
+properties.tesla.nurture,Розвивання електросфер
+properties.lift.speed,Швидкість сфери {}
+upgrades.lasermove2.desc,Дедалі збільшує швидкість руху лазера.
+loadout.mode.longtime,Довгі цикли
+options.accessibility.highlightmonsters,Підсвічування монстрів
+upgrades.furnacebasedelay.desc,"Покращує ефект приголомшення чаду, збільшуючи базову тривалість затримки."
+upgrades.doublelaser.desc,"Встановлює другу лазерну турель, але розділяє потужність між ними."
+properties.converter.ironwatertime,Час перетворення заліза на воду (циклів) {}
+options.keybindings.rebinding.inputprocessor.xbox,Натисніть нову кнопку для цієї дії…
+title.message.title,Помилка
+upgrades.jetpackspeed4.title,Швидкість 4
+upgrades.drill2.desc,"Підсилює свердло, збільшуючи швидкість копання."
+upgrades.extractorresources2.title,Прискіпливі хробаки
+unlock.buy.keeperdlc.ps5,Доступно в доповненні «%s».
+level.tutorial.assessor.split.desc1,"Натисніть |, щоб розділити сферу поблизу."
+upgrades.keeper2pinballdamage1.desc,Підсилює кінетичні сфери коштом збільшення часу їх перезаряджання.
+upgrades.teleporterteleportduration2.desc,Телепортація займає менше часу.
+level.tutorial.assessor.split.desc2,"Ви можете розділити сфери знову, але вони будуть щоразу трохи слабшими."
+options.accessibility.backgrounds,Просте тло
+assignment.weakwalls.desc,"Їдка атмосфера цієї планети є смертельною як для вашого купола, так і для монстрів, сприяючи тому, що обидві сторони зазнають збільшеної шкоди."
+multiplayer.error.disconnected,З'єднання з хостом перервано.
+properties.autocannon.timebetweenshots,Час між пострілами {}с
+upgrades.laserstrength1.desc,"Збільшує потужність лазера, але зменшує його швидкість пересування під час стрільби."
+upgrades.artillerydirecthit4.desc,"Запускає снаряди, що здатні пробивати навіть найбільших монстрів."
+upgrades.teslapersistance3.title,Стійкі сфери 3
+level.gameover.stats.timeplayed.unit,хв
+level.tutorial.drillbot.sleeping3.switch,"Можна повернути його, натиснувши |, коли він активний."
+upgrades.autocannonshotgun1.desc,"Стріляє кількома снарядами, які розлітаються у вигляді віяла."
+upgrades.probe.desc,"Приєднує до костюма зонд ручної дії, який виявляє ресурси на близькій відстані. Потребує перезаряджання на станції під куполом."
+upgrades.droneyardparasites.desc,"Дозволяє випускати дронів, що прикріплюються до найсильніших монстрів поблизу та послаблюють їх. Послаблені монстри зазнають збільшеної шкоди та постійного приголомшення."
+properties.stunlaser.trackingInCooldown,Наведення на ціль під час перезаряджання
+upgrades.domewavemeter.desc,Показує час до наступної хвилі ворожих життєвих форм.
+properties.sword.stabexplosive,Бомбу на вістрі приєднано
+loadout.gadget,Основний ґаджет
+properties.stunlaser.areagrowthpermonster,Ріст області за монстра {}
+upgrades.shieldbattlereflectspeed.title,Прискорене відбиття
+level.tutorial.assessor.explode.desc1.switch,"Натисніть|, щоб підірвати всі сфери поблизу."
+reward.rewardkeeper3skin1.desc,Розблокуй новий скін вартівника для Інфільтратора.
+properties.laser.stun,Сила оглушення {}
+upgrades.resourcepackercount1.title,Розмір пакунка 1
+reward.rewardkeepersupplements.desc,Виявляє надзвичайно потужні доповнення для вашого вартівника.
+upgrades.spirestuntrap3.desc,Енергетична пастка також приголомшує монстрів.
+upgrades.lift.desc,"Встановлює автоматизований ліфт, який підіймає ресурси з шахти під купол на переробку."
+upgrades.orchard.title,Фруктовий сад
+pause.playerlist,Список гравців
+upgrades.keeper2bundle2.title,Направлення пакунка
+assignment.weakmining.desc,"Шахтарські інструменти Хранителя пошкодженні, тому доведеться покладатися на ґаджети."
+upgrades.converter.title,Конвертор ресурсів
+properties.repellent.battlemonstervulnerability,Підвищення шкоди по монстрам {.percent}
+level.gameover.revealresources,Показати поклади
+upgrades.jetpackstrength3.desc,"Збільшує вантажність реактивного ранця, щоб переносити більше ресурсів."
+options.input.controls.touch.fliphud,Перевернути HUD
+properties.keeper2.bundleguide,Скеровування пакунків
+upgrades.furnaceironfiring.desc,Спалюйте залізо в вагранці для подовження затримки атак монстрів.
+upgrades.swordlongblade2.desc,"Ще більше прискорює лезо, завдяки чому воно відскакуватиме від країв."
+options.input.controls.mouse.keepers,Використовувати мишу для вартівників
+loadout.mode.domesupplements.desc,Отримуйте втричі більше доповнень та купол з трьома комірками для доповнень.
+reward.rewardautomatedweapons.title,Автоматизована зброя
+versus.corruptionmonsterhealth.desc,У монстрів буде набагато більше здоров'я.
+upgrades.keeper3slidecontrol.desc,Покращує контроль під час ковзання по стінах.
+options.keybindings.action.dome.fire,Атака
+options.keybindings.gamepad.xbox.view.xbox,Кнопка перегляду
+level.gameover.win.title,КУПОЛ ВРЯТОВАНО
+upgrades.versusincreasewave1.title,Саботаж 1
+options.video.graphicsmode.borderlesswindow,Вікно без рамок
+properties.artillery.rotationspeed,Швидкість обертання {}
+upgrades.probe.title,Зонд
+reward.rewardkeeper2skin5.desc,Розблокуй новий скін вартівника для Вченого.
+upgrades.artillerydirecthit4.title,Винищувач 4
+properties.keeper4.squadcount,Кількість загонів {}
+upgrades.keeper3kunaicooldown3.title,Тисяча кунаїв
+upgrades.prospectionmeterrange2.desc,Ще сильніше збільшується дальність металошукача.
+level.gameover.unlock.mapsize,Відкрито новий розмір мапи!
+loadout.prestige.friend.desc,Грайте в престиж з нижчою складністю та змагайтесь з друзями на окремій таблиці лідерів.
+upgrades.jetpackstrength4.title,Вантажність 4
+options.input.controls.virtualjoystickopacity,Непрозорість віртуального джойстика
+upgrades.repellentovercharge.title,Підживлений відлякувач
+upgrades.suitblastermaxcharge.desc,"Збільшує максимальну кількість зарядів яку ваш костюм може зберігати. Чим більше ви маєте готових зарядів, тим швидше будуть заряджатись додаткові."
+upgrades.stationextensiontubemovement.desc,"Увійдіть до станції, щоб, використовуючи вакуум, швидко повернутися до купола. Працює тільки для руху вгору."
+upgrades.domesupplementmeleedamagereduction1.title,Укріплення корпуса купола
+upgrades.keeper4catgoblinsleeptime.desc,Зменшує тривалість сну котоґоблінів.
+upgrades.prestigespeedup.desc,Зменшує час між хвилями.
+upgrades.keeper3kunaicooldown1.title,Швидкий політ
+upgrades.spire.title,Шпиль
+multiplayer.join.sessions,Сесії
+options.input.controls.keybindings,Прив’язка клавіш
+multiplayer.host.crossplay.desc.xbox,"Кросплатформна гра дає змогу грати з друзями, які використовують інші платформи."
+upgrades.teslaorbs.desc,"Кожен постріл залишатиме електричну сферу, яка завдає шкоди та приголомшує ворогів."
+upgrades.prestigeiron.desc,"Відправити залізо. Збільшує кількість очок престижу, які ви отримуєте щохвилі."
+properties.keeper2.explodespheres,Вибухові сфери
+level.tutorial.assessor.split.desc1.switch,"Натисніть|, щоб розділити вхідну сферу."
+properties.artillery.machinegunhoming,Самонавідні ракети
+upgrades.spirespeedup.desc,Скорочує час між вистрілами.
+level.tutorial.drillbot.handling1,"Затисніть |, щоб знову підібрати Свердлика."
+keybindings.reset.doreset.xbox,Скинути прив'язку моїх клавіш
+level.tutorial.drillbot.handling2,"Натисніть |, щоб він розвернувся, коли на землі."
+upgrades.artillerysplash1.desc,Покращує радіус вибуху снарядів міномета.
+upgrades.shockwave.desc,"Встановлює два молоти на поверхні купола, які створюють інтенсивні ударні хвилі. Необхідно запускати власноруч."
+options.game.blocklist.unblock,Розблокувати
+properties.drillbot.buffamount,Енергійне буріння {} уд.
+upgrades.teslaorbdamage.desc,"Сфери проводять набагато більше електроенергії, завдаючи з часом більше шкоди."
+loadout.versusmod.versusmodifierconcentratediron.desc,"Жили заліза трапляються рідко, але вони дуже великі."
+upgrades.keeper4squad2.title,Великий загін
+upgrades.keeper4flexible1.title,Спритність
+upgrades.swordreflection3.desc,Максимально збільшує розмір захисної панелі.
+unlock.prestige.promode,"Завершіть гру в режимі Престижу заробивши принаймні 1000 очок, щоб розблокувати."
+loadout.mapsize.huge,Величезна
+upgrades.artillerymachinegunhoming1.desc,"Замінює кулі розумними ракетами, що автоматично корегують свою траєкторію в сторону ворогів."
+upgrades.repellentovercharge.desc,"Використовує воду, щоб підживити відлякувач, покращуючи його бойові здібності."
+loadout.prestige.pro.caveorder,Порядок печер
+upgrades.spiresplit2.title,Швидке розчеплення
+properties.laser.bend,Корегування лазера на ворогів в радіусі {}°
+modding.modio.ugcterms.link1,Умови використання
+upgrades.drillmagnetic.title,Магнетичні насадки
+assignment.condition.deliveremergency,Виконай термінові доставки (%d)
+modding.modio.ugcterms.link2,Політика конфіденційності
+assignment.denseiron.desc,"Залізна руда цієї планети особливо щільна, що ускладнює її видобуток."
+level.station.upgrademenu.inventory,Сховок
+upgrades.repellentbattleslowdownstun1.desc,"Можна застосувати розсіяні в тумані спори, щоб на короткий час знерухомити чудовиськ."
+upgrades.spirestuntrap2.title,Каталізаторна пастка
+properties.keeper3.shurikenstrength,Радіус вибуху (сегменти) {}
+loadout.prestige.cobalt,Фіксований Кобальт
+upgrades.spireautonomy1.title,Автономність
+upgrades.suitblastermaxcharge.title,Більше зарядів
+upgrades.stunlaserspeed2.desc,"Шоковий лазер рухається ще швидше і продовжує відстежувати монстрів, поки охолоджується."
+properties.suitblaster.maxcharge,Максимальна кількість зарядів {}
+upgrades.prospectionmetergadget.desc,Відображає відстань до найближчого ґаджета або камери перемикача реліквії.
+properties.spire.rechargetime,Час перезаряджання {}с
+assignment.monstermasses.desc,Ця планета заражена незміренною кількістю низькорівневих монстрів.
+telemetry.title.ps5,Ліцензійна угода з кінцевим користувачем (EULA)
+properties.condenser.autoovercharge,Автоматичне підживлення
+assignment.rareiron.desc,Кількість заліза в цій планеті занадто замала для повноцінної шахтарської операції.
+level.converter.popup.title,Конвертація ресурсів
+upgrades.chainsaw.desc,"Встановлює циркулярну пилу, яка рухається уздовж поверхні купола, завдаючи шкоди монстрам поблизу."
+versus.inventory.title,Відомості про іншу команду
+loadout.versusmod.versusmodifiernorelics.desc,У шахті немає реліквій.
+level.gameover.stats.wavessurvived,Хвиль пережито
+upgrades.stunlaserduration1.title,Тривалість вогню 1
+upgrades.resourcepackercount1.desc,"Збільшує максимальну кількість ресурсів, які можуть поміститися в один пакунок."
+level.tutorial.teleporter.carry3,"Якщо натиснете |, вас буде телепортовано назад."
+gadget.slot.domesurface,Поверхня купола
+upgrades.converterirontocobalt.title,Перетворення кобальту
+options.audio.music.ost.mode.desc,Кожен вартівник має відповідний до нього музикальний супровід. Ви можете налаштувати яка саме музика відтворюватиметься під час гри.
+assignment.condition.deliversand,Доставити %d кобальту
+options.accessibility.photosensitivity.explanation,Зменшує кількість мерехтливого світла.
+upgrades.keeper2bundle4.desc,Пакунки з ресурсами рухаються швидше та залишаються стабільними довше.
+upgrades.domesupplementmeleedamagereduction2.title,Інтенсивне укріплення
+upgrades.keeper2bundle1.title,Центральний маркер
+upgrades.repellentbattleslowdown.desc,"Розпилює під час бою туман, який сповільнює всіх чудовиськ."
+options.game.splitscreenfontscale,Збільшувати текст у режимі розділеного екрана
+upgrades.blastminingimpactdetonation.title,Ударна детонація
+loadout.relichunt.title,Оберіть сценарій
+upgrades.assignmentsemergencycontribution2.title,Терміновий внесок 4
+upgrades.stunlaserspeed1.desc,Шоковий лазер буде пересуватися швидше.
+upgrades.keeper2movement2.desc,"Вдосконалює ваш гравітаційний генератор, щоб пересуватися ще швидше."
+loadout.prestige.pro.customorder,Індивідуальний порядок
+options.translation.community.desc.seavenplatforms,Ці мови перекладені нашою чудовою спільнотою на платформі Crowdin.
+properties.shield.battledestructionprevention,Додаткова тривалість {}с
+upgrades.spirespeedup.title,Покращене охолодження
+upgrades.shieldovercharge.title,Підживлення бар’єра
+level.tutorial.station.popup_4.switch,"Тоді натисніть |, щоб перейти в режим битви й почати захищатися."
+pause.gamepadcontrols.drop,Викинути
+options.accessibility.vignette.explanation,"Вимикає ефект затемнення віньєтки, який з’являється на глибших рівнях шахти."
+upgrades.keeper4speed3.title,Швидкість руху 3
+title.navbar.splitscreen,Локальна гра з розділеним екраном
+upgrades.extractorquickextraction.title,Швидкі хробаки
+pause.disconnect,Від'єднатися
+properties.map.ironadditionalhealth,Додаткова твердість заліза {}
+properties.keeper2.reflectlifetime,Тривалість поля відбиття {}с
+loadout.versusmod.versusmodifiersoftrock,М'яка порода
+upgrades.repellentoverchargeduration1.title,Покращене підживлення
+upgrades.teleporterteleportitems.desc,"Телепортуйте все, що ви носите з собою, за винятком ресурсів і великих об'єктів."
+upgrades.shieldstrength2.desc,"Збільшує кількість ушкоджень, яку здатний поглинути бар’єр."
+unlock.mapsize.large,"Успішно завершіть гру на середній мапі, щоб розблокувати."
+upgrades.shieldoverchargestrength2.desc,"Значно збільшує кількість ушкоджень, яку здатний поглинути підживлений бар’єр."
+properties.drill.extensionspeed,Швидкість бічного видовження {}
+properties.mushroomfarm.growthtime,Час вирощування (циклів) {}
+upgrades.drillbotbuff1.desc,"В гнізді під куполом будуть рости смаколики. Принесіть їх Свердлику, він радо ними поласує і набереться енергії."
+properties.repellent.battleslowdown,Сповільнення чудовиськ {.percent}
+level.station.upgrademenu.buy,Купити
+keybindings.reset.title.switch,Скидання клавіш
+title.navbar.multiplayer.join,Приєднатися до багатокористувацької гри
+multiplayer.host.crossplay.desc,"Кросплатформна гра дає змогу грати з друзями, які використовують інші платформи. Наприклад, гравці на ПК і консолі можуть грати разом."
+properties.probe.range,Дальність (клітинок) {}
+modding.modio.connectionfailed,Не вдалося під’єднатися до mod.io!
+properties.dome.resurrectcharges,Залишилося відновлень {}
+upgrades.mushroomstack.title,Грибне складання
+multiplayer.error.lobby.join,Не вдалося приєднатися до лобі.
+pause.title,ПАУЗА
+level.furnace.popup.fuel.cycles,Залишилось циклів: {cycles}
+level.gameover.unlock.gamemodevariant,Нова варіація режиму гри
+upgrades.keeper2movement3.title,Гравітаційний рух 3
+upgrades.keeper3kunaicooldown2.desc,Кунаї можуть летіти значно швидше.
+upgrades.repellentbattledamageovertime.title,Токсичні випари
+reward.rewardfreerolls1.title,Пропозиції заміни
+assignment.superhardrockwithholes.title,Швейцарський сир
+modding.restartneeded,Для коректної роботи деяких модів треба перезапустити гру.
+upgrades.versusshowinventory.title,Шпигунство за інвентарем
+level.tutorial.assessor.carry.desc1,"Утримуйте |, щоб втягувати ресурси, поки вони не будуть прикріплені до вас."
+level.tutorial.assessor.carry.desc2,"Натисніть |, щоб запустити пакунок у напрямку вашого наведення."
+demo.unavailable,Недоступно в демоверсії
+assignment.harmfuliron.desc,Залізо на планеті небезпечно реактивне. Його знищення пошкоджує твій купол.
+upgrades.keeper4flexible4.title,Спритність 4
+properties.dome.reducedhealth,Втрачено здоров'я {}hp
+upgrades.keeper4catgoblinamount.desc,"Виводь більше котоґоблінів, які допоможуть тобі з місією."
+properties.keeper2.spherebasedamage,Базова шкода сфер {}
+level.gameover.showimages,Відкрити
+properties.keeper4.maxpunchdelay,Найповільніший удар {} с
+upgrades.converterironduplication.desc,Значно поліпшує ефективність дублікації заліза.
+upgrades.liftorbless.title,Гравітаційний ліфт
+upgrades.artilleryshotstun.desc,"Вогонь міномета становиться настільки потужним, що монстри поблизу зазнають короткочасного приголомшення."
+upgrades.keeper4squadsmarts.title,Розумна розкопка
+options.video.graphicsmode.enablevsync,Вертикальна синхронізація
+upgrades.repellentdelay3.desc,Ще більше затримує наступну хвилю чудовиськ.
+properties.spire.splitshotground,360° розщеплення
+upgrades.autocannonrateoffire3.desc,Максимальна швидкострільність.
+upgrades.furnacebasedelay.title,Приголомшливий чад
+properties.sword.stabcooldown,Подовжене відновлення {}с
+upgrades.resourcepacker.title,Пакувальник ресурсів
+properties.probe.permanentrevealrock,Стале виявлення каменю
+upgrades.prestigeprovoke.title,Спровокувати монстрів
+loadout.hint.teams,У кожній команді має бути хоча б один гравець!
+upgrades.proberange1.title,Середній діапазон
+upgrades.condenserautocollect.desc,"Автоматизує збір води, щоб не доводилося робити це вручну."
+title.navbar.continue,Продовжити
+upgrades.drillbotbuffguidance.title,У пошуках смаколиків
+options.video.stretchmode.rezised,Змінений розмір
+upgrades.shieldbattlereflectspeed.desc,"Відбиті снаряди летять назад з більшою швидкістю, що збільшує імовірність влучання по відправнику."
+properties.keeper2.spherebaselifetime,Час життя сфер {}с
+properties.resourcepacker.packscale,Відсоток Стискання {.percent}
+properties.chainsaw.speed,Швидкість руху {}
+properties.probe.rechargetime,Час повного перезаряджання (циклів) {}
+upgrades.blastminingblast1.title,Сила вибуху 1
+upgrades.liftcarrykeeper1.title,Ліфт вартівника 1
+loadout.versusmod.versusmodifierlongcycles,Довгі цикли
+options.keybindings.action.dome.secondary,Другорядна здібність
+upgrades.extractor.title,Залізні хробаки
+level.tutorial.assessor.reflect.desc2,"Сфери, що вдаряються об нього будуть відбиті та підсилені."
+options.keybindings.keyboard,Клавіатура
+level.tutorial.assessor.reflect.desc1,"Натисніть |, щоб увімкнути поле відбиття навколо вас."
+level.tutorial.beastmaster.move,Рух
+level.gameover.automove,Автоматична камера
+upgrades.keeper4punch4.title,Шал 4
+properties.shockwave.damagemod,Додаткова шкода {.percent}
+upgrades.drillbotsleepless.desc,"Свердлик зможе працювати довше, перш ніж стане сонним."
+upgrades.keeper2pinballexplode.desc,Вивільнює їхню кінетичну енергію та детонує кожну сферу поблизу.
+reward.rewardpermanentwavemeter.title,Постійний вимірювач наближення ворожнечі
+upgrades.keeper3shurikencooldown1.desc,Ще більше прискорює перезаряджання сюрикена.
+upgrades.droneyard.title,Фабрика дронів
+level.gameover.unlock.promode,Налаштування професійного престижу розблоковано!
+upgrades.swordextendlong2.desc,Дедалі збільшує силу колючої атаки та покращує керованість в польоті.
+upgrades.drillbotturnaround.desc,"Впершись в непробивну стіну, Свердлик розвернеться назад, замість того щоб заснути."
+loadout.prestige.fairness.desc,"Ми раді бачити як ви, престижні гравці, змагаєтеся за найвищі бали та знаходите все кращі й кращі стратегії. Ми хочемо, щоб це змагання було чесним і веселим, тому важливо, щоб усі грали на рівних умовах.
+
+Будь ласка, зрозумійте, що ваші забіги можуть бути позначені як неприпустимі або можуть бути видалені, якщо виявиться що ви використовуєте чіт-інструменти або експлойти.
+Ми визначаємо експлойти як будь-що, що дає вам відчутну вигоду у вашому престижному забігу, що не передбачене за допомогою звичайних ігрових засобів. Це включає такі речі, як, редагування або перегляд збереженої гри, зловживання перезавантаженням, використання модів, яких немає в білому списку, та навмисне та повторне використання багів.
+Вас можуть назавжди позбавити права брати участь у таблицях лідерів, якщо виявиться що ваш забіг значною мірою використовував чити чи експлойти.
+
+Якщо ви не впевнені чи вважається щось неприпустимим, запитайте на нашому Discord сервері або електронною поштою на dome@bippinbits.com. Ви завжди можете звернутися до нас, якщо ви вважаєте що вас виключили помилково.
+
+Весело провести час!"
+assignment.emergency.title,Аварійна ситуація
+upgrades.droneyardbattlegridlong2.title,Орда дронів
+properties.repellent.battleuses,Застосувань на бій {}
+loadout.difficulty.easy,Важка
+level.tutorial.mineraltree1,"Знайдено насіння мінерального дерева. Воно може вирости в дерево, яке пускає коріння в блоках. Воно створюватиме ресурси залежно від ресурсів кореневих блоків.
+Щоб посадити насіння, кинь його на блок."
+options.keybindings.action.keeper.pickup,Підібрати
+gadget.slot.domebackside,Подвір'я купола
+assignment.megacreeps.desc,Планетою блукають лише найбільші й найсильніші монстри.
+options.keybindings.rebinding.error.gamepad.switch,Неможливо призначити це як введення з контролера.
+modding.profile.new,Новий профіль
+upgrades.suitblasterspeed1.desc,Покращує швидкість перезаряджання бластеру.
+properties.domearmor.pulsedamagethreshold,Поріг шкоди від пульсації: {}
+options.game.autopause,Призупинити гру при втраті фокуса на вікні гри
+savegame.wiped.desc,"Усі файли збереження пошкоджено, імовірно, через збій системи під час запису. Відновити прогрес не вдалося.
+Спробуйте відновити збереження з хмари. Інакше прогрес буде втрачено."
+properties.shield.maxstrength,Міцність {}од.
+level.tutorial.ninja.rope.desc1,"Утримуйте |, щоб запустити мотузку у вказаному напрямку, використовуючи %s."
+level.gameover.unlock.gadgetability,Нова бойова здібність пристрою
+level.tutorial.ninja.rope.desc2,"Натисніть|, щоб стрибнути."
+upgrades.repellent.desc,"Встановлює резервуар для вироблення рідини, яка відлякує чудовиськ. Активуйте, щоб розпилити рідину за межами купола, що на деякий час відтягне наступну хвилю."
+modding.modio.report,Поскаржитися на мод
+properties.artillery.directhitdamage,Шкода від прямого влучання {.percent}
+upgrades.spireprojectileslowdown.title,Уповільнення Снаряду
+properties.keeper2.bundleduration,Час життя пакунка {}с
+upgrades.domesandrepair.title,Лагодження кобальтом
+upgrades.assignmentsemergencycontribution3.desc,"Надішли цей пакунок до 7-го раунду, інакше завдання буде провалено."
+upgrades.stunlaserduration3.title,Тривалість вогню 3
+properties.orchard.battleshields,Шари щитів {}
+options.video.brightness,Яскравість
+demo.end.misc1,Змагальний режим Престижу із 4-ма різновидами гри
+upgrades.droneyarddrones.desc,Виробити додаткового дрона для транспортування ресурсів.
+demo.end.misc3,Більше основних ґаджетів
+options.game,Гра
+loadout.mode.longtime.desc,"Між хвилями проходить вдвічі більше часу, але вони будуть складнішими."
+demo.end.misc2,Багато складних завдань
+demo.end.misc5,Більше печер
+demo.end.misc4,Більше варіацій розміру мапи
+upgrades.orchardduration2.title,Тривалість 2
+gadget.slot.domesupplement,Доповнення купола
+demo.end.misc6,Більше монстрів
+upgrades.keeper2rotationalmining1.desc,Ігнорує твердість матеріалу та завжди копає камінь з однаковою швидкістю.
+upgrades.droneyardbattlegridquick2.desc,"Дозволяє швидко випускати усіх дронів, тримаючи їх напоготові з самого початку битви."
+loadout.choices.comingsoon,"Наразі недоступно, та незабаром з'явиться."
+properties.keeper2.splitlifetime,Час життя розділених сфер {.percent}
+options.input.controls.mouse.sword,Використовувати мишу для атак мечекупола
+level.tutorial.beastmaster.goblins.desc1,"Утримуй |, щоб пробити отвір у стіні, крізь який твої котоґобліни зможуть потрапити до шахти."
+upgrades.drill3.desc,"Підсилює свердло, збільшуючи швидкість копання."
+upgrades.jetpackstrength3.title,Вантажність 3
+upgrades.shieldstrength3.title,Потужність 3
+level.tutorial.beastmaster.goblins.desc2,Допомагають збирати ресурси поблизу входу в тунель.
+upgrades.domesupplementresurrection1.title,Відновлення купола
+loadout.mapsize.small.description,Маленька мапа для коротких ігрових сесій.
+upgrades.proberange2.title,Великий діапазон
+reward.rewardkeeper2skin5.title,Скін Ученого
+upgrades.jetpackspeed2.desc,"Покращує реактивний ранець, для швидшого пересування."
+upgrades.artilleryrotation2.desc,Повертайте свою мортиру швидше.
+upgrades.domesupplementcombatrepair3.title,Швидкий бойовий ремонт
+reward.rewardkeeper4skin3.desc,Розблокуй новий скін вартівника для Приборкувача.
+multiplayer.host.splitscreen.desc.xbox,"Використовуйте геймпади на екрані спорядження, щоб додати додаткових вартівників. На одному екрані можуть грати до чотирьох вартівників. Режим розділеного екрана можливий під час гри в онлайн-мультиплеєрі."
+upgrades.keeper2pinballdamage2.desc,Дедалі підсилює кінетичні сфери коштом додаткового збільшення часу їх перезаряджання.
+level.tutorial.ninja.rope,Мотузка
+options.keybindings.rebinding.error.keyboard,Неможливо призначити це як введення з клавіатури.
+upgrades.domesupplementcombatrepair2.desc,Автоматичний ремонт відновлює більше структурної цілісності.
+properties.dome.baserepair,Відремонтувати {}од.
+properties.repellent.growthtime,Час виробництва (циклів) {}
+properties.keeper.domefuel,Додати паливо {}
+options.accessibility.critters,Вимкнути тваринок
+level.tutorial.assessor.reflect.desc1.switch,"Натисніть|, щоб увімкнути поле відбиття навколо вас."
+upgrades.probelongmarker2.title,Тривалі маркери
+upgrades.converterefficientwater.title,Економне перетворення води
+upgrades.assignmentssendcobalt.title,Відправити кобальт
+properties.monsters.waveinterval,Час між хвилями {}с
+options.keybindings.rebinding.error.gamepad,Неможливо призначити це як введення з геймпаду.
+options.input.gamepad.twinstick,Керування двома стиками
+properties.extractor.units,Кількість вироблених хробаків {}
+loadout.mode.doubleiron.desc,Жили заліза значно багатші.
+telemetry.title,Увімкнути онлайн-мультиплеєр?
+multiplayer.host.local.desc,Гравці з локальної мережі можуть приєднатися.
+properties.laser.dps,Ушкодження {}
+level.tutorial.assessor.spheres.desc1.switch,"Натисніть|, щоб вистрілити кінетичною сферою у напрямку прицілювання."
+upgrades.spirecapacity.desc,Збільшує кількість пострілів до перезаряджання.
+upgrades.doublelaser.title,Подвійний лазер
+options.keybindings.text,"Налаштуйте керування на свій смак.
+Клавіші з різних секцій зазвичай можуть збігатися й функціонувати без помилок (наприклад, якщо використовувати однакові клавіші для руху вартівника та зброї купола)."
+properties.repellent.battleabilityduration,Тривалість дії здібності {}с
+keybindings.reset.title.xbox,Скидання клавіш
+options.keybindings.gamepad.xbox.menu,Старт
+upgrades.shieldstrength1.title,Потужність 1
+properties.converter.watertoiron,1 од. води на {} заліза
+upgrades.stunlaserstun2.title,Сила приголомшення 2
+upgrades.drillbotstrength2.desc,Збільшує копальну силу Свердлика.
+upgrades.dome1.title,Лазерний купол
+options.keybindings.rebinding.error.gamepad.xbox,Неможливо призначити це як введення з контролера.
+loadout.assignment.shop,Винагороди Гільдії Вартівників
+upgrades.orchardbattlerootingmore.desc,Буде проростати більше коріння і воно протримається довше.
+options.keybindings.action.general.back,Скасувати
+exhibition.level.instruction,"Натисніть будь-яку кнопку, щоб продовжити гру!"
+upgrades.converterefficientwater.desc,"Покращує обмін, роблячи його більш ефективним."
+upgrades.teslapower4.desc,Збільшує потужність пострілу тесли.
+upgrades.spiresplit1.title,Розщеплення снарядів
+assignment.weakwalls.title,Високий ризик
+title.navbar.quit,Вийти на робочий стіл
+upgrades.autocannonrateoffire1.desc,Підвищує швидкострільність.
+upgrades.laserstrength4.desc,"Кардинально збільшує потужність лазера, але він ледве повзтиме під час стрільби."
+loadout.mode.automateddefense.desc,"Почніть з усіма захисними ґаджетами та автономією ґаджетів, але без основної зброї. Нехай ваш купол робить всю роботу!"
+level.gameover.prestige.score.rankunchanged,Ранг не змінився.
+properties.keeper2.directmininghardness,Відсоткова шкода контактного копання {.percent}
+level.gameover.retry,Почати новий забіг
+options.input.controls.keybindings.button.xbox,Змінити прив'язки клавіш
+upgrades.keeper4autospawnminers.title,Працьовитий загін
+modding.modio.declined,"Щоб отримати доступ до модів, погодьтеся з умовами використання"
+upgrades.repellentoverchargeduration1.desc,Збільшує вплив підживлення на бойові здібності.
+upgrades.assignmentsemergencycontribution5.title,Терміновий внесок 16
+upgrades.keeper2pinballdamage2.title,Кінетичні сфери 2
+upgrades.teslaspeed3.desc,Збільшує швидкість руху прицілу.
+upgrades.domesupplementmeleedamagereduction2.desc,Дедалі вдосконалює зміцнення корпусу задля додаткового зменшення шкоди від атак ближнього бою.
+properties.extractor.processingtime,Тривалість видобування {}с
+upgrades.keeper3.desc,"Спритний вартівник, що стрімко рухається за допомогою мотузки й майстерних стрибків, одночасно кидаючи потужні кунаї."
+assignment.acidrain.title,Кислотний дощ
+upgrades.droneyardparasites3.desc,Дедалі покращує ефект послаблення паразитичних дронів.
+upgrades.domesupplementelectrifiedsurface1.desc,"Встановлює чутливе електрифіковане покриття на корпус купола, що завдає шкоди монстрам, які атакують зблизька."
+unlock.buy.keeperdlc.switch,Доступно в доповненні «%s».
+upgrades.keeper3shurikenstrength2.desc,Додатково збільшує потужність вибуху сюрикена.
+upgrades.teslapower3.title,Потужність пострілу 3
+upgrades.stationextensionrevealdistance2.desc,"Збільшує діапазон сканування станції, виявляючи камінь та ресурси в більшому радіусі."
+upgrades.keeper3shurikencooldown2.title,Невпинний сюрикен
+properties.orchard.buffduration,Тривалість підсилення (циклів) {}
+loadout.prestige.provocation.description,"Провокуйте монстрів, ускладнюючи хвилі в обмін на додатковий престиж. Множник зменшується з кожним циклом; забіг завершується, якщо значення множника опускається нижче нуля."
+level.tutorial.probe.popup_1,"Натисніть |, щоб запустити один пульс зонда."
+level.tutorial.repellent.popup_2,"Біля нього натисніть |, щоб задіяти."
+multiplayer.join.profile,Профіль
+level.tutorial.probe.popup_3,"Це виявить деякі найближчі ресурси.
+Перезаряджання на станції."
+level.tutorial.repellent.popup_1,Відлякувач готовий до затримання наступної хвилі.
+upgrades.keeper4ramping2.desc,"Збільшує силу, максимальну швидкість й збереження імпульсу видобутку."
+options.game.kunaicarrierbeforegadgets,"Запускати спочатку носій кунаїв, а потім — ґаджети"
+properties.probe.permanentrevealresources,Стале виявлення ресурсів
+upgrades.keeper2bundle4.title,Потужний пакунок
+options.audio.volumes.musicvolume,Музика
+options.input.controls.useindividualsettings,Використовувати індивідуальні налаштування вартівника
+upgrades.keeper4squadsmarts.desc,Загони шахтарів насамперед розкопують спеціальні сегменти й сегменти поблизу ресурсів.
+upgrades.domesupplementscraprepair2.title,Реставрація
+upgrades.orchardduration3.desc,Ефект від фруктів триває максимально довго.
+actionhint.tap,Дотик
+level.gameover.keepgadget.none,Жодного
+upgrades.stunlaserautonomy1.title,Автономність
+upgrades.swordexplosivereflection.title,Вибухове Відбиття
+upgrades.probelongmarker1.desc,"Покращує модуль пам'яті зонда, значно збільшуючи час життя маркерів."
+upgrades.resourcepackercharges.desc,"Збільшує максимальну кількість зарядів пакувальника, які може зберігати вам костюм."
+level.station.battle.navbar.shoot,Стріляти
+upgrades.drilladditionalsides.desc,Надає більше функціонально аналогічних до першого бічних бурильників.
+loadout.difficulty.veryeasy.description,"Все ще не легко, але не так напружено, як на інших складностях."
+properties.stunlaser.stunstrength,Сила приголомшення {}
+properties.resourcepacker.packcount,Розмір пакунку {}
+upgrades.keeperonewayteleporter.title,Однобічний телепорт
+upgrades.keeper3kunaidamage4.title,Вплив куная
+upgrades.drill4.title,Сила свердла 4
+options.game.directionsnapping,Наведення по головних напрямках
+upgrades.artillerymachinegun3.title,Швидкострільність 2
+upgrades.stunlaserspeed2.title,Швидкість 2
+properties.artillery.machinegunreloadspeed,Швидкість перезаряджання куль {}с
+options.game.screenshake,Тремтіння екрана
+upgrades.proberechargeafterbattle.desc,"Зонд автоматично перезаряджається з часом, роблячи станцію для його перезаряджання непотрібною. Звільняє слот для ґаджета у льоху."
+upgrades.jetpackstrength2.title,Вантажність 2
+loadout.versus.condition.irondelivery.title,Доставка заліза
+upgrades.teslaspeed4.desc,Збільшує швидкість руху прицілу.
+level.assignment.badges.toggle,"Заробляйте емблеми, завершуючи завдання. Використовуйте емблеми для нагород від Гільдії Вартівників. Ви можете деактивувати нагороди будь-коли після їх придбання, якщо бажаєте грати без них."
+loadout.versus.wincondition,Умови перемоги
+upgrades.converterefficientwatershort.title,Швидка процедура
+properties.keeper2.directminingdamage,Шкода тискового гірництва {}
+upgrades.assignmentssendiron.desc,Відправити залізо до Гільдії Ватівників. Для успішного завершення завдання необхідно виконати усі доступні відправлення.
+upgrades.keeper3carrylimit1.title,Місткість інвентарю 1
+assignment.goaltype.survive,Вижити
+upgrades.shield.title,Бар’єр
+level.station.battle.navbar.stabspeedup,Пришвидшення колючої атаки
+upgrades.keeper3quadjump.desc,Дає змогу виконати до трьох додаткових стрибків у повітрі.
+upgrades.swordaimline.title,Приціл для меча
+properties.domearmor.pulsestunduration,Тривалість приголомшення від пульсації: {} с
+level.tutorial.assessor.carry.desc2.switch,"Натисніть|, щоб запустити пакунок у напрямку прицілювання."
+level.tutorial.ninja.carry.desc1.switch,"Натисніть|, щоб запустити кунай із ресурсами в напрямку прицілювання, використовуючи елемент керування (%s)."
+upgrades.orchardovercharge.desc,"Підживлює сад водою, завдяки чому фрукти ростуть швидше."
+upgrades.missile.abilityname,Ракета
+upgrades.resourcepackercount2.desc,"Збільшує максимальну кількість ресурсів, які можуть поміститися в один пакунок."
+assignment.bigmapsparseresources.desc,"Ресурсні родовища цієї планети - рідкісні та віддалені один від одного, проте її кам'яна порода - дуже крихка."
+properties.spire.stuntrap,Енергетична пастка
+playerlist.block,Заблокувати
+level.tutorial.sworddome.stabbing.desc,Випускайте меч і коліть ним дальніх ворогів.
+properties.sword.sliceacceleration,Швидкість меча {}
+loadout.team.join,Приєднатися
+assignment.weapondefect.desc,"Основну зброю вашого купола було знищено, отже вам доведеться шукати інші шляхи виживання."
+upgrades.repellentbattlehealthreduction.title,Ослаблення
+loadout.versusmod.versusmodifiertoughstart,Складний старт
+title.navbar.multiplayer,Багатокористувацька гра
+options.input.controls.keybindings.ps5,Скидання клавіш
+upgrades.extractorquickextraction.desc,"Розвиває гіперактивність у ваших хробаків, значно пришвидшуючи їх видобуток залізних покладів."
+upgrades.mushroomfarmquickgrowth.title,Швидкий ріст
+upgrades.repellentbattlehealthreduction.desc,"Послаблює всіх монстрів, через що вони отримують більше шкоди."
+loadout.versusmod.versusmodifierstrongmonsters,Монстри з підвищеним рівнем здоров’я
+leaderboard.failed,Не вдалося завантажити таблицю лідерів.
+properties.sword.reflectprojectilesexplosive,Відбиті снаряди вибухають
+level.station.navbar.upgrades,Поліпшення
+upgrades.artillerymachinegun3.desc,Покращує протиповітряний кулемет.
+level.gameover.unlock.pet,Відкрито нову тваринку!
+upgrades.domesupplementelectrifiedsurface2.title,Електризований корпус 2
+upgrades.keeper3shuriken2.desc,"Прискорює перезаряджання сюрикена, що дає змогу кидати його частіше."
+upgrades.artillerysplash2.desc,Вистрілює два мінометні снаряди у швидкій послідовності.
+loadout.mode.hud,Інтерфейс
+upgrades.keeper4flexible2.title,Спритність 2
+upgrades.shieldbattlereflectshortuses.desc,"Відбиття працює частіше, але не так довго."
+upgrades.rocketlauncherdamage2.title,Смертельні ракети
+upgrades.domesupplementscraprepair1.title,Ремонт брухтом
+upgrades.keeper2bundle3.title,Центр гравітації
+upgrades.keeper2bundle2.desc,Вмикає пряме керування запущеного пакунка на короткій відстані.
+upgrades.keeper3shurikencooldown2.desc,Ще більше прискорює перезаряджання сюрикена.
+upgrades.suitblaster.title,Костюмний бластер
+upgrades.prestigeiron.title,Відправити залізо
+properties.shockwave.cooldown,Перезаряджання {}с
+options.input.controls.keepersettings.desc,"За замовчуванням до вартівників застосовуються глобальні налаштування. Ви можете їх перевизначити індивідуальними налаштуваннями вартівника. Наприклад, параметри прив’язки можуть відрізнятися залежно від вартівника або дії, яку потрібно виконати."
+options.keybindings.action.keeper.gravityball,Постріл
+upgrades.liftorbs.desc,Встановлює додаткову підйомну сферу.
+options.input.controls.mouse.gamepad,Перемикання методу вводу відбувається автоматично.
+properties.probe.detectchambers,Виявлення артефактів
+landing.proceed.ps5,"Натисніть будь-яку кнопку, щоб продовжити"
+upgrades.condenserautocollect.title,Автоматичний збір
+multiplayer.error.hostcrossplaydisabled,"Не вдалося приєднатися до лобі, бо хост вимкнув кросплей і перебуває на іншій платформі."
+upgrades.repellent.title,Відлякувач
+loadout.team.color,Колір команди
+options.game.tutorials.resettutorials,Відновити посібники
+options.accessibility.critters.explanation,"Вимикає хробаків, жуків чи павуків, що з'являються в шахті як візуальний ефект."
+upgrades.prospectionmeterrange1.desc,Збільшує дальність виявлення ресурсів.
+upgrades.drillsidepull.title,Транспортація мінералів
+options.accessibility.highlightmonsters.explanation,"Обводить монстрів яскравою лінією, для кращої видимості."
+upgrades.keeper2bundle1.desc,"Показує маркер прямо під куполом, щоб показати куди запускати пакунки."
+upgrades.assignmentsemergencycontribution6.title,Терміновий внесок 20
+upgrades.keeper4ramping3.title,Імпульс 3
+upgrades.swordblade1.desc,Збільшує різальну силу і швидкість леза.
+upgrades.probedetectchambers.title,Виявлення артефактів
+loadout.mode.shortcycles,Короткі цикли
+upgrades.proberange3.desc,Збільшує діапазон зонда.
+upgrades.prestigespeedup.title,Пришвидшити цикли
+loadout.prestige.endless.description,Не має лімітів на час чи ресурси. Для дуже довгих забігів.
+options.input.gamepad.gamepadstickdeadzone.text.switch,"Встановіть значення, за якого індикатор не блиматиме, коли ви лише торкаєтеся джойстиків, не натискаючи на них.
+Якщо ви натискаєте на джойстик, індикатор має блимати під час рухання джойстиком."
+upgrades.blastminingblast3.title,Сила вибуху 3
+upgrades.swordextendlong1.desc,Збільшує силу колючої атаки та покращує керованість в польоті.
+properties.autocannon.rateoffire,Швидкострільність {.percent}
+upgrades.assignmentsemergencycontribution4.title,Терміновий внесок 11
+assignment.minorvision.desc,Темні тіні на цій планеті вбирають усе світло.
+options.audio.volumes,Гучність
+unlock.host.locked.ps5,На хості немає доповнення «%s».
+loadout.versusmod.versusmodifiershortcycles.desc,Інтервали між хвилями монстрів коротші.
+upgrades.keeper2pinballexplode2.title,Вдосконалення вибухів
+multiplayer.host.local,Локальна гра
+options.video.graphicsmode.fullscreen,На весь екран
+properties.keeper3.kunaidamage,Шкода куная {}
+options.game.screenshake.shakewhenmining,Тремтіння під час видобутку
+upgrades.dome2.title,Мечекупол
+properties.artillery.machinegundamage,Шкода куль {}
+loadout.mode.doubleiron,Масивне залізо
+upgrades.keeper4punch1.title,Шал
+level.gameover.unlock.versus,Режим протистояння розблоковано!
+upgrades.artillerydoublemachinegun.desc,Вбудовує ще один кулеметний ствол на ваш купол.
+level.converter.popup.conversion.time,понад {time} циклів
+options.translation.title,ОБЕРІТЬ МОВУ
+loadout.prestige.pro.title,Власні налаштування
+multiplayer.host.title,Створити багатокористувацьку сесію
+properties.keeper4.movespeed,Швидкість руху {}
+options.input.gamepad.thumbstick.xbox,Стік
+upgrades.furnacelastingironfiring.title,Тривале залізне паливо
+upgrades.shieldoverchargestrength1.title,Потужність підживленого бар’єра 1
+multiplayer.error.modsmismatched,Ваш список модів не збігається зі списком хоста. Приєднатися не вдалося.
+upgrades.laserhitprojectiles.desc,Влучання лазером по енергетичних снарядах миттєво їх розщеплюватиме.
+upgrades.probepermanentrevealtiles.desc,"Уся область, що сканується зондом, назавжди залишається виявленою."
+options.keybindings.action.keeper.jump,Стрибок
+upgrades.repellentdelay2.title,Затримка 2
+upgrades.keeper3shuriken1.title,Сюрикен
+upgrades.probelongmarker2.desc,Марковані ресурси триватимуть багато циклів.
+properties.shockwave.stunduration,Тривалість приголомшення {}с
+level.tutorial.teleporter.teleport1.switch,"Біля порталу натисніть |, щоб телепортуватися назад."
+options.game.alwaysshowping,Завжди показувати пінг сервера
+loadout.choices.locked,Ще не розблоковано
+upgrades.prospectionmetersand1.title,Пошук кобальту
+upgrades.drill2.title,Сила свердла 2
+level.gameover.findimages,Збережено до
+level.tutorial.resourcepacker.popup_1.switch,"Перебуваючи поруч із ресурсами, натисніть |, щоб зібрати їх у компактний пакунок, який легше транспортувати."
+reward.rewardpostrunshowmonstercount.title,Додаткові статистичні дані битви
+upgrades.drill.title,Бурова установка
+upgrades.versusincreasewave1.desc,Назавжди підсилює хвилі монстрів для команди суперників.
+upgrades.swordstabfast1.desc,Збільшує швидкість і частоту колючих атак.
+properties.sword.slicebrake,Сповільнення від рубання {.percent}
+upgrades.lasermove3.desc,Максимальна швидкість руху лазера.
+upgrades.prestigewatermultiplier.desc,"Відправити воду. Збільшує кількість очок престижу, які ви отримуєте щохвилі."
+upgrades.domesupplementresurrection1.desc,"Замість знищення, ваш купол повністю відновить свою цілісність та буде тимчасово невразливим. Одне використання."
+upgrades.swordextendlong3.title,Довгий укол 3
+properties.repellent.wavedelay,Затримка хвилі (циклів) {}
+upgrades.domewavepathtodome.desc,При сигналізації про наближення хвилі також буде вказано найкоротший шлях повернення до купола.
+level.tutorial.ninja.carry,Носій кунаїв
+upgrades.dome4.desc,"Надсучасний купол, що використовує електроенергію на ніколи раніше не бачених рівнях."
+upgrades.prospectionmeterwater2.title,Компас води
+multiplayer.techtree.keeperexclusivegadget,Цей ґаджет впливає лише на твого вартівника.
+options.keybindings.action.dome,Купол
+upgrades.drillbotbuff1.title,Смаколики
+versus.corruption.desc,"Виберіть перешкоду, яка ускладнить життя ворожій команді!"
+upgrades.swordstabshoot.title,Спис
+properties.dome.projectiledamagereduction,Зменшення шкоди від снарядів {.percent}
+upgrades.drillbotbuffstrength2.desc,"З’ївши цей смаколик, Свердлик пропрацює довше, перш ніж стане сонним."
+leaderboard.global,Глобальна
+options.game.blocklist.unblockall,Розблокувати всіх
+upgrades.swordlongblade1.title,Довге лезо 1
+properties.orchard.drillbuff,Бонус швидкості копання {}
+properties.spire.splitshotspeed,Швидкість розщеплених снарядів {}
+options.keybindings.action.dome.upgrade,Поліпшення
+upgrades.teslaspeed3.title,Швидкість прицілу 3
+upgrades.domehealthmeter.title,Лічильник міцності
+properties.extractor.additionalresources,Додаткові ресурси {}
+upgrades.domesupplementcombatrepair3.desc,"Значення зазнаної шкоди, необхідної для активації бойового ремонту, зменшене, що сприяє його активації навперед."
+upgrades.furnacelastingironfiring.desc,Збільшує тривалість згоряння кожного шматку заліза в вагранці.
+properties.dome.resurrectinvulnerability,Невразливість після відновлення {}с
+upgrades.assignmentssendwater.desc,Відправте воду до Гільдії Вартівників. Для успішного завершення завдання необхідно виконати всі доступні відправлення.
+options.game.autopickupresources,Автоматично підбирати ресурси
+upgrades.repellentbattledamageovertime.desc,Всі чудовиська зазнають ушкоджень кожну секунду дій випарів.
+upgrades.artillerydirecthit3.desc,Збільшує руйнівний потенціал снарядів міномета.
+upgrades.domearmorprojectile1.title,Броня від снарядів 1
+upgrades.keeper4catgoblindig3.desc,Котоґобліни повністю знищують сегменти під час копання.
+upgrades.stunlaserarea.desc,"Створює область приголомшення навколо цільового монстра, який приголомшує усіх монстрів поруч. Радіус області та шкода, яку вона завдає, збільшуються в залежності від кількості монстрів усередині."
+level.tutorial.teleporter.carry2,"Затисніть |, щоб знову взяти портал, коли перебуваєте біля нього."
+level.tutorial.teleporter.carry3.switch,"Якщо натиснете |, вас буде телепортовано назад."
+upgrades.keeper2pinballreflect.title,Поле відбиття
+upgrades.probepermanentrevealtiles.title,Виявлення каменю
+loadout.versusmod.versusmodifierfastmonsters.desc,Монстри рухаються швидше.
+level.tutorial.teleporter.carry1,Портал можна пересувати куди завгодно.
+level.tutorial.pickup.popup_1.switch,"Натисніть |, щоб підняти ресурс."
+options.input.gamepad.autoswitch.xbox,Автоматичне визначення бажаного контролера
+options.accessibility,Доступність
+upgrades.teslapersistance2.desc,Збільшує розміри та час життя електричних сфер.
+properties.sword.reflectionacceleration,Швидкість відбитого снаряда {.percent}
+upgrades.artillerygrenadefastreload.title,Швидке перезарядження
+upgrades.keeper2pinballreflect.desc,"Розмістіть стаціонарне поле відбиття, що відбиває сфери. Сфери трохи підсилюються при відбитті."
+options.keybindings.action.keeper,Вартівник
+upgrades.drillbotbuffstrength1.desc,"Наївшись цих смаколиків, Свердлик копатиме довше."
+upgrades.versussendiron.desc,"Доставка заліза в Гільдію Вартівників: відправте все доступне залізо, щоб ваша команда перемогла суперника."
+upgrades.keeper2pinballmorespheres1.desc,"Збільшує кількість сфер, які ви можете накопичити."
+properties.rocketlauncher.rechargetime,Час відновлення {}с
+upgrades.domesupplementadditionalcellar.title,Глибокий льох
+upgrades.blastminingstickycharge.title,Чіпкі направлені заряди
+level.tutorial.assessor.explode.desc1,"Натисніть |, щоб детонувати всі сфери поблизу."
+upgrades.furnacestrongironfiring.title,Покращене залізне паливо
+assignment.monstermasses.title,Маси монстрів
+options.input.gamepad.gamepadstickdeadzone.switch,Мертва зона джойстику
+properties.stunlaser.areastunstrength,Ефективність приголомшення в області {.percent}
+upgrades.dome1health2.desc,Назавжди збільшує структурну міцність купола.
+upgrades.probepermanentrevealresources.title,Виявлення ресурсів
+upgrades.swordfastreflection.desc,Відбиті снаряди летять назад швидше.
+properties.autocannon.shotgun,Куль за постріл {}
+loadout.difficulty.medium,Брутальна
+multiplayer.join.joincodeinput,Введіть код підключення
+properties.keeper4.maxspeedupatpunches,Найбільша швидкість після {} уд.
+properties.monstermodifiers.health,Здоров'я монстрів {.percent}
+loadout.versusmod.versusmodifierfastmonsters,Швидкі монстри
+upgrades.shieldoverchargestrength1.desc,"Збільшує кількість ушкоджень, яку здатний поглинути підживлений бар’єр."
+properties.probe.charges,Заряди {}
+reward.rewardthreechoicessupplement.title,Потрійні пропозиції доповнення
+upgrades.domesupplementscraprepair1.desc,"Ремонтуйте ваш купол грубим способом, використовуючи залізо. Зменшує загальну структурну цілісність."
+level.tutorial.tesla.panel1content1,"Пересувайте приціл по екрану, щоб наводитись."
+upgrades.shockwavebig.desc,"Ударна хвиля завдає величезну шкоду, якої достатньо для знищення навіть деяких сильніших монстрів."
+multiplayer.continue.allowmultiplayererror,"Ви не можете продовжити онлайн-гру, тому що в налаштуваннях вимкнено опцію «Увімкнути онлайн-мультиплеєр»."
+loadout.hint.multiplayer.playerminimum,"Щоб почати багатокористувацьку гру (забіг), потрібно щонайменше два гравці."
+upgrades.artillerymachinegunhoming2.title,Самонавідні ракети 2
+upgrades.repellentbattleslowdownstun2.title,Сильний параліч
+upgrades.shockwave.abilityname,Ударна хвиля
+upgrades.jetpackspeed1.title,Швидкість 1
+upgrades.teleporterteleportduration1.title,Швидкість телепортації
+upgrades.autocannonrateoffire3.title,Кулемет 3
+properties.monstermodifiers.totalrunweightmodifier,Множник потужності хвилі {.percent}
+upgrades.swordstabfast1.title,Швидкий укол 1
+upgrades.swordstabfast3.title,Швидкий укол 3
+properties.tesla.quickshotstrength,Сила швидкого пострілу {.percent}
+upgrades.keeper2pinballdamage3.desc,Дедалі підсилює кінетичні сфери коштом додаткового збільшення часу їх перезаряджання.
+title.navbar.options,Налаштування
+upgrades.domearmormelee2.desc,Зменшує отриману куполом шкоду від атак ближнього бою.
+upgrades.shieldbattleelectroblast.title,Електричний розряд
+properties.spire.stuntrapradius,Радіус {}
+options.audio.volumes.ambiencevolume,Оточення
+loadout.mode.drillbert.desc,"Почніть зі Свердликом та Вибухівкою, але ви не можете покращити гірничі здібності вартівника. Кількості Свердликів немає ліміту!"
+loadout.versus.team.closed,закрита
+properties.keeper4.goblinnapduration,Тривалість сну котоґоблінів {} с
+properties.keeper2.reflectnexthitdamage,Додаткова шкода при наступному ударі {.percent}
+upgrades.orchardbattlerootingmore.title,Сильне коріння
+multiplayer.error.connection,Не вдалося під'єднатися.
+keeperdlc.load.missing.ps5,"Неможливо завантажити доповнення — файл містить контент недоступного доповнення. Переконайтеся, що доповнення 'The Lost Keepers' доступне."
+level.tutorial.fruit.popup_2.switch,"Натисніть | поруч із фруктом, щоб з’їсти його."
+loadout.versusmod.versusmodifierlittlecobalt,Нестача кобальту
+reward.rewardpet12.desc,Розблокуй пса як домашнього улюбленця свого купола.
+multiplayer.host.joincodelabel,Код підключення
+upgrades.swordstabfast2.desc,Дедалі збільшує швидкість і частоту колючих атак.
+properties.dome.incomingdamagemodifier,Отримувана шкода {.percent}
+properties.sword.stabexplosivedamage,Ушкодження бомбою {}
+properties.blastmining.bombs,Вибухові заряди {}
+properties.resourcepacker.charges,Зарядів {}
+upgrades.assignmentsemergencycontribution1.desc,"Надішли цей пакунок до 2-го раунду, інакше завдання буде провалено."
+properties.artillery.machinegunbarrels,Протиповітряні гармати {}
+properties.artillery.gunaimline,Лазерний приціл
+upgrades.jetpackstrength4.desc,"Збільшує вантажність реактивного ранця, щоб переносити більше ресурсів."
+loadout.mode.nomonsters.desc,Приземліться у світі без жодних монстрів.
+telemetry.eula,Читати EULA
+upgrades.condenserspeed1.title,Швидке виробництво 1
+upgrades.mushroomstack.desc,"Складає час ефектів від грибів, даючи можливість отримати дуже довге підсилення поглинувши велику кількість грибів."
+upgrades.keeper2pinballexplode2.desc,Збільшує радіус вибуху від сфер.
+versus.message.disruption,Інша команда щойно назавжди посилила ваші хвилі монстрів.
+loadout.mode.strongmonsters.desc,Монстри завдаватимуть подвійної шкоди.
+upgrades.tesla.desc,"Покажіть диво електрики всьому, що б там не було. Бажано прямо в обличчя. Не без кілька тисяч вольтів."
+properties.drillbot.turnaround,Розвертається перед твердою стіною
+upgrades.keeper2movement3.desc,"Вдосконалює ваш гравітаційний генератор, для найшвидшого пересування."
+level.tutorial.onewayteleporter2,"Натисніть|, щоб розмістити портал. Натисніть знову, щоб телепортуватися до нього."
+upgrades.domearmormelee2.title,Броня для ближнього бою 2
+upgrades.drillbotbuffstrength2.title,Домішка таурину
+level.tutorial.onewayteleporter3,Він перезаряджається автоматично.
+upgrades.keeper4extraresource.desc,"Копаючи обрежено, котоґобліни можуть іноді збирати додаткові ресурси із сегмента."
+upgrades.drillbotduo.desc,"Залучіть двоюрідних брата та сестру Свердлика, Копалика та Шахтарину, щоб допомогли у шахтарстві. Перебуваючи в затишній компанії, вони не будуть жахатися від атак монстрів і продовжуватимуть копати."
+properties.tesla.perfecttimingwindow,Часовий проміжок {}s
+loadout.mode.strongmonsters,Важковаговики
+pause.quittotitlescreen,Вийти до головного меню
+properties.keeper2.explodespheresradius,Радіус вибуху (клітинок) {}
+telemetry.privacy,"Більше інформації про наші методи обробки даних можна знайти в нашій політиці конфіденційності
+http://rawfury.com/privacy-policy/"
+upgrades.rocketlauncherdamage1.desc,Ракети стають більш летальними.
+keybindings.reset.doreset,Скинути прив'язку клавіш
+upgrades.keeper3carrylimit3.desc,"Збільшує кількість ресурсів, які можна тягнути на носії кунаїв."
+upgrades.autocannondoublefirerate.desc,Автогармата стріляє значно швидше. Просто та ефективно.
+upgrades.autocannon.title,Автогармата
+upgrades.artillerymachinegunhoming1.title,Самонавідні ракети 1
+level.tutorial.assessor.carry.desc1_1.switch,"Коли вони прикріплені до вас вони будуть слідувати за вами, навіть якщо ви відпустите клавішу притягування."
+upgrades.swordlongblade1.desc,Встановлює довше і спритніше лезо.
+loadout.team.players,Гравці
+level.tutorial.fullscreen.back,Назад
+options.keybindings.action.keeper.rope,Кинути мотузку
+upgrades.mushroomfarm.title,Грибна ферма
+loadout.prestige.title,Оберіть режим
+upgrades.prospectionmeterrange1.title,Радіус 1
+upgrades.keeper3doublejump.title,Подвійний стрибок
+upgrades.keeper3kunaibounce1.desc,"Показує прогнозовану траєкторію відскоків і точку влучання куная. Кожен відскок резонує в камені, підсвічуючи сусідні сегменти."
+upgrades.repellentbattlelongerhealthreduction.title,Тяжке ослаблення
+loadout.versusmod.versusmodifierlittlewater,Нестача води
+upgrades.mushroomfarmdrill1.title,Грибне гірництво 1
+loadout.versusmod.versusmodifierscatterediron,Розсіяні залізні жили
+level.converter.popup.conversion.convert,конвертувати
+properties.droneyard.overchargebattledronecount,Додаткові бойові дрони {.percent}
+reward.rewardfreerolls1.desc,Одна безкоштовна заміна асортименту ґаджетів чи доповнень на забіг.
+multiplayer.host.splitscreen,Увімкнути локальну гру з розділеним екраном
+properties.converter.cobalttoiron,1 кобальт на {} заліза
+loadout.mode.automateddefense,Автоматичний захист
+options.input.gamepad.gamepadstickdeadzone.xbox,Мертва зона джойстику
+level.converter.popup.explanation,"Щоб почати, оберіть конвертацію ресурсів!"
+upgrades.dome1health2.title,Міцність 2
+upgrades.stunlaserduration3.desc,Шоковий лазер перезаряджатиметься надзвичайно швидко та стрілятимете значно довше.
+upgrades.assignmentsemergencycontribution5.desc,"Надішли цей пакунок до 16-го раунду, інакше завдання буде провалено."
+pause.gamepadcontrols.use,Використати
+properties.spire.stunmonsters,Приголомшення монстрів
+upgrades.assignmentssendcobalt.desc,Відправити кобальт до Гільдії Вартівників. Для успішного завершення завдання необхідно виконати усі доступні відправлення.
+upgrades.mushroomfarmspeed1.desc,Збільшує бонус до швидкості руху від поглинання грибів.
+upgrades.keeper2pinballmorespheres1.title,Запас сфер
+upgrades.rocketlauncherrockets2.desc,"Збільшує кількість ракет, яку ви можете вистрелити."
+options.keybindings.gamepad.xbox.menu.xbox,Кнопка меню
+upgrades.swordstabfast3.desc,Дедалі збільшує швидкість і частоту колючих атак.
+properties.shield.overchargestrength,Підживлена міцність {}од.
+upgrades.droneyarddronespeed1.desc,Підвищує швидкість руху транспортних дронів.
+upgrades.liftorbs.title,Додаткові Сфери
+properties.keeper3.carrylimit,Місткість носія кунаїв {}
+options.video.graphicsmode.photosensitive,Режим світлочутливості
+upgrades.keeper2pinballdamage1.title,Кінетичні сфери 1
+reward.rewardkeeper3skin1.title,Скін Інфільтратора
+level.tutorial.ninja.gadgetpickup.desc1,Ґаджети не підбираються автоматично.
+properties.converter.ironperwater,{} заліза на воду
+properties.spire.capacity,Пострілів до перезаряджання {}
+level.tutorial.ninja.gadgetpickup.desc2,"Утримуйте|, щоб підібрати ґаджет."
+loadout.versusmod.versusmodifierlittlewater.desc,На карті вкрай мало жил води.
+upgrades.drillbotstrength3.desc,Збільшує копальну силу Свердлика.
+upgrades.spirestuntrap3.title,Пастка для монстрів
+upgrades.shredgadgettocobalt.desc,"Знищує ґаджет, щоб добути {amount} од. кобальту."
+upgrades.converterefficientcobalt.title,Економне перетворення кобальту
+options.input.vibration.strength.switch,Сила вібрації
+properties.sword.reflectprojectiles,Відбиття енергетичних снарядів
+reward.rewardfreerolls2.desc,Одна додаткова безкоштовна заміна асортименту ґаджетів чи доповнень на забіг.
+level.tutorial.station.popup_2.switch,"Підійдіть до станції та натисніть |, щоб увійти."
+upgrades.versus.desc,Два куполи. Дві команди. Один переможець.
+upgrades.dome2.desc,"Експериментальний купол обладнаний потужним мечем, який вимагає майстерності, проте спроможен легко протистояти найсильнішим нападникам."
+upgrades.drillmagnetic.desc,"Насадки центральних бурів стають магнетичними, що сприяє затриманню усіх видобутих ресурсів на місці."
+assignment.harmfuliron.title,Небезпечне залізо
+level.tutorial.sworddome.stabbing,Колоти
+options.input.gamepad.icons,Іконки
+upgrades.shredgadgettoiron.desc,"Знищує ґаджет, щоб добути {amount} од. заліза."
+upgrades.assignmentsemergencycontribution6.desc,"Надішли цей пакунок до 20-го раунду, інакше завдання буде провалено."
+properties.droneyard.battledroneshots,Пострілів на дрон {}
+level.gameover.lose.title,КУПОЛ ВТРАЧЕНО
+loadout.difficulty.title,Складність
+properties.artillery.maxrotation,Максимальний поворот {}°
+upgrades.shockwavestun2.desc,Збільшує приголомшливі здатності ударної хвилі.
+unlock.host.locked,На хості немає DLC «%s».
+multiplayer.host.splitscreen.desc,"Використовуйте геймпади на екрані спорядження, щоб додати додаткових вартівників. На одному екрані можуть грати до чотирьох вартівників. Режим розділеного екрана можливий під час гри через локальну мережу й в онлайн-мультиплеєрі."
+telemetry.explanation,"Щоб грати в онлайн-мультиплеєрі, під’єднайтеся до нашого сервісу — знаходьте інших гравців і приєднуйтеся до їхніх сесій або створюйте власні.
+Це необов’язково: ви можете вмикати або вимикати цю функцію за власним бажанням. Повторне підключення до сервера — навіть з анонімним обліковим записом — підпадає під вимоги GDPR.
+Ми не збираємо ваші персональні дані й не відстежуємо телеметрію ваших ігрових сесій.
+Якщо онлайн-мультиплеєр вимкнено, ви все одно можете грати в багатокористувацькому режимі на одному пристрої з розділеним екраном або через локальну мережу."
+gadget.slot.supplement,Доповнення
+upgrades.droneyardovercharge2.desc,Підживлення фабрики дронів робить їх сильнішими.
+level.furnace.popup.fuel.burn,Кожна одиниця|триває {cycles} цикла(ів) та затримує монстрів на додаткові {seconds} секунд(и).
+options.input.controls.nooptions,Для цього вартівника немає окремих налаштувань %s.
+upgrades.versusshowinventory.desc,Дає змогу бачити інвентар команди суперників під час спостереження за їхнім куполом.
+properties.keeper1.drillstrength,Сила свердла {}
+upgrades.keeper1.desc,Досвідчений професіонал з першокласними шахтарськими навичками.
+leaderboard.friends,Друзі
+gadget.slot.activegadget,Другорядна бойова здібність
+upgrades.keeper2.desc,"Витончений шахтар, що використовує експериментальну кінетичну енергію та гравітаційні технології."
+upgrades.keeper2pinballsplit2.title,Покращене розділення
+upgrades.keeper2movement1.title,Гравітаційний рух 1
+upgrades.keeper2pinballexplode.title,Вибухові сфери
+upgrades.keeper3kunaidamage4.desc,Збільшує потужність видобутку кунаїв. Вони особливо неефективні проти твердої породи.
+upgrades.spireautonomy1.desc,Простий штучний інтелект керуватиме шпилем за вашої відсутності.
+properties.droneyard.dronespeed,Швидкість руху дронів {}
+upgrades.teslaquickshot.title,Швидкий постріл
+assignment.megacreeps.title,Природний відбір
+upgrades.shieldbattleactivateondepletion.title,Активація після вичерпання
+versus.corruptionbigwave.title,Убивча хвиля
+upgrades.lasermove3.title,Швидкість руху 3
+upgrades.swordelectrified.title,Електризоване лезо
+upgrades.artillerymachinegun1.title,Покращена протиповітряна гармата
+level.tutorial.beastmaster.move.desc2,"Ви можете рухатися, лише якщо є за що вхопитися."
+options.accessibility.fontsize.small,Маленька
+assignment.unpredictable.desc,"Атмосфера планети створює перешкоди для датчика наближення купола, запобігаючи відстеженню ворожих хвиль."
+level.tutorial.beastmaster.move.desc1,"Використовуй щупальця, щоб пересуватися стінами шахти."
+upgrades.suitblasterdirectional.desc,"Під час руху, костюмний бластер вибухатиме, роблячи довгі тунелі. Радіальні вибухи досі можуть бути ініційовані, використовуючи костюмний бластер не рухаючись."
+level.tutorial.teleporter.take1,Телепорт має станцію та портал. Ти можеш телепортуватися між ними.
+options.audio.music.ost.mode.fixed.desc,"Завжди відтворюватиметься визначений музикальний супровід, незалежно від обраного вартівника."
+level.tutorial.teleporter.take2,Візьми портал і розмісти його в зручному місці.
+level.gameover.assignment.failed,Завдання Гільдії Вартівників провалено.
+telemetry.manage,Вимкнути онлайн-сервіси
+modding.restart,Перезапустити
+upgrades.orchardbattlerootingexplosion.title,Вибухова здобич
+level.gameover.unlock.skin,Новий костюм розброловано!
+upgrades.jetpackspeed3.desc,"Покращує реактивний ранець, для швидшого пересування."
+upgrades.repellentoverchargeduration2.title,Інтенсивне підживлення
+upgrades.prospectionmeterwater1.desc,Показує відстань до найближчих покладів води.
+loadout.prestige.miner.description,Сконцентруйтеся на найефективнішому видобутку у світі без монстрів. Триває 20 циклів.
+upgrades.shieldbattlereflect.desc,"Активна бойова здібність, яка протягом короткого часу відбиває снаряди."
+upgrades.stunlaserstun1.desc,Збільшує силу приголомшення променя.
+multiplayer.error.gameresolved,Цей матч уже завершено.
+upgrades.shieldbattlereflect.title,Відбиття
+options.audio.volumes.mastervolume,Загальна
+upgrades.keeper2pinballdamage4.title,Кінетичні сфери 4
+leaderboard.loading,Завантаження...
+upgrades.droneyardparasites2.title,Паразитичні дрони 2
+playerlist.title,Список гравців
+upgrades.versusincreasewave2.desc,Назавжди підсилює хвилі монстрів для команди суперників.
+upgrades.rocketlauncher.title,Ракетна установка
+upgrades.liftspeed1.title,Швидкість
+upgrades.rocketlauncherrockets2.title,Загачування 2
+level.tutorial.blastmining.popup_1,"Візьміть вибуховий заряд і покладіть туди, де потрібно розчистити породу."
+upgrades.keeper3slidecontrol.title,Контроль ковзання
+properties.furnace.wavedelay,Базова затримка {}с
+upgrades.mushroomfarmspeed2.desc,Збільшує бонус до швидкості руху від поглинання грибів.
+upgrades.dome3.title,Артилерійський купол
+properties.converter.ironirontime,Час перетворення заліза на залізо (циклів) {}
+properties.laser.movespeed,Швидкість руху {}
+properties.stunlaser.damagepermonster,Шкода в області за монстра {}шзс
+upgrades.stunlaser.title,Шоковий лазер
+title.navbar.credits,Автори
+upgrades.drillbotbuffstrength1.title,Поживні смаколики
+level.tutorial.pickup.popup_1,"Натисніть |, щоб підняти один ресурс."
+level.tutorial.pickup.popup_3,"Затисніть, щоб підняти кілька."
+upgrades.blastminingtriple.title,Потрійні заряди
+upgrades.prospectionmeterscandelay1.desc,Збільшує швидкість оновлення дисплея.
+upgrades.furnacelastingwaterfiring.desc,Збільшує тривалість згоряння кожної одиниці води в вагранці.
+upgrades.versusincreasewave2.title,Саботаж 2
+upgrades.artillerymachinegun4.desc,Встановлює кулеметні стволи здатні витримувати екстремальні швидкості стрільби.
+upgrades.teslaspeed4.title,Швидкість прицілу 4
+upgrades.swordextendlong3.desc,Величезна сила та тривалість уколу.
+demo.end.title,Дякуємо за гру в демоверсію!
+upgrades.stationextensiontubemovement.title,Подорож вакуумною трубкою
+upgrades.keeper4squad3.title,Масивний загін
+upgrades.orchardbattleshield.desc,"Вирощує полог лози на вашому куполі, який захищає його від снарядів."
+properties.droneyard.battledronestrength,Паразитичний ефект {.percent}
+options.game.kunaicarriersnapping,Прив’язка напрямку носія кунаїв до сторін світу
+options.input.vibration.strength.xbox,Сила вібрації
+upgrades.keeper2pinballspherelifetime.title,Час життя сфер
+upgrades.furnace.title,Вагранка
+upgrades.shockwavedamage1.title,Ударна сила 1
+properties.mushroomfarm.drillbuff,Бонус до сили копання {}
+level.tutorial.station.popup_4,"Тоді натисніть |, щоб перейти в режим бою і почати оборонятися."
+level.tutorial.teleporter_2,Можна переміщуватися з телепортаційної станції до порталу і назад.
+level.tutorial.station.popup_2,"Підійдіть до станції і натисніть |, щоб увійти."
+pause.resumegame,Продовжити гру
+options.input.controls.touch,Дотик
+level.tutorial.station.popup_1,Купол атаковано!
+multiplayer.error.kicked,Виключили з багатокористувацької сесії.
+telemetry.allow.ps5,Прийняти EULA
+landing.proceed.switch,"Натисніть будь-яку кнопку, щоб продовжити"
+upgrades.condenserautoovercharge.title,Автоматичне підживлення
+upgrades.keeper2pinballdestroyadjacenttiles.title,Каскадний удар
+level.converter.popup.queue,Автоматичне повторення конвертації
+options.keybindings.cancel,Скасувати
+loadout.versus.condition.deathmatch.title,Останній уцілілий купол
+upgrades.domearmorprojectile1.desc,Зменшує отриману куполом шкоду від снарядів.
+options.keybindings.action.general.move,Рух
+upgrades.keeper3kunaicooldown2.title,Стрімкий кидок
+upgrades.artilleryrotation2.title,Швидке обертання
+loadout.gadget.additional.desc,Оберіть додатковий ґаджет!
+level.gameover.unlock.assignment,Завдання розблоковано!
+upgrades.domesupplementprojectiledamagereduction1.desc,"Покращує відбивні здібності корпуса купола, зменшуючи вхідну шкоду від снарядів. Шкода від атак ближнього бою залишається незмінною."
+upgrades.blastminingproductiontime1.desc,"Скорочує час, необхідний для виробництва вибухових зарядів."
+upgrades.autocannonshotgun1.title,Дробовик 1
+loadout.hint.loadout,Завершіть набір свого спорядження!
+assignment.condition.deliveriron,Доставити %d заліза
+upgrades.drillbotduo.title,Відважні Друзі
+level.tutorial.assessor.carry.desc1_1.xbox,"Коли вони прикріплені до вас вони будуть слідувати за вами, навіть якщо ви відпустите клавішу притягування."
+multiplayer.error.nomods,Установлення модів заборонено.
+options.input.controls.keybindings.switch,Скидання клавіш
+upgrades.domearmorprojectile2.title,Броня від снарядів 2
+options.input.gamepad.gamepadstickdeadzone.text.xbox,"Встановіть значення, за якого індикатор не блиматиме, коли ви лише торкаєтеся джойстиків, не натискаючи на них.
+Якщо ви натискаєте на джойстик, індикатор має блимати під час рухання джойстиком."
+upgrades.domesupplementcombatrepair2.title,Ретельний бойовий ремонт
+level.gadgetchoice.title,ОБЕРІТЬ ҐАДЖЕТ!
+properties.teleporter.slowdown,Вантажне сповільнення {.percent}
+upgrades.teslaspeed1.title,Швидкість прицілу 1
+assignment.weapondefect.title,Несправна зброя
+properties.suitblaster.directionalexplosions,Спрямований вибух
+options.translation.community.title,Переклади спільноти
+options.audio.music.ost.mode,Налаштування музики
+upgrades.teleporterteleportresourcesback.title,Телепортація ресурсів
+upgrades.orchardbattleshield.title,Лозовий полог
+properties.drill.sides,Бічних бурильників {}
+upgrades.teslaorbstun.desc,Електричні сфери спричиняють значно вагоміше оглушення.
+upgrades.repellentoverchargeduration2.desc,Збільшує вплив підживлення на бойові здібності.
+properties.keeper2.totalspheres,Сфер {}
+options.keybindings.action.general.up,Угору
+pause.quit.popup,"Точно хочете вийти?
+Натисніть знову, щоб підтвердити.
+(ваш прогрес збережено)"
+upgrades.drillbotduplicate.desc,У Свердлика з’явиться близнюк Свердлюк.
+properties.suitblaster.radius,Радіус вибуху (клітинок) {}
+assignment.bigmapsparseresources.title,Неродючі землі
+upgrades.converterqueue.title,Автоматизоване перетворення
+multiplayer.error.otherprestigeplayerquit,"Гра завершилася, оскільки ваш напарник вийшов із гри. Прогрес збережено. Щоб продовжити гру, виберіть «Багатокористувацька гра» в меню «Продовжити»."
+level.tutorial.teleporter.teleport1,"Біля порталу натисни |, щоб телепортуватися назад."
+level.tutorial.teleporter.teleport2,Також можна телепортуватись в іншому напрямку.
+playerlist.report,Скарга
+upgrades.swordextendlong1.title,Довгий укол 1
+upgrades.spiresplit3.desc,Снаряді від розчеплення можуть летіти під будь-яким кутом.
+upgrades.keeper3kunaicooldown3.desc,Кунаї можуть летіти значно швидше.
+exhibition.title.press.anything,"Натисніть будь-яку кнопку, щоб грати"
+multiplayer.techtree.keeperexclusivesupplement,Це доповнення впливає лише на твого вартівника.
+options.input.gamepad.twinstick.ps5,Керування двома стиками
+reward.rewarddomesupplements.title,Доповнення купола
+loadout.mode.maze,Лабіринт
+upgrades.teleporter.title,Телепорт
+properties.keeper4.holesquad,Розмір загону шахтарів {}
+level.tutorial.fruit.popup_1,У вашому саду виріс перший фрукт.
+upgrades.teslatiming1.desc,"Спричиняйте набагато потужніший постріл, стріляючи саме в момент перезарядження тесли."
+upgrades.converterefficientwaterlong.title,Інтенсивна процедура
+level.tutorial.fruit.popup_2,"Біля нього натисніть |, щоб спожити."
+unlock.buy.keeperdlc.xbox,Доступно в доповненні «%s».
+upgrades.autocannonspeed1.desc,Змащує шестерні гармати для значного збільшення швидкості руху.
+upgrades.probepermanentrevealresources.desc,"Знайдені ресурси назавжди залишаються виявленими, замість того щоб бути поміченими маркером."
+properties.teleporter.teleportresourcescooldown,Перезаряджання після телепортації ресурсів {}с
+upgrades.spire.desc,"Захисний Шпиль, що збиває снаряди, що летять в купол."
+reward.rewardkeepersupplements.title,Доповнення вартівника
+upgrades.condenser.desc,"Споруджує під куполом апарат, який повільно виробляє воду шляхом конденсації пари з повітря."
+upgrades.spiresplit3.title,Наземне розчеплення
+properties.drillbot.plantgrowthtime,Час зростання дерева (циклів) {}
+modding.modio.showdownloaded,Показати завантажені моди
+upgrades.stunlaserspeed1.title,Швидкість 1
+upgrades.resourcepackercharges.title,Заряди
+upgrades.swordblade1.title,Заточене лезо
+loadout.versus.modifiers.desc,"Виберіть модифікатори для цього забігу — вони вплинуть як на вашу команду, так і на команду суперника. Використання модифікаторів не є обов'язковим."
+options.keybindings.gamepad.xbox.view,Назад
+options.accessibility.backgrounds.explanation,"Замінює тло в усіх світах єдиним яскравим коліром, зменшуючи візуальний шум під час битви."
+upgrades.dome1health1.title,Міцність 1
+loadout.prestige.pro.randomorder,Випадковий порядок
+assignment.superhardrockwithholes.desc,"Кам'яна порода надзвичайно щільна, але пронизана натуральними печерами."
+upgrades.droneyardparasites.title,Паразитичні Дрони
+actionhint.hold,Утримання
+properties.spire.timebetweenshots,Затримка перенаведення {}с
+properties.game.cyclespeed,Швидкість циклу {.percent}
+upgrades.artillerydirecthit3.title,Винищувач 3
+loadout.mode.drillbert,Свердликовий режим
+upgrades.prestigecobalt.title,Відправити кобальт
+upgrades.rocketlauncher.desc,Випускає на монстрів ракети із пошуком цілі. Необхідно запускати власноруч.
+level.station.battle.navbar.exit,Вийти
+options.game.events.enableseasonal,Сезонний контент
+options.audio.music.ost.mode.fixed,Фіксована
+assignment.ironcontribution.desc,"Гільдія термінового потребує залізо та вимагає від вас, щоб ви швидкого доставили його велику кількість."
+properties.rocketlauncher.damageperrocket,Ушкодження {}
+upgrades.keeper4.title,Приборкувач
+upgrades.laserbend.title,Лазерний регулятор
+unlock.host.locked.switch,На хості немає доповнення «%s».
+level.supplementchoice.reroll.free, (%s) заміни
+loadout.versusmod.versusmodifierconcentratediron,Щільні жили заліза
+options.keybindings.rebinding.apply,Застосувати
+properties.repellent.battledamageovertime,Чудовиська зазнають {} ушк. на секунду
+upgrades.repellentdelay1.title,Затримка 1
+upgrades.converterefficientwatershort.desc,Значно пришвидшує процес конвертації води.
+upgrades.domesupplementcombatrepair1.title,Бойовий ремонт 1
+level.tutorial.sworddome.slicing,Рубати
+properties.drillbot.scared,Боязкий до монстрів
+title.navbar.updates.close,Закрити
+upgrades.condenserspeed2.desc,Ще більше зменшує час на конденсацію однієї порції води.
+upgrades.prospectionmeteriron2.desc,Показує напрям до найближчих покладів заліза.
+upgrades.keeper3carrylimit2.title,Місткість інвентарю 2
+loadout.versus.condition.irondelivery.desc,"Перемагає команда, яка першою доставить стільки заліза: %s."
+properties.mushroomfarm.speedbuffduration,Тривалість бонусу до швидкості руху {}с
+upgrades.keeper4punch1.desc,"Щупальце під час видобутку поступово нарощує величезну силу, але зміна напрямку скидає цей процес."
+exhibition.level.heading,Ви ще тут?
+keeperdlc.load.missing.xbox,"Неможливо завантажити доповнення — файл містить контент недоступного доповнення. Переконайтеся, що доповнення 'The Lost Keepers' доступне."
+upgrades.domesupplementresurrection2.desc,Отримайте ще одне відновлення.
+actionhint.release,Випустити
+level.gameover.stats.monsterskilled,Чудовиськ убито
+level.gameover.timelapse,Прискорений запис
+upgrades.drill4.desc,"Підсилює свердло, збільшуючи швидкість копання."
+upgrades.prospectionmetersand1.desc,Показує відстань до найближчих покладів кобальту.
+assignment.instagip.desc,Монстри на цій планеті неприродно брутальні. Їхні атаки завдають нищівної шкоди твоєму куполу.
+landing.proceed.xbox,"Натисніть будь-яку кнопку, щоб продовжити"
+upgrades.drillsides.desc,"Додає бічний бурильник до центрального буру, який, за потреби, можна переміщувати."
+properties.dome.meleedamagereduction,Зменшення рукопашних ушкоджень {.percent}
+options.keybindings.action.keeper.throw,Кинути кунай
+upgrades.artillerymachinegun4.title,Кулемет
+upgrades.teleporterlightweight.desc,Перенесення порталу буде вас ледве уповільнювати.
+level.gameover.backtomainmenu,Назад до головного меню
+properties.sword.stabarrowhead,Збільшення вістря
+loadout.versus.team.open,відкрита
+level.gameover.stats.mapsize,Розмір мапи
+upgrades.domesupplementelectrifiedsurface2.desc,"Збільшує зазнані монстрами пошкодження, які атакують купол зблизька."
+upgrades.prestigecobalt.desc,"Відправити кобальт. Збільшує кількість очок престижу, які ви отримуєте щохвилі."
+options.video.renderscale.reset,Скинути
+options.keybindings.text.xbox,"Налаштуйте керування на свій смак.
+Клавіші з різних секцій зазвичай можуть збігатися й функціонувати без помилок (наприклад, якщо використовувати однакові клавіші для руху вартівника та зброї купола.)"
+options.audio.music.frequency,Періодичність (циклів без музики)
+upgrades.rocketlauncherrockets3.desc,"Збільшує кількість ракет, яку ви можете вистрелити."
+options.input.controls.mouse.menus,Використовувати мишу в меню
+upgrades.artillerysplash4.title,Четверний снаряд
+upgrades.keeper4catgoblindig3.title,Шалене копання
+properties.keeper4.catgoblincount,Кількість котоґоблінів {}
+loadout.mode.hud.desc,Ви починаєте з повністю покращеним інтерфейсом.
+upgrades.drillbotsleepless.title,Просте тренування
+assignment.maze.desc,"Ця планета має мапу, схожу на лабіринт, повну коридорів та нерівномірних структур."
+level.tutorial.drop.popup_2.switch,"Натисніть |, щоб скинути один. Затисніть, що скинути кілька."
+upgrades.artillerysplash2.title,Подвійний снаряд
+loadout.select,Обрати
+level.gameover.prestige.uploading.failed,"завантаження невдале, спробуйте ще раз"
+level.assignment.badges.available,Доступно емблем: %d
+level.tutorial.beastmaster.goblins,Котоґобліни
+properties.autocannon.spray,Розкид куль {.percent}
+upgrades.versusspycam.title,Шпигунська камера
+upgrades.shredgadgettoiron.title,Подрібнення на залізо
+upgrades.teslapersistance3.desc,Збільшує розміри та час життя електричних сфер.
+upgrades.suitblasterspeed2.title,Швидкість заряду 2
+properties.shield.battleuses,Застосувань на бій {}
+properties.prospectionmeter.range,Дальність (клітинок) {}
+upgrades.droneyard.desc,"Встановлює фабрику з виробництва дронів, які використовуються у транспортуванні ресурсів та битві."
+upgrades.domearmorpulse.title,Реактивне пульсування
+title.navbar.multiplayer.host,Створити багатокористувацьку гру
+upgrades.spireburst.desc,"Стріляє короткими чергами, добре справляється із залпами."
+upgrades.domearmor.desc,"Встановлює надійне покриття на ваш купол, роблячи його стійкішим."
+options.input.controls.mouse.gamepad.xbox,Перемикання і назад відбувається автоматично
+unlock.difficulty.hard,"Успішно завершіть гру на брутальній складності, щоб розблокувати."
+versus.corruptionmonsterhealth.title,Монстри з підвищеним рівнем здоров’я
+properties.probe.markerretention,Утримання позначок {}с
+loadout.hint.gamemodecompletion,Налаштуйте ваш режим гри!
+upgrades.suitblasterdirectional.title,Спрямований заряд
+options.keybindings.rebinding.cancel,Скасувати
+unlock.host.locked.xbox,На хості немає доповнення «%s».
+loadout.versusmod.versusmodifiernorelics,Без реліквій
+upgrades.autocannondoublefirerate.title,Швидкострільна гармата
+upgrades.blastmining.desc,"Виробляє вибухові заряди для швидкого точкового копання. Віднесіть їх в шахту та киньте, щоб здетонувати."
+upgrades.converterqueue.desc,"По завершенню перетворення, створені ресурси буде автоматично вийнято і, якщо в інвентарі достатньо для цього ресурсів, одразу розпочнеться нове, таке ж саме перетворення."
+modding.modio.fetchsubscriptionsfailed,Не вдалося отримати підписки mod.io!
+upgrades.orchardbattleshieldsecondlayer.desc,Вирощує додатковий шар лозового пологу.
+unlock.generic,"Успішно завершіть гру, щоб розблокувати."
+loadout.versusmod.versusmodifiersoftrock.desc,На карті більше м'якої породи.
+upgrades.assignments.desc,Виконайте складне завдання від Гільдії Вартівників та доведіть вашу компетентність.
+properties.probe.autorecharge,Автоматичне перезаряджання
+assignment.instagip.title,Брутальні монстри
+upgrades.artillerysplash3.desc,Збільшує радіус вибуху снарядів міномета до величезного.
+multiplayer.join.joinfromcode,Приєднатися
+pause.gamepadcontrols.move,Рух
+upgrades.condenserautoovercharge.desc,Забезпечує постійне підживлення основного пристрою без витрат води. Після підживлення виробництво води конденсатором розпочнеться із затримкою.
+multiplayer.continue.deviceselection.title,Оберіть свого вартівника!
+upgrades.autocannonautonomy.desc,Автогармата активується навіть коли ви не керуєте куполом.
+properties.laser.aimline,Приціл
+multiplayer.join.button,приєднатися
+properties.artillery.rotationspeedwhilemachinegun,Швидкість повертання під час стрільби {.percent}
+level.tutorial.artillery.panel2header,Протиповітряний кулемет
+level.gameover.keepgadget.title,"Оберіть, який ґаджет зберегти для наступного забігу"
+upgrades.domearmorprojectile2.desc,Зменшує отриману куполом шкоду від снарядів.
+upgrades.shieldbattledestructionprevention.title,Останній бій
+upgrades.domeresourcecounters.desc,Показує поточну кількість накопичених ресурсів та автоматично лагодить купол під час бою використовуючи накопичений кобальт.
+upgrades.spirestuntrap1.title,Енергетична пастка
+upgrades.prospectionmeteriron2.title,Компас заліза
+loadout.mode.hyperactive,Прудкі та слабкі
+upgrades.prospectionmeterwater2.desc,Показує напрям до найближчих покладів води.
+options.video.stretchmode,Режим розтягнення
+level.gameover.prestige.title,ЗАБІГ ПРЕСТИЖУ ЗАВЕРШЕНО
+upgrades.droneyardovercharge1.title,Підживлення Фабрики Дронів
+level.station.navbar.exit,Вийти
+upgrades.teslaorbdamage.title,Надпровідність
+upgrades.proberechargeafterbattle.title,Зонд без станції
+upgrades.assignmentssendwater.title,Відправлення води
+upgrades.probecharges.title,Заряди зонда
+pause.gamepadcontrols.pickup,Взяти
+upgrades.prospectionmeter.title,Металошукач
+upgrades.condenserspeed2.title,Швидке виробництво 2
+loadout.mode.hyperactive.desc,"Чудовиська рухаються набагато швидше, але мають менше здоров’я."
+upgrades.teleporterlightweight.title,Легкий портал
+versus.corruptionstunresistance.title,Опір оглушенню
+loadout.versusmod.versusmodifierpoorirondeposits,Мізерні залізні жили
+level.gameover.prestige.uploading.finalfailed,"завантаження нового рахунку знову невдале, вибачте!"
+modding.currentprofile,(Поточний профіль)
+upgrades.versussendiron.title,Доставка заліза
+loadout.assignment.title,Оберіть своє завдання
+options.keybindings.rebinding,Повторна прив’язка
+upgrades.teslaspeed2.title,Швидкість прицілу 2
+level.tutorial.beastmaster.hole_1,"Утримуйте|, щоб викопати отвір у задній стіні."
+level.tutorial.beastmaster.hole_2,Незабаром з’явиться котоґоблін і з’єднає цей отвір зі своєю системою тунелів.
+upgrades.keeper3shurikenstrength2.title,Масивний сюрикен
+upgrades.versusspycam.desc,Отримайте нову станцію для стеження за куполом суперників.
+loadout.versusmod.versusmodifiershortcycles,Короткі цикли
+options.accessibility.fontsize.large,Велика
+reward.rewardcentralmarker.desc,Позначає центр шахти вертикальною лінією.
+upgrades.shieldstrength3.desc,"Збільшує кількість ушкоджень, яку здатний поглинути бар’єр."
+options.game.movementsnapping,Прив’язка руху до сторін світу
+upgrades.laseraimline.title,Лазерний приціл
+upgrades.converterironduplication.title,Очищення заліза
+upgrades.jetpackspeed4.desc,"Покращує реактивний ранець, для швидшого пересування."
+options.keybindings.gamepad.xbox,Контролер
+upgrades.teslapower1.title,Потужність пострілу 1
+gadget.slot.mineshaft,Центральна шахта
+options.input.controls.keybindings.xbox,Скидання клавіш
+upgrades.autocannonrateoffire2.desc,Ще більше підвищує швидкострільність.
+multiplayer.join.localonly,Пошук виконується лише в локальній мережі. Увімкнути онлайн-мультиплеєр?
+upgrades.keeper3aerialmastery.title,Повітряна майстерність
+upgrades.extractordestruction.desc,"Замість того, щоб чахнути у своїх тунелях, хробаки будуть руйнувати камінь, у який вони прокопали, частково знищуючи камінь навколо."
+properties.shield.battleabilityduration,Тривалість дії здібності {}с
+upgrades.keeper4squad3.desc,Збільшує кількість готоґоблінів у загоні та їхню витривалість.
+level.gameover.prestige.score.rankimproved,Ви підвищили ранг до {rank}.
+options.game.tutorials.noneunlocked,Навчання не розблоковано.
+upgrades.droneyardparasites2.desc,Підвищує ефективність паразитичних дронів.
+loadout.prestige.provocation,Провокація
+network.error.generic,Помилка мережі.
+options.game.ropesnapping,Прив’язка мотузки й індикатора наведення до сторін світу
+upgrades.keeper4catgoblindig1.title,Котоґобліни-копачі
+level.gameover.manualmove,Ручна камера
+upgrades.domesupplementcombatrepair1.desc,"Автоматично лагодить купол один раз на бій при отриманні шкоди, більшої за певне значення. Не використовує кобальт."
+upgrades.prospectionmeterscandelay1.title,Покращена швидкість сканування
+assignment.goaltype,Ціль
+properties.keeper1.speedlosspercarry,Сповільнення з ресурсами {}
+upgrades.extractor.desc,"Вирощує переносних хробаків-екстракторів, спроможних прикріплюватися до покладів заліза та з часом видобувати їх."
+unlock.mapsize.huge,"Успішно завершіть гру на великій мапі, щоб розблокувати."
+upgrades.liftcarrykeeper2.desc,Ліфт прискорює вас ще більше.
+loadout.mapsize.title,Розмір мапи
+loadout.difficulty.hard,Самі напросилися
+upgrades.rocketlauncherdamage1.title,Поліпшені ракети
+versus.corruptionfastmonsters.title,Стрімкі монстри
+multiplayer.host.online.desc,Гравці з усього світу можуть приєднатися.
+upgrades.keeper4speed3.desc,Суттєво збільшує швидкість руху.
+network.error.offline,"З'єднання з мережею було втрачено. Будь ласка, перевірте підключення до мережі."
+level.tutorial.ninja.carry.desc1_1,"Ресурси збираються, якщо проходити над ними."
+upgrades.resourcepackerconstant.desc,"Близька до миттєвої швидкість перезаряджання сприяє майже необмеженому використанню, в додачу до збільшення базового розміру пакунків."
+loadout.versusmod.versusmodifiersecondweapon.desc,"Команди, які мають кілька вартівників, одразу отримують зброю з другої станції."
+assignment.logistics.desc,Гільдія виявила на планеті великі запаси води й вимагає від тебе налагодити логістику.
+properties.shockwave.damage,Ушкодження {}
+pause.gamepadcontrols.back,Назад

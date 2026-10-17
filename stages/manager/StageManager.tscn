@@ -1,0 +1,240 @@
+[gd_scene load_steps=18 format=3 uid="uid://bvy317kyom6xe"]
+
+[ext_resource type="Script" path="res://stages/manager/StageManager.gd" id="1"]
+[ext_resource type="Script" path="res://stages/manager/Overlay.gd" id="2"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="3"]
+[ext_resource type="Texture2D" uid="uid://nsh8sitef3v8" path="res://stages/manager/Stagemanager_glitch_noise.png" id="4"]
+[ext_resource type="PackedScene" uid="uid://cu2jiljxaoox1" path="res://systems/options/GammaAdjust.tscn" id="5"]
+[ext_resource type="Texture2D" uid="uid://nr75wfygpeyv" path="res://white_dot.png" id="6"]
+
+[sub_resource type="Shader" id="1"]
+code = "shader_type canvas_item;
+uniform sampler2D SCREEN_TEXTURE : hint_screen_texture, filter_linear_mipmap;
+
+uniform float screen_resolution_x : hint_range(0, 3840, 1);
+uniform float screen_resolution_y : hint_range(0, 2160, 1);
+uniform float crt_color_strength : hint_range(0, 1) = 1.f;
+uniform vec4 back_light : source_color = vec4(vec3(0.f), 1.f);
+uniform float brightness : hint_range(0, 10);
+uniform float bulge_strength : hint_range(0, .1) = .01;
+
+vec2 distort_uv(vec2 uv) {
+	float x_offset = (1.f - mix(1.f, sin(uv.y * 3.14159), bulge_strength)) * screen_resolution_x / screen_resolution_y;
+	float y_offset = 1.f - mix(1.f, sin(uv.x * 3.14159), bulge_strength);
+	uv.x = mix(-x_offset, 1.f + x_offset, uv.x);
+	uv.y = mix(-y_offset, 1.f + y_offset, uv.y);
+	return uv;
+}
+
+vec3 split_pixel(vec3 color, vec2 uv) {
+	vec2 pixel = uv * vec2(screen_resolution_x, screen_resolution_y);
+	vec2 decimals = mod(pixel, vec2(1.f));
+	float r = sin(clamp(3.f * decimals.x, 0, 1) * 3.14159) * sin(decimals.y * 3.14159);
+	float g = sin(clamp(3.f * decimals.x - 1.f, 0, 1) * 3.14159) * sin(decimals.y * 3.14159);
+	float b = sin(clamp(3.f * decimals.x - 2.f, 0, 1) * 3.14159) * sin(decimals.y * 3.14159);
+	vec3 crt_color = back_light.rgb + color * brightness * vec3(r, g, b);
+	
+	return mix(color, crt_color, crt_color_strength);
+}
+
+void fragment() {
+	vec2 uv = distort_uv(SCREEN_UV);
+	COLOR.rgb = split_pixel(texture(SCREEN_TEXTURE, uv).rgb, uv);
+	if(uv.x > 1.f || uv.x < 0.f || uv.y > 1.f || uv.y < 0.f) {
+		COLOR.rgb = back_light.rgb;
+	}
+}"
+
+[sub_resource type="ShaderMaterial" id="2"]
+shader = SubResource("1")
+shader_parameter/screen_resolution_x = null
+shader_parameter/screen_resolution_y = null
+shader_parameter/crt_color_strength = 1.0
+shader_parameter/back_light = Color(0, 0, 0, 1)
+shader_parameter/brightness = null
+shader_parameter/bulge_strength = 0.01
+
+[sub_resource type="Shader" id="3"]
+code = "shader_type canvas_item;
+
+uniform sampler2D SCREEN_TEXTURE : hint_screen_texture, filter_linear_mipmap;
+uniform sampler2D noise_texture : repeat_enable;
+uniform float displacement_strength : hint_range(0, 0.2) = 0.01f;
+uniform float noise_offset : hint_range(0, 1) = 0.f;
+
+void fragment() {
+	vec2 uv = SCREEN_UV;
+	float noise_a = texture(noise_texture, vec2(mod(noise_offset, 1), uv.y)).r;
+	float noise_b = texture(noise_texture, vec2(mod(noise_offset + .5, 1), -uv.y)).r;
+	float noise = smoothstep(noise_a, .4, .6) - smoothstep(noise_b, .4, .6);
+	uv.x += noise * displacement_strength;
+	COLOR = texture(SCREEN_TEXTURE, uv);
+	COLOR.rgb += .3f * vec3(clamp(noise, 0.f, 1.f));
+}"
+
+[sub_resource type="ShaderMaterial" id="6"]
+shader = SubResource("3")
+shader_parameter/displacement_strength = 0.01
+shader_parameter/noise_offset = 0.0
+shader_parameter/noise_texture = ExtResource("4")
+
+[sub_resource type="Animation" id="Animation_ktwle"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:material:shader_parameter/noise_offset")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [0.0]
+}
+
+[sub_resource type="Animation" id="7"]
+length = 2.0
+loop_mode = 1
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:material:shader_parameter/noise_offset")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 2),
+"transitions": PackedFloat32Array(1, 1),
+"update": 0,
+"values": [0.0, 1.0]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_q8x7h"]
+_data = {
+"RESET": SubResource("Animation_ktwle"),
+"glitch": SubResource("7")
+}
+
+[sub_resource type="Animation" id="10"]
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:visible")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 0.1, 0.4, 0.5, 0.9, 1),
+"transitions": PackedFloat32Array(1, 1, 1, 1, 1, 1),
+"update": 1,
+"values": [true, false, true, false, true, false]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_mwet2"]
+_data = {
+"flicker": SubResource("10")
+}
+
+[sub_resource type="Shader" id="14"]
+code = "shader_type canvas_item;
+
+uniform sampler2D SCREEN_TEXTURE : hint_screen_texture, filter_linear_mipmap;
+uniform float hue_shift : hint_range(0, 1) = 0.0;
+uniform float saturation_shift : hint_range(-1, 1) = 0.0;
+uniform float value_shift : hint_range(-1, 1) = 0.0;
+
+// RGB<->HSV conversions by Sam Hocevar
+// Public domain license
+// https://stackoverflow.com/posts/17897228/revisions
+vec3 rgb2hsv(vec3 c) {
+	vec4 K = vec4(0.0, -1.0 / 3.0, 2.0 / 3.0, -1.0);
+	vec4 p = mix(vec4(c.bg, K.wz), vec4(c.gb, K.xy), step(c.b, c.g));
+	vec4 q = mix(vec4(p.xyw, c.r), vec4(c.r, p.yzx), step(p.x, c.r));
+
+	float d = q.x - min(q.w, q.y);
+	float e = 1.0e-10;
+	return vec3(abs(q.z + (q.w - q.y) / (6.0 * d + e)), d / (q.x + e), q.x);
+}
+
+vec3 hsv2rgb(vec3 c) {
+	vec4 K = vec4(1.0, 2.0 / 3.0, 1.0 / 3.0, 3.0);
+	vec3 p = abs(fract(c.xxx + K.xyz) * 6.0 - K.www);
+	return c.z * mix(K.xxx, clamp(p - K.xxx, 0.0, 1.0), c.y);
+}
+
+void fragment() {
+	vec4 c = texture(SCREEN_TEXTURE, SCREEN_UV);
+	vec3 hsv = rgb2hsv(c.rgb);
+	hsv.r += hue_shift;
+	hsv.g = clamp(hsv.g + saturation_shift, 0.0, 1.0);
+	hsv.b = clamp(hsv.b + value_shift, 0.0, 1.0);
+	c.rgb = hsv2rgb(hsv);
+	COLOR = c;
+}"
+
+[sub_resource type="ShaderMaterial" id="15"]
+shader = SubResource("14")
+shader_parameter/hue_shift = 0.0
+shader_parameter/saturation_shift = 0.0
+shader_parameter/value_shift = 0.0
+
+[node name="StageManager" type="Node"]
+process_mode = 3
+script = ExtResource("1")
+
+[node name="Canvas" type="CanvasLayer" parent="."]
+layer = 10
+
+[node name="ScreenOverlay" type="ColorRect" parent="Canvas"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+mouse_filter = 2
+color = Color(1, 1, 1, 0)
+script = ExtResource("2")
+
+[node name="Tween" parent="Canvas/ScreenOverlay" instance=ExtResource("3")]
+
+[node name="CRT" type="ColorRect" parent="Canvas"]
+visible = false
+material = SubResource("2")
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Glitch" type="ColorRect" parent="Canvas"]
+visible = false
+material = SubResource("6")
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Canvas/Glitch"]
+libraries = {
+"": SubResource("AnimationLibrary_q8x7h")
+}
+autoplay = "glitch"
+
+[node name="ScreenFlicker" type="ColorRect" parent="Canvas"]
+visible = false
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color(0, 0, 0, 0.815686)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Canvas/ScreenFlicker"]
+libraries = {
+"": SubResource("AnimationLibrary_mwet2")
+}
+
+[node name="GammaAdjust" parent="Canvas" instance=ExtResource("5")]
+
+[node name="PausedStages" type="Node" parent="."]
+
+[node name="PaletteSwap" type="Sprite2D" parent="."]
+visible = false
+z_index = 1000
+texture_filter = 1
+material = SubResource("15")
+position = Vector2(1174, 713)
+scale = Vector2(2114, 1261)
+texture = ExtResource("6")

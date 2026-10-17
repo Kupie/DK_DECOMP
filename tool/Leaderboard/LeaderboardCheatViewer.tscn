@@ -1,0 +1,244 @@
+[gd_scene load_steps=7 format=3 uid="uid://d1iuh06luc7fd"]
+
+[ext_resource type="Theme" uid="uid://bo0ebvm7ocab1" path="res://gui/theme.tres" id="1"]
+[ext_resource type="Script" path="res://tool/Leaderboard/Cleaner.gd" id="2"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_0m0pt"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_x6x51"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_ia3y7"]
+
+[sub_resource type="ButtonGroup" id="ButtonGroup_dnt5v"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme = ExtResource("1")
+script = ExtResource("2")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="PanelContainer" type="PanelContainer" parent="MarginContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/PanelContainer"]
+layout_mode = 2
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="HBoxContainer3" type="HBoxContainer" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="ButtonUpdate" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3"]
+layout_mode = 2
+focus_mode = 0
+text = "update"
+
+[node name="ButtonPrestige" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_0m0pt")
+text = "prestige"
+
+[node name="ButtonPrestige2" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_0m0pt")
+text = "cobalt"
+
+[node name="ButtonPrestige3" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_0m0pt")
+text = "countdown"
+
+[node name="ButtonPrestige4" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_0m0pt")
+text = "miner"
+
+[node name="ButtonPrestige6" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_0m0pt")
+text = "provocation"
+
+[node name="ButtonPrestige5" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_0m0pt")
+text = "cheated"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="ButtonSingle" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_pressed = true
+button_group = SubResource("ButtonGroup_x6x51")
+text = "singleplayer"
+
+[node name="ButtonMulti" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_x6x51")
+text = "multiplayer"
+
+[node name="ButtonGlobal" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_pressed = true
+button_group = SubResource("ButtonGroup_ia3y7")
+text = "global"
+
+[node name="ButtonFriendly" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+focus_mode = 0
+toggle_mode = true
+button_group = SubResource("ButtonGroup_ia3y7")
+text = "friendly"
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 6
+size_flags_vertical = 0
+
+[node name="ButtonBack10" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = "<<<"
+
+[node name="ButtonBack" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer"]
+layout_mode = 2
+focus_mode = 0
+text = "<"
+
+[node name="LabelPage" type="Label" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer"]
+layout_mode = 2
+
+[node name="ButtonForward" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer"]
+layout_mode = 2
+focus_mode = 0
+text = ">"
+
+[node name="ButtonForward10" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer"]
+layout_mode = 2
+text = ">>>"
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 0
+
+[node name="ButtonSeason1" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_dnt5v")
+text = "S1"
+
+[node name="ButtonSeason2" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_dnt5v")
+text = "S2"
+
+[node name="ButtonSeason3" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_dnt5v")
+text = "S3"
+
+[node name="ButtonSeason4" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_dnt5v")
+text = "S4"
+
+[node name="ButtonSeason5" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_dnt5v")
+text = "S5"
+
+[node name="ButtonSeason6" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_dnt5v")
+text = "S6"
+
+[node name="ButtonSeason7" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_dnt5v")
+text = "S7"
+
+[node name="ButtonSeason8" type="Button" parent="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2"]
+layout_mode = 2
+toggle_mode = true
+button_group = SubResource("ButtonGroup_dnt5v")
+text = "S8"
+
+[node name="ScrollContainer" type="ScrollContainer" parent="MarginContainer/PanelContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="MarginContainer" type="MarginContainer" parent="MarginContainer/PanelContainer/VBoxContainer/ScrollContainer"]
+layout_mode = 2
+
+[node name="GlobalLeaderboardContainer" type="GridContainer" parent="MarginContainer/PanelContainer/VBoxContainer/ScrollContainer/MarginContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+theme_override_constants/h_separation = 40
+theme_override_constants/v_separation = 5
+columns = 10
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3/ButtonUpdate" to="." method="_on_ButtonUpdate_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3/ButtonPrestige" to="." method="_on_ButtonPrestige_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3/ButtonPrestige2" to="." method="_on_ButtonPrestige2_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3/ButtonPrestige3" to="." method="_on_ButtonPrestige3_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3/ButtonPrestige4" to="." method="_on_ButtonPrestige4_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3/ButtonPrestige6" to="." method="_on_button_prestige_6_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer3/ButtonPrestige5" to="." method="_on_ButtonPrestige5_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer/ButtonSingle" to="." method="_on_button_single_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer/ButtonMulti" to="." method="_on_button_multi_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer/ButtonGlobal" to="." method="_on_button_global_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/VBoxContainer/HBoxContainer/ButtonFriendly" to="." method="_on_button_friendly_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer/ButtonBack10" to="." method="_on_ButtonBack10_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer/ButtonBack" to="." method="_on_ButtonBack_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer/ButtonForward" to="." method="_on_ButtonForward_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer/ButtonForward10" to="." method="_on_ButtonForward10_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2/ButtonSeason1" to="." method="_on_ButtonSeason1_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2/ButtonSeason2" to="." method="_on_ButtonSeason2_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2/ButtonSeason3" to="." method="_on_ButtonSeason3_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2/ButtonSeason4" to="." method="_on_ButtonSeason4_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2/ButtonSeason5" to="." method="_on_ButtonSeason5_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2/ButtonSeason6" to="." method="_on_button_season_6_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2/ButtonSeason7" to="." method="_on_button_season_7_pressed"]
+[connection signal="pressed" from="MarginContainer/PanelContainer/VBoxContainer/HBoxContainer/HBoxContainer2/ButtonSeason8" to="." method="_on_button_season_8_pressed"]

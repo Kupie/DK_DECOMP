@@ -1,0 +1,341 @@
+[gd_scene load_steps=46 format=3 uid="uid://ddspn76g7tspa"]
+
+[ext_resource type="Script" path="res://content/gadgets/furnace/FurnaceChimney.gd" id="1"]
+[ext_resource type="Texture2D" uid="uid://pvqa462pdos5" path="res://content/gadgets/furnace/furnace_pumpani_back_sheet.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://c7sqlyxi0hxga" path="res://content/drop/water/water_smol.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://rasmosh8h0qm" path="res://content/drop/iron/iron_smol.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://doqontjsl2s3s" path="res://content/gadgets/furnace/furnace_front.png" id="5"]
+[ext_resource type="Material" uid="uid://2uk56nbuqu0v" path="res://content/gadgets/furnace/CanvasItemMaterialInvertedAni.tres" id="6"]
+[ext_resource type="Texture2D" uid="uid://ucgt25ybc1ma" path="res://content/shared/smoke_particles_white.png" id="7"]
+[ext_resource type="Texture2D" uid="uid://cflnigtmjmyqg" path="res://content/shared/particle_1px_offset.png" id="8"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="9"]
+[ext_resource type="AudioStream" uid="uid://bfwo2ou6ialxb" path="res://content/sounds/Locations/RocketLauncher/rocket_shoot_02.wav" id="10"]
+[ext_resource type="AudioStream" uid="uid://c7ri13w57lqui" path="res://content/sounds/carryline-break.wav" id="11"]
+[ext_resource type="AudioStream" uid="uid://de0eono6dfrhr" path="res://content/sounds/Locations/Furnace/WaterBoil.wav" id="12"]
+[ext_resource type="AudioStream" uid="uid://ntctkdrsfwo0" path="res://content/sounds/Locations/Furnace/MGB_machine24.wav" id="13"]
+[ext_resource type="AudioStream" uid="uid://bk5mgjisvxacp" path="res://content/sounds/Locations/Furnace/MetalBoil.wav" id="14"]
+
+[sub_resource type="FastNoiseLite" id="FastNoiseLite_nxx4v"]
+noise_type = 0
+fractal_type = 0
+
+[sub_resource type="FastNoiseLite" id="FastNoiseLite_yqvu8"]
+noise_type = 0
+frequency = 1.0
+fractal_type = 0
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_g460v"]
+atlas = ExtResource("2")
+region = Rect2(0, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_t0qof"]
+atlas = ExtResource("2")
+region = Rect2(56, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_5c2n8"]
+atlas = ExtResource("2")
+region = Rect2(112, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_gyhua"]
+atlas = ExtResource("2")
+region = Rect2(168, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_a1v42"]
+atlas = ExtResource("2")
+region = Rect2(224, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7p2sa"]
+atlas = ExtResource("2")
+region = Rect2(280, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_qxmtn"]
+atlas = ExtResource("2")
+region = Rect2(336, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tqjvq"]
+atlas = ExtResource("2")
+region = Rect2(392, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ybt1v"]
+atlas = ExtResource("2")
+region = Rect2(448, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_bb8jh"]
+atlas = ExtResource("2")
+region = Rect2(504, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_7bmra"]
+atlas = ExtResource("2")
+region = Rect2(560, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_ejevp"]
+atlas = ExtResource("2")
+region = Rect2(616, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nkn0d"]
+atlas = ExtResource("2")
+region = Rect2(672, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_rk7o0"]
+atlas = ExtResource("2")
+region = Rect2(728, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_s441k"]
+atlas = ExtResource("2")
+region = Rect2(784, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_g4jt6"]
+atlas = ExtResource("2")
+region = Rect2(840, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nggyd"]
+atlas = ExtResource("2")
+region = Rect2(896, 0, 56, 50)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_rrovo"]
+atlas = ExtResource("2")
+region = Rect2(952, 0, 56, 50)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_5tcgv"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_g460v")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_t0qof")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_5c2n8")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_gyhua")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_a1v42")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_7p2sa")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_qxmtn")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_tqjvq")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ybt1v")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_bb8jh")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_7bmra")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_ejevp")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nkn0d")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_rk7o0")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_s441k")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_g4jt6")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nggyd")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_rrovo")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_etn5x"]
+blend_mode = 1
+
+[sub_resource type="Gradient" id="Gradient_5cl8j"]
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_71da7"]
+gradient = SubResource("Gradient_5cl8j")
+
+[sub_resource type="Curve" id="Curve_y0jwt"]
+_data = [Vector2(0, 0.131868), 0.0, 0.0, 0, 0, Vector2(0.281967, 0.43956), 0.0, 0.0, 0, 0, Vector2(0.472131, 0.450549), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
+point_count = 4
+
+[sub_resource type="CurveTexture" id="CurveTexture_tvt6f"]
+curve = SubResource("Curve_y0jwt")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_2jyb2"]
+particle_flag_disable_z = true
+emission_shape_scale = Vector3(100, 100, 100)
+angle_max = 360.0
+direction = Vector3(0, -1, 0)
+spread = 0.0
+initial_velocity_min = 50.0
+initial_velocity_max = 50.0
+angular_velocity_min = -200.0
+angular_velocity_max = 200.0
+gravity = Vector3(40, -50, 0)
+damping_min = 50.0
+damping_max = 50.0
+scale_min = 0.5
+scale_max = 2.0
+color = Color(0.724643, 0.724642, 0.724643, 1)
+alpha_curve = SubResource("CurveTexture_tvt6f")
+anim_speed_min = 1.5
+anim_speed_max = 1.5
+
+[sub_resource type="Curve" id="Curve_86j2f"]
+_data = [Vector2(0, 0), 0.0, 5.14197, 0, 0, Vector2(0.161215, 1), 0.0, 0.0, 0, 0, Vector2(1, 0), 0.0, 0.0, 0, 0]
+point_count = 3
+
+[sub_resource type="CurveTexture" id="CurveTexture_q6g8v"]
+curve = SubResource("Curve_86j2f")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_26n76"]
+lifetime_randomness = 0.8
+particle_flag_disable_z = true
+angle_max = 360.0
+direction = Vector3(0, -10, 0)
+spread = 40.0
+initial_velocity_min = 6.0
+initial_velocity_max = 60.0
+angular_velocity_min = -800.0
+angular_velocity_max = 800.0
+gravity = Vector3(0, 20, 0)
+color = Color(0.496327, 0.65867, 1, 1)
+alpha_curve = SubResource("CurveTexture_q6g8v")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_80617"]
+lifetime_randomness = 0.8
+particle_flag_disable_z = true
+angle_max = 360.0
+direction = Vector3(0, -10, 0)
+spread = 40.0
+initial_velocity_min = 6.0
+initial_velocity_max = 60.0
+angular_velocity_min = -800.0
+angular_velocity_max = 800.0
+gravity = Vector3(0, 20, 0)
+color = Color(1, 0.764311, 0.552201, 1)
+alpha_curve = SubResource("CurveTexture_q6g8v")
+
+[node name="FurnaceChimney" type="Node2D"]
+z_index = -10
+texture_filter = 1
+script = ExtResource("1")
+wind_dir = SubResource("FastNoiseLite_nxx4v")
+wind_dir2 = SubResource("FastNoiseLite_yqvu8")
+
+[node name="SpriteBack" type="AnimatedSprite2D" parent="."]
+position = Vector2(19, -21)
+sprite_frames = SubResource("SpriteFrames_5tcgv")
+frame = 6
+frame_progress = 0.692742
+
+[node name="Spritewater" type="Sprite2D" parent="."]
+self_modulate = Color(0.595828, 0.595828, 0.595828, 1)
+position = Vector2(2, -16)
+texture = ExtResource("3")
+
+[node name="Spriteiron" type="Sprite2D" parent="."]
+self_modulate = Color(0.595828, 0.595828, 0.595828, 1)
+position = Vector2(20, -13)
+texture = ExtResource("4")
+
+[node name="fx_burn" type="Sprite2D" parent="."]
+visible = false
+material = SubResource("CanvasItemMaterial_etn5x")
+position = Vector2(9.29375, -23.6846)
+rotation = 1.57766
+scale = Vector2(0.633477, 0.726932)
+texture = SubResource("GradientTexture2D_71da7")
+
+[node name="SpriteFront" type="Sprite2D" parent="."]
+position = Vector2(13, -17)
+texture = ExtResource("5")
+
+[node name="ParticlesSmoke" type="GPUParticles2D" parent="."]
+material = ExtResource("6")
+position = Vector2(18, -46)
+amount = 25
+process_material = SubResource("ParticleProcessMaterial_2jyb2")
+texture = ExtResource("7")
+lifetime = 3.0
+
+[node name="Particles_ExpWater" type="GPUParticles2D" parent="."]
+position = Vector2(19, -46)
+emitting = false
+amount = 5
+process_material = SubResource("ParticleProcessMaterial_26n76")
+texture = ExtResource("8")
+lifetime = 2.0
+explosiveness = 1.0
+
+[node name="Particles_ExpIron" type="GPUParticles2D" parent="."]
+position = Vector2(19, -46)
+emitting = false
+amount = 5
+process_material = SubResource("ParticleProcessMaterial_80617")
+texture = ExtResource("8")
+lifetime = 2.0
+explosiveness = 1.0
+
+[node name="IgniteSound" parent="." instance=ExtResource("9")]
+volume_db = -10.655
+pitch_scale = 0.65
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 30.0
+streams = [ExtResource("10")]
+
+[node name="ExtinguishSound" parent="." instance=ExtResource("9")]
+volume_db = 5.193
+pitch_scale = 1.22
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 30.0
+streams = [ExtResource("11")]
+
+[node name="FireLoopSound" parent="." instance=ExtResource("9")]
+stream = ExtResource("12")
+volume_db = -7.496
+pitch_scale = 1.22
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 30.0
+loop = true
+
+[node name="SmokeSound" parent="." instance=ExtResource("9")]
+stream = ExtResource("13")
+volume_db = -31.761
+pitch_scale = 0.58
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 60.0
+loop = true
+
+[node name="WaterLoopSound" parent="." instance=ExtResource("9")]
+stream = ExtResource("14")
+volume_db = -7.0
+pitch_scale = 1.22
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 100.0
+minAudibleDistance = 30.0
+loop = true

@@ -1,0 +1,13 @@
+[gd_resource type="StyleBoxTexture" load_steps=2 format=3 uid="uid://bdmhd1nskw73p"]
+
+[ext_resource type="Texture2D" uid="uid://dq2kd2unm1ipk" path="res://gui/sliders/slider_ver.png" id="1"]
+
+[resource]
+texture = ExtResource("1")
+texture_margin_left = 8.0
+texture_margin_top = 12.0
+texture_margin_right = 8.0
+texture_margin_bottom = 12.0
+expand_margin_left = 3.0
+expand_margin_right = 3.0
+region_rect = Rect2(0, 0, 20, 56)

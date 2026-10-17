@@ -1,0 +1,236 @@
+[gd_scene load_steps=31 format=3 uid="uid://dpeh6uaic5vnh"]
+
+[ext_resource type="Script" path="res://content/gadgets/repellent/Repellent.gd" id="1"]
+[ext_resource type="SpriteFrames" uid="uid://3k4n0rwh25ny" path="res://content/gadgets/repellent/Repellent_frames.tres" id="2"]
+[ext_resource type="Texture2D" uid="uid://k1ll5n71j2q0" path="res://content/gadgets/repellent/dome4/fluid_dome4.png" id="3"]
+[ext_resource type="SpriteFrames" uid="uid://bpb08mjtjhf3f" path="res://content/gadgets/repellent/Repellent_Spinner_frames.tres" id="4"]
+[ext_resource type="SpriteFrames" uid="uid://cpj2rhbbcmgwv" path="res://content/gadgets/repellent/Repellent_Cloud_frames.tres" id="5"]
+[ext_resource type="SpriteFrames" uid="uid://1q4y0wiragou" path="res://content/gadgets/repellent/Repellent_Overcharge_frames.tres" id="6"]
+[ext_resource type="PackedScene" uid="uid://cal1wf2f0kx7b" path="res://systems/deprecatedtween/DeprecatedTween.tscn" id="7"]
+[ext_resource type="PackedScene" uid="uid://fl5e4x7lb4px" path="res://systems/audio/Sound.tscn" id="8"]
+[ext_resource type="AudioStream" uid="uid://breqoyd13eq0p" path="res://content/sounds/Locations/Repellent/Repellent.wav" id="9"]
+[ext_resource type="PackedScene" uid="uid://02emll07tpim" path="res://content/shared/Usable.tscn" id="10"]
+[ext_resource type="AudioStream" uid="uid://daovwoq2fcf1t" path="res://content/sounds/Bastards/impact.wav" id="11"]
+[ext_resource type="AudioStream" uid="uid://cbl4l6qes271i" path="res://content/sounds/UI/Error.wav" id="12"]
+[ext_resource type="Texture2D" uid="uid://bm6ydi3c0qy4e" path="res://content/gadgets/repellent/particle1.png" id="13"]
+[ext_resource type="Texture2D" uid="uid://dtojcuvgl3gb5" path="res://content/gadgets/repellent/particle2.png" id="14"]
+[ext_resource type="AudioStream" uid="uid://da3iynljh4g4b" path="res://content/sounds/Locations/Repellent/smallboatEnginebetter3.wav" id="15"]
+[ext_resource type="AudioStream" uid="uid://csqcj3y7ucmyd" path="res://content/sounds/Locations/Repellent/Debilitate.mp3" id="16"]
+[ext_resource type="AudioStream" uid="uid://drwfm8u0npkff" path="res://content/sounds/Locations/Repellent/Wither.mp3" id="17"]
+[ext_resource type="AudioStream" uid="uid://dj33hq7hnguf2" path="res://content/sounds/Bastards/dome2.wav" id="18"]
+[ext_resource type="AudioStream" uid="uid://beawojp7cvwhm" path="res://content/sounds/Locations/Repellent/Repellantready.mp3" id="19"]
+[ext_resource type="AudioStream" uid="uid://csmhb5uhiq2s7" path="res://content/sounds/Bastards/machine2.wav" id="20"]
+[ext_resource type="Script" path="res://systems/network/Synchronizer.gd" id="21"]
+
+[sub_resource type="Gradient" id="106"]
+offsets = PackedFloat32Array(0, 0.202677, 0.713193, 1)
+colors = PackedColorArray(0.12549, 0.160784, 0.470588, 0, 0.12549, 0.160784, 0.470588, 1, 0.219608, 0.298039, 0.470588, 1, 0.219608, 0.298039, 0.470588, 0)
+
+[sub_resource type="GradientTexture2D" id="107"]
+gradient = SubResource("106")
+
+[sub_resource type="ParticleProcessMaterial" id="108"]
+lifetime_randomness = 0.75
+particle_flag_disable_z = true
+emission_shape = 3
+emission_box_extents = Vector3(3, 6, 1)
+direction = Vector3(0, -1, 0)
+spread = 1.0
+initial_velocity_min = 1.56
+initial_velocity_max = 2.0
+gravity = Vector3(0, 0, 0)
+color_ramp = SubResource("107")
+
+[sub_resource type="Gradient" id="134"]
+offsets = PackedFloat32Array(0, 0.104167, 0.479167, 0.898148, 1)
+colors = PackedColorArray(1, 1, 1, 0, 0.0627451, 0.207843, 0, 0.756863, 0.0627451, 0.207843, 0, 0.27451, 0.0627451, 0.207843, 0, 0.741176, 1, 1, 1, 0)
+
+[sub_resource type="GradientTexture2D" id="41"]
+gradient = SubResource("134")
+
+[sub_resource type="Curve" id="135"]
+_data = [Vector2(0, 0.0261043), 0.0, 3.88732, 0, 0, Vector2(1, 0), -5.68343, 0.0, 0, 0]
+point_count = 2
+
+[sub_resource type="CurveTexture" id="39"]
+curve = SubResource("135")
+
+[sub_resource type="ParticleProcessMaterial" id="136"]
+lifetime_randomness = 0.4
+particle_flag_disable_z = true
+emission_shape = 3
+emission_box_extents = Vector3(500, 250, 1)
+direction = Vector3(0, -1, 0)
+spread = 31.56
+initial_velocity_min = 10.0
+initial_velocity_max = 10.0
+angular_velocity_min = -100.0
+angular_velocity_max = 100.0
+gravity = Vector3(0, -2, 0)
+scale_curve = SubResource("39")
+color_ramp = SubResource("41")
+
+[sub_resource type="ParticleProcessMaterial" id="137"]
+lifetime_randomness = 0.4
+particle_flag_align_y = true
+particle_flag_disable_z = true
+emission_shape = 3
+emission_box_extents = Vector3(500, 250, 1)
+direction = Vector3(0, -1, 0)
+spread = 44.81
+initial_velocity_max = 566.58
+angular_velocity_min = -100.0
+angular_velocity_max = 100.0
+gravity = Vector3(0, -2, 0)
+scale_curve = SubResource("39")
+color_ramp = SubResource("41")
+
+[node name="Repellent" type="Node2D" node_paths=PackedStringArray("synchronizer") groups=["overchargable", "pauseL", "saveable"]]
+texture_filter = 1
+script = ExtResource("1")
+synchronizer = NodePath("Synchronizer")
+
+[node name="Sprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(-4, -12)
+sprite_frames = ExtResource("2")
+animation = &"empty_dome1"
+
+[node name="Filling" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(3, -18)
+texture = ExtResource("3")
+
+[node name="BubbleParticles" type="GPUParticles2D" parent="Filling"]
+position = Vector2(1.5, 5)
+amount = 16
+process_material = SubResource("108")
+lifetime = 5.0
+
+[node name="Spinner" type="AnimatedSprite2D" parent="."]
+position = Vector2(-3, -20)
+sprite_frames = ExtResource("4")
+frame = 8
+
+[node name="Cloud" type="AnimatedSprite2D" parent="."]
+position = Vector2(-13, -14)
+sprite_frames = ExtResource("5")
+animation = &"spray"
+
+[node name="Overcharge" type="AnimatedSprite2D" parent="."]
+position = Vector2(-3, -10)
+sprite_frames = ExtResource("6")
+animation = &"3"
+frame = 6
+
+[node name="Tween" parent="." instance=ExtResource("7")]
+
+[node name="ReleaseSound" parent="." instance=ExtResource("8")]
+stream = ExtResource("9")
+volume_db = 0.305
+pitch_scale = 0.82
+bus = &"Sounds"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="Usable" parent="." instance=ExtResource("10")]
+position = Vector2(-2, -8)
+
+[node name="OverchargeSound" parent="." instance=ExtResource("8")]
+stream = ExtResource("11")
+volume_db = -5.681
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 240.0
+minAudibleDistance = 60.0
+
+[node name="NoOverchargeSound" parent="." instance=ExtResource("8")]
+stream = ExtResource("12")
+pitch_scale = 2.0
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="AbilityTween" parent="." instance=ExtResource("7")]
+
+[node name="FullScreenMist1Particles" type="GPUParticles2D" parent="."]
+modulate = Color(1, 1, 1, 0.529412)
+z_index = -102
+position = Vector2(12, -223)
+emitting = false
+amount = 1000
+process_material = SubResource("136")
+texture = ExtResource("13")
+lifetime = 2.0
+visibility_rect = Rect2(-100, -100, 200, 600)
+
+[node name="FullScreenMist2Particles" type="GPUParticles2D" parent="."]
+z_index = -102
+position = Vector2(12, -223)
+emitting = false
+amount = 400
+process_material = SubResource("137")
+texture = ExtResource("14")
+lifetime = 0.6
+visibility_rect = Rect2(-100, -100, 200, 600)
+
+[node name="RepellentActiveSound" parent="." instance=ExtResource("8")]
+stream = ExtResource("15")
+volume_db = -8.201
+pitch_scale = 0.99
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+loop = true
+
+[node name="DebilitateSound" parent="." instance=ExtResource("8")]
+stream = ExtResource("16")
+volume_db = -3.395
+pitch_scale = 0.88
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="WitherSound" parent="." instance=ExtResource("8")]
+stream = ExtResource("17")
+volume_db = -3.395
+pitch_scale = 0.88
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+
+[node name="RepellentCharging" parent="." instance=ExtResource("8")]
+stream = ExtResource("18")
+volume_db = -18.252
+pitch_scale = 0.38
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 40.0
+minAudibleDistance = 20.0
+loop = true
+
+[node name="RepellentReadySound" parent="." instance=ExtResource("8")]
+stream = ExtResource("19")
+volume_db = -0.437
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 240.0
+minAudibleDistance = 60.0
+
+[node name="OverchargeAmbienceSound" parent="." instance=ExtResource("8")]
+stream = ExtResource("20")
+volume_db = -9.614
+bus = &"Dome"
+randomVolume = 0.0
+randomPitch = 0.0
+maxAudibleDistance = 70.0
+minAudibleDistance = 20.0
+loop = true
+
+[node name="Synchronizer" type="Node" parent="."]
+script = ExtResource("21")
+target_connection_states = [3, 6]
+
+[connection signal="animation_finished" from="Cloud" to="." method="_on_Cloud_animation_finished"]
